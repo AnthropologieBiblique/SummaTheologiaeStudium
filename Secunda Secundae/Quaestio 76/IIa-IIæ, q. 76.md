@@ -1,0 +1,20 @@
+---
+tags : 
+- Summa/IIa-IIæ/q.76
+---
+
+## Quaestio 76
+
+### Prooemium
+
+![[LEO IIa-IIæ, q. 76#Prooemium|Deinde considerandum est de maledictione. Et circa hoc quaeruntur quatuor. Primo, utrum licite possit aliquis maledicere homini. Secundo, utrum licite possit aliquis maledicere irrationali creaturae. Tertio, utrum maledictio sit peccatum mortale. Quarto, de comparatione eius ad alia peccata.]]
+![[CERF IIa-IIæ, q. 76#Prooemium]]
+
+![[IIa-IIæ, q. 76, a. 1#Articulus 1]]
+
+![[IIa-IIæ, q. 76, a. 2#Articulus 2]]
+
+![[IIa-IIæ, q. 76, a. 3#Articulus 3]]
+
+![[IIa-IIæ, q. 76, a. 4#Articulus 4]]
+
