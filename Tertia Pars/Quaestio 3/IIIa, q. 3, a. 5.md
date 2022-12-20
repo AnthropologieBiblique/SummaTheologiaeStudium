@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 3, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 3, a. 5#arg. 2|Praeterea, per incarnationem divinam homines sunt assecuti adoptionem filiorum, secundum illud [[Rm 8]], *non accepistis spiritum servitutis iterum in timore, sed spiritum adoptionis filiorum*. Sed filiatio adoptiva est participata similitudo filiationis naturalis, quae non convenit nec patri nec spiritui sancto, unde dicitur [[Rm 8]], *quos praescivit et praedestinavit conformes fieri imaginis filii sui*. Ergo videtur quod nulla alia persona potuit incarnari praeter personam filii.]]
+![[LEO IIIa, q. 3, a. 5#arg. 2|Praeterea, per incarnationem divinam homines sunt assecuti adoptionem filiorum, secundum illud Rom. VIII, *non accepistis spiritum servitutis iterum in timore, sed spiritum adoptionis filiorum*. Sed filiatio adoptiva est participata similitudo filiationis naturalis, quae non convenit nec patri nec spiritui sancto, unde dicitur Rom. VIII, *quos praescivit et praedestinavit conformes fieri imaginis filii sui*. Ergo videtur quod nulla alia persona potuit incarnari praeter personam filii.]]
 ![[CERF IIIa, q. 3, a. 5#arg. 2]]
 
 ###### arg. 3

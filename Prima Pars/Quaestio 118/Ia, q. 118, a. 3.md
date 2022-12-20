@@ -6,11 +6,11 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia, q. 118, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod animae humanae fuerint creatae simul a principio mundi. Dicitur enim [[Gn 2]], *requievit Deus ab omni opere quod patrarat*. Hoc autem non esset, si quotidie novas animas crearet. Ergo omnes animae sunt simul creatae.]]
+![[LEO Ia, q. 118, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod animae humanae fuerint creatae simul a principio mundi. Dicitur enim Gen. II, *requievit Deus ab omni opere quod patrarat*. Hoc autem non esset, si quotidie novas animas crearet. Ergo omnes animae sunt simul creatae.]]
 ![[CERF Ia, q. 118, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 118, a. 3#arg. 2|Praeterea, ad perfectionem universi maxime pertinent substantiae spirituales. Si igitur animae simul crearentur cum corporibus, quotidie innumerabiles spirituales substantiae perfectioni universi adderentur, et sic universum a principio fuisset imperfectum. Quod est contra illud quod dicitur [[Gn 2]], *Deum omne opus suum complesse*.]]
+![[LEO Ia, q. 118, a. 3#arg. 2|Praeterea, ad perfectionem universi maxime pertinent substantiae spirituales. Si igitur animae simul crearentur cum corporibus, quotidie innumerabiles spirituales substantiae perfectioni universi adderentur, et sic universum a principio fuisset imperfectum. Quod est contra illud quod dicitur Gen. II, *Deum omne opus suum complesse*.]]
 ![[CERF Ia, q. 118, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 118, a. 3#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 118, a. 3#ad 1|Ad primum ergo dicendum quod Deus dicitur cessasse die septimo, non quidem ab omni opere, cum dicatur [[Jn 5]], *pater meus usque modo operatur*; sed a novis rerum generibus et speciebus condendis, quae in operibus primis non aliquo modo praeextiterint. Sic enim animae quae nunc creantur, praeextiterunt secundum similitudinem speciei in primis operibus, in quibus anima Adae creata fuit.]]
+![[LEO Ia, q. 118, a. 3#ad 1|Ad primum ergo dicendum quod Deus dicitur cessasse die septimo, non quidem ab omni opere, cum dicatur Ioan. V, *pater meus usque modo operatur*; sed a novis rerum generibus et speciebus condendis, quae in operibus primis non aliquo modo praeextiterint. Sic enim animae quae nunc creantur, praeextiterunt secundum similitudinem speciei in primis operibus, in quibus anima Adae creata fuit.]]
 ![[CERF Ia, q. 118, a. 3#ad 1]]
 
 ###### ad 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia, q. 118, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO Ia, q. 118, a. 3#ad 3|Ad tertium dicendum quod hoc quod anima remanet sine corpore, contingit per corporis corruptionem, quae consecuta est ex peccato. Unde non fuit conveniens quod ab hoc inciperent Dei opera, quia, sicut scriptum est [[Sg 1]], *Deus mortem non fecit, sed impii manibus et verbis accersierunt eam*.]]
+![[LEO Ia, q. 118, a. 3#ad 3|Ad tertium dicendum quod hoc quod anima remanet sine corpore, contingit per corporis corruptionem, quae consecuta est ex peccato. Unde non fuit conveniens quod ab hoc inciperent Dei opera, quia, sicut scriptum est Sap. I, *Deus mortem non fecit, sed impii manibus et verbis accersierunt eam*.]]
 ![[CERF Ia, q. 118, a. 3#ad 3]]
 

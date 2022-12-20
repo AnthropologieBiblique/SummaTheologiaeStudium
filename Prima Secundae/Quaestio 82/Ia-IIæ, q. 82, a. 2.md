@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 82, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 82, a. 2#s.c.|Sed contra est quod dicitur [[Jn 1]], *ecce agnus Dei, ecce qui tollit peccatum mundi*. Quod singulariter dicitur, quia peccatum mundi, quod est peccatum originale, est unum; ut Glossa ibidem exponit.]]
+![[LEO Ia-IIæ, q. 82, a. 2#s.c.|Sed contra est quod dicitur Ioan. I, *ecce agnus Dei, ecce qui tollit peccatum mundi*. Quod singulariter dicitur, quia peccatum mundi, quod est peccatum originale, est unum; ut Glossa ibidem exponit.]]
 ![[CERF Ia-IIæ, q. 82, a. 2#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 82, a. 2#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 82, a. 2#ad 1|Ad primum ergo dicendum quod pluraliter dicitur in peccatis, secundum illum morem divinae Scripturae quo frequenter ponitur pluralis numerus pro singulari, sicut [[Mt 2]], *defuncti sunt qui quaerebant animam pueri*. Vel quia in peccato originali virtualiter praeexistunt omnia peccata actualia, sicut in quodam principio, unde est multiplex virtute. Vel quia in peccato primi parentis quod per originem traducitur, fuerunt plures deformitates, scilicet superbiae, inobedientiae, gulae, et alia huiusmodi. Vel quia multae partes animae inficiuntur per peccatum originale.]]
+![[LEO Ia-IIæ, q. 82, a. 2#ad 1|Ad primum ergo dicendum quod pluraliter dicitur in peccatis, secundum illum morem divinae Scripturae quo frequenter ponitur pluralis numerus pro singulari, sicut Matth. II, *defuncti sunt qui quaerebant animam pueri*. Vel quia in peccato originali virtualiter praeexistunt omnia peccata actualia, sicut in quodam principio, unde est multiplex virtute. Vel quia in peccato primi parentis quod per originem traducitur, fuerunt plures deformitates, scilicet superbiae, inobedientiae, gulae, et alia huiusmodi. Vel quia multae partes animae inficiuntur per peccatum originale.]]
 ![[CERF Ia-IIæ, q. 82, a. 2#ad 1]]
 
 ###### ad 2

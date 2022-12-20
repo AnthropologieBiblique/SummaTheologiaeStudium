@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 54, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod corpus Christi cum cicatricibus resurgere non debuerit. Dicitur enim [[1 Co 15]], quod *mortui resurgent incorrupti*. Sed cicatrices et vulnera ad quandam corruptionem pertinent et defectum. Non ergo fuit conveniens ut Christus, qui resurrectionis auctor est, cum cicatricibus resurgeret.]]
+![[LEO IIIa, q. 54, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod corpus Christi cum cicatricibus resurgere non debuerit. Dicitur enim I Cor. XV, quod *mortui resurgent incorrupti*. Sed cicatrices et vulnera ad quandam corruptionem pertinent et defectum. Non ergo fuit conveniens ut Christus, qui resurrectionis auctor est, cum cicatricibus resurgeret.]]
 ![[CERF IIIa, q. 54, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 54, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 54, a. 4#s.c.|Sed contra est quod dominus dicit Thomae, [[Jn 20]], *infer digitum tuum huc, et vide manus meas, et affer manum tuam et mitte in latus meum*.]]
+![[LEO IIIa, q. 54, a. 4#s.c.|Sed contra est quod dominus dicit Thomae, Ioan. XX, *infer digitum tuum huc, et vide manus meas, et affer manum tuam et mitte in latus meum*.]]
 ![[CERF IIIa, q. 54, a. 4#s.c.]]
 
 ###### resp.

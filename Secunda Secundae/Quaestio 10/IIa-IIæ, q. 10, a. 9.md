@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 10, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 10, a. 9#s.c.|Sed contra est quod dicitur [[Dt 7]], *non inibis cum eis foedus, nec misereberis eorum, neque sociabis cum eis connubia*. Et super illud Lev. XV, *mulier quae redeunte mense* etc., dicit Glossa, *sic oportet ab idololatria abstinere ut nec idololatras nec eorum discipulos contingamus, nec cum eis communionem habeamus*.]]
+![[LEO IIa-IIæ, q. 10, a. 9#s.c.|Sed contra est quod dicitur Deut. VII, *non inibis cum eis foedus, nec misereberis eorum, neque sociabis cum eis connubia*. Et super illud Lev. XV, *mulier quae redeunte mense* etc., dicit Glossa, *sic oportet ab idololatria abstinere ut nec idololatras nec eorum discipulos contingamus, nec cum eis communionem habeamus*.]]
 ![[CERF IIa-IIæ, q. 10, a. 9#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 10, a. 9#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 10, a. 9#ad 3|Ad tertium dicendum quod magis est probabile quod servus, qui regitur imperio domini, convertatur ad fidem domini fidelis, quam e converso. Et ideo non est prohibitum quin fideles habeant servos infideles. Si tamen domino periculum immineret ex communione talis servi, deberet eum a se abiicere, secundum illud mandatum domini, [[Mt 5]] et XVIII, *si pes tuus scandalizaverit te, abscinde eum et proiice abs te*.]]
+![[LEO IIa-IIæ, q. 10, a. 9#ad 3|Ad tertium dicendum quod magis est probabile quod servus, qui regitur imperio domini, convertatur ad fidem domini fidelis, quam e converso. Et ideo non est prohibitum quin fideles habeant servos infideles. Si tamen domino periculum immineret ex communione talis servi, deberet eum a se abiicere, secundum illud mandatum domini, Matth. V et XVIII, *si pes tuus scandalizaverit te, abscinde eum et proiice abs te*.]]
 ![[CERF IIa-IIæ, q. 10, a. 9#ad 3]]
 

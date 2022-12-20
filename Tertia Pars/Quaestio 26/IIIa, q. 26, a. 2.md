@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 26, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 26, a. 2#arg. 2|Praeterea, sicut Christus, inquantum est Deus, convenit cum patre et spiritu sancto, ita, inquantum est homo, convenit cum hominibus. Sed propter hoc quod, inquantum est Deus, convenit cum patre et spiritu sancto, non potest dici mediator inquantum est Deus, quia super illud [[1 Tm 2]], *mediator Dei et hominum*, dicit Glossa, *inquantum est verbum, non medius est, quia aequalis est Deo, et Deus apud Deum, et simul unus Deus*. Ergo nec etiam inquantum homo, potest dici mediator, propter convenientiam quam cum hominibus habet.]]
+![[LEO IIIa, q. 26, a. 2#arg. 2|Praeterea, sicut Christus, inquantum est Deus, convenit cum patre et spiritu sancto, ita, inquantum est homo, convenit cum hominibus. Sed propter hoc quod, inquantum est Deus, convenit cum patre et spiritu sancto, non potest dici mediator inquantum est Deus, quia super illud I Tim. II, *mediator Dei et hominum*, dicit Glossa, *inquantum est verbum, non medius est, quia aequalis est Deo, et Deus apud Deum, et simul unus Deus*. Ergo nec etiam inquantum homo, potest dici mediator, propter convenientiam quam cum hominibus habet.]]
 ![[CERF IIIa, q. 26, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 26, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 26, a. 2#ad 1|Ad primum ergo dicendum quod, si subtrahatur divina natura a Christo, subtrahitur per consequens ab eo singularis plenitudo gratiarum, quae convenit ei inquantum est unigenitus a patre, ut dicitur [[Jn 1]]. Ex qua quidem plenitudine habet ut sit super omnes homines constitutus, et propinquius ad Deum accedens.]]
+![[LEO IIIa, q. 26, a. 2#ad 1|Ad primum ergo dicendum quod, si subtrahatur divina natura a Christo, subtrahitur per consequens ab eo singularis plenitudo gratiarum, quae convenit ei inquantum est unigenitus a patre, ut dicitur Ioan. I. Ex qua quidem plenitudine habet ut sit super omnes homines constitutus, et propinquius ad Deum accedens.]]
 ![[CERF IIIa, q. 26, a. 2#ad 1]]
 
 ###### ad 2

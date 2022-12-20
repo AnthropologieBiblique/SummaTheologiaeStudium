@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 129, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 129, a. 6#arg. 2|Praeterea, fiducia videtur timori esse opposita, secundum illud [[Is 12]], *fiducialiter agam, et non timebo*. Sed carere timore magis pertinet ad fortitudinem. Ergo et fiducia magis ad fortitudinem pertinet quam ad magnanimitatem.]]
+![[LEO IIa-IIæ, q. 129, a. 6#arg. 2|Praeterea, fiducia videtur timori esse opposita, secundum illud Isaiae XII, *fiducialiter agam, et non timebo*. Sed carere timore magis pertinet ad fortitudinem. Ergo et fiducia magis ad fortitudinem pertinet quam ad magnanimitatem.]]
 ![[CERF IIa-IIæ, q. 129, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 129, a. 6#arg. 3|Praeterea, praemium non debetur nisi virtuti. Sed fiduciae debetur praemium, dicitur enim [[He 3]], quod *nos sumus domus Christi, si fiduciam et gloriam spei usque in finem firmam retineamus*. Ergo fiducia est quaedam virtus distincta a magnanimitate. Quod etiam videtur per hoc quod Macrobius eam magnanimitati condividit.]]
+![[LEO IIa-IIæ, q. 129, a. 6#arg. 3|Praeterea, praemium non debetur nisi virtuti. Sed fiduciae debetur praemium, dicitur enim Heb. III, quod *nos sumus domus Christi, si fiduciam et gloriam spei usque in finem firmam retineamus*. Ergo fiducia est quaedam virtus distincta a magnanimitate. Quod etiam videtur per hoc quod Macrobius eam magnanimitati condividit.]]
 ![[CERF IIa-IIæ, q. 129, a. 6#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 129, a. 6#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 129, a. 6#resp.|Respondeo dicendum quod nomen fiduciae ex fide assumptum esse videtur. Ad fidem autem pertinet aliquid et alicui credere. Pertinet autem fiducia ad spem, secundum illud [[Jb 11]], *habebis fiduciam, proposita tibi spe*. Et ideo nomen fiduciae hoc principaliter significare videtur, quod aliquis spem concipiat ex hoc quod credit verbis alicuius auxilium promittentis. Sed quia fides dicitur etiam opinio vehemens; contingit autem aliquid vehementer opinari non solum ex eo quod est ab alio dictum, sed etiam ex eo quod in alio consideratur, inde est quod fiducia etiam potest dici qua aliquis spem alicuius rei concipit ex aliquo considerato; quandoque quidem in seipso, puta cum aliquis, videns se sanum, confidit se diu victurum; quandoque autem in alio, puta cum aliquis, considerans alium amicum suum esse et potentem, fiduciam habet adiuvari ab eo. Dictum est autem supra quod magnanimitas proprie est circa spem alicuius ardui. Et ideo, quia fiducia importat quoddam robur spei proveniens ex aliqua consideratione quae facit vehementem opinionem de bono assequendo, inde est quod fiducia ad magnanimitatem pertinet.]]
+![[LEO IIa-IIæ, q. 129, a. 6#resp.|Respondeo dicendum quod nomen fiduciae ex fide assumptum esse videtur. Ad fidem autem pertinet aliquid et alicui credere. Pertinet autem fiducia ad spem, secundum illud Iob XI, *habebis fiduciam, proposita tibi spe*. Et ideo nomen fiduciae hoc principaliter significare videtur, quod aliquis spem concipiat ex hoc quod credit verbis alicuius auxilium promittentis. Sed quia fides dicitur etiam opinio vehemens; contingit autem aliquid vehementer opinari non solum ex eo quod est ab alio dictum, sed etiam ex eo quod in alio consideratur, inde est quod fiducia etiam potest dici qua aliquis spem alicuius rei concipit ex aliquo considerato; quandoque quidem in seipso, puta cum aliquis, videns se sanum, confidit se diu victurum; quandoque autem in alio, puta cum aliquis, considerans alium amicum suum esse et potentem, fiduciam habet adiuvari ab eo. Dictum est autem supra quod magnanimitas proprie est circa spem alicuius ardui. Et ideo, quia fiducia importat quoddam robur spei proveniens ex aliqua consideratione quae facit vehementem opinionem de bono assequendo, inde est quod fiducia ad magnanimitatem pertinet.]]
 ![[CERF IIa-IIæ, q. 129, a. 6#resp.]]
 
 ###### ad 1

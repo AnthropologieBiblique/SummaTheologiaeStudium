@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 40, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 40, a. 3#arg. 3|Praeterea, Augustinus dicit, super Gen. ad Litt., quod animalia moventur visis. Sed spes non est de eo quod videtur, *nam quod videt quis, quid sperat?* Ut dicitur [[Rm 8]]. Ergo spes non est in brutis animalibus.]]
+![[LEO Ia-IIæ, q. 40, a. 3#arg. 3|Praeterea, Augustinus dicit, super Gen. ad Litt., quod animalia moventur visis. Sed spes non est de eo quod videtur, *nam quod videt quis, quid sperat?* Ut dicitur Rom. VIII. Ergo spes non est in brutis animalibus.]]
 ![[CERF Ia-IIæ, q. 40, a. 3#arg. 3]]
 
 ###### s.c.

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 89, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 89, a. 1#s.c.|Sed contra est quod dicitur [[Ep 5]], *ut exhiberet ipse sibi gloriosam Ecclesiam non habentem maculam*; Glossa, *idest aliquod peccatum criminale*. Ergo proprium peccati mortalis esse videtur quod maculam in anima causet.]]
+![[LEO Ia-IIæ, q. 89, a. 1#s.c.|Sed contra est quod dicitur Ephes. V, *ut exhiberet ipse sibi gloriosam Ecclesiam non habentem maculam*; Glossa, *idest aliquod peccatum criminale*. Ergo proprium peccati mortalis esse videtur quod maculam in anima causet.]]
 ![[CERF Ia-IIæ, q. 89, a. 1#s.c.]]
 
 ###### resp.

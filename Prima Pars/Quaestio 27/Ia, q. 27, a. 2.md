@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 27, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 27, a. 2#s.c.|Sed contra est quod dicitur in [[Ps 2]], *ego hodie genui te*.]]
+![[LEO Ia, q. 27, a. 2#s.c.|Sed contra est quod dicitur in Psalmo II, *ego hodie genui te*.]]
 ![[CERF Ia, q. 27, a. 2#s.c.]]
 
 ###### resp.

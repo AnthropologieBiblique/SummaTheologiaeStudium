@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 64#Prooemium|Consequenter quaeritur de poena Daemonum. Et circa hoc quaeruntur quatuor. Primo, de obtenebratione intellectus. Secundo, de obstinatione voluntatis. Tertio, de dolore ipsorum. Quarto, de loco poenali ipsorum.]]
-![[CERF Ia, q. 64#Prooemium]]
+Consequenter quaeritur de poena Daemonum. Et circa hoc quaeruntur quatuor. Primo, de obtenebratione intellectus. Secundo, de obstinatione voluntatis. Tertio, de dolore ipsorum. Quarto, de loco poenali ipsorum.
 
 ![[Ia, q. 64, a. 1#Articulus 1]]
 

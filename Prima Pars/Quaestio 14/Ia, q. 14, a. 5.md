@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 14, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 14, a. 5#s.c.|Sed contra est quod dicitur [[He 4]], *omnia nuda et aperta sunt oculis eius*.]]
+![[LEO Ia, q. 14, a. 5#s.c.|Sed contra est quod dicitur Hebr. IV, *omnia nuda et aperta sunt oculis eius*.]]
 ![[CERF Ia, q. 14, a. 5#s.c.]]
 
 ###### resp.

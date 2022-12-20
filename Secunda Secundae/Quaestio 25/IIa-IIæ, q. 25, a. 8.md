@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 25, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 25, a. 8#arg. 3|Praeterea, caritas non agit perperam. Sed hoc videtur esse perversum quod aliquis diligat inimicos, sicut et quod aliquis odio habeat amicos, unde [[2S 19]] exprobrando dicit Ioab ad David, *diligis odientes te, et odio habes diligentes te*. Ergo caritas non facit ut inimici diligantur.]]
+![[LEO IIa-IIæ, q. 25, a. 8#arg. 3|Praeterea, caritas non agit perperam. Sed hoc videtur esse perversum quod aliquis diligat inimicos, sicut et quod aliquis odio habeat amicos, unde II Reg. XIX exprobrando dicit Ioab ad David, *diligis odientes te, et odio habes diligentes te*. Ergo caritas non facit ut inimici diligantur.]]
 ![[CERF IIa-IIæ, q. 25, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 25, a. 8#s.c.|Sed contra est quod dominus dicit, [[Mt 5]], *diligite inimicos vestros*.]]
+![[LEO IIa-IIæ, q. 25, a. 8#s.c.|Sed contra est quod dominus dicit, Matth. V, *diligite inimicos vestros*.]]
 ![[CERF IIa-IIæ, q. 25, a. 8#s.c.]]
 
 ###### resp.

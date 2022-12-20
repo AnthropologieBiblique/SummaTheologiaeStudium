@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 60, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 60, a. 1#arg. 2|Praeterea, apostolus dicit, I ad Cor. II, *spiritualis iudicat omnia*. Sed homo maxime efficitur spiritualis per virtutem caritatis, quae *diffunditur in cordibus nostris per spiritum sanctum, qui datus est nobis*, ut dicitur [[Rm 5]]. Ergo iudicium magis pertinet ad caritatem quam ad iustitiam.]]
+![[LEO IIa-IIæ, q. 60, a. 1#arg. 2|Praeterea, apostolus dicit, I ad Cor. II, *spiritualis iudicat omnia*. Sed homo maxime efficitur spiritualis per virtutem caritatis, quae *diffunditur in cordibus nostris per spiritum sanctum, qui datus est nobis*, ut dicitur Rom. V. Ergo iudicium magis pertinet ad caritatem quam ad iustitiam.]]
 ![[CERF IIa-IIæ, q. 60, a. 1#arg. 2]]
 
 ###### arg. 3

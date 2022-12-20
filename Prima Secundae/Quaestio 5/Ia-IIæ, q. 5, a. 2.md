@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 5, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod unus homo alio non possit esse beatior. Beatitudo enim est praemium virtutis, ut philosophus dicit in I Ethic. Sed pro operibus virtutum omnibus aequalis merces redditur, dicitur enim [[Mt 20]], quod omnes qui operati sunt in vinea, acceperunt singulos denarios; quia, ut dicit Gregorius, *aequalem aeternae vitae retributionem sortiti sunt*. Ergo unus non erit alio beatior.]]
+![[LEO Ia-IIæ, q. 5, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod unus homo alio non possit esse beatior. Beatitudo enim est praemium virtutis, ut philosophus dicit in I Ethic. Sed pro operibus virtutum omnibus aequalis merces redditur, dicitur enim Matth. XX, quod omnes qui operati sunt in vinea, acceperunt singulos denarios; quia, ut dicit Gregorius, *aequalem aeternae vitae retributionem sortiti sunt*. Ergo unus non erit alio beatior.]]
 ![[CERF Ia-IIæ, q. 5, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 5, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 5, a. 2#s.c.|Sed contra est quod dicitur [[Jn 14]], *in domo patris mei mansiones multae sunt*; per quas, ut Augustinus dicit, *diversae meritorum dignitates intelliguntur in vita aeterna*. Dignitas autem vitae aeternae, quae pro merito datur, est ipsa beatitudo. Ergo sunt diversi gradus beatitudinis, et non omnium est aequalis beatitudo.]]
+![[LEO Ia-IIæ, q. 5, a. 2#s.c.|Sed contra est quod dicitur Ioan. XIV, *in domo patris mei mansiones multae sunt*; per quas, ut Augustinus dicit, *diversae meritorum dignitates intelliguntur in vita aeterna*. Dignitas autem vitae aeternae, quae pro merito datur, est ipsa beatitudo. Ergo sunt diversi gradus beatitudinis, et non omnium est aequalis beatitudo.]]
 ![[CERF Ia-IIæ, q. 5, a. 2#s.c.]]
 
 ###### resp.

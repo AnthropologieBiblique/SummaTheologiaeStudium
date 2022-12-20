@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 124#Prooemium|Deinde considerandum est de martyrio. Et circa hoc quaeruntur quinque. Primo, utrum martyrium sit actus virtutis. Secundo, cuius virtutis sit actus. Tertio, de perfectione huius actus. Quarto, de poena martyrii. Quinto, de causa.]]
-![[CERF IIa-IIæ, q. 124#Prooemium]]
+Deinde considerandum est de martyrio. Et circa hoc quaeruntur quinque. Primo, utrum martyrium sit actus virtutis. Secundo, cuius virtutis sit actus. Tertio, de perfectione huius actus. Quarto, de poena martyrii. Quinto, de causa.
 
 ![[IIa-IIæ, q. 124, a. 1#Articulus 1]]
 

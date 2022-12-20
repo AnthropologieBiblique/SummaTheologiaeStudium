@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 88, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod peccatum veniale possit fieri mortale. Dicit enim Augustinus, exponens illud [[Jn 3]], *qui incredulus est filio, non videbit vitam*, peccata minima (idest venialia), si negligantur, occidunt. Sed ex hoc dicitur peccatum mortale, quod spiritualiter occidit animam. Ergo peccatum veniale potest fieri mortale.]]
+![[LEO Ia-IIæ, q. 88, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod peccatum veniale possit fieri mortale. Dicit enim Augustinus, exponens illud Ioan. III, *qui incredulus est filio, non videbit vitam*, peccata minima (idest venialia), si negligantur, occidunt. Sed ex hoc dicitur peccatum mortale, quod spiritualiter occidit animam. Ergo peccatum veniale potest fieri mortale.]]
 ![[CERF Ia-IIæ, q. 88, a. 4#arg. 1]]
 
 ###### arg. 2

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 77, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 77, a. 8#s.c.|Sed contra est quod apostolus dicit, [[Rm 7]], quod *passiones peccatorum operantur in membris nostris ad fructificandum morti*. Hoc autem est proprium mortalis peccati, quod fructificet morti. Ergo peccatum quod est ex passione, potest esse mortale.]]
+![[LEO Ia-IIæ, q. 77, a. 8#s.c.|Sed contra est quod apostolus dicit, Rom. VII, quod *passiones peccatorum operantur in membris nostris ad fructificandum morti*. Hoc autem est proprium mortalis peccati, quod fructificet morti. Ergo peccatum quod est ex passione, potest esse mortale.]]
 ![[CERF Ia-IIæ, q. 77, a. 8#s.c.]]
 
 ###### resp.

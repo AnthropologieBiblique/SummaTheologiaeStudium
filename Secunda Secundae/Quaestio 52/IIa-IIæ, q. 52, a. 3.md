@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 52, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 52, a. 3#arg. 3|Praeterea, in patria sancti maxime Deo conformantur, secundum illud [[1 Jn 3]], *cum apparuerit, similes ei erimus*. Sed Deo non convenit consilium, secundum illud [[Rm 11]], *quis consiliarius eius fuit?* Ergo etiam neque sanctis in patria competit donum consilii.]]
+![[LEO IIa-IIæ, q. 52, a. 3#arg. 3|Praeterea, in patria sancti maxime Deo conformantur, secundum illud I Ioan. III, *cum apparuerit, similes ei erimus*. Sed Deo non convenit consilium, secundum illud Rom. XI, *quis consiliarius eius fuit?* Ergo etiam neque sanctis in patria competit donum consilii.]]
 ![[CERF IIa-IIæ, q. 52, a. 3#arg. 3]]
 
 ###### s.c.

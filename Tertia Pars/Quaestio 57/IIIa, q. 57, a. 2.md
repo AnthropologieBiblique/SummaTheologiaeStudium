@@ -6,19 +6,19 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 57, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod ascendere in caelum conveniat Christo secundum naturam divinam. Dicitur enim in Psalmo, *ascendit Deus in iubilatione*; et [[Dt 33]], *ascensor caeli auxiliator tuus*. Sed ista dicuntur de Deo etiam ante Christi incarnationem. Ergo Christo convenit ascendere in caelum secundum quod Deus.]]
+![[LEO IIIa, q. 57, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod ascendere in caelum conveniat Christo secundum naturam divinam. Dicitur enim in Psalmo, *ascendit Deus in iubilatione*; et Deut. XXXIII, *ascensor caeli auxiliator tuus*. Sed ista dicuntur de Deo etiam ante Christi incarnationem. Ergo Christo convenit ascendere in caelum secundum quod Deus.]]
 ![[CERF IIIa, q. 57, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 57, a. 2#arg. 2|Praeterea, eiusdem est ascendere in caelum cuius est descendere de caelo, secundum illud [[Jn 3]], *nemo ascendit in caelum nisi qui de caelo descendit*; et [[Ep 4]], *qui descendit, ipse est et qui ascendit*. Sed Christus descendit de caelo, non secundum quod homo, sed secundum quod Deus, non enim humana eius natura ante in caelo fuerat, sed divina. Ergo videtur quod Christus ascendit in caelum secundum quod Deus.]]
+![[LEO IIIa, q. 57, a. 2#arg. 2|Praeterea, eiusdem est ascendere in caelum cuius est descendere de caelo, secundum illud Ioan. III, *nemo ascendit in caelum nisi qui de caelo descendit*; et Ephes. IV, *qui descendit, ipse est et qui ascendit*. Sed Christus descendit de caelo, non secundum quod homo, sed secundum quod Deus, non enim humana eius natura ante in caelo fuerat, sed divina. Ergo videtur quod Christus ascendit in caelum secundum quod Deus.]]
 ![[CERF IIIa, q. 57, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 57, a. 2#arg. 3|Praeterea, Christus sua ascensione ascendit ad patrem. Sed ad patris aequalitatem non pervenit secundum quod homo, sic enim dicit, *maior me est*, ut habetur [[Jn 14]]. Ergo videtur quod Christus ascendit secundum quod Deus.]]
+![[LEO IIIa, q. 57, a. 2#arg. 3|Praeterea, Christus sua ascensione ascendit ad patrem. Sed ad patris aequalitatem non pervenit secundum quod homo, sic enim dicit, *maior me est*, ut habetur Ioan. XIV. Ergo videtur quod Christus ascendit secundum quod Deus.]]
 ![[CERF IIIa, q. 57, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 57, a. 2#s.c.|Sed contra est quod, [[Ep 4]], super illud, *quod autem ascendit, quid est nisi quia descendit*, dicit Glossa, *constat quod secundum humanitatem Christus descendit et ascendit*.]]
+![[LEO IIIa, q. 57, a. 2#s.c.|Sed contra est quod, Ephes. IV, super illud, *quod autem ascendit, quid est nisi quia descendit*, dicit Glossa, *constat quod secundum humanitatem Christus descendit et ascendit*.]]
 ![[CERF IIIa, q. 57, a. 2#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 57, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 57, a. 2#ad 2|Ad secundum dicendum quod ipse idem est qui ascendit et qui descendit. Dicit enim Augustinus, in libro de symbolo, *quis est qui descendit? Deus homo. Quis est qui ascendit? Idem ipse Deus homo*. Descensus tamen duplex attribuitur Christo. Unus quidem, quo dicitur descendisse de caelo. Qui quidem attribuitur Deo homini secundum quod Deus. Non enim est iste descensus intelligendus secundum motum localem, sed secundum exinanitionem, qua, cum in forma Dei esset, servi formam suscepit. Sicut enim dicitur exinanitus, non ex eo quod suam plenitudinem amitteret, sed ex eo quod nostram parvitatem suscepit; ita dicitur descendisse de caelo, non quia caelum deseruerit, sed quia naturam terrenam assumpsit in unitatem personae. Alius autem est descensus quo descendit in inferiores partes terrae, ut dicitur [[Ep 4]]. Qui quidem est descensus localis. Unde competit Christo secundum conditionem humanae naturae.]]
+![[LEO IIIa, q. 57, a. 2#ad 2|Ad secundum dicendum quod ipse idem est qui ascendit et qui descendit. Dicit enim Augustinus, in libro de symbolo, *quis est qui descendit? Deus homo. Quis est qui ascendit? Idem ipse Deus homo*. Descensus tamen duplex attribuitur Christo. Unus quidem, quo dicitur descendisse de caelo. Qui quidem attribuitur Deo homini secundum quod Deus. Non enim est iste descensus intelligendus secundum motum localem, sed secundum exinanitionem, qua, cum in forma Dei esset, servi formam suscepit. Sicut enim dicitur exinanitus, non ex eo quod suam plenitudinem amitteret, sed ex eo quod nostram parvitatem suscepit; ita dicitur descendisse de caelo, non quia caelum deseruerit, sed quia naturam terrenam assumpsit in unitatem personae. Alius autem est descensus quo descendit in inferiores partes terrae, ut dicitur Ephes. IV. Qui quidem est descensus localis. Unde competit Christo secundum conditionem humanae naturae.]]
 ![[CERF IIIa, q. 57, a. 2#ad 2]]
 
 ###### ad 3

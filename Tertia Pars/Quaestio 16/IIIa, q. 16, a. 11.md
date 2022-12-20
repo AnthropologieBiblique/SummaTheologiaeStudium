@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 16, a. 11#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 16, a. 11#arg. 2|Praeterea, dimittere peccata est proprium Dei, secundum illud [[Is 43]], *ego ipse sum qui deleo iniquitates tuas propter me*. Sed Christus, secundum quod homo, dimittit peccata, secundum illud [[Mt 9]], *ut autem sciatis quod filius hominis habet potestatem in terra dimittendi peccata*, et cetera. Ergo Christus, secundum quod homo, est Deus.]]
+![[LEO IIIa, q. 16, a. 11#arg. 2|Praeterea, dimittere peccata est proprium Dei, secundum illud Isaiae XLIII, *ego ipse sum qui deleo iniquitates tuas propter me*. Sed Christus, secundum quod homo, dimittit peccata, secundum illud Matth. IX, *ut autem sciatis quod filius hominis habet potestatem in terra dimittendi peccata*, et cetera. Ergo Christus, secundum quod homo, est Deus.]]
 ![[CERF IIIa, q. 16, a. 11#arg. 2]]
 
 ###### arg. 3

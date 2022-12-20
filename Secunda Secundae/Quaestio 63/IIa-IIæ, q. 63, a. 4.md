@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 63, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 63, a. 4#arg. 3|Praeterea, [[Si 4]] dicitur, *in iudicando esto pupillis misericors*. Sed hoc videtur accipere personam pauperis. Ergo acceptio personae in iudiciis non est peccatum.]]
+![[LEO IIa-IIæ, q. 63, a. 4#arg. 3|Praeterea, Eccli. IV dicitur, *in iudicando esto pupillis misericors*. Sed hoc videtur accipere personam pauperis. Ergo acceptio personae in iudiciis non est peccatum.]]
 ![[CERF IIa-IIæ, q. 63, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 63, a. 4#s.c.|Sed contra est quod dicitur [[Pr 18]], *accipere personam in iudicio non est bonum*.]]
+![[LEO IIa-IIæ, q. 63, a. 4#s.c.|Sed contra est quod dicitur Prov. XVIII, *accipere personam in iudicio non est bonum*.]]
 ![[CERF IIa-IIæ, q. 63, a. 4#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 63, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 63, a. 4#ad 3|Ad tertium dicendum quod homo in iudicio debet pauperi subvenire quantum fieri potest, tamen sine laesione iustitiae. Alioquin habet locum illud quod dicitur [[Ex 23]], *pauperis quoque non misereberis in iudicio*.]]
+![[LEO IIa-IIæ, q. 63, a. 4#ad 3|Ad tertium dicendum quod homo in iudicio debet pauperi subvenire quantum fieri potest, tamen sine laesione iustitiae. Alioquin habet locum illud quod dicitur Exod. XXIII, *pauperis quoque non misereberis in iudicio*.]]
 ![[CERF IIa-IIæ, q. 63, a. 4#ad 3]]
 

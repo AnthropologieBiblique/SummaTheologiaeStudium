@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 25, a. 6#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 25, a. 6#s.c.|Sed contra est quod dicitur ad [[Ep 3]], quod *Deus potens est omnia facere abundantius quam petimus aut intelligimus*.]]
+![[LEO Ia, q. 25, a. 6#s.c.|Sed contra est quod dicitur ad Ephes. III, quod *Deus potens est omnia facere abundantius quam petimus aut intelligimus*.]]
 ![[CERF Ia, q. 25, a. 6#s.c.]]
 
 ###### resp.

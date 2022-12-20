@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 53, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod inconsideratio non sit peccatum speciale sub imprudentia contentum. Lex enim divina ad nullum peccatum nos inducit, secundum illud Psalm., *lex domini immaculata*. Inducit autem ad non considerandum, secundum illud [[Mt 10]], *nolite cogitare quomodo aut quid loquamini*. Ergo inconsideratio non est peccatum.]]
+![[LEO IIa-IIæ, q. 53, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod inconsideratio non sit peccatum speciale sub imprudentia contentum. Lex enim divina ad nullum peccatum nos inducit, secundum illud Psalm., *lex domini immaculata*. Inducit autem ad non considerandum, secundum illud Matth. X, *nolite cogitare quomodo aut quid loquamini*. Ergo inconsideratio non est peccatum.]]
 ![[CERF IIa-IIæ, q. 53, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 53, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 53, a. 4#s.c.|Sed contra est quod dicitur [[Pr 4]], *oculi tui videant recta, et palpebrae tuae praecedant gressus tuos*, quod pertinet ad prudentiam. Sed contrarium huius agitur per inconsiderationem. Ergo inconsideratio est speciale peccatum sub imprudentia contentum.]]
+![[LEO IIa-IIæ, q. 53, a. 4#s.c.|Sed contra est quod dicitur Prov. IV, *oculi tui videant recta, et palpebrae tuae praecedant gressus tuos*, quod pertinet ad prudentiam. Sed contrarium huius agitur per inconsiderationem. Ergo inconsideratio est speciale peccatum sub imprudentia contentum.]]
 ![[CERF IIa-IIæ, q. 53, a. 4#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 53, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 53, a. 4#ad 1|Ad primum ergo dicendum quod dominus non prohibet considerare ea quae sunt agenda vel dicenda, quando homo habet opportunitatem. Sed dat fiduciam discipulis in verbis inductis ut, deficiente sibi opportunitate vel propter imperitiam vel quia subito praeoccupantur, in solo divino confidant consilio, quia *cum ignoramus quid agere debeamus, hoc solum habemus residui, ut oculos nostros dirigamus ad Deum*, sicut dicitur [[2 Ch 20]]. Alioquin, si homo praetermittat facere quod potest, solum divinum auxilium expectans, videtur tentare Deum.]]
+![[LEO IIa-IIæ, q. 53, a. 4#ad 1|Ad primum ergo dicendum quod dominus non prohibet considerare ea quae sunt agenda vel dicenda, quando homo habet opportunitatem. Sed dat fiduciam discipulis in verbis inductis ut, deficiente sibi opportunitate vel propter imperitiam vel quia subito praeoccupantur, in solo divino confidant consilio, quia *cum ignoramus quid agere debeamus, hoc solum habemus residui, ut oculos nostros dirigamus ad Deum*, sicut dicitur II Paral. XX. Alioquin, si homo praetermittat facere quod potest, solum divinum auxilium expectans, videtur tentare Deum.]]
 ![[CERF IIa-IIæ, q. 53, a. 4#ad 1]]
 
 ###### ad 2

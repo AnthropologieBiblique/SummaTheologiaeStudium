@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 109, a. 3#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 109, a. 3#s.c.|Sed contra, illuminatio cum purgatione est et perfectione, ut supra dictum est. Sed purgare non convenit Daemonibus; secundum illud [[Si 34]], *ab immundo quid mundabitur?* Ergo etiam neque illuminare.]]
+![[LEO Ia, q. 109, a. 3#s.c.|Sed contra, illuminatio cum purgatione est et perfectione, ut supra dictum est. Sed purgare non convenit Daemonibus; secundum illud Eccli. XXXIV, *ab immundo quid mundabitur?* Ergo etiam neque illuminare.]]
 ![[CERF Ia, q. 109, a. 3#s.c.]]
 
 ###### resp.

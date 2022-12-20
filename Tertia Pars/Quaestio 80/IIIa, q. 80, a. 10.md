@@ -6,7 +6,7 @@ tags :
 ### Articulus 10
 
 ###### arg. 1
-![[LEO IIIa, q. 80, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod non liceat quotidie hoc sacramentum suscipere. Sicut enim Baptismus repraesentat dominicam passionem, ita et hoc sacramentum. Sed non licet pluries baptizari, sed semel tantum, quia Christus semel tantum pro peccatis nostris mortuus est, ut dicitur [[1 P 3]]. Ergo videtur quod non liceat hoc sacramentum quotidie suscipere.]]
+![[LEO IIIa, q. 80, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod non liceat quotidie hoc sacramentum suscipere. Sicut enim Baptismus repraesentat dominicam passionem, ita et hoc sacramentum. Sed non licet pluries baptizari, sed semel tantum, quia Christus semel tantum pro peccatis nostris mortuus est, ut dicitur I Pet. III. Ergo videtur quod non liceat hoc sacramentum quotidie suscipere.]]
 ![[CERF IIIa, q. 80, a. 10#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 80, a. 10#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 80, a. 10#arg. 3|Praeterea, huic sacramento, in quo totus Christus continetur, maxima reverentia debetur. Ad reverentiam autem pertinet quod aliquis ab hoc sacramento abstineat, unde et laudatur centurio, qui dixit, [[Mt 8]], *domine, non sum dignus ut intres sub tectum meum*; et Petrus, qui dixit, [[Lc 5]], *exi a me, domine, quia homo peccator ego sum*. Ergo non est laudabile quod homo quotidie hoc sacramentum suscipiat.]]
+![[LEO IIIa, q. 80, a. 10#arg. 3|Praeterea, huic sacramento, in quo totus Christus continetur, maxima reverentia debetur. Ad reverentiam autem pertinet quod aliquis ab hoc sacramento abstineat, unde et laudatur centurio, qui dixit, Matth. VIII, *domine, non sum dignus ut intres sub tectum meum*; et Petrus, qui dixit, Luc. V, *exi a me, domine, quia homo peccator ego sum*. Ergo non est laudabile quod homo quotidie hoc sacramentum suscipiat.]]
 ![[CERF IIIa, q. 80, a. 10#arg. 3]]
 
 ###### arg. 4
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIIa, q. 80, a. 10#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 80, a. 10#ad 1|Ad primum ergo dicendum quod per sacramentum Baptismi configuratur homo morti Christi, in se suscipiens eius characterem, et ideo, sicut Christus semel mortuus est, ita solum semel debet homo baptizari. Sed per hoc sacramentum non recipit homo Christi characterem, sed ipsum Christum, cuius virtus manet in aeternum, unde, ad [[He 10]], *una oblatione consummavit sanctificatos in sempiternum*. Et ideo, quia quotidie homo indiget salutifera Christi virtute, quotidie potest laudabiliter hoc sacramentum percipere. Et quia praecipue Baptismus est spiritualis regeneratio, ideo, sicut homo semel carnaliter nascitur, ita debet semel spiritualiter renasci per Baptismum, ut Augustinus dicit, super illud [[Jn 3]], *quomodo potest homo nasci cum sit senex?* Sed hoc sacramentum est cibus spiritualis, unde, sicut cibus corporalis quotidie sumitur, ita et hoc sacramentum quotidie sumere laudabile est. Unde dominus, [[Lc 11]], docet petere, *panem nostrum quotidianum da nobis hodie*, in cuius expositione Augustinus dicit, in libro de verbis domini, si quotidie acceperis, scilicet hoc sacramentum, *quotidie tibi est hodie, tibi Christus quotidie resurgit, hodie enim est quando Christus resurgit*.]]
+![[LEO IIIa, q. 80, a. 10#ad 1|Ad primum ergo dicendum quod per sacramentum Baptismi configuratur homo morti Christi, in se suscipiens eius characterem, et ideo, sicut Christus semel mortuus est, ita solum semel debet homo baptizari. Sed per hoc sacramentum non recipit homo Christi characterem, sed ipsum Christum, cuius virtus manet in aeternum, unde, ad Heb. X, *una oblatione consummavit sanctificatos in sempiternum*. Et ideo, quia quotidie homo indiget salutifera Christi virtute, quotidie potest laudabiliter hoc sacramentum percipere. Et quia praecipue Baptismus est spiritualis regeneratio, ideo, sicut homo semel carnaliter nascitur, ita debet semel spiritualiter renasci per Baptismum, ut Augustinus dicit, super illud Ioan. III, *quomodo potest homo nasci cum sit senex?* Sed hoc sacramentum est cibus spiritualis, unde, sicut cibus corporalis quotidie sumitur, ita et hoc sacramentum quotidie sumere laudabile est. Unde dominus, Luc. XI, docet petere, *panem nostrum quotidianum da nobis hodie*, in cuius expositione Augustinus dicit, in libro de verbis domini, si quotidie acceperis, scilicet hoc sacramentum, *quotidie tibi est hodie, tibi Christus quotidie resurgit, hodie enim est quando Christus resurgit*.]]
 ![[CERF IIIa, q. 80, a. 10#ad 1]]
 
 ###### ad 2

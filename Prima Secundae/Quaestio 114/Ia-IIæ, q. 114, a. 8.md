@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 114, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod homo non possit mereri augmentum gratiae vel caritatis. Cum enim aliquis acceperit praemium quod meruit, non debetur ei alia merces, sicut de quibusdam dicitur [[Mt 6]], *receperunt mercedem suam*. Si igitur aliquis mereretur augmentum caritatis vel gratiae, sequeretur quod, gratia augmentata, non posset ulterius expectare aliud praemium. Quod est inconveniens.]]
+![[LEO Ia-IIæ, q. 114, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod homo non possit mereri augmentum gratiae vel caritatis. Cum enim aliquis acceperit praemium quod meruit, non debetur ei alia merces, sicut de quibusdam dicitur Matth. VI, *receperunt mercedem suam*. Si igitur aliquis mereretur augmentum caritatis vel gratiae, sequeretur quod, gratia augmentata, non posset ulterius expectare aliud praemium. Quod est inconveniens.]]
 ![[CERF Ia-IIæ, q. 114, a. 8#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 114, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 114, a. 8#arg. 3|Praeterea, id quod cadit sub merito, meretur homo per quemlibet actum a gratia vel caritate procedentem, sicut per quemlibet talem actum meretur homo vitam aeternam. Si igitur augmentum gratiae vel caritatis cadat sub merito, videtur quod per quemlibet actum caritate informatum aliquis meretur augmentum caritatis. Sed id quod homo meretur, infallibiliter a Deo consequitur, nisi impediatur per peccatum sequens, dicitur enim [[2 Tm 1]], *scio cui credidi, et certus sum quia potens est depositum meum servare*. Sic ergo sequeretur quod per quemlibet actum meritorium gratia vel caritas augeretur. Quod videtur esse inconveniens, cum quandoque actus meritorii non sint multum ferventes, ita quod sufficiant ad caritatis augmentum. Non ergo augmentum caritatis cadit sub merito.]]
+![[LEO Ia-IIæ, q. 114, a. 8#arg. 3|Praeterea, id quod cadit sub merito, meretur homo per quemlibet actum a gratia vel caritate procedentem, sicut per quemlibet talem actum meretur homo vitam aeternam. Si igitur augmentum gratiae vel caritatis cadat sub merito, videtur quod per quemlibet actum caritate informatum aliquis meretur augmentum caritatis. Sed id quod homo meretur, infallibiliter a Deo consequitur, nisi impediatur per peccatum sequens, dicitur enim II ad Tim. I, *scio cui credidi, et certus sum quia potens est depositum meum servare*. Sic ergo sequeretur quod per quemlibet actum meritorium gratia vel caritas augeretur. Quod videtur esse inconveniens, cum quandoque actus meritorii non sint multum ferventes, ita quod sufficiant ad caritatis augmentum. Non ergo augmentum caritatis cadit sub merito.]]
 ![[CERF Ia-IIæ, q. 114, a. 8#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 114, a. 8#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 114, a. 8#resp.|Respondeo dicendum quod, sicut supra dictum est, illud cadit sub merito condigni, ad quod motio gratiae se extendit. Motio autem alicuius moventis non solum se extendit ad ultimum terminum motus, sed etiam ad totum progressum in motu. Terminus autem motus gratiae est vita aeterna, progressus autem in hoc motu est secundum augmentum caritatis vel gratiae, secundum illud [[Pr 4]], *iustorum semita quasi lux splendens procedit, et crescit usque ad perfectum diem*, qui est dies gloriae. Sic igitur augmentum gratiae cadit sub merito condigni.]]
+![[LEO Ia-IIæ, q. 114, a. 8#resp.|Respondeo dicendum quod, sicut supra dictum est, illud cadit sub merito condigni, ad quod motio gratiae se extendit. Motio autem alicuius moventis non solum se extendit ad ultimum terminum motus, sed etiam ad totum progressum in motu. Terminus autem motus gratiae est vita aeterna, progressus autem in hoc motu est secundum augmentum caritatis vel gratiae, secundum illud Prov. IV, *iustorum semita quasi lux splendens procedit, et crescit usque ad perfectum diem*, qui est dies gloriae. Sic igitur augmentum gratiae cadit sub merito condigni.]]
 ![[CERF Ia-IIæ, q. 114, a. 8#resp.]]
 
 ###### ad 1

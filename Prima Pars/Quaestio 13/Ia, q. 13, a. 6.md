@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 13, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 13, a. 6#s.c.|Sed contra est quod dicitur [[Ep 3]], *flecto genua mea ad patrem domini nostri Iesu, ex quo omnis paternitas in caelo et in terra nominatur*. Et eadem ratio videtur de nominibus aliis quae de Deo et creaturis dicuntur. Ergo huiusmodi nomina per prius de Deo quam de creaturis dicuntur.]]
+![[LEO Ia, q. 13, a. 6#s.c.|Sed contra est quod dicitur Ephes. III, *flecto genua mea ad patrem domini nostri Iesu, ex quo omnis paternitas in caelo et in terra nominatur*. Et eadem ratio videtur de nominibus aliis quae de Deo et creaturis dicuntur. Ergo huiusmodi nomina per prius de Deo quam de creaturis dicuntur.]]
 ![[CERF Ia, q. 13, a. 6#s.c.]]
 
 ###### resp.

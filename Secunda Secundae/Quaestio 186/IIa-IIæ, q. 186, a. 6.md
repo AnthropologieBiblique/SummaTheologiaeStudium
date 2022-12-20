@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 186, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod non requiratur ad perfectionem religionis quod praedicta tria, scilicet paupertas, continentia et obedientia, cadant sub voto. Disciplina enim perfectionis assumendae ex traditione domini est accepta. Sed dominus, dans formam perfectionis, [[Mt 19]], dixit, *si vis perfectus esse, vade et vende omnia quae habes et da pauperibus*, nulla mentione facta de voto. Ergo videtur quod votum non requiratur ad disciplinam religionis.]]
+![[LEO IIa-IIæ, q. 186, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod non requiratur ad perfectionem religionis quod praedicta tria, scilicet paupertas, continentia et obedientia, cadant sub voto. Disciplina enim perfectionis assumendae ex traditione domini est accepta. Sed dominus, dans formam perfectionis, Matth. XIX, dixit, *si vis perfectus esse, vade et vende omnia quae habes et da pauperibus*, nulla mentione facta de voto. Ergo videtur quod votum non requiratur ad disciplinam religionis.]]
 ![[CERF IIa-IIæ, q. 186, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 186, a. 6#arg. 2|Praeterea, votum consistit in quadam promissione Deo facta, unde [[Qo 5]], cum dixisset sapiens, *si quid vovisti Deo, ne moreris reddere*, statim subdit, *displicet enim ei infidelis et stulta promissio*. Sed ubi est exhibitio rei, non requiritur promissio. Ergo sufficit ad perfectionem religionis quod aliquis servet paupertatem, continentiam et obedientiam, absque voto.]]
+![[LEO IIa-IIæ, q. 186, a. 6#arg. 2|Praeterea, votum consistit in quadam promissione Deo facta, unde Eccle. V, cum dixisset sapiens, *si quid vovisti Deo, ne moreris reddere*, statim subdit, *displicet enim ei infidelis et stulta promissio*. Sed ubi est exhibitio rei, non requiritur promissio. Ergo sufficit ad perfectionem religionis quod aliquis servet paupertatem, continentiam et obedientiam, absque voto.]]
 ![[CERF IIa-IIæ, q. 186, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 186, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 186, a. 6#s.c.|Sed contra est quod in veteri lege Nazaraei cum voto sanctificabantur, secundum illud [[Nb 6]], *vir sive mulier cum fecerit votum ut sanctificetur, et se voluerit domino consecrare,* et cetera. Per eos autem significantur illi qui ad perfectionis summam pertingunt, ut dicit Glossa Gregorii ibidem. Ergo votum requiritur ad statum perfectionis.]]
+![[LEO IIa-IIæ, q. 186, a. 6#s.c.|Sed contra est quod in veteri lege Nazaraei cum voto sanctificabantur, secundum illud Num. VI, *vir sive mulier cum fecerit votum ut sanctificetur, et se voluerit domino consecrare,* et cetera. Per eos autem significantur illi qui ad perfectionis summam pertingunt, ut dicit Glossa Gregorii ibidem. Ergo votum requiritur ad statum perfectionis.]]
 ![[CERF IIa-IIæ, q. 186, a. 6#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 186, a. 6#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 186, a. 6#ad 1|Ad primum ergo dicendum quod ad perfectionem vitae dominus pertinere dixit quod aliquis eum sequatur, non qualitercumque, sed ut ulterius retro non abiret, unde ipse dicit, [[Lc 9]], *nemo mittens manum ad aratrum et respiciens retro, aptus est regno Dei*. Et quamvis quidam de discipulis eius retrorsum abierint, tamen Petrus, loco aliorum, domino interroganti, *nunquid et vos vultis abire? Respondit, domine, ad quem ibimus?* Unde et Augustinus dicit, in libro de consensu Evangelist., quod, *sicut Matthaeus et Marcus narrant, Petrus et Andreas, non subductis ad terram navibus, tanquam causa redeundi, secuti sunt eum, sed tanquam iubentem ut sequerentur*. Haec autem immobilitas sequelae Christi firmatur per votum. Et ideo votum requiritur ad perfectionem religionis.]]
+![[LEO IIa-IIæ, q. 186, a. 6#ad 1|Ad primum ergo dicendum quod ad perfectionem vitae dominus pertinere dixit quod aliquis eum sequatur, non qualitercumque, sed ut ulterius retro non abiret, unde ipse dicit, Luc. IX, *nemo mittens manum ad aratrum et respiciens retro, aptus est regno Dei*. Et quamvis quidam de discipulis eius retrorsum abierint, tamen Petrus, loco aliorum, domino interroganti, *nunquid et vos vultis abire? Respondit, domine, ad quem ibimus?* Unde et Augustinus dicit, in libro de consensu Evangelist., quod, *sicut Matthaeus et Marcus narrant, Petrus et Andreas, non subductis ad terram navibus, tanquam causa redeundi, secuti sunt eum, sed tanquam iubentem ut sequerentur*. Haec autem immobilitas sequelae Christi firmatur per votum. Et ideo votum requiritur ad perfectionem religionis.]]
 ![[CERF IIa-IIæ, q. 186, a. 6#ad 1]]
 
 ###### ad 2

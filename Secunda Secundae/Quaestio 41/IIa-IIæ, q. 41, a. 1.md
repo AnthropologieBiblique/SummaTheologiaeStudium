@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 41, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 41, a. 1#arg. 2|Praeterea, [[Gn 26]] dicitur quod *servi Isaac foderunt alium puteum, et pro illo quoque rixati sunt*. Sed non est credendum quod familia Isaac rixaretur publice, eo non contradicente, si hoc esset peccatum. Ergo rixa non est peccatum.]]
+![[LEO IIa-IIæ, q. 41, a. 1#arg. 2|Praeterea, Gen. XXVI dicitur quod *servi Isaac foderunt alium puteum, et pro illo quoque rixati sunt*. Sed non est credendum quod familia Isaac rixaretur publice, eo non contradicente, si hoc esset peccatum. Ergo rixa non est peccatum.]]
 ![[CERF IIa-IIæ, q. 41, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 41, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 41, a. 1#s.c.|Sed contra est quod ad [[Ga 5]] rixae ponuntur inter opera carnis, *quae qui agunt regnum Dei non consequuntur*. Ergo rixae non solum sunt peccata, sed etiam sunt peccata mortalia.]]
+![[LEO IIa-IIæ, q. 41, a. 1#s.c.|Sed contra est quod ad Gal. V rixae ponuntur inter opera carnis, *quae qui agunt regnum Dei non consequuntur*. Ergo rixae non solum sunt peccata, sed etiam sunt peccata mortalia.]]
 ![[CERF IIa-IIæ, q. 41, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 41, a. 1#resp.|Respondeo dicendum quod sicut contentio importat quandam contradictionem verborum, ita etiam rixa importat quandam contradictionem in factis, unde super illud [[Ga 5]] dicit Glossa quod rixae sunt quando ex ira invicem se percutiunt. Et ideo rixa videtur esse quoddam privatum bellum, quod inter privatas personas agitur non ex aliqua publica auctoritate, sed magis ex inordinata voluntate. Et ideo rixa semper importat peccatum. Et in eo quidem qui alterum invadit iniuste est peccatum mortale, inferre enim nocumentum proximo etiam opere manuali non est absque mortali peccato. In eo autem qui se defendit potest esse sine peccato, et quandoque cum peccato veniali, et quandoque etiam cum mortali, secundum diversum motum animi eius, et diversum modum se defendendi. Nam si solo animo repellendi iniuriam illatam, et cum debita moderatione se defendat, non est peccatum, nec proprie potest dici rixa ex parte eius. Si vero cum animo vindictae vel odii, vel cum excessu debitae moderationis se defendat, semper est peccatum, sed veniale quidem quando aliquis levis motus odii vel vindictae se immiscet, vel cum non multum excedat moderatam defensionem; mortale autem quando obfirmato animo in impugnantem insurgit ad eum occidendum vel graviter laedendum.]]
+![[LEO IIa-IIæ, q. 41, a. 1#resp.|Respondeo dicendum quod sicut contentio importat quandam contradictionem verborum, ita etiam rixa importat quandam contradictionem in factis, unde super illud Gal. V dicit Glossa quod rixae sunt quando ex ira invicem se percutiunt. Et ideo rixa videtur esse quoddam privatum bellum, quod inter privatas personas agitur non ex aliqua publica auctoritate, sed magis ex inordinata voluntate. Et ideo rixa semper importat peccatum. Et in eo quidem qui alterum invadit iniuste est peccatum mortale, inferre enim nocumentum proximo etiam opere manuali non est absque mortali peccato. In eo autem qui se defendit potest esse sine peccato, et quandoque cum peccato veniali, et quandoque etiam cum mortali, secundum diversum motum animi eius, et diversum modum se defendendi. Nam si solo animo repellendi iniuriam illatam, et cum debita moderatione se defendat, non est peccatum, nec proprie potest dici rixa ex parte eius. Si vero cum animo vindictae vel odii, vel cum excessu debitae moderationis se defendat, semper est peccatum, sed veniale quidem quando aliquis levis motus odii vel vindictae se immiscet, vel cum non multum excedat moderatam defensionem; mortale autem quando obfirmato animo in impugnantem insurgit ad eum occidendum vel graviter laedendum.]]
 ![[CERF IIa-IIæ, q. 41, a. 1#resp.]]
 
 ###### ad 1

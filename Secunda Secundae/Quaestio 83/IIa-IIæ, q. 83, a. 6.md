@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 83, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod homo non debeat temporalia petere a Deo orando. Quae enim orando petimus, quaerimus. Sed temporalia non debemus quaerere, dicitur enim [[Mt 6]], primum quaerite regnum Dei et iustitiam eius, et haec omnia adiicientur vobis, scilicet temporalia; quae non quaerenda dicit, sed adiicienda quaesitis. Ergo temporalia non sunt in oratione a Deo petenda.]]
+![[LEO IIa-IIæ, q. 83, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod homo non debeat temporalia petere a Deo orando. Quae enim orando petimus, quaerimus. Sed temporalia non debemus quaerere, dicitur enim Matth. VI, primum quaerite regnum Dei et iustitiam eius, et haec omnia adiicientur vobis, scilicet temporalia; quae non quaerenda dicit, sed adiicienda quaesitis. Ergo temporalia non sunt in oratione a Deo petenda.]]
 ![[CERF IIa-IIæ, q. 83, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 83, a. 6#arg. 2|Praeterea, nullus petit nisi ea de quibus est sollicitus. Sed de temporalibus sollicitudinem habere non debemus, secundum quod dicitur [[Mt 6]], *nolite solliciti esse animae vestrae, quid manducetis*. Ergo temporalia petere orando non debemus.]]
+![[LEO IIa-IIæ, q. 83, a. 6#arg. 2|Praeterea, nullus petit nisi ea de quibus est sollicitus. Sed de temporalibus sollicitudinem habere non debemus, secundum quod dicitur Matth. VI, *nolite solliciti esse animae vestrae, quid manducetis*. Ergo temporalia petere orando non debemus.]]
 ![[CERF IIa-IIæ, q. 83, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 6#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 83, a. 6#s.c.|Sed contra est quod dicitur [[Pr 30]], *tribue tantum victui meo necessaria*.]]
+![[LEO IIa-IIæ, q. 83, a. 6#s.c.|Sed contra est quod dicitur Prov. XXX, *tribue tantum victui meo necessaria*.]]
 ![[CERF IIa-IIæ, q. 83, a. 6#s.c.]]
 
 ###### resp.

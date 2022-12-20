@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 38, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod contemplatio veritatis non mitiget dolorem. Dicitur enim [[Qo 1]], *qui addit scientiam, addit et dolorem*. Sed scientia ad contemplationem veritatis pertinet. Non ergo contemplatio veritatis mitigat dolorem.]]
+![[LEO Ia-IIæ, q. 38, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod contemplatio veritatis non mitiget dolorem. Dicitur enim Eccle. I, *qui addit scientiam, addit et dolorem*. Sed scientia ad contemplationem veritatis pertinet. Non ergo contemplatio veritatis mitigat dolorem.]]
 ![[CERF Ia-IIæ, q. 38, a. 4#arg. 1]]
 
 ###### arg. 2

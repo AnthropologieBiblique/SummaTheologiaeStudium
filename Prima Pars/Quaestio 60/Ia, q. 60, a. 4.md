@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 60, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 60, a. 4#s.c.|Sed contra est, quia illud quod invenitur in omnibus, etiam ratione carentibus, videtur esse naturale. Sed sicut dicitur [[Si 13]], omne animal diligit sibi simile. Ergo Angelus diligit naturaliter alium sicut seipsum.]]
+![[LEO Ia, q. 60, a. 4#s.c.|Sed contra est, quia illud quod invenitur in omnibus, etiam ratione carentibus, videtur esse naturale. Sed sicut dicitur Eccli. XIII, omne animal diligit sibi simile. Ergo Angelus diligit naturaliter alium sicut seipsum.]]
 ![[CERF Ia, q. 60, a. 4#s.c.]]
 
 ###### resp.

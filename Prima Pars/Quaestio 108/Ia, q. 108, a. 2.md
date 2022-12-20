@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 108, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 108, a. 2#s.c.|Sed contra est quod apostolus dicit ad [[Ep 1]], quod Deus constituit Christum hominem supra *omnem principatum et potestatem et virtutem et dominationem*; qui sunt diversi ordines Angelorum, et quidam eorum ad unam hierarchiam pertinent, ut infra patebit.]]
+![[LEO Ia, q. 108, a. 2#s.c.|Sed contra est quod apostolus dicit ad Ephes. I, quod Deus constituit Christum hominem supra *omnem principatum et potestatem et virtutem et dominationem*; qui sunt diversi ordines Angelorum, et quidam eorum ad unam hierarchiam pertinent, ut infra patebit.]]
 ![[CERF Ia, q. 108, a. 2#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia, q. 108, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO Ia, q. 108, a. 2#ad 3|Ad tertium dicendum quod inferior Angelus est superior supremo homine nostrae hierarchiae; secundum illud [[Mt 11]], *qui minor est in regno caelorum, maior est illo*, scilicet Ioanne Baptista, quo nullus maior inter natos mulierum surrexit. Unde minor Angelus caelestis hierarchiae potest non solum purgare sed illuminare et perficere, et altiori modo quam ordines nostrae hierarchiae. Et sic secundum distinctionem harum actionum non distinguuntur caelestes ordines; sed secundum alias differentias actionum.]]
+![[LEO Ia, q. 108, a. 2#ad 3|Ad tertium dicendum quod inferior Angelus est superior supremo homine nostrae hierarchiae; secundum illud Matth. XI, *qui minor est in regno caelorum, maior est illo*, scilicet Ioanne Baptista, quo nullus maior inter natos mulierum surrexit. Unde minor Angelus caelestis hierarchiae potest non solum purgare sed illuminare et perficere, et altiori modo quam ordines nostrae hierarchiae. Et sic secundum distinctionem harum actionum non distinguuntur caelestes ordines; sed secundum alias differentias actionum.]]
 ![[CERF Ia, q. 108, a. 2#ad 3]]
 

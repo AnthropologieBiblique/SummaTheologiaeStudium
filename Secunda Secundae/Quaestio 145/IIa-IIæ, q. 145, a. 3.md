@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 145, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 145, a. 3#arg. 2|Praeterea, divitiae sub bono utili continentur, dicit enim Tullius, in II Rhet., *est aliquid non propter suam vim et naturam, sed propter fructum et utilitatem petendum, quod pecunia est*. Sed divitiae habent rationem honestatis, dicitur enim [[Si 11]], paupertas et honestas (idest divitiae) a Deo sunt; et XIII, pondus super se tollit qui honestiori (idest ditiori) se communicat. Ergo honestum non differt ab utili.]]
+![[LEO IIa-IIæ, q. 145, a. 3#arg. 2|Praeterea, divitiae sub bono utili continentur, dicit enim Tullius, in II Rhet., *est aliquid non propter suam vim et naturam, sed propter fructum et utilitatem petendum, quod pecunia est*. Sed divitiae habent rationem honestatis, dicitur enim Eccli. XI, paupertas et honestas (idest divitiae) a Deo sunt; et XIII, pondus super se tollit qui honestiori (idest ditiori) se communicat. Ergo honestum non differt ab utili.]]
 ![[CERF IIa-IIæ, q. 145, a. 3#arg. 2]]
 
 ###### arg. 3

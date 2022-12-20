@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 30, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 30, a. 2#arg. 2|Praeterea, si in hoc oportebat servari communem ordinem, secundum quem divina hominibus per Angelos revelantur, similiter divina ad mulierem per virum deferuntur, unde et apostolus dicit, [[1 Co 14]], *mulieres in Ecclesiis taceant, et si quid velint discere, domi viros suos interrogent*. Ergo videtur quod beatae virgini debuit annuntiari mysterium incarnationis per aliquem virum, praesertim quia Ioseph, vir eius, super hoc fuit ab Angelo instructus, ut legitur [[Mt 1]].]]
+![[LEO IIIa, q. 30, a. 2#arg. 2|Praeterea, si in hoc oportebat servari communem ordinem, secundum quem divina hominibus per Angelos revelantur, similiter divina ad mulierem per virum deferuntur, unde et apostolus dicit, I Cor. XIV, *mulieres in Ecclesiis taceant, et si quid velint discere, domi viros suos interrogent*. Ergo videtur quod beatae virgini debuit annuntiari mysterium incarnationis per aliquem virum, praesertim quia Ioseph, vir eius, super hoc fuit ab Angelo instructus, ut legitur Matth. I.]]
 ![[CERF IIIa, q. 30, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 30, a. 2#arg. 3|Praeterea, nullus potest congrue annuntiare quod ignorat. Sed supremi Angeli non plene cognoverunt incarnationis mysterium, unde Dionysius VII cap. Cael. Hier., ex eorum persona dicit esse intelligendam quaestionem quae ponitur [[Is 63]], *quis est iste qui venit de Edom?* Ergo videtur quod per nullum Angelum potuit convenienter Annuntiatio incarnationis fieri.]]
+![[LEO IIIa, q. 30, a. 2#arg. 3|Praeterea, nullus potest congrue annuntiare quod ignorat. Sed supremi Angeli non plene cognoverunt incarnationis mysterium, unde Dionysius VII cap. Cael. Hier., ex eorum persona dicit esse intelligendam quaestionem quae ponitur Isaiae LXIII, *quis est iste qui venit de Edom?* Ergo videtur quod per nullum Angelum potuit convenienter Annuntiatio incarnationis fieri.]]
 ![[CERF IIIa, q. 30, a. 2#arg. 3]]
 
 ###### arg. 4
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 30, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 30, a. 2#s.c.|Sed contra est quod dicitur [[Lc 1]], *missus est Gabriel Angelus a Deo,* et cetera.]]
+![[LEO IIIa, q. 30, a. 2#s.c.|Sed contra est quod dicitur Luc. I, *missus est Gabriel Angelus a Deo,* et cetera.]]
 ![[CERF IIIa, q. 30, a. 2#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 30, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 30, a. 2#ad 1|Ad primum ergo dicendum quod mater Dei superior erat Angelis quantum ad dignitatem ad quam divinitus eligebatur. Sed quantum ad statum praesentis vitae, inferior erat Angelis. Quia etiam ipse Christus, ratione passibilis vitae, *modico ab Angelis minoratus est*, ut dicitur [[He 2]]. Sed quia tamen Christus fuit viator et comprehensor, quantum ad cognitionem divinorum non indigebat ab Angelis instrui. Sed mater Dei nondum erat in statu comprehensorum. Et ideo de divino conceptu per Angelos instruenda erat.]]
+![[LEO IIIa, q. 30, a. 2#ad 1|Ad primum ergo dicendum quod mater Dei superior erat Angelis quantum ad dignitatem ad quam divinitus eligebatur. Sed quantum ad statum praesentis vitae, inferior erat Angelis. Quia etiam ipse Christus, ratione passibilis vitae, *modico ab Angelis minoratus est*, ut dicitur Heb. II. Sed quia tamen Christus fuit viator et comprehensor, quantum ad cognitionem divinorum non indigebat ab Angelis instrui. Sed mater Dei nondum erat in statu comprehensorum. Et ideo de divino conceptu per Angelos instruenda erat.]]
 ![[CERF IIIa, q. 30, a. 2#ad 1]]
 
 ###### ad 2

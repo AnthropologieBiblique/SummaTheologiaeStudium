@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 23, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 23, a. 8#arg. 2|Praeterea, caritas comparatur ad alias virtutes ut radix et fundamentum, secundum illud [[Ep 3]], *in caritate radicati et fundati*. Radix autem vel fundamentum non habet rationem formae, sed magis rationem materiae, quia est prima pars in generatione. Ergo caritas non est forma virtutum.]]
+![[LEO IIa-IIæ, q. 23, a. 8#arg. 2|Praeterea, caritas comparatur ad alias virtutes ut radix et fundamentum, secundum illud Ephes. III, *in caritate radicati et fundati*. Radix autem vel fundamentum non habet rationem formae, sed magis rationem materiae, quia est prima pars in generatione. Ergo caritas non est forma virtutum.]]
 ![[CERF IIa-IIæ, q. 23, a. 8#arg. 2]]
 
 ###### arg. 3

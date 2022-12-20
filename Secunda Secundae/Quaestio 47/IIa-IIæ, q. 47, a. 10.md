@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 47, a. 10#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 47, a. 10#s.c.|Sed contra est quod dominus dicit, [[Mt 24]], *quis, putas, est fidelis servus et prudens, quem constituit dominus super familiam suam?*]]
+![[LEO IIa-IIæ, q. 47, a. 10#s.c.|Sed contra est quod dominus dicit, Matth. XXIV, *quis, putas, est fidelis servus et prudens, quem constituit dominus super familiam suam?*]]
 ![[CERF IIa-IIæ, q. 47, a. 10#s.c.]]
 
 ###### resp.

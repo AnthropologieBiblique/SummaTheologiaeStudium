@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 189, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod ille qui vovet religionem ingredi, teneatur perpetuo in religione permanere. Melius est enim religionem non ingredi quam post ingressum exire, secundum illud [[2 P 2]], *melius erat illis veritatem non cognoscere quam post agnitam retroire*. Et [[Lc 9]] dicitur, *nemo mittens manum ad aratrum et aspiciens retro, aptus est regno Dei*. Sed ille qui voto se obligavit ad religionis ingressum, tenetur ingredi, ut dictum est. Ergo etiam tenetur perpetuo remanere.]]
+![[LEO IIa-IIæ, q. 189, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod ille qui vovet religionem ingredi, teneatur perpetuo in religione permanere. Melius est enim religionem non ingredi quam post ingressum exire, secundum illud II Pet. II, *melius erat illis veritatem non cognoscere quam post agnitam retroire*. Et Luc. IX dicitur, *nemo mittens manum ad aratrum et aspiciens retro, aptus est regno Dei*. Sed ille qui voto se obligavit ad religionis ingressum, tenetur ingredi, ut dictum est. Ergo etiam tenetur perpetuo remanere.]]
 ![[CERF IIa-IIæ, q. 189, a. 4#arg. 1]]
 
 ###### arg. 2

@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 29, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 29, a. 1#arg. 2|Praeterea, odire malum est laudabile, unde in laudem quorundam dicitur [[2 M 3]], quod *leges optime custodiebantur, propter Oniae pontificis pietatem, et animos odio habentes mala*. Si igitur nihil oditur nisi malum, sequitur quod omne odium sit laudabile. Quod patet esse falsum.]]
+![[LEO Ia-IIæ, q. 29, a. 1#arg. 2|Praeterea, odire malum est laudabile, unde in laudem quorundam dicitur II Machab. III, quod *leges optime custodiebantur, propter Oniae pontificis pietatem, et animos odio habentes mala*. Si igitur nihil oditur nisi malum, sequitur quod omne odium sit laudabile. Quod patet esse falsum.]]
 ![[CERF Ia-IIæ, q. 29, a. 1#arg. 2]]
 
 ###### arg. 3

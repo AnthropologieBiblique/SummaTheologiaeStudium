@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 73#Prooemium|Deinde considerandum est de detractione. Et circa hoc quaeruntur quatuor. Primo, quid sit detractio. Secundo, utrum sit peccatum mortale. Tertio, de comparatione eius ad alia peccata. Quarto, utrum peccet aliquis audiendo detractionem.]]
-![[CERF IIa-IIæ, q. 73#Prooemium]]
+Deinde considerandum est de detractione. Et circa hoc quaeruntur quatuor. Primo, quid sit detractio. Secundo, utrum sit peccatum mortale. Tertio, de comparatione eius ad alia peccata. Quarto, utrum peccet aliquis audiendo detractionem.
 
 ![[IIa-IIæ, q. 73, a. 1#Articulus 1]]
 

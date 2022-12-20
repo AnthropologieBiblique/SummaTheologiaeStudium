@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 139#Prooemium|Deinde considerandum est de dono quod respondet fortitudini, quod est fortitudinis donum. Et circa hoc quaeruntur duo. Primo, utrum fortitudo sit donum. Secundo, quid respondeat ei in beatitudinibus et fructibus.]]
-![[CERF IIa-IIæ, q. 139#Prooemium]]
+Deinde considerandum est de dono quod respondet fortitudini, quod est fortitudinis donum. Et circa hoc quaeruntur duo. Primo, utrum fortitudo sit donum. Secundo, quid respondeat ei in beatitudinibus et fructibus.
 
 ![[IIa-IIæ, q. 139, a. 1#Articulus 1]]
 

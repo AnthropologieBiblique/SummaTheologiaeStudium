@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 47, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 47, a. 3#s.c.|Sed contra est quod dicitur [[Jn 1]], *mundus per ipsum factus est*; ubi singulariter mundum nominavit, quasi uno solo mundo existente.]]
+![[LEO Ia, q. 47, a. 3#s.c.|Sed contra est quod dicitur Ioan. I, *mundus per ipsum factus est*; ubi singulariter mundum nominavit, quasi uno solo mundo existente.]]
 ![[CERF Ia, q. 47, a. 3#s.c.]]
 
 ###### resp.

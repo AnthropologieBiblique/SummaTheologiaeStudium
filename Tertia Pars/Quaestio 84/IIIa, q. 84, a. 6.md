@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIIa, q. 84, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod poenitentia non sit secunda tabula post naufragium. Quia super illud [[Is 3]], *peccatum suum sicut Sodoma praedicaverunt*, dicit Glossa, *secunda tabula post naufragium est peccata abscondere*. Poenitentia autem non abscondit peccata, sed magis ea revelat. Ergo poenitentia non est secunda tabula.]]
+![[LEO IIIa, q. 84, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod poenitentia non sit secunda tabula post naufragium. Quia super illud Isaiae III, *peccatum suum sicut Sodoma praedicaverunt*, dicit Glossa, *secunda tabula post naufragium est peccata abscondere*. Poenitentia autem non abscondit peccata, sed magis ea revelat. Ergo poenitentia non est secunda tabula.]]
 ![[CERF IIIa, q. 84, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 84, a. 6#arg. 2|Praeterea, fundamentum in aedificio non tenet secundum, sed primum locum. Poenitentia autem in spirituali aedificio est fundamentum, secundum illud [[He 6]], *non rursum iacientes fundamentum poenitentiae ab operibus mortuis*. Unde et praecedit ipsum Baptismum, secundum illud [[Ac 2]], *poenitentiam agite, et baptizetur unusquisque vestrum*. Ergo poenitentia non debet dici secunda tabula.]]
+![[LEO IIIa, q. 84, a. 6#arg. 2|Praeterea, fundamentum in aedificio non tenet secundum, sed primum locum. Poenitentia autem in spirituali aedificio est fundamentum, secundum illud Heb. VI, *non rursum iacientes fundamentum poenitentiae ab operibus mortuis*. Unde et praecedit ipsum Baptismum, secundum illud Act. II, *poenitentiam agite, et baptizetur unusquisque vestrum*. Ergo poenitentia non debet dici secunda tabula.]]
 ![[CERF IIIa, q. 84, a. 6#arg. 2]]
 
 ###### arg. 3

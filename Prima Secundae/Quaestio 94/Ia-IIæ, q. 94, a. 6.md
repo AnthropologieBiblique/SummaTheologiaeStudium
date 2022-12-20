@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 94, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod lex naturae possit a corde hominis aboleri. Quia [[Rm 2]], super illud, *cum gentes, quae legem non habent,* etc., dicit Glossa quod *in interiori homine per gratiam innovato, lex iustitiae inscribitur, quam deleverat culpa*. Sed lex iustitiae est lex naturae. Ergo lex naturae potest deleri.]]
+![[LEO Ia-IIæ, q. 94, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod lex naturae possit a corde hominis aboleri. Quia Rom. II, super illud, *cum gentes, quae legem non habent,* etc., dicit Glossa quod *in interiori homine per gratiam innovato, lex iustitiae inscribitur, quam deleverat culpa*. Sed lex iustitiae est lex naturae. Ergo lex naturae potest deleri.]]
 ![[CERF Ia-IIæ, q. 94, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 94, a. 6#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 94, a. 6#resp.|Respondeo dicendum quod, sicut supra dictum est, ad legem naturalem pertinent primo quidem quaedam praecepta communissima, quae sunt omnibus nota, quaedam autem secundaria praecepta magis propria, quae sunt quasi conclusiones propinquae principiis. Quantum ergo ad illa principia communia, lex naturalis nullo modo potest a cordibus hominum deleri in universali. Deletur tamen in particulari operabili, secundum quod ratio impeditur applicare commune principium ad particulare operabile, propter concupiscentiam vel aliquam aliam passionem, ut supra dictum est. Quantum vero ad alia praecepta secundaria, potest lex naturalis deleri de cordibus hominum, vel propter malas persuasiones, eo modo quo etiam in speculativis errores contingunt circa conclusiones necessarias; vel etiam propter pravas consuetudines et habitus corruptos; sicut apud quosdam non reputabantur latrocinia peccata, vel etiam vitia contra naturam, ut etiam apostolus dicit, ad [[Rm 1]].]]
+![[LEO Ia-IIæ, q. 94, a. 6#resp.|Respondeo dicendum quod, sicut supra dictum est, ad legem naturalem pertinent primo quidem quaedam praecepta communissima, quae sunt omnibus nota, quaedam autem secundaria praecepta magis propria, quae sunt quasi conclusiones propinquae principiis. Quantum ergo ad illa principia communia, lex naturalis nullo modo potest a cordibus hominum deleri in universali. Deletur tamen in particulari operabili, secundum quod ratio impeditur applicare commune principium ad particulare operabile, propter concupiscentiam vel aliquam aliam passionem, ut supra dictum est. Quantum vero ad alia praecepta secundaria, potest lex naturalis deleri de cordibus hominum, vel propter malas persuasiones, eo modo quo etiam in speculativis errores contingunt circa conclusiones necessarias; vel etiam propter pravas consuetudines et habitus corruptos; sicut apud quosdam non reputabantur latrocinia peccata, vel etiam vitia contra naturam, ut etiam apostolus dicit, ad Rom. I.]]
 ![[CERF Ia-IIæ, q. 94, a. 6#resp.]]
 
 ###### ad 1

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 71, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 71, a. 2#arg. 2|Praeterea, quandiu homo subiacet peccato, Diabolus in eo potestatem habet, ut dicitur [[Jn 8]], *qui facit peccatum, servus est peccati*. Sed peccatum tollitur per Baptismum. Non ergo ante Baptismum sunt homines exorcizandi.]]
+![[LEO IIIa, q. 71, a. 2#arg. 2|Praeterea, quandiu homo subiacet peccato, Diabolus in eo potestatem habet, ut dicitur Ioan. VIII, *qui facit peccatum, servus est peccati*. Sed peccatum tollitur per Baptismum. Non ergo ante Baptismum sunt homines exorcizandi.]]
 ![[CERF IIIa, q. 71, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 71, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 71, a. 2#resp.|Respondeo dicendum quod quicumque opus aliquod sapienter facere proponit, prius removet impedimenta sui operis, unde dicitur [[Jr 4]], *novate vobis novale, et nolite serere super spinas*. Diabolus autem hostis est humanae salutis, quae homini per Baptismum acquiritur; et habet potestatem aliquam in homine ex hoc ipso quod subditur originali peccato, vel etiam actuali. Unde etiam convenienter ante Baptismum expelluntur Daemones per exorcismos, ne salutem hominis impediant. Quam quidem expulsionem significat exsufflatio. Benedictio autem, cum manus impositione, praecludit expulso viam ne redire possit. Sal autem in os missum, et narium et aurium sputo linitio, significat receptionem doctrinae fidei quantum ad aures, et approbationem quantum ad nares, et confessionem quantum ad os. Olei vero inunctio significat aptitudinem hominis ad pugnandum contra Daemones.]]
+![[LEO IIIa, q. 71, a. 2#resp.|Respondeo dicendum quod quicumque opus aliquod sapienter facere proponit, prius removet impedimenta sui operis, unde dicitur Ierem. IV, *novate vobis novale, et nolite serere super spinas*. Diabolus autem hostis est humanae salutis, quae homini per Baptismum acquiritur; et habet potestatem aliquam in homine ex hoc ipso quod subditur originali peccato, vel etiam actuali. Unde etiam convenienter ante Baptismum expelluntur Daemones per exorcismos, ne salutem hominis impediant. Quam quidem expulsionem significat exsufflatio. Benedictio autem, cum manus impositione, praecludit expulso viam ne redire possit. Sal autem in os missum, et narium et aurium sputo linitio, significat receptionem doctrinae fidei quantum ad aures, et approbationem quantum ad nares, et confessionem quantum ad os. Olei vero inunctio significat aptitudinem hominis ad pugnandum contra Daemones.]]
 ![[CERF IIIa, q. 71, a. 2#resp.]]
 
 ###### ad 1

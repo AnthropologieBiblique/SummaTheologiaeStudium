@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 8, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 8, a. 2#s.c.|Sed contra est quod dicitur [[Jr 23]], *caelum et terram ego impleo*.]]
+![[LEO Ia, q. 8, a. 2#s.c.|Sed contra est quod dicitur Ierem. XXIII, *caelum et terram ego impleo*.]]
 ![[CERF Ia, q. 8, a. 2#s.c.]]
 
 ###### resp.

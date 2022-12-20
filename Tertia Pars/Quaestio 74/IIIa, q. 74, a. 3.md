@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIIa, q. 74, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non requiratur ad materiam huius sacramenti quod sit panis triticeus. Hoc enim sacramentum est rememorativum dominicae passionis. Sed magis videtur esse consonum dominicae passioni panis hordeaceus, qui est asperior, et de quo etiam turbas pavit in monte, ut dicitur [[Jn 6]], quam panis triticeus. Ergo non est propria materia huius sacramenti panis triticeus.]]
+![[LEO IIIa, q. 74, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non requiratur ad materiam huius sacramenti quod sit panis triticeus. Hoc enim sacramentum est rememorativum dominicae passionis. Sed magis videtur esse consonum dominicae passioni panis hordeaceus, qui est asperior, et de quo etiam turbas pavit in monte, ut dicitur Ioan. VI, quam panis triticeus. Ergo non est propria materia huius sacramenti panis triticeus.]]
 ![[CERF IIIa, q. 74, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 74, a. 3#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 74, a. 3#s.c.|Sed contra est quod in hoc sacramento continetur Christus, qui se grano frumenti comparat, [[Jn 12]], dicens, *nisi granum frumenti, cadens in terram, mortuum fuerit, ipsum solum manet*. Ergo panis frumentinus, sive triticeus, est materia huius sacramenti.]]
+![[LEO IIIa, q. 74, a. 3#s.c.|Sed contra est quod in hoc sacramento continetur Christus, qui se grano frumenti comparat, Ioan. XII, dicens, *nisi granum frumenti, cadens in terram, mortuum fuerit, ipsum solum manet*. Ergo panis frumentinus, sive triticeus, est materia huius sacramenti.]]
 ![[CERF IIIa, q. 74, a. 3#s.c.]]
 
 ###### resp.

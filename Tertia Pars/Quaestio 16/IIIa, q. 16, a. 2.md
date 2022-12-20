@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 16, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod haec sit falsa, homo est Deus. Deus enim est nomen incommunicabile. Sed [[Sg 14]] reprehenduntur idololatrae de hoc quod *istud nomen Deus, quod est incommunicabile, lignis et lapidibus imposuerunt*. Ergo pari ratione, videtur esse inconveniens quod hoc nomen Deus praedicetur de homine.]]
+![[LEO IIIa, q. 16, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod haec sit falsa, homo est Deus. Deus enim est nomen incommunicabile. Sed Sap. XIV reprehenduntur idololatrae de hoc quod *istud nomen Deus, quod est incommunicabile, lignis et lapidibus imposuerunt*. Ergo pari ratione, videtur esse inconveniens quod hoc nomen Deus praedicetur de homine.]]
 ![[CERF IIIa, q. 16, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 16, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 16, a. 2#s.c.|Sed contra est quod dicitur [[Rm 9]], *ex quibus est Christus secundum carnem, qui est super omnia Deus benedictus in saecula*. Sed Christus secundum carnem est homo. Ergo haec est vera, homo est Deus.]]
+![[LEO IIIa, q. 16, a. 2#s.c.|Sed contra est quod dicitur Rom. IX, *ex quibus est Christus secundum carnem, qui est super omnia Deus benedictus in saecula*. Sed Christus secundum carnem est homo. Ergo haec est vera, homo est Deus.]]
 ![[CERF IIIa, q. 16, a. 2#s.c.]]
 
 ###### resp.

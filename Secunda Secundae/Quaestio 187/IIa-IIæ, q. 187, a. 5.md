@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 187, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 187, a. 5#arg. 3|Praeterea, illud quod est in lege prohibitum et iustitiae contrarium, non competit religiosis. Sed mendicare est prohibitum in lege divina, dicitur enim [[Dt 15]], *omnino indigens et mendicus non erit inter vos*; et in Psalmo, *non vidi iustum derelictum, nec semen eius quaerens panem*. Sed secundum iura civilia punitur validus mendicans, ut habetur codice, de validis mendicantibus. Ergo non competit religiosis mendicare.]]
+![[LEO IIa-IIæ, q. 187, a. 5#arg. 3|Praeterea, illud quod est in lege prohibitum et iustitiae contrarium, non competit religiosis. Sed mendicare est prohibitum in lege divina, dicitur enim Deut. XV, *omnino indigens et mendicus non erit inter vos*; et in Psalmo, *non vidi iustum derelictum, nec semen eius quaerens panem*. Sed secundum iura civilia punitur validus mendicans, ut habetur codice, de validis mendicantibus. Ergo non competit religiosis mendicare.]]
 ![[CERF IIa-IIæ, q. 187, a. 5#arg. 3]]
 
 ###### arg. 4
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 187, a. 5#arg. 4]]
 
 ###### arg. 5
-![[LEO IIa-IIæ, q. 187, a. 5#arg. 5|Praeterea, maxime de eleemosynis vivere competit praedicantibus Evangelium, secundum domini statutum, ut supra dictum est. Eis tamen non competit mendicare, quia super illud [[2 Tm 2]], laborantem agricolam etc., dicit Glossa, *vult apostolus quod Evangelista intelligat quod necessaria sumere ab eis in quibus laborat, non est mendicitas, sed potestas*. Ergo videtur quod religiosis non competat mendicare.]]
+![[LEO IIa-IIæ, q. 187, a. 5#arg. 5|Praeterea, maxime de eleemosynis vivere competit praedicantibus Evangelium, secundum domini statutum, ut supra dictum est. Eis tamen non competit mendicare, quia super illud II ad Tim. II, laborantem agricolam etc., dicit Glossa, *vult apostolus quod Evangelista intelligat quod necessaria sumere ab eis in quibus laborat, non est mendicitas, sed potestas*. Ergo videtur quod religiosis non competat mendicare.]]
 ![[CERF IIa-IIæ, q. 187, a. 5#arg. 5]]
 
 ###### s.c.

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIIa, q. 87#Prooemium|Deinde considerandum est de remissione venialium peccatorum. Et circa hoc quaeruntur quatuor. Primo, utrum sine poenitentia peccatum veniale possit dimitti. Secundo, utrum possit dimitti sine gratiae infusione. Tertio, utrum peccata venialia remittantur per aspersionem aquae benedictae, et tunsionem pectoris, et orationem dominicam, et alia huiusmodi. Quarto, utrum veniale possit dimitti sine mortali.]]
-![[CERF IIIa, q. 87#Prooemium]]
+Deinde considerandum est de remissione venialium peccatorum. Et circa hoc quaeruntur quatuor. Primo, utrum sine poenitentia peccatum veniale possit dimitti. Secundo, utrum possit dimitti sine gratiae infusione. Tertio, utrum peccata venialia remittantur per aspersionem aquae benedictae, et tunsionem pectoris, et orationem dominicam, et alia huiusmodi. Quarto, utrum veniale possit dimitti sine mortali.
 
 ![[IIIa, q. 87, a. 1#Articulus 1]]
 

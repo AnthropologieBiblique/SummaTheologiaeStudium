@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 57, a. 3#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 57, a. 3#s.c.|Sed contra, id quod est proprium signum divinitatis, non convenit Angelis. Sed cognoscere futura est proprium signum divinitatis; secundum illud [[Is 41]], *annuntiate quae ventura sunt in futurum, et sciemus quod dii estis vos*. Ergo Angeli non cognoscunt futura.]]
+![[LEO Ia, q. 57, a. 3#s.c.|Sed contra, id quod est proprium signum divinitatis, non convenit Angelis. Sed cognoscere futura est proprium signum divinitatis; secundum illud Isaiae XLI, *annuntiate quae ventura sunt in futurum, et sciemus quod dii estis vos*. Ergo Angeli non cognoscunt futura.]]
 ![[CERF Ia, q. 57, a. 3#s.c.]]
 
 ###### resp.

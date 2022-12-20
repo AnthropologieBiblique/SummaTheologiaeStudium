@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 85, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod offerre sacrificium Deo non sit de lege naturae. Ea enim quae sunt iuris naturalis communia sunt apud omnes. Non autem hoc contingit circa sacrificia, nam quidam leguntur obtulisse in sacrificium panem et vinum, sicut de Melchisedech dicitur, [[Gn 14]]; et quidam haec, quidam illa animalia. Ergo oblatio sacrificiorum non est de iure naturali.]]
+![[LEO IIa-IIæ, q. 85, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod offerre sacrificium Deo non sit de lege naturae. Ea enim quae sunt iuris naturalis communia sunt apud omnes. Non autem hoc contingit circa sacrificia, nam quidam leguntur obtulisse in sacrificium panem et vinum, sicut de Melchisedech dicitur, Gen. XIV; et quidam haec, quidam illa animalia. Ergo oblatio sacrificiorum non est de iure naturali.]]
 ![[CERF IIa-IIæ, q. 85, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 85, a. 1#arg. 2|Praeterea, ea quae sunt iuris naturalis omnes iusti servaverunt. Sed non legitur de Isaac quod sacrificium obtulerit, neque etiam de Adam, de quo tamen dicitur, [[Sg 10]], quod sapientia eduxit eum a delicto suo. Ergo oblatio sacrificii non est de iure naturali.]]
+![[LEO IIa-IIæ, q. 85, a. 1#arg. 2|Praeterea, ea quae sunt iuris naturalis omnes iusti servaverunt. Sed non legitur de Isaac quod sacrificium obtulerit, neque etiam de Adam, de quo tamen dicitur, Sap. X, quod sapientia eduxit eum a delicto suo. Ergo oblatio sacrificii non est de iure naturali.]]
 ![[CERF IIa-IIæ, q. 85, a. 1#arg. 2]]
 
 ###### arg. 3

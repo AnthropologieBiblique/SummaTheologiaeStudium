@@ -10,11 +10,11 @@ tags :
 ![[CERF Ia, q. 107, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 107, a. 4#arg. 2|Praeterea, clamor loquentis fit propter distantiam audientis. Sed [[Is 6]] dicitur de Seraphim, quod clamabat alter ad alterum. Ergo videtur quod in locutione Angelorum aliquid operetur localis distantia.]]
+![[LEO Ia, q. 107, a. 4#arg. 2|Praeterea, clamor loquentis fit propter distantiam audientis. Sed Isaiae VI dicitur de Seraphim, quod clamabat alter ad alterum. Ergo videtur quod in locutione Angelorum aliquid operetur localis distantia.]]
 ![[CERF Ia, q. 107, a. 4#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 107, a. 4#s.c.|Sed contra est quod, sicut dicitur [[Lc 16]], dives in Inferno positus loquebatur Abrahae, non impediente locali distantia. Multo igitur minus localis distantia potest impedire locutionem unius Angeli ad alterum.]]
+![[LEO Ia, q. 107, a. 4#s.c.|Sed contra est quod, sicut dicitur Luc. XVI, dives in Inferno positus loquebatur Abrahae, non impediente locali distantia. Multo igitur minus localis distantia potest impedire locutionem unius Angeli ad alterum.]]
 ![[CERF Ia, q. 107, a. 4#s.c.]]
 
 ###### resp.

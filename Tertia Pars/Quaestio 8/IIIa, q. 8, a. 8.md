@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 8, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 8, a. 8#s.c.|Sed contra est quod [[Jb 21]], super illud, *interrogate quemlibet de viatoribus*, dicit Glossa, *dum de omnium malorum corpore loqueretur, subito ad omnium iniquorum caput, Antichristum, verba convertit*.]]
+![[LEO IIIa, q. 8, a. 8#s.c.|Sed contra est quod Iob XXI, super illud, *interrogate quemlibet de viatoribus*, dicit Glossa, *dum de omnium malorum corpore loqueretur, subito ad omnium iniquorum caput, Antichristum, verba convertit*.]]
 ![[CERF IIIa, q. 8, a. 8#s.c.]]
 
 ###### resp.

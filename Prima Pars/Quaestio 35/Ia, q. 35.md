@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 35#Prooemium|Deinde quaeritur de imagine. Et circa hoc quaeruntur duo. Primo, utrum imago in divinis dicatur personaliter. Secundo, utrum sit proprium filii.]]
-![[CERF Ia, q. 35#Prooemium]]
+Deinde quaeritur de imagine. Et circa hoc quaeruntur duo. Primo, utrum imago in divinis dicatur personaliter. Secundo, utrum sit proprium filii.
 
 ![[Ia, q. 35, a. 1#Articulus 1]]
 

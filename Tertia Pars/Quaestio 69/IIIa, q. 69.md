@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIIa, q. 69#Prooemium|Deinde considerandum est de effectibus Baptismi. Et circa hoc quaeruntur decem. Primo, utrum per Baptismum auferantur omnia peccata. Secundo, utrum per Baptismum liberetur homo ab omni poena. Tertio, utrum Baptismus auferat poenalitatem huius vitae. Quarto, utrum per Baptismum conferantur homini gratiae et virtutes quinto, de effectibus virtutum qui per Baptismum conferuntur. Sexto, utrum etiam parvuli in Baptismo gratias et virtutes accipiant. Septimo, utrum per Baptismum aperiatur baptizatis ianua regni caelestis. Octavo, utrum Baptismus aequalem effectum habeat in omnibus baptizatis. Nono, utrum fictio impediat effectum Baptismi. Decimo, utrum, recedente fictione, Baptismus obtineat suum effectum.]]
-![[CERF IIIa, q. 69#Prooemium]]
+Deinde considerandum est de effectibus Baptismi. Et circa hoc quaeruntur decem. Primo, utrum per Baptismum auferantur omnia peccata. Secundo, utrum per Baptismum liberetur homo ab omni poena. Tertio, utrum Baptismus auferat poenalitatem huius vitae. Quarto, utrum per Baptismum conferantur homini gratiae et virtutes quinto, de effectibus virtutum qui per Baptismum conferuntur. Sexto, utrum etiam parvuli in Baptismo gratias et virtutes accipiant. Septimo, utrum per Baptismum aperiatur baptizatis ianua regni caelestis. Octavo, utrum Baptismus aequalem effectum habeat in omnibus baptizatis. Nono, utrum fictio impediat effectum Baptismi. Decimo, utrum, recedente fictione, Baptismus obtineat suum effectum.
 
 ![[IIIa, q. 69, a. 1#Articulus 1]]
 

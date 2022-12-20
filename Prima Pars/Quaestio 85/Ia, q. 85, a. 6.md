@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 85, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 85, a. 6#arg. 3|Praeterea, peccatum in parte intellectiva est. Sed peccatum cum falsitate est, errant enim qui operantur malum, ut dicitur [[Pr 14]]. Ergo falsitas potest esse in intellectu.]]
+![[LEO Ia, q. 85, a. 6#arg. 3|Praeterea, peccatum in parte intellectiva est. Sed peccatum cum falsitate est, errant enim qui operantur malum, ut dicitur Prov. XIV. Ergo falsitas potest esse in intellectu.]]
 ![[CERF Ia, q. 85, a. 6#arg. 3]]
 
 ###### s.c.

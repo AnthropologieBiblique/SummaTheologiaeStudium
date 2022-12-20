@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 109, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 109, a. 2#arg. 2|Praeterea, ubi non est obedientia et subiectio, non est praelatio. Haec autem sine concordia esse non possunt; quae in Daemonibus nulla est, secundum illud [[Pr 13]], *inter superbos semper sunt iurgia*. Ergo in Daemonibus non est praelatio.]]
+![[LEO Ia, q. 109, a. 2#arg. 2|Praeterea, ubi non est obedientia et subiectio, non est praelatio. Haec autem sine concordia esse non possunt; quae in Daemonibus nulla est, secundum illud Prov. XIII, *inter superbos semper sunt iurgia*. Ergo in Daemonibus non est praelatio.]]
 ![[CERF Ia, q. 109, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 109, a. 2#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 109, a. 2#resp.|Respondeo dicendum quod, cum actio sequatur naturam rei, quorumcumque naturae sunt ordinatae, oportet quod etiam actiones sub invicem ordinentur. Sicut patet in rebus corporalibus, quia enim inferiora corpora naturali ordine sunt infra corpora caelestia actiones et motus eorum subduntur actionibus et motibus caelestium corporum. Manifestum est autem ex praemissis quod Daemonum quidam naturali ordine sub aliis constituuntur. Unde et actiones eorum sub actionibus superiorum sunt. Et hoc est quod rationem praelationis facit, ut scilicet actio subditi subdatur actioni praelati. Sic igitur ipsa naturalis dispositio Daemonum requirit quod sit in eis praelatio. Convenit etiam hoc divinae sapientiae, quae nihil in universo inordinatum relinquit, *quae attingit a fine usque ad finem fortiter, et disponit omnia suaviter*, ut dicitur [[Sg 8]].]]
+![[LEO Ia, q. 109, a. 2#resp.|Respondeo dicendum quod, cum actio sequatur naturam rei, quorumcumque naturae sunt ordinatae, oportet quod etiam actiones sub invicem ordinentur. Sicut patet in rebus corporalibus, quia enim inferiora corpora naturali ordine sunt infra corpora caelestia actiones et motus eorum subduntur actionibus et motibus caelestium corporum. Manifestum est autem ex praemissis quod Daemonum quidam naturali ordine sub aliis constituuntur. Unde et actiones eorum sub actionibus superiorum sunt. Et hoc est quod rationem praelationis facit, ut scilicet actio subditi subdatur actioni praelati. Sic igitur ipsa naturalis dispositio Daemonum requirit quod sit in eis praelatio. Convenit etiam hoc divinae sapientiae, quae nihil in universo inordinatum relinquit, *quae attingit a fine usque ad finem fortiter, et disponit omnia suaviter*, ut dicitur Sap. VIII.]]
 ![[CERF Ia, q. 109, a. 2#resp.]]
 
 ###### ad 1

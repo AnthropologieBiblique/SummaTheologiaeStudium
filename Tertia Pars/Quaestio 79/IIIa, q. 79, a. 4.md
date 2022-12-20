@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 79, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 79, a. 4#arg. 2|Praeterea, si peccata venialia per hoc sacramentum remittantur, qua ratione unum remittitur, et omnia remittentur. Sed non videtur quod omnia remittantur, quia sic frequenter aliquis esset absque omni peccato veniali, quod est contra id quod dicitur [[1 Jn 1]], *si dixerimus quoniam peccatum non habemus, nos ipsos seducimus*. Non ergo per hoc sacramentum remittitur aliquod peccatum veniale.]]
+![[LEO IIIa, q. 79, a. 4#arg. 2|Praeterea, si peccata venialia per hoc sacramentum remittantur, qua ratione unum remittitur, et omnia remittentur. Sed non videtur quod omnia remittantur, quia sic frequenter aliquis esset absque omni peccato veniali, quod est contra id quod dicitur I Ioan. I, *si dixerimus quoniam peccatum non habemus, nos ipsos seducimus*. Non ergo per hoc sacramentum remittitur aliquod peccatum veniale.]]
 ![[CERF IIIa, q. 79, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 79, a. 4#arg. 3|Praeterea, contraria mutuo se expellunt. Sed peccata venialia non prohibent a perceptione huius sacramenti, dicit enim Augustinus, super illud [[Jn 6]], *si quis ex ipso manducaverit, non morietur in aeternum, innocentiam, inquit, ad altare apportate, peccata, etsi sint quotidiana, non sint mortifera*. Ergo neque peccata venialia per hoc sacramentum tolluntur.]]
+![[LEO IIIa, q. 79, a. 4#arg. 3|Praeterea, contraria mutuo se expellunt. Sed peccata venialia non prohibent a perceptione huius sacramenti, dicit enim Augustinus, super illud Ioan. VI, *si quis ex ipso manducaverit, non morietur in aeternum, innocentiam, inquit, ad altare apportate, peccata, etsi sint quotidiana, non sint mortifera*. Ergo neque peccata venialia per hoc sacramentum tolluntur.]]
 ![[CERF IIIa, q. 79, a. 4#arg. 3]]
 
 ###### s.c.

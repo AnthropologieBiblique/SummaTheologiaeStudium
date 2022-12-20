@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 11, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 11, a. 4#s.c.|Sed contra est quod apostolus dicit, [[He 2]], *eum qui modico quam Angeli minoratus est, videmus Iesum, propter passionem mortis, gloria et honore coronatum*. Ex quo apparet quod propter solam passionem mortis dicatur Christus ab Angelis minoratus. Non ergo propter scientiam.]]
+![[LEO IIIa, q. 11, a. 4#s.c.|Sed contra est quod apostolus dicit, Heb. II, *eum qui modico quam Angeli minoratus est, videmus Iesum, propter passionem mortis, gloria et honore coronatum*. Ex quo apparet quod propter solam passionem mortis dicatur Christus ab Angelis minoratus. Non ergo propter scientiam.]]
 ![[CERF IIIa, q. 11, a. 4#s.c.]]
 
 ###### resp.

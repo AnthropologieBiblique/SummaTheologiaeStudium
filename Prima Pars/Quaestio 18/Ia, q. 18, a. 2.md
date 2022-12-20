@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 18, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 18, a. 2#arg. 3|Praeterea, cognoscere Deum est operatio quaedam. Haec autem est vita, ut patet per illud [[Jn 17]], *haec est autem vita aeterna, ut cognoscant te solum verum Deum*. Ergo vita est operatio.]]
+![[LEO Ia, q. 18, a. 2#arg. 3|Praeterea, cognoscere Deum est operatio quaedam. Haec autem est vita, ut patet per illud Ioan. XVII, *haec est autem vita aeterna, ut cognoscant te solum verum Deum*. Ergo vita est operatio.]]
 ![[CERF Ia, q. 18, a. 2#arg. 3]]
 
 ###### s.c.

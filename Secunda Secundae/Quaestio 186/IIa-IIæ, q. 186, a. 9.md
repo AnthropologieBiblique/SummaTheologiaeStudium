@@ -6,7 +6,7 @@ tags :
 ### Articulus 9
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 186, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod religiosus semper peccet mortaliter transgrediendo ea quae sunt in regula. Facere enim contra votum est peccatum damnabile, ut patet per id quod apostolus dicit, [[1 Tm 5]], quod *viduae quae volunt nubere. Damnationem habent, quia primam fidem irritam fecerunt*. Sed religiosi voto professionis ad regulam adstringuntur. Ergo peccant mortaliter transgrediendo ea quae in regula continentur.]]
+![[LEO IIa-IIæ, q. 186, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod religiosus semper peccet mortaliter transgrediendo ea quae sunt in regula. Facere enim contra votum est peccatum damnabile, ut patet per id quod apostolus dicit, I ad Tim. V, quod *viduae quae volunt nubere. Damnationem habent, quia primam fidem irritam fecerunt*. Sed religiosi voto professionis ad regulam adstringuntur. Ergo peccant mortaliter transgrediendo ea quae in regula continentur.]]
 ![[CERF IIa-IIæ, q. 186, a. 9#arg. 1]]
 
 ###### arg. 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 186, a. 9#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 186, a. 9#ad 3|Ad tertium dicendum quod tunc committit aliquis vel transgreditur ex contemptu, quando voluntas eius renuit subiici ordinationi legis vel regulae, et ex hoc procedit ad faciendum contra legem vel regulam. Quando autem e converso, propter aliquam particularem causam, puta concupiscentiam vel iram, inducitur ad aliquid faciendum contra statuta legis vel regulae, non peccat ex contemptu, sed ex aliqua alia causa, etiam si frequenter ex eadem causa, vel alia simili, peccatum iteret. Sicut etiam Augustinus dicit, in libro de natura et gratia, quod non omnia peccata committuntur ex contemptu superbiae. Frequentia tamen peccati dispositive inducit ad contemptum, secundum illud [[Pr 18]], *impius, cum in profundum venerit, contemnit*.]]
+![[LEO IIa-IIæ, q. 186, a. 9#ad 3|Ad tertium dicendum quod tunc committit aliquis vel transgreditur ex contemptu, quando voluntas eius renuit subiici ordinationi legis vel regulae, et ex hoc procedit ad faciendum contra legem vel regulam. Quando autem e converso, propter aliquam particularem causam, puta concupiscentiam vel iram, inducitur ad aliquid faciendum contra statuta legis vel regulae, non peccat ex contemptu, sed ex aliqua alia causa, etiam si frequenter ex eadem causa, vel alia simili, peccatum iteret. Sicut etiam Augustinus dicit, in libro de natura et gratia, quod non omnia peccata committuntur ex contemptu superbiae. Frequentia tamen peccati dispositive inducit ad contemptum, secundum illud Prov. XVIII, *impius, cum in profundum venerit, contemnit*.]]
 ![[CERF IIa-IIæ, q. 186, a. 9#ad 3]]
 

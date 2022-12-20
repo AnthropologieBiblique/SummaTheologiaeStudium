@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 109, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod homo possit resurgere a peccato sine auxilio gratiae. Illud enim quod praeexigitur ad gratiam, fit sine gratia. Sed resurgere a peccato praeexigitur ad illuminationem gratiae, dicitur enim ad [[Ep 5]], *exurge a mortuis, et illuminabit te Christus*. Ergo homo potest resurgere a peccato sine gratia.]]
+![[LEO Ia-IIæ, q. 109, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod homo possit resurgere a peccato sine auxilio gratiae. Illud enim quod praeexigitur ad gratiam, fit sine gratia. Sed resurgere a peccato praeexigitur ad illuminationem gratiae, dicitur enim ad Ephes. V, *exurge a mortuis, et illuminabit te Christus*. Ergo homo potest resurgere a peccato sine gratia.]]
 ![[CERF Ia-IIæ, q. 109, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 109, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 109, a. 7#s.c.|Sed contra est quod apostolus dicit, ad [[Ga 2]], *si data est lex quae potest iustificare, ergo Christus gratis mortuus est*, idest sine causa. Pari ergo ratione, si homo habet naturam per quam potest iustificari, Christus gratis, idest sine causa, mortuus est. Sed hoc est inconveniens dicere. Ergo non potest homo per seipsum iustificari, idest redire de statu culpae ad statum iustitiae.]]
+![[LEO Ia-IIæ, q. 109, a. 7#s.c.|Sed contra est quod apostolus dicit, ad Gal. II, *si data est lex quae potest iustificare, ergo Christus gratis mortuus est*, idest sine causa. Pari ergo ratione, si homo habet naturam per quam potest iustificari, Christus gratis, idest sine causa, mortuus est. Sed hoc est inconveniens dicere. Ergo non potest homo per seipsum iustificari, idest redire de statu culpae ad statum iustitiae.]]
 ![[CERF Ia-IIæ, q. 109, a. 7#s.c.]]
 
 ###### resp.

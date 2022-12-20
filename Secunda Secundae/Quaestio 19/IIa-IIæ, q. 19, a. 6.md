@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 19, a. 6#arg. 2|Praeterea, caritas Dei diffunditur in cordibus nostris per spiritum sanctum, qui datus est nobis, ut dicitur [[Rm 5]]. *Sed ubi spiritus domini, ibi libertas*, ut habetur II ad Cor. III. Cum ergo libertas excludat servitutem, videtur quod timor servilis expellatur caritate adveniente.]]
+![[LEO IIa-IIæ, q. 19, a. 6#arg. 2|Praeterea, caritas Dei diffunditur in cordibus nostris per spiritum sanctum, qui datus est nobis, ut dicitur Rom. V. *Sed ubi spiritus domini, ibi libertas*, ut habetur II ad Cor. III. Cum ergo libertas excludat servitutem, videtur quod timor servilis expellatur caritate adveniente.]]
 ![[CERF IIa-IIæ, q. 19, a. 6#arg. 2]]
 
 ###### arg. 3

@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 11, a. 3#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 11, a. 3#s.c.|Sed contra est quod dicitur [[Dt 6]], *audi, Israel, dominus Deus tuus unus est*.]]
+![[LEO Ia, q. 11, a. 3#s.c.|Sed contra est quod dicitur Deut. VI, *audi, Israel, dominus Deus tuus unus est*.]]
 ![[CERF Ia, q. 11, a. 3#s.c.]]
 
 ###### resp.

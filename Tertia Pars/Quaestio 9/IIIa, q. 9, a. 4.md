@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 9, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod in Christo non fuerit aliqua scientia experimentalis acquisita. Quidquid enim Christo conveniens fuit, excellentissime habuit. Sed Christus non habuit excellentissime scientiam acquisitam, non enim institit studio litterarum, quo perfectissime scientia acquiritur; dicitur enim [[Jn 7]], *mirabantur Iudaei, dicentes, quomodo hic litteras scit, cum non didicerit?* Ergo videtur quod in Christo non fuerit aliqua scientia acquisita.]]
+![[LEO IIIa, q. 9, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod in Christo non fuerit aliqua scientia experimentalis acquisita. Quidquid enim Christo conveniens fuit, excellentissime habuit. Sed Christus non habuit excellentissime scientiam acquisitam, non enim institit studio litterarum, quo perfectissime scientia acquiritur; dicitur enim Ioan. VII, *mirabantur Iudaei, dicentes, quomodo hic litteras scit, cum non didicerit?* Ergo videtur quod in Christo non fuerit aliqua scientia acquisita.]]
 ![[CERF IIIa, q. 9, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 9, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 9, a. 4#s.c.|Sed contra est quod [[He 5]] dicitur, *cum esset filius Dei, didicit ex his quae passus est, obedientiam*, Glossa, *idest, expertus est*. Fuit ergo in Christo aliqua experimentalis scientia, quae est scientia acquisita.]]
+![[LEO IIIa, q. 9, a. 4#s.c.|Sed contra est quod Heb. V dicitur, *cum esset filius Dei, didicit ex his quae passus est, obedientiam*, Glossa, *idest, expertus est*. Fuit ergo in Christo aliqua experimentalis scientia, quae est scientia acquisita.]]
 ![[CERF IIIa, q. 9, a. 4#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 9, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 9, a. 4#ad 1|Ad primum ergo dicendum quod, cum duplex sit modus acquirendi scientiam, scilicet inveniendo et addiscendo, modus qui est per inventionem est praecipuus, modus autem qui est per disciplinam est secundarius. Unde dicitur in I Ethic., *ille quidem est optimus qui omnia per seipsum intelligit, bonus autem et ille qui bene dicenti obediet*. Et ideo Christo magis competebat habere scientiam acquisitam per inventionem quam per disciplinam, praesertim cum ipse daretur a Deo omnibus in doctorem, secundum illud [[Jl 2]], *laetamini in domino Deo vestro, quia dedit vobis doctorem iustitiae*.]]
+![[LEO IIIa, q. 9, a. 4#ad 1|Ad primum ergo dicendum quod, cum duplex sit modus acquirendi scientiam, scilicet inveniendo et addiscendo, modus qui est per inventionem est praecipuus, modus autem qui est per disciplinam est secundarius. Unde dicitur in I Ethic., *ille quidem est optimus qui omnia per seipsum intelligit, bonus autem et ille qui bene dicenti obediet*. Et ideo Christo magis competebat habere scientiam acquisitam per inventionem quam per disciplinam, praesertim cum ipse daretur a Deo omnibus in doctorem, secundum illud Ioel II, *laetamini in domino Deo vestro, quia dedit vobis doctorem iustitiae*.]]
 ![[CERF IIIa, q. 9, a. 4#ad 1]]
 
 ###### ad 2

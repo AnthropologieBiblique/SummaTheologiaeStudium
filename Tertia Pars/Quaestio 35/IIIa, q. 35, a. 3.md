@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 35, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 35, a. 3#s.c.|Sed contra est quod dicitur [[Mt 1]], *Christi generatio sic erat. Cum esset desponsata mater Iesu Maria Ioseph,* et cetera.]]
+![[LEO IIIa, q. 35, a. 3#s.c.|Sed contra est quod dicitur Matth. I, *Christi generatio sic erat. Cum esset desponsata mater Iesu Maria Ioseph,* et cetera.]]
 ![[CERF IIIa, q. 35, a. 3#s.c.]]
 
 ###### resp.

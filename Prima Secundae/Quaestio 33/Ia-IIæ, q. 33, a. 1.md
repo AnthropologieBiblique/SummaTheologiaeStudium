@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 33, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod dilatatio non sit effectus delectationis. Dilatatio enim videtur ad amorem magis pertinere, secundum quod dicit apostolus, II ad Cor. VI, *cor nostrum dilatatum est*. Unde et de praecepto caritatis in [[Ps 118]], dicitur, *latum mandatum tuum nimis*. Sed delectatio est alia passio ab amore. Ergo dilatatio non est effectus delectationis.]]
+![[LEO Ia-IIæ, q. 33, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod dilatatio non sit effectus delectationis. Dilatatio enim videtur ad amorem magis pertinere, secundum quod dicit apostolus, II ad Cor. VI, *cor nostrum dilatatum est*. Unde et de praecepto caritatis in Psalmo CXVIII, dicitur, *latum mandatum tuum nimis*. Sed delectatio est alia passio ab amore. Ergo dilatatio non est effectus delectationis.]]
 ![[CERF Ia-IIæ, q. 33, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 33, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 33, a. 1#s.c.|Sed contra est quod, ad expressionem gaudii, dicitur [[Is 60]], *videbis, et affluens, et mirabitur et dilatabitur cor tuum*. Ipsa etiam delectatio ex dilatatione nomen accepit ut laetitia nominetur sicut supra dictum est.]]
+![[LEO Ia-IIæ, q. 33, a. 1#s.c.|Sed contra est quod, ad expressionem gaudii, dicitur Isaiae LX, *videbis, et affluens, et mirabitur et dilatabitur cor tuum*. Ipsa etiam delectatio ex dilatatione nomen accepit ut laetitia nominetur sicut supra dictum est.]]
 ![[CERF Ia-IIæ, q. 33, a. 1#s.c.]]
 
 ###### resp.

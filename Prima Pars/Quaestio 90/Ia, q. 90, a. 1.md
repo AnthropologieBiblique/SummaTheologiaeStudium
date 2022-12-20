@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 90, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod anima non sit facta, sed sit de substantia Dei. Dicitur enim [[Gn 2]], *formavit Deus hominem de limo terrae, et inspiravit in faciem eius spiraculum vitae, et factus est homo in animam viventem*. Sed ille qui spirat, aliquid a se emittit. Ergo anima qua homo vivit, est aliquid de substantia Dei.]]
+![[LEO Ia, q. 90, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod anima non sit facta, sed sit de substantia Dei. Dicitur enim Gen. II, *formavit Deus hominem de limo terrae, et inspiravit in faciem eius spiraculum vitae, et factus est homo in animam viventem*. Sed ille qui spirat, aliquid a se emittit. Ergo anima qua homo vivit, est aliquid de substantia Dei.]]
 ![[CERF Ia, q. 90, a. 1#arg. 1]]
 
 ###### arg. 2

@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 63, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod virtus sit in nobis a natura. Dicit enim Damascenus, in III libro, *naturales sunt virtutes, et aequaliter insunt omnibus*. Et Antonius dicit, in sermone ad monachos, *si naturam voluntas mutaverit, perversitas est; conditio servetur, et virtus est*. Et [[Mt 4]], super illud, *circuibat Iesus* etc., dicit Glossa, *docet naturales iustitias, scilicet castitatem, iustitiam, humilitatem, quas naturaliter habet homo*.]]
+![[LEO Ia-IIæ, q. 63, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod virtus sit in nobis a natura. Dicit enim Damascenus, in III libro, *naturales sunt virtutes, et aequaliter insunt omnibus*. Et Antonius dicit, in sermone ad monachos, *si naturam voluntas mutaverit, perversitas est; conditio servetur, et virtus est*. Et Matth. IV, super illud, *circuibat Iesus* etc., dicit Glossa, *docet naturales iustitias, scilicet castitatem, iustitiam, humilitatem, quas naturaliter habet homo*.]]
 ![[CERF Ia-IIæ, q. 63, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 63, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 63, a. 1#arg. 3|Praeterea, illud dicitur esse nobis naturale, quod nobis a nativitate inest. Sed virtutes quibusdam a nativitate insunt, dicitur enim [[Jb 31]], *ab infantia crevit mecum miseratio, et de utero egressa est mecum*. Ergo virtus inest homini a natura.]]
+![[LEO Ia-IIæ, q. 63, a. 1#arg. 3|Praeterea, illud dicitur esse nobis naturale, quod nobis a nativitate inest. Sed virtutes quibusdam a nativitate insunt, dicitur enim Iob XXXI, *ab infantia crevit mecum miseratio, et de utero egressa est mecum*. Ergo virtus inest homini a natura.]]
 ![[CERF Ia-IIæ, q. 63, a. 1#arg. 3]]
 
 ###### s.c.

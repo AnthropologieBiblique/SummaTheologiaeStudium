@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 21, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 21, a. 2#arg. 2|Praeterea, eius videtur esse orare cuius est desiderare illud quod petitur. Sed Christus petivit aliquid quod desideravit sensualitas, cum dixit, *transeat a me calix iste*, ut habetur [[Mt 26]]. Ergo sensualitas Christi oravit.]]
+![[LEO IIIa, q. 21, a. 2#arg. 2|Praeterea, eius videtur esse orare cuius est desiderare illud quod petitur. Sed Christus petivit aliquid quod desideravit sensualitas, cum dixit, *transeat a me calix iste*, ut habetur Matth. XXVI. Ergo sensualitas Christi oravit.]]
 ![[CERF IIIa, q. 21, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 21, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 21, a. 2#s.c.|Sed contra est quod [[Ph 2]] dicitur quod filius Dei, secundum naturam quam assumpsit, est in similitudinem hominum factus. Sed alii homines non orant secundum sensualitatem. Ergo nec Christus oravit secundum sensualitatem.]]
+![[LEO IIIa, q. 21, a. 2#s.c.|Sed contra est quod Philipp. II dicitur quod filius Dei, secundum naturam quam assumpsit, est in similitudinem hominum factus. Sed alii homines non orant secundum sensualitatem. Ergo nec Christus oravit secundum sensualitatem.]]
 ![[CERF IIIa, q. 21, a. 2#s.c.]]
 
 ###### resp.

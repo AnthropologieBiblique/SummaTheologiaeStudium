@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 10, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 10, a. 1#arg. 4|Praeterea, plures dies non possunt esse simul, nec plura tempora. Sed in aeternitate pluraliter dicuntur dies et tempora, dicitur enim [[Mi 5]], *egressus eius ab initio, a diebus aeternitatis*; et ad Rom., XVI cap., *secundum revelationem mysterii temporibus aeternis taciti*. Ergo aeternitas non est tota simul.]]
+![[LEO Ia, q. 10, a. 1#arg. 4|Praeterea, plures dies non possunt esse simul, nec plura tempora. Sed in aeternitate pluraliter dicuntur dies et tempora, dicitur enim Micheae V, *egressus eius ab initio, a diebus aeternitatis*; et ad Rom., XVI cap., *secundum revelationem mysterii temporibus aeternis taciti*. Ergo aeternitas non est tota simul.]]
 ![[CERF Ia, q. 10, a. 1#arg. 4]]
 
 ###### arg. 5

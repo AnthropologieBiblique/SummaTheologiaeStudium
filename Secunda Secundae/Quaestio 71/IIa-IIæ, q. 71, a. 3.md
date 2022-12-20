@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 71, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 71, a. 3#s.c.|Sed contra est quod dicitur [[2 Ch 19]], *impio praebes auxilium, et idcirco iram domini merebaris*. Sed advocatus defendens causam iniustam impio praebet auxilium. Ergo, peccando, iram domini meretur.]]
+![[LEO IIa-IIæ, q. 71, a. 3#s.c.|Sed contra est quod dicitur II Paralip. XIX, *impio praebes auxilium, et idcirco iram domini merebaris*. Sed advocatus defendens causam iniustam impio praebet auxilium. Ergo, peccando, iram domini meretur.]]
 ![[CERF IIa-IIæ, q. 71, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 71, a. 3#resp.|Respondeo dicendum quod illicitum est alicui cooperari ad malum faciendum sive consulendo, sive adiuvando, sive qualitercumque consentiendo, quia consilians et coadiuvans quodammodo est faciens; et apostolus dicit, ad [[Rm 1]], quod *digni sunt morte non solum qui faciunt peccatum, sed etiam qui consentiunt facientibus*. Unde et supra dictum est quod omnes tales ad restitutionem tenentur. Manifestum est autem quod advocatus et auxilium et consilium praestat ei cuius causae patrocinatur. Unde si scienter iniustam causam defendit, absque dubio graviter peccat; et ad restitutionem tenetur eius damni quod contra iustitiam per eius auxilium altera pars incurrit. Si autem ignoranter iniustam causam defendit, putans esse iustam, excusatur, secundum modum quo ignorantia excusare potest.]]
+![[LEO IIa-IIæ, q. 71, a. 3#resp.|Respondeo dicendum quod illicitum est alicui cooperari ad malum faciendum sive consulendo, sive adiuvando, sive qualitercumque consentiendo, quia consilians et coadiuvans quodammodo est faciens; et apostolus dicit, ad Rom. I, quod *digni sunt morte non solum qui faciunt peccatum, sed etiam qui consentiunt facientibus*. Unde et supra dictum est quod omnes tales ad restitutionem tenentur. Manifestum est autem quod advocatus et auxilium et consilium praestat ei cuius causae patrocinatur. Unde si scienter iniustam causam defendit, absque dubio graviter peccat; et ad restitutionem tenetur eius damni quod contra iustitiam per eius auxilium altera pars incurrit. Si autem ignoranter iniustam causam defendit, putans esse iustam, excusatur, secundum modum quo ignorantia excusare potest.]]
 ![[CERF IIa-IIæ, q. 71, a. 3#resp.]]
 
 ###### ad 1

@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 55, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod prudentia carnis sit peccatum mortale. Rebellare enim divinae legi est peccatum mortale quia per hoc dominus contemnitur. Sed prudentia carnis non est subiecta legi Dei, ut habetur [[Rm 8]]. Ergo prudentia carnis est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 55, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod prudentia carnis sit peccatum mortale. Rebellare enim divinae legi est peccatum mortale quia per hoc dominus contemnitur. Sed prudentia carnis non est subiecta legi Dei, ut habetur Rom. VIII. Ergo prudentia carnis est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 55, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 55, a. 2#arg. 2|Praeterea, omne peccatum in spiritum sanctum est peccatum mortale. Sed prudentia carnis videtur esse peccatum in spiritum sanctum, non enim potest esse subiecta legi Dei, ut dicitur [[Rm 8]]; et ita videtur esse peccatum irremissibile, quod est proprium peccati in spiritum sanctum. Ergo prudentia carnis est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 55, a. 2#arg. 2|Praeterea, omne peccatum in spiritum sanctum est peccatum mortale. Sed prudentia carnis videtur esse peccatum in spiritum sanctum, non enim potest esse subiecta legi Dei, ut dicitur Rom. VIII; et ita videtur esse peccatum irremissibile, quod est proprium peccati in spiritum sanctum. Ergo prudentia carnis est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 55, a. 2#arg. 2]]
 
 ###### arg. 3

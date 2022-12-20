@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 29#Prooemium|Deinde considerandum est de pace. Et circa hoc quaeruntur quatuor. Primo, utrum pax sit idem quod concordia. Secundo, utrum omnia appetant pacem. Tertio, utrum pax sit effectus caritatis. Quarto, utrum pax sit virtus.]]
-![[CERF IIa-IIæ, q. 29#Prooemium]]
+Deinde considerandum est de pace. Et circa hoc quaeruntur quatuor. Primo, utrum pax sit idem quod concordia. Secundo, utrum omnia appetant pacem. Tertio, utrum pax sit effectus caritatis. Quarto, utrum pax sit virtus.
 
 ![[IIa-IIæ, q. 29, a. 1#Articulus 1]]
 

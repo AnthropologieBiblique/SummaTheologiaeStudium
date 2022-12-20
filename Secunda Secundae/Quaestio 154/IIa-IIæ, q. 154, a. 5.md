@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 154, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod nocturna pollutio sit peccatum. Meritum enim et demeritum habent fieri circa idem. Sed dormiens potest mereri, sicut patet de Salomone, qui dormiens a domino donum sapientiae impetravit, ut dicitur [[1R 3]], et [[2 Ch 1]]. Ergo in dormiendo potest aliquis demereri. Et ita videtur quod nocturna pollutio sit peccatum.]]
+![[LEO IIa-IIæ, q. 154, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod nocturna pollutio sit peccatum. Meritum enim et demeritum habent fieri circa idem. Sed dormiens potest mereri, sicut patet de Salomone, qui dormiens a domino donum sapientiae impetravit, ut dicitur III Reg. III, et II Paralip. I. Ergo in dormiendo potest aliquis demereri. Et ita videtur quod nocturna pollutio sit peccatum.]]
 ![[CERF IIa-IIæ, q. 154, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 154, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 154, a. 5#arg. 3|Praeterea, frustra increpatur et instruitur qui non potest vel agere secundum rationem vel contra rationem. Sed homo in somnis instruitur a Deo et increpatur, secundum illud [[Jb 33]], *per somnium, in visione nocturna, quando sopor solet occupare homines, tunc aperit aures virorum, et erudiens eos instruit disciplina*. Ergo in somnis potest aliquis agere secundum rationem vel contra rationem, quod est bene agere vel peccare. Et sic videtur quod pollutio nocturna sit peccatum.]]
+![[LEO IIa-IIæ, q. 154, a. 5#arg. 3|Praeterea, frustra increpatur et instruitur qui non potest vel agere secundum rationem vel contra rationem. Sed homo in somnis instruitur a Deo et increpatur, secundum illud Iob XXXIII, *per somnium, in visione nocturna, quando sopor solet occupare homines, tunc aperit aures virorum, et erudiens eos instruit disciplina*. Ergo in somnis potest aliquis agere secundum rationem vel contra rationem, quod est bene agere vel peccare. Et sic videtur quod pollutio nocturna sit peccatum.]]
 ![[CERF IIa-IIæ, q. 154, a. 5#arg. 3]]
 
 ###### s.c.

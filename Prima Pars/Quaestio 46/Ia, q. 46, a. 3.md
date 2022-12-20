@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia, q. 46, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 46, a. 3#s.c.|Sed contra est quod [[Gn 1]] dicitur, *in principio creavit Deus caelum et terram*.]]
+![[LEO Ia, q. 46, a. 3#s.c.|Sed contra est quod Gen. I dicitur, *in principio creavit Deus caelum et terram*.]]
 ![[CERF Ia, q. 46, a. 3#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 46, a. 3#resp.|Respondeo dicendum quod illud verbum Genes. I, *in principio creavit Deus caelum et terram*, tripliciter exponitur, ad excludendum tres errores. Quidam enim posuerunt mundum semper fuisse, et tempus non habere principium. Et ad hoc excludendum, exponitur, in principio, scilicet temporis. Quidam vero posuerunt duo esse creationis principia, unum bonorum, aliud malorum. Et ad hoc excludendum, exponitur, in principio, idest in filio. Sicut enim principium effectivum appropriatur patri, propter potentiam, ita principium exemplare appropriatur filio, propter sapientiam, ut sicut dicitur, omnia in sapientia fecisti, ita intelligatur Deum omnia fecisse in principio, idest in filio; secundum illud apostoli ad [[Col 1]], in ipso, scilicet filio, condita sunt universa. Alii vero dixerunt corporalia esse creata a Deo mediantibus creaturis spiritualibus. Et ad hoc excludendum, exponitur, in principio creavit Deus caelum et terram, idest ante omnia. Quatuor enim ponuntur simul creata, scilicet caelum Empyreum, materia corporalis (quae nomine terrae intelligitur), tempus, et natura angelica.]]
+![[LEO Ia, q. 46, a. 3#resp.|Respondeo dicendum quod illud verbum Genes. I, *in principio creavit Deus caelum et terram*, tripliciter exponitur, ad excludendum tres errores. Quidam enim posuerunt mundum semper fuisse, et tempus non habere principium. Et ad hoc excludendum, exponitur, in principio, scilicet temporis. Quidam vero posuerunt duo esse creationis principia, unum bonorum, aliud malorum. Et ad hoc excludendum, exponitur, in principio, idest in filio. Sicut enim principium effectivum appropriatur patri, propter potentiam, ita principium exemplare appropriatur filio, propter sapientiam, ut sicut dicitur, omnia in sapientia fecisti, ita intelligatur Deum omnia fecisse in principio, idest in filio; secundum illud apostoli ad Coloss. I, in ipso, scilicet filio, condita sunt universa. Alii vero dixerunt corporalia esse creata a Deo mediantibus creaturis spiritualibus. Et ad hoc excludendum, exponitur, in principio creavit Deus caelum et terram, idest ante omnia. Quatuor enim ponuntur simul creata, scilicet caelum Empyreum, materia corporalis (quae nomine terrae intelligitur), tempus, et natura angelica.]]
 ![[CERF Ia, q. 46, a. 3#resp.]]
 
 ###### ad 1

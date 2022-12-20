@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 161, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 161, a. 1#arg. 2|Praeterea, virtus et vitium opponuntur. Sed humilitas quandoque sonat in vitium, dicitur enim [[Si 19]], est qui nequiter se humiliat. Ergo humilitas non est virtus.]]
+![[LEO IIa-IIæ, q. 161, a. 1#arg. 2|Praeterea, virtus et vitium opponuntur. Sed humilitas quandoque sonat in vitium, dicitur enim Eccli. XIX, est qui nequiter se humiliat. Ergo humilitas non est virtus.]]
 ![[CERF IIa-IIæ, q. 161, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 161, a. 1#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 161, a. 1#s.c.|Sed contra est quod Origenes dicit, exponens illud [[Lc 1]], *respexit humilitatem ancillae suae, proprie in Scripturis una de virtutibus humilitas praedicatur, ait quippe salvator, discite a me, quia mitis sum et humilis corde*.]]
+![[LEO IIa-IIæ, q. 161, a. 1#s.c.|Sed contra est quod Origenes dicit, exponens illud Luc. I, *respexit humilitatem ancillae suae, proprie in Scripturis una de virtutibus humilitas praedicatur, ait quippe salvator, discite a me, quia mitis sum et humilis corde*.]]
 ![[CERF IIa-IIæ, q. 161, a. 1#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIa-IIæ, q. 161, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 161, a. 1#ad 1|Ad primum ergo dicendum quod, sicut Isidorus dicit, in libro Etymol., humilis dicitur quasi humi acclinis, idest, imis inhaerens. Quod quidem contingit dupliciter. Uno modo, ex principio extrinseco, puta cum aliquis ab alio deiicitur. Et sic humilitas est poena. Alio modo, a principio intrinseco. Et hoc potest fieri quandoque quidem bene, puta cum aliquis, considerans suum defectum, tenet se in infimis secundum suum modum; sicut Abraham dixit ad dominum, [[Gn 18]], *loquar ad dominum meum, cum sim pulvis et cinis*. Et hoc modo humilitas ponitur virtus. Quandoque autem potest fieri male, puta cum homo, honorem suum non intelligens, comparat se iumentis insipientibus, et fit similis illis.]]
+![[LEO IIa-IIæ, q. 161, a. 1#ad 1|Ad primum ergo dicendum quod, sicut Isidorus dicit, in libro Etymol., humilis dicitur quasi humi acclinis, idest, imis inhaerens. Quod quidem contingit dupliciter. Uno modo, ex principio extrinseco, puta cum aliquis ab alio deiicitur. Et sic humilitas est poena. Alio modo, a principio intrinseco. Et hoc potest fieri quandoque quidem bene, puta cum aliquis, considerans suum defectum, tenet se in infimis secundum suum modum; sicut Abraham dixit ad dominum, Gen. XVIII, *loquar ad dominum meum, cum sim pulvis et cinis*. Et hoc modo humilitas ponitur virtus. Quandoque autem potest fieri male, puta cum homo, honorem suum non intelligens, comparat se iumentis insipientibus, et fit similis illis.]]
 ![[CERF IIa-IIæ, q. 161, a. 1#ad 1]]
 
 ###### ad 2
@@ -46,7 +46,7 @@ tags :
 ![[CERF IIa-IIæ, q. 161, a. 1#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 161, a. 1#ad 4|Ad quartum dicendum quod perfectum dicitur aliquid dupliciter. Uno modo, simpliciter, in quo scilicet nullus defectus invenitur, nec secundum suam naturam, nec per respectum ad aliquid aliud. Et sic solus Deus est perfectus, cui secundum naturam divinam non competit humilitas, sed solum secundum naturam assumptam. Alio modo potest dici aliquid perfectum secundum quid, puta secundum suam naturam, vel secundum statum aut tempus. Et hoc modo homo virtuosus est perfectus. Cuius tamen perfectio in comparatione ad Deum deficiens invenitur, secundum illud [[Is 40]], *omnes gentes, quasi non sint, sic sunt coram eo*. Et sic cuilibet homini potest convenire humilitas.]]
+![[LEO IIa-IIæ, q. 161, a. 1#ad 4|Ad quartum dicendum quod perfectum dicitur aliquid dupliciter. Uno modo, simpliciter, in quo scilicet nullus defectus invenitur, nec secundum suam naturam, nec per respectum ad aliquid aliud. Et sic solus Deus est perfectus, cui secundum naturam divinam non competit humilitas, sed solum secundum naturam assumptam. Alio modo potest dici aliquid perfectum secundum quid, puta secundum suam naturam, vel secundum statum aut tempus. Et hoc modo homo virtuosus est perfectus. Cuius tamen perfectio in comparatione ad Deum deficiens invenitur, secundum illud Isaiae XL, *omnes gentes, quasi non sint, sic sunt coram eo*. Et sic cuilibet homini potest convenire humilitas.]]
 ![[CERF IIa-IIæ, q. 161, a. 1#ad 4]]
 
 ###### ad 5

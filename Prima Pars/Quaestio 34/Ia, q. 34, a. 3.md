@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia, q. 34, a. 3#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 34, a. 3#resp.|Respondeo dicendum quod in verbo importatur respectus ad creaturam. Deus enim, cognoscendo se, cognoscit omnem creaturam. Verbum autem in mente conceptum, est repraesentativum omnis eius quod actu intelligitur. Unde in nobis sunt diversa verba, secundum diversa quae intelligimus. Sed quia Deus uno actu et se et omnia intelligit, unicum verbum eius est expressivum non solum patris, sed etiam creaturarum. Et sicut Dei scientia Dei quidem est cognoscitiva tantum, creaturarum autem cognoscitiva et factiva; ita verbum Dei eius quod in Deo patre est, est expressivum tantum, creaturarum vero est expressivum et operativum. Et propter hoc dicitur in [[Ps 32]], *dixit, et facta sunt*; quia in verbo importatur ratio factiva eorum quae Deus facit.]]
+![[LEO Ia, q. 34, a. 3#resp.|Respondeo dicendum quod in verbo importatur respectus ad creaturam. Deus enim, cognoscendo se, cognoscit omnem creaturam. Verbum autem in mente conceptum, est repraesentativum omnis eius quod actu intelligitur. Unde in nobis sunt diversa verba, secundum diversa quae intelligimus. Sed quia Deus uno actu et se et omnia intelligit, unicum verbum eius est expressivum non solum patris, sed etiam creaturarum. Et sicut Dei scientia Dei quidem est cognoscitiva tantum, creaturarum autem cognoscitiva et factiva; ita verbum Dei eius quod in Deo patre est, est expressivum tantum, creaturarum vero est expressivum et operativum. Et propter hoc dicitur in Psalmo XXXII, *dixit, et facta sunt*; quia in verbo importatur ratio factiva eorum quae Deus facit.]]
 ![[CERF Ia, q. 34, a. 3#resp.]]
 
 ###### ad 1

@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 88, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod votum non semper debeat fieri de meliori bono. Dicitur enim melius bonum quod ad supererogationem pertinet. Sed votum non solum fit de his quae sunt supererogationis, sed etiam de his quae pertinent ad salutem. Nam et *in Baptismo vovent homines abrenuntiare Diabolo et pompis eius, et fidem servare*, ut dicit Glossa, super illud Psalm., *vovete et reddite domino Deo vestro*. Iacob etiam vovit quod esset ei dominus in Deum, ut habetur [[Gn 28]], hoc autem est maxime de necessitate salutis. Ergo votum non solum fit de meliori bono.]]
+![[LEO IIa-IIæ, q. 88, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod votum non semper debeat fieri de meliori bono. Dicitur enim melius bonum quod ad supererogationem pertinet. Sed votum non solum fit de his quae sunt supererogationis, sed etiam de his quae pertinent ad salutem. Nam et *in Baptismo vovent homines abrenuntiare Diabolo et pompis eius, et fidem servare*, ut dicit Glossa, super illud Psalm., *vovete et reddite domino Deo vestro*. Iacob etiam vovit quod esset ei dominus in Deum, ut habetur Gen. XXVIII, hoc autem est maxime de necessitate salutis. Ergo votum non solum fit de meliori bono.]]
 ![[CERF IIa-IIæ, q. 88, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 88, a. 2#arg. 2|Praeterea, Iephte in catalogo sanctorum ponitur, ut patet [[He 11]]. Sed ipse filiam innocentem occidit propter votum, ut habetur [[Jg 11]]. Cum igitur occisio innocentis non sit melius bonum, sed sit secundum se illicitum, videtur quod votum fieri possit non solum de meliori bono, sed etiam de illicitis.]]
+![[LEO IIa-IIæ, q. 88, a. 2#arg. 2|Praeterea, Iephte in catalogo sanctorum ponitur, ut patet Heb. XI. Sed ipse filiam innocentem occidit propter votum, ut habetur Iudic. XI. Cum igitur occisio innocentis non sit melius bonum, sed sit secundum se illicitum, videtur quod votum fieri possit non solum de meliori bono, sed etiam de illicitis.]]
 ![[CERF IIa-IIæ, q. 88, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 88, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 88, a. 2#s.c.|Sed contra est quod dicitur [[Dt 23]], *si nolueris polliceri, absque peccato eris*.]]
+![[LEO IIa-IIæ, q. 88, a. 2#s.c.|Sed contra est quod dicitur Deut. XXIII, *si nolueris polliceri, absque peccato eris*.]]
 ![[CERF IIa-IIæ, q. 88, a. 2#s.c.]]
 
 ###### resp.
@@ -30,10 +30,10 @@ tags :
 ![[CERF IIa-IIæ, q. 88, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 88, a. 2#ad 2|Ad secundum dicendum quod quaedam sunt quae in omnem eventum sunt bona, sicut opera virtutis et alia quae absolute possunt cadere sub voto. Quaedam vero in omnem eventum sunt mala, sicut ea quae secundum se sunt peccata. Et haec nullo modo possunt sub voto cadere. Quaedam vero sunt quidem in se considerata bona, et secundum hoc possunt cadere sub voto, possunt tamen habere malum eventum, in quo non sunt observanda. Et sic accidit in voto Iephte, qui ut dicitur [[Jg 11]], *votum vovit domino, dicens, si tradideris filios Ammon in manus meas, quicumque primus egressus fuerit de foribus domus meae mihique occurrerit revertenti in pace, eum offeram holocaustum domino*. Hoc enim poterat malum eventum habere, si occurreret ei aliquod animal non immolativum, sicut asinus vel homo, quod et accidit. Unde, ut Hieronymus dicit, in vovendo fuit stultus, quia discretionem non adhibuit, et in reddendo impius. Praemittitur tamen ibidem quod factus est super eum spiritus domini, quia fides et devotio ipsius, ex qua motus est ad vovendum, fuit a spiritu sancto. Propter quod ponitur in catalogo sanctorum, et propter victoriam quam obtinuit; et quia probabile est eum poenituisse de facto iniquo, quod tamen aliquod bonum figurabat.]]
+![[LEO IIa-IIæ, q. 88, a. 2#ad 2|Ad secundum dicendum quod quaedam sunt quae in omnem eventum sunt bona, sicut opera virtutis et alia quae absolute possunt cadere sub voto. Quaedam vero in omnem eventum sunt mala, sicut ea quae secundum se sunt peccata. Et haec nullo modo possunt sub voto cadere. Quaedam vero sunt quidem in se considerata bona, et secundum hoc possunt cadere sub voto, possunt tamen habere malum eventum, in quo non sunt observanda. Et sic accidit in voto Iephte, qui ut dicitur Iudic. XI, *votum vovit domino, dicens, si tradideris filios Ammon in manus meas, quicumque primus egressus fuerit de foribus domus meae mihique occurrerit revertenti in pace, eum offeram holocaustum domino*. Hoc enim poterat malum eventum habere, si occurreret ei aliquod animal non immolativum, sicut asinus vel homo, quod et accidit. Unde, ut Hieronymus dicit, in vovendo fuit stultus, quia discretionem non adhibuit, et in reddendo impius. Praemittitur tamen ibidem quod factus est super eum spiritus domini, quia fides et devotio ipsius, ex qua motus est ad vovendum, fuit a spiritu sancto. Propter quod ponitur in catalogo sanctorum, et propter victoriam quam obtinuit; et quia probabile est eum poenituisse de facto iniquo, quod tamen aliquod bonum figurabat.]]
 ![[CERF IIa-IIæ, q. 88, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 88, a. 2#ad 3|Ad tertium dicendum quod maceratio proprii corporis, puta per vigilias et ieiunia, non est Deo accepta nisi inquantum est opus virtutis, quod quidem est inquantum cum debita discretione fit, ut scilicet concupiscentia refrenetur et natura non nimis gravetur. Et sub tali tenore possunt huiusmodi sub voto cadere. Propter quod et apostolus, [[Rm 12]], postquam dixerat, *exhibeatis corpora vestra hostiam viventem, sanctam, Deo placentem*, addidit, *rationabile obsequium vestrum*. Sed quia in his quae ad seipsum pertinent de facili fallitur homo in iudicando, talia vota congruentius secundum arbitrium superioris sunt vel servanda vel praetermittenda. Ita tamen quod si ex observatione talis voti magnum et manifestum gravamen sentiret, et non esset facultas ad superiorem recurrendi, non debet homo tale votum servare. Vota vero quae sunt de rebus vanis et inutilibus sunt magis deridenda quam servanda.]]
+![[LEO IIa-IIæ, q. 88, a. 2#ad 3|Ad tertium dicendum quod maceratio proprii corporis, puta per vigilias et ieiunia, non est Deo accepta nisi inquantum est opus virtutis, quod quidem est inquantum cum debita discretione fit, ut scilicet concupiscentia refrenetur et natura non nimis gravetur. Et sub tali tenore possunt huiusmodi sub voto cadere. Propter quod et apostolus, Rom. XII, postquam dixerat, *exhibeatis corpora vestra hostiam viventem, sanctam, Deo placentem*, addidit, *rationabile obsequium vestrum*. Sed quia in his quae ad seipsum pertinent de facili fallitur homo in iudicando, talia vota congruentius secundum arbitrium superioris sunt vel servanda vel praetermittenda. Ita tamen quod si ex observatione talis voti magnum et manifestum gravamen sentiret, et non esset facultas ad superiorem recurrendi, non debet homo tale votum servare. Vota vero quae sunt de rebus vanis et inutilibus sunt magis deridenda quam servanda.]]
 ![[CERF IIa-IIæ, q. 88, a. 2#ad 3]]
 

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 99#Prooemium|Deinde considerandum est de conditione prolis generandae. Et primo, quantum ad corpus; secundo, quantum ad iustitiam; tertio, quantum ad scientiam. Circa primum quaeruntur duo. Primo, utrum in statu innocentiae pueri mox geniti habuissent perfectam virtutem corpoream. Secundo, utrum omnes fuissent nati in sexu masculino.]]
-![[CERF Ia, q. 99#Prooemium]]
+Deinde considerandum est de conditione prolis generandae. Et primo, quantum ad corpus; secundo, quantum ad iustitiam; tertio, quantum ad scientiam. Circa primum quaeruntur duo. Primo, utrum in statu innocentiae pueri mox geniti habuissent perfectam virtutem corpoream. Secundo, utrum omnes fuissent nati in sexu masculino.
 
 ![[Ia, q. 99, a. 1#Articulus 1]]
 

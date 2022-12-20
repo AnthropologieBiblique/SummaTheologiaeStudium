@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 108, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod vindicatio non debeat fieri per poenas apud homines consuetas. Occisio enim hominis est quaedam eradicatio eius. Sed dominus mandavit, [[Mt 13]], quod zizania, per quae significantur filii nequam, non eradicarentur. Ergo peccatores non sunt occidendi.]]
+![[LEO IIa-IIæ, q. 108, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod vindicatio non debeat fieri per poenas apud homines consuetas. Occisio enim hominis est quaedam eradicatio eius. Sed dominus mandavit, Matth. XIII, quod zizania, per quae significantur filii nequam, non eradicarentur. Ergo peccatores non sunt occidendi.]]
 ![[CERF IIa-IIæ, q. 108, a. 3#arg. 1]]
 
 ###### arg. 2

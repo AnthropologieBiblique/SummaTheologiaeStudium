@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 5, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod filius Dei non assumpserit verum corpus. Dicitur enim [[Ph 2]] quod *in similitudinem hominum factus est*. Sed quod est secundum veritatem, non dicitur esse secundum similitudinem. Ergo filius Dei non assumpsit verum corpus.]]
+![[LEO IIIa, q. 5, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod filius Dei non assumpserit verum corpus. Dicitur enim Philipp. II quod *in similitudinem hominum factus est*. Sed quod est secundum veritatem, non dicitur esse secundum similitudinem. Ergo filius Dei non assumpsit verum corpus.]]
 ![[CERF IIIa, q. 5, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 5, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 5, a. 1#arg. 3|Praeterea, signa debent respondere signatis. Sed apparitiones veteris testamenti, quae fuerunt signa et figurae apparitionis Christi, non fuerunt secundum corporis veritatem, sed secundum imaginariam visionem, sicut patet [[Is 6]], *vidi dominum sedentem*, et cetera. Ergo videtur quod etiam apparitio filii Dei in mundum non fuerit secundum corporis veritatem, sed solum secundum imaginationem.]]
+![[LEO IIIa, q. 5, a. 1#arg. 3|Praeterea, signa debent respondere signatis. Sed apparitiones veteris testamenti, quae fuerunt signa et figurae apparitionis Christi, non fuerunt secundum corporis veritatem, sed secundum imaginariam visionem, sicut patet Isaiae VI, *vidi dominum sedentem*, et cetera. Ergo videtur quod etiam apparitio filii Dei in mundum non fuerit secundum corporis veritatem, sed solum secundum imaginationem.]]
 ![[CERF IIIa, q. 5, a. 1#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 5, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 5, a. 1#ad 3|Ad tertium dicendum quod figura respondere debet quantum ad similitudinem, non quantum ad rei veritatem, *si enim per omnia esset similitudo, iam non esset signum, sed ipsa res*, ut Damascenus dicit, in III libro. Conveniens igitur fuit ut apparitiones veteris testamenti essent secundum apparentiam tantum, quasi figurae, apparitio autem filii Dei in mundo esset secundum corporis veritatem, quasi res figurata sive signata per illas figuras. Unde apostolus, [[Col 2]], *quae sunt umbra futurorum, corpus autem Christi*.]]
+![[LEO IIIa, q. 5, a. 1#ad 3|Ad tertium dicendum quod figura respondere debet quantum ad similitudinem, non quantum ad rei veritatem, *si enim per omnia esset similitudo, iam non esset signum, sed ipsa res*, ut Damascenus dicit, in III libro. Conveniens igitur fuit ut apparitiones veteris testamenti essent secundum apparentiam tantum, quasi figurae, apparitio autem filii Dei in mundo esset secundum corporis veritatem, quasi res figurata sive signata per illas figuras. Unde apostolus, Coloss. II, *quae sunt umbra futurorum, corpus autem Christi*.]]
 ![[CERF IIIa, q. 5, a. 1#ad 3]]
 

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 61, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 61, a. 3#arg. 3|Praeterea, quanto magis est aliquid propinquum perfecto, tanto magis debet ei assimilari. Sed perfectio salutis humanae per Christum facta est, cui propinquiora fuerunt sacramenta veteris legis quam ea quae fuerunt ante legem. Ergo debuerunt esse similiora sacramentis Christi. Cuius tamen contrarium apparet, ex eo quod sacerdotium Christi praedicitur esse futurum *secundum ordinem Melchisedech, et non secundum ordinem Aaron*, ut habetur [[He 7]]. Non ergo convenienter fuerunt disposita ante Christum sacramenta.]]
+![[LEO IIIa, q. 61, a. 3#arg. 3|Praeterea, quanto magis est aliquid propinquum perfecto, tanto magis debet ei assimilari. Sed perfectio salutis humanae per Christum facta est, cui propinquiora fuerunt sacramenta veteris legis quam ea quae fuerunt ante legem. Ergo debuerunt esse similiora sacramentis Christi. Cuius tamen contrarium apparet, ex eo quod sacerdotium Christi praedicitur esse futurum *secundum ordinem Melchisedech, et non secundum ordinem Aaron*, ut habetur Heb. VII. Non ergo convenienter fuerunt disposita ante Christum sacramenta.]]
 ![[CERF IIIa, q. 61, a. 3#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 61, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 61, a. 3#ad 3|Ad tertium dicendum quod sacramentum Melchisedech, quod fuit ante legem, magis assimilatur sacramento novae legis in materia, inquantum scilicet obtulit panem et vinum, ut habetur [[Gn 14]], sicut etiam sacrificium novi testamenti oblatione panis et vini perficitur. Sacramenta tamen legis Mosaicae magis assimilantur rei significatae per sacramentum, scilicet passioni Christi, ut patet de agno paschali et aliis huiusmodi. Et hoc ideo ne, propter continuitatem temporis, si permaneret eadem sacramentorum species, videretur esse sacramenti eiusdem continuatio.]]
+![[LEO IIIa, q. 61, a. 3#ad 3|Ad tertium dicendum quod sacramentum Melchisedech, quod fuit ante legem, magis assimilatur sacramento novae legis in materia, inquantum scilicet obtulit panem et vinum, ut habetur Gen. XIV, sicut etiam sacrificium novi testamenti oblatione panis et vini perficitur. Sacramenta tamen legis Mosaicae magis assimilantur rei significatae per sacramentum, scilicet passioni Christi, ut patet de agno paschali et aliis huiusmodi. Et hoc ideo ne, propter continuitatem temporis, si permaneret eadem sacramentorum species, videretur esse sacramenti eiusdem continuatio.]]
 ![[CERF IIIa, q. 61, a. 3#ad 3]]
 

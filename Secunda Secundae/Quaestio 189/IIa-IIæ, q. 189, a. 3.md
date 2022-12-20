@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 189, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 189, a. 3#s.c.|Sed contra est quod dicitur [[Qo 5]], *si quid vovisti Deo, ne moreris reddere, displicet enim Deo infidelis et stulta promissio*. Et super illud Psalmi, vovete et reddite domino Deo vestro, dicit Glossa, *vovere voluntati consulitur, sed post voti promissionem, redditio necessario exigitur*.]]
+![[LEO IIa-IIæ, q. 189, a. 3#s.c.|Sed contra est quod dicitur Eccle. V, *si quid vovisti Deo, ne moreris reddere, displicet enim Deo infidelis et stulta promissio*. Et super illud Psalmi, vovete et reddite domino Deo vestro, dicit Glossa, *vovere voluntati consulitur, sed post voti promissionem, redditio necessario exigitur*.]]
 ![[CERF IIa-IIæ, q. 189, a. 3#s.c.]]
 
 ###### resp.

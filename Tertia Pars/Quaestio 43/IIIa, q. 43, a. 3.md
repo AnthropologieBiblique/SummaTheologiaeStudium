@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 43, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 43, a. 3#arg. 3|Praeterea, Christus post Baptismum et tentationem coepit discipulos congregare, ut legitur [[Mt 4]] et [[Jn 1]]. Sed discipuli praecipue congregati sunt ad ipsum propter miracula, sicut dicitur [[Lc 5]], quod Petrum vocavit obstupescentem propter miraculum quod fecerat in captura piscium. Ergo videtur quod ante miraculum quod fecit in nuptiis, fecerit alia miracula.]]
+![[LEO IIIa, q. 43, a. 3#arg. 3|Praeterea, Christus post Baptismum et tentationem coepit discipulos congregare, ut legitur Matth. IV et Ioan. I. Sed discipuli praecipue congregati sunt ad ipsum propter miracula, sicut dicitur Luc. V, quod Petrum vocavit obstupescentem propter miraculum quod fecerat in captura piscium. Ergo videtur quod ante miraculum quod fecit in nuptiis, fecerit alia miracula.]]
 ![[CERF IIIa, q. 43, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 43, a. 3#s.c.|Sed contra est quod dicitur [[Jn 2]], *hoc fecit initium signorum Iesus in Cana Galilaeae*.]]
+![[LEO IIIa, q. 43, a. 3#s.c.|Sed contra est quod dicitur Ioan. II, *hoc fecit initium signorum Iesus in Cana Galilaeae*.]]
 ![[CERF IIIa, q. 43, a. 3#s.c.]]
 
 ###### resp.

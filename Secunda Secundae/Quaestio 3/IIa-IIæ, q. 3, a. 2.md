@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 3, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 3, a. 2#s.c.|Sed contra est quod apostolus dicit, ad [[Rm 10]], *corde creditur ad iustitiam, ore autem confessio fit ad salutem*.]]
+![[LEO IIa-IIæ, q. 3, a. 2#s.c.|Sed contra est quod apostolus dicit, ad Rom. X, *corde creditur ad iustitiam, ore autem confessio fit ad salutem*.]]
 ![[CERF IIa-IIæ, q. 3, a. 2#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 3, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 3, a. 2#ad 3|Ad tertium dicendum quod, si turbatio infidelium oriatur de confessione fidei manifesta absque aliqua utilitate fidei vel fidelium, non est laudabile in tali casu fidem publice confiteri, unde dominus dicit, [[Mt 7]], *nolite sanctum dare canibus, neque margaritas vestras spargere ante porcos, ne conversi dirumpant vos*. Sed si utilitas aliqua fidei speretur aut necessitas adsit, contempta turbatione infidelium, debet homo fidem publice confiteri. Unde [[Mt 7]] dicitur quod, cum discipuli dixissent domino quod Pharisaei, audito eius verbo, scandalizati sunt, dominus respondit, sinite illos, scilicet turbari, *caeci sunt et duces caecorum*.]]
+![[LEO IIa-IIæ, q. 3, a. 2#ad 3|Ad tertium dicendum quod, si turbatio infidelium oriatur de confessione fidei manifesta absque aliqua utilitate fidei vel fidelium, non est laudabile in tali casu fidem publice confiteri, unde dominus dicit, Matth. VII, *nolite sanctum dare canibus, neque margaritas vestras spargere ante porcos, ne conversi dirumpant vos*. Sed si utilitas aliqua fidei speretur aut necessitas adsit, contempta turbatione infidelium, debet homo fidem publice confiteri. Unde Matth. XV dicitur quod, cum discipuli dixissent domino quod Pharisaei, audito eius verbo, scandalizati sunt, dominus respondit, sinite illos, scilicet turbari, *caeci sunt et duces caecorum*.]]
 ![[CERF IIa-IIæ, q. 3, a. 2#ad 3]]
 

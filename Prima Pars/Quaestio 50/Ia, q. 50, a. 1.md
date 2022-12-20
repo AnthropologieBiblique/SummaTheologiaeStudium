@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia, q. 50, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 50, a. 1#arg. 3|Praeterea, Ambrosius dicit, in libro de spiritu sancto, *omnis creatura certis suae naturae circumscripta est limitibus*. Circumscribi autem proprium est corporum. Ergo omnis creatura est corporea. Angeli autem sunt Dei creaturae, ut patet in [[Ps 148]], laudate dominum, omnes Angeli eius; et postea subditur, *quoniam ipse dixit, et facta sunt, ipse mandavit, et creata sunt*. Ergo Angeli sunt corporei.]]
+![[LEO Ia, q. 50, a. 1#arg. 3|Praeterea, Ambrosius dicit, in libro de spiritu sancto, *omnis creatura certis suae naturae circumscripta est limitibus*. Circumscribi autem proprium est corporum. Ergo omnis creatura est corporea. Angeli autem sunt Dei creaturae, ut patet in Psalmo CXLVIII, laudate dominum, omnes Angeli eius; et postea subditur, *quoniam ipse dixit, et facta sunt, ipse mandavit, et creata sunt*. Ergo Angeli sunt corporei.]]
 ![[CERF Ia, q. 50, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 50, a. 1#s.c.|Sed contra est quod dicitur in [[Ps 103]], *qui facit Angelos suos spiritus*.]]
+![[LEO Ia, q. 50, a. 1#s.c.|Sed contra est quod dicitur in Psalmo CIII, *qui facit Angelos suos spiritus*.]]
 ![[CERF Ia, q. 50, a. 1#s.c.]]
 
 ###### resp.

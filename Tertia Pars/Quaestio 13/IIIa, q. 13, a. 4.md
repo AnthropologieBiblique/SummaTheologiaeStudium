@@ -6,15 +6,15 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 13, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod anima Christi non habuerit omnipotentiam respectu executionis propriae voluntatis. Dicitur enim [[Mc 7]] quod, *ingressus domum, neminem voluit scire sed non potuit latere*. Non ergo potuit exequi in omnibus propositum suae voluntatis.]]
+![[LEO IIIa, q. 13, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod anima Christi non habuerit omnipotentiam respectu executionis propriae voluntatis. Dicitur enim Marc. VII quod, *ingressus domum, neminem voluit scire sed non potuit latere*. Non ergo potuit exequi in omnibus propositum suae voluntatis.]]
 ![[CERF IIIa, q. 13, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 13, a. 4#arg. 2|Praeterea, praeceptum est signum voluntatis, ut in prima parte dictum est. Sed dominus quaedam facienda praecepit quorum contraria acciderunt, dicitur enim [[Mt 9]] quod caecis illuminatis *comminatus est Iesus, dicens, videte ne aliquis sciat, illi autem egressi diffamaverunt illum per totam terram illam*. Non ergo in omnibus potuit exequi propositum suae voluntatis.]]
+![[LEO IIIa, q. 13, a. 4#arg. 2|Praeterea, praeceptum est signum voluntatis, ut in prima parte dictum est. Sed dominus quaedam facienda praecepit quorum contraria acciderunt, dicitur enim Matth. IX quod caecis illuminatis *comminatus est Iesus, dicens, videte ne aliquis sciat, illi autem egressi diffamaverunt illum per totam terram illam*. Non ergo in omnibus potuit exequi propositum suae voluntatis.]]
 ![[CERF IIIa, q. 13, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 13, a. 4#arg. 3|Praeterea, id quod aliquis potest facere, non petit ab alio. Sed dominus petivit a patre, orando, illud quod fieri volebat, dicitur enim [[Lc 6]] quod *exivit in montem orare, et erat pernoctans in oratione Dei*. Ergo non potuit exequi in omnibus propositum suae voluntatis.]]
+![[LEO IIIa, q. 13, a. 4#arg. 3|Praeterea, id quod aliquis potest facere, non petit ab alio. Sed dominus petivit a patre, orando, illud quod fieri volebat, dicitur enim Luc. VI quod *exivit in montem orare, et erat pernoctans in oratione Dei*. Ergo non potuit exequi in omnibus propositum suae voluntatis.]]
 ![[CERF IIIa, q. 13, a. 4#arg. 3]]
 
 ###### s.c.
@@ -30,10 +30,10 @@ tags :
 ![[CERF IIIa, q. 13, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 13, a. 4#ad 2|Ad secundum dicendum quod, sicut dicit Gregorius, XIX Moral., per hoc quod dominus praecepit taceri virtutes suas, *servis suis se sequentibus exemplum dedit, ut ipsi quidem virtutes suas occultari desiderent, et tamen, ut alii eorum exemplo proficiant, prodantur inviti*. Sic ergo praeceptum illud designabat voluntatem ipsius qua humanam gloriam refugiebat, secundum illud [[Jn 8]], *ego gloriam meam non quaero*. Volebat tamen absolute, praesertim secundum divinam voluntatem, ut publicaretur miraculum factum, propter aliorum utilitatem.]]
+![[LEO IIIa, q. 13, a. 4#ad 2|Ad secundum dicendum quod, sicut dicit Gregorius, XIX Moral., per hoc quod dominus praecepit taceri virtutes suas, *servis suis se sequentibus exemplum dedit, ut ipsi quidem virtutes suas occultari desiderent, et tamen, ut alii eorum exemplo proficiant, prodantur inviti*. Sic ergo praeceptum illud designabat voluntatem ipsius qua humanam gloriam refugiebat, secundum illud Ioan. VIII, *ego gloriam meam non quaero*. Volebat tamen absolute, praesertim secundum divinam voluntatem, ut publicaretur miraculum factum, propter aliorum utilitatem.]]
 ![[CERF IIIa, q. 13, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 13, a. 4#ad 3|Ad tertium dicendum quod Christus orabat etiam pro his quae virtute divina fienda erant, et pro his etiam quae humana voluntate erat facturus. Quia virtus et operatio animae Christi dependebat a Deo, *qui operatur in omnibus velle et perficere*, ut dicitur [[Ph 2]].]]
+![[LEO IIIa, q. 13, a. 4#ad 3|Ad tertium dicendum quod Christus orabat etiam pro his quae virtute divina fienda erant, et pro his etiam quae humana voluntate erat facturus. Quia virtus et operatio animae Christi dependebat a Deo, *qui operatur in omnibus velle et perficere*, ut dicitur Philipp. II.]]
 ![[CERF IIIa, q. 13, a. 4#ad 3]]
 

@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 111, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 111, a. 4#arg. 2|Praeterea, gratia gratis data distinguitur contra gratiam gratum facientem. Sed fides pertinet ad gratiam gratum facientem, quia per ipsam iustificamur, secundum illud [[Rm 5]], *iustificati ergo ex fide,* et cetera. Ergo inconvenienter fides ponitur inter gratias gratis datas, praesertim cum aliae virtutes ibi non ponantur, ut spes et caritas.]]
+![[LEO Ia-IIæ, q. 111, a. 4#arg. 2|Praeterea, gratia gratis data distinguitur contra gratiam gratum facientem. Sed fides pertinet ad gratiam gratum facientem, quia per ipsam iustificamur, secundum illud Rom. V, *iustificati ergo ex fide,* et cetera. Ergo inconvenienter fides ponitur inter gratias gratis datas, praesertim cum aliae virtutes ibi non ponantur, ut spes et caritas.]]
 ![[CERF Ia-IIæ, q. 111, a. 4#arg. 2]]
 
 ###### arg. 3

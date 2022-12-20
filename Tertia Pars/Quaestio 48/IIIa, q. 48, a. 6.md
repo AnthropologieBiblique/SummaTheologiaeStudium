@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIIa, q. 48, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod passio Christi non fuerit operata nostram salutem per modum efficientiae. Causa enim efficiens nostrae salutis est magnitudo divinae virtutis, secundum illud [[Is 59]], *ecce, non est abbreviata manus eius, ut salvare non possit*. Christus autem crucifixus est ex infirmitate, ut dicitur [[2 Co 13]]. Non ergo passio Christi efficienter operata est salutem nostram.]]
+![[LEO IIIa, q. 48, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod passio Christi non fuerit operata nostram salutem per modum efficientiae. Causa enim efficiens nostrae salutis est magnitudo divinae virtutis, secundum illud Isaiae LIX, *ecce, non est abbreviata manus eius, ut salvare non possit*. Christus autem crucifixus est ex infirmitate, ut dicitur II Cor. XIII. Non ergo passio Christi efficienter operata est salutem nostram.]]
 ![[CERF IIIa, q. 48, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 48, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 48, a. 6#s.c.|Sed contra est quod dicitur [[1 Co 1]], quod *verbum crucis his qui salvi fiunt est virtus Dei*. Sed virtus Dei efficienter operatur nostram salutem. Ergo passio Christi in cruce efficienter operata est nostram salutem.]]
+![[LEO IIIa, q. 48, a. 6#s.c.|Sed contra est quod dicitur I Cor. I, quod *verbum crucis his qui salvi fiunt est virtus Dei*. Sed virtus Dei efficienter operatur nostram salutem. Ergo passio Christi in cruce efficienter operata est nostram salutem.]]
 ![[CERF IIIa, q. 48, a. 6#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 48, a. 6#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 48, a. 6#ad 1|Ad primum ergo dicendum quod passio Christi, relata ad Christi carnem, congruit infirmitati assumptae, relata vero ad divinitatem, consequitur ex ea infinitam virtutem, secundum illud [[1 Co 1]], *quod infirmum est Dei, fortius est hominibus*; quia scilicet ipsa infirmitas Christi, inquantum est Dei, habet virtutem excedentem omnem virtutem humanam.]]
+![[LEO IIIa, q. 48, a. 6#ad 1|Ad primum ergo dicendum quod passio Christi, relata ad Christi carnem, congruit infirmitati assumptae, relata vero ad divinitatem, consequitur ex ea infinitam virtutem, secundum illud I Cor. I, *quod infirmum est Dei, fortius est hominibus*; quia scilicet ipsa infirmitas Christi, inquantum est Dei, habet virtutem excedentem omnem virtutem humanam.]]
 ![[CERF IIIa, q. 48, a. 6#ad 1]]
 
 ###### ad 2

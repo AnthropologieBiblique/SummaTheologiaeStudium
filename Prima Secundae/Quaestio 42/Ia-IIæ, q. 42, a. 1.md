@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 42, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 42, a. 1#arg. 3|Praeterea, in Deo nihil malum esse potest. Sed mandatur nobis ut Deum timeamus; secundum illud [[Ps 33]], *timete dominum, omnes sancti eius*. Ergo etiam timor est de bono.]]
+![[LEO Ia-IIæ, q. 42, a. 1#arg. 3|Praeterea, in Deo nihil malum esse potest. Sed mandatur nobis ut Deum timeamus; secundum illud Psalmi XXXIII, *timete dominum, omnes sancti eius*. Ergo etiam timor est de bono.]]
 ![[CERF Ia-IIæ, q. 42, a. 1#arg. 3]]
 
 ###### s.c.

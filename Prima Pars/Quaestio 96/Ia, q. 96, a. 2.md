@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 96, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 96, a. 2#s.c.|Sed contra est quod dicitur [[Gn 1]], de homine, *praesit universae creaturae*.]]
+![[LEO Ia, q. 96, a. 2#s.c.|Sed contra est quod dicitur Gen. I, de homine, *praesit universae creaturae*.]]
 ![[CERF Ia, q. 96, a. 2#s.c.]]
 
 ###### resp.

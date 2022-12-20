@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 106, a. 6#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 106, a. 6#ad 2|Ad secundum dicendum quod debitum gratitudinis ex caritate derivatur, quae, quanto plus solvitur, tanto magis debetur, secundum illud [[Rm 13]], *nemini quidquam debeatis, nisi ut invicem diligatis*. Et ideo non est inconveniens si obligatio gratitudinis interminabilis sit.]]
+![[LEO IIa-IIæ, q. 106, a. 6#ad 2|Ad secundum dicendum quod debitum gratitudinis ex caritate derivatur, quae, quanto plus solvitur, tanto magis debetur, secundum illud Rom. XIII, *nemini quidquam debeatis, nisi ut invicem diligatis*. Et ideo non est inconveniens si obligatio gratitudinis interminabilis sit.]]
 ![[CERF IIa-IIæ, q. 106, a. 6#ad 2]]
 
 ###### ad 3

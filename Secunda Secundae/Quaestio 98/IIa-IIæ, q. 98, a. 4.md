@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 98, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 98, a. 4#arg. 3|Praeterea, dicitur [[Lv 5]], *si peccaverit anima, et audierit vocem iurantis falsum, testisque fuerit quod aut ipse vidit aut conscius est, nisi indicaverit, portabit iniquitatem suam*, ex quo videtur quod aliquis sciens aliquem iurare falsum, teneatur eum accusare. Non igitur licet ab eo exigere iuramentum.]]
+![[LEO IIa-IIæ, q. 98, a. 4#arg. 3|Praeterea, dicitur Levit. V, *si peccaverit anima, et audierit vocem iurantis falsum, testisque fuerit quod aut ipse vidit aut conscius est, nisi indicaverit, portabit iniquitatem suam*, ex quo videtur quod aliquis sciens aliquem iurare falsum, teneatur eum accusare. Non igitur licet ab eo exigere iuramentum.]]
 ![[CERF IIa-IIæ, q. 98, a. 4#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 98, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 98, a. 4#resp.|Respondeo dicendum quod circa eum qui exigit ab alio iuramentum, distinguendum videtur. Aut enim exigit iuramentum pro seipso propria sponte, aut exigit iuramentum pro alio ex necessitate officii sibi commissi. Et si quidem aliquis pro seipso exigit iuramentum tanquam persona privata, distinguendum videtur, ut Augustinus dicit, in sermone de periuriis. *Si enim nescit eum iuraturum falsum, et ideo dicit, iura mihi, ut fides ei sit, non est peccatum, tamen est humana tentatio*, quia scilicet procedit ex quadam infirmitate, qua homo dubitat alium esse verum dicturum. Et hoc est illud malum de quo dominus dicit, [[Mt 5]], *quod amplius est, a malo est. Si autem scit eum fecisse*, scilicet contrarium eius quod iurat, *et cogit eum iurare, homicida est. Ille enim de suo periurio se interimit, sed iste manum interficientis impressit*. Si autem aliquis exigat iuramentum tanquam persona publica, secundum quod exigit ordo iuris, ad petitionem alterius, non videtur esse in culpa si ipse iuramentum exigat, sive sciat eum falsum iurare sive verum, quia non videtur ille exigere, sed ille ad cuius instantiam exigit.]]
+![[LEO IIa-IIæ, q. 98, a. 4#resp.|Respondeo dicendum quod circa eum qui exigit ab alio iuramentum, distinguendum videtur. Aut enim exigit iuramentum pro seipso propria sponte, aut exigit iuramentum pro alio ex necessitate officii sibi commissi. Et si quidem aliquis pro seipso exigit iuramentum tanquam persona privata, distinguendum videtur, ut Augustinus dicit, in sermone de periuriis. *Si enim nescit eum iuraturum falsum, et ideo dicit, iura mihi, ut fides ei sit, non est peccatum, tamen est humana tentatio*, quia scilicet procedit ex quadam infirmitate, qua homo dubitat alium esse verum dicturum. Et hoc est illud malum de quo dominus dicit, Matth. V, *quod amplius est, a malo est. Si autem scit eum fecisse*, scilicet contrarium eius quod iurat, *et cogit eum iurare, homicida est. Ille enim de suo periurio se interimit, sed iste manum interficientis impressit*. Si autem aliquis exigat iuramentum tanquam persona publica, secundum quod exigit ordo iuris, ad petitionem alterius, non videtur esse in culpa si ipse iuramentum exigat, sive sciat eum falsum iurare sive verum, quia non videtur ille exigere, sed ille ad cuius instantiam exigit.]]
 ![[CERF IIa-IIæ, q. 98, a. 4#resp.]]
 
 ###### ad 1

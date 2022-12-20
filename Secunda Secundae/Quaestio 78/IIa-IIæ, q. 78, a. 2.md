@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 78, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 78, a. 2#arg. 3|Praeterea, sicut est quoddam munus a manu, ita est munus a lingua, et ab obsequio, ut dicit Glossa [[Is 33]], *beatus qui excutit manus suas ab omni munere*. Sed licet accipere servitium, vel etiam laudem, ab eo cui quis pecuniam mutuavit. Ergo, pari ratione, licet quodcumque aliud munus accipere.]]
+![[LEO IIa-IIæ, q. 78, a. 2#arg. 3|Praeterea, sicut est quoddam munus a manu, ita est munus a lingua, et ab obsequio, ut dicit Glossa Isaiae XXXIII, *beatus qui excutit manus suas ab omni munere*. Sed licet accipere servitium, vel etiam laudem, ab eo cui quis pecuniam mutuavit. Ergo, pari ratione, licet quodcumque aliud munus accipere.]]
 ![[CERF IIa-IIæ, q. 78, a. 2#arg. 3]]
 
 ###### arg. 4
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIa-IIæ, q. 78, a. 2#arg. 7]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 78, a. 2#s.c.|Sed contra est quod [[Ez 18]] dicitur, inter alia quae ad virum iustum requiruntur, *usuram et superabundantiam non acceperit*.]]
+![[LEO IIa-IIæ, q. 78, a. 2#s.c.|Sed contra est quod Ezech. XVIII dicitur, inter alia quae ad virum iustum requiruntur, *usuram et superabundantiam non acceperit*.]]
 ![[CERF IIa-IIæ, q. 78, a. 2#s.c.]]
 
 ###### resp.

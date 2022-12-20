@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia, q. 108, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 108, a. 7#arg. 3|Praeterea, apostolus dicit, ad [[He 1]], de Angelis, quod *omnes sunt administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*, ex quo patet quod officia Angelorum ordinantur ad hoc, quod homines ad salutem adducantur. Sed omnes electi usque ad diem iudicii salutem consequuntur. Non ergo post diem iudicii remanebunt officia et ordines Angelorum.]]
+![[LEO Ia, q. 108, a. 7#arg. 3|Praeterea, apostolus dicit, ad Heb. I, de Angelis, quod *omnes sunt administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*, ex quo patet quod officia Angelorum ordinantur ad hoc, quod homines ad salutem adducantur. Sed omnes electi usque ad diem iudicii salutem consequuntur. Non ergo post diem iudicii remanebunt officia et ordines Angelorum.]]
 ![[CERF Ia, q. 108, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 108, a. 7#s.c.|Sed contra est quod dicitur [[Jg 5]], stellae manentes in ordine et cursu suo, quod exponitur de Angelis. Ergo Angeli semper in suis ordinibus remanebunt.]]
+![[LEO Ia, q. 108, a. 7#s.c.|Sed contra est quod dicitur Iudic. V, stellae manentes in ordine et cursu suo, quod exponitur de Angelis. Ergo Angeli semper in suis ordinibus remanebunt.]]
 ![[CERF Ia, q. 108, a. 7#s.c.]]
 
 ###### resp.

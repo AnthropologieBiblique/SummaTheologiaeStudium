@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia, q. 108, a. 5#arg. 6]]
 
 ###### s.c.
-![[LEO Ia, q. 108, a. 5#s.c.|Sed contra est auctoritas sacrae Scripturae, quae sic eos nominat. Nomen enim Seraphim ponitur [[Is 6]]; nomen Cherubim [[Ez 1]]; nomen thronorum, [[Col 1]]; dominationes autem et virtutes et potestates et principatus ponuntur [[Ep 1]]; nomen autem Archangeli ponitur in canonica Iudae, nomina autem Angelorum in pluribus Scripturae locis.]]
+![[LEO Ia, q. 108, a. 5#s.c.|Sed contra est auctoritas sacrae Scripturae, quae sic eos nominat. Nomen enim Seraphim ponitur Isaiae VI; nomen Cherubim Ezech. I; nomen thronorum, Coloss. I; dominationes autem et virtutes et potestates et principatus ponuntur Ephes. I; nomen autem Archangeli ponitur in canonica Iudae, nomina autem Angelorum in pluribus Scripturae locis.]]
 ![[CERF Ia, q. 108, a. 5#s.c.]]
 
 ###### resp.
@@ -46,7 +46,7 @@ tags :
 ![[CERF Ia, q. 108, a. 5#ad 2]]
 
 ###### ad 3
-![[LEO Ia, q. 108, a. 5#ad 3|Ad tertium dicendum quod nomen dominationis, et potestatis, et principatus, diversimode ad gubernationem pertinet. Nam domini est solummodo praecipere de agendis. Et ideo Gregorius dicit quod *quaedam Angelorum agmina, pro eo quod eis cetera ad obediendum subiecta sunt, dominationes vocantur*. Nomen vero potestatis ordinationem quandam designat; secundum illud apostoli ad [[Rm 13]], *qui potestati resistit, Dei ordinationi resistit*. Et ideo Dionysius dicit quod nomen potestatis significat quandam ordinationem et circa susceptionem divinorum, et circa actiones divinas quas superiores in inferiores agunt, eas sursum ducendo. Ad ordinem ergo potestatum pertinet ordinare quae a subditis sint agenda. Principari vero, ut Gregorius dicit, est inter reliquos priorem existere, quasi primi sint in executione eorum quae imperantur. Et ideo Dionysius dicit, IX cap. Cael. Hier., quod nomen principatuum significat ductivum cum ordine sacro. Illi enim qui alios ducunt, primi inter eos existentes, principes proprie vocantur secundum illud [[Ps 67]], *praevenerunt principes coniuncti psallentibus*.]]
+![[LEO Ia, q. 108, a. 5#ad 3|Ad tertium dicendum quod nomen dominationis, et potestatis, et principatus, diversimode ad gubernationem pertinet. Nam domini est solummodo praecipere de agendis. Et ideo Gregorius dicit quod *quaedam Angelorum agmina, pro eo quod eis cetera ad obediendum subiecta sunt, dominationes vocantur*. Nomen vero potestatis ordinationem quandam designat; secundum illud apostoli ad Rom. XIII, *qui potestati resistit, Dei ordinationi resistit*. Et ideo Dionysius dicit quod nomen potestatis significat quandam ordinationem et circa susceptionem divinorum, et circa actiones divinas quas superiores in inferiores agunt, eas sursum ducendo. Ad ordinem ergo potestatum pertinet ordinare quae a subditis sint agenda. Principari vero, ut Gregorius dicit, est inter reliquos priorem existere, quasi primi sint in executione eorum quae imperantur. Et ideo Dionysius dicit, IX cap. Cael. Hier., quod nomen principatuum significat ductivum cum ordine sacro. Illi enim qui alios ducunt, primi inter eos existentes, principes proprie vocantur secundum illud Psalmi LXVII, *praevenerunt principes coniuncti psallentibus*.]]
 ![[CERF Ia, q. 108, a. 5#ad 3]]
 
 ###### ad 4

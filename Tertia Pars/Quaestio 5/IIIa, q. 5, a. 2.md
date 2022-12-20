@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 5, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Christus non habuerit corpus carnale, sive terrestre, sed caeleste. Dicit enim apostolus, [[1 Co 15]], *primus homo de terra, terrenus, secundus homo de caelo, caelestis*. Sed primus homo, scilicet Adam, fuit de terra quantum ad corpus, ut patet [[Gn 2]]. Ergo etiam secundus homo, scilicet Christus, fuit de caelo quantum ad corpus.]]
+![[LEO IIIa, q. 5, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Christus non habuerit corpus carnale, sive terrestre, sed caeleste. Dicit enim apostolus, I Cor. XV, *primus homo de terra, terrenus, secundus homo de caelo, caelestis*. Sed primus homo, scilicet Adam, fuit de terra quantum ad corpus, ut patet Gen. II. Ergo etiam secundus homo, scilicet Christus, fuit de caelo quantum ad corpus.]]
 ![[CERF IIIa, q. 5, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 5, a. 2#arg. 2|Praeterea, [[1 Co 15]] dicitur, *caro et sanguis regnum Dei non possidebunt*. Sed regnum Dei principaliter est in Christo. Ergo in ipso non est caro et sanguis, sed magis corpus caeleste.]]
+![[LEO IIIa, q. 5, a. 2#arg. 2|Praeterea, I Cor. XV dicitur, *caro et sanguis regnum Dei non possidebunt*. Sed regnum Dei principaliter est in Christo. Ergo in ipso non est caro et sanguis, sed magis corpus caeleste.]]
 ![[CERF IIIa, q. 5, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 5, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 5, a. 2#ad 1|Ad primum ergo dicendum quod Christus dicitur dupliciter de caelo descendisse. Uno modo, ratione divinae naturae, non ita quod divina natura esse in caelo defecerit; sed quia in infimis novo modo esse coepit, scilicet secundum naturam assumptam; secundum illud [[Jn 3]], *nemo ascendit in caelum nisi qui descendit de caelo, filius hominis, qui est in caelo*. Alio modo, ratione corporis, non quia ipsum corpus Christi secundum suam substantiam de caelo descenderit; sed quia virtute caelesti, idest spiritus sancti, est eius corpus formatum. Unde Augustinus dicit, ad Orosium, exponens auctoritatem inductam, *caelestem dico Christum, quia non ex humano conceptus est semine*. Et hoc etiam modo Hilarius exponit, in libro de Trinitate.]]
+![[LEO IIIa, q. 5, a. 2#ad 1|Ad primum ergo dicendum quod Christus dicitur dupliciter de caelo descendisse. Uno modo, ratione divinae naturae, non ita quod divina natura esse in caelo defecerit; sed quia in infimis novo modo esse coepit, scilicet secundum naturam assumptam; secundum illud Ioan. III, *nemo ascendit in caelum nisi qui descendit de caelo, filius hominis, qui est in caelo*. Alio modo, ratione corporis, non quia ipsum corpus Christi secundum suam substantiam de caelo descenderit; sed quia virtute caelesti, idest spiritus sancti, est eius corpus formatum. Unde Augustinus dicit, ad Orosium, exponens auctoritatem inductam, *caelestem dico Christum, quia non ex humano conceptus est semine*. Et hoc etiam modo Hilarius exponit, in libro de Trinitate.]]
 ![[CERF IIIa, q. 5, a. 2#ad 1]]
 
 ###### ad 2

@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 24, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 24, a. 1#ad 2|Ad secundum dicendum quod voluntas etiam, secundum philosophum, in III de anima, in ratione est. Et ideo per hoc quod caritas est in voluntate non est aliena a ratione. Tamen ratio non est regula caritatis, sicut humanarum virtutum, sed regulatur a Dei sapientia, et excedit regulam rationis humanae, secundum illud [[Ep 3]], *supereminentem scientiae caritatem Christi*. Unde non est in ratione neque sicut in subiecto, sicut prudentia; neque sicut in regulante, sicut iustitia vel temperantia; sed solum per quandam affinitatem voluntatis ad rationem.]]
+![[LEO IIa-IIæ, q. 24, a. 1#ad 2|Ad secundum dicendum quod voluntas etiam, secundum philosophum, in III de anima, in ratione est. Et ideo per hoc quod caritas est in voluntate non est aliena a ratione. Tamen ratio non est regula caritatis, sicut humanarum virtutum, sed regulatur a Dei sapientia, et excedit regulam rationis humanae, secundum illud Ephes. III, *supereminentem scientiae caritatem Christi*. Unde non est in ratione neque sicut in subiecto, sicut prudentia; neque sicut in regulante, sicut iustitia vel temperantia; sed solum per quandam affinitatem voluntatis ad rationem.]]
 ![[CERF IIa-IIæ, q. 24, a. 1#ad 2]]
 
 ###### ad 3

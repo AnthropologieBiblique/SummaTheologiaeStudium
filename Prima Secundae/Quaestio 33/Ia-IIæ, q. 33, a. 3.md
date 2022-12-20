@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 33, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod delectatio non impediat usum rationis. Quies enim maxime confert ad debitum rationis usum, unde dicitur in VII Physic., quod in sedendo et quiescendo fit anima sciens et prudens; et [[Sg 8]], *intrans in domum meam, conquiescam cum illa*, scilicet sapientia. Sed delectatio est quaedam quies. Ergo non impedit, sed magis iuvat rationis usum.]]
+![[LEO Ia-IIæ, q. 33, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod delectatio non impediat usum rationis. Quies enim maxime confert ad debitum rationis usum, unde dicitur in VII Physic., quod in sedendo et quiescendo fit anima sciens et prudens; et Sap. VIII, *intrans in domum meam, conquiescam cum illa*, scilicet sapientia. Sed delectatio est quaedam quies. Ergo non impedit, sed magis iuvat rationis usum.]]
 ![[CERF Ia-IIæ, q. 33, a. 3#arg. 1]]
 
 ###### arg. 2

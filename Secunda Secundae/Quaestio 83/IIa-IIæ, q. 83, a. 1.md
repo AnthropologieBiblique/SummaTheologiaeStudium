@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 83, a. 1#ad 1|Ad primum ergo dicendum quod desiderium pauperum dicitur dominus exaudire, vel quia desiderium est causa petendi, cum petitio sit quodammodo desiderii interpres. Vel hoc dicitur ad ostendendum exauditionis velocitatem, quia scilicet dum adhuc aliquid in desiderio pauperum est, Deus exaudit, antequam orationem proponant; secundum illud [[Is 65]], *eritque, antequam clament, ego exaudiam*.]]
+![[LEO IIa-IIæ, q. 83, a. 1#ad 1|Ad primum ergo dicendum quod desiderium pauperum dicitur dominus exaudire, vel quia desiderium est causa petendi, cum petitio sit quodammodo desiderii interpres. Vel hoc dicitur ad ostendendum exauditionis velocitatem, quia scilicet dum adhuc aliquid in desiderio pauperum est, Deus exaudit, antequam orationem proponant; secundum illud Isaiae LXV, *eritque, antequam clament, ego exaudiam*.]]
 ![[CERF IIa-IIæ, q. 83, a. 1#ad 1]]
 
 ###### ad 2

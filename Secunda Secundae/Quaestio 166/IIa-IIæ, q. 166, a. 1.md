@@ -10,15 +10,15 @@ tags :
 ![[CERF IIa-IIæ, q. 166, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 166, a. 1#arg. 2|Praeterea, studiositas curiositati opponitur. Sed curiositas, quae a cura dicitur, potest esse etiam circa ornatum vestium, et circa alia huiusmodi quae pertinent ad corpus, unde apostolus dicit, [[Rm 13]], *carnis curam ne feceritis in desideriis*. Ergo studiositas non est solum circa cognitionem.]]
+![[LEO IIa-IIæ, q. 166, a. 1#arg. 2|Praeterea, studiositas curiositati opponitur. Sed curiositas, quae a cura dicitur, potest esse etiam circa ornatum vestium, et circa alia huiusmodi quae pertinent ad corpus, unde apostolus dicit, Rom. XIII, *carnis curam ne feceritis in desideriis*. Ergo studiositas non est solum circa cognitionem.]]
 ![[CERF IIa-IIæ, q. 166, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 166, a. 1#arg. 3|Praeterea, [[Jr 6]] dicitur, *a minori usque ad maiorem, omnes avaritiae student*. Sed avaritia non est proprie circa cognitionem, sed magis circa possessionem divitiarum, ut supra habitum est. Ergo studiositas, quae a studio dicitur, non est proprie circa cognitionem.]]
+![[LEO IIa-IIæ, q. 166, a. 1#arg. 3|Praeterea, Ierem. VI dicitur, *a minori usque ad maiorem, omnes avaritiae student*. Sed avaritia non est proprie circa cognitionem, sed magis circa possessionem divitiarum, ut supra habitum est. Ergo studiositas, quae a studio dicitur, non est proprie circa cognitionem.]]
 ![[CERF IIa-IIæ, q. 166, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 166, a. 1#s.c.|Sed contra est quod dicitur [[Pr 27]], *stude sapientiae, fili mi, et laetifica cor meum, ut possis respondere sermonem*. Sed eadem studiositas est quae laudatur ut virtus, et ad quam lex invitat. Ergo studiositas proprie est circa cognitionem.]]
+![[LEO IIa-IIæ, q. 166, a. 1#s.c.|Sed contra est quod dicitur Prov. XXVII, *stude sapientiae, fili mi, et laetifica cor meum, ut possis respondere sermonem*. Sed eadem studiositas est quae laudatur ut virtus, et ad quam lex invitat. Ergo studiositas proprie est circa cognitionem.]]
 ![[CERF IIa-IIæ, q. 166, a. 1#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 166, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 166, a. 1#ad 2|Ad secundum dicendum quod ex affectu hominis trahitur mens eius ad intendendum his ad quae afficitur, secundum illud [[Mt 6]], *ubi est thesaurus tuus, ibi est et cor tuum*. Et quia ad ea quibus caro fovetur, maxime homo afficitur, consequens est quod cogitatio hominis versetur praecipue circa ea quibus caro fovetur, ut scilicet homo inquirat qualiter homo optime possit carni suae subvenire. Et secundum hoc, curiositas ponitur circa ea quae ad carnem pertinent, ratione eorum quae ad cognitionem pertinent.]]
+![[LEO IIa-IIæ, q. 166, a. 1#ad 2|Ad secundum dicendum quod ex affectu hominis trahitur mens eius ad intendendum his ad quae afficitur, secundum illud Matth. VI, *ubi est thesaurus tuus, ibi est et cor tuum*. Et quia ad ea quibus caro fovetur, maxime homo afficitur, consequens est quod cogitatio hominis versetur praecipue circa ea quibus caro fovetur, ut scilicet homo inquirat qualiter homo optime possit carni suae subvenire. Et secundum hoc, curiositas ponitur circa ea quae ad carnem pertinent, ratione eorum quae ad cognitionem pertinent.]]
 ![[CERF IIa-IIæ, q. 166, a. 1#ad 2]]
 
 ###### ad 3

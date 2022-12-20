@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 51#Prooemium|Deinde quaeritur de Angelis per comparationem ad corporalia. Et primo, de comparatione Angelorum ad corpora; secundo, de comparatione Angelorum ad loca corporalia; tertio, de comparatione Angelorum ad motum localem. Circa primum quaeruntur tria. Primo, utrum Angeli habeant corpora naturaliter sibi unita. Secundo, utrum assumant corpora. Tertio, utrum in corporibus assumptis exerceant opera vitae.]]
-![[CERF Ia, q. 51#Prooemium]]
+Deinde quaeritur de Angelis per comparationem ad corporalia. Et primo, de comparatione Angelorum ad corpora; secundo, de comparatione Angelorum ad loca corporalia; tertio, de comparatione Angelorum ad motum localem. Circa primum quaeruntur tria. Primo, utrum Angeli habeant corpora naturaliter sibi unita. Secundo, utrum assumant corpora. Tertio, utrum in corporibus assumptis exerceant opera vitae.
 
 ![[Ia, q. 51, a. 1#Articulus 1]]
 

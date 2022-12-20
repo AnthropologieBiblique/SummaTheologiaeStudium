@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 66, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non sit de ratione furti occulte accipere rem alienam. Illud enim quod diminuit peccatum non videtur ad rationem peccati pertinere. Sed in occulto peccare pertinet ad diminutionem peccati, sicut e contrario ad exaggerandum peccatum quorundam dicitur [[Is 3]], *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Ergo non est de ratione furti occulta acceptio rei alienae.]]
+![[LEO IIa-IIæ, q. 66, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non sit de ratione furti occulte accipere rem alienam. Illud enim quod diminuit peccatum non videtur ad rationem peccati pertinere. Sed in occulto peccare pertinet ad diminutionem peccati, sicut e contrario ad exaggerandum peccatum quorundam dicitur Isaiae III, *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Ergo non est de ratione furti occulta acceptio rei alienae.]]
 ![[CERF IIa-IIæ, q. 66, a. 3#arg. 1]]
 
 ###### arg. 2

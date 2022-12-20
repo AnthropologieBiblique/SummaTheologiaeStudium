@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIIa, q. 54#Prooemium|Deinde considerandum est de qualitate Christi resurgentis. Et circa hoc quaeruntur quatuor. Primo, utrum post resurrectionem Christus habuerit verum corpus. Secundo, utrum resurrexit cum corporis integritate. Tertio, utrum corpus eius fuerit gloriosum. Quarto, de eius cicatricibus in corpore apparentibus.]]
-![[CERF IIIa, q. 54#Prooemium]]
+Deinde considerandum est de qualitate Christi resurgentis. Et circa hoc quaeruntur quatuor. Primo, utrum post resurrectionem Christus habuerit verum corpus. Secundo, utrum resurrexit cum corporis integritate. Tertio, utrum corpus eius fuerit gloriosum. Quarto, de eius cicatricibus in corpore apparentibus.
 
 ![[IIIa, q. 54, a. 1#Articulus 1]]
 

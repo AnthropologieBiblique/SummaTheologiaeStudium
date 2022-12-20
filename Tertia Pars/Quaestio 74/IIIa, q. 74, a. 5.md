@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 74, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 74, a. 5#s.c.|Sed contra est quod, sicut dominus comparavit se grano frumenti, ita etiam se comparavit viti, dicens, [[Jn 15]], *ego sum vitis vera*. Sed solus panis de frumento est materia huius sacramenti, ut dictum est. Ergo solum vinum de vite est propria materia huius sacramenti.]]
+![[LEO IIIa, q. 74, a. 5#s.c.|Sed contra est quod, sicut dominus comparavit se grano frumenti, ita etiam se comparavit viti, dicens, Ioan. XV, *ego sum vitis vera*. Sed solus panis de frumento est materia huius sacramenti, ut dictum est. Ergo solum vinum de vite est propria materia huius sacramenti.]]
 ![[CERF IIIa, q. 74, a. 5#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 74, a. 5#resp.|Respondeo dicendum quod de solo vino vitis potest confici hoc sacramentum. Primo quidem, propter institutionem Christi, qui in vino vitis hoc sacramentum instituit, ut patet ex eo quod ipse dicit, [[Lc 22]], circa institutionem huius sacramenti, *amodo non bibam de hoc genimine vitis*. Secundo quia, sicut dictum est, ad materiam sacramentorum assumitur id quod proprie et communiter habet talem speciem. Proprie autem vinum dicitur quod de vite sumitur, alii autem liquores vinum dicuntur secundum quandam similitudinem ad vinum vitis. Tertio, quia vinum vitis magis competit ad effectum huius sacramenti, qui est spiritualis laetitia, quia scriptum est quod *vinum laetificat cor hominis*.]]
+![[LEO IIIa, q. 74, a. 5#resp.|Respondeo dicendum quod de solo vino vitis potest confici hoc sacramentum. Primo quidem, propter institutionem Christi, qui in vino vitis hoc sacramentum instituit, ut patet ex eo quod ipse dicit, Luc. XXII, circa institutionem huius sacramenti, *amodo non bibam de hoc genimine vitis*. Secundo quia, sicut dictum est, ad materiam sacramentorum assumitur id quod proprie et communiter habet talem speciem. Proprie autem vinum dicitur quod de vite sumitur, alii autem liquores vinum dicuntur secundum quandam similitudinem ad vinum vitis. Tertio, quia vinum vitis magis competit ad effectum huius sacramenti, qui est spiritualis laetitia, quia scriptum est quod *vinum laetificat cor hominis*.]]
 ![[CERF IIIa, q. 74, a. 5#resp.]]
 
 ###### ad 1

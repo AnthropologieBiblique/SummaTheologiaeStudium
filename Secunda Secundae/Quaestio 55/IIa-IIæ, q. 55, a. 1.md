@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 55, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 55, a. 1#arg. 2|Praeterea, prudenter operari ad finem qui licite amatur non est peccatum. Sed caro licite amatur, nemo enim unquam carnem suam odio habuit, ut habetur ad [[Ep 5]]. Ergo prudentia carnis non est peccatum.]]
+![[LEO IIa-IIæ, q. 55, a. 1#arg. 2|Praeterea, prudenter operari ad finem qui licite amatur non est peccatum. Sed caro licite amatur, nemo enim unquam carnem suam odio habuit, ut habetur ad Ephes. V. Ergo prudentia carnis non est peccatum.]]
 ![[CERF IIa-IIæ, q. 55, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 55, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 55, a. 1#s.c.|Sed contra, nullus est inimicus Deo nisi propter iniquitatem, secundum illud [[Sg 14]], *simul odio sunt Deo impius et impietas eius*. Sed sicut dicitur ad [[Rm 8]], *prudentia carnis inimica est Deo*. Ergo prudentia carnis est peccatum.]]
+![[LEO IIa-IIæ, q. 55, a. 1#s.c.|Sed contra, nullus est inimicus Deo nisi propter iniquitatem, secundum illud Sap. XIV, *simul odio sunt Deo impius et impietas eius*. Sed sicut dicitur ad Rom. VIII, *prudentia carnis inimica est Deo*. Ergo prudentia carnis est peccatum.]]
 ![[CERF IIa-IIæ, q. 55, a. 1#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 55, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 55, a. 1#ad 3|Ad tertium dicendum quod Diabolus nos tentat non per modum appetibilis, sed per modum suggerentis. Et ideo, cum prudentia importet ordinem ad aliquem finem appetibilem, non ita dicitur prudentia Diaboli sicut prudentia respectu alicuius mali finis, sub cuius ratione tentat nos mundus et caro, inquantum scilicet proponuntur nobis ad appetendum bona mundi vel carnis. Et ideo dicitur prudentia carnis, et etiam prudentia mundi, secundum illud [[Lc 16]], *filii huius saeculi prudentiores sunt in generatione sua* et cetera. Apostolus autem totum comprehendit sub prudentia carnis, quia etiam exteriores res mundi appetimus propter carnem. Potest tamen dici quod quia prudentia quodammodo dicitur sapientia, ut supra dictum est, ideo secundum tres tentationes potest intelligi triplex prudentia. Unde dicitur [[Jc 3]] sapientia esse terrena, animalis, diabolica, ut supra expositum est cum de sapientia ageretur.]]
+![[LEO IIa-IIæ, q. 55, a. 1#ad 3|Ad tertium dicendum quod Diabolus nos tentat non per modum appetibilis, sed per modum suggerentis. Et ideo, cum prudentia importet ordinem ad aliquem finem appetibilem, non ita dicitur prudentia Diaboli sicut prudentia respectu alicuius mali finis, sub cuius ratione tentat nos mundus et caro, inquantum scilicet proponuntur nobis ad appetendum bona mundi vel carnis. Et ideo dicitur prudentia carnis, et etiam prudentia mundi, secundum illud Luc. XVI, *filii huius saeculi prudentiores sunt in generatione sua* et cetera. Apostolus autem totum comprehendit sub prudentia carnis, quia etiam exteriores res mundi appetimus propter carnem. Potest tamen dici quod quia prudentia quodammodo dicitur sapientia, ut supra dictum est, ideo secundum tres tentationes potest intelligi triplex prudentia. Unde dicitur Iac. III sapientia esse terrena, animalis, diabolica, ut supra expositum est cum de sapientia ageretur.]]
 ![[CERF IIa-IIæ, q. 55, a. 1#ad 3]]
 

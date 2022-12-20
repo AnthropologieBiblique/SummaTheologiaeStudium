@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 13, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 13, a. 3#s.c.|Sed contra est quod [[Is 18]], super illud, ad populum terribilem etc., dicit Glossa, *omne peccatum, blasphemiae comparatum, levius est*.]]
+![[LEO IIa-IIæ, q. 13, a. 3#s.c.|Sed contra est quod Isaiae XVIII, super illud, ad populum terribilem etc., dicit Glossa, *omne peccatum, blasphemiae comparatum, levius est*.]]
 ![[CERF IIa-IIæ, q. 13, a. 3#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 13, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 13, a. 3#ad 2|Ad secundum dicendum quod super illud ad [[Ep 4]], *blasphemia tollatur a vobis*, dicit Glossa *peius est blasphemare quam peierare*. Qui enim peierat non dicit aut sentit aliquid falsum de Deo, sicut blasphemus, sed Deum adhibet testem falsitati non tanquam aestimans Deum esse falsum testem, sed tanquam sperans quod Deus super hoc non testificetur per aliquod evidens signum.]]
+![[LEO IIa-IIæ, q. 13, a. 3#ad 2|Ad secundum dicendum quod super illud ad Ephes. IV, *blasphemia tollatur a vobis*, dicit Glossa *peius est blasphemare quam peierare*. Qui enim peierat non dicit aut sentit aliquid falsum de Deo, sicut blasphemus, sed Deum adhibet testem falsitati non tanquam aestimans Deum esse falsum testem, sed tanquam sperans quod Deus super hoc non testificetur per aliquod evidens signum.]]
 ![[CERF IIa-IIæ, q. 13, a. 3#ad 2]]
 
 ###### ad 3

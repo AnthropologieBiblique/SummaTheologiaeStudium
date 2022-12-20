@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 4, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 4, a. 6#s.c.|Sed contra, praemium virtutis est beatitudo, unde dicitur [[Jn 13]], *beati eritis, si feceritis ea*. Sed sanctis repromittitur pro praemio non solum visio Dei et delectatio, sed etiam corporis bona dispositio, dicitur enim Isaiae ult., *videbitis, et gaudebit cor vestrum, et ossa vestra quasi herba germinabunt*. Ergo bona dispositio corporis requiritur ad beatitudinem.]]
+![[LEO Ia-IIæ, q. 4, a. 6#s.c.|Sed contra, praemium virtutis est beatitudo, unde dicitur Ioan. XIII, *beati eritis, si feceritis ea*. Sed sanctis repromittitur pro praemio non solum visio Dei et delectatio, sed etiam corporis bona dispositio, dicitur enim Isaiae ult., *videbitis, et gaudebit cor vestrum, et ossa vestra quasi herba germinabunt*. Ergo bona dispositio corporis requiritur ad beatitudinem.]]
 ![[CERF Ia-IIæ, q. 4, a. 6#s.c.]]
 
 ###### resp.

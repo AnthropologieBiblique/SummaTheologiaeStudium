@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 110, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod omne mendacium sit peccatum mortale. Dicitur enim in Psalm., *perdes omnes qui loquuntur mendacium*, et [[Sg 1]], *os quod mentitur occidit animam*. Sed perditio et mors animae non est nisi per peccatum mortale. Ergo omne mendacium est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 110, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod omne mendacium sit peccatum mortale. Dicitur enim in Psalm., *perdes omnes qui loquuntur mendacium*, et Sap. I, *os quod mentitur occidit animam*. Sed perditio et mors animae non est nisi per peccatum mortale. Ergo omne mendacium est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 110, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -42,7 +42,7 @@ tags :
 ![[CERF IIa-IIæ, q. 110, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 110, a. 4#ad 3|Ad tertium dicendum quod etiam peccatum veniale largo modo potest dici iniquitas, inquantum est praeter aequitatem iustitiae. Unde dicitur [[1 Jn 3]], omne peccatum est iniquitas. Et hoc modo loquitur Augustinus.]]
+![[LEO IIa-IIæ, q. 110, a. 4#ad 3|Ad tertium dicendum quod etiam peccatum veniale largo modo potest dici iniquitas, inquantum est praeter aequitatem iustitiae. Unde dicitur I Ioan. III, omne peccatum est iniquitas. Et hoc modo loquitur Augustinus.]]
 ![[CERF IIa-IIæ, q. 110, a. 4#ad 3]]
 
 ###### ad 4

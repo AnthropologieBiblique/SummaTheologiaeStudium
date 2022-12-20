@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIIa, q. 50, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod in morte Christi fuerit separatio divinitatis ab anima. Dicit enim dominus, [[Jn 10]], *nemo tollit animam meam a me, sed ego pono eam, et iterum sumo eam*. Non autem videtur quod corpus animam ponere possit, eam a se separando, quia anima non subiicitur potestati corporis, sed potius e converso. Et sic videtur quod Christo secundum quod est verbum Dei, conveniat animam suam ponere. Hoc autem est eam a se separare. Ergo per mortem anima eius fuit a divinitate separata.]]
+![[LEO IIIa, q. 50, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod in morte Christi fuerit separatio divinitatis ab anima. Dicit enim dominus, Ioan. X, *nemo tollit animam meam a me, sed ego pono eam, et iterum sumo eam*. Non autem videtur quod corpus animam ponere possit, eam a se separando, quia anima non subiicitur potestati corporis, sed potius e converso. Et sic videtur quod Christo secundum quod est verbum Dei, conveniat animam suam ponere. Hoc autem est eam a se separare. Ergo per mortem anima eius fuit a divinitate separata.]]
 ![[CERF IIIa, q. 50, a. 3#arg. 1]]
 
 ###### arg. 2

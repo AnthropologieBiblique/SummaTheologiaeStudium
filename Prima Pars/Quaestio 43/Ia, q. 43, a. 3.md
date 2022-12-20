@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 43, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 43, a. 3#arg. 2|Praeterea, haec praepositio secundum denotat habitudinem alicuius causae. Sed persona divina est causa quod habeatur donum gratiae gratum facientis, et non e converso; secundum illud [[Rm 5]], *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*. Ergo inconvenienter dicitur quod persona divina secundum dona gratiae gratum facientis mittatur.]]
+![[LEO Ia, q. 43, a. 3#arg. 2|Praeterea, haec praepositio secundum denotat habitudinem alicuius causae. Sed persona divina est causa quod habeatur donum gratiae gratum facientis, et non e converso; secundum illud Rom. V, *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*. Ergo inconvenienter dicitur quod persona divina secundum dona gratiae gratum facientis mittatur.]]
 ![[CERF Ia, q. 43, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -42,6 +42,6 @@ tags :
 ![[CERF Ia, q. 43, a. 3#ad 3]]
 
 ###### ad 4
-![[LEO Ia, q. 43, a. 3#ad 4|Ad quartum dicendum quod operatio miraculorum est manifestativa gratiae gratum facientis, sicut et donum prophetiae, et quaelibet gratia gratis data. Unde [[1 Co 12]], gratia gratis data nominatur manifestatio spiritus. Sic igitur apostolis dicitur datus spiritus sanctus ad operationem miraculorum, quia data est eis gratia gratum faciens cum signo manifestante. Si autem daretur solum signum gratiae gratum facientis sine gratia, non diceretur dari simpliciter spiritus sanctus; nisi forte cum aliqua determinatione, secundum quod dicitur quod alicui datur spiritus propheticus vel miraculorum, inquantum a spiritu sancto habet virtutem prophetandi vel miracula faciendi.]]
+![[LEO Ia, q. 43, a. 3#ad 4|Ad quartum dicendum quod operatio miraculorum est manifestativa gratiae gratum facientis, sicut et donum prophetiae, et quaelibet gratia gratis data. Unde I Cor. XII, gratia gratis data nominatur manifestatio spiritus. Sic igitur apostolis dicitur datus spiritus sanctus ad operationem miraculorum, quia data est eis gratia gratum faciens cum signo manifestante. Si autem daretur solum signum gratiae gratum facientis sine gratia, non diceretur dari simpliciter spiritus sanctus; nisi forte cum aliqua determinatione, secundum quod dicitur quod alicui datur spiritus propheticus vel miraculorum, inquantum a spiritu sancto habet virtutem prophetandi vel miracula faciendi.]]
 ![[CERF Ia, q. 43, a. 3#ad 4]]
 

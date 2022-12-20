@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 119, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod nihil de alimento transeat in veritatem humanae naturae. Dicitur enim [[Mt 15]], *omne quod in os intrat, in ventrem vadit, et per secessum emittitur*. Sed quod emittitur, non transit in veritatem humanae naturae. Ergo nihil de alimento in veritatem humanae naturae transit.]]
+![[LEO Ia, q. 119, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod nihil de alimento transeat in veritatem humanae naturae. Dicitur enim Matth. XV, *omne quod in os intrat, in ventrem vadit, et per secessum emittitur*. Sed quod emittitur, non transit in veritatem humanae naturae. Ergo nihil de alimento in veritatem humanae naturae transit.]]
 ![[CERF Ia, q. 119, a. 1#arg. 1]]
 
 ###### arg. 2

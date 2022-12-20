@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIIa, q. 38, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod Baptismus Ioannis cessare debuerit postquam Christus est baptizatus. Dicitur enim [[Jn 1]], *ut manifestetur Israeli, propterea veni in aqua baptizans*. Sed, Christo baptizato, sufficienter fuit manifestatus, tum per testimonium Ioannis; tum per descensum columbae; tum etiam testimonio paternae vocis. Ergo non videtur quod postea debuerit Baptismus Ioannis durare.]]
+![[LEO IIIa, q. 38, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod Baptismus Ioannis cessare debuerit postquam Christus est baptizatus. Dicitur enim Ioan. I, *ut manifestetur Israeli, propterea veni in aqua baptizans*. Sed, Christo baptizato, sufficienter fuit manifestatus, tum per testimonium Ioannis; tum per descensum columbae; tum etiam testimonio paternae vocis. Ergo non videtur quod postea debuerit Baptismus Ioannis durare.]]
 ![[CERF IIIa, q. 38, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 38, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 38, a. 5#s.c.|Sed contra est quod dicitur [[Jn 3]], *venit Iesus in Iudaeam terram et baptizabat, erat autem et Ioannes baptizans*. Sed Christus non baptizavit priusquam fuit baptizatus. Ergo videtur quod, postquam fuit Christus baptizatus, adhuc Ioannes baptizabat.]]
+![[LEO IIIa, q. 38, a. 5#s.c.|Sed contra est quod dicitur Ioan. III, *venit Iesus in Iudaeam terram et baptizabat, erat autem et Ioannes baptizans*. Sed Christus non baptizavit priusquam fuit baptizatus. Ergo videtur quod, postquam fuit Christus baptizatus, adhuc Ioannes baptizabat.]]
 ![[CERF IIIa, q. 38, a. 5#s.c.]]
 
 ###### resp.

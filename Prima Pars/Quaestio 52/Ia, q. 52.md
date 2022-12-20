@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 52#Prooemium|Deinde quaeritur de loco Angeli. Et circa hoc quaeruntur tria. Primo, utrum Angelus sit in loco. Secundo, utrum possit esse in pluribus locis simul. Tertio, utrum plures Angeli possint esse in eodem loco.]]
-![[CERF Ia, q. 52#Prooemium]]
+Deinde quaeritur de loco Angeli. Et circa hoc quaeruntur tria. Primo, utrum Angelus sit in loco. Secundo, utrum possit esse in pluribus locis simul. Tertio, utrum plures Angeli possint esse in eodem loco.
 
 ![[Ia, q. 52, a. 1#Articulus 1]]
 

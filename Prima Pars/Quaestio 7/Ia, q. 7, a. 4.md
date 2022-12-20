@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 7, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 7, a. 4#s.c.|Sed contra est quod dicitur [[Sg 11]], *omnia in pondere, numero et mensura disposuisti*.]]
+![[LEO Ia, q. 7, a. 4#s.c.|Sed contra est quod dicitur Sap. XI, *omnia in pondere, numero et mensura disposuisti*.]]
 ![[CERF Ia, q. 7, a. 4#s.c.]]
 
 ###### resp.

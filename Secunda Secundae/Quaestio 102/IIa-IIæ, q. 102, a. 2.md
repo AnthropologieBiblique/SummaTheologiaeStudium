@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 102, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 102, a. 2#arg. 3|Praeterea, superioribus nostris in dignitate constitutis non solum debemus honorem, sed etiam timorem, et aliquam munerum largitionem, secundum illud ad [[Rm 13]], *reddite omnibus debita, et cui tributum, tributum; cui vectigal, vectigal; cui timorem, timorem; cui honorem, honorem*. Debemus etiam eis reverentiam et subiectionem, secundum illud [[He 13]], *obedite praepositis vestris, et subiacete eis*. Non ergo convenienter determinatur quod observantia exhibet cultum et honorem.]]
+![[LEO IIa-IIæ, q. 102, a. 2#arg. 3|Praeterea, superioribus nostris in dignitate constitutis non solum debemus honorem, sed etiam timorem, et aliquam munerum largitionem, secundum illud ad Rom. XIII, *reddite omnibus debita, et cui tributum, tributum; cui vectigal, vectigal; cui timorem, timorem; cui honorem, honorem*. Debemus etiam eis reverentiam et subiectionem, secundum illud Heb. XIII, *obedite praepositis vestris, et subiacete eis*. Non ergo convenienter determinatur quod observantia exhibet cultum et honorem.]]
 ![[CERF IIa-IIæ, q. 102, a. 2#arg. 3]]
 
 ###### s.c.

@@ -6,19 +6,19 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 106, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod lex nova non iustificet. Nullus enim iustificatur nisi legi Dei obediat; secundum illud ad [[He 5]], *factus est*, scilicet Christus, *omnibus obtemperantibus sibi causa salutis aeternae*. Sed Evangelium non semper hoc operatur quod homines ei obediant, dicitur enim [[Rm 10]], non omnes obediunt Evangelio. Ergo lex nova non iustificat.]]
+![[LEO Ia-IIæ, q. 106, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod lex nova non iustificet. Nullus enim iustificatur nisi legi Dei obediat; secundum illud ad Heb. V, *factus est*, scilicet Christus, *omnibus obtemperantibus sibi causa salutis aeternae*. Sed Evangelium non semper hoc operatur quod homines ei obediant, dicitur enim Rom. X, non omnes obediunt Evangelio. Ergo lex nova non iustificat.]]
 ![[CERF Ia-IIæ, q. 106, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 106, a. 2#arg. 2|Praeterea, apostolus probat, ad Rom., quod lex vetus non iustificabat, quia ea adveniente praevaricatio crevit, habetur enim ad [[Rm 4]], *lex iram operatur, ubi enim non est lex, nec praevaricatio*. Sed multo magis lex nova praevaricationem addidit, maiori enim poena est dignus qui post legem novam datam adhuc peccat; secundum illud [[He 10]], *irritam quis faciens legem Moysi, sine ulla miseratione, duobus vel tribus testibus, moritur. Quanto magis putatis deteriora mereri supplicia, qui filium Dei conculcaverit, et cetera?* Ergo lex nova non iustificat, sicut nec vetus.]]
+![[LEO Ia-IIæ, q. 106, a. 2#arg. 2|Praeterea, apostolus probat, ad Rom., quod lex vetus non iustificabat, quia ea adveniente praevaricatio crevit, habetur enim ad Rom. IV, *lex iram operatur, ubi enim non est lex, nec praevaricatio*. Sed multo magis lex nova praevaricationem addidit, maiori enim poena est dignus qui post legem novam datam adhuc peccat; secundum illud Heb. X, *irritam quis faciens legem Moysi, sine ulla miseratione, duobus vel tribus testibus, moritur. Quanto magis putatis deteriora mereri supplicia, qui filium Dei conculcaverit, et cetera?* Ergo lex nova non iustificat, sicut nec vetus.]]
 ![[CERF Ia-IIæ, q. 106, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 106, a. 2#arg. 3|Praeterea, iustificare est proprius effectus Dei; secundum illud ad [[Rm 8]], Deus qui iustificat. Sed lex vetus fuit a Deo, sicut et lex nova. Ergo lex nova non magis iustificat quam lex vetus.]]
+![[LEO Ia-IIæ, q. 106, a. 2#arg. 3|Praeterea, iustificare est proprius effectus Dei; secundum illud ad Rom. VIII, Deus qui iustificat. Sed lex vetus fuit a Deo, sicut et lex nova. Ergo lex nova non magis iustificat quam lex vetus.]]
 ![[CERF Ia-IIæ, q. 106, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 106, a. 2#s.c.|Sed contra est quod apostolus dicit, ad [[Rm 1]], *non erubesco Evangelium, virtus enim Dei est in salutem omni credenti*. Non autem est salus nisi iustificatis. Ergo lex Evangelii iustificat.]]
+![[LEO Ia-IIæ, q. 106, a. 2#s.c.|Sed contra est quod apostolus dicit, ad Rom. I, *non erubesco Evangelium, virtus enim Dei est in salutem omni credenti*. Non autem est salus nisi iustificatis. Ergo lex Evangelii iustificat.]]
 ![[CERF Ia-IIæ, q. 106, a. 2#s.c.]]
 
 ###### resp.

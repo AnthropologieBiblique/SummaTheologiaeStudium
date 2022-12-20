@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 12, a. 9#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 12, a. 9#arg. 2|Praeterea, ea quae prius vidimus, memoriter tenemus. Sed Paulus, videns in raptu essentiam Dei, ut dicit Augustinus XII super Gen. ad litteram, postquam desiit essentiam Dei videre, recordatus est multorum quae in illo raptu viderat, unde ipse dicit quod *audivit arcana verba, quae non licet homini loqui*, [[2 Co 12]]. Ergo oportet dicere quod aliquae similitudines eorum quae recordatus est, in eius intellectu remanserint. Et eadem ratione, quando praesentialiter videbat Dei essentiam, eorum quae in ipsa videbat, aliquas similitudines vel species habebat.]]
+![[LEO Ia, q. 12, a. 9#arg. 2|Praeterea, ea quae prius vidimus, memoriter tenemus. Sed Paulus, videns in raptu essentiam Dei, ut dicit Augustinus XII super Gen. ad litteram, postquam desiit essentiam Dei videre, recordatus est multorum quae in illo raptu viderat, unde ipse dicit quod *audivit arcana verba, quae non licet homini loqui*, II Cor. XII. Ergo oportet dicere quod aliquae similitudines eorum quae recordatus est, in eius intellectu remanserint. Et eadem ratione, quando praesentialiter videbat Dei essentiam, eorum quae in ipsa videbat, aliquas similitudines vel species habebat.]]
 ![[CERF Ia, q. 12, a. 9#arg. 2]]
 
 ###### s.c.

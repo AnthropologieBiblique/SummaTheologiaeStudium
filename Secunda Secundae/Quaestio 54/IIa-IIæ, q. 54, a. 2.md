@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 54, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 54, a. 2#arg. 4|Praeterea, dicitur [[Qo 7]], *qui timet Deum nihil negligit*. Sed unumquodque peccatum praecipue excluditur per virtutem oppositam. Ergo negligentia magis opponitur timori quam prudentiae.]]
+![[LEO IIa-IIæ, q. 54, a. 2#arg. 4|Praeterea, dicitur Eccle. VII, *qui timet Deum nihil negligit*. Sed unumquodque peccatum praecipue excluditur per virtutem oppositam. Ergo negligentia magis opponitur timori quam prudentiae.]]
 ![[CERF IIa-IIæ, q. 54, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 54, a. 2#s.c.|Sed contra est quod dicitur [[Si 20]], *lascivus et imprudens non observant tempus*. Sed hoc pertinet ad negligentiam. Ergo negligentia opponitur prudentiae.]]
+![[LEO IIa-IIæ, q. 54, a. 2#s.c.|Sed contra est quod dicitur Eccli. XX, *lascivus et imprudens non observant tempus*. Sed hoc pertinet ad negligentiam. Ergo negligentia opponitur prudentiae.]]
 ![[CERF IIa-IIæ, q. 54, a. 2#s.c.]]
 
 ###### resp.
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIa-IIæ, q. 54, a. 2#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 54, a. 2#ad 4|Ad quartum dicendum quod timor Dei operatur ad vitationem cuiuslibet peccati, quia ut dicitur [[Pr 15]], *per timorem domini declinat omnis a malo*. Et ideo timor facit negligentiam vitare. Non tamen ita quod directe negligentia timori opponatur, sed inquantum timor excitat hominem ad actus rationis. Unde etiam supra habitum est, cum de passionibus ageretur, quod timor facit consiliativos.]]
+![[LEO IIa-IIæ, q. 54, a. 2#ad 4|Ad quartum dicendum quod timor Dei operatur ad vitationem cuiuslibet peccati, quia ut dicitur Prov. XV, *per timorem domini declinat omnis a malo*. Et ideo timor facit negligentiam vitare. Non tamen ita quod directe negligentia timori opponatur, sed inquantum timor excitat hominem ad actus rationis. Unde etiam supra habitum est, cum de passionibus ageretur, quod timor facit consiliativos.]]
 ![[CERF IIa-IIæ, q. 54, a. 2#ad 4]]
 

@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 65, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 65, a. 5#arg. 2|Praeterea, caritas est radix omnium virtutum; secundum illud [[Ep 3]], *in caritate radicati et fundati*. Sed radix aliquando est sine ramis. Ergo caritas potest esse aliquando sine fide et spe et aliis virtutibus.]]
+![[LEO Ia-IIæ, q. 65, a. 5#arg. 2|Praeterea, caritas est radix omnium virtutum; secundum illud Ephes. III, *in caritate radicati et fundati*. Sed radix aliquando est sine ramis. Ergo caritas potest esse aliquando sine fide et spe et aliis virtutibus.]]
 ![[CERF Ia-IIæ, q. 65, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia-IIæ, q. 65, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 65, a. 5#s.c.|Sed contra est quod apostolus dicit, [[He 11]], *sine fide impossibile est placere Deo*; quod maxime pertinet ad caritatem, ut patet; secundum illud Proverb. VIII, *ego diligentes me diligo*. Spes etiam est quae introducit ad caritatem, ut supra dictum est. Ergo caritas non potest haberi sine fide et spe.]]
+![[LEO Ia-IIæ, q. 65, a. 5#s.c.|Sed contra est quod apostolus dicit, Heb. XI, *sine fide impossibile est placere Deo*; quod maxime pertinet ad caritatem, ut patet; secundum illud Proverb. VIII, *ego diligentes me diligo*. Spes etiam est quae introducit ad caritatem, ut supra dictum est. Ergo caritas non potest haberi sine fide et spe.]]
 ![[CERF Ia-IIæ, q. 65, a. 5#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 65, a. 5#resp.|Respondeo dicendum quod caritas non solum significat amorem Dei, sed etiam amicitiam quandam ad ipsum; quae quidem super amorem addit mutuam redamationem cum quadam mutua communicatione, ut dicitur in VIII Ethic. Et quod hoc ad caritatem pertineat, patet per id quod dicitur [[1 Jn 4]], *qui manet in caritate, in Deo manet, et Deus in eo*. Et I ad Cor. I dicitur, *fidelis Deus, per quem vocati estis in societatem filii eius*. Haec autem societas hominis ad Deum, quae est quaedam familiaris conversatio cum ipso, inchoatur quidem hic in praesenti per gratiam, perficietur autem in futuro per gloriam, quorum utrumque fide et spe tenetur. Unde sicut aliquis non posset cum aliquo amicitiam habere, si discrederet vel desperaret se posse habere aliquam societatem vel familiarem conversationem cum ipso; ita aliquis non potest habere amicitiam ad Deum, quae est caritas, nisi fidem habeat, per quam credat huiusmodi societatem et conversationem hominis cum Deo, et speret se ad hanc societatem pertinere. Et sic caritas sine fide et spe nullo modo esse potest.]]
+![[LEO Ia-IIæ, q. 65, a. 5#resp.|Respondeo dicendum quod caritas non solum significat amorem Dei, sed etiam amicitiam quandam ad ipsum; quae quidem super amorem addit mutuam redamationem cum quadam mutua communicatione, ut dicitur in VIII Ethic. Et quod hoc ad caritatem pertineat, patet per id quod dicitur I Ioan. IV, *qui manet in caritate, in Deo manet, et Deus in eo*. Et I ad Cor. I dicitur, *fidelis Deus, per quem vocati estis in societatem filii eius*. Haec autem societas hominis ad Deum, quae est quaedam familiaris conversatio cum ipso, inchoatur quidem hic in praesenti per gratiam, perficietur autem in futuro per gloriam, quorum utrumque fide et spe tenetur. Unde sicut aliquis non posset cum aliquo amicitiam habere, si discrederet vel desperaret se posse habere aliquam societatem vel familiarem conversationem cum ipso; ita aliquis non potest habere amicitiam ad Deum, quae est caritas, nisi fidem habeat, per quam credat huiusmodi societatem et conversationem hominis cum Deo, et speret se ad hanc societatem pertinere. Et sic caritas sine fide et spe nullo modo esse potest.]]
 ![[CERF Ia-IIæ, q. 65, a. 5#resp.]]
 
 ###### ad 1

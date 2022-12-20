@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 65, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 65, a. 1#s.c.|Sed contra est quod dicitur [[Ex 21]], *oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede*.]]
+![[LEO IIa-IIæ, q. 65, a. 1#s.c.|Sed contra est quod dicitur Exod. XXI, *oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede*.]]
 ![[CERF IIa-IIæ, q. 65, a. 1#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 65, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 65, a. 1#ad 3|Ad tertium dicendum quod membrum non est praecidendum propter corporalem salutem totius nisi quando aliter toti subveniri non potest. Saluti autem spirituali semper potest aliter subveniri quam per membri praecisionem, quia peccatum subiacet voluntati. Et ideo in nullo casu licet membrum praecidere propter quodcumque peccatum vitandum. Unde Chrysostomus, exponens illud [[Mt 19]], *sunt eunuchi qui seipsos castraverunt propter regnum caelorum, dicit, non membrorum abscisionem, sed malarum cogitationum interemptionem. Maledictioni enim est obnoxius qui membrum abscidit, etenim quae homicidarum sunt talis praesumit*. Et postea subdit, *neque concupiscentia mansuetior ita fit, sed molestior. Aliunde enim habet fontes sperma quod in nobis est, et praecipue a proposito incontinenti et mente negligente, nec ita abscisio membri comprimit tentationes, ut cogitationis frenum*.]]
+![[LEO IIa-IIæ, q. 65, a. 1#ad 3|Ad tertium dicendum quod membrum non est praecidendum propter corporalem salutem totius nisi quando aliter toti subveniri non potest. Saluti autem spirituali semper potest aliter subveniri quam per membri praecisionem, quia peccatum subiacet voluntati. Et ideo in nullo casu licet membrum praecidere propter quodcumque peccatum vitandum. Unde Chrysostomus, exponens illud Matth. XIX, *sunt eunuchi qui seipsos castraverunt propter regnum caelorum, dicit, non membrorum abscisionem, sed malarum cogitationum interemptionem. Maledictioni enim est obnoxius qui membrum abscidit, etenim quae homicidarum sunt talis praesumit*. Et postea subdit, *neque concupiscentia mansuetior ita fit, sed molestior. Aliunde enim habet fontes sperma quod in nobis est, et praecipue a proposito incontinenti et mente negligente, nec ita abscisio membri comprimit tentationes, ut cogitationis frenum*.]]
 ![[CERF IIa-IIæ, q. 65, a. 1#ad 3]]
 

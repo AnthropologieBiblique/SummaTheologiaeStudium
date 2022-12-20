@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 107, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod inferior Angelus superiori non loquatur. Quia super illud [[1 Co 13]], *si linguis hominum loquar et Angelorum*, dicit Glossa quod locutiones Angelorum sunt illuminationes, quibus superiores illuminant inferiores. Sed inferiores nunquam illuminant superiores, ut supra dictum est. Ergo nec inferiores superioribus loquuntur.]]
+![[LEO Ia, q. 107, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod inferior Angelus superiori non loquatur. Quia super illud I Cor. XIII, *si linguis hominum loquar et Angelorum*, dicit Glossa quod locutiones Angelorum sunt illuminationes, quibus superiores illuminant inferiores. Sed inferiores nunquam illuminant superiores, ut supra dictum est. Ergo nec inferiores superioribus loquuntur.]]
 ![[CERF Ia, q. 107, a. 2#arg. 1]]
 
 ###### arg. 2

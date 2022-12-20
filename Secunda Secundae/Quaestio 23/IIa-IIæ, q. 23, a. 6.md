@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 23, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 23, a. 6#arg. 2|Praeterea, illud per quod aliud operatur, videtur eo esse inferius, sicut minister, per quem dominus aliquid operatur, est inferior domino. *Sed fides per dilectionem operatur*, ut habetur ad [[Ga 5]]. Ergo fides est excellentior caritate.]]
+![[LEO IIa-IIæ, q. 23, a. 6#arg. 2|Praeterea, illud per quod aliud operatur, videtur eo esse inferius, sicut minister, per quem dominus aliquid operatur, est inferior domino. *Sed fides per dilectionem operatur*, ut habetur ad Gal. V. Ergo fides est excellentior caritate.]]
 ![[CERF IIa-IIæ, q. 23, a. 6#arg. 2]]
 
 ###### arg. 3

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 4, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 4, a. 4#s.c.|Sed contra est quod dicitur [[Mt 5]], *beati mundo corde, quoniam ipsi Deum videbunt*. Et [[He 12]], *pacem sequimini cum omnibus, et sanctimoniam, sine qua nemo videbit Deum*.]]
+![[LEO Ia-IIæ, q. 4, a. 4#s.c.|Sed contra est quod dicitur Matth. V, *beati mundo corde, quoniam ipsi Deum videbunt*. Et Heb. XII, *pacem sequimini cum omnibus, et sanctimoniam, sine qua nemo videbit Deum*.]]
 ![[CERF Ia-IIæ, q. 4, a. 4#s.c.]]
 
 ###### resp.

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 69, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 69, a. 2#arg. 3|Praeterea, [[Pr 14]] dicitur, *sapiens timet et declinat a malo, stultus transilit et confidit*. Sed illud quod fit per sapientiam non est peccatum. Ergo si aliquis qualitercumque se liberet a malo, non peccat.]]
+![[LEO IIa-IIæ, q. 69, a. 2#arg. 3|Praeterea, Prov. XIV dicitur, *sapiens timet et declinat a malo, stultus transilit et confidit*. Sed illud quod fit per sapientiam non est peccatum. Ergo si aliquis qualitercumque se liberet a malo, non peccat.]]
 ![[CERF IIa-IIæ, q. 69, a. 2#arg. 3]]
 
 ###### s.c.

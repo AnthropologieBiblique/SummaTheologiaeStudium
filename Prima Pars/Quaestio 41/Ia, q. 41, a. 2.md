@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 41, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 41, a. 2#arg. 2|Praeterea, apostolus, [[Col 1]], *transtulit nos in regnum filii dilectionis suae*. Dilectio autem voluntatis est. Ergo filius genitus est a patre, voluntate.]]
+![[LEO Ia, q. 41, a. 2#arg. 2|Praeterea, apostolus, Coloss. I, *transtulit nos in regnum filii dilectionis suae*. Dilectio autem voluntatis est. Ergo filius genitus est a patre, voluntate.]]
 ![[CERF Ia, q. 41, a. 2#arg. 2]]
 
 ###### arg. 3

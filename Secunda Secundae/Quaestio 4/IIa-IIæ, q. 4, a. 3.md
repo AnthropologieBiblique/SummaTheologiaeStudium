@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 4, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 4, a. 3#arg. 3|Praeterea, forma est principium rei. Sed principium credendi ex parte voluntatis magis videtur esse obedientia quam caritas, secundum illud ad [[Rm 1]], *ad obediendum fidei in omnibus gentibus*. Ergo obedientia magis est forma fidei quam caritas.]]
+![[LEO IIa-IIæ, q. 4, a. 3#arg. 3|Praeterea, forma est principium rei. Sed principium credendi ex parte voluntatis magis videtur esse obedientia quam caritas, secundum illud ad Rom. I, *ad obediendum fidei in omnibus gentibus*. Ergo obedientia magis est forma fidei quam caritas.]]
 ![[CERF IIa-IIæ, q. 4, a. 3#arg. 3]]
 
 ###### s.c.

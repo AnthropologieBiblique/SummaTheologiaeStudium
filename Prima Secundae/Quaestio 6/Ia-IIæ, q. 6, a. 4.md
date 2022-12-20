@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 6, a. 4#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 6, a. 4#ad 1|Ad primum ergo dicendum quod Deus, qui est potentior quam voluntas humana, potest voluntatem humanam movere; secundum illud [[Pr 21]], *cor regis in manu Dei est, et quocumque voluerit, vertet illud*. Sed si hoc esset per violentiam, iam non esset cum actu voluntatis nec ipsa voluntas moveretur, sed aliquid contra voluntatem.]]
+![[LEO Ia-IIæ, q. 6, a. 4#ad 1|Ad primum ergo dicendum quod Deus, qui est potentior quam voluntas humana, potest voluntatem humanam movere; secundum illud Prov. XXI, *cor regis in manu Dei est, et quocumque voluerit, vertet illud*. Sed si hoc esset per violentiam, iam non esset cum actu voluntatis nec ipsa voluntas moveretur, sed aliquid contra voluntatem.]]
 ![[CERF Ia-IIæ, q. 6, a. 4#ad 1]]
 
 ###### ad 2

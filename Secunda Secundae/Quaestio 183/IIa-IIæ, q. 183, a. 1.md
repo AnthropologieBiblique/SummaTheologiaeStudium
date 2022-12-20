@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 183, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod status in sui ratione non importet conditionem libertatis vel servitutis. Status enim a stando dicitur. Sed stare dicitur aliquis ratione rectitudinis, unde dicitur [[Ez 2]], fili hominis, sta super pedes tuos; et Gregorius dicit, in VII Moral., ab *omni statu rectitudinis dispereunt qui per noxia verba dilabuntur* sed rectitudinem spiritualem acquirit homo per hoc quod subiicit suam voluntatem Deo, unde super illud Psalmi, rectos decet collaudatio, dicit Glossa, *recti sunt qui dirigunt cor suum secundum voluntatem Dei*. Ergo videtur quod sola obedientia divinorum mandatorum sufficiat ad rationem status.]]
+![[LEO IIa-IIæ, q. 183, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod status in sui ratione non importet conditionem libertatis vel servitutis. Status enim a stando dicitur. Sed stare dicitur aliquis ratione rectitudinis, unde dicitur Ezech. II, fili hominis, sta super pedes tuos; et Gregorius dicit, in VII Moral., ab *omni statu rectitudinis dispereunt qui per noxia verba dilabuntur* sed rectitudinem spiritualem acquirit homo per hoc quod subiicit suam voluntatem Deo, unde super illud Psalmi, rectos decet collaudatio, dicit Glossa, *recti sunt qui dirigunt cor suum secundum voluntatem Dei*. Ergo videtur quod sola obedientia divinorum mandatorum sufficiat ad rationem status.]]
 ![[CERF IIa-IIæ, q. 183, a. 1#arg. 1]]
 
 ###### arg. 2

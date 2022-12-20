@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 31, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 31, a. 6#arg. 2|Praeterea, [[Rm 1]] dicitur quod *Christus factus est ex semine David secundum carnem*. Sed semen David fuit aliquid signatum in ipso. Ergo Christus fuit in David secundum aliquid signatum, et eadem ratione in aliis patribus.]]
+![[LEO IIIa, q. 31, a. 6#arg. 2|Praeterea, Rom. I dicitur quod *Christus factus est ex semine David secundum carnem*. Sed semen David fuit aliquid signatum in ipso. Ergo Christus fuit in David secundum aliquid signatum, et eadem ratione in aliis patribus.]]
 ![[CERF IIIa, q. 31, a. 6#arg. 2]]
 
 ###### arg. 3

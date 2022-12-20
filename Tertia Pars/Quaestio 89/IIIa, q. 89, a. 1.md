@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 89, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 89, a. 1#s.c.|Sed contra est quod, [[Lc 15]], pater mandavit quod filius poenitens indueretur stola prima, quae, secundum Ambrosium, est amictus sapientiae, quam simul consequuntur omnes virtutes, secundum illud [[Sg 8]], *sobrietatem et iustitiam docet, prudentiam et virtutem, quibus in vita nihil est utilius hominibus*. Ergo per poenitentiam omnes virtutes restituuntur.]]
+![[LEO IIIa, q. 89, a. 1#s.c.|Sed contra est quod, Luc. XV, pater mandavit quod filius poenitens indueretur stola prima, quae, secundum Ambrosium, est amictus sapientiae, quam simul consequuntur omnes virtutes, secundum illud Sap. VIII, *sobrietatem et iustitiam docet, prudentiam et virtutem, quibus in vita nihil est utilius hominibus*. Ergo per poenitentiam omnes virtutes restituuntur.]]
 ![[CERF IIIa, q. 89, a. 1#s.c.]]
 
 ###### resp.

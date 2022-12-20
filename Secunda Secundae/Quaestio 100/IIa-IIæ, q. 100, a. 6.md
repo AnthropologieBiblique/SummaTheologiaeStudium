@@ -38,7 +38,7 @@ tags :
 ![[CERF IIa-IIæ, q. 100, a. 6#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 100, a. 6#resp.|Respondeo dicendum quod nullus potest licite retinere illud quod contra voluntatem domini acquisivit, puta si aliquis dispensator de rebus domini sui daret alicui contra voluntatem et ordinationem domini sui, ille qui acciperet licite retinere non posset. Dominus autem, cuius Ecclesiarum praelati sunt dispensatores et ministri, ordinavit ut spiritualia gratis darentur, secundum illud [[Mt 10]], gratis accepistis, gratis date. Et ideo qui muneris interventu spiritualia quaecumque assequuntur, ea licite retinere non possunt. Insuper autem simoniaci, tam vendentes quam ementes spiritualia, aut etiam mediatores, aliis poenis puniuntur, scilicet infamia et depositione, si sint clerici; et excommunicatione, si sint laici; ut habetur I, qu. I, cap. si quis episcopus.]]
+![[LEO IIa-IIæ, q. 100, a. 6#resp.|Respondeo dicendum quod nullus potest licite retinere illud quod contra voluntatem domini acquisivit, puta si aliquis dispensator de rebus domini sui daret alicui contra voluntatem et ordinationem domini sui, ille qui acciperet licite retinere non posset. Dominus autem, cuius Ecclesiarum praelati sunt dispensatores et ministri, ordinavit ut spiritualia gratis darentur, secundum illud Matth. X, gratis accepistis, gratis date. Et ideo qui muneris interventu spiritualia quaecumque assequuntur, ea licite retinere non possunt. Insuper autem simoniaci, tam vendentes quam ementes spiritualia, aut etiam mediatores, aliis poenis puniuntur, scilicet infamia et depositione, si sint clerici; et excommunicatione, si sint laici; ut habetur I, qu. I, cap. si quis episcopus.]]
 ![[CERF IIa-IIæ, q. 100, a. 6#resp.]]
 
 ###### ad 1

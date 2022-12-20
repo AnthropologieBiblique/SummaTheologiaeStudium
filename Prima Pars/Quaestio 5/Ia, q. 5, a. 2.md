@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 5, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 5, a. 2#arg. 3|Praeterea, quod est universalius, est prius secundum rationem. Sed bonum videtur universalius esse quam ens, quia bonum habet rationem appetibilis; quibusdam autem appetibile est ipsum non esse; dicitur enim, [[Mt 26]], de Iuda, *bonum erat ei, si natus non fuisset* et cetera. Ergo bonum est prius quam ens, secundum rationem.]]
+![[LEO Ia, q. 5, a. 2#arg. 3|Praeterea, quod est universalius, est prius secundum rationem. Sed bonum videtur universalius esse quam ens, quia bonum habet rationem appetibilis; quibusdam autem appetibile est ipsum non esse; dicitur enim, Matth. XXVI, de Iuda, *bonum erat ei, si natus non fuisset* et cetera. Ergo bonum est prius quam ens, secundum rationem.]]
 ![[CERF Ia, q. 5, a. 2#arg. 3]]
 
 ###### arg. 4

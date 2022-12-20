@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 1, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 1, a. 3#arg. 2|Praeterea, Abraham credidit Christum nasciturum, secundum illud [[Jn 8]], *Abraham, pater vester, exultavit ut videret diem meum*. Sed post tempus Abrahae Deus poterat non incarnari, sola enim sua voluntate carnem accepit, et ita esset falsum quod Abraham de Christo credidit. Ergo fidei potest subesse falsum.]]
+![[LEO IIa-IIæ, q. 1, a. 3#arg. 2|Praeterea, Abraham credidit Christum nasciturum, secundum illud Ioan. VIII, *Abraham, pater vester, exultavit ut videret diem meum*. Sed post tempus Abrahae Deus poterat non incarnari, sola enim sua voluntate carnem accepit, et ita esset falsum quod Abraham de Christo credidit. Ergo fidei potest subesse falsum.]]
 ![[CERF IIa-IIæ, q. 1, a. 3#arg. 2]]
 
 ###### arg. 3

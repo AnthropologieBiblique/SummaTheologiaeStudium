@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 67, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 67, a. 1#arg. 2|Praeterea, secundum Dionysium, V cap. Eccl. Hier., purgare pertinet ad officium diaconi. Sed purgatio a peccatis maxime fit per Baptismum, secundum illud [[Ep 5]], *mundans eam lavacro aquae in verbo vitae*. Ergo videtur quod baptizare pertineat ad diaconem.]]
+![[LEO IIIa, q. 67, a. 1#arg. 2|Praeterea, secundum Dionysium, V cap. Eccl. Hier., purgare pertinet ad officium diaconi. Sed purgatio a peccatis maxime fit per Baptismum, secundum illud Ephes. V, *mundans eam lavacro aquae in verbo vitae*. Ergo videtur quod baptizare pertineat ad diaconem.]]
 ![[CERF IIIa, q. 67, a. 1#arg. 2]]
 
 ###### arg. 3

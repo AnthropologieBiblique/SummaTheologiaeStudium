@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 60, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 60, a. 1#arg. 2|Praeterea, sacramentum videtur occultum aliquid significare, secundum illud [[Tb 12]], *sacramentum regis abscondere bonum est*; et [[Ep 3]], *quae sit dispensatio sacramenti absconditi a saeculis in Deo*. Sed id quod est absconditum, videtur esse contra rationem signi, nam *signum est quod, praeter speciem quam sensibus ingerit, facit aliquid aliud in cognitionem venire*, ut patet per Augustinum, in II de Doct. Christ. Ergo videtur quod sacramentum non sit in genere signi.]]
+![[LEO IIIa, q. 60, a. 1#arg. 2|Praeterea, sacramentum videtur occultum aliquid significare, secundum illud Tob. XII, *sacramentum regis abscondere bonum est*; et Ephes. III, *quae sit dispensatio sacramenti absconditi a saeculis in Deo*. Sed id quod est absconditum, videtur esse contra rationem signi, nam *signum est quod, praeter speciem quam sensibus ingerit, facit aliquid aliud in cognitionem venire*, ut patet per Augustinum, in II de Doct. Christ. Ergo videtur quod sacramentum non sit in genere signi.]]
 ![[CERF IIIa, q. 60, a. 1#arg. 2]]
 
 ###### arg. 3

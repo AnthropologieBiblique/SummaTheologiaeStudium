@@ -6,7 +6,7 @@ tags :
 ### Articulus 10
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 89, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod iuramentum non impediatur per aliquam conditionem personae vel temporis. Iuramentum enim ad confirmationem inducitur, ut patet per apostolum, ad [[He 6]]. Sed cuilibet convenit confirmare dictum suum, et quolibet tempore. Ergo videtur quod iuramentum non impediatur propter aliquam conditionem personae vel temporis.]]
+![[LEO IIa-IIæ, q. 89, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod iuramentum non impediatur per aliquam conditionem personae vel temporis. Iuramentum enim ad confirmationem inducitur, ut patet per apostolum, ad Heb. VI. Sed cuilibet convenit confirmare dictum suum, et quolibet tempore. Ergo videtur quod iuramentum non impediatur propter aliquam conditionem personae vel temporis.]]
 ![[CERF IIa-IIæ, q. 89, a. 10#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 89, a. 10#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 89, a. 10#arg. 4|Praeterea, nullus homo vivens in hoc mundo est tantae dignitatis sicut Angeli, dicitur enim [[Mt 11]] quod *qui minor est in regno caelorum maior est illo*, scilicet Ioanne Baptista adhuc in mundo vivente. Sed Angelo convenit iurare, dicitur enim [[Ap 10]] quod *Angelus iuravit per viventem in saecula saeculorum*. Ergo nullus homo propter dignitatem debet excusari a iuramento.]]
+![[LEO IIa-IIæ, q. 89, a. 10#arg. 4|Praeterea, nullus homo vivens in hoc mundo est tantae dignitatis sicut Angeli, dicitur enim Matth. XI quod *qui minor est in regno caelorum maior est illo*, scilicet Ioanne Baptista adhuc in mundo vivente. Sed Angelo convenit iurare, dicitur enim Apoc. X quod *Angelus iuravit per viventem in saecula saeculorum*. Ergo nullus homo propter dignitatem debet excusari a iuramento.]]
 ![[CERF IIa-IIæ, q. 89, a. 10#arg. 4]]
 
 ###### s.c.
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIa-IIæ, q. 89, a. 10#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 89, a. 10#ad 4|Ad quartum dicendum quod iuramentum Angeli inducitur non propter defectum ipsius, quasi non sit eius simplici dicto credendum, sed ad ostendendum id quod dicitur ex infallibili Dei dispositione procedere. Sicut etiam et Deus aliquando in Scripturis iurans inducitur, ad ostendendum immobilitatem eius quod dicitur, sicut apostolus dicit, ad [[He 6]].]]
+![[LEO IIa-IIæ, q. 89, a. 10#ad 4|Ad quartum dicendum quod iuramentum Angeli inducitur non propter defectum ipsius, quasi non sit eius simplici dicto credendum, sed ad ostendendum id quod dicitur ex infallibili Dei dispositione procedere. Sicut etiam et Deus aliquando in Scripturis iurans inducitur, ad ostendendum immobilitatem eius quod dicitur, sicut apostolus dicit, ad Heb. VI.]]
 ![[CERF IIa-IIæ, q. 89, a. 10#ad 4]]
 

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 129, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 129, a. 4#arg. 3|Praeterea, quaelibet virtus est quidam spiritualis ornatus animae, secundum illud [[Is 61]], *induit me dominus vestimentis salutis*; et postea subdit, *quasi sponsam ornatam monilibus suis*. Sed magnanimitas est ornatus omnium virtutum, ut dicitur in IV Ethic. Ergo magnanimitas est generalis virtus.]]
+![[LEO IIa-IIæ, q. 129, a. 4#arg. 3|Praeterea, quaelibet virtus est quidam spiritualis ornatus animae, secundum illud Isaiae LXI, *induit me dominus vestimentis salutis*; et postea subdit, *quasi sponsam ornatam monilibus suis*. Sed magnanimitas est ornatus omnium virtutum, ut dicitur in IV Ethic. Ergo magnanimitas est generalis virtus.]]
 ![[CERF IIa-IIæ, q. 129, a. 4#arg. 3]]
 
 ###### s.c.

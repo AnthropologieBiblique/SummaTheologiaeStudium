@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 97, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 97, a. 3#arg. 2|Praeterea, [[Si 18]] dicitur, *ante orationem praepara animam tuam, et noli esse quasi homo qui tentat Deum*, ubi dicit interlinearis qui, scilicet tentans Deum, *orat quod docuit, sed non facit quod iussit*. Sed hoc pertinet ad praesumptionem, quae opponitur spei. Ergo videtur quod tentatio Dei sit peccatum oppositum spei.]]
+![[LEO IIa-IIæ, q. 97, a. 3#arg. 2|Praeterea, Eccli. XVIII dicitur, *ante orationem praepara animam tuam, et noli esse quasi homo qui tentat Deum*, ubi dicit interlinearis qui, scilicet tentans Deum, *orat quod docuit, sed non facit quod iussit*. Sed hoc pertinet ad praesumptionem, quae opponitur spei. Ergo videtur quod tentatio Dei sit peccatum oppositum spei.]]
 ![[CERF IIa-IIæ, q. 97, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 97, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 97, a. 3#ad 2|Ad secundum dicendum quod ille qui ante orationem suam animam non praeparat, dimittendo si quid adversum aliquem habet, vel alias se ad devotionem non disponendo, non facit quod in se est ut exaudiatur a Deo. Et ideo quasi interpretative tentat Deum. Et quamvis huiusmodi interpretativa tentatio videatur ex praesumptione seu indiscretione provenire, tamen hoc ipsum ad irreverentiam Dei pertinet ut homo praesumptuose et sine debita diligentia se habeat in his quae ad Deum pertinent, dicitur enim [[1 P 5]], *humiliamini sub potenti manu Dei*; et [[2 Tm 2]], *sollicite cura teipsum probabilem exhibere Deo*. Unde etiam huiusmodi tentatio irreligiositatis species est.]]
+![[LEO IIa-IIæ, q. 97, a. 3#ad 2|Ad secundum dicendum quod ille qui ante orationem suam animam non praeparat, dimittendo si quid adversum aliquem habet, vel alias se ad devotionem non disponendo, non facit quod in se est ut exaudiatur a Deo. Et ideo quasi interpretative tentat Deum. Et quamvis huiusmodi interpretativa tentatio videatur ex praesumptione seu indiscretione provenire, tamen hoc ipsum ad irreverentiam Dei pertinet ut homo praesumptuose et sine debita diligentia se habeat in his quae ad Deum pertinent, dicitur enim I Pet. V, *humiliamini sub potenti manu Dei*; et II ad Tim. II, *sollicite cura teipsum probabilem exhibere Deo*. Unde etiam huiusmodi tentatio irreligiositatis species est.]]
 ![[CERF IIa-IIæ, q. 97, a. 3#ad 2]]
 
 ###### ad 3

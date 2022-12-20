@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 15, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 15, a. 3#arg. 2|Praeterea, aliquis dicitur ignorans per notitiae defectum. Sed aliqua notitia defuit Christo, dicit enim apostolus, [[2 Co 5]], *eum qui non novit peccatum, pro nobis peccatum fecit*. Ergo in Christo fuit ignorantia.]]
+![[LEO IIIa, q. 15, a. 3#arg. 2|Praeterea, aliquis dicitur ignorans per notitiae defectum. Sed aliqua notitia defuit Christo, dicit enim apostolus, II Cor. V, *eum qui non novit peccatum, pro nobis peccatum fecit*. Ergo in Christo fuit ignorantia.]]
 ![[CERF IIIa, q. 15, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 15, a. 3#arg. 3|Praeterea, [[Is 8]] dicitur, *antequam sciat puer vocare patrem suum et matrem suam, auferetur fortitudo Damasci*. Puer autem ille est Christus. Ergo in Christo fuit aliquarum rerum ignorantia.]]
+![[LEO IIIa, q. 15, a. 3#arg. 3|Praeterea, Isaiae VIII dicitur, *antequam sciat puer vocare patrem suum et matrem suam, auferetur fortitudo Damasci*. Puer autem ille est Christus. Ergo in Christo fuit aliquarum rerum ignorantia.]]
 ![[CERF IIIa, q. 15, a. 3#arg. 3]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 15, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 15, a. 3#ad 1|Ad primum ergo dicendum quod natura a Christo assumpta potest dupliciter considerari. Uno modo, secundum rationem suae speciei. Et secundum hoc dicit Damascenus eam esse ignorantem et servilem. Unde subdit, *nam serva est quidem hominis natura eius qui fecit ipsam, Dei, et non habet futurorum cognitionem*. Alio modo potest considerari secundum illud quod habet ex unione ad hypostasim divinam, ex qua habet plenitudinem scientiae et gratiae, secundum illud [[Jn 1]], *vidimus eum, quasi unigenitum a patre, plenum gratiae et veritatis*. Et hoc modo natura humana in Christo ignorantiam non habuit.]]
+![[LEO IIIa, q. 15, a. 3#ad 1|Ad primum ergo dicendum quod natura a Christo assumpta potest dupliciter considerari. Uno modo, secundum rationem suae speciei. Et secundum hoc dicit Damascenus eam esse ignorantem et servilem. Unde subdit, *nam serva est quidem hominis natura eius qui fecit ipsam, Dei, et non habet futurorum cognitionem*. Alio modo potest considerari secundum illud quod habet ex unione ad hypostasim divinam, ex qua habet plenitudinem scientiae et gratiae, secundum illud Ioan. I, *vidimus eum, quasi unigenitum a patre, plenum gratiae et veritatis*. Et hoc modo natura humana in Christo ignorantiam non habuit.]]
 ![[CERF IIIa, q. 15, a. 3#ad 1]]
 
 ###### ad 2

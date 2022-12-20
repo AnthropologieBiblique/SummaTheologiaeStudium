@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 47, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 47, a. 5#s.c.|Sed contra est quod condividitur et connumeratur aliis virtutibus, dicitur enim [[Sg 8]]. *Sobrietatem et prudentiam docet, iustitiam et virtutem*.]]
+![[LEO IIa-IIæ, q. 47, a. 5#s.c.|Sed contra est quod condividitur et connumeratur aliis virtutibus, dicitur enim Sap. VIII. *Sobrietatem et prudentiam docet, iustitiam et virtutem*.]]
 ![[CERF IIa-IIæ, q. 47, a. 5#s.c.]]
 
 ###### resp.

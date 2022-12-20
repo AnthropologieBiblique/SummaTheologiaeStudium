@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 46, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod ira sit gravior quam odium. Dicitur enim [[Pr 27]], quod *ira non habet misericordiam, nec erumpens furor*. Odium autem quandoque habet misericordiam. Ergo ira est gravior quam odium.]]
+![[LEO Ia-IIæ, q. 46, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod ira sit gravior quam odium. Dicitur enim Prov. XXVII, quod *ira non habet misericordiam, nec erumpens furor*. Odium autem quandoque habet misericordiam. Ergo ira est gravior quam odium.]]
 ![[CERF Ia-IIæ, q. 46, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 46, a. 6#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 46, a. 6#ad 1|Ad primum ergo dicendum quod in ira et odio duo possunt considerari, scilicet ipsum quod desideratur, et intensio desiderii. Quantum igitur ad id quod desideratur, ira habet magis misericordiam quam odium. Quia enim odium appetit malum alterius secundum se, nulla mensura mali satiatur, ea enim quae secundum se appetuntur, sine mensura appetuntur, ut philosophus dicit I Politic., sicut avarus divitias. Unde dicitur [[Si 12]], *inimicus si invenerit tempus, non satiabitur sanguine*. Sed ira non appetit malum nisi sub ratione iusti vindicativi. Unde quando malum illatum excedit mensuram iustitiae, secundum aestimationem irascentis, tunc miseretur. Unde philosophus dicit, in II Rhetoric., quod *iratus, si fiant multa, miserebitur, odiens autem pro nullo*. Quantum vero ad intensionem desiderii, ira magis excludit misericordiam quam odium, quia motus irae est impetuosior, propter cholerae inflammationem. Unde statim subditur, *impetum concitati spiritus ferre quis poterit?*]]
+![[LEO Ia-IIæ, q. 46, a. 6#ad 1|Ad primum ergo dicendum quod in ira et odio duo possunt considerari, scilicet ipsum quod desideratur, et intensio desiderii. Quantum igitur ad id quod desideratur, ira habet magis misericordiam quam odium. Quia enim odium appetit malum alterius secundum se, nulla mensura mali satiatur, ea enim quae secundum se appetuntur, sine mensura appetuntur, ut philosophus dicit I Politic., sicut avarus divitias. Unde dicitur Eccli. XII, *inimicus si invenerit tempus, non satiabitur sanguine*. Sed ira non appetit malum nisi sub ratione iusti vindicativi. Unde quando malum illatum excedit mensuram iustitiae, secundum aestimationem irascentis, tunc miseretur. Unde philosophus dicit, in II Rhetoric., quod *iratus, si fiant multa, miserebitur, odiens autem pro nullo*. Quantum vero ad intensionem desiderii, ira magis excludit misericordiam quam odium, quia motus irae est impetuosior, propter cholerae inflammationem. Unde statim subditur, *impetum concitati spiritus ferre quis poterit?*]]
 ![[CERF Ia-IIæ, q. 46, a. 6#ad 1]]
 
 ###### ad 2

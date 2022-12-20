@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 87, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 87, a. 4#arg. 3|Praeterea, sicut [[Nb 18]] praecipitur quod Levitae a populo decimas accipiant, ita etiam praecipitur quod ipsi dent decimas summo sacerdoti. Ergo, qua ratione laici debent dare decimas clericis, eadem ratione clerici debent dare decimas summo pontifici.]]
+![[LEO IIa-IIæ, q. 87, a. 4#arg. 3|Praeterea, sicut Num. XVIII praecipitur quod Levitae a populo decimas accipiant, ita etiam praecipitur quod ipsi dent decimas summo sacerdoti. Ergo, qua ratione laici debent dare decimas clericis, eadem ratione clerici debent dare decimas summo pontifici.]]
 ![[CERF IIa-IIæ, q. 87, a. 4#arg. 3]]
 
 ###### arg. 4

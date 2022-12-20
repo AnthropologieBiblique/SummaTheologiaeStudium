@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 124, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod martyrium non sit actus maximae perfectionis. Illud enim ad perfectionem vitae videtur pertinere quod cadit sub consilio, non sub praecepto, quia scilicet non est de necessitate salutis. Sed martyrium videtur esse de necessitate salutis, dicit enim apostolus, [[Rm 10]], *corde creditur ad iustitiam, ore autem fit confessio ad salutem*; et [[1 Jn 3]] dicitur quod *nos debemus pro fratribus animam ponere*. Ergo martyrium non pertinet ad perfectionem.]]
+![[LEO IIa-IIæ, q. 124, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod martyrium non sit actus maximae perfectionis. Illud enim ad perfectionem vitae videtur pertinere quod cadit sub consilio, non sub praecepto, quia scilicet non est de necessitate salutis. Sed martyrium videtur esse de necessitate salutis, dicit enim apostolus, Rom. X, *corde creditur ad iustitiam, ore autem fit confessio ad salutem*; et I Ioann. III dicitur quod *nos debemus pro fratribus animam ponere*. Ergo martyrium non pertinet ad perfectionem.]]
 ![[CERF IIa-IIæ, q. 124, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 124, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 124, a. 3#resp.|Respondeo dicendum quod de aliquo actu virtutis dupliciter loqui possumus. Uno modo, secundum speciem ipsius actus, prout comparatur ad virtutem proxime elicientem ipsum. Et sic non potest esse quod martyrium, quod consistit in debita tolerantia mortis, sit perfectissimus inter virtutis actus. Quia tolerare mortem non est laudabile secundum se, sed solum secundum quod ordinatur ad aliquod bonum quod consistit in actu virtutis, puta ad fidem et dilectionem Dei. Unde ille actus virtutis, cum sit finis, melior est. Alio modo potest considerari actus virtutis secundum quod comparatur ad primum motivum, quod est amor caritatis. Et ex hac parte praecipue aliquis actus habet quod ad perfectionem vitae pertineat, quia, ut apostolus dicit, [[Col 3]], *caritas est vinculum perfectionis*. Martyrium autem, inter omnes actus virtuosos, maxime demonstrat perfectionem caritatis. Quia tanto magis ostenditur aliquis aliquam rem amare, quanto pro ea rem magis amatam contemnit, et rem magis odiosam eligit pati. Manifestum est autem quod inter omnia alia bona praesentis vitae, maxime amat homo ipsam vitam, et e contrario maxime odit ipsam mortem, et praecipue cum doloribus corporalium tormentorum, quorum metu etiam bruta animalia a maximis voluptatibus absterrentur, ut Augustinus dicit, in libro octoginta trium quaest. Et secundum hoc patet quod martyrium inter ceteros actus humanos est perfectior secundum suum genus, quasi maximae caritatis signum, secundum illud [[Jn 15]], *maiorem caritatem nemo habet quam ut animam suam ponat quis pro amicis suis*.]]
+![[LEO IIa-IIæ, q. 124, a. 3#resp.|Respondeo dicendum quod de aliquo actu virtutis dupliciter loqui possumus. Uno modo, secundum speciem ipsius actus, prout comparatur ad virtutem proxime elicientem ipsum. Et sic non potest esse quod martyrium, quod consistit in debita tolerantia mortis, sit perfectissimus inter virtutis actus. Quia tolerare mortem non est laudabile secundum se, sed solum secundum quod ordinatur ad aliquod bonum quod consistit in actu virtutis, puta ad fidem et dilectionem Dei. Unde ille actus virtutis, cum sit finis, melior est. Alio modo potest considerari actus virtutis secundum quod comparatur ad primum motivum, quod est amor caritatis. Et ex hac parte praecipue aliquis actus habet quod ad perfectionem vitae pertineat, quia, ut apostolus dicit, Coloss. III, *caritas est vinculum perfectionis*. Martyrium autem, inter omnes actus virtuosos, maxime demonstrat perfectionem caritatis. Quia tanto magis ostenditur aliquis aliquam rem amare, quanto pro ea rem magis amatam contemnit, et rem magis odiosam eligit pati. Manifestum est autem quod inter omnia alia bona praesentis vitae, maxime amat homo ipsam vitam, et e contrario maxime odit ipsam mortem, et praecipue cum doloribus corporalium tormentorum, quorum metu etiam bruta animalia a maximis voluptatibus absterrentur, ut Augustinus dicit, in libro octoginta trium quaest. Et secundum hoc patet quod martyrium inter ceteros actus humanos est perfectior secundum suum genus, quasi maximae caritatis signum, secundum illud Ioan. XV, *maiorem caritatem nemo habet quam ut animam suam ponat quis pro amicis suis*.]]
 ![[CERF IIa-IIæ, q. 124, a. 3#resp.]]
 
 ###### ad 1
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 124, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 124, a. 3#ad 2|Ad secundum dicendum quod martyrium complectitur id quod summum in obedientia esse potest, ut scilicet aliquis sit obediens usque ad mortem, sicut de Christo legitur, [[Ph 2]], quod *factus est obediens usque ad mortem*. Unde patet quod martyrium secundum se est perfectius quam obedientia absolute dicta.]]
+![[LEO IIa-IIæ, q. 124, a. 3#ad 2|Ad secundum dicendum quod martyrium complectitur id quod summum in obedientia esse potest, ut scilicet aliquis sit obediens usque ad mortem, sicut de Christo legitur, Philipp. II, quod *factus est obediens usque ad mortem*. Unde patet quod martyrium secundum se est perfectius quam obedientia absolute dicta.]]
 ![[CERF IIa-IIæ, q. 124, a. 3#ad 2]]
 
 ###### ad 3

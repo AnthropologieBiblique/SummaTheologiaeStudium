@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 25, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 25, a. 1#s.c.|Sed contra est quod dicitur in [[Ps 88]], *potens es, domine, et veritas tua in circuitu tuo*.]]
+![[LEO Ia, q. 25, a. 1#s.c.|Sed contra est quod dicitur in Psalmo LXXXVIII, *potens es, domine, et veritas tua in circuitu tuo*.]]
 ![[CERF Ia, q. 25, a. 1#s.c.]]
 
 ###### resp.

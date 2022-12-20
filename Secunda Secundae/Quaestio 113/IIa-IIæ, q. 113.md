@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 113#Prooemium|Deinde considerandum est de ironia. Circa quam quaeruntur duo. Primo, utrum ironia sit peccatum. Secundo, de comparatione eius ad iactantiam.]]
-![[CERF IIa-IIæ, q. 113#Prooemium]]
+Deinde considerandum est de ironia. Circa quam quaeruntur duo. Primo, utrum ironia sit peccatum. Secundo, de comparatione eius ad iactantiam.
 
 ![[IIa-IIæ, q. 113, a. 1#Articulus 1]]
 

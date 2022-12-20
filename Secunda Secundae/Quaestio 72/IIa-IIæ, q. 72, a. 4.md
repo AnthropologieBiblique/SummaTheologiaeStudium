@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 72, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod contumelia non oriatur ex ira. Quia dicitur [[Pr 11]], *ubi superbia, ibi contumelia*. Sed ira est vitium distinctum a superbia. Ergo contumelia non oritur ex ira.]]
+![[LEO IIa-IIæ, q. 72, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod contumelia non oriatur ex ira. Quia dicitur Prov. XI, *ubi superbia, ibi contumelia*. Sed ira est vitium distinctum a superbia. Ergo contumelia non oritur ex ira.]]
 ![[CERF IIa-IIæ, q. 72, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 72, a. 4#arg. 2|Praeterea, [[Pr 20]] dicitur, *omnes stulti miscentur contumeliis*. Sed stultitia est vitium oppositum sapientiae, ut supra habitum est, ira autem opponitur mansuetudini. Ergo contumelia non oritur ex ira.]]
+![[LEO IIa-IIæ, q. 72, a. 4#arg. 2|Praeterea, Prov. XX dicitur, *omnes stulti miscentur contumeliis*. Sed stultitia est vitium oppositum sapientiae, ut supra habitum est, ira autem opponitur mansuetudini. Ergo contumelia non oritur ex ira.]]
 ![[CERF IIa-IIæ, q. 72, a. 4#arg. 2]]
 
 ###### arg. 3

@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 52, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christus nullam moram contraxit in Inferno. Christus enim ad hoc in Infernum descendit ut ex eo homines liberaret. Sed hoc statim ab eo factum est in ipso suo descensu, *facile enim est in conspectu Dei subito honestare pauperem*, ut dicitur [[Si 11]]. Ergo videtur quod nullam moram in Inferno contraxit.]]
+![[LEO IIIa, q. 52, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christus nullam moram contraxit in Inferno. Christus enim ad hoc in Infernum descendit ut ex eo homines liberaret. Sed hoc statim ab eo factum est in ipso suo descensu, *facile enim est in conspectu Dei subito honestare pauperem*, ut dicitur Eccli. XI. Ergo videtur quod nullam moram in Inferno contraxit.]]
 ![[CERF IIIa, q. 52, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 52, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 52, a. 4#arg. 3|Praeterea, [[Lc 23]] dicitur quod dominus, in cruce pendens, dixit latroni, *hodie mecum eris in Paradiso*, ex quo patet quod eadem die Christus fuit in Paradiso. Non autem secundum corpus, quod positum fuit in sepulcro. Ergo secundum animam, quae ad Infernum descenderat. Et ita videtur quod non contraxit moram in Inferno.]]
+![[LEO IIIa, q. 52, a. 4#arg. 3|Praeterea, Luc. XXIII dicitur quod dominus, in cruce pendens, dixit latroni, *hodie mecum eris in Paradiso*, ex quo patet quod eadem die Christus fuit in Paradiso. Non autem secundum corpus, quod positum fuit in sepulcro. Ergo secundum animam, quae ad Infernum descenderat. Et ita videtur quod non contraxit moram in Inferno.]]
 ![[CERF IIIa, q. 52, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 52, a. 4#s.c.|Sed contra est quod Petrus dicit, [[Ac 2]], *quem Deus suscitavit, solutis doloribus Inferni, iuxta quod impossibile erat teneri illum ab eo*. Ergo videtur quod usque ad horam resurrectionis mansit in Inferno.]]
+![[LEO IIIa, q. 52, a. 4#s.c.|Sed contra est quod Petrus dicit, Act. II, *quem Deus suscitavit, solutis doloribus Inferni, iuxta quod impossibile erat teneri illum ab eo*. Ergo videtur quod usque ad horam resurrectionis mansit in Inferno.]]
 ![[CERF IIIa, q. 52, a. 4#s.c.]]
 
 ###### resp.

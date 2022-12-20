@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 172, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod prophetica revelatio non fiat per Angelos. Dicitur enim [[Sg 7]], quod *sapientia Dei in animas sanctas se transfert, et amicos Dei et prophetas constituit*. Sed amicos Dei constituit immediate. Ergo etiam prophetas facit immediate, non mediantibus Angelis.]]
+![[LEO IIa-IIæ, q. 172, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod prophetica revelatio non fiat per Angelos. Dicitur enim Sap. VII, quod *sapientia Dei in animas sanctas se transfert, et amicos Dei et prophetas constituit*. Sed amicos Dei constituit immediate. Ergo etiam prophetas facit immediate, non mediantibus Angelis.]]
 ![[CERF IIa-IIæ, q. 172, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 172, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 172, a. 2#resp.|Respondeo dicendum quod, sicut apostolus dicit, [[Rm 13]], quae a Deo sunt, ordinata sunt. Habet autem hoc divinitatis ordo, sicut Dionysius dicit, ut infima per media disponat. Angeli autem medii sunt inter Deum et homines, utpote plus participantes de perfectione divinae bonitatis quam homines. Et ideo illuminationes et revelationes divinae a Deo ad homines per Angelos deferuntur. Prophetica autem cognitio fit secundum illuminationem et revelationem divinam. Unde manifestum est quod fiat per Angelos.]]
+![[LEO IIa-IIæ, q. 172, a. 2#resp.|Respondeo dicendum quod, sicut apostolus dicit, Rom. XIII, quae a Deo sunt, ordinata sunt. Habet autem hoc divinitatis ordo, sicut Dionysius dicit, ut infima per media disponat. Angeli autem medii sunt inter Deum et homines, utpote plus participantes de perfectione divinae bonitatis quam homines. Et ideo illuminationes et revelationes divinae a Deo ad homines per Angelos deferuntur. Prophetica autem cognitio fit secundum illuminationem et revelationem divinam. Unde manifestum est quod fiat per Angelos.]]
 ![[CERF IIa-IIæ, q. 172, a. 2#resp.]]
 
 ###### ad 1

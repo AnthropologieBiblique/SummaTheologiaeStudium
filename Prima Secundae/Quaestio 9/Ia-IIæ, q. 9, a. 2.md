@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 9, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 9, a. 2#s.c.|Sed contra est quod dicitur [[Jc 1]], *unusquisque tentatur a concupiscentia sua abstractus et illectus*. Non autem abstraheretur quis a concupiscentia, nisi voluntas eius moveretur ab appetitu sensitivo, in quo est concupiscentia. Ergo appetitus sensitivus movet voluntatem.]]
+![[LEO Ia-IIæ, q. 9, a. 2#s.c.|Sed contra est quod dicitur Iac. I, *unusquisque tentatur a concupiscentia sua abstractus et illectus*. Non autem abstraheretur quis a concupiscentia, nisi voluntas eius moveretur ab appetitu sensitivo, in quo est concupiscentia. Ergo appetitus sensitivus movet voluntatem.]]
 ![[CERF Ia-IIæ, q. 9, a. 2#s.c.]]
 
 ###### resp.

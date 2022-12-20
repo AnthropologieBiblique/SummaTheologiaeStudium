@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 87, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod ad remissionem venialium peccatorum requiratur gratiae infusio. Effectus enim non est sine propria causa. Sed propria causa remissionis peccatorum est gratia, non enim ex meritis propriis hominis peccata propria remittuntur; unde dicitur [[Ep 2]], *Deus, qui dives est in misericordia, propter nimiam caritatem qua dilexit nos, cum essemus mortui peccatis, convivificavit nos in Christo, cuius gratia salvati estis*. Ergo peccata venialia non remittuntur sine gratiae infusione.]]
+![[LEO IIIa, q. 87, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod ad remissionem venialium peccatorum requiratur gratiae infusio. Effectus enim non est sine propria causa. Sed propria causa remissionis peccatorum est gratia, non enim ex meritis propriis hominis peccata propria remittuntur; unde dicitur Ephes. II, *Deus, qui dives est in misericordia, propter nimiam caritatem qua dilexit nos, cum essemus mortui peccatis, convivificavit nos in Christo, cuius gratia salvati estis*. Ergo peccata venialia non remittuntur sine gratiae infusione.]]
 ![[CERF IIIa, q. 87, a. 2#arg. 1]]
 
 ###### arg. 2

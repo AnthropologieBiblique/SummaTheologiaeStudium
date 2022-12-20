@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia-IIæ, q. 63, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 63, a. 3#arg. 3|Praeterea, natura non facit per duo, quod potest facere per unum, et multo minus Deus. Sed Deus inseruit animae nostrae semina virtutum, ut dicit Glossa [[He 1]]. Ergo non oportet quod alias virtutes in nobis per infusionem causet.]]
+![[LEO Ia-IIæ, q. 63, a. 3#arg. 3|Praeterea, natura non facit per duo, quod potest facere per unum, et multo minus Deus. Sed Deus inseruit animae nostrae semina virtutum, ut dicit Glossa Heb. I. Ergo non oportet quod alias virtutes in nobis per infusionem causet.]]
 ![[CERF Ia-IIæ, q. 63, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 63, a. 3#s.c.|Sed contra est quod dicitur [[Sg 8]], *sobrietatem et iustitiam docet, prudentiam et virtutem*.]]
+![[LEO Ia-IIæ, q. 63, a. 3#s.c.|Sed contra est quod dicitur Sap. VIII, *sobrietatem et iustitiam docet, prudentiam et virtutem*.]]
 ![[CERF Ia-IIæ, q. 63, a. 3#s.c.]]
 
 ###### resp.

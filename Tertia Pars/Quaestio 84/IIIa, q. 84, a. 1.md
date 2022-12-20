@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 84, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 84, a. 1#arg. 2|Praeterea, sacramenta Ecclesiae a ministris Christi exhibentur, secundum illud [[1 Co 4]], *sic nos existimet homo ut ministros Christi et dispensatores mysteriorum Dei*. Sed poenitentia non exhibetur a ministris Christi, sed interius a Deo hominibus inspiratur, secundum illud [[Jr 31]], *postquam convertisti me, egi poenitentiam*. Ergo videtur quod poenitentia non sit sacramentum.]]
+![[LEO IIIa, q. 84, a. 1#arg. 2|Praeterea, sacramenta Ecclesiae a ministris Christi exhibentur, secundum illud I Cor. IV, *sic nos existimet homo ut ministros Christi et dispensatores mysteriorum Dei*. Sed poenitentia non exhibetur a ministris Christi, sed interius a Deo hominibus inspiratur, secundum illud Ierem. XXXI, *postquam convertisti me, egi poenitentiam*. Ergo videtur quod poenitentia non sit sacramentum.]]
 ![[CERF IIIa, q. 84, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 84, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 84, a. 1#s.c.|Sed contra est quod, sicut Baptismus adhibetur ad purificandum a peccato, ita et poenitentia, unde et Petrus dixit Simoni, [[Ac 8]], *poenitentiam age ab hac nequitia tua*. Sed Baptismus est sacramentum, ut supra dictum est. Ergo pari ratione et poenitentia.]]
+![[LEO IIIa, q. 84, a. 1#s.c.|Sed contra est quod, sicut Baptismus adhibetur ad purificandum a peccato, ita et poenitentia, unde et Petrus dixit Simoni, Act. VIII, *poenitentiam age ab hac nequitia tua*. Sed Baptismus est sacramentum, ut supra dictum est. Ergo pari ratione et poenitentia.]]
 ![[CERF IIIa, q. 84, a. 1#s.c.]]
 
 ###### resp.

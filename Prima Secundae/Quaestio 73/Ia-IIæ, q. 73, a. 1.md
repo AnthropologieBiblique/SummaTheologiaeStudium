@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 73, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod omnia peccata sint connexa. Dicitur enim [[Jc 2]], *quicumque totam legem servaverit, offendat autem in uno, factus est omnium reus*. Sed idem est esse reum omnium mandatorum legis, quod habere omnia peccata, quia, sicut Ambrosius dicit, *peccatum est transgressio legis divinae, et caelestium inobedientia mandatorum*. Ergo quicumque peccat uno peccato, subiicitur omnibus peccatis.]]
+![[LEO Ia-IIæ, q. 73, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod omnia peccata sint connexa. Dicitur enim Iac. II, *quicumque totam legem servaverit, offendat autem in uno, factus est omnium reus*. Sed idem est esse reum omnium mandatorum legis, quod habere omnia peccata, quia, sicut Ambrosius dicit, *peccatum est transgressio legis divinae, et caelestium inobedientia mandatorum*. Ergo quicumque peccat uno peccato, subiicitur omnibus peccatis.]]
 ![[CERF Ia-IIæ, q. 73, a. 1#arg. 1]]
 
 ###### arg. 2

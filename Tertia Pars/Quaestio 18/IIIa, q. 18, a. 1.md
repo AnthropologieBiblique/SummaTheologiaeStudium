@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 18, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 18, a. 1#s.c.|Sed contra est quod dominus dicit, [[Lc 22]], *pater, si vis, transfer calicem istum a me. Veruntamen non mea voluntas, sed tua fiat*. Quod inducens Ambrosius, in libro ad Gratianum imperatorem, dicit, *sicut susceperat voluntatem meam, suscepit tristitiam meam*. Et, super Lucam, dicit, *voluntatem suam ad hominem retulit, patris, ad divinitatem. Voluntas enim hominis est temporalis, voluntas divinitatis aeterna*.]]
+![[LEO IIIa, q. 18, a. 1#s.c.|Sed contra est quod dominus dicit, Luc. XXII, *pater, si vis, transfer calicem istum a me. Veruntamen non mea voluntas, sed tua fiat*. Quod inducens Ambrosius, in libro ad Gratianum imperatorem, dicit, *sicut susceperat voluntatem meam, suscepit tristitiam meam*. Et, super Lucam, dicit, *voluntatem suam ad hominem retulit, patris, ad divinitatem. Voluntas enim hominis est temporalis, voluntas divinitatis aeterna*.]]
 ![[CERF IIIa, q. 18, a. 1#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 18, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 18, a. 1#ad 1|Ad primum ergo dicendum quod quidquid fuit in humana natura Christi, movebatur nutu divinae voluntatis, non tamen sequitur quod in Christo non fuerit motus voluntatis proprius naturae humanae. Quia etiam aliorum sanctorum piae voluntates moventur secundum voluntatem Dei, *quae operatur in eis et velle et perficere*, ut dicitur [[Ph 2]]. Licet enim voluntas non possit interius moveri ab aliqua creatura, interius tamen movetur a Deo, ut in prima parte dictum est. Et sic etiam Christus secundum voluntatem humanam sequebatur voluntatem divinam, secundum illud Psalmi, *ut facerem voluntatem tuam, Deus meus, volui*. Unde Augustinus dicit, contra Maximinum, *ubi dixit filius patri, non quod ego volo, sed quod tu vis, quid te adiuvat quod tua verba subiungis, et dicis, ostendit vere suam voluntatem subiectam suo genitori, quasi nos negemus hominis voluntatem voluntati Dei debere esse subiectam?*]]
+![[LEO IIIa, q. 18, a. 1#ad 1|Ad primum ergo dicendum quod quidquid fuit in humana natura Christi, movebatur nutu divinae voluntatis, non tamen sequitur quod in Christo non fuerit motus voluntatis proprius naturae humanae. Quia etiam aliorum sanctorum piae voluntates moventur secundum voluntatem Dei, *quae operatur in eis et velle et perficere*, ut dicitur Philipp. II. Licet enim voluntas non possit interius moveri ab aliqua creatura, interius tamen movetur a Deo, ut in prima parte dictum est. Et sic etiam Christus secundum voluntatem humanam sequebatur voluntatem divinam, secundum illud Psalmi, *ut facerem voluntatem tuam, Deus meus, volui*. Unde Augustinus dicit, contra Maximinum, *ubi dixit filius patri, non quod ego volo, sed quod tu vis, quid te adiuvat quod tua verba subiungis, et dicis, ostendit vere suam voluntatem subiectam suo genitori, quasi nos negemus hominis voluntatem voluntati Dei debere esse subiectam?*]]
 ![[CERF IIIa, q. 18, a. 1#ad 1]]
 
 ###### ad 2

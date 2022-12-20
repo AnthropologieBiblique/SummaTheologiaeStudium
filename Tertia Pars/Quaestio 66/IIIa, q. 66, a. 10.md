@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 66, a. 10#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 66, a. 10#ad 1|Ad primum ergo dicendum quod Christus in Epiphania baptizatus est Baptismo Ioannis, ut supra dictum est, quo quidem Baptismo non baptizantur fideles, sed potius Baptismo Christi. Qui quidem habet efficaciam ex passione Christi, secundum illud [[Rm 6]], *quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus; et ex spiritu sancto*, secundum illud [[Jn 3]], *nisi quis renatus fuerit ex aqua et spiritu sancto*. Et ideo solemnis Baptismus agitur in Ecclesia et in vigilia Paschae, quando fit commemoratio dominicae sepulturae, et resurrectionis eiusdem; propter quod et dominus post resurrectionem praeceptum de Baptismo discipulis dedit, ut habetur Matth. ult., et in vigilia Pentecostes, quando incipit celebrari solemnitas spiritus sancti; unde et apostoli leguntur ipso die Pentecostes, quo spiritum sanctum receperant, tria millia baptizasse.]]
+![[LEO IIIa, q. 66, a. 10#ad 1|Ad primum ergo dicendum quod Christus in Epiphania baptizatus est Baptismo Ioannis, ut supra dictum est, quo quidem Baptismo non baptizantur fideles, sed potius Baptismo Christi. Qui quidem habet efficaciam ex passione Christi, secundum illud Rom. VI, *quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus; et ex spiritu sancto*, secundum illud Ioan. III, *nisi quis renatus fuerit ex aqua et spiritu sancto*. Et ideo solemnis Baptismus agitur in Ecclesia et in vigilia Paschae, quando fit commemoratio dominicae sepulturae, et resurrectionis eiusdem; propter quod et dominus post resurrectionem praeceptum de Baptismo discipulis dedit, ut habetur Matth. ult., et in vigilia Pentecostes, quando incipit celebrari solemnitas spiritus sancti; unde et apostoli leguntur ipso die Pentecostes, quo spiritum sanctum receperant, tria millia baptizasse.]]
 ![[CERF IIIa, q. 66, a. 10#ad 1]]
 
 ###### ad 2
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIIa, q. 66, a. 10#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 66, a. 10#ad 3|Ad tertium dicendum quod vestis illa candida traditur baptizato, non quidem ea ratione quod non liceat ei aliis vestibus uti, sed in signum gloriosae resurrectionis, ad quam homines per Baptismum regenerantur; et ad designandam puritatem vitae, quam debent post Baptismum observare, secundum illud [[Rm 6]], *in novitate vitae ambulemus*.]]
+![[LEO IIIa, q. 66, a. 10#ad 3|Ad tertium dicendum quod vestis illa candida traditur baptizato, non quidem ea ratione quod non liceat ei aliis vestibus uti, sed in signum gloriosae resurrectionis, ad quam homines per Baptismum regenerantur; et ad designandam puritatem vitae, quam debent post Baptismum observare, secundum illud Rom. VI, *in novitate vitae ambulemus*.]]
 ![[CERF IIIa, q. 66, a. 10#ad 3]]
 
 ###### ad 4

@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 90, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod lex non sit aliquid rationis. Dicit enim apostolus, ad [[Rm 7]], *video aliam legem in membris meis,* et cetera. Sed nihil quod est rationis, est in membris, quia ratio non utitur organo corporali. Ergo lex non est aliquid rationis.]]
+![[LEO Ia-IIæ, q. 90, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod lex non sit aliquid rationis. Dicit enim apostolus, ad Rom. VII, *video aliam legem in membris meis,* et cetera. Sed nihil quod est rationis, est in membris, quia ratio non utitur organo corporali. Ergo lex non est aliquid rationis.]]
 ![[CERF Ia-IIæ, q. 90, a. 1#arg. 1]]
 
 ###### arg. 2

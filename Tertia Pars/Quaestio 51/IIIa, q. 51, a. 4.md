@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 51, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christus non fuerit in sepulcro solum una die et duabus noctibus. Dicit enim ipse, [[Mt 12]], *sicut fuit Ionas in ventre ceti tribus diebus et tribus noctibus, ita filius hominis erit in corde terrae tribus diebus et tribus noctibus*. Sed in corde terrae fuit in sepulcro existens. Non ergo fuit in sepulcro solum una die et duabus noctibus.]]
+![[LEO IIIa, q. 51, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christus non fuerit in sepulcro solum una die et duabus noctibus. Dicit enim ipse, Matth. XII, *sicut fuit Ionas in ventre ceti tribus diebus et tribus noctibus, ita filius hominis erit in corde terrae tribus diebus et tribus noctibus*. Sed in corde terrae fuit in sepulcro existens. Non ergo fuit in sepulcro solum una die et duabus noctibus.]]
 ![[CERF IIIa, q. 51, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 51, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 51, a. 4#ad 2|Ad secundum dicendum quod, sicut Augustinus dicit, in IV de Trin., Christus in diluculo resurrexit, in quo aliquid lucis apparet, et adhuc tamen aliquid remanet tenebrarum noctis, unde de mulieribus dicitur, [[Jn 20]], quod *cum tenebrae adhuc essent, venerunt ad monumentum*. Ratione ergo harum tenebrarum, Gregorius dicit Christum media nocte surrexisse, non quidem divisa nocte in duas partes aequales, sed infra illam noctem. Illud enim diluculum et pars noctis et pars diei dici potest, propter communicantiam quam habet cum utroque.]]
+![[LEO IIIa, q. 51, a. 4#ad 2|Ad secundum dicendum quod, sicut Augustinus dicit, in IV de Trin., Christus in diluculo resurrexit, in quo aliquid lucis apparet, et adhuc tamen aliquid remanet tenebrarum noctis, unde de mulieribus dicitur, Ioan. XX, quod *cum tenebrae adhuc essent, venerunt ad monumentum*. Ratione ergo harum tenebrarum, Gregorius dicit Christum media nocte surrexisse, non quidem divisa nocte in duas partes aequales, sed infra illam noctem. Illud enim diluculum et pars noctis et pars diei dici potest, propter communicantiam quam habet cum utroque.]]
 ![[CERF IIIa, q. 51, a. 4#ad 2]]
 
 ###### ad 3

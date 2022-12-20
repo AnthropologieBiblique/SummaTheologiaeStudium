@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 76, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 76, a. 6#arg. 2|Praeterea, veritas debet respondere figurae. Sed de agno paschali, qui erat figura huius sacramenti, *non remanebat quidquam usque mane*, sicut praecipitur [[Ex 12]]. Ergo neque etiam, si hoc sacramentum reservetur in crastinum, erit ibi corpus Christi. Et ita non est immobiliter in hoc sacramento.]]
+![[LEO IIIa, q. 76, a. 6#arg. 2|Praeterea, veritas debet respondere figurae. Sed de agno paschali, qui erat figura huius sacramenti, *non remanebat quidquam usque mane*, sicut praecipitur Exod. XII. Ergo neque etiam, si hoc sacramentum reservetur in crastinum, erit ibi corpus Christi. Et ita non est immobiliter in hoc sacramento.]]
 ![[CERF IIIa, q. 76, a. 6#arg. 2]]
 
 ###### arg. 3

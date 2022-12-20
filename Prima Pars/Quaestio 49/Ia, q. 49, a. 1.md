@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 49, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod bonum non possit esse causa mali. Dicitur enim [[Mt 7]], *non potest arbor bona malos fructus facere*.]]
+![[LEO Ia, q. 49, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod bonum non possit esse causa mali. Dicitur enim Matth. VII, *non potest arbor bona malos fructus facere*.]]
 ![[CERF Ia, q. 49, a. 1#arg. 1]]
 
 ###### arg. 2

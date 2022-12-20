@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 81, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod peccatum primi parentis non transeat per originem in omnes homines. Mors enim est poena consequens originale peccatum. Sed non omnes qui procedunt seminaliter ex Adam, morientur, illi enim qui vivi reperientur in adventu domini, nunquam morientur, ut videtur per quod dicitur I [[1 Th 4]], *nos qui vivimus, non praeveniemus in adventu domini eos qui dormierunt*. Ergo illi non contrahunt originale peccatum.]]
+![[LEO Ia-IIæ, q. 81, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod peccatum primi parentis non transeat per originem in omnes homines. Mors enim est poena consequens originale peccatum. Sed non omnes qui procedunt seminaliter ex Adam, morientur, illi enim qui vivi reperientur in adventu domini, nunquam morientur, ut videtur per quod dicitur I Thessal. IV, *nos qui vivimus, non praeveniemus in adventu domini eos qui dormierunt*. Ergo illi non contrahunt originale peccatum.]]
 ![[CERF Ia-IIæ, q. 81, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia-IIæ, q. 81, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 81, a. 3#arg. 3|Praeterea, donum Christi est maius quam peccatum Adae, ut apostolus dicit, [[Rm 5]]. Sed donum Christi non transit in omnes homines. Ergo nec peccatum Adae.]]
+![[LEO Ia-IIæ, q. 81, a. 3#arg. 3|Praeterea, donum Christi est maius quam peccatum Adae, ut apostolus dicit, Rom. V. Sed donum Christi non transit in omnes homines. Ergo nec peccatum Adae.]]
 ![[CERF Ia-IIæ, q. 81, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 81, a. 3#s.c.|Sed contra est quod apostolus dicit, [[Rm 5]], *mors in omnes pertransiit, in quo omnes peccaverunt*.]]
+![[LEO Ia-IIæ, q. 81, a. 3#s.c.|Sed contra est quod apostolus dicit, Rom. V, *mors in omnes pertransiit, in quo omnes peccaverunt*.]]
 ![[CERF Ia-IIæ, q. 81, a. 3#s.c.]]
 
 ###### resp.

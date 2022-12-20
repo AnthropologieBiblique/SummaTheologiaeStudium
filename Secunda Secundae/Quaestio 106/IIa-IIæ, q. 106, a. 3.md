@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 106, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod homo non teneatur ad gratiarum actiones omni homini benefacienti. Potest enim aliquis sibi ipsi benefacere, sicut et sibi ipsi nocere, secundum illud [[Si 14]], *qui sibi nequam est, cui alii bonus erit?* Sed homo sibi ipsi non potest gratias agere, quia gratiarum actio videtur transire ab uno in alterum. Ergo non omni benefactori debetur gratiarum actio.]]
+![[LEO IIa-IIæ, q. 106, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod homo non teneatur ad gratiarum actiones omni homini benefacienti. Potest enim aliquis sibi ipsi benefacere, sicut et sibi ipsi nocere, secundum illud Eccli. XIV, *qui sibi nequam est, cui alii bonus erit?* Sed homo sibi ipsi non potest gratias agere, quia gratiarum actio videtur transire ab uno in alterum. Ergo non omni benefactori debetur gratiarum actio.]]
 ![[CERF IIa-IIæ, q. 106, a. 3#arg. 1]]
 
 ###### arg. 2

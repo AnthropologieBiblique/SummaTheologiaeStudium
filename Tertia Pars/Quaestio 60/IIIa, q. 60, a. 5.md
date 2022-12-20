@@ -14,15 +14,15 @@ tags :
 ![[CERF IIIa, q. 60, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 60, a. 5#arg. 3|Praeterea, non est conveniens ut hominum salus arctetur per legem divinam, et praecipue per legem Christi, qui venit omnes salvare. Sed in statu legis naturae non requirebantur in sacramentis aliquae res determinatae, sed ex voto assumebantur, ut patet [[Gn 28]], ubi se Iacob vovit Deo decimas et hostias pacificas oblaturum. Ergo videtur quod non debuit arctari homo, et praecipue in nova lege, ad alicuius rei determinatae usum in sacramentis.]]
+![[LEO IIIa, q. 60, a. 5#arg. 3|Praeterea, non est conveniens ut hominum salus arctetur per legem divinam, et praecipue per legem Christi, qui venit omnes salvare. Sed in statu legis naturae non requirebantur in sacramentis aliquae res determinatae, sed ex voto assumebantur, ut patet Gen. XXVIII, ubi se Iacob vovit Deo decimas et hostias pacificas oblaturum. Ergo videtur quod non debuit arctari homo, et praecipue in nova lege, ad alicuius rei determinatae usum in sacramentis.]]
 ![[CERF IIIa, q. 60, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 60, a. 5#s.c.|Sed contra est quod dominus dicit, [[Jn 3]], *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*.]]
+![[LEO IIIa, q. 60, a. 5#s.c.|Sed contra est quod dominus dicit, Ioan. III, *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*.]]
 ![[CERF IIIa, q. 60, a. 5#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 60, a. 5#resp.|Respondeo dicendum quod in usu sacramentorum duo possunt considerari, scilicet cultus divinus, et sanctificatio hominis, quorum primum pertinet ad hominem per comparationem ad Deum, secundum autem e converso pertinet ad Deum per comparationem ad hominem. Non autem pertinet ad aliquem determinare quod est in potestate alterius, sed solum illud quod est in sua potestate. Quia igitur sanctificatio hominis est in potestate Dei sanctificantis, non pertinet ad hominem suo iudicio assumere res quibus sanctificetur, sed hoc debet esse ex divina institutione determinatum. Et ideo in sacramentis novae legis, quibus homines sanctificantur, secundum illud [[1 Co 6]], *abluti estis, sanctificati estis*, oportet uti rebus ex divina institutione determinatis.]]
+![[LEO IIIa, q. 60, a. 5#resp.|Respondeo dicendum quod in usu sacramentorum duo possunt considerari, scilicet cultus divinus, et sanctificatio hominis, quorum primum pertinet ad hominem per comparationem ad Deum, secundum autem e converso pertinet ad Deum per comparationem ad hominem. Non autem pertinet ad aliquem determinare quod est in potestate alterius, sed solum illud quod est in sua potestate. Quia igitur sanctificatio hominis est in potestate Dei sanctificantis, non pertinet ad hominem suo iudicio assumere res quibus sanctificetur, sed hoc debet esse ex divina institutione determinatum. Et ideo in sacramentis novae legis, quibus homines sanctificantur, secundum illud I Cor. VI, *abluti estis, sanctificati estis*, oportet uti rebus ex divina institutione determinatis.]]
 ![[CERF IIIa, q. 60, a. 5#resp.]]
 
 ###### ad 1

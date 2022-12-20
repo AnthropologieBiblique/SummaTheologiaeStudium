@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 31, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 31, a. 2#arg. 2|Praeterea, [[Si 12]] dicitur, *da iusto, et non recipias peccatorem*. Sed multi homines sunt peccatores. Non ergo omnibus est benefaciendum.]]
+![[LEO IIa-IIæ, q. 31, a. 2#arg. 2|Praeterea, Eccli. XII dicitur, *da iusto, et non recipias peccatorem*. Sed multi homines sunt peccatores. Non ergo omnibus est benefaciendum.]]
 ![[CERF IIa-IIæ, q. 31, a. 2#arg. 2]]
 
 ###### arg. 3

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 38#Prooemium|Deinde considerandum est de remediis doloris seu tristitiae. Et circa hoc quaeruntur quinque. Primo, utrum dolor vel tristitia mitigetur per quamlibet delectationem. Secundo, utrum mitigetur per fletum. Tertio, utrum per compassionem amicorum. Quarto, utrum per contemplationem veritatis. Quinto, utrum per somnum et balnea.]]
-![[CERF Ia-IIæ, q. 38#Prooemium]]
+Deinde considerandum est de remediis doloris seu tristitiae. Et circa hoc quaeruntur quinque. Primo, utrum dolor vel tristitia mitigetur per quamlibet delectationem. Secundo, utrum mitigetur per fletum. Tertio, utrum per compassionem amicorum. Quarto, utrum per contemplationem veritatis. Quinto, utrum per somnum et balnea.
 
 ![[Ia-IIæ, q. 38, a. 1#Articulus 1]]
 

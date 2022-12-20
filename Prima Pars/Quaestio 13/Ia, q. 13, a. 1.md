@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 13, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod nullum nomen Deo conveniat. Dicit enim Dionysius, I cap. de Div. Nom., quod neque nomen eius est, neque opinio. Et [[Pr 30]] dicitur, *quod nomen eius, et quod nomen filii eius, si nosti?*]]
+![[LEO Ia, q. 13, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod nullum nomen Deo conveniat. Dicit enim Dionysius, I cap. de Div. Nom., quod neque nomen eius est, neque opinio. Et Prov. XXX dicitur, *quod nomen eius, et quod nomen filii eius, si nosti?*]]
 ![[CERF Ia, q. 13, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 13, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 13, a. 1#s.c.|Sed contra est quod dicitur [[Ex 15]], *dominus quasi vir pugnator, omnipotens nomen eius*.]]
+![[LEO Ia, q. 13, a. 1#s.c.|Sed contra est quod dicitur Exod. XV, *dominus quasi vir pugnator, omnipotens nomen eius*.]]
 ![[CERF Ia, q. 13, a. 1#s.c.]]
 
 ###### resp.

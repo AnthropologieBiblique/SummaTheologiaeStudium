@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 19, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod timor initialis differat secundum substantiam a timore filiali. Timor enim filialis ex dilectione causatur. Sed timor initialis est principium dilectionis, secundum illud [[Si 25]], *timor domini initium est dilectionis*. Ergo timor initialis est alius a filiali.]]
+![[LEO IIa-IIæ, q. 19, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod timor initialis differat secundum substantiam a timore filiali. Timor enim filialis ex dilectione causatur. Sed timor initialis est principium dilectionis, secundum illud Eccli. XXV, *timor domini initium est dilectionis*. Ergo timor initialis est alius a filiali.]]
 ![[CERF IIa-IIæ, q. 19, a. 8#arg. 1]]
 
 ###### arg. 2
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 8#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 19, a. 8#ad 2|Ad secundum dicendum quod timor initialis non timet poenam sicut proprium obiectum, sed inquantum habet aliquid de timore servili adiunctum. Qui secundum substantiam manet quidem cum caritate, servilitate remota, sed actus eius manet quidem cum caritate imperfecta in eo qui non solum movetur ad bene agendum ex amore iustitiae, sed etiam ex timore poenae; sed iste actus cessat in eo qui habet caritatem perfectam, quae foras mittit timorem habentem poenam, ut dicitur [[1 Jn 4]].]]
+![[LEO IIa-IIæ, q. 19, a. 8#ad 2|Ad secundum dicendum quod timor initialis non timet poenam sicut proprium obiectum, sed inquantum habet aliquid de timore servili adiunctum. Qui secundum substantiam manet quidem cum caritate, servilitate remota, sed actus eius manet quidem cum caritate imperfecta in eo qui non solum movetur ad bene agendum ex amore iustitiae, sed etiam ex timore poenae; sed iste actus cessat in eo qui habet caritatem perfectam, quae foras mittit timorem habentem poenam, ut dicitur I Ioan. IV.]]
 ![[CERF IIa-IIæ, q. 19, a. 8#ad 2]]
 
 ###### ad 3

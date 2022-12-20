@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 3, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 3, a. 4#arg. 3|Praeterea, sicut humana natura in Christo assumpta est a Deo, ita etiam et homines per gratiam assumuntur ab ipso, secundum illud [[Rm 14]], *Deus illum assumpsit*. Sed haec assumptio communiter pertinet ad omnes personas. Ergo et prima.]]
+![[LEO IIIa, q. 3, a. 4#arg. 3|Praeterea, sicut humana natura in Christo assumpta est a Deo, ita etiam et homines per gratiam assumuntur ab ipso, secundum illud Rom. XIV, *Deus illum assumpsit*. Sed haec assumptio communiter pertinet ad omnes personas. Ergo et prima.]]
 ![[CERF IIIa, q. 3, a. 4#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 3, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 3, a. 4#ad 3|Ad tertium dicendum quod assumptio quae fit per gratiam adoptionis, terminatur ad quandam participationem divinae naturae secundum assimilationem ad bonitatem illius, secundum illud [[2 P 1]], *ut divinae consortes naturae*, et cetera. Et ideo huiusmodi assumptio communis est tribus personis et ex parte principii et ex parte termini. Sed assumptio quae est per gratiam unionis, est communis ex parte principii, non autem ex parte termini, ut dictum est.]]
+![[LEO IIIa, q. 3, a. 4#ad 3|Ad tertium dicendum quod assumptio quae fit per gratiam adoptionis, terminatur ad quandam participationem divinae naturae secundum assimilationem ad bonitatem illius, secundum illud II Pet. I, *ut divinae consortes naturae*, et cetera. Et ideo huiusmodi assumptio communis est tribus personis et ex parte principii et ex parte termini. Sed assumptio quae est per gratiam unionis, est communis ex parte principii, non autem ex parte termini, ut dictum est.]]
 ![[CERF IIIa, q. 3, a. 4#ad 3]]
 

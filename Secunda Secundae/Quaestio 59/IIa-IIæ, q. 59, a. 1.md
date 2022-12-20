@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 59, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod iniustitia non sit vitium speciale. Dicitur enim [[1 Jn 3]], *omne peccatum est iniquitas*. Sed iniquitas videtur idem esse quod iniustitia, quia iustitia est aequalitas quaedam, unde iniustitia idem videtur esse quod inaequalitas, sive iniquitas. Ergo iniustitia non est speciale peccatum.]]
+![[LEO IIa-IIæ, q. 59, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod iniustitia non sit vitium speciale. Dicitur enim I Ioan. III, *omne peccatum est iniquitas*. Sed iniquitas videtur idem esse quod iniustitia, quia iustitia est aequalitas quaedam, unde iniustitia idem videtur esse quod inaequalitas, sive iniquitas. Ergo iniustitia non est speciale peccatum.]]
 ![[CERF IIa-IIæ, q. 59, a. 1#arg. 1]]
 
 ###### arg. 2

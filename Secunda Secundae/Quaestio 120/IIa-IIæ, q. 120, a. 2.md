@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 120, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 120, a. 2#arg. 3|Praeterea, videtur quod epieikeia sit idem quod modestia. Nam [[Ph 4]], ubi dicitur, modestia vestra nota sit omnibus hominibus, in Graeco habetur epieikeia. Sed secundum Tullium, modestia est pars temperantiae. Ergo epieikeia non est pars iustitiae.]]
+![[LEO IIa-IIæ, q. 120, a. 2#arg. 3|Praeterea, videtur quod epieikeia sit idem quod modestia. Nam Philipp. IV, ubi dicitur, modestia vestra nota sit omnibus hominibus, in Graeco habetur epieikeia. Sed secundum Tullium, modestia est pars temperantiae. Ergo epieikeia non est pars iustitiae.]]
 ![[CERF IIa-IIæ, q. 120, a. 2#arg. 3]]
 
 ###### s.c.

@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 113, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 113, a. 2#arg. 2|Praeterea, remissio culpae consistit in reputatione divina; secundum illud [[Ps 31]], *beatus vir cui non imputavit dominus peccatum*. Sed infusio gratiae ponit etiam aliquid in nobis, ut supra habitum est. Ergo infusio gratiae non requiritur ad remissionem culpae.]]
+![[LEO Ia-IIæ, q. 113, a. 2#arg. 2|Praeterea, remissio culpae consistit in reputatione divina; secundum illud Psalmi XXXI, *beatus vir cui non imputavit dominus peccatum*. Sed infusio gratiae ponit etiam aliquid in nobis, ut supra habitum est. Ergo infusio gratiae non requiritur ad remissionem culpae.]]
 ![[CERF Ia-IIæ, q. 113, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 113, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 113, a. 2#s.c.|Sed contra est quod dicitur [[Rm 3]], *iustificati gratis per gratiam ipsius*.]]
+![[LEO Ia-IIæ, q. 113, a. 2#s.c.|Sed contra est quod dicitur Rom. III, *iustificati gratis per gratiam ipsius*.]]
 ![[CERF Ia-IIæ, q. 113, a. 2#s.c.]]
 
 ###### resp.

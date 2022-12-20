@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 87, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 87, a. 6#s.c.|Sed contra est quod dicitur [[2S 12]], quod *David dixit ad Nathan, peccavi domino. Dixitque Nathan ad David, dominus quoque transtulit peccatum tuum, non morieris. Veruntamen quia blasphemare fecisti inimicos nomen domini, filius qui natus est tibi, morte morietur*. Punitur ergo aliquis a Deo etiam postquam ei peccatum dimittitur. Et sic reatus poenae remanet, peccato remoto.]]
+![[LEO Ia-IIæ, q. 87, a. 6#s.c.|Sed contra est quod dicitur II Reg. XII, quod *David dixit ad Nathan, peccavi domino. Dixitque Nathan ad David, dominus quoque transtulit peccatum tuum, non morieris. Veruntamen quia blasphemare fecisti inimicos nomen domini, filius qui natus est tibi, morte morietur*. Punitur ergo aliquis a Deo etiam postquam ei peccatum dimittitur. Et sic reatus poenae remanet, peccato remoto.]]
 ![[CERF Ia-IIæ, q. 87, a. 6#s.c.]]
 
 ###### resp.

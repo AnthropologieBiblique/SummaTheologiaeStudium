@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 85#Prooemium|Deinde considerandum est de actibus quibus aliquae res exteriores Deo offeruntur. Circa quos occurrit duplex consideratio, primo quidem, de his quae Deo a fidelibus dantur; secundo, de votis, quibus ei aliqua promittuntur. Circa primum, considerandum est de sacrificiis, oblationibus, primitiis et decimis. Circa sacrificia quaeruntur quatuor. Primo, utrum offerre Deo sacrificium sit de lege naturae. Secundo, utrum soli Deo sit sacrificium offerendum. Tertio, utrum offerre sacrificium sit specialis actus virtutis. Quarto, utrum omnes teneantur ad sacrificium offerendum.]]
-![[CERF IIa-IIæ, q. 85#Prooemium]]
+Deinde considerandum est de actibus quibus aliquae res exteriores Deo offeruntur. Circa quos occurrit duplex consideratio, primo quidem, de his quae Deo a fidelibus dantur; secundo, de votis, quibus ei aliqua promittuntur. Circa primum, considerandum est de sacrificiis, oblationibus, primitiis et decimis. Circa sacrificia quaeruntur quatuor. Primo, utrum offerre Deo sacrificium sit de lege naturae. Secundo, utrum soli Deo sit sacrificium offerendum. Tertio, utrum offerre sacrificium sit specialis actus virtutis. Quarto, utrum omnes teneantur ad sacrificium offerendum.
 
 ![[IIa-IIæ, q. 85, a. 1#Articulus 1]]
 

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 47, a. 9#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 47, a. 9#arg. 2|Praeterea, sollicitudini videtur opponi certitudo veritatis, unde dicitur [[1S 9]] quod Samuel dixit ad Saul, *de asinis quas nudiustertius perdidisti ne sollicitus sis, quia inventae sunt*. Sed certitudo veritatis pertinet ad prudentiam, cum sit virtus intellectualis. Ergo sollicitudo opponitur prudentiae, magis quam ad eam pertineat.]]
+![[LEO IIa-IIæ, q. 47, a. 9#arg. 2|Praeterea, sollicitudini videtur opponi certitudo veritatis, unde dicitur I Reg. IX quod Samuel dixit ad Saul, *de asinis quas nudiustertius perdidisti ne sollicitus sis, quia inventae sunt*. Sed certitudo veritatis pertinet ad prudentiam, cum sit virtus intellectualis. Ergo sollicitudo opponitur prudentiae, magis quam ad eam pertineat.]]
 ![[CERF IIa-IIæ, q. 47, a. 9#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 47, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 47, a. 9#s.c.|Sed contra est quod dicitur [[1 P 4]], *estote prudentes, et vigilate in orationibus*. Sed vigilantia est idem sollicitudini. Ergo sollicitudo pertinet ad prudentiam.]]
+![[LEO IIa-IIæ, q. 47, a. 9#s.c.|Sed contra est quod dicitur I Pet. IV, *estote prudentes, et vigilate in orationibus*. Sed vigilantia est idem sollicitudini. Ergo sollicitudo pertinet ad prudentiam.]]
 ![[CERF IIa-IIæ, q. 47, a. 9#s.c.]]
 
 ###### resp.

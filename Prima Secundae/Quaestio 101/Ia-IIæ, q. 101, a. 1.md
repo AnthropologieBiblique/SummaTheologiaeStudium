@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 101, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod ratio praeceptorum caeremonialium non in hoc consistat quod pertinent ad cultum Dei. In lege enim veteri dantur Iudaeis quaedam praecepta de abstinentia ciborum, ut patet [[Lv 11]]; et etiam de abstinendo ab aliquibus vestimentis, sicut illud [[Lv 11]], *vestem quae ex duobus texta est, non indueris*; et iterum quod praecipitur [[Nb 15]], *ut faciant sibi fimbrias per angulos palliorum*. Sed huiusmodi non sunt praecepta moralia, quia non manent in nova lege. Nec etiam iudicialia, quia non pertinent ad iudicium faciendum inter homines. Ergo sunt caeremonialia. Sed in nullo pertinere videntur ad cultum Dei. Ergo non est ratio caeremonialium praeceptorum quod pertineant ad cultum Dei.]]
+![[LEO Ia-IIæ, q. 101, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod ratio praeceptorum caeremonialium non in hoc consistat quod pertinent ad cultum Dei. In lege enim veteri dantur Iudaeis quaedam praecepta de abstinentia ciborum, ut patet Levit. XI; et etiam de abstinendo ab aliquibus vestimentis, sicut illud Levit. XIX, *vestem quae ex duobus texta est, non indueris*; et iterum quod praecipitur Num. XV, *ut faciant sibi fimbrias per angulos palliorum*. Sed huiusmodi non sunt praecepta moralia, quia non manent in nova lege. Nec etiam iudicialia, quia non pertinent ad iudicium faciendum inter homines. Ergo sunt caeremonialia. Sed in nullo pertinere videntur ad cultum Dei. Ergo non est ratio caeremonialium praeceptorum quod pertineant ad cultum Dei.]]
 ![[CERF Ia-IIæ, q. 101, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 101, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 101, a. 1#s.c.|Sed contra est quod dicitur [[Ex 18]], *esto populo in his quae ad Deum pertinent, ostendasque populo caeremonias et ritum colendi*.]]
+![[LEO Ia-IIæ, q. 101, a. 1#s.c.|Sed contra est quod dicitur Exod. XVIII, *esto populo in his quae ad Deum pertinent, ostendasque populo caeremonias et ritum colendi*.]]
 ![[CERF Ia-IIæ, q. 101, a. 1#s.c.]]
 
 ###### resp.

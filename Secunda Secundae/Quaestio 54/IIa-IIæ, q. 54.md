@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 54#Prooemium|Deinde considerandum est de negligentia. Et circa hoc quaeruntur tria. Primo, utrum negligentia sit peccatum speciale. Secundo, cui virtuti opponatur. Tertio, utrum negligentia sit peccatum mortale.]]
-![[CERF IIa-IIæ, q. 54#Prooemium]]
+Deinde considerandum est de negligentia. Et circa hoc quaeruntur tria. Primo, utrum negligentia sit peccatum speciale. Secundo, cui virtuti opponatur. Tertio, utrum negligentia sit peccatum mortale.
 
 ![[IIa-IIæ, q. 54, a. 1#Articulus 1]]
 

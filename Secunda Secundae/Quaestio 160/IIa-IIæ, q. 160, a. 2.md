@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 160, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod modestia sit solum circa exteriores actiones. Interiores enim motus passionum aliis noti esse non possunt. Sed apostolus, [[Ph 4]], mandat ut modestia nostra nota sit omnibus hominibus. Ergo modestia est solum circa exteriores actiones.]]
+![[LEO IIa-IIæ, q. 160, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod modestia sit solum circa exteriores actiones. Interiores enim motus passionum aliis noti esse non possunt. Sed apostolus, Philipp. IV, mandat ut modestia nostra nota sit omnibus hominibus. Ergo modestia est solum circa exteriores actiones.]]
 ![[CERF IIa-IIæ, q. 160, a. 2#arg. 1]]
 
 ###### arg. 2

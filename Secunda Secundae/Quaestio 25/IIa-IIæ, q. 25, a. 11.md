@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 25, a. 11#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 25, a. 11#s.c.|Sed contra est quod dicitur [[Is 28]], *delebitur foedus vestrum cum morte, et pactum vestrum cum Inferno non stabit*. Sed perfectio pacis et foederis est per caritatem. Ergo ad Daemones, qui sunt Inferni incolae et mortis procuratores, caritatem habere non debemus.]]
+![[LEO IIa-IIæ, q. 25, a. 11#s.c.|Sed contra est quod dicitur Isaiae XXVIII, *delebitur foedus vestrum cum morte, et pactum vestrum cum Inferno non stabit*. Sed perfectio pacis et foederis est per caritatem. Ergo ad Daemones, qui sunt Inferni incolae et mortis procuratores, caritatem habere non debemus.]]
 ![[CERF IIa-IIæ, q. 25, a. 11#s.c.]]
 
 ###### resp.

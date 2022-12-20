@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia, q. 2, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 2, a. 1#arg. 3|Praeterea, veritatem esse est per se notum, quia qui negat veritatem esse, concedit veritatem esse, si enim veritas non est, verum est veritatem non esse. Si autem est aliquid verum, oportet quod veritas sit. Deus autem est ipsa veritas, [[Jn 14]], *ego sum via, veritas et vita*. Ergo Deum esse est per se notum.]]
+![[LEO Ia, q. 2, a. 1#arg. 3|Praeterea, veritatem esse est per se notum, quia qui negat veritatem esse, concedit veritatem esse, si enim veritas non est, verum est veritatem non esse. Si autem est aliquid verum, oportet quod veritas sit. Deus autem est ipsa veritas, Ioann. XIV, *ego sum via, veritas et vita*. Ergo Deum esse est per se notum.]]
 ![[CERF Ia, q. 2, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 2, a. 1#s.c.|Sed contra, nullus potest cogitare oppositum eius quod est per se notum ut patet per philosophum, in IV Metaphys. et I Poster., circa prima demonstrationis principia. Cogitari autem potest oppositum eius quod est Deum esse, secundum illud [[Ps 52]], *dixit insipiens in corde suo, non est Deus*. Ergo Deum esse non est per se notum.]]
+![[LEO Ia, q. 2, a. 1#s.c.|Sed contra, nullus potest cogitare oppositum eius quod est per se notum ut patet per philosophum, in IV Metaphys. et I Poster., circa prima demonstrationis principia. Cogitari autem potest oppositum eius quod est Deum esse, secundum illud Psalmi LII, *dixit insipiens in corde suo, non est Deus*. Ergo Deum esse non est per se notum.]]
 ![[CERF Ia, q. 2, a. 1#s.c.]]
 
 ###### resp.

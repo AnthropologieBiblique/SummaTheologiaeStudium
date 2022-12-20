@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 15, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 15, a. 5#s.c.|Sed contra est quod [[Is 53]] dicitur, *vere languores nostros ipse tulit, et dolores nostros ipse portavit*.]]
+![[LEO IIIa, q. 15, a. 5#s.c.|Sed contra est quod Isaiae LIII dicitur, *vere languores nostros ipse tulit, et dolores nostros ipse portavit*.]]
 ![[CERF IIIa, q. 15, a. 5#s.c.]]
 
 ###### resp.

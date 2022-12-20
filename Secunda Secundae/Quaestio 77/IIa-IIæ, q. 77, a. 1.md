@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 77, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 77, a. 1#arg. 2|Praeterea, illud quod est omnibus commune videtur esse naturale et non esse peccatum. Sed sicut Augustinus refert, XIII de Trin., dictum cuiusdam mimi fuit ab omnibus acceptatum, *vili vultis emere, et care vendere*. Cui etiam consonat quod dicitur [[Pr 20]], *malum est, malum est, dicit omnis emptor, et cum recesserit, gloriatur*. Ergo licitum est aliquid carius vendere et vilius emere quam valeat.]]
+![[LEO IIa-IIæ, q. 77, a. 1#arg. 2|Praeterea, illud quod est omnibus commune videtur esse naturale et non esse peccatum. Sed sicut Augustinus refert, XIII de Trin., dictum cuiusdam mimi fuit ab omnibus acceptatum, *vili vultis emere, et care vendere*. Cui etiam consonat quod dicitur Prov. XX, *malum est, malum est, dicit omnis emptor, et cum recesserit, gloriatur*. Ergo licitum est aliquid carius vendere et vilius emere quam valeat.]]
 ![[CERF IIa-IIæ, q. 77, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 77, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 77, a. 1#s.c.|Sed contra est quod dicitur [[Mt 7]], *omnia quaecumque vultis ut faciant vobis homines, et vos facite illis*. Sed nullus vult sibi rem vendi carius quam valeat. Ergo nullus debet alteri vendere rem carius quam valeat.]]
+![[LEO IIa-IIæ, q. 77, a. 1#s.c.|Sed contra est quod dicitur Matth. VII, *omnia quaecumque vultis ut faciant vobis homines, et vos facite illis*. Sed nullus vult sibi rem vendi carius quam valeat. Ergo nullus debet alteri vendere rem carius quam valeat.]]
 ![[CERF IIa-IIæ, q. 77, a. 1#s.c.]]
 
 ###### resp.

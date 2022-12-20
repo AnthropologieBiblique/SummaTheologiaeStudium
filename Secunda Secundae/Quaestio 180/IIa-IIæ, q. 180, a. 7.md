@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 180, a. 7#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 180, a. 7#arg. 4|Praeterea, laesio corporalis delectationem impedit. Sed contemplatio inducit laesionem corporalem, unde [[Gn 32]] dicitur quod Iacob, postquam dixerat, *vidi dominum facie ad faciem, claudicabat pede, eo quod tetigerit nervum femoris eius et obstupuerit*. Ergo videtur quod in vita contemplativa non sit delectatio.]]
+![[LEO IIa-IIæ, q. 180, a. 7#arg. 4|Praeterea, laesio corporalis delectationem impedit. Sed contemplatio inducit laesionem corporalem, unde Gen. XXXII dicitur quod Iacob, postquam dixerat, *vidi dominum facie ad faciem, claudicabat pede, eo quod tetigerit nervum femoris eius et obstupuerit*. Ergo videtur quod in vita contemplativa non sit delectatio.]]
 ![[CERF IIa-IIæ, q. 180, a. 7#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 180, a. 7#s.c.|Sed contra est quod de contemplatione sapientiae dicitur, [[Sg 8]], *non habet amaritudinem conversatio illius, nec taedium convictus eius, sed laetitiam et gaudium*. Et Gregorius dicit, super Ezech., quod *contemplativa vita amabilis valde dulcedo est*.]]
+![[LEO IIa-IIæ, q. 180, a. 7#s.c.|Sed contra est quod de contemplatione sapientiae dicitur, Sap. VIII, *non habet amaritudinem conversatio illius, nec taedium convictus eius, sed laetitiam et gaudium*. Et Gregorius dicit, super Ezech., quod *contemplativa vita amabilis valde dulcedo est*.]]
 ![[CERF IIa-IIæ, q. 180, a. 7#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIa-IIæ, q. 180, a. 7#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 180, a. 7#ad 2|Ad secundum dicendum quod contentio vel certamen quod provenit ex contrarietate exterioris rei, impedit illius rei delectationem, non enim aliquis delectatur in re contra quam pugnat. Sed in re pro qua quis pugnat, cum eam homo adeptus fuerit, ceteris paribus, magis in ea delectatur, sicut Augustinus dicit, in VIII Confess., quod *quanto fuit maius periculum in praelio, tanto maius est gaudium in triumpho*. Non est autem in contemplatione contentio et certamen ex contrarietate veritatis quam contemplamur, sed ex defectu nostri intellectus, et ex corruptibili corpore, quod nos ad inferiora retrahit, secundum illud [[Sg 9]], *corpus, quod corrumpitur, aggravat animam, et deprimit terrena inhabitatio sensum multa cogitantem*. Et inde est quod quando homo pertingit ad contemplationem veritatis, ardentius eam amat, sed magis odit proprium defectum a gravitate corruptibilis corporis, ut dicat cum apostolo, *infelix ego homo. Quis me liberabit de corpore mortis huius?* Unde et Gregorius dicit, super Ezech., *cum Deus iam per desiderium et intellectum cognoscitur, omnem voluptatem carnis arefacit*.]]
+![[LEO IIa-IIæ, q. 180, a. 7#ad 2|Ad secundum dicendum quod contentio vel certamen quod provenit ex contrarietate exterioris rei, impedit illius rei delectationem, non enim aliquis delectatur in re contra quam pugnat. Sed in re pro qua quis pugnat, cum eam homo adeptus fuerit, ceteris paribus, magis in ea delectatur, sicut Augustinus dicit, in VIII Confess., quod *quanto fuit maius periculum in praelio, tanto maius est gaudium in triumpho*. Non est autem in contemplatione contentio et certamen ex contrarietate veritatis quam contemplamur, sed ex defectu nostri intellectus, et ex corruptibili corpore, quod nos ad inferiora retrahit, secundum illud Sap. IX, *corpus, quod corrumpitur, aggravat animam, et deprimit terrena inhabitatio sensum multa cogitantem*. Et inde est quod quando homo pertingit ad contemplationem veritatis, ardentius eam amat, sed magis odit proprium defectum a gravitate corruptibilis corporis, ut dicat cum apostolo, *infelix ego homo. Quis me liberabit de corpore mortis huius?* Unde et Gregorius dicit, super Ezech., *cum Deus iam per desiderium et intellectum cognoscitur, omnem voluptatem carnis arefacit*.]]
 ![[CERF IIa-IIæ, q. 180, a. 7#ad 2]]
 
 ###### ad 3

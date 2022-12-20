@@ -6,15 +6,15 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 48, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod ira non causet taciturnitatem. Taciturnitas enim locutioni opponitur. Sed per crementum irae usque ad locutionem pervenitur, ut patet per gradus irae quos dominus assignat, [[Mt 5]], dicens, *qui irascitur fratri suo; et, qui dixerit fratri suo, raca; et, qui dixerit fratri suo, fatue*. Ergo ira non causat taciturnitatem.]]
+![[LEO Ia-IIæ, q. 48, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod ira non causet taciturnitatem. Taciturnitas enim locutioni opponitur. Sed per crementum irae usque ad locutionem pervenitur, ut patet per gradus irae quos dominus assignat, Matth. V, dicens, *qui irascitur fratri suo; et, qui dixerit fratri suo, raca; et, qui dixerit fratri suo, fatue*. Ergo ira non causat taciturnitatem.]]
 ![[CERF Ia-IIæ, q. 48, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 48, a. 4#arg. 2|Praeterea, ex hoc quod custodia rationis deficit, contingit quod homo prorumpat ad verba inordinata, unde dicitur [[Pr 25]], *sicut urbs patens et absque murorum ambitu, ita vir qui non potest cohibere in loquendo spiritum suum*. Sed ira maxime impedit iudicium rationis, ut dictum est. Ergo facit maxime profluere in verba inordinata. Non ergo causat taciturnitatem.]]
+![[LEO Ia-IIæ, q. 48, a. 4#arg. 2|Praeterea, ex hoc quod custodia rationis deficit, contingit quod homo prorumpat ad verba inordinata, unde dicitur Prov. XXV, *sicut urbs patens et absque murorum ambitu, ita vir qui non potest cohibere in loquendo spiritum suum*. Sed ira maxime impedit iudicium rationis, ut dictum est. Ergo facit maxime profluere in verba inordinata. Non ergo causat taciturnitatem.]]
 ![[CERF Ia-IIæ, q. 48, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 48, a. 4#arg. 3|Praeterea, [[Mt 12]] dicitur, ex abundantia cordis os loquitur. Sed per iram cor maxime perturbatur, ut dictum est. Ergo maxime causat locutionem. Non ergo causat taciturnitatem.]]
+![[LEO Ia-IIæ, q. 48, a. 4#arg. 3|Praeterea, Matth. XII dicitur, ex abundantia cordis os loquitur. Sed per iram cor maxime perturbatur, ut dictum est. Ergo maxime causat locutionem. Non ergo causat taciturnitatem.]]
 ![[CERF Ia-IIæ, q. 48, a. 4#arg. 3]]
 
 ###### s.c.

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 63, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 63, a. 3#s.c.|Sed contra est quod dicitur [[Is 14]], ex persona Diaboli, *ascendam in caelum, et ero similis altissimo*. Et Augustinus dicit in libro de quaestionibus Vet. Test., quod elatione inflatus, voluit dici Deus.]]
+![[LEO Ia, q. 63, a. 3#s.c.|Sed contra est quod dicitur Isaiae XIV, ex persona Diaboli, *ascendam in caelum, et ero similis altissimo*. Et Augustinus dicit in libro de quaestionibus Vet. Test., quod elatione inflatus, voluit dici Deus.]]
 ![[CERF Ia, q. 63, a. 3#s.c.]]
 
 ###### resp.

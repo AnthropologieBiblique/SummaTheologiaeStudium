@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 45, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 45, a. 3#arg. 3|Praeterea, Gregorius dicit, in VI Moral., quod *in contemplatione principium, quod Deus est, quaeritur, in operatione autem sub gravi necessitatis fasce laboratur*. Sed ad sapientiam pertinet divinorum visio, ad quam non pertinet sub aliquo fasce laborare, quia ut dicitur [[Sg 8]], *non habet amaritudinem conversatio eius, nec taedium convictus illius*. Ergo sapientia est contemplativa tantum, non autem practica sive activa.]]
+![[LEO IIa-IIæ, q. 45, a. 3#arg. 3|Praeterea, Gregorius dicit, in VI Moral., quod *in contemplatione principium, quod Deus est, quaeritur, in operatione autem sub gravi necessitatis fasce laboratur*. Sed ad sapientiam pertinet divinorum visio, ad quam non pertinet sub aliquo fasce laborare, quia ut dicitur Sap. VIII, *non habet amaritudinem conversatio eius, nec taedium convictus illius*. Ergo sapientia est contemplativa tantum, non autem practica sive activa.]]
 ![[CERF IIa-IIæ, q. 45, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 45, a. 3#s.c.|Sed contra est quod dicitur ad [[Col 4]], *in sapientia ambulate ad eos qui foris sunt*. Hoc autem pertinet ad actionem. Ergo sapientia non solum est speculativa, sed etiam practica.]]
+![[LEO IIa-IIæ, q. 45, a. 3#s.c.|Sed contra est quod dicitur ad Coloss. IV, *in sapientia ambulate ad eos qui foris sunt*. Hoc autem pertinet ad actionem. Ergo sapientia non solum est speculativa, sed etiam practica.]]
 ![[CERF IIa-IIæ, q. 45, a. 3#s.c.]]
 
 ###### resp.

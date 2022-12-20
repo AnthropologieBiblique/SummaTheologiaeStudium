@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 26, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 26, a. 1#s.c.|Sed contra est quod dicitur [[Ct 2]], *introduxit me rex in cellam vinariam; ordinavit in me caritatem*.]]
+![[LEO IIa-IIæ, q. 26, a. 1#s.c.|Sed contra est quod dicitur Cant. II, *introduxit me rex in cellam vinariam; ordinavit in me caritatem*.]]
 ![[CERF IIa-IIæ, q. 26, a. 1#s.c.]]
 
 ###### resp.

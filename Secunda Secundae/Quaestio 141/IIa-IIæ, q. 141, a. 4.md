@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 141, a. 4#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 141, a. 4#arg. 4|Praeterea, delectationes spirituales sunt maiores quam corporales, ut supra habitum est, cum de passionibus ageretur. Sed quandoque propter concupiscentias delectationum spiritualium aliqui discedunt a legibus Dei et a statu virtutis, sicut propter curiositatem scientiae. Unde et primo homini Diabolus scientiam promisit, [[Gn 3]], dicens, *eritis sicut dii, scientes bonum et malum*. Ergo non solum est temperantia circa delectationes tactus.]]
+![[LEO IIa-IIæ, q. 141, a. 4#arg. 4|Praeterea, delectationes spirituales sunt maiores quam corporales, ut supra habitum est, cum de passionibus ageretur. Sed quandoque propter concupiscentias delectationum spiritualium aliqui discedunt a legibus Dei et a statu virtutis, sicut propter curiositatem scientiae. Unde et primo homini Diabolus scientiam promisit, Gen. III, dicens, *eritis sicut dii, scientes bonum et malum*. Ergo non solum est temperantia circa delectationes tactus.]]
 ![[CERF IIa-IIæ, q. 141, a. 4#arg. 4]]
 
 ###### arg. 5

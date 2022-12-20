@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 84, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod adoratio non importet actum corporalem. Dicitur enim [[Jn 4]], *veri adoratores adorabunt patrem in spiritu et veritate*. Sed id quod fit in spiritu non pertinet ad corporalem actum. Ergo adoratio non importat corporalem actum.]]
+![[LEO IIa-IIæ, q. 84, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod adoratio non importet actum corporalem. Dicitur enim Ioan. IV, *veri adoratores adorabunt patrem in spiritu et veritate*. Sed id quod fit in spiritu non pertinet ad corporalem actum. Ergo adoratio non importat corporalem actum.]]
 ![[CERF IIa-IIæ, q. 84, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 84, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 84, a. 2#s.c.|Sed contra est quod super illud [[Ex 20]], non adorabis ea, neque coles, dicit Glossa, nec affectu colas, nec specie adores.]]
+![[LEO IIa-IIæ, q. 84, a. 2#s.c.|Sed contra est quod super illud Exod. XX, non adorabis ea, neque coles, dicit Glossa, nec affectu colas, nec specie adores.]]
 ![[CERF IIa-IIæ, q. 84, a. 2#s.c.]]
 
 ###### resp.

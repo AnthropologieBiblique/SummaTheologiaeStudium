@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 88, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 88, a. 6#arg. 2|Praeterea, apostolus dicit, [[2 Co 9]], *unusquisque prout destinavit in corde suo, non ex tristitia aut ex necessitate, hilarem enim datorem diligit Deus*. Sed quidam ea quae vovent ex tristitia faciunt, et hoc videtur procedere ex necessitate quam votum imponit, quia necessitas contristans est, ut dicitur V Metaphys. Ergo melius est aliquid facere sine voto quam cum voto.]]
+![[LEO IIa-IIæ, q. 88, a. 6#arg. 2|Praeterea, apostolus dicit, II Cor. IX, *unusquisque prout destinavit in corde suo, non ex tristitia aut ex necessitate, hilarem enim datorem diligit Deus*. Sed quidam ea quae vovent ex tristitia faciunt, et hoc videtur procedere ex necessitate quam votum imponit, quia necessitas contristans est, ut dicitur V Metaphys. Ergo melius est aliquid facere sine voto quam cum voto.]]
 ![[CERF IIa-IIæ, q. 88, a. 6#arg. 2]]
 
 ###### arg. 3

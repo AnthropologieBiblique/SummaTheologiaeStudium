@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 63, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod character non sit spiritualis potestas. Character enim idem videtur esse quod figura, unde ad [[He 1]], ubi dicitur, figura substantiae eius, in Graeco habetur loco figurae character. Sed figura est in quarta specie qualitatis, et ita differt a potestate, quae est in secunda specie qualitatis. Character ergo non est spiritualis potestas.]]
+![[LEO IIIa, q. 63, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod character non sit spiritualis potestas. Character enim idem videtur esse quod figura, unde ad Heb. I, ubi dicitur, figura substantiae eius, in Graeco habetur loco figurae character. Sed figura est in quarta specie qualitatis, et ita differt a potestate, quae est in secunda specie qualitatis. Character ergo non est spiritualis potestas.]]
 ![[CERF IIIa, q. 63, a. 2#arg. 1]]
 
 ###### arg. 2

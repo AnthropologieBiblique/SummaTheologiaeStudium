@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 33, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 33, a. 6#arg. 3|Praeterea, secundum apostolum, ad [[Rm 3]], *non sunt facienda mala ut veniant bona*. Ergo, pari ratione, non sunt praetermittenda bona ne veniant mala. Sed correctio fraterna est quoddam bonum. Ergo non est praetermittenda propter timorem ne ille qui corripitur fiat deterior.]]
+![[LEO IIa-IIæ, q. 33, a. 6#arg. 3|Praeterea, secundum apostolum, ad Rom. III, *non sunt facienda mala ut veniant bona*. Ergo, pari ratione, non sunt praetermittenda bona ne veniant mala. Sed correctio fraterna est quoddam bonum. Ergo non est praetermittenda propter timorem ne ille qui corripitur fiat deterior.]]
 ![[CERF IIa-IIæ, q. 33, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 33, a. 6#s.c.|Sed contra est quod dicitur [[Pr 9]], *noli arguere derisorem, ne oderit te*, ubi dicit Glossa, *non est timendum ne tibi derisor, cum arguitur, contumelias inferat, sed hoc potius providendum, ne, tractus ad odium, inde fiat peior*. Ergo cessandum est a correctione fraterna quando timetur ne fiat ille inde deterior.]]
+![[LEO IIa-IIæ, q. 33, a. 6#s.c.|Sed contra est quod dicitur Prov. IX, *noli arguere derisorem, ne oderit te*, ubi dicit Glossa, *non est timendum ne tibi derisor, cum arguitur, contumelias inferat, sed hoc potius providendum, ne, tractus ad odium, inde fiat peior*. Ergo cessandum est a correctione fraterna quando timetur ne fiat ille inde deterior.]]
 ![[CERF IIa-IIæ, q. 33, a. 6#s.c.]]
 
 ###### resp.

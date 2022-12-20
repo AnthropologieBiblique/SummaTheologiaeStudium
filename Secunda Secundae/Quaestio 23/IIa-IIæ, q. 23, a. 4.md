@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 23, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 23, a. 4#ad 3|Ad tertium dicendum quod praeceptum de diligendo dicitur esse iussio generalis, quia ad hoc reducuntur omnia alia praecepta sicut ad finem, secundum illud [[1 Tm 1]], *finis praecepti caritas est*.]]
+![[LEO IIa-IIæ, q. 23, a. 4#ad 3|Ad tertium dicendum quod praeceptum de diligendo dicitur esse iussio generalis, quia ad hoc reducuntur omnia alia praecepta sicut ad finem, secundum illud I ad Tim. I, *finis praecepti caritas est*.]]
 ![[CERF IIa-IIæ, q. 23, a. 4#ad 3]]
 

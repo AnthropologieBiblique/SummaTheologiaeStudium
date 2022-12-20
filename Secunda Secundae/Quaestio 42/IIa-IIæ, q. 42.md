@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 42#Prooemium|Deinde considerandum est de seditione. Et circa hoc quaeruntur duo primo, utrum sit speciale peccatum. Secundo, utrum sit mortale peccatum.]]
-![[CERF IIa-IIæ, q. 42#Prooemium]]
+Deinde considerandum est de seditione. Et circa hoc quaeruntur duo primo, utrum sit speciale peccatum. Secundo, utrum sit mortale peccatum.
 
 ![[IIa-IIæ, q. 42, a. 1#Articulus 1]]
 

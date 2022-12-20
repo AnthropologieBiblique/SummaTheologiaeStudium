@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 162, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 162, a. 7#arg. 2|Praeterea, [[Si 10]] dicitur quod *initium superbiae est apostatare a Deo*. Ergo apostasia a Deo est prius quam superbia.]]
+![[LEO IIa-IIæ, q. 162, a. 7#arg. 2|Praeterea, Eccli. X dicitur quod *initium superbiae est apostatare a Deo*. Ergo apostasia a Deo est prius quam superbia.]]
 ![[CERF IIa-IIæ, q. 162, a. 7#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 162, a. 7#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 162, a. 7#arg. 4|Praeterea, [[2 Tm 3]], dicitur, *mali homines et seductores proficiunt in peius*, et ita videtur quod principium malitiae hominis non sit a maximo peccatorum. Sed superbia est maximum peccatorum, ut dictum est. Non est igitur primum peccatum.]]
+![[LEO IIa-IIæ, q. 162, a. 7#arg. 4|Praeterea, II ad Tim. III, dicitur, *mali homines et seductores proficiunt in peius*, et ita videtur quod principium malitiae hominis non sit a maximo peccatorum. Sed superbia est maximum peccatorum, ut dictum est. Non est igitur primum peccatum.]]
 ![[CERF IIa-IIæ, q. 162, a. 7#arg. 4]]
 
 ###### arg. 5
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 162, a. 7#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 162, a. 7#s.c.|Sed contra est quod dicitur [[Si 10]], *initium omnis peccati superbia*.]]
+![[LEO IIa-IIæ, q. 162, a. 7#s.c.|Sed contra est quod dicitur Eccli. X, *initium omnis peccati superbia*.]]
 ![[CERF IIa-IIæ, q. 162, a. 7#s.c.]]
 
 ###### resp.
@@ -42,7 +42,7 @@ tags :
 ![[CERF IIa-IIæ, q. 162, a. 7#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 162, a. 7#ad 3|Ad tertium dicendum quod non oportet esse eundem ordinem virtutum et vitiorum. Nam vitium est corruptivum virtutis. Id autem quod est primum in generatione, est postremum in corruptione. Et ideo, sicut fides est prima virtutum, ita infidelitas est ultimum peccatorum, ad quam homo quandoque per alia peccata perducitur. Super illud Psalmi, *exinanite, exinanite usque ad fundamentum in ea*, dicit Glossa quod *coacervatione vitiorum subrepit diffidentia*. Et apostolus dicit, [[1 Tm 1]], quod *quidam, repellentes conscientiam bonam, circa fidem naufragaverunt*.]]
+![[LEO IIa-IIæ, q. 162, a. 7#ad 3|Ad tertium dicendum quod non oportet esse eundem ordinem virtutum et vitiorum. Nam vitium est corruptivum virtutis. Id autem quod est primum in generatione, est postremum in corruptione. Et ideo, sicut fides est prima virtutum, ita infidelitas est ultimum peccatorum, ad quam homo quandoque per alia peccata perducitur. Super illud Psalmi, *exinanite, exinanite usque ad fundamentum in ea*, dicit Glossa quod *coacervatione vitiorum subrepit diffidentia*. Et apostolus dicit, I ad Tim. I, quod *quidam, repellentes conscientiam bonam, circa fidem naufragaverunt*.]]
 ![[CERF IIa-IIæ, q. 162, a. 7#ad 3]]
 
 ###### ad 4

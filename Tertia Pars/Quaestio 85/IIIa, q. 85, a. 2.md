@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 85, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod poenitentia non sit specialis virtus. Eiusdem enim rationis videtur esse gaudere de bonis prius actis, et dolere de malis perpetratis. Sed gaudium de bono prius facto non est specialis virtus, sed est quidam affectus laudabilis ex caritate proveniens, ut patet per Augustinum, XIV de Civ. Dei, unde et apostolus, [[1 Co 13]], dicit quod *caritas non gaudet super iniquitate, congaudet autem veritati*. Ergo pari ratione poenitentia, quae est dolor de peccatis praeteritis, non est specialis virtus, sed est quidam affectus ex caritate proveniens.]]
+![[LEO IIIa, q. 85, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod poenitentia non sit specialis virtus. Eiusdem enim rationis videtur esse gaudere de bonis prius actis, et dolere de malis perpetratis. Sed gaudium de bono prius facto non est specialis virtus, sed est quidam affectus laudabilis ex caritate proveniens, ut patet per Augustinum, XIV de Civ. Dei, unde et apostolus, I Cor. XIII, dicit quod *caritas non gaudet super iniquitate, congaudet autem veritati*. Ergo pari ratione poenitentia, quae est dolor de peccatis praeteritis, non est specialis virtus, sed est quidam affectus ex caritate proveniens.]]
 ![[CERF IIIa, q. 85, a. 2#arg. 1]]
 
 ###### arg. 2

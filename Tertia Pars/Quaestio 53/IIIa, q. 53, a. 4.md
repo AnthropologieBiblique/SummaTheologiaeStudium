@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 53, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christus non fuerit causa suae resurrectionis. Quicumque enim suscitatur ab alio, non est suae resurrectionis causa. Sed Christus est suscitatus ab alio, secundum illud [[Ac 2]], *quem Deus suscitavit, solutis doloribus Inferni*; et [[Rm 8]], *qui suscitavit Iesum Christum a mortuis, vivificabit et mortalia corpora nostra*, et cetera. Ergo Christus non est causa suae resurrectionis.]]
+![[LEO IIIa, q. 53, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christus non fuerit causa suae resurrectionis. Quicumque enim suscitatur ab alio, non est suae resurrectionis causa. Sed Christus est suscitatus ab alio, secundum illud Act. II, *quem Deus suscitavit, solutis doloribus Inferni*; et Rom. VIII, *qui suscitavit Iesum Christum a mortuis, vivificabit et mortalia corpora nostra*, et cetera. Ergo Christus non est causa suae resurrectionis.]]
 ![[CERF IIIa, q. 53, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 53, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 53, a. 4#s.c.|Sed contra est quod dominus dicit, [[Jn 10]], *nemo tollit animam meam a me, sed ego pono eam et iterum sumo eam*. Sed nihil est aliud resurgere quam iterato animam sumere. Ergo videtur quod Christus propria virtute resurrexit.]]
+![[LEO IIIa, q. 53, a. 4#s.c.|Sed contra est quod dominus dicit, Ioan. X, *nemo tollit animam meam a me, sed ego pono eam et iterum sumo eam*. Sed nihil est aliud resurgere quam iterato animam sumere. Ergo videtur quod Christus propria virtute resurrexit.]]
 ![[CERF IIIa, q. 53, a. 4#s.c.]]
 
 ###### resp.

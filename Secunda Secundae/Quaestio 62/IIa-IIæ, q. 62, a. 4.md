@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 62, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 62, a. 4#arg. 3|Praeterea, iustitia humana derivatur a iustitia divina. Sed Deo debet aliquis restituere plus quam ab eo accepit, secundum illud [[Mt 25]], *sciebas quod meto ubi non semino, et congrego ubi non sparsi*. Ergo iustum est ut etiam restituat homini aliquid quod non accepit.]]
+![[LEO IIa-IIæ, q. 62, a. 4#arg. 3|Praeterea, iustitia humana derivatur a iustitia divina. Sed Deo debet aliquis restituere plus quam ab eo accepit, secundum illud Matth. XXV, *sciebas quod meto ubi non semino, et congrego ubi non sparsi*. Ergo iustum est ut etiam restituat homini aliquid quod non accepit.]]
 ![[CERF IIa-IIæ, q. 62, a. 4#arg. 3]]
 
 ###### s.c.

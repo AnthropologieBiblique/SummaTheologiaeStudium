@@ -10,15 +10,15 @@ tags :
 ![[CERF IIIa, q. 15, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 15, a. 1#arg. 2|Praeterea, [[Rm 5]] dicit apostolus quod in Adam omnes peccaverunt, scilicet quia in eo originaliter fuerunt. Sed etiam Christus originaliter fuit in Adam. Ergo in eo peccavit.]]
+![[LEO IIIa, q. 15, a. 1#arg. 2|Praeterea, Rom. V dicit apostolus quod in Adam omnes peccaverunt, scilicet quia in eo originaliter fuerunt. Sed etiam Christus originaliter fuit in Adam. Ergo in eo peccavit.]]
 ![[CERF IIIa, q. 15, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 15, a. 1#arg. 3|Praeterea, apostolus dicit, [[He 2]], quod *in eo in quo Christus passus est et tentatus, potens est et his qui tentantur auxiliari*. Sed maxime indigebamus auxilio eius contra peccatum. Ergo videtur quod in eo fuerit peccatum.]]
+![[LEO IIIa, q. 15, a. 1#arg. 3|Praeterea, apostolus dicit, Heb. II, quod *in eo in quo Christus passus est et tentatus, potens est et his qui tentantur auxiliari*. Sed maxime indigebamus auxilio eius contra peccatum. Ergo videtur quod in eo fuerit peccatum.]]
 ![[CERF IIIa, q. 15, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 15, a. 1#arg. 4|Praeterea, [[2 Co 5]] dicitur quod Deus *eum qui non noverat peccatum, scilicet Christum, pro nobis fecit peccatum*. Sed illud vere est quod a Deo factum est. Ergo in Christo vere fuit peccatum.]]
+![[LEO IIIa, q. 15, a. 1#arg. 4|Praeterea, II Cor. V dicitur quod Deus *eum qui non noverat peccatum, scilicet Christum, pro nobis fecit peccatum*. Sed illud vere est quod a Deo factum est. Ergo in Christo vere fuit peccatum.]]
 ![[CERF IIIa, q. 15, a. 1#arg. 4]]
 
 ###### arg. 5
@@ -26,11 +26,11 @@ tags :
 ![[CERF IIIa, q. 15, a. 1#arg. 5]]
 
 ###### s.c.
-![[LEO IIIa, q. 15, a. 1#s.c.|Sed contra est quod ipse dicit, [[Jn 8]], *quis ex vobis arguet me de peccato?*]]
+![[LEO IIIa, q. 15, a. 1#s.c.|Sed contra est quod ipse dicit, Ioan. VIII, *quis ex vobis arguet me de peccato?*]]
 ![[CERF IIIa, q. 15, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 15, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, Christus suscepit defectus nostros ut pro nobis satisfaceret; et veritatem humanae naturae comprobaret; et ut nobis exemplum virtutis fieret. Secundum quae tria manifestum est quod defectum peccati assumere non debuit. Primo enim, peccatum nihil operatur ad satisfactionem, quinimmo virtutem satisfactionis impedit; quia, ut dicitur [[Si 34]], *dona iniquorum non probat altissimus*. Similiter etiam ex peccato non demonstratur veritas humanae naturae, quia peccatum non pertinet ad humanam naturam, cuius Deus est causa; sed magis est contra naturam per seminationem Diaboli introductum, ut Damascenus dicit. Tertio, peccando exempla virtutum praebere non potuit, cum peccatum contrarietur virtuti. Et ideo Christus nullo modo assumpsit defectum peccati, nec originalis nec actualis, secundum illud quod dicitur [[1 P 2]], *qui peccatum non fecit, nec inventus est dolus in ore eius*.]]
+![[LEO IIIa, q. 15, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, Christus suscepit defectus nostros ut pro nobis satisfaceret; et veritatem humanae naturae comprobaret; et ut nobis exemplum virtutis fieret. Secundum quae tria manifestum est quod defectum peccati assumere non debuit. Primo enim, peccatum nihil operatur ad satisfactionem, quinimmo virtutem satisfactionis impedit; quia, ut dicitur Eccli. XXXIV, *dona iniquorum non probat altissimus*. Similiter etiam ex peccato non demonstratur veritas humanae naturae, quia peccatum non pertinet ad humanam naturam, cuius Deus est causa; sed magis est contra naturam per seminationem Diaboli introductum, ut Damascenus dicit. Tertio, peccando exempla virtutum praebere non potuit, cum peccatum contrarietur virtuti. Et ideo Christus nullo modo assumpsit defectum peccati, nec originalis nec actualis, secundum illud quod dicitur I Pet. II, *qui peccatum non fecit, nec inventus est dolus in ore eius*.]]
 ![[CERF IIIa, q. 15, a. 1#resp.]]
 
 ###### ad 1
@@ -46,7 +46,7 @@ tags :
 ![[CERF IIIa, q. 15, a. 1#ad 3]]
 
 ###### ad 4
-![[LEO IIIa, q. 15, a. 1#ad 4|Ad quartum dicendum quod Deus fecit Christum peccatum, non quidem ut in se peccatum haberet, sed quia fecit eum hostiam pro peccato, sicut [[Os 4]] dicitur, peccata populi mei comedent, scilicet sacerdotes, qui secundum legem comedebant hostias pro peccato oblatas. Et secundum hunc modum dicitur [[Is 53]], quod *dominus posuit in eo iniquitates omnium nostrum*, quia scilicet eum tradidit ut esset hostia pro peccatis omnium hominum. Vel, fecit eum peccatum, idest, *habentem similitudinem carnis peccati*, ut dicitur [[Rm 8]]. Et hoc propter corpus passibile et mortale quod assumpsit.]]
+![[LEO IIIa, q. 15, a. 1#ad 4|Ad quartum dicendum quod Deus fecit Christum peccatum, non quidem ut in se peccatum haberet, sed quia fecit eum hostiam pro peccato, sicut Osee IV dicitur, peccata populi mei comedent, scilicet sacerdotes, qui secundum legem comedebant hostias pro peccato oblatas. Et secundum hunc modum dicitur Isaiae LIII, quod *dominus posuit in eo iniquitates omnium nostrum*, quia scilicet eum tradidit ut esset hostia pro peccatis omnium hominum. Vel, fecit eum peccatum, idest, *habentem similitudinem carnis peccati*, ut dicitur Rom. VIII. Et hoc propter corpus passibile et mortale quod assumpsit.]]
 ![[CERF IIIa, q. 15, a. 1#ad 4]]
 
 ###### ad 5

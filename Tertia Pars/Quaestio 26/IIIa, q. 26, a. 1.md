@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 26, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod esse mediatorem Dei et hominum non sit proprium Christo. Sacerdos enim et propheta videtur esse mediator inter Deum et homines, secundum illud [[Dt 5]], *ego illo tempore sequester et medius fui inter vos et Deum*. Sed esse prophetam et sacerdotem non est proprium Christo. Ergo nec etiam esse mediatorem.]]
+![[LEO IIIa, q. 26, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod esse mediatorem Dei et hominum non sit proprium Christo. Sacerdos enim et propheta videtur esse mediator inter Deum et homines, secundum illud Deut. V, *ego illo tempore sequester et medius fui inter vos et Deum*. Sed esse prophetam et sacerdotem non est proprium Christo. Ergo nec etiam esse mediatorem.]]
 ![[CERF IIIa, q. 26, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,15 +14,15 @@ tags :
 ![[CERF IIIa, q. 26, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 26, a. 1#arg. 3|Praeterea, ad officium mediatoris pertinet interpellare ad unum eorum inter quos est mediator, pro altero. Sed spiritus sanctus, sicut dicitur [[Rm 8]], *interpellat pro nobis ad Deum gemitibus inenarrabilibus*. Ergo spiritus sanctus est mediator inter Deum et homines. Ergo non est proprium Christo.]]
+![[LEO IIIa, q. 26, a. 1#arg. 3|Praeterea, ad officium mediatoris pertinet interpellare ad unum eorum inter quos est mediator, pro altero. Sed spiritus sanctus, sicut dicitur Rom. VIII, *interpellat pro nobis ad Deum gemitibus inenarrabilibus*. Ergo spiritus sanctus est mediator inter Deum et homines. Ergo non est proprium Christo.]]
 ![[CERF IIIa, q. 26, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 26, a. 1#s.c.|Sed contra est quod dicitur [[1 Tm 2]], *unus est mediator Dei et hominum, homo Christus Iesus*.]]
+![[LEO IIIa, q. 26, a. 1#s.c.|Sed contra est quod dicitur I Tim. II, *unus est mediator Dei et hominum, homo Christus Iesus*.]]
 ![[CERF IIIa, q. 26, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 26, a. 1#resp.|Respondeo dicendum quod mediatoris officium proprie est coniungere eos inter quos est mediator, nam extrema uniuntur in medio. Unire autem homines Deo perfective quidem convenit Christo, per quem homines reconciliantur Deo, secundum illud [[2 Co 5]], *Deus erat in Christo mundum reconcilians sibi*. Et ideo solus Christus est perfectus Dei et hominum mediator, inquantum per suam mortem humanum genus Deo reconciliavit. Unde, cum apostolus dixisset, *mediator Dei et hominum homo Christus Iesus*, subiunxit, *qui dedit semetipsum redemptionem pro omnibus*. Nihil tamen prohibet aliquos alios secundum quid dici mediatores inter Deum et hominem, prout scilicet cooperantur ad unionem hominum cum Deo dispositive vel ministerialiter.]]
+![[LEO IIIa, q. 26, a. 1#resp.|Respondeo dicendum quod mediatoris officium proprie est coniungere eos inter quos est mediator, nam extrema uniuntur in medio. Unire autem homines Deo perfective quidem convenit Christo, per quem homines reconciliantur Deo, secundum illud II Cor. V, *Deus erat in Christo mundum reconcilians sibi*. Et ideo solus Christus est perfectus Dei et hominum mediator, inquantum per suam mortem humanum genus Deo reconciliavit. Unde, cum apostolus dixisset, *mediator Dei et hominum homo Christus Iesus*, subiunxit, *qui dedit semetipsum redemptionem pro omnibus*. Nihil tamen prohibet aliquos alios secundum quid dici mediatores inter Deum et hominem, prout scilicet cooperantur ad unionem hominum cum Deo dispositive vel ministerialiter.]]
 ![[CERF IIIa, q. 26, a. 1#resp.]]
 
 ###### ad 1
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 26, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 26, a. 1#ad 2|Ad secundum dicendum quod Angeli boni, ut Augustinus dicit, in IX de Civ. Dei, non recte possunt dici mediatores inter Deum et homines. *Cum enim utrumque habeant cum Deo, et beatitudinem et immortalitatem, nihil autem horum cum hominibus miseris et mortalibus, quomodo non potius remoti sunt ab hominibus, Deoque coniuncti, quam inter utrosque medii constituti?* Dionysius tamen dicit eos esse medios, quia, secundum gradum naturae, sunt infra Deum et supra homines constituti. Et mediatoris officium exercent, non quidem principaliter et perfective, sed ministerialiter et dispositive, unde [[Mt 4]] dicitur quod accesserunt Angeli et ministrabant ei, scilicet Christo. Daemones autem habent quidem cum Deo immortalitatem, cum hominibus vero miseriam. *Ad hoc ergo se interponit medius Daemon immortalis et miser, ut ad immortalitatem beatam transire non sinat*, sed perducat ad miseriam immortalem. Unde est sicut *malus medius, qui separat amicos*. Christus autem habuit cum Deo communem beatitudinem, cum hominibus autem mortalitatem. Et ideo *ad hoc se interposuit medium ut, mortalitate transacta, ex mortuis faceret immortales, quod in se resurgendo monstravit; et ex miseris beatos efficeret, unde nunquam ipse discessit*. Et ideo ipse est bonus mediator, qui reconciliat inimicos.]]
+![[LEO IIIa, q. 26, a. 1#ad 2|Ad secundum dicendum quod Angeli boni, ut Augustinus dicit, in IX de Civ. Dei, non recte possunt dici mediatores inter Deum et homines. *Cum enim utrumque habeant cum Deo, et beatitudinem et immortalitatem, nihil autem horum cum hominibus miseris et mortalibus, quomodo non potius remoti sunt ab hominibus, Deoque coniuncti, quam inter utrosque medii constituti?* Dionysius tamen dicit eos esse medios, quia, secundum gradum naturae, sunt infra Deum et supra homines constituti. Et mediatoris officium exercent, non quidem principaliter et perfective, sed ministerialiter et dispositive, unde Matth. IV dicitur quod accesserunt Angeli et ministrabant ei, scilicet Christo. Daemones autem habent quidem cum Deo immortalitatem, cum hominibus vero miseriam. *Ad hoc ergo se interponit medius Daemon immortalis et miser, ut ad immortalitatem beatam transire non sinat*, sed perducat ad miseriam immortalem. Unde est sicut *malus medius, qui separat amicos*. Christus autem habuit cum Deo communem beatitudinem, cum hominibus autem mortalitatem. Et ideo *ad hoc se interposuit medium ut, mortalitate transacta, ex mortuis faceret immortales, quod in se resurgendo monstravit; et ex miseris beatos efficeret, unde nunquam ipse discessit*. Et ideo ipse est bonus mediator, qui reconciliat inimicos.]]
 ![[CERF IIIa, q. 26, a. 1#ad 2]]
 
 ###### ad 3

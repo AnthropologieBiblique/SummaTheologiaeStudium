@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 114, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 114, a. 3#arg. 2|Praeterea, de quolibet peccatore dici posset quod dominus de Iudaeis dicit, [[Jn 8]], *vos ex patre Diabolo estis*. Hoc autem est inquantum ipsi ex Diaboli suggestione peccabant. Omne ergo peccatum est ex suggestione Diaboli.]]
+![[LEO Ia, q. 114, a. 3#arg. 2|Praeterea, de quolibet peccatore dici posset quod dominus de Iudaeis dicit, Ioan. VIII, *vos ex patre Diabolo estis*. Hoc autem est inquantum ipsi ex Diaboli suggestione peccabant. Omne ergo peccatum est ex suggestione Diaboli.]]
 ![[CERF Ia, q. 114, a. 3#arg. 2]]
 
 ###### arg. 3

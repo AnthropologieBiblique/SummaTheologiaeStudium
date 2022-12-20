@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 104, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 104, a. 1#s.c.|Sed contra est quod dicitur [[Ez 18]], inter cetera bona opera viri iusti, *si iudicium verum fecerit inter virum et virum*. Sed iudicialia praecepta a iudicio dicuntur. Ergo praecepta iudicialia videntur dici illa quae pertinent ad ordinationem hominum ad invicem.]]
+![[LEO Ia-IIæ, q. 104, a. 1#s.c.|Sed contra est quod dicitur Ezech. XVIII, inter cetera bona opera viri iusti, *si iudicium verum fecerit inter virum et virum*. Sed iudicialia praecepta a iudicio dicuntur. Ergo praecepta iudicialia videntur dici illa quae pertinent ad ordinationem hominum ad invicem.]]
 ![[CERF Ia-IIæ, q. 104, a. 1#s.c.]]
 
 ###### resp.

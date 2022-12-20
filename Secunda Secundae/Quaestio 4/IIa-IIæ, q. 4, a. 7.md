@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 4, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod fides non sit prima inter virtutes. Dicitur enim [[Lc 12]], in Glossa super illud, dico vobis amicis meis, quod fortitudo est fidei fundamentum. Sed fundamentum est prius eo cuius est fundamentum. Ergo fides non est prima virtus.]]
+![[LEO IIa-IIæ, q. 4, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod fides non sit prima inter virtutes. Dicitur enim Luc. XII, in Glossa super illud, dico vobis amicis meis, quod fortitudo est fidei fundamentum. Sed fundamentum est prius eo cuius est fundamentum. Ergo fides non est prima virtus.]]
 ![[CERF IIa-IIæ, q. 4, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 4, a. 7#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 4, a. 7#s.c.|Sed contra est quod apostolus dicit, ad [[He 11]], quod *fides est substantia sperandarum rerum*. Sed substantia habet rationem primi. Ergo fides est prima inter virtutes.]]
+![[LEO IIa-IIæ, q. 4, a. 7#s.c.|Sed contra est quod apostolus dicit, ad Heb. XI, quod *fides est substantia sperandarum rerum*. Sed substantia habet rationem primi. Ergo fides est prima inter virtutes.]]
 ![[CERF IIa-IIæ, q. 4, a. 7#s.c.]]
 
 ###### resp.
@@ -46,7 +46,7 @@ tags :
 ![[CERF IIa-IIæ, q. 4, a. 7#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 4, a. 7#ad 4|Ad quartum dicendum quod ad rationem fundamenti non solum requiritur quod sit primum, sed etiam quod sit aliis partibus aedificii connexum, non enim esset fundamentum nisi ei aliae partes aedificii cohaererent. Connexio autem spiritualis aedificii est per caritatem, secundum illud [[Col 3]], *super omnia caritatem habete, quae est vinculum perfectionis*. Et ideo fides sine caritate fundamentum esse non potest, nec tamen oportet quod caritas sit prior fide.]]
+![[LEO IIa-IIæ, q. 4, a. 7#ad 4|Ad quartum dicendum quod ad rationem fundamenti non solum requiritur quod sit primum, sed etiam quod sit aliis partibus aedificii connexum, non enim esset fundamentum nisi ei aliae partes aedificii cohaererent. Connexio autem spiritualis aedificii est per caritatem, secundum illud Coloss. III, *super omnia caritatem habete, quae est vinculum perfectionis*. Et ideo fides sine caritate fundamentum esse non potest, nec tamen oportet quod caritas sit prior fide.]]
 ![[CERF IIa-IIæ, q. 4, a. 7#ad 4]]
 
 ###### ad 5

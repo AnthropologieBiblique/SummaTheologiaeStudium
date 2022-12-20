@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 7, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 7, a. 2#s.c.|Sed contra est quod dicit Petrus, [[Ac 15]], *fide purificans corda eorum*.]]
+![[LEO IIa-IIæ, q. 7, a. 2#s.c.|Sed contra est quod dicit Petrus, Act. XV, *fide purificans corda eorum*.]]
 ![[CERF IIa-IIæ, q. 7, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 7, a. 2#resp.|Respondeo dicendum quod impuritas uniuscuiusque rei consistit in hoc quod rebus vilioribus immiscetur, non enim dicitur argentum esse impurum ex permixtione auri, per quam melius redditur, sed ex permixtione plumbi vel stanni. Manifestum est autem quod rationalis creatura dignior est omnibus temporalibus et corporalibus creaturis. Et ideo impura redditur ex hoc quod temporalibus se subiicit per amorem. A qua quidem impuritate purificatur per contrarium motum, dum scilicet tendit in id quod est supra se, scilicet in Deum. In quo quidem motu primum principium est fides, *accedentem enim ad Deum oportet credere*, ut dicitur [[He 11]]. Et ideo primum principium purificationis cordis est fides, quae si perficiatur per caritatem formatam, perfectam purificationem causat.]]
+![[LEO IIa-IIæ, q. 7, a. 2#resp.|Respondeo dicendum quod impuritas uniuscuiusque rei consistit in hoc quod rebus vilioribus immiscetur, non enim dicitur argentum esse impurum ex permixtione auri, per quam melius redditur, sed ex permixtione plumbi vel stanni. Manifestum est autem quod rationalis creatura dignior est omnibus temporalibus et corporalibus creaturis. Et ideo impura redditur ex hoc quod temporalibus se subiicit per amorem. A qua quidem impuritate purificatur per contrarium motum, dum scilicet tendit in id quod est supra se, scilicet in Deum. In quo quidem motu primum principium est fides, *accedentem enim ad Deum oportet credere*, ut dicitur Heb. XI. Et ideo primum principium purificationis cordis est fides, quae si perficiatur per caritatem formatam, perfectam purificationem causat.]]
 ![[CERF IIa-IIæ, q. 7, a. 2#resp.]]
 
 ###### ad 1
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 7, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 7, a. 2#ad 2|Ad secundum dicendum quod fides etiam informis excludit quandam impuritatem sibi oppositam, scilicet impuritatem erroris, quae contingit ex hoc quod intellectus humanus inordinate inhaeret rebus se inferioribus, dum scilicet vult secundum rationes rerum sensibilium metiri divina. Sed quando per caritatem formatur, tunc nullam impuritatem secum compatitur, *quia universa delicta operit caritas*, ut dicitur [[Pr 10]].]]
+![[LEO IIa-IIæ, q. 7, a. 2#ad 2|Ad secundum dicendum quod fides etiam informis excludit quandam impuritatem sibi oppositam, scilicet impuritatem erroris, quae contingit ex hoc quod intellectus humanus inordinate inhaeret rebus se inferioribus, dum scilicet vult secundum rationes rerum sensibilium metiri divina. Sed quando per caritatem formatur, tunc nullam impuritatem secum compatitur, *quia universa delicta operit caritas*, ut dicitur Prov. X.]]
 ![[CERF IIa-IIæ, q. 7, a. 2#ad 2]]
 
 ###### ad 3

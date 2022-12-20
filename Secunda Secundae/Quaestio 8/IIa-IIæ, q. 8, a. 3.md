@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 8, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 8, a. 3#resp.|Respondeo dicendum quod, sicut dictum est, donum intellectus non solum se habet ad ea quae primo et principaliter cadunt sub fide, sed etiam ad omnia quae ad fidem ordinantur. Operationes autem bonae quendam ordinem ad fidem habent, nam fides per dilectionem operatur, ut apostolus dicit, ad [[Ga 5]]. Et ideo donum intellectus etiam ad quaedam operabilia se extendit, non quidem ut circa ea principaliter versetur; sed inquantum in agendis regulamur *rationibus aeternis, quibus conspiciendis et consulendis*, secundum Augustinum, XII de Trin., inhaeret superior ratio, quae dono intellectus perficitur.]]
+![[LEO IIa-IIæ, q. 8, a. 3#resp.|Respondeo dicendum quod, sicut dictum est, donum intellectus non solum se habet ad ea quae primo et principaliter cadunt sub fide, sed etiam ad omnia quae ad fidem ordinantur. Operationes autem bonae quendam ordinem ad fidem habent, nam fides per dilectionem operatur, ut apostolus dicit, ad Gal. V. Et ideo donum intellectus etiam ad quaedam operabilia se extendit, non quidem ut circa ea principaliter versetur; sed inquantum in agendis regulamur *rationibus aeternis, quibus conspiciendis et consulendis*, secundum Augustinum, XII de Trin., inhaeret superior ratio, quae dono intellectus perficitur.]]
 ![[CERF IIa-IIæ, q. 8, a. 3#resp.]]
 
 ###### ad 1

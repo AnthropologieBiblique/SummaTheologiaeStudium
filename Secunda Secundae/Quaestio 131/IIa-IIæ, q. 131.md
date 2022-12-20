@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 131#Prooemium|Deinde considerandum est de ambitione. Et circa hoc quaeruntur duo primo, utrum ambitio sit peccatum. Secundo, utrum opponatur magnanimitati per excessum.]]
-![[CERF IIa-IIæ, q. 131#Prooemium]]
+Deinde considerandum est de ambitione. Et circa hoc quaeruntur duo primo, utrum ambitio sit peccatum. Secundo, utrum opponatur magnanimitati per excessum.
 
 ![[IIa-IIæ, q. 131, a. 1#Articulus 1]]
 

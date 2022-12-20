@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 34, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 34, a. 1#arg. 2|Praeterea, in apocryphis Esdrae dicitur quod *omnia invocant veritatem, et benignantur in operibus eius*. Sed Deus est ipsa veritas, ut dicitur [[Jn 14]]. Ergo omnes diligunt Deum, et nullus eum odio habere potest.]]
+![[LEO IIa-IIæ, q. 34, a. 1#arg. 2|Praeterea, in apocryphis Esdrae dicitur quod *omnia invocant veritatem, et benignantur in operibus eius*. Sed Deus est ipsa veritas, ut dicitur Ioan. XIV. Ergo omnes diligunt Deum, et nullus eum odio habere potest.]]
 ![[CERF IIa-IIæ, q. 34, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 34, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 34, a. 1#s.c.|Sed contra est, quod dicitur in Psalm., *superbia eorum qui te oderunt ascendit semper*; et [[Jn 15]], *nunc autem et viderunt et oderunt me et patrem meum*.]]
+![[LEO IIa-IIæ, q. 34, a. 1#s.c.|Sed contra est, quod dicitur in Psalm., *superbia eorum qui te oderunt ascendit semper*; et Ioan. XV, *nunc autem et viderunt et oderunt me et patrem meum*.]]
 ![[CERF IIa-IIæ, q. 34, a. 1#s.c.]]
 
 ###### resp.

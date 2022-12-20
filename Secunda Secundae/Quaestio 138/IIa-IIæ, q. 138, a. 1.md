@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 138, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 138, a. 1#ad 2|Ad secundum dicendum quod voluptati corporali opponitur labor, et ideo res laboriosae tantum impediunt voluptates. Deliciosi autem dicuntur qui non possunt sustinere aliquos labores, nec aliquid quod voluptatem diminuat, unde dicitur [[Dt 28]], *tenera mulier et delicata, quae super terram ingredi non valebat, nec pedis vestigium figere, propter mollitiem*. Et ideo delicia quaedam mollities est. Sed mollities proprie respicit defectum delectationum, deliciae autem causam impeditivam delectationis, puta laborem vel aliquid huiusmodi.]]
+![[LEO IIa-IIæ, q. 138, a. 1#ad 2|Ad secundum dicendum quod voluptati corporali opponitur labor, et ideo res laboriosae tantum impediunt voluptates. Deliciosi autem dicuntur qui non possunt sustinere aliquos labores, nec aliquid quod voluptatem diminuat, unde dicitur Deut. XXVIII, *tenera mulier et delicata, quae super terram ingredi non valebat, nec pedis vestigium figere, propter mollitiem*. Et ideo delicia quaedam mollities est. Sed mollities proprie respicit defectum delectationum, deliciae autem causam impeditivam delectationis, puta laborem vel aliquid huiusmodi.]]
 ![[CERF IIa-IIæ, q. 138, a. 1#ad 2]]
 
 ###### ad 3

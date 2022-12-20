@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 68, a. 5#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 68, a. 5#resp.|Respondeo dicendum quod huius quaestionis veritas de facili ex praemissis potest haberi. Dictum est enim supra quod sicut vires appetitivae disponuntur per virtutes morales in comparatione ad regimen rationis, ita omnes vires animae disponuntur per dona in comparatione ad spiritum sanctum moventem. Spiritus autem sanctus habitat in nobis per caritatem, secundum illud [[Rm 5]], *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*, sicut et ratio nostra perficitur per prudentiam. Unde sicut virtutes morales connectuntur sibi invicem in prudentia, ita dona spiritus sancti connectuntur sibi invicem in caritate, ita scilicet quod qui caritatem habet, omnia dona spiritus sancti habet; quorum nullum sine caritate haberi potest.]]
+![[LEO Ia-IIæ, q. 68, a. 5#resp.|Respondeo dicendum quod huius quaestionis veritas de facili ex praemissis potest haberi. Dictum est enim supra quod sicut vires appetitivae disponuntur per virtutes morales in comparatione ad regimen rationis, ita omnes vires animae disponuntur per dona in comparatione ad spiritum sanctum moventem. Spiritus autem sanctus habitat in nobis per caritatem, secundum illud Rom. V, *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*, sicut et ratio nostra perficitur per prudentiam. Unde sicut virtutes morales connectuntur sibi invicem in prudentia, ita dona spiritus sancti connectuntur sibi invicem in caritate, ita scilicet quod qui caritatem habet, omnia dona spiritus sancti habet; quorum nullum sine caritate haberi potest.]]
 ![[CERF Ia-IIæ, q. 68, a. 5#resp.]]
 
 ###### ad 1

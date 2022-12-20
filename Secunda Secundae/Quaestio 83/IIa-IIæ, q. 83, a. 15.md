@@ -6,7 +6,7 @@ tags :
 ### Articulus 15
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 83, a. 15#arg. 1|Ad quintumdecimum sic proceditur. Videtur quod oratio non sit meritoria. Omne enim meritum procedit a gratia. Sed oratio praecedit gratiam, quia etiam ipsa gratia per orationem impetratur, secundum illud [[Lc 11]], *pater vester de caelo dabit spiritum bonum petentibus se*. Ergo oratio non est actus meritorius.]]
+![[LEO IIa-IIæ, q. 83, a. 15#arg. 1|Ad quintumdecimum sic proceditur. Videtur quod oratio non sit meritoria. Omne enim meritum procedit a gratia. Sed oratio praecedit gratiam, quia etiam ipsa gratia per orationem impetratur, secundum illud Luc. XI, *pater vester de caelo dabit spiritum bonum petentibus se*. Ergo oratio non est actus meritorius.]]
 ![[CERF IIa-IIæ, q. 83, a. 15#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 15#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 83, a. 15#arg. 3|Praeterea, oratio praecipue fidei innititur, secundum illud [[Jc 1]], *postulet autem in fide, nihil haesitans*. Fides autem non sufficit ad merendum, ut patet in his qui habent fidem informem. Ergo oratio non est actus meritorius.]]
+![[LEO IIa-IIæ, q. 83, a. 15#arg. 3|Praeterea, oratio praecipue fidei innititur, secundum illud Iac. I, *postulet autem in fide, nihil haesitans*. Fides autem non sufficit ad merendum, ut patet in his qui habent fidem informem. Ergo oratio non est actus meritorius.]]
 ![[CERF IIa-IIæ, q. 83, a. 15#arg. 3]]
 
 ###### s.c.

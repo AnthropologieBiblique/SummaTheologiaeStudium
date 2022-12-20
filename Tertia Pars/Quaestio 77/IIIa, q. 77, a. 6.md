@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 77, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 77, a. 6#s.c.|Sed contra est quod apostolus, [[1 Co 11]], loquens de hoc sacramento, dicit, *alius quidem esurit, alius autem ebrius est*, ubi dicit Glossa quod *notat illos qui, post celebrationem sacri mysterii et consecrationem panis et vini, suas oblationes vindicabant, et, aliis non communicantes, sibi solis sumebant, ita ut inde etiam inebriarentur*. Quod quidem non potest contingere si sacramentales species non nutrirent. Ergo species sacramentales nutriunt.]]
+![[LEO IIIa, q. 77, a. 6#s.c.|Sed contra est quod apostolus, I Cor. XI, loquens de hoc sacramento, dicit, *alius quidem esurit, alius autem ebrius est*, ubi dicit Glossa quod *notat illos qui, post celebrationem sacri mysterii et consecrationem panis et vini, suas oblationes vindicabant, et, aliis non communicantes, sibi solis sumebant, ita ut inde etiam inebriarentur*. Quod quidem non potest contingere si sacramentales species non nutrirent. Ergo species sacramentales nutriunt.]]
 ![[CERF IIIa, q. 77, a. 6#s.c.]]
 
 ###### resp.

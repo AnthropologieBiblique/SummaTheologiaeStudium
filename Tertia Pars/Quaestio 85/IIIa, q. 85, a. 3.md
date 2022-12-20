@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 85, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 85, a. 3#arg. 2|Praeterea, iustitia, cum sit virtus moralis, consistit in medio. Sed poenitentia non consistit in medio, sed in quodam excessu, secundum illud [[Jr 6]], *luctum unigeniti fac tibi, planctum amarum*. Ergo poenitentia non est species iustitiae.]]
+![[LEO IIIa, q. 85, a. 3#arg. 2|Praeterea, iustitia, cum sit virtus moralis, consistit in medio. Sed poenitentia non consistit in medio, sed in quodam excessu, secundum illud Ierem. VI, *luctum unigeniti fac tibi, planctum amarum*. Ergo poenitentia non est species iustitiae.]]
 ![[CERF IIIa, q. 85, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 85, a. 3#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 85, a. 3#arg. 4|Praeterea, super illud [[Lc 6]], *beati qui nunc fletis*, dicit Glossa, *ecce prudentia, per quam ostenditur quam haec terrena sint misera, et quam beata caelestia*. Sed flere est actus poenitentiae. Ergo poenitentia magis est prudentiae quam iustitiae.]]
+![[LEO IIIa, q. 85, a. 3#arg. 4|Praeterea, super illud Luc. VI, *beati qui nunc fletis*, dicit Glossa, *ecce prudentia, per quam ostenditur quam haec terrena sint misera, et quam beata caelestia*. Sed flere est actus poenitentiae. Ergo poenitentia magis est prudentiae quam iustitiae.]]
 ![[CERF IIIa, q. 85, a. 3#arg. 4]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 85, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 85, a. 3#resp.|Respondeo dicendum quod, sicut supra dictum est, poenitentia non habet quod sit virtus specialis ex hoc solo quod dolet de malo perpetrato, ad hoc enim sufficeret caritas, sed ex eo quod poenitens dolet de peccato commisso inquantum est offensa Dei, cum emendationis proposito. Emendatio autem offensae contra aliquem commissae fit non per solam cessationem offensae, sed exigitur ulterius quaedam recompensatio, quae habet locum in offensis in alterum commissis sicut et retributio, nisi quod recompensatio est ex parte eius qui offendit, ut puta cum satisfactione; retributio autem est ex parte eius in quem fuit offensa commissa. Utrumque autem ad materiam iustitiae pertinet, quia utrumque est commutatio quaedam. Unde manifestum est quod poenitentia, secundum quod est virtus, est pars iustitiae. Sciendum tamen quod, secundum philosophum, in V Ethic., dupliciter dicitur iustum, scilicet simpliciter, et secundum quid. Simpliciter quidem iustum est inter aequales, eo quod iustitia est aequalitas quaedam. Quod ipse vocat iustum politicum vel civile, eo quod omnes cives aequales sunt, quantum ad hoc quod immediate sunt sub principe, sicut liberi existentes. Iustum autem secundum quid dicitur quod est inter illos quorum unus est sub potestate alterius, sicut servus sub domino, filius sub patre, uxor sub viro. Et tale iustum consideratur in poenitentia. Unde poenitens recurrit ad Deum, cum emendationis proposito, sicut servus ad dominum, secundum illud Psalmi, *sicut oculi servorum in manibus dominorum suorum, ita oculi nostri ad dominum Deum nostrum, donec misereatur nostri*; et sicut filius ad patrem, secundum illud [[Lc 15]], *pater, peccavi in caelum et coram te*; et sicut uxor ad virum, secundum illud [[Jr 3]], *fornicata es cum amatoribus multis, tamen revertere ad me, dicit dominus*.]]
+![[LEO IIIa, q. 85, a. 3#resp.|Respondeo dicendum quod, sicut supra dictum est, poenitentia non habet quod sit virtus specialis ex hoc solo quod dolet de malo perpetrato, ad hoc enim sufficeret caritas, sed ex eo quod poenitens dolet de peccato commisso inquantum est offensa Dei, cum emendationis proposito. Emendatio autem offensae contra aliquem commissae fit non per solam cessationem offensae, sed exigitur ulterius quaedam recompensatio, quae habet locum in offensis in alterum commissis sicut et retributio, nisi quod recompensatio est ex parte eius qui offendit, ut puta cum satisfactione; retributio autem est ex parte eius in quem fuit offensa commissa. Utrumque autem ad materiam iustitiae pertinet, quia utrumque est commutatio quaedam. Unde manifestum est quod poenitentia, secundum quod est virtus, est pars iustitiae. Sciendum tamen quod, secundum philosophum, in V Ethic., dupliciter dicitur iustum, scilicet simpliciter, et secundum quid. Simpliciter quidem iustum est inter aequales, eo quod iustitia est aequalitas quaedam. Quod ipse vocat iustum politicum vel civile, eo quod omnes cives aequales sunt, quantum ad hoc quod immediate sunt sub principe, sicut liberi existentes. Iustum autem secundum quid dicitur quod est inter illos quorum unus est sub potestate alterius, sicut servus sub domino, filius sub patre, uxor sub viro. Et tale iustum consideratur in poenitentia. Unde poenitens recurrit ad Deum, cum emendationis proposito, sicut servus ad dominum, secundum illud Psalmi, *sicut oculi servorum in manibus dominorum suorum, ita oculi nostri ad dominum Deum nostrum, donec misereatur nostri*; et sicut filius ad patrem, secundum illud Luc. XV, *pater, peccavi in caelum et coram te*; et sicut uxor ad virum, secundum illud Ierem. III, *fornicata es cum amatoribus multis, tamen revertere ad me, dicit dominus*.]]
 ![[CERF IIIa, q. 85, a. 3#resp.]]
 
 ###### ad 1

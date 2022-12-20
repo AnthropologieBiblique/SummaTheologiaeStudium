@@ -6,7 +6,7 @@ tags :
 ### Articulus 9
 
 ###### arg. 1
-![[LEO IIIa, q. 80, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod non habentes usum rationis non debeant hoc sacramentum accipere. Requiritur enim quod aliquis ad hoc sacramentum cum devotione et praecedenti sui examinatione accedat, secundum illud [[1 Co 11]], *probet autem seipsum homo, et sic de pane illo edat et de calice bibat*. Sed hoc non potest esse in his qui carent usu rationis. Ergo non debet eis hoc sacramentum dari.]]
+![[LEO IIIa, q. 80, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod non habentes usum rationis non debeant hoc sacramentum accipere. Requiritur enim quod aliquis ad hoc sacramentum cum devotione et praecedenti sui examinatione accedat, secundum illud I Cor. XI, *probet autem seipsum homo, et sic de pane illo edat et de calice bibat*. Sed hoc non potest esse in his qui carent usu rationis. Ergo non debet eis hoc sacramentum dari.]]
 ![[CERF IIIa, q. 80, a. 9#arg. 1]]
 
 ###### arg. 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 80, a. 9#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 80, a. 9#ad 3|Ad tertium dicendum quod eadem ratio est de pueris recenter natis et de amentibus qui nunquam habuerunt usum rationis. Unde talibus non sunt sacra mysteria danda, quamvis quidam Graeci contrarium faciant, propter hoc quod Dionysius, II cap. Eccles. Hier., dicit baptizatis esse sacram communionem dandam, non intelligentes quod Dionysius ibi loquitur de Baptismo adultorum. Nec tamen per hoc aliquod detrimentum vitae patiuntur, propter hoc quod dominus dicit, [[Jn 6]], *nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis*, quia, sicut Augustinus scribit Bonifacio, *tunc unusquisque fidelium corporis et sanguinis domini particeps fit, scilicet spiritualiter, quando in Baptismate membrum corporis Christi efficitur*. Sed quando iam pueri incipiunt aliqualem usum rationis habere, ut possint devotionem concipere huius sacramenti, tunc potest eis hoc sacramentum conferri.]]
+![[LEO IIIa, q. 80, a. 9#ad 3|Ad tertium dicendum quod eadem ratio est de pueris recenter natis et de amentibus qui nunquam habuerunt usum rationis. Unde talibus non sunt sacra mysteria danda, quamvis quidam Graeci contrarium faciant, propter hoc quod Dionysius, II cap. Eccles. Hier., dicit baptizatis esse sacram communionem dandam, non intelligentes quod Dionysius ibi loquitur de Baptismo adultorum. Nec tamen per hoc aliquod detrimentum vitae patiuntur, propter hoc quod dominus dicit, Ioan. VI, *nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis*, quia, sicut Augustinus scribit Bonifacio, *tunc unusquisque fidelium corporis et sanguinis domini particeps fit, scilicet spiritualiter, quando in Baptismate membrum corporis Christi efficitur*. Sed quando iam pueri incipiunt aliqualem usum rationis habere, ut possint devotionem concipere huius sacramenti, tunc potest eis hoc sacramentum conferri.]]
 ![[CERF IIIa, q. 80, a. 9#ad 3]]
 

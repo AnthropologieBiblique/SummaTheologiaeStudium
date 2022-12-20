@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 159, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 159, a. 1#arg. 2|Praeterea, [[Jr 6]] dicitur, *crudelis est, et non miserebitur*, et sic videtur quod crudelitas opponatur misericordiae. Sed misericordia non est idem clementiae, ut supra dictum est. Ergo crudelitas non opponitur clementiae.]]
+![[LEO IIa-IIæ, q. 159, a. 1#arg. 2|Praeterea, Ierem. VI dicitur, *crudelis est, et non miserebitur*, et sic videtur quod crudelitas opponatur misericordiae. Sed misericordia non est idem clementiae, ut supra dictum est. Ergo crudelitas non opponitur clementiae.]]
 ![[CERF IIa-IIæ, q. 159, a. 1#arg. 2]]
 
 ###### arg. 3

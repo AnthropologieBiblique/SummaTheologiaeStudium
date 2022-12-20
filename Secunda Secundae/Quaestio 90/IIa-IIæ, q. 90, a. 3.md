@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 90, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 90, a. 3#arg. 3|Praeterea, duplex est adiurationis modus, ut ex supradictis patet. Unus quidem per modum deprecationis, quo non possumus uti ad irrationalem creaturam, quae non est domina sui actus. Alia autem est adiuratio per modum compulsionis, qua etiam, ut videtur, ad eam uti non possumus; quia non est nostrum creaturis irrationalibus imperare, sed solum illius de quo dicitur, [[Mt 8]], quia venti et mare obediunt ei. Ergo nullo modo, ut videtur, licet uti adiuratione ad irrationales creaturas.]]
+![[LEO IIa-IIæ, q. 90, a. 3#arg. 3|Praeterea, duplex est adiurationis modus, ut ex supradictis patet. Unus quidem per modum deprecationis, quo non possumus uti ad irrationalem creaturam, quae non est domina sui actus. Alia autem est adiuratio per modum compulsionis, qua etiam, ut videtur, ad eam uti non possumus; quia non est nostrum creaturis irrationalibus imperare, sed solum illius de quo dicitur, Matth. VIII, quia venti et mare obediunt ei. Ergo nullo modo, ut videtur, licet uti adiuratione ad irrationales creaturas.]]
 ![[CERF IIa-IIæ, q. 90, a. 3#arg. 3]]
 
 ###### s.c.

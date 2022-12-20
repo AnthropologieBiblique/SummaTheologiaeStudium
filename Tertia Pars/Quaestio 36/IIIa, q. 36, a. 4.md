@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 36, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 36, a. 4#arg. 2|Praeterea, [[Si 20]] dicitur, *sapientia abscondita, et thesaurus invisus, quae utilitas in utrisque?* Sed Christus a principio conceptionis suae plene habuit sapientiae et gratiae thesaurum. Nisi ergo hanc plenitudinem manifestasset per opera et verba, fuisset frustra ei data sapientia et gratia. Quod est inconveniens, quia *Deus et natura nihil frustra facit*, ut dicitur in I de caelo.]]
+![[LEO IIIa, q. 36, a. 4#arg. 2|Praeterea, Eccli. XX dicitur, *sapientia abscondita, et thesaurus invisus, quae utilitas in utrisque?* Sed Christus a principio conceptionis suae plene habuit sapientiae et gratiae thesaurum. Nisi ergo hanc plenitudinem manifestasset per opera et verba, fuisset frustra ei data sapientia et gratia. Quod est inconveniens, quia *Deus et natura nihil frustra facit*, ut dicitur in I de caelo.]]
 ![[CERF IIIa, q. 36, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -30,10 +30,10 @@ tags :
 ![[CERF IIIa, q. 36, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 36, a. 4#ad 2|Ad secundum dicendum quod, licet sapientia abscondita inutilis sit, non tamen ad sapientem pertinet ut quolibet tempore manifestet seipsum, sed tempore congruo, dicitur enim [[Si 20]], *est tacens non habens sensum loquelae, et est tacens sciens tempus apti temporis*. Sic ergo sapientia Christo data non fuit inutilis, quia seipsam tempore congruo manifestavit. Et hoc ipsum quod tempore congruo abscondebatur, est sapientiae indicium.]]
+![[LEO IIIa, q. 36, a. 4#ad 2|Ad secundum dicendum quod, licet sapientia abscondita inutilis sit, non tamen ad sapientem pertinet ut quolibet tempore manifestet seipsum, sed tempore congruo, dicitur enim Eccli. XX, *est tacens non habens sensum loquelae, et est tacens sciens tempus apti temporis*. Sic ergo sapientia Christo data non fuit inutilis, quia seipsam tempore congruo manifestavit. Et hoc ipsum quod tempore congruo abscondebatur, est sapientiae indicium.]]
 ![[CERF IIIa, q. 36, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 36, a. 4#ad 3|Ad tertium dicendum quod liber ille de infantia salvatoris est apocryphus. Et Chrysostomus, super Ioan., dicit quod Christus non fecit miracula antequam aquam converteret in vinum, secundum illud quod dicitur [[Jn 2]], *hoc fecit initium signorum Iesus. Si enim secundum primam aetatem miracula fecisset, non indiguissent Israelitae alio manifestante eum, cum tamen Ioannes Baptista dicat*, [[Jn 2]], *ut manifestetur Israeli, propterea veni in aqua baptizans. Decenter autem non incoepit facere signa in prima aetate. Aestimassent enim phantasiam esse incarnationem, et ante opportunum tempus eum cruci tradidissent, livore liquefacti*.]]
+![[LEO IIIa, q. 36, a. 4#ad 3|Ad tertium dicendum quod liber ille de infantia salvatoris est apocryphus. Et Chrysostomus, super Ioan., dicit quod Christus non fecit miracula antequam aquam converteret in vinum, secundum illud quod dicitur Ioan. II, *hoc fecit initium signorum Iesus. Si enim secundum primam aetatem miracula fecisset, non indiguissent Israelitae alio manifestante eum, cum tamen Ioannes Baptista dicat*, Ioan. I, *ut manifestetur Israeli, propterea veni in aqua baptizans. Decenter autem non incoepit facere signa in prima aetate. Aestimassent enim phantasiam esse incarnationem, et ante opportunum tempus eum cruci tradidissent, livore liquefacti*.]]
 ![[CERF IIIa, q. 36, a. 4#ad 3]]
 

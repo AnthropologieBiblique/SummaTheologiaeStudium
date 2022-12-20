@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 67, a. 8#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 67, a. 8#ad 2|Ad secundum dicendum quod, sicut est alia generatio spiritualis a carnali, ita etiam debet esse alia disciplina, secundum illud [[He 12]], *patres quidem carnis nostrae habuimus eruditores, et reverebamur eos. Non multo magis obtemperabimus patri spirituum, et vivemus?* Et ideo alius debet esse pater spiritualis a patre carnali, nisi necessitas contrarium exigat.]]
+![[LEO IIIa, q. 67, a. 8#ad 2|Ad secundum dicendum quod, sicut est alia generatio spiritualis a carnali, ita etiam debet esse alia disciplina, secundum illud Heb. XII, *patres quidem carnis nostrae habuimus eruditores, et reverebamur eos. Non multo magis obtemperabimus patri spirituum, et vivemus?* Et ideo alius debet esse pater spiritualis a patre carnali, nisi necessitas contrarium exigat.]]
 ![[CERF IIIa, q. 67, a. 8#ad 2]]
 
 ###### ad 3

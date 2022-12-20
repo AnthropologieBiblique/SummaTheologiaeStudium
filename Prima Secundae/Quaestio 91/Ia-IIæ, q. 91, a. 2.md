@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 91, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 91, a. 2#s.c.|Sed contra est quod, [[Rm 2]], super illud, *cum gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt*, dicit Glossa, *etsi non habent legem scriptam, habent tamen legem naturalem, qua quilibet intelligit et sibi conscius est quid sit bonum et quid malum*.]]
+![[LEO Ia-IIæ, q. 91, a. 2#s.c.|Sed contra est quod, Rom. II, super illud, *cum gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt*, dicit Glossa, *etsi non habent legem scriptam, habent tamen legem naturalem, qua quilibet intelligit et sibi conscius est quid sit bonum et quid malum*.]]
 ![[CERF Ia-IIæ, q. 91, a. 2#s.c.]]
 
 ###### resp.

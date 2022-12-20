@@ -10,15 +10,15 @@ tags :
 ![[CERF IIa-IIæ, q. 10, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 10, a. 3#arg. 2|Praeterea, illud quod diminuit vel excusat peccatum non videtur esse maximum peccatum. Sed infidelitas excusat vel diminuit peccatum, dicit enim apostolus, [[1 Tm 1]], *prius fui blasphemus et persecutor et contumeliosus, sed misericordiam consecutus sum, quia ignorans feci in incredulitate*. Ergo infidelitas non est maximum peccatum.]]
+![[LEO IIa-IIæ, q. 10, a. 3#arg. 2|Praeterea, illud quod diminuit vel excusat peccatum non videtur esse maximum peccatum. Sed infidelitas excusat vel diminuit peccatum, dicit enim apostolus, I ad Tim. I, *prius fui blasphemus et persecutor et contumeliosus, sed misericordiam consecutus sum, quia ignorans feci in incredulitate*. Ergo infidelitas non est maximum peccatum.]]
 ![[CERF IIa-IIæ, q. 10, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 10, a. 3#arg. 3|Praeterea, maiori peccato debetur maior poena, secundum illud [[Dt 25]], *pro mensura peccati erit et plagarum modus*. Sed maior poena debetur fidelibus peccantibus quam infidelibus, secundum illud ad [[He 10]], *quanto magis putatis deteriora mereri supplicia qui filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est?* Ergo infidelitas non est maximum peccatum.]]
+![[LEO IIa-IIæ, q. 10, a. 3#arg. 3|Praeterea, maiori peccato debetur maior poena, secundum illud Deut. XXV, *pro mensura peccati erit et plagarum modus*. Sed maior poena debetur fidelibus peccantibus quam infidelibus, secundum illud ad Heb. X, *quanto magis putatis deteriora mereri supplicia qui filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est?* Ergo infidelitas non est maximum peccatum.]]
 ![[CERF IIa-IIæ, q. 10, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 10, a. 3#s.c.|Sed contra est quod Augustinus dicit, exponens illud [[Jn 15]], *si non venissem, et locutus eis non fuissem, peccatum non haberent, magnum, inquit, quoddam peccatum sub generali nomine vult intelligi. Hoc enim est peccatum, scilicet infidelitatis, quo tenentur cuncta peccata*. Infidelitas ergo est maximum omnium peccatorum.]]
+![[LEO IIa-IIæ, q. 10, a. 3#s.c.|Sed contra est quod Augustinus dicit, exponens illud Ioan. XV, *si non venissem, et locutus eis non fuissem, peccatum non haberent, magnum, inquit, quoddam peccatum sub generali nomine vult intelligi. Hoc enim est peccatum, scilicet infidelitatis, quo tenentur cuncta peccata*. Infidelitas ergo est maximum omnium peccatorum.]]
 ![[CERF IIa-IIæ, q. 10, a. 3#s.c.]]
 
 ###### resp.

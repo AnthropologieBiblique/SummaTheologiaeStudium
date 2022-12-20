@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 7, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 7, a. 5#s.c.|Sed contra est quod dicitur [[Is 4]], *apprehendent septem mulieres virum unum*, Glossa, *idest, septem dona spiritus sancti Christum*.]]
+![[LEO IIIa, q. 7, a. 5#s.c.|Sed contra est quod dicitur Isaiae IV, *apprehendent septem mulieres virum unum*, Glossa, *idest, septem dona spiritus sancti Christum*.]]
 ![[CERF IIIa, q. 7, a. 5#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 7, a. 5#resp.|Respondeo dicendum quod, sicut in secunda parte dictum est, dona proprie sunt quaedam perfectiones potentiarum animae secundum quod sunt natae moveri a spiritu sancto. Manifestum est autem quod anima Christi perfectissime a spiritu sancto movebatur secundum illud [[Lc 4]], *Iesus, plenus spiritu sancto, regressus est a Iordane, et agebatur a spiritu in desertum*. Unde manifestum est quod in Christo fuerunt excellentissime dona.]]
+![[LEO IIIa, q. 7, a. 5#resp.|Respondeo dicendum quod, sicut in secunda parte dictum est, dona proprie sunt quaedam perfectiones potentiarum animae secundum quod sunt natae moveri a spiritu sancto. Manifestum est autem quod anima Christi perfectissime a spiritu sancto movebatur secundum illud Luc. IV, *Iesus, plenus spiritu sancto, regressus est a Iordane, et agebatur a spiritu in desertum*. Unde manifestum est quod in Christo fuerunt excellentissime dona.]]
 ![[CERF IIIa, q. 7, a. 5#resp.]]
 
 ###### ad 1

@@ -10,19 +10,19 @@ tags :
 ![[CERF IIIa, q. 36, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 36, a. 1#arg. 2|Praeterea, [[1 Tm 1]] dicitur, *Christus in hunc mundum venit peccatores salvos facere*. Sed hoc non fit nisi inquantum eis gratia Christi manifestatur, secundum illud [[Tt 2]], *apparuit gratia salvatoris nostri Dei omnibus hominibus, erudiens nos ut, abnegantes impietatem et saecularia desideria, sobrie et pie et iuste vivamus in hoc saeculo*. Ergo videtur quod Christi nativitas debuerit esse omnibus manifesta.]]
+![[LEO IIIa, q. 36, a. 1#arg. 2|Praeterea, I ad Tim. I dicitur, *Christus in hunc mundum venit peccatores salvos facere*. Sed hoc non fit nisi inquantum eis gratia Christi manifestatur, secundum illud Tit. II, *apparuit gratia salvatoris nostri Dei omnibus hominibus, erudiens nos ut, abnegantes impietatem et saecularia desideria, sobrie et pie et iuste vivamus in hoc saeculo*. Ergo videtur quod Christi nativitas debuerit esse omnibus manifesta.]]
 ![[CERF IIIa, q. 36, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 36, a. 1#arg. 3|Praeterea, Deus super omnia pronior est ad miserendum, secundum illud Psalmi, *miserationes eius super omnia opera eius*. Sed in secundo adventu, quo iustitias iudicabit, veniet omnibus manifestus, secundum illud [[Mt 24]], *sicut fulgur exit ab oriente et paret usque in occidentem, ita erit adventus filii hominis*. Ergo multo magis primus, quo natus est in mundo secundum carnem, debuit omnibus esse manifestus.]]
+![[LEO IIIa, q. 36, a. 1#arg. 3|Praeterea, Deus super omnia pronior est ad miserendum, secundum illud Psalmi, *miserationes eius super omnia opera eius*. Sed in secundo adventu, quo iustitias iudicabit, veniet omnibus manifestus, secundum illud Matth. XXIV, *sicut fulgur exit ab oriente et paret usque in occidentem, ita erit adventus filii hominis*. Ergo multo magis primus, quo natus est in mundo secundum carnem, debuit omnibus esse manifestus.]]
 ![[CERF IIIa, q. 36, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 36, a. 1#s.c.|Sed contra est quod dicitur [[Is 45]], *tu es Deus absconditus, sanctus Israel, salvator*. Et [[Is 45]], *quasi absconditus est vultus eius et despectus*.]]
+![[LEO IIIa, q. 36, a. 1#s.c.|Sed contra est quod dicitur Isaiae XLV, *tu es Deus absconditus, sanctus Israel, salvator*. Et Isaiae LIII, *quasi absconditus est vultus eius et despectus*.]]
 ![[CERF IIIa, q. 36, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 36, a. 1#resp.|Respondeo dicendum quod nativitas Christi non debuit omnibus communiter esse manifesta. Primo quidem, quia per hoc impedita fuisset humana redemptio, quae per crucem eius peracta est, quia, ut dicitur I ad Cor. II, *si cognovissent, nunquam dominum gloriae crucifixissent*. Secundo, quia hoc diminuisset meritum fidei, per quam venerat homines iustificare, secundum illud [[Rm 3]], *iustitia Dei per fidem Iesu Christi*. Si enim manifestis indiciis, Christo nascente, eius nativitas omnibus appareret, iam tolleretur ratio fidei, quae est *argumentum non apparentium*, ut dicitur [[He 11]]. Tertio, quia per hoc venisset in dubium veritas humanitatis ipsius. Unde Augustinus dicit, in epistola ad Volusianum, *si nullas ex parvulo in iuventutem mutaret aetates, nullos cibos, nullos caperet somnos, nonne opinionem confirmaret erroris, nec hominem verum ullo modo suscepisse crederetur, et, dum omnia mirabiliter facit, auferret quod misericorditer fecit?*]]
+![[LEO IIIa, q. 36, a. 1#resp.|Respondeo dicendum quod nativitas Christi non debuit omnibus communiter esse manifesta. Primo quidem, quia per hoc impedita fuisset humana redemptio, quae per crucem eius peracta est, quia, ut dicitur I ad Cor. II, *si cognovissent, nunquam dominum gloriae crucifixissent*. Secundo, quia hoc diminuisset meritum fidei, per quam venerat homines iustificare, secundum illud Rom. III, *iustitia Dei per fidem Iesu Christi*. Si enim manifestis indiciis, Christo nascente, eius nativitas omnibus appareret, iam tolleretur ratio fidei, quae est *argumentum non apparentium*, ut dicitur Heb. XI. Tertio, quia per hoc venisset in dubium veritas humanitatis ipsius. Unde Augustinus dicit, in epistola ad Volusianum, *si nullas ex parvulo in iuventutem mutaret aetates, nullos cibos, nullos caperet somnos, nonne opinionem confirmaret erroris, nec hominem verum ullo modo suscepisse crederetur, et, dum omnia mirabiliter facit, auferret quod misericorditer fecit?*]]
 ![[CERF IIIa, q. 36, a. 1#resp.]]
 
 ###### ad 1

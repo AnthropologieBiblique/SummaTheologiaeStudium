@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 2, a. 5#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 2, a. 5#resp.|Respondeo dicendum quod Christus dicitur homo univoce cum hominibus aliis, utpote eiusdem speciei existens, secundum illud apostoli, [[Ph 2]], *in similitudinem hominum factus*. Pertinet autem ad rationem speciei humanae quod anima corpori uniatur, non enim forma constituit speciem nisi per hoc quod sit actus materiae; et hoc est ad quod generatio terminatur, per quam natura speciem intendit. Unde necesse est dicere quod in Christo fuerit anima unita corpori, et contrarium est haereticum, utpote derogans veritati humanitatis Christi.]]
+![[LEO IIIa, q. 2, a. 5#resp.|Respondeo dicendum quod Christus dicitur homo univoce cum hominibus aliis, utpote eiusdem speciei existens, secundum illud apostoli, Philipp. II, *in similitudinem hominum factus*. Pertinet autem ad rationem speciei humanae quod anima corpori uniatur, non enim forma constituit speciem nisi per hoc quod sit actus materiae; et hoc est ad quod generatio terminatur, per quam natura speciem intendit. Unde necesse est dicere quod in Christo fuerit anima unita corpori, et contrarium est haereticum, utpote derogans veritati humanitatis Christi.]]
 ![[CERF IIIa, q. 2, a. 5#resp.]]
 
 ###### ad 1

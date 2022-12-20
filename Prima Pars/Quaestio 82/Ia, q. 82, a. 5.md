@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia, q. 82, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod irascibilis et concupiscibilis distingui debeant in appetitu superiori, qui est voluntas. Vis enim concupiscibilis dicitur a concupiscendo; et irascibilis ab irascendo. Sed aliqua concupiscentia est quae non potest pertinere ad appetitum sensitivum, sed solum ad intellectivum, qui est voluntas; sicut concupiscentia sapientiae, de qua dicitur [[Sg 6]], *concupiscentia sapientiae perducit ad regnum perpetuum*. Est etiam quaedam ira quae non potest pertinere ad appetitum sensitivum, sed intellectivum tantum; sicut cum irascimur contra vitia. Unde et Hieronymus, super Matth., monet ut *odium vitiorum possideamus in irascibili*. Ergo irascibilis et concupiscibilis distingui debent in appetitu intellectivo, sicut et in sensitivo.]]
+![[LEO Ia, q. 82, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod irascibilis et concupiscibilis distingui debeant in appetitu superiori, qui est voluntas. Vis enim concupiscibilis dicitur a concupiscendo; et irascibilis ab irascendo. Sed aliqua concupiscentia est quae non potest pertinere ad appetitum sensitivum, sed solum ad intellectivum, qui est voluntas; sicut concupiscentia sapientiae, de qua dicitur Sap. VI, *concupiscentia sapientiae perducit ad regnum perpetuum*. Est etiam quaedam ira quae non potest pertinere ad appetitum sensitivum, sed intellectivum tantum; sicut cum irascimur contra vitia. Unde et Hieronymus, super Matth., monet ut *odium vitiorum possideamus in irascibili*. Ergo irascibilis et concupiscibilis distingui debent in appetitu intellectivo, sicut et in sensitivo.]]
 ![[CERF Ia, q. 82, a. 5#arg. 1]]
 
 ###### arg. 2

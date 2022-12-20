@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 45, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 45, a. 5#arg. 2|Praeterea, sapientis est ordinare; ut philosophus dicit, in principio Metaphys. Et [[Jc 3]] dicitur quod est iudicans sine simulatione. Sed non omnium habentium gratiam est de aliis iudicare aut alios ordinare, sed solum praelatorum. Ergo non omnium habentium gratiam est habere sapientiam.]]
+![[LEO IIa-IIæ, q. 45, a. 5#arg. 2|Praeterea, sapientis est ordinare; ut philosophus dicit, in principio Metaphys. Et Iac. III dicitur quod est iudicans sine simulatione. Sed non omnium habentium gratiam est de aliis iudicare aut alios ordinare, sed solum praelatorum. Ergo non omnium habentium gratiam est habere sapientiam.]]
 ![[CERF IIa-IIæ, q. 45, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 45, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 45, a. 5#s.c.|Sed contra est quod quicumque qui est sine peccato mortali diligitur a Deo, quia caritatem habet, qua Deum diligit; Deus autem diligentes se diligit, ut dicitur [[Pr 8]]. Sed [[Sg 7]] dicitur quod *neminem diligit Deus nisi eum qui cum sapientia inhabitat*. Ergo in omnibus habentibus gratiam, sine peccato mortali existentibus, est sapientia.]]
+![[LEO IIa-IIæ, q. 45, a. 5#s.c.|Sed contra est quod quicumque qui est sine peccato mortali diligitur a Deo, quia caritatem habet, qua Deum diligit; Deus autem diligentes se diligit, ut dicitur Prov. VIII. Sed Sap. VII dicitur quod *neminem diligit Deus nisi eum qui cum sapientia inhabitat*. Ergo in omnibus habentibus gratiam, sine peccato mortali existentibus, est sapientia.]]
 ![[CERF IIa-IIæ, q. 45, a. 5#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 45, a. 5#resp.|Respondeo dicendum quod sapientia de qua loquimur, sicut dictum est, importat quandam rectitudinem iudicii circa divina et conspicienda et consulenda. Et quantum ad utrumque, ex unione ad divina secundum diversos gradus aliqui sapientiam sortiuntur. Quidam enim tantum sortiuntur de recto iudicio, tam in contemplatione divinorum quam etiam in ordinatione rerum humanarum secundum divinas regulas, quantum est necessarium ad salutem. Et hoc nulli deest sine peccato mortali existenti per gratiam gratum facientem, quia si natura non deficit in necessariis, multo minus gratia. Unde dicitur [[1 Jn 2]], *unctio docet vos de omnibus*. Quidam autem altiori gradu percipiunt sapientiae donum, et quantum ad contemplationem divinorum, inquantum scilicet altiora quaedam mysteria et cognoscunt et aliis manifestare possunt; et etiam quantum ad directionem humanorum secundum regulas divinas, inquantum possunt secundum eas non solum seipsos, sed etiam alios ordinare. Et iste gradus sapientiae non est communis omnibus habentibus gratiam gratum facientem, sed magis pertinet ad gratias gratis datas, quas spiritus sanctus distribuit prout vult, secundum illud I ad Cor. XII, *alii datur per spiritum sermo sapientiae,* et cetera.]]
+![[LEO IIa-IIæ, q. 45, a. 5#resp.|Respondeo dicendum quod sapientia de qua loquimur, sicut dictum est, importat quandam rectitudinem iudicii circa divina et conspicienda et consulenda. Et quantum ad utrumque, ex unione ad divina secundum diversos gradus aliqui sapientiam sortiuntur. Quidam enim tantum sortiuntur de recto iudicio, tam in contemplatione divinorum quam etiam in ordinatione rerum humanarum secundum divinas regulas, quantum est necessarium ad salutem. Et hoc nulli deest sine peccato mortali existenti per gratiam gratum facientem, quia si natura non deficit in necessariis, multo minus gratia. Unde dicitur I Ioan. II, *unctio docet vos de omnibus*. Quidam autem altiori gradu percipiunt sapientiae donum, et quantum ad contemplationem divinorum, inquantum scilicet altiora quaedam mysteria et cognoscunt et aliis manifestare possunt; et etiam quantum ad directionem humanorum secundum regulas divinas, inquantum possunt secundum eas non solum seipsos, sed etiam alios ordinare. Et iste gradus sapientiae non est communis omnibus habentibus gratiam gratum facientem, sed magis pertinet ad gratias gratis datas, quas spiritus sanctus distribuit prout vult, secundum illud I ad Cor. XII, *alii datur per spiritum sermo sapientiae,* et cetera.]]
 ![[CERF IIa-IIæ, q. 45, a. 5#resp.]]
 
 ###### ad 1

@@ -10,19 +10,19 @@ tags :
 ![[CERF Ia-IIæ, q. 79, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 79, a. 4#arg. 2|Praeterea, [[Sg 1]] dicitur quod *Deus non delectatur in perditione impiorum*. Videretur autem in eorum perditione delectari, si eorum excaecationem in bonum eorum non converteret, sicut medicus videretur delectari in afflictione infirmi, si medicinam amaram, quam infirmo propinat, ad eius sanitatem non ordinaret. Ergo Deus excaecationem convertit in bonum excaecatorum.]]
+![[LEO Ia-IIæ, q. 79, a. 4#arg. 2|Praeterea, Sap. I dicitur quod *Deus non delectatur in perditione impiorum*. Videretur autem in eorum perditione delectari, si eorum excaecationem in bonum eorum non converteret, sicut medicus videretur delectari in afflictione infirmi, si medicinam amaram, quam infirmo propinat, ad eius sanitatem non ordinaret. Ergo Deus excaecationem convertit in bonum excaecatorum.]]
 ![[CERF Ia-IIæ, q. 79, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 79, a. 4#arg. 3|*Praeterea, Deus non est personarum acceptor*, ut dicitur [[Ac 10]]. Sed quorundam excaecationem ordinat ad eorum salutem, sicut quorundam Iudaeorum, qui excaecati sunt ut Christo non crederent, et non credentes occiderent, et postmodum compuncti converterentur, sicut de quibusdam legitur [[Ac 10]]; ut patet per Augustinum, in libro de quaest. Evang. Ergo Deus omnium excaecationem convertit in eorum salutem.]]
+![[LEO Ia-IIæ, q. 79, a. 4#arg. 3|*Praeterea, Deus non est personarum acceptor*, ut dicitur Act. X. Sed quorundam excaecationem ordinat ad eorum salutem, sicut quorundam Iudaeorum, qui excaecati sunt ut Christo non crederent, et non credentes occiderent, et postmodum compuncti converterentur, sicut de quibusdam legitur Act. II; ut patet per Augustinum, in libro de quaest. Evang. Ergo Deus omnium excaecationem convertit in eorum salutem.]]
 ![[CERF Ia-IIæ, q. 79, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 79, a. 4#s.c.|Sed contra, non sunt facienda mala ut veniant bona, ut dicitur [[Rm 3]]. Sed excaecatio est malum. Ergo Deus non excaecat aliquos propter eorum bonum.]]
+![[LEO Ia-IIæ, q. 79, a. 4#s.c.|Sed contra, non sunt facienda mala ut veniant bona, ut dicitur Rom. III. Sed excaecatio est malum. Ergo Deus non excaecat aliquos propter eorum bonum.]]
 ![[CERF Ia-IIæ, q. 79, a. 4#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 79, a. 4#resp.|Respondeo dicendum quod excaecatio est quoddam praeambulum ad peccatum. Peccatum autem ad duo ordinatur, ad unum quidem per se, scilicet ad damnationem; ad aliud autem ex misericordi Dei providentia, scilicet ad sanationem, inquantum Deus permittit aliquos cadere in peccatum, ut peccatum suum agnoscentes, humilientur et convertantur, sicut Augustinus dicit, in libro de natura et gratia. Unde et excaecatio ex sui natura ordinatur ad damnationem eius qui excaecatur, propter quod etiam ponitur reprobationis effectus, sed ex divina misericordia excaecatio ad tempus ordinatur medicinaliter ad salutem eorum qui excaecantur. Sed haec misericordia non omnibus impenditur excaecatis, *sed praedestinatis solum, quibus omnia cooperantur in bonum*, sicut dicitur [[Rm 8]]. Unde quantum ad quosdam, excaecatio ordinatur ad sanationem, quantum autem ad alios, ad damnationem, ut Augustinus dicit, in III de quaest. Evang.]]
+![[LEO Ia-IIæ, q. 79, a. 4#resp.|Respondeo dicendum quod excaecatio est quoddam praeambulum ad peccatum. Peccatum autem ad duo ordinatur, ad unum quidem per se, scilicet ad damnationem; ad aliud autem ex misericordi Dei providentia, scilicet ad sanationem, inquantum Deus permittit aliquos cadere in peccatum, ut peccatum suum agnoscentes, humilientur et convertantur, sicut Augustinus dicit, in libro de natura et gratia. Unde et excaecatio ex sui natura ordinatur ad damnationem eius qui excaecatur, propter quod etiam ponitur reprobationis effectus, sed ex divina misericordia excaecatio ad tempus ordinatur medicinaliter ad salutem eorum qui excaecantur. Sed haec misericordia non omnibus impenditur excaecatis, *sed praedestinatis solum, quibus omnia cooperantur in bonum*, sicut dicitur Rom. VIII. Unde quantum ad quosdam, excaecatio ordinatur ad sanationem, quantum autem ad alios, ad damnationem, ut Augustinus dicit, in III de quaest. Evang.]]
 ![[CERF Ia-IIæ, q. 79, a. 4#resp.]]
 
 ###### ad 1

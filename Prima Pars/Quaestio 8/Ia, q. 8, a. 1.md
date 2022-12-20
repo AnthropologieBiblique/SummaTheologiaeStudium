@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 8, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 8, a. 1#s.c.|Sed contra, ubicumque operatur aliquid, ibi est. Sed Deus operatur in omnibus, secundum illud [[Is 26]], *omnia opera nostra operatus es in nobis, domine*. Ergo Deus est in omnibus rebus.]]
+![[LEO Ia, q. 8, a. 1#s.c.|Sed contra, ubicumque operatur aliquid, ibi est. Sed Deus operatur in omnibus, secundum illud Isaiae XXVI, *omnia opera nostra operatus es in nobis, domine*. Ergo Deus est in omnibus rebus.]]
 ![[CERF Ia, q. 8, a. 1#s.c.]]
 
 ###### resp.

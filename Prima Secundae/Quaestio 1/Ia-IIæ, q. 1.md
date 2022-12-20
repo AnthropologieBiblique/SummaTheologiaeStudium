@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 1#Prooemium|Ubi primo considerandum occurrit de ultimo fine humanae vitae; et deinde de his per quae homo ad hunc finem pervenire potest, vel ab eo deviare, ex fine enim oportet accipere rationes eorum quae ordinantur ad finem. Et quia ultimus finis humanae vitae ponitur esse beatitudo, oportet primo considerare de ultimo fine in communi; deinde de beatitudine. Circa primum quaeruntur octo. Primo, utrum hominis sit agere propter finem. Secundo, utrum hoc sit proprium rationalis naturae. Tertio, utrum actus hominis recipiant speciem a fine. Quarto, utrum sit aliquis ultimus finis humanae vitae. Quinto, utrum unius hominis possint esse plures ultimi fines. Sexto, utrum homo ordinet omnia in ultimum finem. Septimo, utrum idem sit finis ultimus omnium hominum. Octavo, utrum in illo ultimo fine omnes aliae creaturae conveniant.]]
-![[CERF Ia-IIæ, q. 1#Prooemium]]
+Ubi primo considerandum occurrit de ultimo fine humanae vitae; et deinde de his per quae homo ad hunc finem pervenire potest, vel ab eo deviare, ex fine enim oportet accipere rationes eorum quae ordinantur ad finem. Et quia ultimus finis humanae vitae ponitur esse beatitudo, oportet primo considerare de ultimo fine in communi; deinde de beatitudine. Circa primum quaeruntur octo. Primo, utrum hominis sit agere propter finem. Secundo, utrum hoc sit proprium rationalis naturae. Tertio, utrum actus hominis recipiant speciem a fine. Quarto, utrum sit aliquis ultimus finis humanae vitae. Quinto, utrum unius hominis possint esse plures ultimi fines. Sexto, utrum homo ordinet omnia in ultimum finem. Septimo, utrum idem sit finis ultimus omnium hominum. Octavo, utrum in illo ultimo fine omnes aliae creaturae conveniant.
 
 ![[Ia-IIæ, q. 1, a. 1#Articulus 1]]
 

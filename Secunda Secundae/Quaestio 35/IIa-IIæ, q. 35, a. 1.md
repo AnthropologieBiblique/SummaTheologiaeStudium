@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 35, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 35, a. 1#arg. 4|Praeterea, omne peccatum est fugiendum, secundum illud [[Si 21]], *quasi a facie colubri, fuge peccatum*. Sed Cassianus dicit, in eodem libro, *experimento probatum est acediae impugnationem non declinando fugiendam, sed resistendo superandam*. Ergo acedia non est peccatum.]]
+![[LEO IIa-IIæ, q. 35, a. 1#arg. 4|Praeterea, omne peccatum est fugiendum, secundum illud Eccli. XXI, *quasi a facie colubri, fuge peccatum*. Sed Cassianus dicit, in eodem libro, *experimento probatum est acediae impugnationem non declinando fugiendam, sed resistendo superandam*. Ergo acedia non est peccatum.]]
 ![[CERF IIa-IIæ, q. 35, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 35, a. 1#s.c.|Sed contra, illud quod interdicitur in sacra Scriptura est peccatum. Sed acedia est huiusmodi, dicitur enim [[Si 6]], subiice humerum tuum et porta illam, idest spiritualem sapientiam, et non acedieris in vinculis eius. Ergo acedia est peccatum.]]
+![[LEO IIa-IIæ, q. 35, a. 1#s.c.|Sed contra, illud quod interdicitur in sacra Scriptura est peccatum. Sed acedia est huiusmodi, dicitur enim Eccli. VI, subiice humerum tuum et porta illam, idest spiritualem sapientiam, et non acedieris in vinculis eius. Ergo acedia est peccatum.]]
 ![[CERF IIa-IIæ, q. 35, a. 1#s.c.]]
 
 ###### resp.

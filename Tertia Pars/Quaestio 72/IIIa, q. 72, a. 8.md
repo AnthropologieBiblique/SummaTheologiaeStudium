@@ -22,11 +22,11 @@ tags :
 ![[CERF IIIa, q. 72, a. 8#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 72, a. 8#s.c.|Sed contra est quod dicitur [[Ac 2]], quod spiritus sanctus veniens replevit totam domum, per quam significatur Ecclesia, et postea subditur quod repleti sunt omnes spiritu sancto. Sed ad illam plenitudinem consequendam hoc sacramentum datur. Ergo est omnibus qui sunt in Ecclesia exhibendum.]]
+![[LEO IIIa, q. 72, a. 8#s.c.|Sed contra est quod dicitur Act. II, quod spiritus sanctus veniens replevit totam domum, per quam significatur Ecclesia, et postea subditur quod repleti sunt omnes spiritu sancto. Sed ad illam plenitudinem consequendam hoc sacramentum datur. Ergo est omnibus qui sunt in Ecclesia exhibendum.]]
 ![[CERF IIIa, q. 72, a. 8#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 72, a. 8#resp.|Respondeo dicendum quod, sicut dictum est, per hoc sacramentum promovetur homo spiritualiter in aetatem perfectam. Hoc autem est de intentione naturae, ut omnis qui corporaliter nascitur, ad perfectam aetatem perveniat, sed hoc quandoque impeditur propter corruptibilitatem corporis, quod morte praevenitur. Multo autem magis de intentione Dei est omnia ad perfectionem perducere, ex cuius imitatione hoc natura participat, unde et [[Dt 32]] dicitur, *Dei perfecta sunt opera*. Anima autem, ad quam pertinet spiritualis nativitas et spiritualis aetatis perfectio, immortalis est, et potest, sicut tempore senectutis spiritualem nativitatem consequi, ita tempore iuventutis et pueritiae consequi perfectam aetatem; quia huiusmodi corporales aetates animae non praeiudicant. Et ideo hoc sacramentum debet omnibus exhiberi.]]
+![[LEO IIIa, q. 72, a. 8#resp.|Respondeo dicendum quod, sicut dictum est, per hoc sacramentum promovetur homo spiritualiter in aetatem perfectam. Hoc autem est de intentione naturae, ut omnis qui corporaliter nascitur, ad perfectam aetatem perveniat, sed hoc quandoque impeditur propter corruptibilitatem corporis, quod morte praevenitur. Multo autem magis de intentione Dei est omnia ad perfectionem perducere, ex cuius imitatione hoc natura participat, unde et Deut. XXXII dicitur, *Dei perfecta sunt opera*. Anima autem, ad quam pertinet spiritualis nativitas et spiritualis aetatis perfectio, immortalis est, et potest, sicut tempore senectutis spiritualem nativitatem consequi, ita tempore iuventutis et pueritiae consequi perfectam aetatem; quia huiusmodi corporales aetates animae non praeiudicant. Et ideo hoc sacramentum debet omnibus exhiberi.]]
 ![[CERF IIIa, q. 72, a. 8#resp.]]
 
 ###### ad 1
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIIa, q. 72, a. 8#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 72, a. 8#ad 2|Ad secundum dicendum quod, sicut dictum est, corporalis aetas non praeiudicat animae. Unde etiam in puerili aetate homo potest consequi perfectionem spiritualis aetatis, de qua dicitur [[Sg 4]], *senectus venerabilis est non diuturna, neque numero annorum computata*. Et inde est quod multi in puerili aetate, propter robur spiritus sancti perceptum, usque ad sanguinem fortiter certaverunt pro Christo.]]
+![[LEO IIIa, q. 72, a. 8#ad 2|Ad secundum dicendum quod, sicut dictum est, corporalis aetas non praeiudicat animae. Unde etiam in puerili aetate homo potest consequi perfectionem spiritualis aetatis, de qua dicitur Sap. IV, *senectus venerabilis est non diuturna, neque numero annorum computata*. Et inde est quod multi in puerili aetate, propter robur spiritus sancti perceptum, usque ad sanguinem fortiter certaverunt pro Christo.]]
 ![[CERF IIIa, q. 72, a. 8#ad 2]]
 
 ###### ad 3
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIIa, q. 72, a. 8#ad 3]]
 
 ###### ad 4
-![[LEO IIIa, q. 72, a. 8#ad 4|Ad quartum dicendum quod, sicut dictum est, anima, ad quam pertinet spiritualis aetas, immortalis est. Et ideo morituris hoc sacramentum dandum est, ut in resurrectione perfecti appareant, secundum illud [[Ep 4]], *donec occurramus in virum perfectum, in mensuram aetatis plenitudinis Christi*. Et ideo Hugo de sancto Victore dicit, *omnino periculosum esset, si ab hac vita sine confirmatione migrare contingeret*, non quia damnaretur, nisi forte per contemptum; sed quia detrimentum perfectionis pateretur. Unde etiam pueri confirmati decedentes maiorem gloriam consequuntur, sicut et hic maiorem obtinent gratiam. Auctoritas autem illa intelligitur quantum ad hoc, quod morituris non est necessarium hoc sacramentum propter periculum pugnae praesentis.]]
+![[LEO IIIa, q. 72, a. 8#ad 4|Ad quartum dicendum quod, sicut dictum est, anima, ad quam pertinet spiritualis aetas, immortalis est. Et ideo morituris hoc sacramentum dandum est, ut in resurrectione perfecti appareant, secundum illud Ephes. IV, *donec occurramus in virum perfectum, in mensuram aetatis plenitudinis Christi*. Et ideo Hugo de sancto Victore dicit, *omnino periculosum esset, si ab hac vita sine confirmatione migrare contingeret*, non quia damnaretur, nisi forte per contemptum; sed quia detrimentum perfectionis pateretur. Unde etiam pueri confirmati decedentes maiorem gloriam consequuntur, sicut et hic maiorem obtinent gratiam. Auctoritas autem illa intelligitur quantum ad hoc, quod morituris non est necessarium hoc sacramentum propter periculum pugnae praesentis.]]
 ![[CERF IIIa, q. 72, a. 8#ad 4]]
 

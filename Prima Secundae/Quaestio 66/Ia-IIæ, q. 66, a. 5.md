@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 66, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 66, a. 5#arg. 3|Praeterea, quanto cognitio est perfectior, tanto videtur esse maior. Sed perfectiorem cognitionem habere possumus de rebus humanis, de quibus est scientia, quam de rebus divinis, de quibus est sapientia, ut distinguit Augustinus in XII de Trin., quia divina incomprehensibilia sunt, secundum illud [[Jb 36]], *ecce Deus magnus, vincens scientiam nostram*. Ergo scientia est maior virtus quam sapientia.]]
+![[LEO Ia-IIæ, q. 66, a. 5#arg. 3|Praeterea, quanto cognitio est perfectior, tanto videtur esse maior. Sed perfectiorem cognitionem habere possumus de rebus humanis, de quibus est scientia, quam de rebus divinis, de quibus est sapientia, ut distinguit Augustinus in XII de Trin., quia divina incomprehensibilia sunt, secundum illud Iob XXXVI, *ecce Deus magnus, vincens scientiam nostram*. Ergo scientia est maior virtus quam sapientia.]]
 ![[CERF Ia-IIæ, q. 66, a. 5#arg. 3]]
 
 ###### arg. 4

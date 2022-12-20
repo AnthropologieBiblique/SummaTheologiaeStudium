@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 72, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 72, a. 6#arg. 2|Praeterea, de apostolis non legitur quod fuerint baptizati, praesertim cum dicatur, [[Jn 4]], quod *ipse Christus non baptizabat, sed discipuli eius*. Et tamen postea fuerunt confirmati per adventum spiritus sancti. Ergo similiter alii possunt confirmari antequam baptizentur.]]
+![[LEO IIIa, q. 72, a. 6#arg. 2|Praeterea, de apostolis non legitur quod fuerint baptizati, praesertim cum dicatur, Ioan. IV, quod *ipse Christus non baptizabat, sed discipuli eius*. Et tamen postea fuerunt confirmati per adventum spiritus sancti. Ergo similiter alii possunt confirmari antequam baptizentur.]]
 ![[CERF IIIa, q. 72, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 72, a. 6#arg. 3|Praeterea, [[Ac 10]] dicitur quod, *adhuc loquente Petro, cecidit spiritus sanctus super omnes qui audiebant verbum, et audiebant eos loquentes linguis*, et postea iussit eos baptizari. Ergo pari ratione possunt alii prius confirmari quam baptizentur.]]
+![[LEO IIIa, q. 72, a. 6#arg. 3|Praeterea, Act. X dicitur quod, *adhuc loquente Petro, cecidit spiritus sanctus super omnes qui audiebant verbum, et audiebant eos loquentes linguis*, et postea iussit eos baptizari. Ergo pari ratione possunt alii prius confirmari quam baptizentur.]]
 ![[CERF IIIa, q. 72, a. 6#arg. 3]]
 
 ###### s.c.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 72, a. 6#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 72, a. 6#ad 2|Ad secundum dicendum quod, sicut Augustinus dicit, ex hoc quod dominus dicit, [[Jn 13]], *qui lotus est, non indiget nisi ut pedes lavet, intelligimus Petrum et alios Christi discipulos fuisse baptizatos, sive Baptismo Ioannis, sicut nonnulli arbitrantur; sive, quod magis credibile est, Baptismo Christi. Neque enim renuit ministerium baptizandi, ut haberet servos per quos ceteros baptizaret*.]]
+![[LEO IIIa, q. 72, a. 6#ad 2|Ad secundum dicendum quod, sicut Augustinus dicit, ex hoc quod dominus dicit, Ioan. XIII, *qui lotus est, non indiget nisi ut pedes lavet, intelligimus Petrum et alios Christi discipulos fuisse baptizatos, sive Baptismo Ioannis, sicut nonnulli arbitrantur; sive, quod magis credibile est, Baptismo Christi. Neque enim renuit ministerium baptizandi, ut haberet servos per quos ceteros baptizaret*.]]
 ![[CERF IIIa, q. 72, a. 6#ad 2]]
 
 ###### ad 3

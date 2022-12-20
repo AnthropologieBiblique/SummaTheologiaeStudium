@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 162, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 162, a. 3#arg. 3|Praeterea, superbia non solum quaerit excellentiam in rebus sensibilibus, sed etiam in rebus spiritualibus et intelligibilibus ipsa etiam principaliter consistit in contemptu Dei, secundum illud [[Si 10]], *initium superbiae hominis est apostatare a Deo*. Sed irascibilis, cum sit pars appetitus sensitivi, non potest se extendere in Deum et in intelligibilia. Ergo superbia non potest esse in irascibili.]]
+![[LEO IIa-IIæ, q. 162, a. 3#arg. 3|Praeterea, superbia non solum quaerit excellentiam in rebus sensibilibus, sed etiam in rebus spiritualibus et intelligibilibus ipsa etiam principaliter consistit in contemptu Dei, secundum illud Eccli. X, *initium superbiae hominis est apostatare a Deo*. Sed irascibilis, cum sit pars appetitus sensitivi, non potest se extendere in Deum et in intelligibilia. Ergo superbia non potest esse in irascibili.]]
 ![[CERF IIa-IIæ, q. 162, a. 3#arg. 3]]
 
 ###### arg. 4
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 162, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 162, a. 3#ad 1|Ad primum ergo dicendum quod cognitio veritatis est duplex. Una pure speculativa. Et hanc superbia indirecte impedit, subtrahendo causam. Superbus enim neque Deo suum intellectum subiicit, ut ab eo veritatis cognitionem percipiat, secundum illud [[Mt 11]], abscondisti haec a sapientibus et prudentibus, idest a superbis, qui sibi sapientes et prudentes videntur, et revelasti ea parvulis, idest humilibus. Neque etiam ab hominibus addiscere dignantur, cum tamen dicatur, [[Si 6]], *si inclinaveris aurem tuam*. Scilicet humiliter audiendo, excipies doctrinam. Alia autem est cognitio veritatis affectiva. Et talem cognitionem veritatis directe impedit superbia. Quia superbi, dum delectantur in propria excellentia, excellentiam veritatis fastidiunt, ut Gregorius dicit, XXIII Moral., quod *superbi et secreta quaedam intelligendo percipiunt, et eorum dulcedinem experiri non possunt, et si noverint quomodo sunt, ignorant quomodo sapiunt*. Unde et Proverb. XI dicitur, *ubi humilitas, ibi sapientia*.]]
+![[LEO IIa-IIæ, q. 162, a. 3#ad 1|Ad primum ergo dicendum quod cognitio veritatis est duplex. Una pure speculativa. Et hanc superbia indirecte impedit, subtrahendo causam. Superbus enim neque Deo suum intellectum subiicit, ut ab eo veritatis cognitionem percipiat, secundum illud Matth. XI, abscondisti haec a sapientibus et prudentibus, idest a superbis, qui sibi sapientes et prudentes videntur, et revelasti ea parvulis, idest humilibus. Neque etiam ab hominibus addiscere dignantur, cum tamen dicatur, Eccli. VI, *si inclinaveris aurem tuam*. Scilicet humiliter audiendo, excipies doctrinam. Alia autem est cognitio veritatis affectiva. Et talem cognitionem veritatis directe impedit superbia. Quia superbi, dum delectantur in propria excellentia, excellentiam veritatis fastidiunt, ut Gregorius dicit, XXIII Moral., quod *superbi et secreta quaedam intelligendo percipiunt, et eorum dulcedinem experiri non possunt, et si noverint quomodo sunt, ignorant quomodo sapiunt*. Unde et Proverb. XI dicitur, *ubi humilitas, ibi sapientia*.]]
 ![[CERF IIa-IIæ, q. 162, a. 3#ad 1]]
 
 ###### ad 2

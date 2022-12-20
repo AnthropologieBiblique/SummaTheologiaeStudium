@@ -6,19 +6,19 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 98, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod lex vetus non fuerit data per Angelos, sed immediate a Deo. Angelus enim nuntius dicitur, et sic nomen Angeli ministerium importat, non dominium; secundum illud [[Ps 102]], *benedicite domino, omnes Angeli eius, ministri eius*. Sed vetus lex a domino tradita esse perhibetur, dicitur enim [[Ex 20]], *locutusque est dominus sermones hos*, et postea subditur, *ego enim sum dominus Deus tuus*. Et idem modus loquendi frequenter repetitur in Exodo, et in libris consequentibus legis. Ergo lex est immediate data a Deo.]]
+![[LEO Ia-IIæ, q. 98, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod lex vetus non fuerit data per Angelos, sed immediate a Deo. Angelus enim nuntius dicitur, et sic nomen Angeli ministerium importat, non dominium; secundum illud Psalmi CII, *benedicite domino, omnes Angeli eius, ministri eius*. Sed vetus lex a domino tradita esse perhibetur, dicitur enim Exod. XX, *locutusque est dominus sermones hos*, et postea subditur, *ego enim sum dominus Deus tuus*. Et idem modus loquendi frequenter repetitur in Exodo, et in libris consequentibus legis. Ergo lex est immediate data a Deo.]]
 ![[CERF Ia-IIæ, q. 98, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 98, a. 3#arg. 2|Praeterea, sicut dicitur [[Jn 1]], lex per Moysen data est. Sed Moyses immediate accepit a Deo, dicitur enim [[Ex 33]], *loquebatur dominus ad Moysen facie ad faciem, sicut loqui solet homo ad amicum suum*. Ergo lex vetus immediate data est a Deo.]]
+![[LEO Ia-IIæ, q. 98, a. 3#arg. 2|Praeterea, sicut dicitur Ioan. I, lex per Moysen data est. Sed Moyses immediate accepit a Deo, dicitur enim Exod. XXXIII, *loquebatur dominus ad Moysen facie ad faciem, sicut loqui solet homo ad amicum suum*. Ergo lex vetus immediate data est a Deo.]]
 ![[CERF Ia-IIæ, q. 98, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 98, a. 3#arg. 3|Praeterea, ad solum principem pertinet legem ferre, ut supra dictum est. Sed solus Deus est princeps salutis animarum, *Angeli vero sunt administratorii spiritus*, ut dicitur ad [[He 1]]. Ergo lex vetus per Angelos dari non debuit, cum ordinaretur ad animarum salutem.]]
+![[LEO Ia-IIæ, q. 98, a. 3#arg. 3|Praeterea, ad solum principem pertinet legem ferre, ut supra dictum est. Sed solus Deus est princeps salutis animarum, *Angeli vero sunt administratorii spiritus*, ut dicitur ad Heb. I. Ergo lex vetus per Angelos dari non debuit, cum ordinaretur ad animarum salutem.]]
 ![[CERF Ia-IIæ, q. 98, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 98, a. 3#s.c.|Sed contra est quod dicit apostolus, ad [[Ga 3]], *lex data est per Angelos in manu mediatoris*. Et [[Ac 7]], dicit Stephanus, *accepistis legem in dispositione Angelorum*.]]
+![[LEO Ia-IIæ, q. 98, a. 3#s.c.|Sed contra est quod dicit apostolus, ad Gal. III, *lex data est per Angelos in manu mediatoris*. Et Act. VII, dicit Stephanus, *accepistis legem in dispositione Angelorum*.]]
 ![[CERF Ia-IIæ, q. 98, a. 3#s.c.]]
 
 ###### resp.

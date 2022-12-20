@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 19, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 19, a. 7#arg. 2|Praeterea, [[Jr 18]], ex persona domini dicitur, *loquar adversus gentem et adversus regnum, ut eradicem et destruam et disperdam illud; sed si poenitentiam egerit gens illa a malo suo, agam et ego poenitentiam super malo quod cogitavi ut facerem ei*. Ergo Deus habet mutabilem voluntatem.]]
+![[LEO Ia, q. 19, a. 7#arg. 2|Praeterea, Ierem. XVIII, ex persona domini dicitur, *loquar adversus gentem et adversus regnum, ut eradicem et destruam et disperdam illud; sed si poenitentiam egerit gens illa a malo suo, agam et ego poenitentiam super malo quod cogitavi ut facerem ei*. Ergo Deus habet mutabilem voluntatem.]]
 ![[CERF Ia, q. 19, a. 7#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 19, a. 7#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 19, a. 7#s.c.|Sed contra est quod dicitur [[Nb 23]], *non est Deus, quasi homo, ut mentiatur; neque ut filius hominis, ut mutetur*.]]
+![[LEO Ia, q. 19, a. 7#s.c.|Sed contra est quod dicitur Num. XXIII, *non est Deus, quasi homo, ut mentiatur; neque ut filius hominis, ut mutetur*.]]
 ![[CERF Ia, q. 19, a. 7#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF Ia, q. 19, a. 7#ad 1]]
 
 ###### ad 2
-![[LEO Ia, q. 19, a. 7#ad 2|Ad secundum dicendum quod voluntas Dei, cum sit causa prima et universalis, non excludit causas medias, in quarum virtute est ut aliqui effectus producantur. Sed quia omnes causae mediae non adaequant virtutem causae primae, multa sunt in virtute et scientia et voluntate divina, quae non continentur sub ordine causarum inferiorum; sicut resuscitatio Lazari. Unde aliquis respiciens ad causas inferiores, dicere poterat, Lazarus non resurget, respiciens vero ad causam primam divinam, poterat dicere, Lazarus resurget. Et utrumque horum Deus vult, scilicet quod aliquid quandoque sit futurum secundum causam inferiorem, quod tamen futurum non sit secundum causam superiorem; vel e converso. Sic ergo dicendum est quod Deus aliquando pronuntiat aliquid futurum, secundum quod continetur in ordine causarum inferiorum, ut puta secundum dispositionem naturae vel meritorum; quod tamen non fit, quia aliter est in causa superiori divina. Sicut cum praedixit Ezechiae, *dispone domui tuae, quia morieris et non vives*, ut habetur [[Is 38]]; neque tamen ita evenit, quia ab aeterno aliter fuit in scientia et voluntate divina, quae immutabilis est. Propter quod dicit Gregorius, quod *Deus immutat sententiam, non tamen mutat consilium*, scilicet voluntatis suae. Quod ergo dicit, poenitentiam agam ego, intelligitur metaphorice dictum, nam homines quando non implent quod comminati sunt, poenitere videntur.]]
+![[LEO Ia, q. 19, a. 7#ad 2|Ad secundum dicendum quod voluntas Dei, cum sit causa prima et universalis, non excludit causas medias, in quarum virtute est ut aliqui effectus producantur. Sed quia omnes causae mediae non adaequant virtutem causae primae, multa sunt in virtute et scientia et voluntate divina, quae non continentur sub ordine causarum inferiorum; sicut resuscitatio Lazari. Unde aliquis respiciens ad causas inferiores, dicere poterat, Lazarus non resurget, respiciens vero ad causam primam divinam, poterat dicere, Lazarus resurget. Et utrumque horum Deus vult, scilicet quod aliquid quandoque sit futurum secundum causam inferiorem, quod tamen futurum non sit secundum causam superiorem; vel e converso. Sic ergo dicendum est quod Deus aliquando pronuntiat aliquid futurum, secundum quod continetur in ordine causarum inferiorum, ut puta secundum dispositionem naturae vel meritorum; quod tamen non fit, quia aliter est in causa superiori divina. Sicut cum praedixit Ezechiae, *dispone domui tuae, quia morieris et non vives*, ut habetur Isaiae XXXVIII; neque tamen ita evenit, quia ab aeterno aliter fuit in scientia et voluntate divina, quae immutabilis est. Propter quod dicit Gregorius, quod *Deus immutat sententiam, non tamen mutat consilium*, scilicet voluntatis suae. Quod ergo dicit, poenitentiam agam ego, intelligitur metaphorice dictum, nam homines quando non implent quod comminati sunt, poenitere videntur.]]
 ![[CERF Ia, q. 19, a. 7#ad 2]]
 
 ###### ad 3

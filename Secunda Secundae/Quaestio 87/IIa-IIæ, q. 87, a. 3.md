@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 87, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod decimae non sint clericis dandae. Levitis enim in veteri testamento decimae dabantur quia non habebant aliquam partem in possessionibus populi, ut habetur [[Nb 18]]. Sed clerici in novo testamento habent possessiones, et patrimoniales interdum, et ecclesiasticas. Recipiunt insuper primitias, et oblationes pro vivis et mortuis. Superfluum igitur est quod eis decimae dentur.]]
+![[LEO IIa-IIæ, q. 87, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod decimae non sint clericis dandae. Levitis enim in veteri testamento decimae dabantur quia non habebant aliquam partem in possessionibus populi, ut habetur Num. XVIII. Sed clerici in novo testamento habent possessiones, et patrimoniales interdum, et ecclesiasticas. Recipiunt insuper primitias, et oblationes pro vivis et mortuis. Superfluum igitur est quod eis decimae dentur.]]
 ![[CERF IIa-IIæ, q. 87, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 87, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 87, a. 3#s.c.|Sed contra est quod dicitur [[Nb 18]], *filiis levi dedi omnes decimas Israel in possessionem, pro ministerio quo serviunt mihi in tabernaculo*. Sed filiis levi succedunt clerici in novo testamento. Ergo solis clericis decimae debentur.]]
+![[LEO IIa-IIæ, q. 87, a. 3#s.c.|Sed contra est quod dicitur Num. XVIII, *filiis levi dedi omnes decimas Israel in possessionem, pro ministerio quo serviunt mihi in tabernaculo*. Sed filiis levi succedunt clerici in novo testamento. Ergo solis clericis decimae debentur.]]
 ![[CERF IIa-IIæ, q. 87, a. 3#s.c.]]
 
 ###### resp.

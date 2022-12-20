@@ -6,19 +6,19 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 114, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod homo non possit aliquid mereri a Deo. Nullus enim videtur mercedem mereri ex hoc quod reddit alteri quod debet. Sed *per omnia bona quae facimus, non possumus sufficienter recompensare Deo quod debemus, quin semper amplius debeamus*; ut etiam philosophus dicit, in VIII Ethic. Unde et [[Lc 17]], dicitur, *cum omnia quae praecepta sunt, feceritis, dicite, servi inutiles sumus, quod debuimus facere, fecimus*. Ergo homo non potest aliquid mereri a Deo.]]
+![[LEO Ia-IIæ, q. 114, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod homo non possit aliquid mereri a Deo. Nullus enim videtur mercedem mereri ex hoc quod reddit alteri quod debet. Sed *per omnia bona quae facimus, non possumus sufficienter recompensare Deo quod debemus, quin semper amplius debeamus*; ut etiam philosophus dicit, in VIII Ethic. Unde et Luc. XVII, dicitur, *cum omnia quae praecepta sunt, feceritis, dicite, servi inutiles sumus, quod debuimus facere, fecimus*. Ergo homo non potest aliquid mereri a Deo.]]
 ![[CERF Ia-IIæ, q. 114, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 114, a. 1#arg. 2|Praeterea, ex eo quod aliquis sibi proficit, nihil videtur mereri apud eum cui nihil proficit. Sed homo bene operando sibi proficit, vel alteri homini, non autem Deo, dicitur enim [[Jb 35]], *si iuste egeris, quid donabis ei, aut quid de manu tua accipiet?* Ergo homo non potest aliquid a Deo mereri.]]
+![[LEO Ia-IIæ, q. 114, a. 1#arg. 2|Praeterea, ex eo quod aliquis sibi proficit, nihil videtur mereri apud eum cui nihil proficit. Sed homo bene operando sibi proficit, vel alteri homini, non autem Deo, dicitur enim Iob XXXV, *si iuste egeris, quid donabis ei, aut quid de manu tua accipiet?* Ergo homo non potest aliquid a Deo mereri.]]
 ![[CERF Ia-IIæ, q. 114, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 114, a. 1#arg. 3|Praeterea, quicumque apud aliquem aliquid meretur, constituit eum sibi debitorem, debitum enim est ut aliquis merendi mercedem rependat. Sed Deus nulli est debitor, unde dicitur [[Rm 11]], *quis prior dedit ei, et retribuetur ei?* Ergo nullus a Deo potest aliquid mereri.]]
+![[LEO Ia-IIæ, q. 114, a. 1#arg. 3|Praeterea, quicumque apud aliquem aliquid meretur, constituit eum sibi debitorem, debitum enim est ut aliquis merendi mercedem rependat. Sed Deus nulli est debitor, unde dicitur Rom. XI, *quis prior dedit ei, et retribuetur ei?* Ergo nullus a Deo potest aliquid mereri.]]
 ![[CERF Ia-IIæ, q. 114, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 114, a. 1#s.c.|Sed contra est quod dicitur [[Jr 31]], *est merces operi tuo*. Sed merces dicitur quod pro merito redditur. Ergo videtur quod homo possit a Deo mereri.]]
+![[LEO Ia-IIæ, q. 114, a. 1#s.c.|Sed contra est quod dicitur Ierem. XXXI, *est merces operi tuo*. Sed merces dicitur quod pro merito redditur. Ergo videtur quod homo possit a Deo mereri.]]
 ![[CERF Ia-IIæ, q. 114, a. 1#s.c.]]
 
 ###### resp.

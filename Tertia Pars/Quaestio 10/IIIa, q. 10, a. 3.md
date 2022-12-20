@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 10, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 10, a. 3#s.c.|Sed contra, anima Christi cognoscit totam suam potentiam, et omnia in quae potest. Potest autem in emundationem infinitorum peccatorum, secundum illud [[1 Jn 2]], *ipse est propitiatio pro peccatis nostris, non autem pro nostris tantum, sed etiam totius mundi*. Ergo anima Christi cognoscit infinita.]]
+![[LEO IIIa, q. 10, a. 3#s.c.|Sed contra, anima Christi cognoscit totam suam potentiam, et omnia in quae potest. Potest autem in emundationem infinitorum peccatorum, secundum illud I Ioan. II, *ipse est propitiatio pro peccatis nostris, non autem pro nostris tantum, sed etiam totius mundi*. Ergo anima Christi cognoscit infinita.]]
 ![[CERF IIIa, q. 10, a. 3#s.c.]]
 
 ###### resp.

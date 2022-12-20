@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 83, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non sit conveniens orare. Oratio enim videtur esse necessaria ad hoc quod intimemus ei a quo petimus id quo indigemus. Sed, sicut dicitur [[Mt 6]], *scit pater vester quia his indigetis*. Ergo non est conveniens Deum orare.]]
+![[LEO IIa-IIæ, q. 83, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non sit conveniens orare. Oratio enim videtur esse necessaria ad hoc quod intimemus ei a quo petimus id quo indigemus. Sed, sicut dicitur Matth. VI, *scit pater vester quia his indigetis*. Ergo non est conveniens Deum orare.]]
 ![[CERF IIa-IIæ, q. 83, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 83, a. 2#arg. 2|Praeterea, per orationem flectitur animus eius qui oratur ut faciat quod ab eo petitur. Sed animus Dei est immutabilis et inflexibilis, secundum illud [[1S 15]], *porro triumphator in Israel non parcet, nec poenitudine flectetur*. Ergo non est conveniens quod Deum oremus.]]
+![[LEO IIa-IIæ, q. 83, a. 2#arg. 2|Praeterea, per orationem flectitur animus eius qui oratur ut faciat quod ab eo petitur. Sed animus Dei est immutabilis et inflexibilis, secundum illud I Reg. XV, *porro triumphator in Israel non parcet, nec poenitudine flectetur*. Ergo non est conveniens quod Deum oremus.]]
 ![[CERF IIa-IIæ, q. 83, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 83, a. 2#s.c.|Sed contra est quod dicitur [[Lc 18]], *oportet orare, et non deficere*.]]
+![[LEO IIa-IIæ, q. 83, a. 2#s.c.|Sed contra est quod dicitur Luc. XVIII, *oportet orare, et non deficere*.]]
 ![[CERF IIa-IIæ, q. 83, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 83, a. 2#resp.|Respondeo dicendum quod triplex fuit circa orationem antiquorum error. Quidam enim posuerunt quod res humanae non reguntur divina providentia. Ex quo sequitur quod vanum sit orare, et omnino Deum colere. Et de his dicitur [[Ml 3]], *dixistis, vanus est qui servit Deo*. Secunda fuit opinio ponentium omnia, etiam in rebus humanis, ex necessitate contingere, sive ex immutabilitate divinae providentiae, sive ex necessitate stellarum, sive ex connexione causarum. Et secundum hos etiam excluditur orationis utilitas. Tertia fuit opinio ponentium quidem res humanas divina providentia regi, et quod res humanae non proveniunt ex necessitate, sed dicebant similiter dispositionem divinae providentiae variabilem esse, et quod orationibus et aliis quae ad divinum cultum pertinent dispositio divinae providentiae immutatur. Haec autem omnia in primo libro improbata sunt. Et ideo oportet sic inducere orationis utilitatem ut neque rebus humanis, divinae providentiae subiectis, necessitatem imponamus; neque etiam divinam dispositionem mutabilem aestimemus. Ad huius ergo evidentiam, considerandum est quod ex divina providentia non solum disponitur qui effectus fiant, sed etiam ex quibus causis et quo ordine proveniant. Inter alias autem causas sunt etiam quorundam causae actus humani. Unde oportet homines agere aliqua, non ut per suos actus divinam dispositionem immutent, sed ut per actus suos impleant quosdam effectus secundum ordinem a Deo dispositum. Et idem etiam est in naturalibus causis. Et simile est etiam de oratione. Non enim propter hoc oramus ut divinam dispositionem immutemus, sed ut id impetremus quod Deus disposuit per orationes sanctorum esse implendum; *ut scilicet homines postulando mereantur accipere quod eis omnipotens Deus ante saecula disposuit donare*, ut Gregorius dicit, in libro dialogorum.]]
+![[LEO IIa-IIæ, q. 83, a. 2#resp.|Respondeo dicendum quod triplex fuit circa orationem antiquorum error. Quidam enim posuerunt quod res humanae non reguntur divina providentia. Ex quo sequitur quod vanum sit orare, et omnino Deum colere. Et de his dicitur Malach. III, *dixistis, vanus est qui servit Deo*. Secunda fuit opinio ponentium omnia, etiam in rebus humanis, ex necessitate contingere, sive ex immutabilitate divinae providentiae, sive ex necessitate stellarum, sive ex connexione causarum. Et secundum hos etiam excluditur orationis utilitas. Tertia fuit opinio ponentium quidem res humanas divina providentia regi, et quod res humanae non proveniunt ex necessitate, sed dicebant similiter dispositionem divinae providentiae variabilem esse, et quod orationibus et aliis quae ad divinum cultum pertinent dispositio divinae providentiae immutatur. Haec autem omnia in primo libro improbata sunt. Et ideo oportet sic inducere orationis utilitatem ut neque rebus humanis, divinae providentiae subiectis, necessitatem imponamus; neque etiam divinam dispositionem mutabilem aestimemus. Ad huius ergo evidentiam, considerandum est quod ex divina providentia non solum disponitur qui effectus fiant, sed etiam ex quibus causis et quo ordine proveniant. Inter alias autem causas sunt etiam quorundam causae actus humani. Unde oportet homines agere aliqua, non ut per suos actus divinam dispositionem immutent, sed ut per actus suos impleant quosdam effectus secundum ordinem a Deo dispositum. Et idem etiam est in naturalibus causis. Et simile est etiam de oratione. Non enim propter hoc oramus ut divinam dispositionem immutemus, sed ut id impetremus quod Deus disposuit per orationes sanctorum esse implendum; *ut scilicet homines postulando mereantur accipere quod eis omnipotens Deus ante saecula disposuit donare*, ut Gregorius dicit, in libro dialogorum.]]
 ![[CERF IIa-IIæ, q. 83, a. 2#resp.]]
 
 ###### ad 1

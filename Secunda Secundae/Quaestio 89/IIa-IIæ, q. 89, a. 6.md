@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 89, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod non liceat per creaturas iurare. Dicitur enim [[Mt 5]], *ego dico vobis, non iurare omnino, neque per caelum, neque per terram, neque per Ierosolymam, neque per caput tuum*, quod exponens Hieronymus dicit, *considera quod hic salvator non per Deum iurare prohibuerit, sed per caelum et terram,* et cetera.]]
+![[LEO IIa-IIæ, q. 89, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod non liceat per creaturas iurare. Dicitur enim Matth. V, *ego dico vobis, non iurare omnino, neque per caelum, neque per terram, neque per Ierosolymam, neque per caput tuum*, quod exponens Hieronymus dicit, *considera quod hic salvator non per Deum iurare prohibuerit, sed per caelum et terram,* et cetera.]]
 ![[CERF IIa-IIæ, q. 89, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 89, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 89, a. 6#arg. 3|Praeterea, iuramentum est actus latriae, sicut dictum est. Sed cultus latriae non debetur alicui creaturae, ut patet [[Rm 1]]. Ergo non licet iurare per aliquam creaturam.]]
+![[LEO IIa-IIæ, q. 89, a. 6#arg. 3|Praeterea, iuramentum est actus latriae, sicut dictum est. Sed cultus latriae non debetur alicui creaturae, ut patet Rom. I. Ergo non licet iurare per aliquam creaturam.]]
 ![[CERF IIa-IIæ, q. 89, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 89, a. 6#s.c.|Sed contra est quod Ioseph iuravit per salutem Pharaonis, ut legitur [[Gn 42]]. Ex consuetudine etiam iuratur per Evangelium, et per reliquias, et per sanctos.]]
+![[LEO IIa-IIæ, q. 89, a. 6#s.c.|Sed contra est quod Ioseph iuravit per salutem Pharaonis, ut legitur Gen. XLII. Ex consuetudine etiam iuratur per Evangelium, et per reliquias, et per sanctos.]]
 ![[CERF IIa-IIæ, q. 89, a. 6#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 89, a. 6#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 89, a. 6#ad 3|Ad tertium dicendum quod cultus latriae adhibetur ei cuius testimonium iurando invocatur. Et ideo praecipitur [[Ex 23]], per nomen externorum deorum non iurabitis. Non autem exhibetur cultus latriae creaturis quae in iuramento assumuntur secundum modos praedictos.]]
+![[LEO IIa-IIæ, q. 89, a. 6#ad 3|Ad tertium dicendum quod cultus latriae adhibetur ei cuius testimonium iurando invocatur. Et ideo praecipitur Exod. XXIII, per nomen externorum deorum non iurabitis. Non autem exhibetur cultus latriae creaturis quae in iuramento assumuntur secundum modos praedictos.]]
 ![[CERF IIa-IIæ, q. 89, a. 6#ad 3]]
 

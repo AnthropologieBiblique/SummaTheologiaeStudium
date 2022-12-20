@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 74, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 74, a. 4#s.c.|Sed contra est quod Augustinus dicit, in libro Retract., et habetur in Glossa [[Rm 7]], inordinatus concupiscentiae motus (qui est peccatum sensualitatis) potest etiam esse in his qui sunt in gratia, in quibus tamen peccatum mortale non invenitur. Ergo inordinatus motus sensualitatis non est peccatum mortale.]]
+![[LEO Ia-IIæ, q. 74, a. 4#s.c.|Sed contra est quod Augustinus dicit, in libro Retract., et habetur in Glossa Rom. VII, inordinatus concupiscentiae motus (qui est peccatum sensualitatis) potest etiam esse in his qui sunt in gratia, in quibus tamen peccatum mortale non invenitur. Ergo inordinatus motus sensualitatis non est peccatum mortale.]]
 ![[CERF Ia-IIæ, q. 74, a. 4#s.c.]]
 
 ###### resp.

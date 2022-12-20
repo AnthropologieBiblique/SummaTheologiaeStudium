@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 97, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod tentatio Dei sit gravius peccatum quam superstitio. Maior enim poena pro maiori peccato infertur. Sed gravius est punitum in Iudaeis peccatum tentationis Dei quam peccatum idololatriae, quod tamen est praecipuum inter superstitiones, quia pro peccato idololatriae interfecti sunt ex eis tria millia hominum, ut legitur [[Ex 32]]; pro peccato autem tentationis universaliter omnes in deserto perierunt, terram promissionis non intrantes, secundum illud Psalm., *tentaverunt me patres vestri*; et postea sequitur, *quibus iuravi in ira mea si introibunt in requiem meam*. Ergo tentare Deum est gravius peccatum quam superstitio.]]
+![[LEO IIa-IIæ, q. 97, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod tentatio Dei sit gravius peccatum quam superstitio. Maior enim poena pro maiori peccato infertur. Sed gravius est punitum in Iudaeis peccatum tentationis Dei quam peccatum idololatriae, quod tamen est praecipuum inter superstitiones, quia pro peccato idololatriae interfecti sunt ex eis tria millia hominum, ut legitur Exodi XXXII; pro peccato autem tentationis universaliter omnes in deserto perierunt, terram promissionis non intrantes, secundum illud Psalm., *tentaverunt me patres vestri*; et postea sequitur, *quibus iuravi in ira mea si introibunt in requiem meam*. Ergo tentare Deum est gravius peccatum quam superstitio.]]
 ![[CERF IIa-IIæ, q. 97, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 97, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 97, a. 4#arg. 3|Praeterea, maius peccatum esse videtur irreverenter se habere ad parentes quam reverentiam parentibus debitam aliis exhibere. Sed Deus est honorandus a nobis sicut omnium pater, sicut dicitur [[Ml 1]]. Ergo maius peccatum esse videtur tentatio Dei, per quam irreverenter nos habemus ad Deum, quam idololatria, per quam reverentia Deo debita exhibetur creaturae.]]
+![[LEO IIa-IIæ, q. 97, a. 4#arg. 3|Praeterea, maius peccatum esse videtur irreverenter se habere ad parentes quam reverentiam parentibus debitam aliis exhibere. Sed Deus est honorandus a nobis sicut omnium pater, sicut dicitur Malach. I. Ergo maius peccatum esse videtur tentatio Dei, per quam irreverenter nos habemus ad Deum, quam idololatria, per quam reverentia Deo debita exhibetur creaturae.]]
 ![[CERF IIa-IIæ, q. 97, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 97, a. 4#s.c.|Sed contra est quod super illud [[Dt 17]], cum reperti fuerint apud te etc., dicit Glossa, *lex errorem et idololatriam maxime detestatur, maximum enim scelus est honorem creatoris impendere creaturae*.]]
+![[LEO IIa-IIæ, q. 97, a. 4#s.c.|Sed contra est quod super illud Deut. XVII, cum reperti fuerint apud te etc., dicit Glossa, *lex errorem et idololatriam maxime detestatur, maximum enim scelus est honorem creatoris impendere creaturae*.]]
 ![[CERF IIa-IIæ, q. 97, a. 4#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 97, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 97, a. 4#ad 1|Ad primum ergo dicendum quod peccatum idololatriae non fuit punitum illa poena quasi sufficienti, sed in posterum pro illo peccato gravior poena reservabatur, dicitur enim [[Ex 32]], *ego autem in die ultionis visitabo hoc peccatum eorum*.]]
+![[LEO IIa-IIæ, q. 97, a. 4#ad 1|Ad primum ergo dicendum quod peccatum idololatriae non fuit punitum illa poena quasi sufficienti, sed in posterum pro illo peccato gravior poena reservabatur, dicitur enim Exod. XXXII, *ego autem in die ultionis visitabo hoc peccatum eorum*.]]
 ![[CERF IIa-IIæ, q. 97, a. 4#ad 1]]
 
 ###### ad 2

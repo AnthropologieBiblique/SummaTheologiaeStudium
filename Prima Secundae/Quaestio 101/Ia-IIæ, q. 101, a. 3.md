@@ -10,15 +10,15 @@ tags :
 ![[CERF Ia-IIæ, q. 101, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 101, a. 3#arg. 2|Praeterea, multitudo caeremonialium praeceptorum transgressionis erat occasio; secundum illud quod dicit Petrus, [[Ac 15]], *quid tentatis Deum, imponere iugum super cervicem discipulorum, quod neque nos, neque patres nostri, portare potuimus?* Sed transgressio divinorum praeceptorum contrariatur humanae saluti. Cum igitur lex omnis debeat saluti congruere hominum, ut Isidorus dicit, videtur quod non debuerint multa praecepta caeremonialia dari.]]
+![[LEO Ia-IIæ, q. 101, a. 3#arg. 2|Praeterea, multitudo caeremonialium praeceptorum transgressionis erat occasio; secundum illud quod dicit Petrus, Act. XV, *quid tentatis Deum, imponere iugum super cervicem discipulorum, quod neque nos, neque patres nostri, portare potuimus?* Sed transgressio divinorum praeceptorum contrariatur humanae saluti. Cum igitur lex omnis debeat saluti congruere hominum, ut Isidorus dicit, videtur quod non debuerint multa praecepta caeremonialia dari.]]
 ![[CERF Ia-IIæ, q. 101, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 101, a. 3#arg. 3|Praeterea, praecepta caeremonialia pertinebant ad cultum Dei exteriorem et corporalem, ut dictum est. Sed huiusmodi cultum corporalem lex debebat diminuere, quia ordinabat ad Christum, qui docuit homines Deum colere in spiritu et veritate, ut habetur [[Jn 4]]. Non ergo debuerunt multa praecepta caeremonialia dari.]]
+![[LEO Ia-IIæ, q. 101, a. 3#arg. 3|Praeterea, praecepta caeremonialia pertinebant ad cultum Dei exteriorem et corporalem, ut dictum est. Sed huiusmodi cultum corporalem lex debebat diminuere, quia ordinabat ad Christum, qui docuit homines Deum colere in spiritu et veritate, ut habetur Ioan. IV. Non ergo debuerunt multa praecepta caeremonialia dari.]]
 ![[CERF Ia-IIæ, q. 101, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 101, a. 3#s.c.|Sed contra est quod dicitur [[Os 8]], *scribam eis multiplices leges intus*; et [[Jb 11]], ut *ostenderet tibi secreta sapientiae, quod multiplex sit lex eius*.]]
+![[LEO Ia-IIæ, q. 101, a. 3#s.c.|Sed contra est quod dicitur Osee VIII, *scribam eis multiplices leges intus*; et Iob XI, ut *ostenderet tibi secreta sapientiae, quod multiplex sit lex eius*.]]
 ![[CERF Ia-IIæ, q. 101, a. 3#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 101, a. 3#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 101, a. 3#ad 1|Ad primum ergo dicendum quod, quando id quod ordinatur ad finem, est sufficiens ad ducendum in finem, tunc sufficit unum ad unum finem, sicut una medicina, si sit efficax, sufficit quandoque ad sanitatem inducendam, et tunc non oportet multiplicari medicinam. Sed propter debilitatem et imperfectionem eius quod est ad finem, oportet eam multiplicari, sicut multa remedia adhibentur infirmo, quando unum non sufficit ad sanandum. Caeremoniae autem veteris legis invalidae et imperfectae erant et ad repraesentandum Christi mysterium, quod est superexcellens; et ad subiugandum mentes hominum Deo. Unde apostolus dicit, ad [[He 7]], *reprobatio fit praecedentis mandati, propter infirmitatem et inutilitatem, nihil enim ad perfectum adduxit lex*. Et ideo oportuit huiusmodi caeremonias multiplicari.]]
+![[LEO Ia-IIæ, q. 101, a. 3#ad 1|Ad primum ergo dicendum quod, quando id quod ordinatur ad finem, est sufficiens ad ducendum in finem, tunc sufficit unum ad unum finem, sicut una medicina, si sit efficax, sufficit quandoque ad sanitatem inducendam, et tunc non oportet multiplicari medicinam. Sed propter debilitatem et imperfectionem eius quod est ad finem, oportet eam multiplicari, sicut multa remedia adhibentur infirmo, quando unum non sufficit ad sanandum. Caeremoniae autem veteris legis invalidae et imperfectae erant et ad repraesentandum Christi mysterium, quod est superexcellens; et ad subiugandum mentes hominum Deo. Unde apostolus dicit, ad Heb. VII, *reprobatio fit praecedentis mandati, propter infirmitatem et inutilitatem, nihil enim ad perfectum adduxit lex*. Et ideo oportuit huiusmodi caeremonias multiplicari.]]
 ![[CERF Ia-IIæ, q. 101, a. 3#ad 1]]
 
 ###### ad 2

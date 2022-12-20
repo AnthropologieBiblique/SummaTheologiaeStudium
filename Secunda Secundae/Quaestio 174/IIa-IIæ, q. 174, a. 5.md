@@ -14,15 +14,15 @@ tags :
 ![[CERF IIa-IIæ, q. 174, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 174, a. 5#arg. 3|Praeterea, Christus ab instanti conceptionis fuit comprehensor. Et tamen ipse prophetam se nominat, [[Mt 13]], ubi dicit, *non est propheta sine honore nisi in patria sua*. Ergo etiam comprehensores et beati possunt dici prophetae.]]
+![[LEO IIa-IIæ, q. 174, a. 5#arg. 3|Praeterea, Christus ab instanti conceptionis fuit comprehensor. Et tamen ipse prophetam se nominat, Matth. XIII, ubi dicit, *non est propheta sine honore nisi in patria sua*. Ergo etiam comprehensores et beati possunt dici prophetae.]]
 ![[CERF IIa-IIæ, q. 174, a. 5#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 174, a. 5#arg. 4|Praeterea, de Samuele dicitur, [[Si 46]], *exaltavit vocem eius de terra in prophetia, delere impietatem gentis*. Ergo, eadem ratione, alii sancti post mortem possunt dici prophetae.]]
+![[LEO IIa-IIæ, q. 174, a. 5#arg. 4|Praeterea, de Samuele dicitur, Eccli. XLVI, *exaltavit vocem eius de terra in prophetia, delere impietatem gentis*. Ergo, eadem ratione, alii sancti post mortem possunt dici prophetae.]]
 ![[CERF IIa-IIæ, q. 174, a. 5#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 174, a. 5#s.c.|Sed contra est quod [[2 P 1]], sermo propheticus comparatur lucernae lucenti in caliginoso loco. Sed in beatis nulla est caligo. Ergo non possunt dici prophetae.]]
+![[LEO IIa-IIæ, q. 174, a. 5#s.c.|Sed contra est quod II Pet. I, sermo propheticus comparatur lucernae lucenti in caliginoso loco. Sed in beatis nulla est caligo. Ergo non possunt dici prophetae.]]
 ![[CERF IIa-IIæ, q. 174, a. 5#s.c.]]
 
 ###### resp.
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIa-IIæ, q. 174, a. 5#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 174, a. 5#ad 4|Ad quartum dicendum quod etiam Samuel nondum pervenerat ad statum beatitudinis. Unde et, si voluntate Dei ipsa anima Samuelis Sauli eventum belli praenuntiavit, Deo sibi hoc revelante, pertinet ad rationem prophetiae. Non est autem eadem ratio de sanctis qui sunt modo in patria. Nec obstat quod arte Daemonum hoc dicitur factum. Quia etsi Daemones animam alicuius sancti evocare non possunt, neque cogere ad aliquid agendum; potest tamen hoc fieri divina virtute ut, dum Daemon consulitur, ipse Deus per suum nuntium veritatem enuntiat, sicut per Eliam veritatem respondit nuntiis regis qui mittebantur ad consulendum Deum Accaron, ut habetur [[2R 1]]. Quamvis etiam dici possit quod non fuerit anima Samuelis, sed Daemon ex persona eius loquens, quem sapiens Samuelem nominat, et eius praenuntiationem prophetiam, secundum opinionem Saulis et adstantium, qui ita opinabantur.]]
+![[LEO IIa-IIæ, q. 174, a. 5#ad 4|Ad quartum dicendum quod etiam Samuel nondum pervenerat ad statum beatitudinis. Unde et, si voluntate Dei ipsa anima Samuelis Sauli eventum belli praenuntiavit, Deo sibi hoc revelante, pertinet ad rationem prophetiae. Non est autem eadem ratio de sanctis qui sunt modo in patria. Nec obstat quod arte Daemonum hoc dicitur factum. Quia etsi Daemones animam alicuius sancti evocare non possunt, neque cogere ad aliquid agendum; potest tamen hoc fieri divina virtute ut, dum Daemon consulitur, ipse Deus per suum nuntium veritatem enuntiat, sicut per Eliam veritatem respondit nuntiis regis qui mittebantur ad consulendum Deum Accaron, ut habetur IV Reg. I. Quamvis etiam dici possit quod non fuerit anima Samuelis, sed Daemon ex persona eius loquens, quem sapiens Samuelem nominat, et eius praenuntiationem prophetiam, secundum opinionem Saulis et adstantium, qui ita opinabantur.]]
 ![[CERF IIa-IIæ, q. 174, a. 5#ad 4]]
 

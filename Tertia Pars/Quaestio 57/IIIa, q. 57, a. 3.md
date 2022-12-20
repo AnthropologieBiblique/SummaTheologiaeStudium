@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIIa, q. 57, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Christus non ascenderit propria virtute. Dicitur enim Marci ult. quod *dominus Iesus, postquam locutus est discipulis, assumptus est in caelum*. Et [[Ac 1]] dicitur quod, *videntibus illis, elevatus est, et nubes suscepit eum ab oculis eorum*. Sed illud quod assumitur et elevatur, ab alio videtur moveri. Ergo Christus non propria virtute, sed aliena, ferebatur in caelum.]]
+![[LEO IIIa, q. 57, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Christus non ascenderit propria virtute. Dicitur enim Marci ult. quod *dominus Iesus, postquam locutus est discipulis, assumptus est in caelum*. Et Act. I dicitur quod, *videntibus illis, elevatus est, et nubes suscepit eum ab oculis eorum*. Sed illud quod assumitur et elevatur, ab alio videtur moveri. Ergo Christus non propria virtute, sed aliena, ferebatur in caelum.]]
 ![[CERF IIIa, q. 57, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 57, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 57, a. 3#arg. 3|Praeterea, propria virtus Christi est virtus divina. Sed motus ille non videtur fuisse ex virtute divina, quia, cum virtus divina sit infinita, motus ille fuisset in instanti; et sic non potuisset videntibus discipulis elevari in caelum, ut dicitur [[Ac 1]]. Ergo videtur quod Christus non ascenderit propria virtute.]]
+![[LEO IIIa, q. 57, a. 3#arg. 3|Praeterea, propria virtus Christi est virtus divina. Sed motus ille non videtur fuisse ex virtute divina, quia, cum virtus divina sit infinita, motus ille fuisset in instanti; et sic non potuisset videntibus discipulis elevari in caelum, ut dicitur Act. I. Ergo videtur quod Christus non ascenderit propria virtute.]]
 ![[CERF IIIa, q. 57, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 57, a. 3#s.c.|Sed contra est quod dicitur [[Is 63]], *iste formosus in stola sua, gradiens in multitudine fortitudinis suae*. Et Gregorius dicit, in homilia ascensionis, *notandum est quod Elias in curru legitur ascendisse, ut videlicet aperte demonstraretur quia homo purus adiutorio indigebat alieno. Redemptor autem noster non curru, non Angelis sublevatus legitur, quia qui fecerat omnia, super omnia sua virtute ferebatur*.]]
+![[LEO IIIa, q. 57, a. 3#s.c.|Sed contra est quod dicitur Isaiae LXIII, *iste formosus in stola sua, gradiens in multitudine fortitudinis suae*. Et Gregorius dicit, in homilia ascensionis, *notandum est quod Elias in curru legitur ascendisse, ut videlicet aperte demonstraretur quia homo purus adiutorio indigebat alieno. Redemptor autem noster non curru, non Angelis sublevatus legitur, quia qui fecerat omnia, super omnia sua virtute ferebatur*.]]
 ![[CERF IIIa, q. 57, a. 3#s.c.]]
 
 ###### resp.

@@ -6,11 +6,11 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 62, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non sufficiat restituere simplum quod iniuste ablatum est. Dicitur enim [[Ex 22]], *si quis furatus fuerit bovem aut ovem, et occiderit vel vendiderit, quinque boves pro uno bove restituet, et quatuor oves pro una ove*. Sed quilibet tenetur mandatum divinae legis observare. Ergo ille qui furatur tenetur restituere quadruplum vel quintuplum.]]
+![[LEO IIa-IIæ, q. 62, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non sufficiat restituere simplum quod iniuste ablatum est. Dicitur enim Exod. XXII, *si quis furatus fuerit bovem aut ovem, et occiderit vel vendiderit, quinque boves pro uno bove restituet, et quatuor oves pro una ove*. Sed quilibet tenetur mandatum divinae legis observare. Ergo ille qui furatur tenetur restituere quadruplum vel quintuplum.]]
 ![[CERF IIa-IIæ, q. 62, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 62, a. 3#arg. 2|Praeterea, *ea quae scripta sunt, ad nostram doctrinam scripta sunt*, ut dicitur ad [[Rm 15]]. Sed [[Lc 19]] Zachaeus dicit ad dominum, *si quem defraudavi, reddo quadruplum*. Ergo homo debet restituere multiplicatum id quod iniuste accepit.]]
+![[LEO IIa-IIæ, q. 62, a. 3#arg. 2|Praeterea, *ea quae scripta sunt, ad nostram doctrinam scripta sunt*, ut dicitur ad Rom. XV. Sed Luc. XIX Zachaeus dicit ad dominum, *si quem defraudavi, reddo quadruplum*. Ergo homo debet restituere multiplicatum id quod iniuste accepit.]]
 ![[CERF IIa-IIæ, q. 62, a. 3#arg. 2]]
 
 ###### arg. 3

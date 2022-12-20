@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 104, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 104, a. 2#s.c.|Sed contra est quod [[Ex 21]] iudicialia praecepta allegorice et moraliter exponuntur.]]
+![[LEO Ia-IIæ, q. 104, a. 2#s.c.|Sed contra est quod Exod. XXI iudicialia praecepta allegorice et moraliter exponuntur.]]
 ![[CERF Ia-IIæ, q. 104, a. 2#s.c.]]
 
 ###### resp.

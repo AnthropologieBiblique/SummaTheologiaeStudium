@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 29#Prooemium|Deinde considerandum est de odio. Et circa hoc quaeruntur sex. Primo, utrum causa et obiectum odii sit malum. Secundo, utrum odium causetur ex amore. Tertio, utrum odium sit fortius quam amor. Quarto, utrum aliquis possit habere odio seipsum. Quinto, utrum aliquis possit habere odio veritatem. Sexto, utrum aliquid possit haberi odio in universali.]]
-![[CERF Ia-IIæ, q. 29#Prooemium]]
+Deinde considerandum est de odio. Et circa hoc quaeruntur sex. Primo, utrum causa et obiectum odii sit malum. Secundo, utrum odium causetur ex amore. Tertio, utrum odium sit fortius quam amor. Quarto, utrum aliquis possit habere odio seipsum. Quinto, utrum aliquis possit habere odio veritatem. Sexto, utrum aliquid possit haberi odio in universali.
 
 ![[Ia-IIæ, q. 29, a. 1#Articulus 1]]
 

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 98, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 98, a. 3#s.c.|Sed contra, omne peccatum quod contrariatur praecepto divino est peccatum mortale. Sed periurium contrariatur praecepto divino, dicitur enim [[Lv 19]], *non periurabis in nomine meo*. Ergo est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 98, a. 3#s.c.|Sed contra, omne peccatum quod contrariatur praecepto divino est peccatum mortale. Sed periurium contrariatur praecepto divino, dicitur enim Levit. XIX, *non periurabis in nomine meo*. Ergo est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 98, a. 3#s.c.]]
 
 ###### resp.

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 149#Prooemium|Deinde considerandum est de sobrietate, et vitio opposito, scilicet ebrietate. Et circa sobrietatem quaeruntur quatuor. Primo, quae sit materia sobrietatis. Secundo, utrum sit specialis virtus. Tertio, utrum usus vini sit licitus. Quarto, quibus praecipue competat sobrietas.]]
-![[CERF IIa-IIæ, q. 149#Prooemium]]
+Deinde considerandum est de sobrietate, et vitio opposito, scilicet ebrietate. Et circa sobrietatem quaeruntur quatuor. Primo, quae sit materia sobrietatis. Secundo, utrum sit specialis virtus. Tertio, utrum usus vini sit licitus. Quarto, quibus praecipue competat sobrietas.
 
 ![[IIa-IIæ, q. 149, a. 1#Articulus 1]]
 

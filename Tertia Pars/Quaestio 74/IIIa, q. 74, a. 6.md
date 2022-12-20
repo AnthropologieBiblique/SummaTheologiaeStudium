@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIIa, q. 74, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod aqua non sit vino permiscenda. Sacrificium enim Christi figuratum fuit per oblationem Melchisedech, qui, [[Gn 14]], non legitur obtulisse nisi panem et vinum. Ergo videtur quod in hoc sacramento non debeat adiungi aqua.]]
+![[LEO IIIa, q. 74, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod aqua non sit vino permiscenda. Sacrificium enim Christi figuratum fuit per oblationem Melchisedech, qui, Gen. XIV, non legitur obtulisse nisi panem et vinum. Ergo videtur quod in hoc sacramento non debeat adiungi aqua.]]
 ![[CERF IIIa, q. 74, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 74, a. 6#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 74, a. 6#ad 1|Ad primum ergo dicendum quod, sicut Ambrosius dicit ibidem, sicut sacrificium Christi significatum est per oblationem Melchisedech, ita etiam significatum est per aquam quae in eremo fluxit de petra, secundum illud [[1 Co 10]], *bibebant autem de spirituali consequente eos petra*.]]
+![[LEO IIIa, q. 74, a. 6#ad 1|Ad primum ergo dicendum quod, sicut Ambrosius dicit ibidem, sicut sacrificium Christi significatum est per oblationem Melchisedech, ita etiam significatum est per aquam quae in eremo fluxit de petra, secundum illud I Cor. X, *bibebant autem de spirituali consequente eos petra*.]]
 ![[CERF IIIa, q. 74, a. 6#ad 1]]
 
 ###### ad 2

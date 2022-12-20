@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 72, a. 9#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 72, a. 9#arg. 3|Praeterea, hoc sacramentum datur homini ad hoc quod libere fidem Christi confiteatur. Sed *ore fit confessio ad salutem*, ut dicitur [[Rm 10]]. Ergo hoc sacramentum magis debet conferri circa os quam in fronte.]]
+![[LEO IIIa, q. 72, a. 9#arg. 3|Praeterea, hoc sacramentum datur homini ad hoc quod libere fidem Christi confiteatur. Sed *ore fit confessio ad salutem*, ut dicitur Rom. X. Ergo hoc sacramentum magis debet conferri circa os quam in fronte.]]
 ![[CERF IIIa, q. 72, a. 9#arg. 3]]
 
 ###### s.c.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 72, a. 9#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 72, a. 9#ad 2|Ad secundum dicendum quod principium fortitudinis est in corde, sed signum apparet in fronte, unde dicitur [[Ez 3]], *ecce, dedi frontem tuam duriorem frontibus eorum*. Et ideo sacramentum Eucharistiae, quo homo in seipso confirmatur, pertinet ad cor, secundum illud Psalmi, *panis cor hominis confirmet*. Sed sacramentum confirmationis requiritur in signum fortitudinis ad alios. Et ideo exhibetur in fronte.]]
+![[LEO IIIa, q. 72, a. 9#ad 2|Ad secundum dicendum quod principium fortitudinis est in corde, sed signum apparet in fronte, unde dicitur Ezech. III, *ecce, dedi frontem tuam duriorem frontibus eorum*. Et ideo sacramentum Eucharistiae, quo homo in seipso confirmatur, pertinet ad cor, secundum illud Psalmi, *panis cor hominis confirmet*. Sed sacramentum confirmationis requiritur in signum fortitudinis ad alios. Et ideo exhibetur in fronte.]]
 ![[CERF IIIa, q. 72, a. 9#ad 2]]
 
 ###### ad 3

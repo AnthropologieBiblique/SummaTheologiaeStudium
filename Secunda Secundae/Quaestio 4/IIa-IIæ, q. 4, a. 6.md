@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 4, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod non sit una fides. *Sicut enim fides est donum Dei*, ut dicitur ad [[Ep 2]], ita etiam sapientia et scientia inter dona Dei computantur, ut patet [[Is 11]]. Sed sapientia et scientia differunt per hoc quod sapientia est de aeternis, scientia vero de temporalibus, ut patet per Augustinum, XII de Trin. Cum igitur fides sit et de aeternis et de quibusdam temporalibus, videtur quod non sit una fides, sed distinguatur in partes.]]
+![[LEO IIa-IIæ, q. 4, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod non sit una fides. *Sicut enim fides est donum Dei*, ut dicitur ad Ephes. II, ita etiam sapientia et scientia inter dona Dei computantur, ut patet Isaiae XI. Sed sapientia et scientia differunt per hoc quod sapientia est de aeternis, scientia vero de temporalibus, ut patet per Augustinum, XII de Trin. Cum igitur fides sit et de aeternis et de quibusdam temporalibus, videtur quod non sit una fides, sed distinguatur in partes.]]
 ![[CERF IIa-IIæ, q. 4, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 4, a. 6#arg. 2|Praeterea, confessio est actus fidei, ut supra dictum est. Sed non est una et eadem confessio fidei apud omnes, nam quod nos confitemur factum antiqui patres confitebantur futurum, ut patet [[Is 7]], *ecce virgo concipiet*. Ergo non est una fides.]]
+![[LEO IIa-IIæ, q. 4, a. 6#arg. 2|Praeterea, confessio est actus fidei, ut supra dictum est. Sed non est una et eadem confessio fidei apud omnes, nam quod nos confitemur factum antiqui patres confitebantur futurum, ut patet Isaiae VII, *ecce virgo concipiet*. Ergo non est una fides.]]
 ![[CERF IIa-IIæ, q. 4, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 4, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 4, a. 6#s.c.|Sed contra est quod apostolus dicit, ad [[Ep 4]], *unus dominus, una fides*.]]
+![[LEO IIa-IIæ, q. 4, a. 6#s.c.|Sed contra est quod apostolus dicit, ad Ephes. IV, *unus dominus, una fides*.]]
 ![[CERF IIa-IIæ, q. 4, a. 6#s.c.]]
 
 ###### resp.

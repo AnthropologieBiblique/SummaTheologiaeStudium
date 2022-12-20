@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 17, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod caritas sit prior spe. Dicit enim Ambrosius, super illud [[Lc 17]], *si habueritis fidem sicut granum sinapis, etc., ex fide est caritas, ex caritate spes*. Sed fides est prior caritate. Ergo caritas est prior spe.]]
+![[LEO IIa-IIæ, q. 17, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod caritas sit prior spe. Dicit enim Ambrosius, super illud Luc. XVII, *si habueritis fidem sicut granum sinapis, etc., ex fide est caritas, ex caritate spes*. Sed fides est prior caritate. Ergo caritas est prior spe.]]
 ![[CERF IIa-IIæ, q. 17, a. 8#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 17, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 17, a. 8#s.c.|Sed contra est quod apostolus dicit, [[1 Tm 1]], *finis praecepti caritas est de corde puro et conscientia bona*, Glossa, idest spe. Ergo spes est prior caritate.]]
+![[LEO IIa-IIæ, q. 17, a. 8#s.c.|Sed contra est quod apostolus dicit, I ad Tim. I, *finis praecepti caritas est de corde puro et conscientia bona*, Glossa, idest spe. Ergo spes est prior caritate.]]
 ![[CERF IIa-IIæ, q. 17, a. 8#s.c.]]
 
 ###### resp.

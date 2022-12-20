@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 109, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod homo sine gratia per sua naturalia possit praecepta legis implere. Dicit enim apostolus, ad [[Rm 2]], quod *gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt*. Sed illud quod naturaliter homo facit, potest per seipsum facere absque gratia. Ergo homo potest legis praecepta facere absque gratia.]]
+![[LEO Ia-IIæ, q. 109, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod homo sine gratia per sua naturalia possit praecepta legis implere. Dicit enim apostolus, ad Rom. II, quod *gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt*. Sed illud quod naturaliter homo facit, potest per seipsum facere absque gratia. Ergo homo potest legis praecepta facere absque gratia.]]
 ![[CERF Ia-IIæ, q. 109, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 109, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 109, a. 4#arg. 3|Praeterea, inter omnia praecepta legis maximum est illud, *diliges dominum Deum tuum ex toto corde tuo*; ut patet [[Mt 22]]. Sed hoc mandatum potest homo implere ex solis naturalibus, diligendo Deum super omnia, ut supra dictum est. Ergo omnia mandata legis potest homo implere sine gratia.]]
+![[LEO Ia-IIæ, q. 109, a. 4#arg. 3|Praeterea, inter omnia praecepta legis maximum est illud, *diliges dominum Deum tuum ex toto corde tuo*; ut patet Matth. XXII. Sed hoc mandatum potest homo implere ex solis naturalibus, diligendo Deum super omnia, ut supra dictum est. Ergo omnia mandata legis potest homo implere sine gratia.]]
 ![[CERF Ia-IIæ, q. 109, a. 4#arg. 3]]
 
 ###### s.c.

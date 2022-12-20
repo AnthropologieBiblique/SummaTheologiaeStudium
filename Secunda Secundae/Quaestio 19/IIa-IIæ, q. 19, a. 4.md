@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 19, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod timor servilis non sit bonus. Quia cuius usus est malus, ipsum quoque malum est. Sed usus timoris servilis est malus, quia sicut Glossa dicit [[Rm 8]], *qui timore aliquid facit, etsi bonum sit quod facit, non tamen bene facit*. Ergo timor servilis non est bonus.]]
+![[LEO IIa-IIæ, q. 19, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod timor servilis non sit bonus. Quia cuius usus est malus, ipsum quoque malum est. Sed usus timoris servilis est malus, quia sicut Glossa dicit Rom. VIII, *qui timore aliquid facit, etsi bonum sit quod facit, non tamen bene facit*. Ergo timor servilis non est bonus.]]
 ![[CERF IIa-IIæ, q. 19, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 19, a. 4#arg. 2|Praeterea, illud quod ex radice peccati oritur non est bonum. Sed timor servilis oritur ex radice peccati, quia super illud [[Jb 3]], *quare non in vulva mortuus sum?* Dicit Gregorius, *cum ex peccato praesens poena metuitur, et amissa Dei facies non amatur, timor ex tumore est, non ex humilitate*. Ergo timor servilis est malus.]]
+![[LEO IIa-IIæ, q. 19, a. 4#arg. 2|Praeterea, illud quod ex radice peccati oritur non est bonum. Sed timor servilis oritur ex radice peccati, quia super illud Iob III, *quare non in vulva mortuus sum?* Dicit Gregorius, *cum ex peccato praesens poena metuitur, et amissa Dei facies non amatur, timor ex tumore est, non ex humilitate*. Ergo timor servilis est malus.]]
 ![[CERF IIa-IIæ, q. 19, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 19, a. 4#s.c.|Sed contra, nullum malum est a spiritu sancto. Sed timor servilis est ex spiritu sancto, quia super illud [[Rm 8]], *non accepistis spiritum servitutis* etc., dicit Glossa, *unus spiritus est qui facit duos timores, scilicet servilem et castum*. Ergo timor servilis non est malus.]]
+![[LEO IIa-IIæ, q. 19, a. 4#s.c.|Sed contra, nullum malum est a spiritu sancto. Sed timor servilis est ex spiritu sancto, quia super illud Rom. VIII, *non accepistis spiritum servitutis* etc., dicit Glossa, *unus spiritus est qui facit duos timores, scilicet servilem et castum*. Ergo timor servilis non est malus.]]
 ![[CERF IIa-IIæ, q. 19, a. 4#s.c.]]
 
 ###### resp.

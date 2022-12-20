@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 80, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non debeant distingui duo modi manducandi corpus Christi, scilicet spiritualiter et sacramentaliter. Sicut enim Baptismus est spiritualis regeneratio, secundum illud [[Jn 3]], *nisi quis renatus fuerit ex aqua et spiritu sancto* etc., ita etiam hoc sacramentum est cibus spiritualis, unde dominus, loquens de hoc sacramento, dicit, [[Jn 3]], *verba quae ego locutus sum vobis, spiritus et vita sunt*. Sed circa Baptismum non distinguitur duplex modus sumendi, scilicet sacramentalis et spiritualis. Ergo neque circa hoc sacramentum debet haec distinctio adhiberi.]]
+![[LEO IIIa, q. 80, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non debeant distingui duo modi manducandi corpus Christi, scilicet spiritualiter et sacramentaliter. Sicut enim Baptismus est spiritualis regeneratio, secundum illud Ioan. III, *nisi quis renatus fuerit ex aqua et spiritu sancto* etc., ita etiam hoc sacramentum est cibus spiritualis, unde dominus, loquens de hoc sacramento, dicit, Ioan. VI, *verba quae ego locutus sum vobis, spiritus et vita sunt*. Sed circa Baptismum non distinguitur duplex modus sumendi, scilicet sacramentalis et spiritualis. Ergo neque circa hoc sacramentum debet haec distinctio adhiberi.]]
 ![[CERF IIIa, q. 80, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 80, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 80, a. 1#s.c.|Sed contra est quod, super illud [[1 Co 11]], *qui manducat et bibit indigne* etc., dicit Glossa, *duos dicimus esse modos manducandi, unum sacramentalem, et alium spiritualem*.]]
+![[LEO IIIa, q. 80, a. 1#s.c.|Sed contra est quod, super illud I Cor. XI, *qui manducat et bibit indigne* etc., dicit Glossa, *duos dicimus esse modos manducandi, unum sacramentalem, et alium spiritualem*.]]
 ![[CERF IIIa, q. 80, a. 1#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 80, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 80, a. 1#ad 3|Ad tertium dicendum quod, sicut supra dictum est, effectus sacramenti potest ab aliquo percipi, si sacramentum habeatur in voto, quamvis non habeatur in re. Et ideo, sicut aliqui baptizantur Baptismo flaminis, propter desiderium Baptismi, antequam baptizentur Baptismo aquae; ita etiam aliqui manducant spiritualiter hoc sacramentum antequam sacramentaliter sumant. Sed hoc contingit dupliciter. Uno modo, propter desiderium sumendi ipsum sacramentum, et hoc modo dicuntur baptizari et manducare spiritualiter et non sacramentaliter, illi qui desiderant sumere haec sacramenta iam instituta. Alio modo, propter figuram, sicut dicit apostolus, [[1 Co 10]], quod antiqui patres *baptizati sunt in nube et in mari, et quod spiritualem escam manducaverunt et spiritualem potum biberunt*. Nec tamen frustra adhibetur sacramentalis manducatio, quia plenius inducit sacramenti effectum ipsa sacramenti susceptio quam solum desiderium, sicut supra circa Baptismum dictum est.]]
+![[LEO IIIa, q. 80, a. 1#ad 3|Ad tertium dicendum quod, sicut supra dictum est, effectus sacramenti potest ab aliquo percipi, si sacramentum habeatur in voto, quamvis non habeatur in re. Et ideo, sicut aliqui baptizantur Baptismo flaminis, propter desiderium Baptismi, antequam baptizentur Baptismo aquae; ita etiam aliqui manducant spiritualiter hoc sacramentum antequam sacramentaliter sumant. Sed hoc contingit dupliciter. Uno modo, propter desiderium sumendi ipsum sacramentum, et hoc modo dicuntur baptizari et manducare spiritualiter et non sacramentaliter, illi qui desiderant sumere haec sacramenta iam instituta. Alio modo, propter figuram, sicut dicit apostolus, I Cor. X, quod antiqui patres *baptizati sunt in nube et in mari, et quod spiritualem escam manducaverunt et spiritualem potum biberunt*. Nec tamen frustra adhibetur sacramentalis manducatio, quia plenius inducit sacramenti effectum ipsa sacramenti susceptio quam solum desiderium, sicut supra circa Baptismum dictum est.]]
 ![[CERF IIIa, q. 80, a. 1#ad 3]]
 

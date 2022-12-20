@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 37, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 37, a. 4#s.c.|Sed contra est quod dicitur [[Pr 17]], *animus gaudens aetatem floridam facit, spiritus tristis exsiccat ossa*. Et [[Pr 17]], *sicut tinea vestimento, et vermis ligno, ita tristitia viri nocet cordi*. Et [[Si 38]], *a tristitia festinat mors*.]]
+![[LEO Ia-IIæ, q. 37, a. 4#s.c.|Sed contra est quod dicitur Prov. XVII, *animus gaudens aetatem floridam facit, spiritus tristis exsiccat ossa*. Et Prov. XXV, *sicut tinea vestimento, et vermis ligno, ita tristitia viri nocet cordi*. Et Eccli. XXXVIII, *a tristitia festinat mors*.]]
 ![[CERF Ia-IIæ, q. 37, a. 4#s.c.]]
 
 ###### resp.

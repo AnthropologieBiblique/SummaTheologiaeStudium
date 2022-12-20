@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 33, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 33, a. 3#ad 3|Ad tertium dicendum quod in mysterio incarnationis non consideratur ascensus, quasi alicuius praeexistentis proficientis usque ad unionis dignitatem, sicut posuit Photinus haereticus. Sed potius ibi consideratur descensus, secundum quod perfectum Dei verbum imperfectionem naturae nostrae sibi assumpsit; secundum illud [[Jn 6]], *descendi de caelo*.]]
+![[LEO IIIa, q. 33, a. 3#ad 3|Ad tertium dicendum quod in mysterio incarnationis non consideratur ascensus, quasi alicuius praeexistentis proficientis usque ad unionis dignitatem, sicut posuit Photinus haereticus. Sed potius ibi consideratur descensus, secundum quod perfectum Dei verbum imperfectionem naturae nostrae sibi assumpsit; secundum illud Ioan. VI, *descendi de caelo*.]]
 ![[CERF IIIa, q. 33, a. 3#ad 3]]
 

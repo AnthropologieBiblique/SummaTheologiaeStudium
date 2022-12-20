@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 156, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod incontinentia non sit peccatum. Quia, ut Augustinus dicit, in libro de Lib. Arbit., *nullus peccat in eo quod vitare non potest*. Sed incontinentiam nullus potest ex seipso vitare, secundum illud [[Sg 8]], *scio quod non possum esse continens nisi Deus det*. Ergo incontinentia non est peccatum.]]
+![[LEO IIa-IIæ, q. 156, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod incontinentia non sit peccatum. Quia, ut Augustinus dicit, in libro de Lib. Arbit., *nullus peccat in eo quod vitare non potest*. Sed incontinentiam nullus potest ex seipso vitare, secundum illud Sap. VIII, *scio quod non possum esse continens nisi Deus det*. Ergo incontinentia non est peccatum.]]
 ![[CERF IIa-IIæ, q. 156, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 156, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 156, a. 2#s.c.|Sed contra est quod connumeratur aliis peccatis, [[2 Tm 3]], ubi dicitur, criminatores, incontinentes, immites, et cetera. Ergo incontinentia est peccatum.]]
+![[LEO IIa-IIæ, q. 156, a. 2#s.c.|Sed contra est quod connumeratur aliis peccatis, II ad Tim. III, ubi dicitur, criminatores, incontinentes, immites, et cetera. Ergo incontinentia est peccatum.]]
 ![[CERF IIa-IIæ, q. 156, a. 2#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 156, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 156, a. 2#ad 1|Ad primum ergo dicendum quod homo potest vitare peccatum et facere bonum, non tamen sine divino auxilio, secundum illud [[Jn 15]], *sine me nihil potestis facere*. Unde per hoc quod homo indiget divino auxilio ad hoc quod sit continens, non excluditur quin incontinentia sit peccatum, quia, ut dicitur in III Ethic., *quae per amicos possumus, aliqualiter per nos possumus*.]]
+![[LEO IIa-IIæ, q. 156, a. 2#ad 1|Ad primum ergo dicendum quod homo potest vitare peccatum et facere bonum, non tamen sine divino auxilio, secundum illud Ioan. XV, *sine me nihil potestis facere*. Unde per hoc quod homo indiget divino auxilio ad hoc quod sit continens, non excluditur quin incontinentia sit peccatum, quia, ut dicitur in III Ethic., *quae per amicos possumus, aliqualiter per nos possumus*.]]
 ![[CERF IIa-IIæ, q. 156, a. 2#ad 1]]
 
 ###### ad 2

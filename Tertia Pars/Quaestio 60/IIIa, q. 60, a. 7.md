@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 60, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 60, a. 7#s.c.|Sed contra est quod dominus determinata verba protulit in consecratione sacramenti Eucharistiae, dicens, [[Mt 26]], *hoc est corpus meum*. Similiter etiam mandavit discipulis ut sub determinata forma verborum baptizarent, dicens, Matth. ult., *euntes, docete omnes gentes, baptizantes eos in nomine patris et filii et spiritus sancti*.]]
+![[LEO IIIa, q. 60, a. 7#s.c.|Sed contra est quod dominus determinata verba protulit in consecratione sacramenti Eucharistiae, dicens, Matth. XXVI, *hoc est corpus meum*. Similiter etiam mandavit discipulis ut sub determinata forma verborum baptizarent, dicens, Matth. ult., *euntes, docete omnes gentes, baptizantes eos in nomine patris et filii et spiritus sancti*.]]
 ![[CERF IIIa, q. 60, a. 7#s.c.]]
 
 ###### resp.

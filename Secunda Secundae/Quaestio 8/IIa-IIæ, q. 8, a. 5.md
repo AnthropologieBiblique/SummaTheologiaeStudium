@@ -10,15 +10,15 @@ tags :
 ![[CERF IIa-IIæ, q. 8, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 8, a. 5#arg. 2|Praeterea, [[Dn 10]] dicitur quod intelligentia opus est in visione prophetica, et ita videtur quod prophetia non sit sine dono intellectus. Sed prophetia potest esse sine gratia gratum faciente, ut patet [[Mt 7]], ubi dicentibus, in nomine tuo prophetavimus, respondetur, nunquam novi vos. Ergo donum intellectus potest esse sine gratia gratum faciente.]]
+![[LEO IIa-IIæ, q. 8, a. 5#arg. 2|Praeterea, Danielis X dicitur quod intelligentia opus est in visione prophetica, et ita videtur quod prophetia non sit sine dono intellectus. Sed prophetia potest esse sine gratia gratum faciente, ut patet Matth. VII, ubi dicentibus, in nomine tuo prophetavimus, respondetur, nunquam novi vos. Ergo donum intellectus potest esse sine gratia gratum faciente.]]
 ![[CERF IIa-IIæ, q. 8, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 8, a. 5#arg. 3|Praeterea, donum intellectus respondet virtuti fidei, secundum illud [[Is 7]], secundum aliam litteram, *nisi credideritis, non intelligetis*. Sed fides potest esse sine gratia gratum faciente. Ergo etiam donum intellectus.]]
+![[LEO IIa-IIæ, q. 8, a. 5#arg. 3|Praeterea, donum intellectus respondet virtuti fidei, secundum illud Isaiae VII, secundum aliam litteram, *nisi credideritis, non intelligetis*. Sed fides potest esse sine gratia gratum faciente. Ergo etiam donum intellectus.]]
 ![[CERF IIa-IIæ, q. 8, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 8, a. 5#s.c.|Sed contra est quod dominus dicit, [[Jn 6]], *omnis qui audivit a patre et didicit, venit ad me*. Sed per intellectum audita addiscimus vel penetramus, ut patet per Gregorium, in I Moral. Ergo quicumque habet intellectus donum venit ad Christum. Quod non est sine gratia gratum faciente. Ergo donum intellectus non est sine gratia gratum faciente.]]
+![[LEO IIa-IIæ, q. 8, a. 5#s.c.|Sed contra est quod dominus dicit, Ioan. VI, *omnis qui audivit a patre et didicit, venit ad me*. Sed per intellectum audita addiscimus vel penetramus, ut patet per Gregorium, in I Moral. Ergo quicumque habet intellectus donum venit ad Christum. Quod non est sine gratia gratum faciente. Ergo donum intellectus non est sine gratia gratum faciente.]]
 ![[CERF IIa-IIæ, q. 8, a. 5#s.c.]]
 
 ###### resp.

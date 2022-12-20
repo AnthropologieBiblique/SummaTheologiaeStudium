@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIIa, q. 81, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Christus sumpserit et dederit corpus suum discipulis impassibile. Quia super illud [[Mt 17]], *transfiguratus est ante illos*, dicit quaedam Glossa, *illud corpus quod habuit per naturam, dedit discipulis in cena, non mortale et passibile*. Et [[Lv 2]], super illud, *si oblatio tua fuerit de sartagine*, dicit Glossa, *crux, super omnia fortis, carnem Christi, quae ante passionem non videbatur esui apta, post aptam fecit*. Sed Christus dedit corpus suum ut aptum ad manducandum. Ergo dedit tale quale habuit post passionem, scilicet impassibile et immortale.]]
+![[LEO IIIa, q. 81, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Christus sumpserit et dederit corpus suum discipulis impassibile. Quia super illud Matth. XVII, *transfiguratus est ante illos*, dicit quaedam Glossa, *illud corpus quod habuit per naturam, dedit discipulis in cena, non mortale et passibile*. Et Levit. II, super illud, *si oblatio tua fuerit de sartagine*, dicit Glossa, *crux, super omnia fortis, carnem Christi, quae ante passionem non videbatur esui apta, post aptam fecit*. Sed Christus dedit corpus suum ut aptum ad manducandum. Ergo dedit tale quale habuit post passionem, scilicet impassibile et immortale.]]
 ![[CERF IIIa, q. 81, a. 3#arg. 1]]
 
 ###### arg. 2

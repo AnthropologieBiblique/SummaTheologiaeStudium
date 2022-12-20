@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 93, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 93, a. 6#arg. 2|Praeterea, [[Gn 1]], *creavit Deus hominem ad imaginem suam, ad imaginem Dei creavit illum, masculum et feminam creavit eos*. Sed distinctio masculi et feminae est secundum corpus. Ergo etiam secundum corpus attenditur Dei imago in homine, et non secundum mentem tantum.]]
+![[LEO Ia, q. 93, a. 6#arg. 2|Praeterea, Gen. I, *creavit Deus hominem ad imaginem suam, ad imaginem Dei creavit illum, masculum et feminam creavit eos*. Sed distinctio masculi et feminae est secundum corpus. Ergo etiam secundum corpus attenditur Dei imago in homine, et non secundum mentem tantum.]]
 ![[CERF Ia, q. 93, a. 6#arg. 2]]
 
 ###### arg. 3

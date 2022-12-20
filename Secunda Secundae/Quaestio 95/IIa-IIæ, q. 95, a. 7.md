@@ -6,19 +6,19 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 95, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod divinatio quae est per auguria et omina et alias huiusmodi observationes exteriorum rerum, non sit illicita. Si enim esset illicita, sancti viri ea non uterentur. Sed de Ioseph legitur quod auguriis intendebat, legitur enim [[Gn 44]] quod dispensator Ioseph dixit, *scyphus quem furati estis ipse est in quo bibit dominus meus, et in quo augurari solet*; et ipse postea dixit fratribus suis, *an ignoratis quod non sit similis mei in augurandi scientia?* Ergo uti tali divinatione non est illicitum.]]
+![[LEO IIa-IIæ, q. 95, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod divinatio quae est per auguria et omina et alias huiusmodi observationes exteriorum rerum, non sit illicita. Si enim esset illicita, sancti viri ea non uterentur. Sed de Ioseph legitur quod auguriis intendebat, legitur enim Gen. XLIV quod dispensator Ioseph dixit, *scyphus quem furati estis ipse est in quo bibit dominus meus, et in quo augurari solet*; et ipse postea dixit fratribus suis, *an ignoratis quod non sit similis mei in augurandi scientia?* Ergo uti tali divinatione non est illicitum.]]
 ![[CERF IIa-IIæ, q. 95, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 95, a. 7#arg. 2|Praeterea, aves aliqua circa futuros temporum eventus naturaliter cognoscunt, secundum illud [[Jr 8]], *milvus in caelo cognovit tempus suum, turtur et hirundo et ciconia custodierunt tempus adventus sui*. Sed naturalis cognitio est infallibilis, et a Deo. Ergo uti cognitione avium ad praenoscendum futura, quod est augurari, non videtur esse illicitum.]]
+![[LEO IIa-IIæ, q. 95, a. 7#arg. 2|Praeterea, aves aliqua circa futuros temporum eventus naturaliter cognoscunt, secundum illud Ierem. VIII, *milvus in caelo cognovit tempus suum, turtur et hirundo et ciconia custodierunt tempus adventus sui*. Sed naturalis cognitio est infallibilis, et a Deo. Ergo uti cognitione avium ad praenoscendum futura, quod est augurari, non videtur esse illicitum.]]
 ![[CERF IIa-IIæ, q. 95, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 95, a. 7#arg. 3|Praeterea, Gedeon in numero sanctorum ponitur, ut patet [[He 11]]. Sed Gedeon usus fuit omine ex hoc quod audivit recitationem et interpretationem cuiusdam somnii, ut legitur [[Jg 7]]. Et similiter Eliezer, servus Abrahae, ut legitur [[Gn 24]]. Ergo videtur quod talis divinatio non sit illicita.]]
+![[LEO IIa-IIæ, q. 95, a. 7#arg. 3|Praeterea, Gedeon in numero sanctorum ponitur, ut patet Heb. XI. Sed Gedeon usus fuit omine ex hoc quod audivit recitationem et interpretationem cuiusdam somnii, ut legitur Iudic. VII. Et similiter Eliezer, servus Abrahae, ut legitur Gen. XXIV. Ergo videtur quod talis divinatio non sit illicita.]]
 ![[CERF IIa-IIæ, q. 95, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 95, a. 7#s.c.|Sed contra est quod dicitur [[Dt 18]], *non inveniatur in te qui observet auguria*.]]
+![[LEO IIa-IIæ, q. 95, a. 7#s.c.|Sed contra est quod dicitur Deut. XVIII, *non inveniatur in te qui observet auguria*.]]
 ![[CERF IIa-IIæ, q. 95, a. 7#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 147, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod hora nona non convenienter taxetur ad comedendum, his qui ieiunant. Status enim novi testamenti est perfectior quam status veteris testamenti. Sed in veteri testamento ieiunabant usque ad vesperam, dicitur enim [[Lv 23]], *sabbatum est, affligetis animas vestras*; et postea sequitur, *a vespere usque ad vesperam celebrabitis sabbata vestra*. Ergo multo magis in novo testamento ieiunium debet indici usque ad vesperam.]]
+![[LEO IIa-IIæ, q. 147, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod hora nona non convenienter taxetur ad comedendum, his qui ieiunant. Status enim novi testamenti est perfectior quam status veteris testamenti. Sed in veteri testamento ieiunabant usque ad vesperam, dicitur enim Levit. XXIII, *sabbatum est, affligetis animas vestras*; et postea sequitur, *a vespere usque ad vesperam celebrabitis sabbata vestra*. Ergo multo magis in novo testamento ieiunium debet indici usque ad vesperam.]]
 ![[CERF IIa-IIæ, q. 147, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 147, a. 7#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 147, a. 7#ad 1|Ad primum ergo dicendum quod status veteris testamenti comparatur nocti, status vero novi testamenti diei, secundum illud [[Rm 13]], *nox praecessit, dies autem appropinquavit*. Et ideo in veteri testamento ieiunabant usque ad noctem, non autem in novo testamento.]]
+![[LEO IIa-IIæ, q. 147, a. 7#ad 1|Ad primum ergo dicendum quod status veteris testamenti comparatur nocti, status vero novi testamenti diei, secundum illud Rom. XIII, *nox praecessit, dies autem appropinquavit*. Et ideo in veteri testamento ieiunabant usque ad noctem, non autem in novo testamento.]]
 ![[CERF IIa-IIæ, q. 147, a. 7#ad 1]]
 
 ###### ad 2

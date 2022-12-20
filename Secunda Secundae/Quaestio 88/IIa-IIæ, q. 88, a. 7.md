@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 88, a. 7#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 88, a. 7#ad 1|Ad primum ergo dicendum quod huiusmodi solemnitas pertinet non solum ad homines, sed ad Deum, inquantum habet aliquam spiritualem consecrationem seu benedictionem, cuius Deus est auctor, etsi homo sit minister, secundum illud [[Nb 6]], *invocabunt nomen meum super filios Israel, et ego benedicam eis*. Et ideo votum solemne habet fortiorem obligationem apud Deum quam votum simplex; et gravius peccat qui illud transgreditur. Quod autem dicitur quod votum simplex non minus obligat apud Deum quam solemne, intelligendum est quantum ad hoc quod utriusque transgressor peccat mortaliter.]]
+![[LEO IIa-IIæ, q. 88, a. 7#ad 1|Ad primum ergo dicendum quod huiusmodi solemnitas pertinet non solum ad homines, sed ad Deum, inquantum habet aliquam spiritualem consecrationem seu benedictionem, cuius Deus est auctor, etsi homo sit minister, secundum illud Num. VI, *invocabunt nomen meum super filios Israel, et ego benedicam eis*. Et ideo votum solemne habet fortiorem obligationem apud Deum quam votum simplex; et gravius peccat qui illud transgreditur. Quod autem dicitur quod votum simplex non minus obligat apud Deum quam solemne, intelligendum est quantum ad hoc quod utriusque transgressor peccat mortaliter.]]
 ![[CERF IIa-IIæ, q. 88, a. 7#ad 1]]
 
 ###### ad 2

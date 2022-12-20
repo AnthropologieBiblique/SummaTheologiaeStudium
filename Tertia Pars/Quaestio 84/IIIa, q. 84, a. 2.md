@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 84, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 84, a. 2#s.c.|Sed contra est quod apostolus dicit, [[2 Co 12]], *non egerunt poenitentiam super immunditia et fornicatione et impudicitia quam gesserunt*.]]
+![[LEO IIIa, q. 84, a. 2#s.c.|Sed contra est quod apostolus dicit, II Cor. XII, *non egerunt poenitentiam super immunditia et fornicatione et impudicitia quam gesserunt*.]]
 ![[CERF IIIa, q. 84, a. 2#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 84, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 84, a. 2#ad 3|Ad tertium dicendum quod poenitentia quodammodo est de quolibet peccatorum genere, non tamen eodem modo. Nam de peccato actuali mortali est poenitentia proprie et principaliter, proprie quidem, quia proprie dicimur poenitere de his quae nostra voluntate commisimus; principaliter autem, quia ad deletionem peccati mortalis hoc sacramentum est institutum. De peccatis autem venialibus est quaedam poenitentia proprie, inquantum sunt nostra voluntate facta, non tamen contra haec principaliter est hoc sacramentum institutum. De peccato vero originali poenitentia nec principaliter est, quia contra ipsum non ordinatur hoc sacramentum, sed magis Baptismus, nec etiam proprie, quia peccatum originale non est nostra voluntate peractum; nisi forte inquantum voluntas Adae reputatur nostra, secundum modum loquendi quo apostolus dicit, [[Rm 5]], *in quo omnes peccaverunt*. Inquantum tamen accipitur poenitentia large pro quacumque detestatione rei praeteritae, potest dici poenitentia de peccato originali, sicut loquitur Augustinus in libro de poenitentia.]]
+![[LEO IIIa, q. 84, a. 2#ad 3|Ad tertium dicendum quod poenitentia quodammodo est de quolibet peccatorum genere, non tamen eodem modo. Nam de peccato actuali mortali est poenitentia proprie et principaliter, proprie quidem, quia proprie dicimur poenitere de his quae nostra voluntate commisimus; principaliter autem, quia ad deletionem peccati mortalis hoc sacramentum est institutum. De peccatis autem venialibus est quaedam poenitentia proprie, inquantum sunt nostra voluntate facta, non tamen contra haec principaliter est hoc sacramentum institutum. De peccato vero originali poenitentia nec principaliter est, quia contra ipsum non ordinatur hoc sacramentum, sed magis Baptismus, nec etiam proprie, quia peccatum originale non est nostra voluntate peractum; nisi forte inquantum voluntas Adae reputatur nostra, secundum modum loquendi quo apostolus dicit, Rom. V, *in quo omnes peccaverunt*. Inquantum tamen accipitur poenitentia large pro quacumque detestatione rei praeteritae, potest dici poenitentia de peccato originali, sicut loquitur Augustinus in libro de poenitentia.]]
 ![[CERF IIIa, q. 84, a. 2#ad 3]]
 

@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIIa, q. 8, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod non sit eadem gratia qua Christus est caput Ecclesiae, cum gratia singulari illius hominis. Dicit enim apostolus, [[Rm 5]], *si unius delicto multi mortui sunt, multo magis gratia Dei et donum in gratia unius hominis Iesu Christi in plures abundavit*. Sed aliud est peccatum actuale ipsius Adae, et aliud peccatum originale, quod traduxit in posteros. Ergo alia est gratia personalis, quae est propria ipsius Christi, et alia est gratia eius inquantum est caput Ecclesiae, quae ab ipso ad alios derivatur.]]
+![[LEO IIIa, q. 8, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod non sit eadem gratia qua Christus est caput Ecclesiae, cum gratia singulari illius hominis. Dicit enim apostolus, Rom. V, *si unius delicto multi mortui sunt, multo magis gratia Dei et donum in gratia unius hominis Iesu Christi in plures abundavit*. Sed aliud est peccatum actuale ipsius Adae, et aliud peccatum originale, quod traduxit in posteros. Ergo alia est gratia personalis, quae est propria ipsius Christi, et alia est gratia eius inquantum est caput Ecclesiae, quae ab ipso ad alios derivatur.]]
 ![[CERF IIIa, q. 8, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 8, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 8, a. 5#s.c.|Sed contra est quod dicitur [[Jn 1]], *de plenitudine eius omnes accepimus*. Secundum hoc autem est caput nostrum, quod ab eo accipimus. Ergo secundum hoc quod habet plenitudinem gratiae, est caput nostrum. Plenitudinem autem gratiae habuit secundum quod perfecte fuit in illo gratia personalis, ut supra dictum est. Ergo secundum gratiam personalem est caput nostrum. Et ita non est alia gratia capitis, et alia gratia personalis.]]
+![[LEO IIIa, q. 8, a. 5#s.c.|Sed contra est quod dicitur Ioan. I, *de plenitudine eius omnes accepimus*. Secundum hoc autem est caput nostrum, quod ab eo accipimus. Ergo secundum hoc quod habet plenitudinem gratiae, est caput nostrum. Plenitudinem autem gratiae habuit secundum quod perfecte fuit in illo gratia personalis, ut supra dictum est. Ergo secundum gratiam personalem est caput nostrum. Et ita non est alia gratia capitis, et alia gratia personalis.]]
 ![[CERF IIIa, q. 8, a. 5#s.c.]]
 
 ###### resp.

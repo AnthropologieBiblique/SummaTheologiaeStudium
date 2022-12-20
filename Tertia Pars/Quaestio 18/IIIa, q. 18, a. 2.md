@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 18, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 18, a. 2#arg. 2|Praeterea, secundum Augustinum, XII de Trin., sensualitas significatur per serpentem. Sed nihil serpentinum fuit in Christo, habuit enim similitudinem animalis venenosi sine veneno, ut dicit Augustinus, super illud [[Jn 3]], *sicut exaltavit Moyses serpentem in deserto*. Ergo in Christo non fuit voluntas sensualitatis.]]
+![[LEO IIIa, q. 18, a. 2#arg. 2|Praeterea, secundum Augustinum, XII de Trin., sensualitas significatur per serpentem. Sed nihil serpentinum fuit in Christo, habuit enim similitudinem animalis venenosi sine veneno, ut dicit Augustinus, super illud Ioan. III, *sicut exaltavit Moyses serpentem in deserto*. Ergo in Christo non fuit voluntas sensualitatis.]]
 ![[CERF IIIa, q. 18, a. 2#arg. 2]]
 
 ###### arg. 3

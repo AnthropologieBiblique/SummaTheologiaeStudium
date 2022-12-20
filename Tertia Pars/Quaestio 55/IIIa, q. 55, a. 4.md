@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 55, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 55, a. 4#arg. 2|Praeterea, nihil potest in alia effigie apparere quam habeat, nisi oculi intuentium aliquibus praestigiis detineantur. Huiusmodi autem praestigia, cum fiant magicis artibus, non conveniunt Christo, secundum illud [[2 Co 6]], *quae conventio Christi ad Belial?* Ergo videtur quod non debuit in alia effigie apparere.]]
+![[LEO IIIa, q. 55, a. 4#arg. 2|Praeterea, nihil potest in alia effigie apparere quam habeat, nisi oculi intuentium aliquibus praestigiis detineantur. Huiusmodi autem praestigia, cum fiant magicis artibus, non conveniunt Christo, secundum illud II Cor. VI, *quae conventio Christi ad Belial?* Ergo videtur quod non debuit in alia effigie apparere.]]
 ![[CERF IIIa, q. 55, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 55, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 55, a. 4#resp.|Respondeo dicendum quod, sicut dictum est, resurrectio Christi manifestanda fuit hominibus per modum quo eis divina revelantur. Innotescunt autem divina hominibus secundum quod diversimode sunt affecti. Nam illi qui habent mentem bene dispositam, secundum veritatem divina percipiunt. Illi autem qui habent mentem non bene dispositam, divina percipiunt cum quadam confusione dubietatis vel erroris, *animalis enim homo non percipit ea quae sunt spiritus Dei*, ut dicitur [[1 Co 2]]. Et ideo Christus quibusdam, ad credendum dispositis, post resurrectionem apparuit in sua effigie. Illis autem in alia effigie apparuit qui iam videbantur circa fidem tepescere, unde dicebant, *nos sperabamus quia ipse esset redempturus Israel*. Unde Gregorius dicit, in homilia, quod *talem se eis exhibuit in corpore qualis apud illos erat in mente. Quia enim adhuc in eorum cordibus peregrinus erat a fide*, ire se longius finxit, scilicet ac si esset peregrinus.]]
+![[LEO IIIa, q. 55, a. 4#resp.|Respondeo dicendum quod, sicut dictum est, resurrectio Christi manifestanda fuit hominibus per modum quo eis divina revelantur. Innotescunt autem divina hominibus secundum quod diversimode sunt affecti. Nam illi qui habent mentem bene dispositam, secundum veritatem divina percipiunt. Illi autem qui habent mentem non bene dispositam, divina percipiunt cum quadam confusione dubietatis vel erroris, *animalis enim homo non percipit ea quae sunt spiritus Dei*, ut dicitur I Cor. II. Et ideo Christus quibusdam, ad credendum dispositis, post resurrectionem apparuit in sua effigie. Illis autem in alia effigie apparuit qui iam videbantur circa fidem tepescere, unde dicebant, *nos sperabamus quia ipse esset redempturus Israel*. Unde Gregorius dicit, in homilia, quod *talem se eis exhibuit in corpore qualis apud illos erat in mente. Quia enim adhuc in eorum cordibus peregrinus erat a fide*, ire se longius finxit, scilicet ac si esset peregrinus.]]
 ![[CERF IIIa, q. 55, a. 4#resp.]]
 
 ###### ad 1

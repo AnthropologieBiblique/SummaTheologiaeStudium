@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 93, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 93, a. 2#arg. 3|Praeterea, quanto aliquid est magis perfectum in bonitate, tanto magis est Deo simile. Sed totum universum est perfectius in bonitate quam homo, quia etsi bona sint singula, tamen simul omnia dicuntur valde bona, [[Gn 1]]. Ergo totum universum est ad imaginem Dei, et non solum homo.]]
+![[LEO Ia, q. 93, a. 2#arg. 3|Praeterea, quanto aliquid est magis perfectum in bonitate, tanto magis est Deo simile. Sed totum universum est perfectius in bonitate quam homo, quia etsi bona sint singula, tamen simul omnia dicuntur valde bona, Gen. I. Ergo totum universum est ad imaginem Dei, et non solum homo.]]
 ![[CERF Ia, q. 93, a. 2#arg. 3]]
 
 ###### arg. 4

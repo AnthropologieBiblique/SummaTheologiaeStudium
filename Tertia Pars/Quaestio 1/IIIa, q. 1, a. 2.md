@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 1, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 1, a. 2#arg. 3|Praeterea, ad salutem hominis praecipue pertinet ut Deum revereatur, unde dicitur [[Ml 1]], *si ego dominus, ubi timor meus? Si pater, ubi honor meus?* Sed ex hoc ipso homines Deum magis reverentur quod eum considerant super omnia elevatum, et ab hominum sensibus remotum, unde in Psalmo dicitur, *excelsus super omnes gentes dominus, et super caelos gloria eius*; et postea subditur, *quis sicut dominus Deus noster?* Quod ad reverentiam pertinet. Ergo videtur non convenire humanae saluti quod Deus nobis similis fieret per carnis assumptionem.]]
+![[LEO IIIa, q. 1, a. 2#arg. 3|Praeterea, ad salutem hominis praecipue pertinet ut Deum revereatur, unde dicitur Malach. I, *si ego dominus, ubi timor meus? Si pater, ubi honor meus?* Sed ex hoc ipso homines Deum magis reverentur quod eum considerant super omnia elevatum, et ab hominum sensibus remotum, unde in Psalmo dicitur, *excelsus super omnes gentes dominus, et super caelos gloria eius*; et postea subditur, *quis sicut dominus Deus noster?* Quod ad reverentiam pertinet. Ergo videtur non convenire humanae saluti quod Deus nobis similis fieret per carnis assumptionem.]]
 ![[CERF IIIa, q. 1, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 1, a. 2#s.c.|Sed contra, illud per quod humanum genus liberatur a perditione, est necessarium ad humanam salutem. Sed mysterium divinae incarnationis est huiusmodi, secundum illud [[Jn 3]], *sic Deus dilexit mundum ut filium suum unigenitum daret, ut omnis qui credit in ipsum non pereat, sed habeat vitam aeternam*. Ergo necesse fuit ad humanam salutem Deum incarnari.]]
+![[LEO IIIa, q. 1, a. 2#s.c.|Sed contra, illud per quod humanum genus liberatur a perditione, est necessarium ad humanam salutem. Sed mysterium divinae incarnationis est huiusmodi, secundum illud Ioan. III, *sic Deus dilexit mundum ut filium suum unigenitum daret, ut omnis qui credit in ipsum non pereat, sed habeat vitam aeternam*. Ergo necesse fuit ad humanam salutem Deum incarnari.]]
 ![[CERF IIIa, q. 1, a. 2#s.c.]]
 
 ###### resp.

@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 33, a. 8#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 33, a. 8#s.c.|Sed contra est quod dominus dicit, [[Mt 18]].]]
+![[LEO IIa-IIæ, q. 33, a. 8#s.c.|Sed contra est quod dominus dicit, Matth. XVIII.]]
 ![[CERF IIa-IIæ, q. 33, a. 8#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 60, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod dubia non sint in meliorem partem interpretanda. Iudicium enim magis esse debet de eo quod ut in pluribus accidit. Sed in pluribus accidit quod aliqui male agant, *quia stultorum infinitus est numerus*, ut dicitur [[Qo 1]]; *proni enim sunt sensus hominis ad malum ab adolescentia sua*, ut dicitur [[Gn 8]]. Ergo dubia magis debemus interpretari in malum quam in bonum.]]
+![[LEO IIa-IIæ, q. 60, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod dubia non sint in meliorem partem interpretanda. Iudicium enim magis esse debet de eo quod ut in pluribus accidit. Sed in pluribus accidit quod aliqui male agant, *quia stultorum infinitus est numerus*, ut dicitur Eccle. I; *proni enim sunt sensus hominis ad malum ab adolescentia sua*, ut dicitur Gen. VIII. Ergo dubia magis debemus interpretari in malum quam in bonum.]]
 ![[CERF IIa-IIæ, q. 60, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 60, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 60, a. 4#arg. 3|Praeterea, homo debet diligere proximum sicut seipsum. Sed circa seipsum homo debet dubia interpretari in peiorem partem, secundum illud [[Jb 9]], *verebar omnia opera mea*. Ergo videtur quod ea quae sunt dubia circa proximos sint in peiorem partem interpretanda.]]
+![[LEO IIa-IIæ, q. 60, a. 4#arg. 3|Praeterea, homo debet diligere proximum sicut seipsum. Sed circa seipsum homo debet dubia interpretari in peiorem partem, secundum illud Iob IX, *verebar omnia opera mea*. Ergo videtur quod ea quae sunt dubia circa proximos sint in peiorem partem interpretanda.]]
 ![[CERF IIa-IIæ, q. 60, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 60, a. 4#s.c.|Sed contra est quod [[Rm 14]], super illud, *qui non manducat manducantem non iudicet*, dicit Glossa, *dubia in meliorem partem sunt interpretanda*.]]
+![[LEO IIa-IIæ, q. 60, a. 4#s.c.|Sed contra est quod Rom. XIV, super illud, *qui non manducat manducantem non iudicet*, dicit Glossa, *dubia in meliorem partem sunt interpretanda*.]]
 ![[CERF IIa-IIæ, q. 60, a. 4#s.c.]]
 
 ###### resp.

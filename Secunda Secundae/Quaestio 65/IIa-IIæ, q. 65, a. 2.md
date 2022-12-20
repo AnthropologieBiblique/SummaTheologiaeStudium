@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 65, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non liceat patribus verberare filios, aut dominis servos. Dicit enim apostolus, ad [[Ep 6]], *vos, patres, nolite ad iracundiam provocare filios vestros*. Et infra subdit, *et vos, domini, eadem facite servis, remittentes minas*. Sed propter verbera aliqui ad iracundiam provocantur. Sunt etiam minis graviora. Ergo neque patres filios, neque domini servos debent verberare.]]
+![[LEO IIa-IIæ, q. 65, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non liceat patribus verberare filios, aut dominis servos. Dicit enim apostolus, ad Ephes. VI, *vos, patres, nolite ad iracundiam provocare filios vestros*. Et infra subdit, *et vos, domini, eadem facite servis, remittentes minas*. Sed propter verbera aliqui ad iracundiam provocantur. Sunt etiam minis graviora. Ergo neque patres filios, neque domini servos debent verberare.]]
 ![[CERF IIa-IIæ, q. 65, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 65, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 65, a. 2#s.c.|Sed contra est quod dicitur [[Pr 13]], *qui parcit virgae, odit filium suum*; et infra XXIII, *noli subtrahere a puero disciplinam. Si enim percusseris eum virga, non morietur, tu virga percuties eum, et animam eius de Inferno liberabis*. Et [[Si 33]] dicitur, *servo malevolo tortura et compedes*.]]
+![[LEO IIa-IIæ, q. 65, a. 2#s.c.|Sed contra est quod dicitur Prov. XIII, *qui parcit virgae, odit filium suum*; et infra XXIII, *noli subtrahere a puero disciplinam. Si enim percusseris eum virga, non morietur, tu virga percuties eum, et animam eius de Inferno liberabis*. Et Eccli. XXXIII dicitur, *servo malevolo tortura et compedes*.]]
 ![[CERF IIa-IIæ, q. 65, a. 2#s.c.]]
 
 ###### resp.

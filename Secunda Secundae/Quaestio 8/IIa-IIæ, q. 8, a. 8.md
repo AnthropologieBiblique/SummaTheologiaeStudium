@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 8, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod in fructibus fides non respondeat dono intellectus. Intellectus enim est fructus fidei, dicitur enim [[Is 7]], *nisi credideritis, non intelligetis*, secundum aliam litteram, ubi nos habemus, *si non credideritis, non permanebitis*. Non ergo fides est fructus intellectus.]]
+![[LEO IIa-IIæ, q. 8, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod in fructibus fides non respondeat dono intellectus. Intellectus enim est fructus fidei, dicitur enim Isaiae VII, *nisi credideritis, non intelligetis*, secundum aliam litteram, ubi nos habemus, *si non credideritis, non permanebitis*. Non ergo fides est fructus intellectus.]]
 ![[CERF IIa-IIæ, q. 8, a. 8#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 8, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 8, a. 8#s.c.|Sed contra est quod finis uniuscuiusque rei est fructus eius. Sed donum intellectus videtur principaliter ordinari ad certitudinem fidei, quae ponitur fructus, dicit enim Glossa, ad [[Ga 5]], quod fides quae est fructus est de invisibilibus certitudo. Ergo in fructibus fides respondet dono intellectus.]]
+![[LEO IIa-IIæ, q. 8, a. 8#s.c.|Sed contra est quod finis uniuscuiusque rei est fructus eius. Sed donum intellectus videtur principaliter ordinari ad certitudinem fidei, quae ponitur fructus, dicit enim Glossa, ad Gal. V, quod fides quae est fructus est de invisibilibus certitudo. Ergo in fructibus fides respondet dono intellectus.]]
 ![[CERF IIa-IIæ, q. 8, a. 8#s.c.]]
 
 ###### resp.

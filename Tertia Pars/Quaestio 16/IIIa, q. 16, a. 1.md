@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 16, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 16, a. 1#s.c.|Sed contra est quod dicitur [[Ph 2]], *qui, cum in forma Dei esset, exinanivit semetipsum, formam servi accipiens, in similitudinem hominum factus et habitu inventus ut homo*. Et sic ille qui est in forma Dei, est homo. Sed ille qui est in forma Dei, est Deus. Ergo Deus est homo.]]
+![[LEO IIIa, q. 16, a. 1#s.c.|Sed contra est quod dicitur Philipp. II, *qui, cum in forma Dei esset, exinanivit semetipsum, formam servi accipiens, in similitudinem hominum factus et habitu inventus ut homo*. Et sic ille qui est in forma Dei, est homo. Sed ille qui est in forma Dei, est Deus. Ergo Deus est homo.]]
 ![[CERF IIIa, q. 16, a. 1#s.c.]]
 
 ###### resp.

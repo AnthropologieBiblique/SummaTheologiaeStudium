@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 18, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 18, a. 4#s.c.|Sed contra est quod spes est certa expectatio futurae beatitudinis, sicut Magister dicit, XXVI dist. III Sent. Quod potest accipi ex hoc quod dicitur [[2 Tm 1]], *scio cui credidi, et certus sum quia potens est depositum meum servare*.]]
+![[LEO IIa-IIæ, q. 18, a. 4#s.c.|Sed contra est quod spes est certa expectatio futurae beatitudinis, sicut Magister dicit, XXVI dist. III Sent. Quod potest accipi ex hoc quod dicitur II ad Tim. I, *scio cui credidi, et certus sum quia potens est depositum meum servare*.]]
 ![[CERF IIa-IIæ, q. 18, a. 4#s.c.]]
 
 ###### resp.

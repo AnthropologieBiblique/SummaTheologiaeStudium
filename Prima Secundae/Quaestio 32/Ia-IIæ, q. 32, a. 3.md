@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 32, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 32, a. 3#arg. 2|Praeterea, idem non est causa contrariorum. Sed spes est causa afflictionis, dicitur enim [[Pr 13]], *spes quae differtur, affligit animam*. Ergo spes non est causa delectationis.]]
+![[LEO Ia-IIæ, q. 32, a. 3#arg. 2|Praeterea, idem non est causa contrariorum. Sed spes est causa afflictionis, dicitur enim Prov. XIII, *spes quae differtur, affligit animam*. Ergo spes non est causa delectationis.]]
 ![[CERF Ia-IIæ, q. 32, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 32, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 32, a. 3#s.c.|Sed contra est quod dicitur [[Rm 12]], *spe gaudentes*; et in [[Ps 76]], *memor fui Dei, et delectatus sum*.]]
+![[LEO Ia-IIæ, q. 32, a. 3#s.c.|Sed contra est quod dicitur Rom. XII, *spe gaudentes*; et in Psalmo LXXVI, *memor fui Dei, et delectatus sum*.]]
 ![[CERF Ia-IIæ, q. 32, a. 3#s.c.]]
 
 ###### resp.

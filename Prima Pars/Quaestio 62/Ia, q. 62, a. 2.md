@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia, q. 62, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 62, a. 2#arg. 3|Praeterea, converti ad Deum est se ad gratiam praeparare, unde [[Za 1]], dicitur, *convertimini ad me, et ego convertar ad vos*. Sed nos non indigemus gratia ad hoc quod nos ad gratiam praeparemus, quia sic esset abire in infinitum. Ergo non indiguit gratia Angelus ad hoc quod converteretur in Deum.]]
+![[LEO Ia, q. 62, a. 2#arg. 3|Praeterea, converti ad Deum est se ad gratiam praeparare, unde Zach. I, dicitur, *convertimini ad me, et ego convertar ad vos*. Sed nos non indigemus gratia ad hoc quod nos ad gratiam praeparemus, quia sic esset abire in infinitum. Ergo non indiguit gratia Angelus ad hoc quod converteretur in Deum.]]
 ![[CERF Ia, q. 62, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 62, a. 2#s.c.|Sed contra, per conversionem ad Deum Angelus pervenit ad beatitudinem. Si igitur non indiguisset gratia ad hoc quod converteretur in Deum, sequeretur quod non indigeret gratia ad habendam vitam aeternam. Quod est contra illud apostoli, [[Rm 6]], *gratia Dei vita aeterna*.]]
+![[LEO Ia, q. 62, a. 2#s.c.|Sed contra, per conversionem ad Deum Angelus pervenit ad beatitudinem. Si igitur non indiguisset gratia ad hoc quod converteretur in Deum, sequeretur quod non indigeret gratia ad habendam vitam aeternam. Quod est contra illud apostoli, Rom. VI, *gratia Dei vita aeterna*.]]
 ![[CERF Ia, q. 62, a. 2#s.c.]]
 
 ###### resp.

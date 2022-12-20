@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 88, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 88, a. 3#arg. 3|Praeterea, [[Mt 18]] dicitur quod iratus dominus tradidit eum, cui replicantur peccata dimissa propter ingratitudinem, tortoribus, quoadusque redderet universum debitum. Sed hoc non esset nisi consurgeret ex ingratitudine tantus reatus quantus fuit omnium praeteritorum peccatorum. Ergo aequalis reatus per ingratitudinem redit.]]
+![[LEO IIIa, q. 88, a. 3#arg. 3|Praeterea, Matth. XVIII dicitur quod iratus dominus tradidit eum, cui replicantur peccata dimissa propter ingratitudinem, tortoribus, quoadusque redderet universum debitum. Sed hoc non esset nisi consurgeret ex ingratitudine tantus reatus quantus fuit omnium praeteritorum peccatorum. Ergo aequalis reatus per ingratitudinem redit.]]
 ![[CERF IIIa, q. 88, a. 3#arg. 3]]
 
 ###### s.c.

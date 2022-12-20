@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 86, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 86, a. 6#arg. 3|Praeterea, remissio culpae non est nisi ex virtute passionis Christi, secundum illud [[He 9]], *sine sanguinis effusione non fit remissio*. Sed poenitentia inquantum est sacramentum, operatur in virtute passionis Christi, sicut et cetera sacramenta, ut ex supra dictis patet. Ergo remissio culpae non est effectus poenitentiae inquantum est virtus, sed inquantum est sacramentum.]]
+![[LEO IIIa, q. 86, a. 6#arg. 3|Praeterea, remissio culpae non est nisi ex virtute passionis Christi, secundum illud Heb. IX, *sine sanguinis effusione non fit remissio*. Sed poenitentia inquantum est sacramentum, operatur in virtute passionis Christi, sicut et cetera sacramenta, ut ex supra dictis patet. Ergo remissio culpae non est effectus poenitentiae inquantum est virtus, sed inquantum est sacramentum.]]
 ![[CERF IIIa, q. 86, a. 6#arg. 3]]
 
 ###### s.c.

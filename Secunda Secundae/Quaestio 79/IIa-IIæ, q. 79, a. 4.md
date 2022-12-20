@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 79, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod peccatum omissionis sit gravius quam peccatum transgressionis. Delictum enim videtur idem esse quod derelictum, et sic per consequens videtur idem esse omissioni. Sed delictum est gravius quam peccatum transgressionis, quia maiori expiatione indigebat, ut patet [[Lv 5]]. Ergo peccatum omissionis est gravius quam peccatum transgressionis.]]
+![[LEO IIa-IIæ, q. 79, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod peccatum omissionis sit gravius quam peccatum transgressionis. Delictum enim videtur idem esse quod derelictum, et sic per consequens videtur idem esse omissioni. Sed delictum est gravius quam peccatum transgressionis, quia maiori expiatione indigebat, ut patet Levit. V. Ergo peccatum omissionis est gravius quam peccatum transgressionis.]]
 ![[CERF IIa-IIæ, q. 79, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIa-IIæ, q. 79, a. 4#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 79, a. 4#ad 4|Ad quartum dicendum quod peccato transgressionis respondet et poena damni, propter aversionem a Deo; et poena sensus, propter inordinatam conversionem ad bonum commutabile. Similiter etiam omissioni non solum debetur poena damni, sed etiam poena sensus, secundum illud [[Mt 7]], *omnis arbor quae non facit fructum bonum, excidetur et in ignem mittetur*. Et hoc propter radicem ex qua procedit, licet non habeat ex necessitate actualem conversionem ad aliquod bonum commutabile.]]
+![[LEO IIa-IIæ, q. 79, a. 4#ad 4|Ad quartum dicendum quod peccato transgressionis respondet et poena damni, propter aversionem a Deo; et poena sensus, propter inordinatam conversionem ad bonum commutabile. Similiter etiam omissioni non solum debetur poena damni, sed etiam poena sensus, secundum illud Matth. VII, *omnis arbor quae non facit fructum bonum, excidetur et in ignem mittetur*. Et hoc propter radicem ex qua procedit, licet non habeat ex necessitate actualem conversionem ad aliquod bonum commutabile.]]
 ![[CERF IIa-IIæ, q. 79, a. 4#ad 4]]
 

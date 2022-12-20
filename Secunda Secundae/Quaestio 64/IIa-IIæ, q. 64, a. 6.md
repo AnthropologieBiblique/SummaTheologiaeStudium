@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 64, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod liceat in aliquo casu interficere innocentem. Divinus enim timor non manifestatur per peccatum, quin magis *timor domini expellit peccatum*, ut dicitur [[Si 1]]. Sed Abraham commendatus est quod timuerit dominum, quia voluit interficere filium innocentem. Ergo potest aliquis innocentem interficere sine peccato.]]
+![[LEO IIa-IIæ, q. 64, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod liceat in aliquo casu interficere innocentem. Divinus enim timor non manifestatur per peccatum, quin magis *timor domini expellit peccatum*, ut dicitur Eccli. I. Sed Abraham commendatus est quod timuerit dominum, quia voluit interficere filium innocentem. Ergo potest aliquis innocentem interficere sine peccato.]]
 ![[CERF IIa-IIæ, q. 64, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 64, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 64, a. 6#s.c.|Sed contra est quod dicitur [[Ex 23]], *innocentem et iustum non occides*.]]
+![[LEO IIa-IIæ, q. 64, a. 6#s.c.|Sed contra est quod dicitur Exod. XXIII, *innocentem et iustum non occides*.]]
 ![[CERF IIa-IIæ, q. 64, a. 6#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 64, a. 6#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 64, a. 6#ad 2|Ad secundum dicendum quod in pensanda gravitate peccati magis est considerandum illud quod est per se quam illud quod est per accidens. Unde ille qui occidit iustum gravius peccat quam ille qui occidit peccatorem. Primo quidem, quia nocet ei quem plus debet diligere, et ita magis contra caritatem agit. Secundo, quia iniuriam infert ei qui est minus dignus, et ita magis contra iustitiam agit. Tertio, quia privat communitatem maiori bono. Quarto, quia magis Deum contemnit, secundum illud [[Lc 10]], *qui vos spernit, me spernit*. Quod autem iustus occisus ad gloriam perducatur a Deo, per accidens se habet ad occisionem.]]
+![[LEO IIa-IIæ, q. 64, a. 6#ad 2|Ad secundum dicendum quod in pensanda gravitate peccati magis est considerandum illud quod est per se quam illud quod est per accidens. Unde ille qui occidit iustum gravius peccat quam ille qui occidit peccatorem. Primo quidem, quia nocet ei quem plus debet diligere, et ita magis contra caritatem agit. Secundo, quia iniuriam infert ei qui est minus dignus, et ita magis contra iustitiam agit. Tertio, quia privat communitatem maiori bono. Quarto, quia magis Deum contemnit, secundum illud Luc. X, *qui vos spernit, me spernit*. Quod autem iustus occisus ad gloriam perducatur a Deo, per accidens se habet ad occisionem.]]
 ![[CERF IIa-IIæ, q. 64, a. 6#ad 2]]
 
 ###### ad 3

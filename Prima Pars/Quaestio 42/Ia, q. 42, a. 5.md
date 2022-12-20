@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 42, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 42, a. 5#arg. 2|Praeterea, nihil quod exivit ab aliquo, est in eo. Sed filius ab aeterno exivit a patre, secundum illud [[Mi 5]], *egressus eius ab initio, a diebus aeternitatis*. Ergo filius non est in patre.]]
+![[LEO Ia, q. 42, a. 5#arg. 2|Praeterea, nihil quod exivit ab aliquo, est in eo. Sed filius ab aeterno exivit a patre, secundum illud Micheae V, *egressus eius ab initio, a diebus aeternitatis*. Ergo filius non est in patre.]]
 ![[CERF Ia, q. 42, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 42, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 42, a. 5#s.c.|Sed contra est quod dicitur [[Jn 14]], *ego in patre, et pater in me est*.]]
+![[LEO Ia, q. 42, a. 5#s.c.|Sed contra est quod dicitur Ioan. XIV, *ego in patre, et pater in me est*.]]
 ![[CERF Ia, q. 42, a. 5#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 92, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod superstitio non sit vitium religioni contrarium. Unum enim contrariorum non ponitur in definitione alterius. Sed religio ponitur in definitione superstitionis, dicitur enim superstitio esse religio supra modum servata, ut patet in Glossa ad [[Col 2]], super illud, *quae sunt rationem habentia sapientiae in superstitione*. Ergo superstitio non est vitium religioni oppositum.]]
+![[LEO IIa-IIæ, q. 92, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod superstitio non sit vitium religioni contrarium. Unum enim contrariorum non ponitur in definitione alterius. Sed religio ponitur in definitione superstitionis, dicitur enim superstitio esse religio supra modum servata, ut patet in Glossa ad Coloss. II, super illud, *quae sunt rationem habentia sapientiae in superstitione*. Ergo superstitio non est vitium religioni oppositum.]]
 ![[CERF IIa-IIæ, q. 92, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 92, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 92, a. 1#ad 1|Ad primum ergo dicendum quod sicut bonum metaphorice dicitur in malis, prout dicimus bonum latronem, ita etiam nomina virtutum quandoque transumptive accipiuntur in malis, sicut prudentia quandoque ponitur pro astutia, secundum illud [[Lc 16]], *filii huius saeculi prudentiores filiis lucis sunt*. Et per hunc modum superstitio dicitur esse religio.]]
+![[LEO IIa-IIæ, q. 92, a. 1#ad 1|Ad primum ergo dicendum quod sicut bonum metaphorice dicitur in malis, prout dicimus bonum latronem, ita etiam nomina virtutum quandoque transumptive accipiuntur in malis, sicut prudentia quandoque ponitur pro astutia, secundum illud Luc. XVI, *filii huius saeculi prudentiores filiis lucis sunt*. Et per hunc modum superstitio dicitur esse religio.]]
 ![[CERF IIa-IIæ, q. 92, a. 1#ad 1]]
 
 ###### ad 2

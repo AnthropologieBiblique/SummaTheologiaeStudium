@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 90, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 90, a. 2#s.c.|Sed contra est quod dicitur [[Gn 1]], *creavit Deus hominem ad imaginem suam*. Est autem homo ad imaginem Dei secundum animam. Ergo anima exivit in esse per creationem.]]
+![[LEO Ia, q. 90, a. 2#s.c.|Sed contra est quod dicitur Gen. I, *creavit Deus hominem ad imaginem suam*. Est autem homo ad imaginem Dei secundum animam. Ergo anima exivit in esse per creationem.]]
 ![[CERF Ia, q. 90, a. 2#s.c.]]
 
 ###### resp.

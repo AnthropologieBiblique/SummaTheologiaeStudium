@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 113, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 113, a. 9#s.c.|Sed contra est quod in [[Ps 144]], dicitur, *miserationes eius super omnia opera eius*. Et in collecta dicitur, *Deus, qui omnipotentiam tuam parcendo maxime et miserando manifestas*. Et Augustinus dicit exponens illud [[Jn 14]], *maiora horum faciet*, quod *maius opus est ut ex impio iustus fiat, quam creare caelum et terram*.]]
+![[LEO Ia-IIæ, q. 113, a. 9#s.c.|Sed contra est quod in Psalmo CXLIV, dicitur, *miserationes eius super omnia opera eius*. Et in collecta dicitur, *Deus, qui omnipotentiam tuam parcendo maxime et miserando manifestas*. Et Augustinus dicit exponens illud Ioan. XIV, *maiora horum faciet*, quod *maius opus est ut ex impio iustus fiat, quam creare caelum et terram*.]]
 ![[CERF Ia-IIæ, q. 113, a. 9#s.c.]]
 
 ###### resp.

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 81, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 81, a. 5#arg. 3|Praeterea, omnis virtus vel est theologica, vel intellectualis, vel moralis, ut ex supradictis patet. Manifestum est autem quod religio non est virtus intellectualis, quia eius perfectio non attenditur secundum considerationem veri. Similiter etiam non est virtus moralis, cuius proprium est tenere medium inter superfluum et diminutum, non enim aliquis potest superflue Deum colere, secundum illud [[Si 43]], *benedicentes dominum, exaltate illum quantum potestis, maior enim est omni laude*. Ergo relinquitur quod sit virtus theologica.]]
+![[LEO IIa-IIæ, q. 81, a. 5#arg. 3|Praeterea, omnis virtus vel est theologica, vel intellectualis, vel moralis, ut ex supradictis patet. Manifestum est autem quod religio non est virtus intellectualis, quia eius perfectio non attenditur secundum considerationem veri. Similiter etiam non est virtus moralis, cuius proprium est tenere medium inter superfluum et diminutum, non enim aliquis potest superflue Deum colere, secundum illud Eccli. XLIII, *benedicentes dominum, exaltate illum quantum potestis, maior enim est omni laude*. Ergo relinquitur quod sit virtus theologica.]]
 ![[CERF IIa-IIæ, q. 81, a. 5#arg. 3]]
 
 ###### s.c.

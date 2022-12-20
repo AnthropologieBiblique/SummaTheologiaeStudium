@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 81, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod etiam alia peccata vel ipsius primi parentis, vel proximorum parentum, traducantur in posteros. Poena enim nunquam debetur nisi culpae. Sed aliqui puniuntur iudicio divino pro peccato proximorum parentum; secundum illud [[Ex 20]], *ego sum Deus Zelotes, visitans iniquitatem patrum in filios, in tertiam et quartam generationem*. Iudicio etiam humano, in crimine laesae maiestatis, filii exheredantur pro peccato parentum. Ergo etiam culpa proximorum parentum transit ad posteros.]]
+![[LEO Ia-IIæ, q. 81, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod etiam alia peccata vel ipsius primi parentis, vel proximorum parentum, traducantur in posteros. Poena enim nunquam debetur nisi culpae. Sed aliqui puniuntur iudicio divino pro peccato proximorum parentum; secundum illud Exod. XX, *ego sum Deus Zelotes, visitans iniquitatem patrum in filios, in tertiam et quartam generationem*. Iudicio etiam humano, in crimine laesae maiestatis, filii exheredantur pro peccato parentum. Ergo etiam culpa proximorum parentum transit ad posteros.]]
 ![[CERF Ia-IIæ, q. 81, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 81, a. 2#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 81, a. 2#ad 1|Ad primum ergo dicendum quod poena spirituali, sicut Augustinus dicit in epistola ad avitum, nunquam puniuntur filii pro parentibus, nisi communicent in culpa, vel per originem vel per imitationem, quia omnes animae immediate sunt Dei, ut dicitur [[Ez 18]]. Sed poena corporali interdum, iudicio divino vel humano, puniuntur filii pro parentibus, inquantum filius est aliquid patris secundum corpus.]]
+![[LEO Ia-IIæ, q. 81, a. 2#ad 1|Ad primum ergo dicendum quod poena spirituali, sicut Augustinus dicit in epistola ad avitum, nunquam puniuntur filii pro parentibus, nisi communicent in culpa, vel per originem vel per imitationem, quia omnes animae immediate sunt Dei, ut dicitur Ezech. XVIII. Sed poena corporali interdum, iudicio divino vel humano, puniuntur filii pro parentibus, inquantum filius est aliquid patris secundum corpus.]]
 ![[CERF Ia-IIæ, q. 81, a. 2#ad 1]]
 
 ###### ad 2

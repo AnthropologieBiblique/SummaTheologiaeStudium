@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 32, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 32, a. 3#arg. 2|Praeterea, recompensatio beneficii laudem et meritum eleemosynae minuit, unde et dominus dicit, [[Lc 14]], *cum facis prandium aut cenam, noli vocare vicinos divites, ne forte et ipsi te reinvitent*. Sed in eleemosynis spiritualibus semper est recompensatio, quia qui orat pro alio sibi proficit, secundum illud Psalm., *oratio mea in sinu meo convertetur*; qui etiam alium docet, ipse in scientia proficit. Quod non contingit in eleemosynis corporalibus. Ergo eleemosynae corporales sunt potiores quam spirituales.]]
+![[LEO IIa-IIæ, q. 32, a. 3#arg. 2|Praeterea, recompensatio beneficii laudem et meritum eleemosynae minuit, unde et dominus dicit, Luc. XIV, *cum facis prandium aut cenam, noli vocare vicinos divites, ne forte et ipsi te reinvitent*. Sed in eleemosynis spiritualibus semper est recompensatio, quia qui orat pro alio sibi proficit, secundum illud Psalm., *oratio mea in sinu meo convertetur*; qui etiam alium docet, ipse in scientia proficit. Quod non contingit in eleemosynis corporalibus. Ergo eleemosynae corporales sunt potiores quam spirituales.]]
 ![[CERF IIa-IIæ, q. 32, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 32, a. 3#arg. 3|Praeterea, ad laudem eleemosynae pertinet quod pauper ex eleemosyna data consoletur, unde [[Jb 31]] dicitur, *si non benedixerunt mihi latera eius*; et ad Philemonem dicit apostolus, *viscera sanctorum requieverunt per te, frater*. Sed quandoque magis est grata pauperi eleemosyna corporalis quam spiritualis. Ergo eleemosyna corporalis potior est quam spiritualis.]]
+![[LEO IIa-IIæ, q. 32, a. 3#arg. 3|Praeterea, ad laudem eleemosynae pertinet quod pauper ex eleemosyna data consoletur, unde Iob XXXI dicitur, *si non benedixerunt mihi latera eius*; et ad Philemonem dicit apostolus, *viscera sanctorum requieverunt per te, frater*. Sed quandoque magis est grata pauperi eleemosyna corporalis quam spiritualis. Ergo eleemosyna corporalis potior est quam spiritualis.]]
 ![[CERF IIa-IIæ, q. 32, a. 3#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 32, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 32, a. 3#resp.|Respondeo dicendum quod comparatio istarum eleemosynarum potest attendi dupliciter. Uno modo, simpliciter loquendo, et secundum hoc eleemosynae spirituales praeeminent, triplici ratione. Primo quidem quia id quod exhibetur nobilius est, scilicet donum spirituale, quod praeeminet corporali, secundum illud [[Pr 4]], *donum bonum tribuam vobis, legem meam ne derelinquatis*. Secundo, ratione eius cui subvenitur, quia spiritus nobilior est corpore. Unde sicut homo sibi ipsi magis debet providere quantum ad spiritum quam quantum ad corpus, ita et proximo, quem debet tanquam seipsum diligere. Tertio, quantum ad ipsos actus quibus subvenitur proximo, quia spirituales actus sunt nobiliores corporalibus, qui sunt quodammodo serviles. Alio modo possunt comparari secundum aliquem particularem casum, in quo quaedam corporalis eleemosyna alicui spirituali praefertur. Puta, magis esset pascendum fame morientem quam docendum, sicut et indigenti, secundum philosophum, melius est ditari quam philosophari, quamvis hoc sit simpliciter melius.]]
+![[LEO IIa-IIæ, q. 32, a. 3#resp.|Respondeo dicendum quod comparatio istarum eleemosynarum potest attendi dupliciter. Uno modo, simpliciter loquendo, et secundum hoc eleemosynae spirituales praeeminent, triplici ratione. Primo quidem quia id quod exhibetur nobilius est, scilicet donum spirituale, quod praeeminet corporali, secundum illud Prov. IV, *donum bonum tribuam vobis, legem meam ne derelinquatis*. Secundo, ratione eius cui subvenitur, quia spiritus nobilior est corpore. Unde sicut homo sibi ipsi magis debet providere quantum ad spiritum quam quantum ad corpus, ita et proximo, quem debet tanquam seipsum diligere. Tertio, quantum ad ipsos actus quibus subvenitur proximo, quia spirituales actus sunt nobiliores corporalibus, qui sunt quodammodo serviles. Alio modo possunt comparari secundum aliquem particularem casum, in quo quaedam corporalis eleemosyna alicui spirituali praefertur. Puta, magis esset pascendum fame morientem quam docendum, sicut et indigenti, secundum philosophum, melius est ditari quam philosophari, quamvis hoc sit simpliciter melius.]]
 ![[CERF IIa-IIæ, q. 32, a. 3#resp.]]
 
 ###### ad 1

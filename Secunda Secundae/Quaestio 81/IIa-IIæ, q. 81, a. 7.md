@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 81, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod latria non habeat aliquem exteriorem actum. Dicitur enim [[Jn 4]], *Deus spiritus est, et eos qui adorant eum, in spiritu et veritate adorare oportet*. Sed exteriores actus non pertinent ad spiritum, sed magis ad corpus. Ergo religio, ad quam pertinet adoratio, non habet exteriores actus, sed interiores.]]
+![[LEO IIa-IIæ, q. 81, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod latria non habeat aliquem exteriorem actum. Dicitur enim Ioan. IV, *Deus spiritus est, et eos qui adorant eum, in spiritu et veritate adorare oportet*. Sed exteriores actus non pertinent ad spiritum, sed magis ad corpus. Ergo religio, ad quam pertinet adoratio, non habet exteriores actus, sed interiores.]]
 ![[CERF IIa-IIæ, q. 81, a. 7#arg. 1]]
 
 ###### arg. 2

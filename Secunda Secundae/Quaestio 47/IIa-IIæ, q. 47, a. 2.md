@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 47, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod prudentia non solum pertineat ad rationem practicam, sed etiam ad speculativam. Dicitur enim [[Pr 10]], *sapientia est viro prudentia*. Sed sapientia principalius consistit in contemplatione. Ergo et prudentia.]]
+![[LEO IIa-IIæ, q. 47, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod prudentia non solum pertineat ad rationem practicam, sed etiam ad speculativam. Dicitur enim Prov. X, *sapientia est viro prudentia*. Sed sapientia principalius consistit in contemplatione. Ergo et prudentia.]]
 ![[CERF IIa-IIæ, q. 47, a. 2#arg. 1]]
 
 ###### arg. 2

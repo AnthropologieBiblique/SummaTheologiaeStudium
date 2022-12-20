@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 186, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod perpetua continentia non requiratur ad perfectionem religionis. Omnis enim Christianae vitae perfectio ab apostolis Christi coepit. Sed apostoli continentiam non videntur servasse, ut patet de Petro, qui socrum legitur habuisse, [[Mt 8]]. Ergo videtur quod ad perfectionem religionis non requiratur perpetua continentia.]]
+![[LEO IIa-IIæ, q. 186, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod perpetua continentia non requiratur ad perfectionem religionis. Omnis enim Christianae vitae perfectio ab apostolis Christi coepit. Sed apostoli continentiam non videntur servasse, ut patet de Petro, qui socrum legitur habuisse, Matth. VIII. Ergo videtur quod ad perfectionem religionis non requiratur perpetua continentia.]]
 ![[CERF IIa-IIæ, q. 186, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 186, a. 4#arg. 2|Praeterea, primum perfectionis exemplar nobis in Abraham ostenditur, cui dominus dixit, [[Gn 17]], *ambula coram me, et esto perfectus*. Sed exemplatum non oportet quod excedat exemplar. Ergo non requiritur ad perfectionem religionis perpetua continentia.]]
+![[LEO IIa-IIæ, q. 186, a. 4#arg. 2|Praeterea, primum perfectionis exemplar nobis in Abraham ostenditur, cui dominus dixit, Gen. XVII, *ambula coram me, et esto perfectus*. Sed exemplatum non oportet quod excedat exemplar. Ergo non requiritur ad perfectionem religionis perpetua continentia.]]
 ![[CERF IIa-IIæ, q. 186, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 186, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 186, a. 4#ad 1|Ad primum ergo dicendum quod perfectio non solum paupertatis, sed etiam continentiae, introducta est per Christum, qui dicit, [[Mt 19]], *sunt eunuchi qui castraverunt seipsos propter regnum caelorum*, et postea subdit, qui potest capere, capiat. Et ne alicui spes perveniendi ad perfectionem tolleretur, assumpsit ad perfectionis statum etiam illos quos invenit matrimonio iunctos. Non autem poterat absque iniuria fieri quod viri uxores desererent, sicut absque iniuria fiebat quod homines divitias relinquerent. Et ideo Petrum, quem invenit matrimonio iunctum, non separavit ab uxore. Ioannem tamen nubere volentem a nuptiis revocavit.]]
+![[LEO IIa-IIæ, q. 186, a. 4#ad 1|Ad primum ergo dicendum quod perfectio non solum paupertatis, sed etiam continentiae, introducta est per Christum, qui dicit, Matth. XIX, *sunt eunuchi qui castraverunt seipsos propter regnum caelorum*, et postea subdit, qui potest capere, capiat. Et ne alicui spes perveniendi ad perfectionem tolleretur, assumpsit ad perfectionis statum etiam illos quos invenit matrimonio iunctos. Non autem poterat absque iniuria fieri quod viri uxores desererent, sicut absque iniuria fiebat quod homines divitias relinquerent. Et ideo Petrum, quem invenit matrimonio iunctum, non separavit ab uxore. Ioannem tamen nubere volentem a nuptiis revocavit.]]
 ![[CERF IIa-IIæ, q. 186, a. 4#ad 1]]
 
 ###### ad 2

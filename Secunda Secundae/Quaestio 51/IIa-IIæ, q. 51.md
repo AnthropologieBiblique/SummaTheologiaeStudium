@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 51#Prooemium|Deinde considerandum est de virtutibus adiunctis prudentiae, quae sunt quasi partes potentiales ipsius. Et circa hoc quaeruntur quatuor. Primo, utrum eubulia sit virtus. Secundo, utrum sit specialis virtus a prudentia distincta. Tertio, utrum synesis sit specialis virtus. Quarto, utrum gnome sit specialis virtus.]]
-![[CERF IIa-IIæ, q. 51#Prooemium]]
+Deinde considerandum est de virtutibus adiunctis prudentiae, quae sunt quasi partes potentiales ipsius. Et circa hoc quaeruntur quatuor. Primo, utrum eubulia sit virtus. Secundo, utrum sit specialis virtus a prudentia distincta. Tertio, utrum synesis sit specialis virtus. Quarto, utrum gnome sit specialis virtus.
 
 ![[IIa-IIæ, q. 51, a. 1#Articulus 1]]
 

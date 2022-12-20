@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 62, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 62, a. 5#s.c.|Sed contra, anima hominis et Angelus similiter ad beatitudinem ordinantur, unde sanctis promittitur aequalitas Angelorum [[Lc 20]]. Sed anima a corpore separata, si habeat meritum beatitudinis, statim beatitudinem consequitur, nisi aliud sit impedimentum. Ergo pari ratione et Angelus. Sed statim in primo actu caritatis habuit meritum beatitudinis. Ergo, cum in eo non esset aliquod impedimentum, statim ad beatitudinem pervenit per solum unum actum meritorium.]]
+![[LEO Ia, q. 62, a. 5#s.c.|Sed contra, anima hominis et Angelus similiter ad beatitudinem ordinantur, unde sanctis promittitur aequalitas Angelorum Luc. XX. Sed anima a corpore separata, si habeat meritum beatitudinis, statim beatitudinem consequitur, nisi aliud sit impedimentum. Ergo pari ratione et Angelus. Sed statim in primo actu caritatis habuit meritum beatitudinis. Ergo, cum in eo non esset aliquod impedimentum, statim ad beatitudinem pervenit per solum unum actum meritorium.]]
 ![[CERF Ia, q. 62, a. 5#s.c.]]
 
 ###### resp.

@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 96, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 96, a. 1#s.c.|Sed contra est quod dicitur [[Gn 1]], de homine, *praesit piscibus maris, et volatilibus caeli, et bestiis terrae*.]]
+![[LEO Ia, q. 96, a. 1#s.c.|Sed contra est quod dicitur Gen. I, de homine, *praesit piscibus maris, et volatilibus caeli, et bestiis terrae*.]]
 ![[CERF Ia, q. 96, a. 1#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF Ia, q. 96, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO Ia, q. 96, a. 1#ad 2|Ad secundum dicendum quod quidam dicunt quod animalia quae nunc sunt ferocia et occidunt alia animalia, in statu illo fuissent mansueta non solum circa hominem, sed etiam circa alia animalia. Sed hoc est omnino irrationabile. Non enim per peccatum hominis natura animalium est mutata, ut quibus nunc naturale est comedere aliorum animalium carnes, tunc vixissent de herbis, sicut leones et falcones. Nec Glossa Bedae dicit, [[Gn 1]], quod ligna et herbae datae sunt omnibus animalibus et avibus in cibum, sed quibusdam. Fuisset ergo naturalis discordia inter quaedam animalia. Nec tamen propter hoc subtraherentur dominio hominis; sicut nec nunc propter hoc subtrahuntur dominio Dei, cuius providentia hoc totum dispensatur. Et huius providentiae homo executor fuisset, ut etiam nunc apparet in animalibus domesticis, ministrantur enim falconibus domesticis per homines gallinae in cibum.]]
+![[LEO Ia, q. 96, a. 1#ad 2|Ad secundum dicendum quod quidam dicunt quod animalia quae nunc sunt ferocia et occidunt alia animalia, in statu illo fuissent mansueta non solum circa hominem, sed etiam circa alia animalia. Sed hoc est omnino irrationabile. Non enim per peccatum hominis natura animalium est mutata, ut quibus nunc naturale est comedere aliorum animalium carnes, tunc vixissent de herbis, sicut leones et falcones. Nec Glossa Bedae dicit, Gen. I, quod ligna et herbae datae sunt omnibus animalibus et avibus in cibum, sed quibusdam. Fuisset ergo naturalis discordia inter quaedam animalia. Nec tamen propter hoc subtraherentur dominio hominis; sicut nec nunc propter hoc subtrahuntur dominio Dei, cuius providentia hoc totum dispensatur. Et huius providentiae homo executor fuisset, ut etiam nunc apparet in animalibus domesticis, ministrantur enim falconibus domesticis per homines gallinae in cibum.]]
 ![[CERF Ia, q. 96, a. 1#ad 2]]
 
 ###### ad 3

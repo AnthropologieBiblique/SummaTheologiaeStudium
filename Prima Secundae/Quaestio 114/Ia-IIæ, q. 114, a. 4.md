@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 114, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod gratia non sit principium meriti principalius per caritatem quam per alias virtutes. Merces enim operi debetur; secundum illud [[Mt 20]], *voca operarios, et redde illis mercedem suam*. Sed quaelibet virtus est principium alicuius operis, est enim virtus habitus operativus, ut supra habitum est. Ergo quaelibet virtus est aequaliter principium merendi.]]
+![[LEO Ia-IIæ, q. 114, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod gratia non sit principium meriti principalius per caritatem quam per alias virtutes. Merces enim operi debetur; secundum illud Matth. XX, *voca operarios, et redde illis mercedem suam*. Sed quaelibet virtus est principium alicuius operis, est enim virtus habitus operativus, ut supra habitum est. Ergo quaelibet virtus est aequaliter principium merendi.]]
 ![[CERF Ia-IIæ, q. 114, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 114, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 114, a. 4#s.c.|Sed contra est quod dominus, [[Jn 14]], dicit, *si quis diligit me, diligetur a patre meo, et ego diligam eum, et manifestabo ei meipsum*. Sed in manifesta Dei cognitione consistit vita aeterna; secundum illud [[Jn 14]], *haec est vita aeterna, ut cognoscant te solum Deum verum et vivum*. Ergo meritum vitae aeternae maxime residet penes caritatem.]]
+![[LEO Ia-IIæ, q. 114, a. 4#s.c.|Sed contra est quod dominus, Ioan. XIV, dicit, *si quis diligit me, diligetur a patre meo, et ego diligam eum, et manifestabo ei meipsum*. Sed in manifesta Dei cognitione consistit vita aeterna; secundum illud Ioan. XVII, *haec est vita aeterna, ut cognoscant te solum Deum verum et vivum*. Ergo meritum vitae aeternae maxime residet penes caritatem.]]
 ![[CERF Ia-IIæ, q. 114, a. 4#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia-IIæ, q. 114, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO Ia-IIæ, q. 114, a. 4#ad 3|Ad tertium dicendum quod fidei actus non est meritorius nisi fides per dilectionem operetur, ut dicitur ad [[Ga 5]]. Similiter etiam actus patientiae et fortitudinis non est meritorius nisi aliquis ex caritate haec operetur; secundum illud I ad Cor. XIII, *si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest*.]]
+![[LEO Ia-IIæ, q. 114, a. 4#ad 3|Ad tertium dicendum quod fidei actus non est meritorius nisi fides per dilectionem operetur, ut dicitur ad Gal. V. Similiter etiam actus patientiae et fortitudinis non est meritorius nisi aliquis ex caritate haec operetur; secundum illud I ad Cor. XIII, *si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest*.]]
 ![[CERF Ia-IIæ, q. 114, a. 4#ad 3]]
 

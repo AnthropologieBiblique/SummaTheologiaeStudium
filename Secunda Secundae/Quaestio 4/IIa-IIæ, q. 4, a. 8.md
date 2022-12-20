@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 4, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 4, a. 8#arg. 2|Praeterea, visio est certior auditu. Sed fides est ex auditu, ut dicitur ad [[Rm 10]], in intellectu autem et scientia et sapientia includitur quaedam intellectualis visio. Ergo certior est scientia vel intellectus quam fides.]]
+![[LEO IIa-IIæ, q. 4, a. 8#arg. 2|Praeterea, visio est certior auditu. Sed fides est ex auditu, ut dicitur ad Rom. X, in intellectu autem et scientia et sapientia includitur quaedam intellectualis visio. Ergo certior est scientia vel intellectus quam fides.]]
 ![[CERF IIa-IIæ, q. 4, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 4, a. 8#arg. 3|Praeterea, quanto aliquid est perfectius in his quae ad intellectum pertinent, tanto est certius. Sed intellectus est perfectior fide, quia per fidem ad intellectum pervenitur, secundum illud [[Is 7]], *nisi credideritis, non intelligetis*, secundum aliam litteram. Et Augustinus dicit etiam de scientia, XIV de Trin., quod per scientiam roboratur fides. Ergo videtur quod certior sit scientia vel intellectus quam fides.]]
+![[LEO IIa-IIæ, q. 4, a. 8#arg. 3|Praeterea, quanto aliquid est perfectius in his quae ad intellectum pertinent, tanto est certius. Sed intellectus est perfectior fide, quia per fidem ad intellectum pervenitur, secundum illud Isaiae VII, *nisi credideritis, non intelligetis*, secundum aliam litteram. Et Augustinus dicit etiam de scientia, XIV de Trin., quod per scientiam roboratur fides. Ergo videtur quod certior sit scientia vel intellectus quam fides.]]
 ![[CERF IIa-IIæ, q. 4, a. 8#arg. 3]]
 
 ###### s.c.

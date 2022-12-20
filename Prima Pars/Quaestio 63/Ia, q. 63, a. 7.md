@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia, q. 63, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod ille Angelus qui fuit supremus inter peccantes, non fuerit supremus inter omnes. Dicitur enim de eo [[Ez 28]], *tu Cherub extentus et protegens, posui te in monte sancto Dei*. Sed ordo Cherubim est sub ordine Seraphim, ut Dionysius dicit, VII cap. Ang. Hier. Ergo Angelus qui fuit supremus inter peccantes, non fuit supremus inter omnes.]]
+![[LEO Ia, q. 63, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod ille Angelus qui fuit supremus inter peccantes, non fuerit supremus inter omnes. Dicitur enim de eo Ezech. XXVIII, *tu Cherub extentus et protegens, posui te in monte sancto Dei*. Sed ordo Cherubim est sub ordine Seraphim, ut Dionysius dicit, VII cap. Ang. Hier. Ergo Angelus qui fuit supremus inter peccantes, non fuit supremus inter omnes.]]
 ![[CERF Ia, q. 63, a. 7#arg. 1]]
 
 ###### arg. 2

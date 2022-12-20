@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia, q. 102, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod homo non sit positus in Paradiso ut operaretur et custodiret illum. Quod enim introductum est in poenam peccati, non fuisset in Paradiso in statu innocentiae. Sed agricultura introducta est in poenam peccati, ut dicitur [[Gn 3]]. Ergo homo non fuit positus in Paradiso ut operaretur ipsum.]]
+![[LEO Ia, q. 102, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod homo non sit positus in Paradiso ut operaretur et custodiret illum. Quod enim introductum est in poenam peccati, non fuisset in Paradiso in statu innocentiae. Sed agricultura introducta est in poenam peccati, ut dicitur Gen. III. Ergo homo non fuit positus in Paradiso ut operaretur ipsum.]]
 ![[CERF Ia, q. 102, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 102, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 102, a. 3#s.c.|Sed contra est quod dicitur [[Gn 2]], *tulit dominus Deus hominem, et posuit illum in Paradiso voluptatis, ut operaretur et custodiret illum*.]]
+![[LEO Ia, q. 102, a. 3#s.c.|Sed contra est quod dicitur Gen. II, *tulit dominus Deus hominem, et posuit illum in Paradiso voluptatis, ut operaretur et custodiret illum*.]]
 ![[CERF Ia, q. 102, a. 3#s.c.]]
 
 ###### resp.

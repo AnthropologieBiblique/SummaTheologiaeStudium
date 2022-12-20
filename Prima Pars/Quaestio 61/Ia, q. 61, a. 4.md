@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 61, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 61, a. 4#arg. 3|Praeterea, caelum Empyreum dicitur esse caelum supremum. Si igitur Angeli creati fuissent in caelo Empyreo, non convenisset eis in superius caelum ascendere. Quod est contra id quod ex persona Angeli peccantis dicitur [[Is 14]], *ascendam in caelum*.]]
+![[LEO Ia, q. 61, a. 4#arg. 3|Praeterea, caelum Empyreum dicitur esse caelum supremum. Si igitur Angeli creati fuissent in caelo Empyreo, non convenisset eis in superius caelum ascendere. Quod est contra id quod ex persona Angeli peccantis dicitur Isaiae XIV, *ascendam in caelum*.]]
 ![[CERF Ia, q. 61, a. 4#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 61, a. 4#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 61, a. 4#resp.|Respondeo dicendum quod, sicut dictum est, ex creaturis corporalibus et spiritualibus unum universum constituitur. Unde sic creatae sunt spirituales creaturae, quod ad creaturam corporalem aliquem ordinem habent, et toti creaturae corporali praesident. Unde conveniens fuit quod Angeli in supremo corpore crearentur, tanquam toti naturae corporeae praesidentes; sive id dicatur caelum Empyreum, sive qualitercumque nominetur. Unde Isidorus dicit quod supremum caelum est caelum Angelorum, super illud [[Dt 10]], *domini Dei tui est caelum, et caelum caeli*.]]
+![[LEO Ia, q. 61, a. 4#resp.|Respondeo dicendum quod, sicut dictum est, ex creaturis corporalibus et spiritualibus unum universum constituitur. Unde sic creatae sunt spirituales creaturae, quod ad creaturam corporalem aliquem ordinem habent, et toti creaturae corporali praesident. Unde conveniens fuit quod Angeli in supremo corpore crearentur, tanquam toti naturae corporeae praesidentes; sive id dicatur caelum Empyreum, sive qualitercumque nominetur. Unde Isidorus dicit quod supremum caelum est caelum Angelorum, super illud Deut. X, *domini Dei tui est caelum, et caelum caeli*.]]
 ![[CERF Ia, q. 61, a. 4#resp.]]
 
 ###### ad 1

@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 31, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod beneficentia sit specialis virtus. Praecepta enim ad virtutes ordinantur, *quia legislatores intendunt facere homines virtuosos*, sicut dicitur in II Ethic. Sed seorsum datur praeceptum de beneficentia et de dilectione, dicitur enim [[Mt 5]], *diligite inimicos vestros, benefacite his qui oderunt vos*. Ergo beneficentia est virtus distincta a caritate.]]
+![[LEO IIa-IIæ, q. 31, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod beneficentia sit specialis virtus. Praecepta enim ad virtutes ordinantur, *quia legislatores intendunt facere homines virtuosos*, sicut dicitur in II Ethic. Sed seorsum datur praeceptum de beneficentia et de dilectione, dicitur enim Matth. V, *diligite inimicos vestros, benefacite his qui oderunt vos*. Ergo beneficentia est virtus distincta a caritate.]]
 ![[CERF IIa-IIæ, q. 31, a. 4#arg. 1]]
 
 ###### arg. 2

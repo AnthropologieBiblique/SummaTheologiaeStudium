@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia, q. 19, a. 3#arg. 6]]
 
 ###### s.c.
-![[LEO Ia, q. 19, a. 3#s.c.|Sed contra est quod dicit apostolus, [[Ep 1]], *qui operatur omnia secundum consilium voluntatis suae*. Quod autem operamur ex consilio voluntatis, non ex necessitate volumus. Non ergo quidquid Deus vult, ex necessitate vult.]]
+![[LEO Ia, q. 19, a. 3#s.c.|Sed contra est quod dicit apostolus, Ephes. I, *qui operatur omnia secundum consilium voluntatis suae*. Quod autem operamur ex consilio voluntatis, non ex necessitate volumus. Non ergo quidquid Deus vult, ex necessitate vult.]]
 ![[CERF Ia, q. 19, a. 3#s.c.]]
 
 ###### resp.

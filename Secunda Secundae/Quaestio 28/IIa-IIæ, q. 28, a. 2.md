@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 28, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod gaudium spirituale quod ex caritate causatur recipiat admixtionem tristitiae. Congaudere enim bonis proximi ad caritatem pertinet, secundum illud I ad Cor. XIII, *caritas non gaudet super iniquitate, congaudet autem veritati*. Sed hoc gaudium recipit permixtionem tristitiae, secundum illud [[Rm 12]], *gaudere cum gaudentibus, flere cum flentibus*. Ergo gaudium spirituale caritatis admixtionem tristitiae patitur.]]
+![[LEO IIa-IIæ, q. 28, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod gaudium spirituale quod ex caritate causatur recipiat admixtionem tristitiae. Congaudere enim bonis proximi ad caritatem pertinet, secundum illud I ad Cor. XIII, *caritas non gaudet super iniquitate, congaudet autem veritati*. Sed hoc gaudium recipit permixtionem tristitiae, secundum illud Rom. XII, *gaudere cum gaudentibus, flere cum flentibus*. Ergo gaudium spirituale caritatis admixtionem tristitiae patitur.]]
 ![[CERF IIa-IIæ, q. 28, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,15 +14,15 @@ tags :
 ![[CERF IIa-IIæ, q. 28, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 28, a. 2#arg. 3|Praeterea, ex caritate contingit quod aliquis desiderat esse cum Christo, secundum illud [[Ph 1]], *desiderium habens dissolvi et esse cum Christo*. Sed ex isto desiderio sequitur in homine quaedam tristitia, secundum illud Psalm., *heu mihi, quia incolatus meus prolongatus est*. Ergo gaudium caritatis recipit admixtionem tristitiae.]]
+![[LEO IIa-IIæ, q. 28, a. 2#arg. 3|Praeterea, ex caritate contingit quod aliquis desiderat esse cum Christo, secundum illud Philipp. I, *desiderium habens dissolvi et esse cum Christo*. Sed ex isto desiderio sequitur in homine quaedam tristitia, secundum illud Psalm., *heu mihi, quia incolatus meus prolongatus est*. Ergo gaudium caritatis recipit admixtionem tristitiae.]]
 ![[CERF IIa-IIæ, q. 28, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 28, a. 2#s.c.|Sed contra est quod gaudium caritatis est gaudium de divina sapientia. Sed huiusmodi gaudium non habet permixtionem tristitiae, secundum illud [[Sg 8]], *non habet amaritudinem conversatio illius*. Ergo gaudium caritatis non patitur permixtionem tristitiae.]]
+![[LEO IIa-IIæ, q. 28, a. 2#s.c.|Sed contra est quod gaudium caritatis est gaudium de divina sapientia. Sed huiusmodi gaudium non habet permixtionem tristitiae, secundum illud Sap. VIII, *non habet amaritudinem conversatio illius*. Ergo gaudium caritatis non patitur permixtionem tristitiae.]]
 ![[CERF IIa-IIæ, q. 28, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 28, a. 2#resp.|Respondeo dicendum quod ex caritate causatur duplex gaudium de Deo, sicut supra dictum est. Unum quidem principale, quod est proprium caritatis, quo scilicet gaudemus de bono divino secundum se considerato. Et tale gaudium caritatis permixtionem tristitiae non patitur, sicut nec illud bonum de quo gaudetur potest aliquam mali admixtionem habere. Et ideo apostolus dicit, ad [[Ph 4]], *gaudete in domino semper*. Aliud autem est gaudium caritatis quo gaudet quis de bono divino secundum quod participatur a nobis. Haec autem participatio potest impediri per aliquod contrarium. Et ideo ex hac parte gaudium caritatis potest habere permixtionem tristitiae, prout scilicet aliquis tristatur de eo quod repugnat participationi divini boni vel in nobis vel in proximis, quos tanquam nosipsos diligimus.]]
+![[LEO IIa-IIæ, q. 28, a. 2#resp.|Respondeo dicendum quod ex caritate causatur duplex gaudium de Deo, sicut supra dictum est. Unum quidem principale, quod est proprium caritatis, quo scilicet gaudemus de bono divino secundum se considerato. Et tale gaudium caritatis permixtionem tristitiae non patitur, sicut nec illud bonum de quo gaudetur potest aliquam mali admixtionem habere. Et ideo apostolus dicit, ad Philipp. IV, *gaudete in domino semper*. Aliud autem est gaudium caritatis quo gaudet quis de bono divino secundum quod participatur a nobis. Haec autem participatio potest impediri per aliquod contrarium. Et ideo ex hac parte gaudium caritatis potest habere permixtionem tristitiae, prout scilicet aliquis tristatur de eo quod repugnat participationi divini boni vel in nobis vel in proximis, quos tanquam nosipsos diligimus.]]
 ![[CERF IIa-IIæ, q. 28, a. 2#resp.]]
 
 ###### ad 1
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 28, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 28, a. 2#ad 2|Ad secundum dicendum quod peccata dividunt inter nos et Deum, ut dicitur [[Is 59]]. Et ideo haec est ratio dolendi de peccatis praeteritis nostris, vel etiam aliorum, inquantum per ea impedimur a participatione divini boni.]]
+![[LEO IIa-IIæ, q. 28, a. 2#ad 2|Ad secundum dicendum quod peccata dividunt inter nos et Deum, ut dicitur Isaiae LIX. Et ideo haec est ratio dolendi de peccatis praeteritis nostris, vel etiam aliorum, inquantum per ea impedimur a participatione divini boni.]]
 ![[CERF IIa-IIæ, q. 28, a. 2#ad 2]]
 
 ###### ad 3

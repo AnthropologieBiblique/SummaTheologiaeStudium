@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 32, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 32, a. 4#s.c.|Sed contra est quod in [[Ps 41]], dicitur, *fuerunt mihi lacrimae meae panes die ac nocte*. Per panem autem refectio delectationis intelligitur. Ergo lacrimae, quae ex tristitia oriuntur, possunt esse delectabiles.]]
+![[LEO Ia-IIæ, q. 32, a. 4#s.c.|Sed contra est quod in Psalmo XLI, dicitur, *fuerunt mihi lacrimae meae panes die ac nocte*. Per panem autem refectio delectationis intelligitur. Ergo lacrimae, quae ex tristitia oriuntur, possunt esse delectabiles.]]
 ![[CERF Ia-IIæ, q. 32, a. 4#s.c.]]
 
 ###### resp.

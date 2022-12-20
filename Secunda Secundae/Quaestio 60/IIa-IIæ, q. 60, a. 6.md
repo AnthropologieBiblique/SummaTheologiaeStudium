@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 60, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 60, a. 6#arg. 2|Praeterea, peccata punire ad iudicium pertinet. Sed aliqui laudabiliter leguntur peccata punisse qui tamen auctoritatem non habebant super illos quos puniebant, sicut Moyses occidendo Aegyptium, ut habetur [[Ex 2]]; et Phinees, filius Eleazari, Zambri, filium Salomi, ut legitur [[Nb 25]], *et reputatum est ei ad iustitiam*, ut dicitur in Psalm. Ergo usurpatio iudicii non pertinet ad iniustitiam.]]
+![[LEO IIa-IIæ, q. 60, a. 6#arg. 2|Praeterea, peccata punire ad iudicium pertinet. Sed aliqui laudabiliter leguntur peccata punisse qui tamen auctoritatem non habebant super illos quos puniebant, sicut Moyses occidendo Aegyptium, ut habetur Exod. II; et Phinees, filius Eleazari, Zambri, filium Salomi, ut legitur Num. XXV, *et reputatum est ei ad iustitiam*, ut dicitur in Psalm. Ergo usurpatio iudicii non pertinet ad iniustitiam.]]
 ![[CERF IIa-IIæ, q. 60, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 60, a. 6#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 60, a. 6#s.c.|Sed contra est quod dicitur [[Rm 14]], *tu quis es, qui iudicas alienum servum?*]]
+![[LEO IIa-IIæ, q. 60, a. 6#s.c.|Sed contra est quod dicitur Rom. XIV, *tu quis es, qui iudicas alienum servum?*]]
 ![[CERF IIa-IIæ, q. 60, a. 6#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIa-IIæ, q. 60, a. 6#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 60, a. 6#ad 2|Ad secundum dicendum quod Moyses videtur Aegyptium occidisse quasi ex inspiratione divina auctoritatem adeptus, ut videtur per hoc quod dicitur [[Ac 7]], quod, *percusso Aegyptio, aestimabat Moyses intelligere fratres suos quoniam dominus per manum ipsius daret salutem Israel*. Vel potest dici quod Moyses occidit Aegyptium defendendo eum qui iniuriam patiebatur cum moderamine inculpatae tutelae. Unde Ambrosius dicit, in libro de Offic., quod *qui non repellit iniuriam a socio cum potest, tam est in vitio quam ille qui facit*; et inducit exemplum Moysi. Vel potest dici, sicut dicit Augustinus, in quaestionibus Exod., quod *sicut terra, ante utilia semina, herbarum inutilium fertilitate laudatur; sic illud Moysi factum vitiosum quidem fuit, sed magnae fertilitatis signum gerebat*, inquantum scilicet erat signum virtutis eius qua populum liberaturus erat. De Phinee autem dicendum est quod ex inspiratione divina, zelo Dei commotus, hoc fecit. Vel quia, licet nondum esset summus sacerdos, erat tamen filius summi sacerdotis, et ad eum hoc iudicium pertinebat, sicut et ad alios iudices, quibus hoc erat praeceptum.]]
+![[LEO IIa-IIæ, q. 60, a. 6#ad 2|Ad secundum dicendum quod Moyses videtur Aegyptium occidisse quasi ex inspiratione divina auctoritatem adeptus, ut videtur per hoc quod dicitur Act. VII, quod, *percusso Aegyptio, aestimabat Moyses intelligere fratres suos quoniam dominus per manum ipsius daret salutem Israel*. Vel potest dici quod Moyses occidit Aegyptium defendendo eum qui iniuriam patiebatur cum moderamine inculpatae tutelae. Unde Ambrosius dicit, in libro de Offic., quod *qui non repellit iniuriam a socio cum potest, tam est in vitio quam ille qui facit*; et inducit exemplum Moysi. Vel potest dici, sicut dicit Augustinus, in quaestionibus Exod., quod *sicut terra, ante utilia semina, herbarum inutilium fertilitate laudatur; sic illud Moysi factum vitiosum quidem fuit, sed magnae fertilitatis signum gerebat*, inquantum scilicet erat signum virtutis eius qua populum liberaturus erat. De Phinee autem dicendum est quod ex inspiratione divina, zelo Dei commotus, hoc fecit. Vel quia, licet nondum esset summus sacerdos, erat tamen filius summi sacerdotis, et ad eum hoc iudicium pertinebat, sicut et ad alios iudices, quibus hoc erat praeceptum.]]
 ![[CERF IIa-IIæ, q. 60, a. 6#ad 2]]
 
 ###### ad 3

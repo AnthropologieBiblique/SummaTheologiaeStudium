@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia, q. 49, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod sit unum summum malum, quod sit causa omnis mali. Contrariorum enim effectuum contrariae sunt causae. Sed in rebus invenitur contrarietas, secundum illud [[Si 33]], *contra malum bonum est, et contra vitam mors; sic et contra virum iustum peccator*. Ergo sunt contraria principia, unum boni, et aliud mali.]]
+![[LEO Ia, q. 49, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod sit unum summum malum, quod sit causa omnis mali. Contrariorum enim effectuum contrariae sunt causae. Sed in rebus invenitur contrarietas, secundum illud Eccli. XXXIII, *contra malum bonum est, et contra vitam mors; sic et contra virum iustum peccator*. Ergo sunt contraria principia, unum boni, et aliud mali.]]
 ![[CERF Ia, q. 49, a. 3#arg. 1]]
 
 ###### arg. 2

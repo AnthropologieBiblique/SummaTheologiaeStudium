@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 70, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 70, a. 4#s.c.|Sed contra est quod dicitur [[Pr 19]], *falsus testis non erit impunitus*.]]
+![[LEO IIa-IIæ, q. 70, a. 4#s.c.|Sed contra est quod dicitur Prov. XIX, *falsus testis non erit impunitus*.]]
 ![[CERF IIa-IIæ, q. 70, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 70, a. 4#resp.|Respondeo dicendum quod falsum testimonium habet triplicem deformitatem. Uno modo, ex periurio, quia testes non admittuntur nisi iurati. Et ex hoc semper est peccatum mortale. Alio modo, ex violatione iustitiae. Et hoc modo est peccatum mortale in suo genere, sicut et quaelibet iniustitia. Et ideo in praecepto Decalogi sub hac forma interdicitur falsum testimonium, cum dicitur [[Ex 20]], *non loquaris contra proximum tuum falsum testimonium*, non enim contra aliquem facit qui eum ab iniuria facienda impedit, sed solum qui ei suam iustitiam tollit. Tertio modo, ex ipsa falsitate, secundum quod omne mendacium est peccatum. Et ex hoc non habet falsum testimonium quod semper sit peccatum mortale.]]
+![[LEO IIa-IIæ, q. 70, a. 4#resp.|Respondeo dicendum quod falsum testimonium habet triplicem deformitatem. Uno modo, ex periurio, quia testes non admittuntur nisi iurati. Et ex hoc semper est peccatum mortale. Alio modo, ex violatione iustitiae. Et hoc modo est peccatum mortale in suo genere, sicut et quaelibet iniustitia. Et ideo in praecepto Decalogi sub hac forma interdicitur falsum testimonium, cum dicitur Exod. XX, *non loquaris contra proximum tuum falsum testimonium*, non enim contra aliquem facit qui eum ab iniuria facienda impedit, sed solum qui ei suam iustitiam tollit. Tertio modo, ex ipsa falsitate, secundum quod omne mendacium est peccatum. Et ex hoc non habet falsum testimonium quod semper sit peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 70, a. 4#resp.]]
 
 ###### ad 1

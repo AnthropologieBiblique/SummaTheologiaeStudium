@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 67, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 67, a. 5#arg. 2|Praeterea, fides est quoddam spirituale lumen animae, secundum illud [[Ep 1]], *illuminatos oculos cordis vestri in agnitionem Dei*; sed hoc lumen est imperfectum respectu luminis gloriae, de quo dicitur in [[Ps 35]], *in lumine tuo videbimus lumen*. Lumen autem imperfectum remanet, superveniente lumine perfecto, non enim candela extinguitur, claritate solis superveniente. Ergo videtur quod ipsum lumen fidei maneat cum lumine gloriae.]]
+![[LEO Ia-IIæ, q. 67, a. 5#arg. 2|Praeterea, fides est quoddam spirituale lumen animae, secundum illud Ephes. I, *illuminatos oculos cordis vestri in agnitionem Dei*; sed hoc lumen est imperfectum respectu luminis gloriae, de quo dicitur in Psalmo XXXV, *in lumine tuo videbimus lumen*. Lumen autem imperfectum remanet, superveniente lumine perfecto, non enim candela extinguitur, claritate solis superveniente. Ergo videtur quod ipsum lumen fidei maneat cum lumine gloriae.]]
 ![[CERF Ia-IIæ, q. 67, a. 5#arg. 2]]
 
 ###### arg. 3

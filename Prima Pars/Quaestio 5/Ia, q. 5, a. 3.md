@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 5, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 5, a. 3#arg. 2|Praeterea, nullum malum est bonum, [[Is 5]], *vae qui dicitis malum bonum, et bonum malum*. Sed aliquod ens dicitur malum. Ergo non omne ens est bonum.]]
+![[LEO Ia, q. 5, a. 3#arg. 2|Praeterea, nullum malum est bonum, Isaiae V, *vae qui dicitis malum bonum, et bonum malum*. Sed aliquod ens dicitur malum. Ergo non omne ens est bonum.]]
 ![[CERF Ia, q. 5, a. 3#arg. 2]]
 
 ###### arg. 3

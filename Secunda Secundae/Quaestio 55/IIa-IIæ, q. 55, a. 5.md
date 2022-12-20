@@ -10,15 +10,15 @@ tags :
 ![[CERF IIa-IIæ, q. 55, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 55, a. 5#arg. 2|Praeterea, fraus pertinere videtur ad illicitam acceptionem vel receptionem exteriorum rerum, dicitur enim [[Ac 5]] quod *vir quidam nomine Ananias, cum Saphira uxore sua, vendidit agrum et fraudavit de pretio agri*. Sed illicite usurpare vel retinere res exteriores pertinet ad iniustitiam vel illiberalitatem. Ergo fraus non pertinet ad astutiam, quae opponitur prudentiae.]]
+![[LEO IIa-IIæ, q. 55, a. 5#arg. 2|Praeterea, fraus pertinere videtur ad illicitam acceptionem vel receptionem exteriorum rerum, dicitur enim Act. V quod *vir quidam nomine Ananias, cum Saphira uxore sua, vendidit agrum et fraudavit de pretio agri*. Sed illicite usurpare vel retinere res exteriores pertinet ad iniustitiam vel illiberalitatem. Ergo fraus non pertinet ad astutiam, quae opponitur prudentiae.]]
 ![[CERF IIa-IIæ, q. 55, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 55, a. 5#arg. 3|Praeterea, nullus astutia utitur contra seipsum. Sed aliquorum fraudes sunt contra seipsos, dicitur enim [[Pr 1]] de quibusdam quod moliuntur fraudes contra animas suas. Ergo fraus non pertinet ad astutiam.]]
+![[LEO IIa-IIæ, q. 55, a. 5#arg. 3|Praeterea, nullus astutia utitur contra seipsum. Sed aliquorum fraudes sunt contra seipsos, dicitur enim Prov. I de quibusdam quod moliuntur fraudes contra animas suas. Ergo fraus non pertinet ad astutiam.]]
 ![[CERF IIa-IIæ, q. 55, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 55, a. 5#s.c.|Sed contra, fraus ad deceptionem ordinatur, secundum illud [[Jb 13]], *numquid decipietur ut homo vestris fraudulentiis?* Ad idem etiam ordinatur astutia. Ergo fraus ad astutiam pertinet.]]
+![[LEO IIa-IIæ, q. 55, a. 5#s.c.|Sed contra, fraus ad deceptionem ordinatur, secundum illud Iob XIII, *numquid decipietur ut homo vestris fraudulentiis?* Ad idem etiam ordinatur astutia. Ergo fraus ad astutiam pertinet.]]
 ![[CERF IIa-IIæ, q. 55, a. 5#s.c.]]
 
 ###### resp.

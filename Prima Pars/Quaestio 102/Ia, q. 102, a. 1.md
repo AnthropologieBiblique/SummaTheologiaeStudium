@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 102, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 102, a. 1#arg. 2|Praeterea, Scriptura commemorat quatuor flumina in Paradiso oriri, ut patet [[Gn 2]]. Illa autem flumina quae ibi nominantur, alibi habent manifestas origines; ut patet etiam per philosophum in libro Meteor. Ergo Paradisus non est locus corporeus.]]
+![[LEO Ia, q. 102, a. 1#arg. 2|Praeterea, Scriptura commemorat quatuor flumina in Paradiso oriri, ut patet Gen. II. Illa autem flumina quae ibi nominantur, alibi habent manifestas origines; ut patet etiam per philosophum in libro Meteor. Ergo Paradisus non est locus corporeus.]]
 ![[CERF Ia, q. 102, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia, q. 102, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 102, a. 1#arg. 4|Praeterea, in Paradiso describitur lignum vitae esse. Sed lignum vitae est aliquid spirituale, dicitur enim [[Pr 3]], de sapientia, quod est lignum vitae his qui apprehendunt eam. Ergo et Paradisus non est locus corporeus, sed spiritualis.]]
+![[LEO Ia, q. 102, a. 1#arg. 4|Praeterea, in Paradiso describitur lignum vitae esse. Sed lignum vitae est aliquid spirituale, dicitur enim Prov. III, de sapientia, quod est lignum vitae his qui apprehendunt eam. Ergo et Paradisus non est locus corporeus, sed spiritualis.]]
 ![[CERF Ia, q. 102, a. 1#arg. 4]]
 
 ###### arg. 5
-![[LEO Ia, q. 102, a. 1#arg. 5|Praeterea, si Paradisus est locus corporalis, oportet quod et ligna Paradisi sint corporalia. Sed hoc non videtur, cum corporalia ligna sint producta tertio die; de plantatione autem lignorum Paradisi legitur [[Gn 2]], post opera sex dierum. Ergo Paradisus non est locus corporeus.]]
+![[LEO Ia, q. 102, a. 1#arg. 5|Praeterea, si Paradisus est locus corporalis, oportet quod et ligna Paradisi sint corporalia. Sed hoc non videtur, cum corporalia ligna sint producta tertio die; de plantatione autem lignorum Paradisi legitur Gen. II, post opera sex dierum. Ergo Paradisus non est locus corporeus.]]
 ![[CERF Ia, q. 102, a. 1#arg. 5]]
 
 ###### s.c.

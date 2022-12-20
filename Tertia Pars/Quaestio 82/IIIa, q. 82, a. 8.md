@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 82, a. 8#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 82, a. 8#ad 2|Ad secundum dicendum quod episcopus non dat potestatem sacerdotalis ordinis propria virtute, sed instrumentaliter, sicut minister Dei, cuius effectus per hominem tolli non potest, secundum illud [[Mt 19]], *quos Deus coniunxit, homo non separet*. Et ideo episcopus non potest hanc potestatem auferre, sicut nec ille qui baptizat potest auferre characterem baptismalem.]]
+![[LEO IIIa, q. 82, a. 8#ad 2|Ad secundum dicendum quod episcopus non dat potestatem sacerdotalis ordinis propria virtute, sed instrumentaliter, sicut minister Dei, cuius effectus per hominem tolli non potest, secundum illud Matth. XIX, *quos Deus coniunxit, homo non separet*. Et ideo episcopus non potest hanc potestatem auferre, sicut nec ille qui baptizat potest auferre characterem baptismalem.]]
 ![[CERF IIIa, q. 82, a. 8#ad 2]]
 
 ###### ad 3

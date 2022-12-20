@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 94, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod idololatria non sit peccatum. Nihil enim est peccatum quod vera fides in cultum Dei assumit. Sed vera fides imagines quasdam assumit ad divinum cultum, nam et in tabernaculo erant imagines Cherubin, ut legitur [[Ex 25]]; et in Ecclesia quaedam imagines ponuntur quas fideles adorant. Ergo idololatria, secundum quam idola adorantur, non est peccatum.]]
+![[LEO IIa-IIæ, q. 94, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod idololatria non sit peccatum. Nihil enim est peccatum quod vera fides in cultum Dei assumit. Sed vera fides imagines quasdam assumit ad divinum cultum, nam et in tabernaculo erant imagines Cherubin, ut legitur Exod. XXV; et in Ecclesia quaedam imagines ponuntur quas fideles adorant. Ergo idololatria, secundum quam idola adorantur, non est peccatum.]]
 ![[CERF IIa-IIæ, q. 94, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 94, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 94, a. 2#arg. 3|Praeterea, summus Deus interiori cultu mentis est colendus, secundum illud [[Jn 4]], Deum oportet adorare in spiritu et veritate. Et Augustinus dicit, in Enchirid., quod Deus colitur fide, spe et caritate. Potest autem contingere quod aliquis exterius idola colat, interius tamen a vera fide non discedat. Ergo videtur quod sine praeiudicio divini cultus possit aliquis exterius idola colere.]]
+![[LEO IIa-IIæ, q. 94, a. 2#arg. 3|Praeterea, summus Deus interiori cultu mentis est colendus, secundum illud Ioan. IV, Deum oportet adorare in spiritu et veritate. Et Augustinus dicit, in Enchirid., quod Deus colitur fide, spe et caritate. Potest autem contingere quod aliquis exterius idola colat, interius tamen a vera fide non discedat. Ergo videtur quod sine praeiudicio divini cultus possit aliquis exterius idola colere.]]
 ![[CERF IIa-IIæ, q. 94, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 94, a. 2#s.c.|Sed contra est quod [[Ex 20]] dicitur, non adorabis ea, scilicet exterius, neque coles, scilicet interius, ut Glossa exponit et loquitur de sculptilibus et imaginibus. Ergo peccatum est idolis exteriorem vel interiorem cultum exhibere.]]
+![[LEO IIa-IIæ, q. 94, a. 2#s.c.|Sed contra est quod Exod. XX dicitur, non adorabis ea, scilicet exterius, neque coles, scilicet interius, ut Glossa exponit et loquitur de sculptilibus et imaginibus. Ergo peccatum est idolis exteriorem vel interiorem cultum exhibere.]]
 ![[CERF IIa-IIæ, q. 94, a. 2#s.c.]]
 
 ###### resp.

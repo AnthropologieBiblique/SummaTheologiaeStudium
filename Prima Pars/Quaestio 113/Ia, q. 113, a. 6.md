@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia, q. 113, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod Angelus custos quandoque deserat hominem cuius custodiae deputatur. Dicitur enim Ierem. li, ex persona Angelorum, *curavimus Babylonem, et non est curata, derelinquamus ergo eam*. Et [[Is 5]], *auferam sepem eius, et erit in conculcationem*; Glossa, *idest Angelorum custodiam*.]]
+![[LEO Ia, q. 113, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod Angelus custos quandoque deserat hominem cuius custodiae deputatur. Dicitur enim Ierem. li, ex persona Angelorum, *curavimus Babylonem, et non est curata, derelinquamus ergo eam*. Et Isaiae V, *auferam sepem eius, et erit in conculcationem*; Glossa, *idest Angelorum custodiam*.]]
 ![[CERF Ia, q. 113, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 113, a. 6#arg. 2|Praeterea, principalius custodit Deus quam Angelus. Sed Deus aliquando hominem derelinquit; secundum illud [[Ps 21]], *Deus, Deus meus, respice in me, quare me dereliquisti?* Ergo multo magis Angelus custos hominem derelinquit.]]
+![[LEO Ia, q. 113, a. 6#arg. 2|Praeterea, principalius custodit Deus quam Angelus. Sed Deus aliquando hominem derelinquit; secundum illud Psalmi XXI, *Deus, Deus meus, respice in me, quare me dereliquisti?* Ergo multo magis Angelus custos hominem derelinquit.]]
 ![[CERF Ia, q. 113, a. 6#arg. 2]]
 
 ###### arg. 3

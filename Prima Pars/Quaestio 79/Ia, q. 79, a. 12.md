@@ -6,7 +6,7 @@ tags :
 ### Articulus 12
 
 ###### arg. 1
-![[LEO Ia, q. 79, a. 12#arg. 1|Ad duodecimum sic proceditur. Videtur quod synderesis sit quaedam specialis potentia ab aliis distincta. Ea enim quae cadunt sub una divisione, videntur esse unius generis. Sed in Glossa Hieronymi [[Ez 1]], dividitur synderesis contra irascibilem et concupiscibilem et rationalem; quae sunt quaedam potentiae. Ergo synderesis est quaedam potentia.]]
+![[LEO Ia, q. 79, a. 12#arg. 1|Ad duodecimum sic proceditur. Videtur quod synderesis sit quaedam specialis potentia ab aliis distincta. Ea enim quae cadunt sub una divisione, videntur esse unius generis. Sed in Glossa Hieronymi Ezech. I, dividitur synderesis contra irascibilem et concupiscibilem et rationalem; quae sunt quaedam potentiae. Ergo synderesis est quaedam potentia.]]
 ![[CERF Ia, q. 79, a. 12#arg. 1]]
 
 ###### arg. 2

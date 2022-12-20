@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 86, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 86, a. 4#s.c.|Sed contra est quod dicitur [[Qo 8]], *multa hominis afflictio, qui ignorat praeterita, et futura nullo potest scire nuntio*.]]
+![[LEO Ia, q. 86, a. 4#s.c.|Sed contra est quod dicitur Eccle. VIII, *multa hominis afflictio, qui ignorat praeterita, et futura nullo potest scire nuntio*.]]
 ![[CERF Ia, q. 86, a. 4#s.c.]]
 
 ###### resp.

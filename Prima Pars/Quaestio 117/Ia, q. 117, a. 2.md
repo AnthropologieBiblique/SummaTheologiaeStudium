@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 117, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod homines possint docere Angelos. Dicit enim apostolus, ad [[Ep 3]], *ut innotescat principibus et potestatibus in caelestibus per Ecclesiam multiformis sapientia Dei*. Sed Ecclesia est congregatio hominum fidelium. Ergo Angelis per homines aliqua innotescunt.]]
+![[LEO Ia, q. 117, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod homines possint docere Angelos. Dicit enim apostolus, ad Ephes. III, *ut innotescat principibus et potestatibus in caelestibus per Ecclesiam multiformis sapientia Dei*. Sed Ecclesia est congregatio hominum fidelium. Ergo Angelis per homines aliqua innotescunt.]]
 ![[CERF Ia, q. 117, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 117, a. 2#arg. 2|Praeterea, Angeli superiores, qui immediate de divinis a Deo illuminantur, inferiores Angelos instruere possunt, ut supra dictum est. Sed aliqui homines immediate de divinis per Dei verbum sunt instructi; sicut maxime patet de apostolis, secundum illud ad [[He 1]], *novissime, diebus istis, locutus est nobis in filio*. Ergo aliqui homines aliquos Angelos docere potuerunt.]]
+![[LEO Ia, q. 117, a. 2#arg. 2|Praeterea, Angeli superiores, qui immediate de divinis a Deo illuminantur, inferiores Angelos instruere possunt, ut supra dictum est. Sed aliqui homines immediate de divinis per Dei verbum sunt instructi; sicut maxime patet de apostolis, secundum illud ad Heb. I, *novissime, diebus istis, locutus est nobis in filio*. Ergo aliqui homines aliquos Angelos docere potuerunt.]]
 ![[CERF Ia, q. 117, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 117, a. 2#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 117, a. 2#resp.|Respondeo dicendum quod, sicut supra habitum est, inferiores Angeli loqui quidem possunt superioribus Angelis, manifestando eis suas cogitationes; sed de rebus divinis superiores ab inferioribus nunquam illuminantur. Manifestum est autem quod eo modo quo inferiores Angeli superioribus subduntur, supremi homines subduntur etiam infimis Angelorum. Quod patet per id quod dominus dicit, [[Mt 11]], *inter natos mulierum non surrexit maior Ioanne Baptista; sed qui minor est in regno caelorum, maior est illo*. Sic igitur de rebus divinis ab hominibus Angeli nunquam illuminantur. Cogitationes tamen suorum cordium homines Angelis per modum locutionis manifestare possunt, quia secreta cordium scire solius Dei est.]]
+![[LEO Ia, q. 117, a. 2#resp.|Respondeo dicendum quod, sicut supra habitum est, inferiores Angeli loqui quidem possunt superioribus Angelis, manifestando eis suas cogitationes; sed de rebus divinis superiores ab inferioribus nunquam illuminantur. Manifestum est autem quod eo modo quo inferiores Angeli superioribus subduntur, supremi homines subduntur etiam infimis Angelorum. Quod patet per id quod dominus dicit, Matth. XI, *inter natos mulierum non surrexit maior Ioanne Baptista; sed qui minor est in regno caelorum, maior est illo*. Sic igitur de rebus divinis ab hominibus Angeli nunquam illuminantur. Cogitationes tamen suorum cordium homines Angelis per modum locutionis manifestare possunt, quia secreta cordium scire solius Dei est.]]
 ![[CERF Ia, q. 117, a. 2#resp.]]
 
 ###### ad 1

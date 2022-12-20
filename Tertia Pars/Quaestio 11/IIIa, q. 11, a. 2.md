@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 11, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 11, a. 2#arg. 2|Praeterea, anima Christi est eiusdem naturae cum animabus nostris, alioquin ipse non esset eiusdem speciei nobiscum; contra id quod apostolus dicit, [[Ph 2]], quod est *in similitudinem hominum factus*. Sed anima nostra non potest intelligere nisi convertendo se ad phantasmata. Ergo nec etiam anima Christi.]]
+![[LEO IIIa, q. 11, a. 2#arg. 2|Praeterea, anima Christi est eiusdem naturae cum animabus nostris, alioquin ipse non esset eiusdem speciei nobiscum; contra id quod apostolus dicit, Philipp. II, quod est *in similitudinem hominum factus*. Sed anima nostra non potest intelligere nisi convertendo se ad phantasmata. Ergo nec etiam anima Christi.]]
 ![[CERF IIIa, q. 11, a. 2#arg. 2]]
 
 ###### arg. 3

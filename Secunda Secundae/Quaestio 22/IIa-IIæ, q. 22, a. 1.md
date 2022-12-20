@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 22, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 22, a. 1#s.c.|Sed contra est quod Augustinus dicit, super illud [[Jn 15]], *hoc est praeceptum meum, ut diligatis invicem, de fide nobis quam multa mandata sunt; quam multa de spe*. Ergo de spe convenit aliqua praecepta dari.]]
+![[LEO IIa-IIæ, q. 22, a. 1#s.c.|Sed contra est quod Augustinus dicit, super illud Ioan. XV, *hoc est praeceptum meum, ut diligatis invicem, de fide nobis quam multa mandata sunt; quam multa de spe*. Ergo de spe convenit aliqua praecepta dari.]]
 ![[CERF IIa-IIæ, q. 22, a. 1#s.c.]]
 
 ###### resp.

@@ -38,7 +38,7 @@ tags :
 ![[CERF IIa-IIæ, q. 186, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 186, a. 1#ad 3|Ad tertium dicendum quod, sicut dictum est, religio nominat statum perfectionis ex intentione finis. Unde non oportet quod quicumque est in religione, iam sit perfectus, sed quod ad perfectionem tendat. Unde super illud [[Mt 19]], si vis perfectus esse etc., dicit Origenes quod *ille qui mutavit pro divitiis paupertatem ut fiat perfectus, non in ipso tempore quo tradiderit bona sua pauperibus, fiet omnino perfectus, sed ex illa die incipiet speculatio Dei adducere eum ad omnes virtutes*. Et hoc modo in religione non omnes sunt perfecti, sed quidam incipientes, quidam proficientes.]]
+![[LEO IIa-IIæ, q. 186, a. 1#ad 3|Ad tertium dicendum quod, sicut dictum est, religio nominat statum perfectionis ex intentione finis. Unde non oportet quod quicumque est in religione, iam sit perfectus, sed quod ad perfectionem tendat. Unde super illud Matth. XIX, si vis perfectus esse etc., dicit Origenes quod *ille qui mutavit pro divitiis paupertatem ut fiat perfectus, non in ipso tempore quo tradiderit bona sua pauperibus, fiet omnino perfectus, sed ex illa die incipiet speculatio Dei adducere eum ad omnes virtutes*. Et hoc modo in religione non omnes sunt perfecti, sed quidam incipientes, quidam proficientes.]]
 ![[CERF IIa-IIæ, q. 186, a. 1#ad 3]]
 
 ###### ad 4

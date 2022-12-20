@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 103, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 103, a. 1#s.c.|Sed contra est quod dicitur [[Sg 14]], *tu autem, pater, gubernas omnia providentia*. Et Boetius dicit, in libro de Consol., *o qui perpetua mundum ratione gubernas*.]]
+![[LEO Ia, q. 103, a. 1#s.c.|Sed contra est quod dicitur Sap. XIV, *tu autem, pater, gubernas omnia providentia*. Et Boetius dicit, in libro de Consol., *o qui perpetua mundum ratione gubernas*.]]
 ![[CERF Ia, q. 103, a. 1#s.c.]]
 
 ###### resp.

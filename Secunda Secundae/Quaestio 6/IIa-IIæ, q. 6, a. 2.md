@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 6, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod fides informis non sit donum Dei. Dicitur enim [[Dt 32]], quod Dei perfecta sunt opera. Fides autem informis est quiddam imperfectum. Ergo fides informis non est opus Dei.]]
+![[LEO IIa-IIæ, q. 6, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod fides informis non sit donum Dei. Dicitur enim Deut. XXXII, quod Dei perfecta sunt opera. Fides autem informis est quiddam imperfectum. Ergo fides informis non est opus Dei.]]
 ![[CERF IIa-IIæ, q. 6, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 6, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 6, a. 2#arg. 3|Praeterea, quaecumque Deus sanat totaliter sanat, dicitur enim [[Jn 7]], *si circumcisionem accipit homo in sabbato ut non solvatur lex Moysi, mihi indignamini quia totum hominem salvum feci in sabbato*. Sed per fidem homo sanatur ab infidelitate. Quicumque ergo donum fidei a Deo accipit simul sanatur ab omnibus peccatis. Sed hoc non fit nisi per fidem formatam. Ergo sola fides formata est donum Dei. Non ergo fides informis.]]
+![[LEO IIa-IIæ, q. 6, a. 2#arg. 3|Praeterea, quaecumque Deus sanat totaliter sanat, dicitur enim Ioan. VII, *si circumcisionem accipit homo in sabbato ut non solvatur lex Moysi, mihi indignamini quia totum hominem salvum feci in sabbato*. Sed per fidem homo sanatur ab infidelitate. Quicumque ergo donum fidei a Deo accipit simul sanatur ab omnibus peccatis. Sed hoc non fit nisi per fidem formatam. Ergo sola fides formata est donum Dei. Non ergo fides informis.]]
 ![[CERF IIa-IIæ, q. 6, a. 2#arg. 3]]
 
 ###### s.c.

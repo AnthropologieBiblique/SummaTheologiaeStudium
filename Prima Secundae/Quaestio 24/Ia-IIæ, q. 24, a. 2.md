@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 24, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 24, a. 2#arg. 3|Praeterea, omne quod inducit ad peccatum, habet rationem mali. Sed huiusmodi passiones inducunt ad peccatum, unde [[Rm 7]] dicuntur passiones peccatorum. Ergo videtur quod sint malae moraliter.]]
+![[LEO Ia-IIæ, q. 24, a. 2#arg. 3|Praeterea, omne quod inducit ad peccatum, habet rationem mali. Sed huiusmodi passiones inducunt ad peccatum, unde Rom. VII dicuntur passiones peccatorum. Ergo videtur quod sint malae moraliter.]]
 ![[CERF Ia-IIæ, q. 24, a. 2#arg. 3]]
 
 ###### s.c.

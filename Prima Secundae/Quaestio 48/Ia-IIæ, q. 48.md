@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 48#Prooemium|Deinde considerandum est de effectibus irae. Et circa hoc quaeruntur quatuor. Primo, utrum ira causet delectationem. Secundo, utrum maxime causet fervorem in corde. Tertio, utrum maxime impediat rationis usum. Quarto, utrum causet taciturnitatem.]]
-![[CERF Ia-IIæ, q. 48#Prooemium]]
+Deinde considerandum est de effectibus irae. Et circa hoc quaeruntur quatuor. Primo, utrum ira causet delectationem. Secundo, utrum maxime causet fervorem in corde. Tertio, utrum maxime impediat rationis usum. Quarto, utrum causet taciturnitatem.
 
 ![[Ia-IIæ, q. 48, a. 1#Articulus 1]]
 

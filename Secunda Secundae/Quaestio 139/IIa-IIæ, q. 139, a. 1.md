@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 139, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 139, a. 1#s.c.|Sed contra est quod [[Is 11]] fortitudo inter alia dona spiritus sancti computatur.]]
+![[LEO IIa-IIæ, q. 139, a. 1#s.c.|Sed contra est quod Isaiae XI fortitudo inter alia dona spiritus sancti computatur.]]
 ![[CERF IIa-IIæ, q. 139, a. 1#s.c.]]
 
 ###### resp.

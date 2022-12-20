@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 28, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 28, a. 2#arg. 3|Praeterea, sicut Gregorius dicit, in homilia octavarum Paschae, per hoc quod, ianuis clausis, ad discipulos post resurrectionem intravit dominus, ostendit corpus suum esse eiusdem naturae et alterius gloriae, et sic per clausa transire videtur ad gloriam corporis pertinere. Sed corpus Christi in sua conceptione non fuit gloriosum, sed passibile, habens similitudinem carnis peccati, ut apostolus dicit, [[Rm 8]]. Non ergo exivit per virginis uterum clausum.]]
+![[LEO IIIa, q. 28, a. 2#arg. 3|Praeterea, sicut Gregorius dicit, in homilia octavarum Paschae, per hoc quod, ianuis clausis, ad discipulos post resurrectionem intravit dominus, ostendit corpus suum esse eiusdem naturae et alterius gloriae, et sic per clausa transire videtur ad gloriam corporis pertinere. Sed corpus Christi in sua conceptione non fuit gloriosum, sed passibile, habens similitudinem carnis peccati, ut apostolus dicit, Rom. VIII. Non ergo exivit per virginis uterum clausum.]]
 ![[CERF IIIa, q. 28, a. 2#arg. 3]]
 
 ###### s.c.

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 109, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 109, a. 1#arg. 2|Praeterea, sicut philosophus dicit, in IV Ethic., ad veritatem pertinet quod aliquis confiteatur *existentia circa seipsum, et neque maiora neque minora*. Sed hoc non semper est laudabile, neque in bonis, quia dicitur [[Pr 27]], *laudet te alienus, et non os tuum*; nec etiam in malis, quia contra quosdam dicitur [[Is 3]], *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Ergo veritas non est virtus.]]
+![[LEO IIa-IIæ, q. 109, a. 1#arg. 2|Praeterea, sicut philosophus dicit, in IV Ethic., ad veritatem pertinet quod aliquis confiteatur *existentia circa seipsum, et neque maiora neque minora*. Sed hoc non semper est laudabile, neque in bonis, quia dicitur Prov. XXVII, *laudet te alienus, et non os tuum*; nec etiam in malis, quia contra quosdam dicitur Isaiae III, *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Ergo veritas non est virtus.]]
 ![[CERF IIa-IIæ, q. 109, a. 1#arg. 2]]
 
 ###### arg. 3

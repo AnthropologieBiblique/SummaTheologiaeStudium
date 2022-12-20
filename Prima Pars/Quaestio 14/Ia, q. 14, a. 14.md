@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 14, a. 14#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 14, a. 14#s.c.|Sed contra est quod dicitur in [[Ps 93]], *dominus scit cogitationes hominum*. Sed enuntiabilia continentur in cogitationibus hominum. Ergo Deus cognoscit enuntiabilia.]]
+![[LEO Ia, q. 14, a. 14#s.c.|Sed contra est quod dicitur in Psalmo XCIII, *dominus scit cogitationes hominum*. Sed enuntiabilia continentur in cogitationibus hominum. Ergo Deus cognoscit enuntiabilia.]]
 ![[CERF Ia, q. 14, a. 14#s.c.]]
 
 ###### resp.

@@ -10,11 +10,11 @@ tags :
 ![[CERF Ia, q. 113, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 113, a. 1#arg. 2|Praeterea, ubi adest fortior custodia, infirmior superfluere videtur. Sed homines custodiuntur a Deo; secundum illud [[Ps 120]], *non dormitabit neque dormiet qui custodit Israel*. Ergo non est necessarium quod homo custodiatur ab Angelo.]]
+![[LEO Ia, q. 113, a. 1#arg. 2|Praeterea, ubi adest fortior custodia, infirmior superfluere videtur. Sed homines custodiuntur a Deo; secundum illud Psalmi CXX, *non dormitabit neque dormiet qui custodit Israel*. Ergo non est necessarium quod homo custodiatur ab Angelo.]]
 ![[CERF Ia, q. 113, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 113, a. 1#arg. 3|Praeterea, perditio custoditi redundat in negligentiam custodis, unde dicitur cuidam, [[1R 20]], *custodi virum istum, qui si lapsus fuerit, erit anima tua pro anima eius*. Sed multi homines quotidie pereunt, in peccatum cadentes, quibus Angeli subvenire possent vel visibiliter apparendo, vel miracula faciendo, vel aliquo simili modo. Essent ergo negligentes Angeli, si eorum custodiae homines essent commissi, quod patet esse falsum. Non igitur Angeli sunt hominum custodes.]]
+![[LEO Ia, q. 113, a. 1#arg. 3|Praeterea, perditio custoditi redundat in negligentiam custodis, unde dicitur cuidam, III Reg. XX, *custodi virum istum, qui si lapsus fuerit, erit anima tua pro anima eius*. Sed multi homines quotidie pereunt, in peccatum cadentes, quibus Angeli subvenire possent vel visibiliter apparendo, vel miracula faciendo, vel aliquo simili modo. Essent ergo negligentes Angeli, si eorum custodiae homines essent commissi, quod patet esse falsum. Non igitur Angeli sunt hominum custodes.]]
 ![[CERF Ia, q. 113, a. 1#arg. 3]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 113, a. 1#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 113, a. 1#ad 1|Ad primum ergo dicendum quod per liberum arbitrium potest homo aliqualiter malum vitare, sed non sufficienter, quia infirmatur circa affectum boni, propter multiplices animae passiones. Similiter etiam universalis cognitio naturalis legis, quae homini naturaliter adest, aliqualiter dirigit hominem ad bonum, sed non sufficienter, quia in applicando universalia principia iuris ad particularia opera, contingit hominem multipliciter deficere. Unde dicitur [[Sg 9]], *cogitationes mortalium timidae, et incertae providentiae nostrae*. Et ideo necessaria fuit homini custodia Angelorum.]]
+![[LEO Ia, q. 113, a. 1#ad 1|Ad primum ergo dicendum quod per liberum arbitrium potest homo aliqualiter malum vitare, sed non sufficienter, quia infirmatur circa affectum boni, propter multiplices animae passiones. Similiter etiam universalis cognitio naturalis legis, quae homini naturaliter adest, aliqualiter dirigit hominem ad bonum, sed non sufficienter, quia in applicando universalia principia iuris ad particularia opera, contingit hominem multipliciter deficere. Unde dicitur Sap. IX, *cogitationes mortalium timidae, et incertae providentiae nostrae*. Et ideo necessaria fuit homini custodia Angelorum.]]
 ![[CERF Ia, q. 113, a. 1#ad 1]]
 
 ###### ad 2

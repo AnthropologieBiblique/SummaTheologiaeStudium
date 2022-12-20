@@ -10,11 +10,11 @@ tags :
 ![[CERF Ia-IIæ, q. 77, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 77, a. 3#arg. 2|Praeterea, infirmitas hominis maxime attenditur secundum illud quod est in eo fragilius. Hoc autem est caro, unde dicitur in [[Ps 77]], *recordatus est quia caro sunt*. Ergo magis debet dici peccatum ex infirmitate quod est ex aliquo corporis defectu, quam quod est ex animae passione.]]
+![[LEO Ia-IIæ, q. 77, a. 3#arg. 2|Praeterea, infirmitas hominis maxime attenditur secundum illud quod est in eo fragilius. Hoc autem est caro, unde dicitur in Psalmo LXXVII, *recordatus est quia caro sunt*. Ergo magis debet dici peccatum ex infirmitate quod est ex aliquo corporis defectu, quam quod est ex animae passione.]]
 ![[CERF Ia-IIæ, q. 77, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 77, a. 3#arg. 3|Praeterea, ad ea non videtur homo esse infirmus, quae eius voluntati subduntur. Sed facere vel non facere ea ad quae passio inclinat, hominis voluntati subditur, secundum illud [[Gn 4]], *sub te erit appetitus tuus, et tu dominaberis illius*. Ergo peccatum quod est ex passione, non est ex infirmitate.]]
+![[LEO Ia-IIæ, q. 77, a. 3#arg. 3|Praeterea, ad ea non videtur homo esse infirmus, quae eius voluntati subduntur. Sed facere vel non facere ea ad quae passio inclinat, hominis voluntati subditur, secundum illud Gen. IV, *sub te erit appetitus tuus, et tu dominaberis illius*. Ergo peccatum quod est ex passione, non est ex infirmitate.]]
 ![[CERF Ia-IIæ, q. 77, a. 3#arg. 3]]
 
 ###### s.c.

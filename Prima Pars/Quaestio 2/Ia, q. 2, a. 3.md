@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 2, a. 3#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 2, a. 3#s.c.|Sed contra est quod dicitur [[Ex 3]], ex persona Dei, *ego sum qui sum*.]]
+![[LEO Ia, q. 2, a. 3#s.c.|Sed contra est quod dicitur Exodi III, ex persona Dei, *ego sum qui sum*.]]
 ![[CERF Ia, q. 2, a. 3#s.c.]]
 
 ###### resp.

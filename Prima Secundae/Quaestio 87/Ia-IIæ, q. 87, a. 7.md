@@ -6,19 +6,19 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 87, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod non omnis poena sit propter aliquam culpam. Dicitur enim [[Jn 9]], de caeco nato, *neque hic peccavit, neque parentes eius, ut nasceretur caecus*. Et similiter videmus quod multi pueri, etiam baptizati, graves poenas patiuntur, ut puta febres, Daemonum oppressiones, et multa huiusmodi, cum tamen in eis non sit peccatum, postquam sunt baptizati. Et antequam sint baptizati, non est in eis plus de peccato quam in aliis pueris, qui haec non patiuntur. Non ergo omnis poena est pro peccato.]]
+![[LEO Ia-IIæ, q. 87, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod non omnis poena sit propter aliquam culpam. Dicitur enim Ioan. IX, de caeco nato, *neque hic peccavit, neque parentes eius, ut nasceretur caecus*. Et similiter videmus quod multi pueri, etiam baptizati, graves poenas patiuntur, ut puta febres, Daemonum oppressiones, et multa huiusmodi, cum tamen in eis non sit peccatum, postquam sunt baptizati. Et antequam sint baptizati, non est in eis plus de peccato quam in aliis pueris, qui haec non patiuntur. Non ergo omnis poena est pro peccato.]]
 ![[CERF Ia-IIæ, q. 87, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 87, a. 7#arg. 2|Praeterea, eiusdem rationis esse videtur quod peccatores prosperentur, et quod aliqui innocentes puniantur. Utrumque autem in rebus humanis frequenter invenimus, dicitur enim de iniquis in [[Ps 72]], *in labore hominum non sunt, et cum hominibus non flagellabuntur*; et [[Jb 21]], *impii vivunt, sublevati sunt, confortatique divitiis*; et [[Ha 1]], dicitur, *quare respicis contemptores et taces, conculcante impio iustiorem se?* Non ergo omnis poena infligitur pro culpa.]]
+![[LEO Ia-IIæ, q. 87, a. 7#arg. 2|Praeterea, eiusdem rationis esse videtur quod peccatores prosperentur, et quod aliqui innocentes puniantur. Utrumque autem in rebus humanis frequenter invenimus, dicitur enim de iniquis in Psalmo LXXII, *in labore hominum non sunt, et cum hominibus non flagellabuntur*; et Iob XXI, *impii vivunt, sublevati sunt, confortatique divitiis*; et Habacuc I, dicitur, *quare respicis contemptores et taces, conculcante impio iustiorem se?* Non ergo omnis poena infligitur pro culpa.]]
 ![[CERF Ia-IIæ, q. 87, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 87, a. 7#arg. 3|Praeterea, de Christo dicitur [[1 P 2]], quod *peccatum non fecit, nec inventus est dolus in ore eius*. Et tamen ibidem dicitur quod *passus est pro nobis*. Ergo non semper poena a Deo dispensatur pro culpa.]]
+![[LEO Ia-IIæ, q. 87, a. 7#arg. 3|Praeterea, de Christo dicitur I Pet. II, quod *peccatum non fecit, nec inventus est dolus in ore eius*. Et tamen ibidem dicitur quod *passus est pro nobis*. Ergo non semper poena a Deo dispensatur pro culpa.]]
 ![[CERF Ia-IIæ, q. 87, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 87, a. 7#s.c.|Sed contra est quod dicitur [[Jb 4]], *quis unquam innocens periit? Aut quando recti deleti sunt? Quin potius vidi eos qui operantur iniquitatem, flante Deo, periisse*. Et Augustinus dicit, in I Retract., quod *omnis poena iusta est, et pro peccato aliquo impenditur*.]]
+![[LEO Ia-IIæ, q. 87, a. 7#s.c.|Sed contra est quod dicitur Iob IV, *quis unquam innocens periit? Aut quando recti deleti sunt? Quin potius vidi eos qui operantur iniquitatem, flante Deo, periisse*. Et Augustinus dicit, in I Retract., quod *omnis poena iusta est, et pro peccato aliquo impenditur*.]]
 ![[CERF Ia-IIæ, q. 87, a. 7#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 87, a. 7#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 87, a. 7#ad 2|Ad secundum dicendum quod bona temporalia et corporalia sunt quidem aliqua bona hominis, sed parva, bona vero spiritualia sunt magna hominis bona. Pertinet igitur ad divinam iustitiam ut virtuosis det spiritualia bona; et de temporalibus bonis vel malis tantum det eis, quantum sufficit ad virtutem, ut enim Dionysius dicit, VIII cap. de Div. Nom., *divinae iustitiae est non emollire optimorum fortitudinem materialium donationibus*. Aliis vero hoc ipsum quod temporalia dantur, in malum spiritualium cedit. Unde in [[Ps 72]] concluditur, *ideo tenuit eos superbia*.]]
+![[LEO Ia-IIæ, q. 87, a. 7#ad 2|Ad secundum dicendum quod bona temporalia et corporalia sunt quidem aliqua bona hominis, sed parva, bona vero spiritualia sunt magna hominis bona. Pertinet igitur ad divinam iustitiam ut virtuosis det spiritualia bona; et de temporalibus bonis vel malis tantum det eis, quantum sufficit ad virtutem, ut enim Dionysius dicit, VIII cap. de Div. Nom., *divinae iustitiae est non emollire optimorum fortitudinem materialium donationibus*. Aliis vero hoc ipsum quod temporalia dantur, in malum spiritualium cedit. Unde in Psalmo LXXII concluditur, *ideo tenuit eos superbia*.]]
 ![[CERF Ia-IIæ, q. 87, a. 7#ad 2]]
 
 ###### ad 3

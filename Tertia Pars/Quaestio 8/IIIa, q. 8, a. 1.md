@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 8, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 8, a. 1#arg. 2|Praeterea, capitis non videtur esse aliud caput. Sed Christi, secundum quod est homo, caput est Deus, secundum illud [[1 Co 11]], *caput Christi Deus*. Ergo ipse Christus non est caput.]]
+![[LEO IIIa, q. 8, a. 1#arg. 2|Praeterea, capitis non videtur esse aliud caput. Sed Christi, secundum quod est homo, caput est Deus, secundum illud I Cor. XI, *caput Christi Deus*. Ergo ipse Christus non est caput.]]
 ![[CERF IIIa, q. 8, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 8, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 8, a. 1#s.c.|Sed contra est quod dicitur [[Ep 1]], *ipsum dedit caput super omnem Ecclesiam*.]]
+![[LEO IIIa, q. 8, a. 1#s.c.|Sed contra est quod dicitur Ephes. I, *ipsum dedit caput super omnem Ecclesiam*.]]
 ![[CERF IIIa, q. 8, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 8, a. 1#resp.|Respondeo dicendum quod, sicut tota Ecclesia dicitur unum corpus mysticum per similitudinem ad naturale corpus hominis, quod secundum diversa membra habet diversos actus, ut apostolus docet, [[Rm 12]] et [[1 Co 12]]; ita Christus dicitur caput Ecclesiae secundum similitudinem humani capitis. In quo tria possumus considerare, scilicet ordinem, perfectionem et virtutem. Ordinem, quia caput est prima pars hominis, incipiendo a superiori. Et inde est quod omne principium consuevit vocari caput, secundum illud [[Jr 2]], *ad omne caput viae posuisti lupanar tibi*. Perfectionem autem, quia in capite vigent omnes sensus et interiores et exteriores, cum in ceteris membris sit solus tactus. Et inde est quod dicitur [[Is 9]], *senex et honorabilis ipse est caput*. Virtutem vero, quia virtus et motus ceterorum membrorum, et gubernatio eorum in suis actibus, est a capite, propter vim sensitivam et motivam ibi dominantem. Unde et rector dicitur caput populi, secundum illud [[1S 15]], *cum esses parvulus in oculis tuis, caput in tribubus Israel factus es*. Haec autem tria competunt Christo spiritualiter. Primo enim, secundum propinquitatem ad Deum gratia eius altior et prior est, etsi non tempore, quia omnes alii acceperunt gratiam per respectum ad gratiam ipsius, secundum illud [[Rm 12]], *quos praescivit, hos et praedestinavit conformes fieri imaginis filii sui, ut sit ipse primogenitus in multis fratribus*. Secundo vero, perfectionem habet quantum ad plenitudinem omnium gratiarum, secundum illud [[Jn 1]], *vidimus eum plenum gratiae et veritatis*, ut supra ostensum est. Tertio, virtutem habuit influendi gratiam in omnia membra Ecclesiae, secundum illud [[Jn 1]], *de plenitudine eius omnes accepimus*. Et sic patet quod convenienter dicitur Christus caput Ecclesiae.]]
+![[LEO IIIa, q. 8, a. 1#resp.|Respondeo dicendum quod, sicut tota Ecclesia dicitur unum corpus mysticum per similitudinem ad naturale corpus hominis, quod secundum diversa membra habet diversos actus, ut apostolus docet, Rom. XII et I Cor. XII; ita Christus dicitur caput Ecclesiae secundum similitudinem humani capitis. In quo tria possumus considerare, scilicet ordinem, perfectionem et virtutem. Ordinem, quia caput est prima pars hominis, incipiendo a superiori. Et inde est quod omne principium consuevit vocari caput, secundum illud Ierem. II, *ad omne caput viae posuisti lupanar tibi*. Perfectionem autem, quia in capite vigent omnes sensus et interiores et exteriores, cum in ceteris membris sit solus tactus. Et inde est quod dicitur Isaiae IX, *senex et honorabilis ipse est caput*. Virtutem vero, quia virtus et motus ceterorum membrorum, et gubernatio eorum in suis actibus, est a capite, propter vim sensitivam et motivam ibi dominantem. Unde et rector dicitur caput populi, secundum illud I Reg. XV, *cum esses parvulus in oculis tuis, caput in tribubus Israel factus es*. Haec autem tria competunt Christo spiritualiter. Primo enim, secundum propinquitatem ad Deum gratia eius altior et prior est, etsi non tempore, quia omnes alii acceperunt gratiam per respectum ad gratiam ipsius, secundum illud Rom. VIII, *quos praescivit, hos et praedestinavit conformes fieri imaginis filii sui, ut sit ipse primogenitus in multis fratribus*. Secundo vero, perfectionem habet quantum ad plenitudinem omnium gratiarum, secundum illud Ioan. I, *vidimus eum plenum gratiae et veritatis*, ut supra ostensum est. Tertio, virtutem habuit influendi gratiam in omnia membra Ecclesiae, secundum illud Ioan. I, *de plenitudine eius omnes accepimus*. Et sic patet quod convenienter dicitur Christus caput Ecclesiae.]]
 ![[CERF IIIa, q. 8, a. 1#resp.]]
 
 ###### ad 1

@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 27, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod divinae dilectionis sit aliquis modus habendus. Ratio enim boni consistit in modo, specie et ordine, ut patet per Augustinum, in libro de Nat. boni. Sed dilectio Dei est optimum in homine, secundum illud ad [[Col 3]], *super omnia caritatem habete*. Ergo dilectio Dei debet modum habere.]]
+![[LEO IIa-IIæ, q. 27, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod divinae dilectionis sit aliquis modus habendus. Ratio enim boni consistit in modo, specie et ordine, ut patet per Augustinum, in libro de Nat. boni. Sed dilectio Dei est optimum in homine, secundum illud ad Coloss. III, *super omnia caritatem habete*. Ergo dilectio Dei debet modum habere.]]
 ![[CERF IIa-IIæ, q. 27, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 27, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 27, a. 6#arg. 3|Praeterea, sicut Augustinus dicit, IV super Gen. ad Litt., *modus est quem unicuique propria mensura praefigit*. Sed mensura voluntatis humanae, sicut et actionis exterioris, est ratio. Ergo sicut in exteriori effectu caritatis oportet habere modum a ratione praestitum, secundum illud [[Rm 12]], *rationabile obsequium vestrum*; ita etiam ipsa interior dilectio Dei debet modum habere.]]
+![[LEO IIa-IIæ, q. 27, a. 6#arg. 3|Praeterea, sicut Augustinus dicit, IV super Gen. ad Litt., *modus est quem unicuique propria mensura praefigit*. Sed mensura voluntatis humanae, sicut et actionis exterioris, est ratio. Ergo sicut in exteriori effectu caritatis oportet habere modum a ratione praestitum, secundum illud Rom. XII, *rationabile obsequium vestrum*; ita etiam ipsa interior dilectio Dei debet modum habere.]]
 ![[CERF IIa-IIæ, q. 27, a. 6#arg. 3]]
 
 ###### s.c.

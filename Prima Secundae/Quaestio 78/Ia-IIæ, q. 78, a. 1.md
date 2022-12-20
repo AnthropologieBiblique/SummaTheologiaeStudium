@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 78, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod nullus peccet ex industria, sive ex certa malitia. Ignorantia enim opponitur industriae, seu certae malitiae. Sed omnis malus est ignorans, secundum philosophum. Et [[Pr 14]], dicitur, *errant qui operantur malum*. Ergo nullus peccat ex certa malitia.]]
+![[LEO Ia-IIæ, q. 78, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod nullus peccet ex industria, sive ex certa malitia. Ignorantia enim opponitur industriae, seu certae malitiae. Sed omnis malus est ignorans, secundum philosophum. Et Prov. XIV, dicitur, *errant qui operantur malum*. Ergo nullus peccat ex certa malitia.]]
 ![[CERF Ia-IIæ, q. 78, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 78, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 78, a. 1#s.c.|Sed contra est quod dicitur [[Jb 34]], *quasi de industria recesserunt a Deo, et vias eius intelligere noluerunt*. Sed recedere a Deo est peccare. Ergo aliqui peccant ex industria, seu ex certa malitia.]]
+![[LEO Ia-IIæ, q. 78, a. 1#s.c.|Sed contra est quod dicitur Iob XXXIV, *quasi de industria recesserunt a Deo, et vias eius intelligere noluerunt*. Sed recedere a Deo est peccare. Ergo aliqui peccant ex industria, seu ex certa malitia.]]
 ![[CERF Ia-IIæ, q. 78, a. 1#s.c.]]
 
 ###### resp.

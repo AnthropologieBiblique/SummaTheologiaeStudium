@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 17, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 17, a. 7#arg. 2|Praeterea, illud quod ponitur in definitione alicuius debet esse prius et magis notum. Sed spes ponitur in definitione fidei, ut patet [[He 11]], fides est substantia rerum sperandarum. Ergo spes est prior fide.]]
+![[LEO IIa-IIæ, q. 17, a. 7#arg. 2|Praeterea, illud quod ponitur in definitione alicuius debet esse prius et magis notum. Sed spes ponitur in definitione fidei, ut patet Heb. XI, fides est substantia rerum sperandarum. Ergo spes est prior fide.]]
 ![[CERF IIa-IIæ, q. 17, a. 7#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 17, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 17, a. 7#s.c.|Sed contra est quod [[Mt 1]] dicitur, *Abraham genuit Isaac*, idest fides spem, sicut dicit Glossa.]]
+![[LEO IIa-IIæ, q. 17, a. 7#s.c.|Sed contra est quod Matth. I dicitur, *Abraham genuit Isaac*, idest fides spem, sicut dicit Glossa.]]
 ![[CERF IIa-IIæ, q. 17, a. 7#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 17, a. 7#resp.|Respondeo dicendum quod fides absolute praecedit spem. Obiectum enim spei est bonum futurum arduum possibile haberi. Ad hoc ergo quod aliquis speret, requiritur quod obiectum spei proponatur ei ut possibile. Sed obiectum spei est uno modo beatitudo aeterna, et alio modo divinum auxilium, ut ex dictis patet. Et utrumque eorum proponitur nobis per fidem, per quam nobis innotescit quod ad vitam aeternam possumus pervenire, et quod ad hoc paratum est nobis divinum auxilium, secundum illud [[He 11]], *accedentem ad Deum oportet credere quia est, et quia inquirentibus se remunerator est*. Unde manifestum est quod fides praecedit spem.]]
+![[LEO IIa-IIæ, q. 17, a. 7#resp.|Respondeo dicendum quod fides absolute praecedit spem. Obiectum enim spei est bonum futurum arduum possibile haberi. Ad hoc ergo quod aliquis speret, requiritur quod obiectum spei proponatur ei ut possibile. Sed obiectum spei est uno modo beatitudo aeterna, et alio modo divinum auxilium, ut ex dictis patet. Et utrumque eorum proponitur nobis per fidem, per quam nobis innotescit quod ad vitam aeternam possumus pervenire, et quod ad hoc paratum est nobis divinum auxilium, secundum illud Heb. XI, *accedentem ad Deum oportet credere quia est, et quia inquirentibus se remunerator est*. Unde manifestum est quod fides praecedit spem.]]
 ![[CERF IIa-IIæ, q. 17, a. 7#resp.]]
 
 ###### ad 1

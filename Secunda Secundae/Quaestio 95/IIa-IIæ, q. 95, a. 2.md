@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 95, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 95, a. 2#ad 3|Ad tertium dicendum quod in nova lege mens hominis arcetur a temporalium sollicitudine, et ideo non est in nova lege aliquid institutum ad praecognitionem eventuum futurorum de temporalibus rebus. In veteri autem lege, quae promittebat terrena, erant consultationes de futuris ad religionem pertinentes, unde dicitur [[Is 8]], *et cum dixerint ad vos, quaerite a Pythonibus et a divinis, qui strident incantationibus suis*, subdit, quasi responsionem, *numquid non populus a Deo suo requiret visionem pro vivis et mortuis?* Fuerunt tamen in novo testamento etiam aliqui prophetiae spiritum habentes, qui multa de futuris eventibus praedixerunt.]]
+![[LEO IIa-IIæ, q. 95, a. 2#ad 3|Ad tertium dicendum quod in nova lege mens hominis arcetur a temporalium sollicitudine, et ideo non est in nova lege aliquid institutum ad praecognitionem eventuum futurorum de temporalibus rebus. In veteri autem lege, quae promittebat terrena, erant consultationes de futuris ad religionem pertinentes, unde dicitur Isaiae VIII, *et cum dixerint ad vos, quaerite a Pythonibus et a divinis, qui strident incantationibus suis*, subdit, quasi responsionem, *numquid non populus a Deo suo requiret visionem pro vivis et mortuis?* Fuerunt tamen in novo testamento etiam aliqui prophetiae spiritum habentes, qui multa de futuris eventibus praedixerunt.]]
 ![[CERF IIa-IIæ, q. 95, a. 2#ad 3]]
 

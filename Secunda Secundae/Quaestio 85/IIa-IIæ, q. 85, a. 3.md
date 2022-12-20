@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 85, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 85, a. 3#arg. 2|Praeterea, maceratio corporis quae fit per ieiunium, pertinet ad abstinentiam; quae autem fit per continentiam, pertinet ad castitatem; quae autem est in martyrio, pertinet ad fortitudinem. Quae omnia videntur comprehendi sub sacrificii oblatione, secundum illud [[Rm 12]], exhibeatis corpora vestra hostiam viventem. Dicit etiam apostolus, ad Heb. ult., beneficentiae et communionis *nolite oblivisci, talibus enim hostiis promeretur Deus*, beneficentia autem et communio pertinent ad caritatem, misericordiam et liberalitatem. Ergo sacrificii oblatio non est specialis actus determinatae virtutis.]]
+![[LEO IIa-IIæ, q. 85, a. 3#arg. 2|Praeterea, maceratio corporis quae fit per ieiunium, pertinet ad abstinentiam; quae autem fit per continentiam, pertinet ad castitatem; quae autem est in martyrio, pertinet ad fortitudinem. Quae omnia videntur comprehendi sub sacrificii oblatione, secundum illud Rom. XII, exhibeatis corpora vestra hostiam viventem. Dicit etiam apostolus, ad Heb. ult., beneficentiae et communionis *nolite oblivisci, talibus enim hostiis promeretur Deus*, beneficentia autem et communio pertinent ad caritatem, misericordiam et liberalitatem. Ergo sacrificii oblatio non est specialis actus determinatae virtutis.]]
 ![[CERF IIa-IIæ, q. 85, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 85, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 85, a. 3#ad 3|Ad tertium dicendum quod sacrificia proprie dicuntur quando circa res Deo oblatas aliquid fit, sicut quod animalia occidebantur, quod panis frangitur et comeditur et benedicitur. Et hoc ipsum nomen sonat, nam sacrificium dicitur ex hoc quod homo facit aliquid sacrum. Oblatio autem directe dicitur cum Deo aliquid offertur, etiam si nihil circa ipsum fiat, sicut dicuntur offerri denarii vel panes in altari, circa quos nihil fit. Unde omne sacrificium est oblatio, sed non convertitur. Primitiae autem oblationes sunt, quia Deo offerebantur, ut legitur [[Dt 26]], non autem sunt sacrificia, quia nihil sacrum circa eas fiebat. Decimae autem, proprie loquendo, non sunt neque sacrificia neque oblationes, quia non immediate Deo, sed ministris divini cultus exhibentur.]]
+![[LEO IIa-IIæ, q. 85, a. 3#ad 3|Ad tertium dicendum quod sacrificia proprie dicuntur quando circa res Deo oblatas aliquid fit, sicut quod animalia occidebantur, quod panis frangitur et comeditur et benedicitur. Et hoc ipsum nomen sonat, nam sacrificium dicitur ex hoc quod homo facit aliquid sacrum. Oblatio autem directe dicitur cum Deo aliquid offertur, etiam si nihil circa ipsum fiat, sicut dicuntur offerri denarii vel panes in altari, circa quos nihil fit. Unde omne sacrificium est oblatio, sed non convertitur. Primitiae autem oblationes sunt, quia Deo offerebantur, ut legitur Deut. XXVI, non autem sunt sacrificia, quia nihil sacrum circa eas fiebat. Decimae autem, proprie loquendo, non sunt neque sacrificia neque oblationes, quia non immediate Deo, sed ministris divini cultus exhibentur.]]
 ![[CERF IIa-IIæ, q. 85, a. 3#ad 3]]
 

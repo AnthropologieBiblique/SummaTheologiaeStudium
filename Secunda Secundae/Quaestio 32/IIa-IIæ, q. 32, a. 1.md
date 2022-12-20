@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 32, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 32, a. 1#s.c.|Sed contra est quod dicitur [[1 Jn 3]], *qui habuerit substantiam huius mundi, et viderit fratrem suum necessitatem patientem, et clauserit viscera sua ab eo, quomodo caritas Dei manet in illo?*]]
+![[LEO IIa-IIæ, q. 32, a. 1#s.c.|Sed contra est quod dicitur I Ioan. III, *qui habuerit substantiam huius mundi, et viderit fratrem suum necessitatem patientem, et clauserit viscera sua ab eo, quomodo caritas Dei manet in illo?*]]
 ![[CERF IIa-IIæ, q. 32, a. 1#s.c.]]
 
 ###### resp.

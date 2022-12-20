@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 64, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 64, a. 3#arg. 2|Praeterea, dolor est causa timoris, de his enim timemus dum futura sunt, de quibus dolemus dum praesentia sunt. Sed in Daemonibus non est timor; secundum illud [[Jb 41]], *factus est ut nullum timeret*. Ergo in Daemonibus non est dolor.]]
+![[LEO Ia, q. 64, a. 3#arg. 2|Praeterea, dolor est causa timoris, de his enim timemus dum futura sunt, de quibus dolemus dum praesentia sunt. Sed in Daemonibus non est timor; secundum illud Iob XLI, *factus est ut nullum timeret*. Ergo in Daemonibus non est dolor.]]
 ![[CERF Ia, q. 64, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 64, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 64, a. 3#s.c.|Sed contra est quod peccatum Daemonis est gravius quam peccatum hominis. Sed homo punitur dolore pro delectatione peccati; secundum illud [[Ap 18]], *quantum glorificavit se et in deliciis fuit, tantum date ei tormentum et luctum*. Ergo multo magis Diabolus, qui maximo se glorificavit, punitur doloris luctu.]]
+![[LEO Ia, q. 64, a. 3#s.c.|Sed contra est quod peccatum Daemonis est gravius quam peccatum hominis. Sed homo punitur dolore pro delectatione peccati; secundum illud Apoc. XVIII, *quantum glorificavit se et in deliciis fuit, tantum date ei tormentum et luctum*. Ergo multo magis Diabolus, qui maximo se glorificavit, punitur doloris luctu.]]
 ![[CERF Ia, q. 64, a. 3#s.c.]]
 
 ###### resp.

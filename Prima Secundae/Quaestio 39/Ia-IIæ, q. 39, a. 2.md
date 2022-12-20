@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 39, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 39, a. 2#s.c.|Sed contra, omne quod meretur praemium vitae aeternae, habet rationem honesti. Sed tristitia est huiusmodi, ut patet per id quod dicitur [[Mt 5]], *beati qui lugent, quoniam ipsi consolabuntur*. Ergo tristitia est bonum honestum.]]
+![[LEO Ia-IIæ, q. 39, a. 2#s.c.|Sed contra, omne quod meretur praemium vitae aeternae, habet rationem honesti. Sed tristitia est huiusmodi, ut patet per id quod dicitur Matth. V, *beati qui lugent, quoniam ipsi consolabuntur*. Ergo tristitia est bonum honestum.]]
 ![[CERF Ia-IIæ, q. 39, a. 2#s.c.]]
 
 ###### resp.

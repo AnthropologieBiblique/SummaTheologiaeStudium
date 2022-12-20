@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 8, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 8, a. 4#arg. 2|Praeterea, numerus est in numeratis. Sed totum universum est constitutum in numero, ut patet [[Sg 11]]. Ergo aliquis numerus est, qui est in toto universo, et ita ubique.]]
+![[LEO Ia, q. 8, a. 4#arg. 2|Praeterea, numerus est in numeratis. Sed totum universum est constitutum in numero, ut patet Sap. XI. Ergo aliquis numerus est, qui est in toto universo, et ita ubique.]]
 ![[CERF Ia, q. 8, a. 4#arg. 2]]
 
 ###### arg. 3

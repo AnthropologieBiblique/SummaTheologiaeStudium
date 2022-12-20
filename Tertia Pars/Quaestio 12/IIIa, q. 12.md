@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIIa, q. 12#Prooemium|Deinde considerandum est de scientia animae Christi acquisita vel experimentali. Et circa hoc quaeruntur quatuor. Primo, utrum secundum hanc scientiam Christus cognoverit omnia. Secundo, utrum in hac scientia profecerit. Tertio, utrum aliquid ab homine didicerit. Quarto, utrum acceperit aliquid ab Angelis.]]
-![[CERF IIIa, q. 12#Prooemium]]
+Deinde considerandum est de scientia animae Christi acquisita vel experimentali. Et circa hoc quaeruntur quatuor. Primo, utrum secundum hanc scientiam Christus cognoverit omnia. Secundo, utrum in hac scientia profecerit. Tertio, utrum aliquid ab homine didicerit. Quarto, utrum acceperit aliquid ab Angelis.
 
 ![[IIIa, q. 12, a. 1#Articulus 1]]
 

@@ -6,23 +6,23 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 59, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod iudiciaria potestas non sit specialiter attribuenda Christo. Iudicium enim aliquorum videtur pertinere ad dominum, unde dicitur [[Rm 14]], *tu quis es, qui iudicas alienum servum?* Sed esse dominum creaturarum est commune toti Trinitati. Non ergo debet Christo specialiter attribui iudiciaria potestas.]]
+![[LEO IIIa, q. 59, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod iudiciaria potestas non sit specialiter attribuenda Christo. Iudicium enim aliquorum videtur pertinere ad dominum, unde dicitur Rom. XIV, *tu quis es, qui iudicas alienum servum?* Sed esse dominum creaturarum est commune toti Trinitati. Non ergo debet Christo specialiter attribui iudiciaria potestas.]]
 ![[CERF IIIa, q. 59, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 59, a. 1#arg. 2|Praeterea, [[Dn 7]] dicitur, antiquus dierum sedit; et postea subditur, iudicium sedit et libri aperti sunt. Sed antiquus dierum intelligitur pater, quia, ut Hilarius dicit, in patre est aeternitas. Ergo iudiciaria potestas magis est attribuenda patri quam Christo.]]
+![[LEO IIIa, q. 59, a. 1#arg. 2|Praeterea, Daniel VII dicitur, antiquus dierum sedit; et postea subditur, iudicium sedit et libri aperti sunt. Sed antiquus dierum intelligitur pater, quia, ut Hilarius dicit, in patre est aeternitas. Ergo iudiciaria potestas magis est attribuenda patri quam Christo.]]
 ![[CERF IIIa, q. 59, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 59, a. 1#arg. 3|Praeterea, eiusdem videtur iudicare cuius est arguere. Sed arguere pertinet ad spiritum sanctum, dicit enim dominus, [[Jn 16]], cum autem venerit ille, scilicet spiritus sanctus, *arguet mundum de peccato et de iustitia et de iudicio*. Ergo iudiciaria potestas magis debet attribui spiritui sancto quam Christo.]]
+![[LEO IIIa, q. 59, a. 1#arg. 3|Praeterea, eiusdem videtur iudicare cuius est arguere. Sed arguere pertinet ad spiritum sanctum, dicit enim dominus, Ioan. XVI, cum autem venerit ille, scilicet spiritus sanctus, *arguet mundum de peccato et de iustitia et de iudicio*. Ergo iudiciaria potestas magis debet attribui spiritui sancto quam Christo.]]
 ![[CERF IIIa, q. 59, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 59, a. 1#s.c.|Sed contra est quod dicitur [[Ac 10]] de Christo, *hic est qui constitutus est a Deo iudex vivorum et mortuorum*.]]
+![[LEO IIIa, q. 59, a. 1#s.c.|Sed contra est quod dicitur Act. X de Christo, *hic est qui constitutus est a Deo iudex vivorum et mortuorum*.]]
 ![[CERF IIIa, q. 59, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 59, a. 1#resp.|Respondeo dicendum quod ad iudicium faciendum tria requiruntur. Primo quidem, potestas subditos coercendi, unde dicitur [[Si 7]], *noli quaerere fieri iudex, nisi valeas virtute rumpere iniquitates*. Secundo, requiritur rectitudinis zelus, ut scilicet aliquis non ex odio vel livore, sed ex amore iustitiae iudicium proferat, secundum illud Proverb. III, *quem enim diligit dominus, corripit, et quasi pater in filio complacet sibi*. Tertio, requiritur sapientia, secundum quam formatur iudicium, unde dicitur [[Si 7]], *iudex sapiens iudicabit populum suum*. Prima autem duo praeexiguntur ad iudicium, sed proprie tertium est secundum quod accipitur forma iudicii, quia ipsa ratio iudicii est lex sapientiae vel veritatis, secundum quam iudicatur. Et quia filius est sapientia genita, et veritas a patre procedens et ipsum perfecte repraesentans, ideo proprie iudiciaria potestas attribuitur filio Dei. Unde Augustinus dicit, in libro de vera Relig., *haec est incommutabilis illa veritas quae lex omnium artium recte dicitur, et ars omnipotentis artificis. Ut autem nos, et omnes animae rationales, secundum veritatem de inferioribus recte iudicamus, sic de nobis, quando eidem cohaeremus, sola ipsa veritas iudicat. De ipsa vero nec pater, non enim minus est quam ipse. Et ideo quae pater iudicat, per ipsam iudicat*. Et postea concludit, *pater ergo non iudicat quemquam, sed omne iudicium dedit filio*.]]
+![[LEO IIIa, q. 59, a. 1#resp.|Respondeo dicendum quod ad iudicium faciendum tria requiruntur. Primo quidem, potestas subditos coercendi, unde dicitur Eccli. VII, *noli quaerere fieri iudex, nisi valeas virtute rumpere iniquitates*. Secundo, requiritur rectitudinis zelus, ut scilicet aliquis non ex odio vel livore, sed ex amore iustitiae iudicium proferat, secundum illud Proverb. III, *quem enim diligit dominus, corripit, et quasi pater in filio complacet sibi*. Tertio, requiritur sapientia, secundum quam formatur iudicium, unde dicitur Eccli. X, *iudex sapiens iudicabit populum suum*. Prima autem duo praeexiguntur ad iudicium, sed proprie tertium est secundum quod accipitur forma iudicii, quia ipsa ratio iudicii est lex sapientiae vel veritatis, secundum quam iudicatur. Et quia filius est sapientia genita, et veritas a patre procedens et ipsum perfecte repraesentans, ideo proprie iudiciaria potestas attribuitur filio Dei. Unde Augustinus dicit, in libro de vera Relig., *haec est incommutabilis illa veritas quae lex omnium artium recte dicitur, et ars omnipotentis artificis. Ut autem nos, et omnes animae rationales, secundum veritatem de inferioribus recte iudicamus, sic de nobis, quando eidem cohaeremus, sola ipsa veritas iudicat. De ipsa vero nec pater, non enim minus est quam ipse. Et ideo quae pater iudicat, per ipsam iudicat*. Et postea concludit, *pater ergo non iudicat quemquam, sed omne iudicium dedit filio*.]]
 ![[CERF IIIa, q. 59, a. 1#resp.]]
 
 ###### ad 1

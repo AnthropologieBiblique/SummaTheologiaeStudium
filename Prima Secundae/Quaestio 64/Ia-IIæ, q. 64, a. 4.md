@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 64, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 64, a. 4#s.c.|Sed contra, in omnibus in quibus consistit virtus in medio, contingit peccare per excessum, sicut et per defectum. Sed circa Deum, qui est obiectum virtutis theologicae, non contingit peccare per excessum, dicitur enim [[Si 43]], *benedicentes Deum, exaltate illum quantum potestis, maior enim est omni laude*. Ergo virtus theologica non consistit in medio.]]
+![[LEO Ia-IIæ, q. 64, a. 4#s.c.|Sed contra, in omnibus in quibus consistit virtus in medio, contingit peccare per excessum, sicut et per defectum. Sed circa Deum, qui est obiectum virtutis theologicae, non contingit peccare per excessum, dicitur enim Eccli. XLIII, *benedicentes Deum, exaltate illum quantum potestis, maior enim est omni laude*. Ergo virtus theologica non consistit in medio.]]
 ![[CERF Ia-IIæ, q. 64, a. 4#s.c.]]
 
 ###### resp.

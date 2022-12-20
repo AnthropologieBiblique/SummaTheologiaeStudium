@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 2, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 2, a. 6#s.c.|Sed contra est quod dicitur [[Jb 1]], quod *boves arabant et asinae pascebantur iuxta eos*, quia videlicet minores, qui significantur per asinos, debent in credendis adhaerere maioribus, qui per boves significantur; ut Gregorius exponit, in II Moral.]]
+![[LEO IIa-IIæ, q. 2, a. 6#s.c.|Sed contra est quod dicitur Iob I, quod *boves arabant et asinae pascebantur iuxta eos*, quia videlicet minores, qui significantur per asinos, debent in credendis adhaerere maioribus, qui per boves significantur; ut Gregorius exponit, in II Moral.]]
 ![[CERF IIa-IIæ, q. 2, a. 6#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 2, a. 6#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 2, a. 6#ad 3|Ad tertium dicendum quod minores non habent fidem implicitam in fide maiorum nisi quatenus maiores adhaerent doctrinae divinae, unde et apostolus dicit, I ad Cor. IV, *imitatores mei estote, sicut et ego Christi*. Unde humana cognitio non fit regula fidei, sed veritas divina. A qua si aliqui maiorum deficiant, non praeiudicat fidei simplicium, qui eos rectam fidem habere credunt, nisi pertinaciter eorum erroribus in particulari adhaereant contra universalis Ecclesiae fidem, quae non potest deficere, domino dicente, [[Lc 22]], *ego pro te rogavi, Petre, ut non deficiat fides tua*.]]
+![[LEO IIa-IIæ, q. 2, a. 6#ad 3|Ad tertium dicendum quod minores non habent fidem implicitam in fide maiorum nisi quatenus maiores adhaerent doctrinae divinae, unde et apostolus dicit, I ad Cor. IV, *imitatores mei estote, sicut et ego Christi*. Unde humana cognitio non fit regula fidei, sed veritas divina. A qua si aliqui maiorum deficiant, non praeiudicat fidei simplicium, qui eos rectam fidem habere credunt, nisi pertinaciter eorum erroribus in particulari adhaereant contra universalis Ecclesiae fidem, quae non potest deficere, domino dicente, Luc. XXII, *ego pro te rogavi, Petre, ut non deficiat fides tua*.]]
 ![[CERF IIa-IIæ, q. 2, a. 6#ad 3]]
 

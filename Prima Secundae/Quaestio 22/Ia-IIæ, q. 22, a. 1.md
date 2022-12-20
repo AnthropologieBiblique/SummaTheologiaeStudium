@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 22, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 22, a. 1#s.c.|Sed contra est quod apostolus dicit, ad [[Rm 7]], *cum essemus in carne, passiones peccatorum, quae per legem erant, operabantur in membris nostris*. Peccata autem sunt proprie in anima. Ergo et passiones, quae dicuntur peccatorum, sunt in anima.]]
+![[LEO Ia-IIæ, q. 22, a. 1#s.c.|Sed contra est quod apostolus dicit, ad Rom. VII, *cum essemus in carne, passiones peccatorum, quae per legem erant, operabantur in membris nostris*. Peccata autem sunt proprie in anima. Ergo et passiones, quae dicuntur peccatorum, sunt in anima.]]
 ![[CERF Ia-IIæ, q. 22, a. 1#s.c.]]
 
 ###### resp.

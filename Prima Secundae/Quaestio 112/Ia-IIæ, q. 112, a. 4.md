@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 112, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod gratia non sit maior in uno quam in alio. Gratia enim causatur in nobis ex dilectione divina, ut dictum est. Sed [[Sg 6]] dicitur, *pusillum et magnum ipse fecit, et aequaliter est illi cura de omnibus*. Ergo omnes aequaliter gratiam ab eo consequuntur.]]
+![[LEO Ia-IIæ, q. 112, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod gratia non sit maior in uno quam in alio. Gratia enim causatur in nobis ex dilectione divina, ut dictum est. Sed Sap. VI dicitur, *pusillum et magnum ipse fecit, et aequaliter est illi cura de omnibus*. Ergo omnes aequaliter gratiam ab eo consequuntur.]]
 ![[CERF Ia-IIæ, q. 112, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia-IIæ, q. 112, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 112, a. 4#s.c.|Sed contra est quod dicitur ad [[Ep 4]], *unicuique data est gratia secundum mensuram donationis Christi*. Quod autem mensurate datur, non omnibus aequaliter datur. Ergo non omnes aequalem gratiam habent.]]
+![[LEO Ia-IIæ, q. 112, a. 4#s.c.|Sed contra est quod dicitur ad Ephes. IV, *unicuique data est gratia secundum mensuram donationis Christi*. Quod autem mensurate datur, non omnibus aequaliter datur. Ergo non omnes aequalem gratiam habent.]]
 ![[CERF Ia-IIæ, q. 112, a. 4#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 112, a. 4#resp.|Respondeo dicendum quod, sicut supra dictum est, habitus duplicem magnitudinem habere potest, unam ex parte finis vel obiecti, secundum quod dicitur una virtus alia nobilior inquantum ad maius bonum ordinatur; aliam vero ex parte subiecti, quod magis vel minus participat habitum inhaerentem. Secundum igitur primam magnitudinem, gratia gratum faciens non potest esse maior et minor, quia gratia secundum sui rationem coniungit hominem summo bono, quod est Deus. Sed ex parte subiecti, gratia potest suscipere magis vel minus, prout scilicet unus perfectius illustratur a lumine gratiae quam alius. Cuius diversitatis ratio quidem est aliqua ex parte praeparantis se ad gratiam, qui enim se magis ad gratiam praeparat, pleniorem gratiam accipit. Sed ex hac parte non potest accipi prima ratio huius diversitatis, quia praeparatio ad gratiam non est hominis nisi inquantum liberum arbitrium eius praeparatur a Deo. Unde prima causa huius diversitatis accipienda est ex parte ipsius Dei, qui diversimode suae gratiae dona dispensat, ad hoc quod ex diversis gradibus pulchritudo et perfectio Ecclesiae consurgat, sicut etiam diversos gradus rerum instituit ut esset universum perfectum. Unde apostolus, ad [[Ep 4]], postquam dixerat, *unicuique data est gratia secundum mensuram donationis Christi*, enumeratis diversis gratiis, subiungit, *ad consummationem sanctorum, in aedificationem corporis Christi*.]]
+![[LEO Ia-IIæ, q. 112, a. 4#resp.|Respondeo dicendum quod, sicut supra dictum est, habitus duplicem magnitudinem habere potest, unam ex parte finis vel obiecti, secundum quod dicitur una virtus alia nobilior inquantum ad maius bonum ordinatur; aliam vero ex parte subiecti, quod magis vel minus participat habitum inhaerentem. Secundum igitur primam magnitudinem, gratia gratum faciens non potest esse maior et minor, quia gratia secundum sui rationem coniungit hominem summo bono, quod est Deus. Sed ex parte subiecti, gratia potest suscipere magis vel minus, prout scilicet unus perfectius illustratur a lumine gratiae quam alius. Cuius diversitatis ratio quidem est aliqua ex parte praeparantis se ad gratiam, qui enim se magis ad gratiam praeparat, pleniorem gratiam accipit. Sed ex hac parte non potest accipi prima ratio huius diversitatis, quia praeparatio ad gratiam non est hominis nisi inquantum liberum arbitrium eius praeparatur a Deo. Unde prima causa huius diversitatis accipienda est ex parte ipsius Dei, qui diversimode suae gratiae dona dispensat, ad hoc quod ex diversis gradibus pulchritudo et perfectio Ecclesiae consurgat, sicut etiam diversos gradus rerum instituit ut esset universum perfectum. Unde apostolus, ad Ephes. IV, postquam dixerat, *unicuique data est gratia secundum mensuram donationis Christi*, enumeratis diversis gratiis, subiungit, *ad consummationem sanctorum, in aedificationem corporis Christi*.]]
 ![[CERF Ia-IIæ, q. 112, a. 4#resp.]]
 
 ###### ad 1

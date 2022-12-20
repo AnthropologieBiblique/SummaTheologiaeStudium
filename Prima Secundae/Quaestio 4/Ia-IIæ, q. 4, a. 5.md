@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 4, a. 5#arg. 6]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 4, a. 5#s.c.|Sed contra est quod dicitur [[Ap 14]], *beati mortui qui in domino moriuntur*.]]
+![[LEO Ia-IIæ, q. 4, a. 5#s.c.|Sed contra est quod dicitur Apoc. XIV, *beati mortui qui in domino moriuntur*.]]
 ![[CERF Ia-IIæ, q. 4, a. 5#s.c.]]
 
 ###### resp.

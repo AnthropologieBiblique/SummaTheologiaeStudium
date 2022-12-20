@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 53, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 53, a. 6#arg. 2|Praeterea, [[Jc 1]] dicitur, *vir duplex animo inconstans est in omnibus viis suis*. Sed duplicitas non videtur ad luxuriam pertinere, sed magis ad dolositatem, quae est filia avaritiae, secundum Gregorium, XXXI Moral. Ergo praedicta vitia non oriuntur ex luxuria.]]
+![[LEO IIa-IIæ, q. 53, a. 6#arg. 2|Praeterea, Iac. I dicitur, *vir duplex animo inconstans est in omnibus viis suis*. Sed duplicitas non videtur ad luxuriam pertinere, sed magis ad dolositatem, quae est filia avaritiae, secundum Gregorium, XXXI Moral. Ergo praedicta vitia non oriuntur ex luxuria.]]
 ![[CERF IIa-IIæ, q. 53, a. 6#arg. 2]]
 
 ###### arg. 3

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 20, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 20, a. 1#s.c.|Sed contra est quod dicitur [[1 Jn 4]], *Deus caritas est*.]]
+![[LEO Ia, q. 20, a. 1#s.c.|Sed contra est quod dicitur I Ioan. IV, *Deus caritas est*.]]
 ![[CERF Ia, q. 20, a. 1#s.c.]]
 
 ###### resp.

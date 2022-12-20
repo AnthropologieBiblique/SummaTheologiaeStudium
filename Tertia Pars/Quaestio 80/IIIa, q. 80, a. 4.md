@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 80, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod peccator sumens corpus Christi sacramentaliter non peccet. Non enim est maioris dignitatis Christus sub specie sacramenti quam sub specie propria. Sed peccatores tangentes corpus Christi in substantia propria non peccabant, quin immo veniam peccatorum consequebantur, sicut legitur [[Lc 7]] de muliere peccatrice; et [[Mt 14]] dicitur, *quicumque tetigerunt fimbriam vestimenti eius, salvi facti sunt*. Ergo non peccant, sed magis salutem consequuntur, sacramentum corporis Christi sumendo.]]
+![[LEO IIIa, q. 80, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod peccator sumens corpus Christi sacramentaliter non peccet. Non enim est maioris dignitatis Christus sub specie sacramenti quam sub specie propria. Sed peccatores tangentes corpus Christi in substantia propria non peccabant, quin immo veniam peccatorum consequebantur, sicut legitur Luc. VII de muliere peccatrice; et Matth. XIV dicitur, *quicumque tetigerunt fimbriam vestimenti eius, salvi facti sunt*. Ergo non peccant, sed magis salutem consequuntur, sacramentum corporis Christi sumendo.]]
 ![[CERF IIIa, q. 80, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 80, a. 4#arg. 2|Praeterea, hoc sacramentum, sicut et alia, est quaedam spiritualis medicina. Sed medicina datur infirmis ad salutem, secundum illud [[Mt 9]], *non est opus valentibus medicus, sed male habentibus*. Infirmi autem vel male habentes spiritualiter sunt peccatores. Ergo hoc sacramentum sumi potest absque culpa.]]
+![[LEO IIIa, q. 80, a. 4#arg. 2|Praeterea, hoc sacramentum, sicut et alia, est quaedam spiritualis medicina. Sed medicina datur infirmis ad salutem, secundum illud Matth. IX, *non est opus valentibus medicus, sed male habentibus*. Infirmi autem vel male habentes spiritualiter sunt peccatores. Ergo hoc sacramentum sumi potest absque culpa.]]
 ![[CERF IIIa, q. 80, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,11 +22,11 @@ tags :
 ![[CERF IIIa, q. 80, a. 4#arg. 4]]
 
 ###### arg. 5
-![[LEO IIIa, q. 80, a. 4#arg. 5|Praeterea, contingit quandoque quod aliquis peccator non habet conscientiam sui peccati. Nec tamen talis peccare videtur corpus Christi sumendo, quia, secundum hoc, omnes peccarent qui sumunt, quasi periculo se exponentes; cum apostolus dicit, [[1 Co 4]], *nihil mihi conscius sum, sed non in hoc iustificatus sum*. Non ergo videtur quod peccatori cedat in culpam si hoc sacramentum sumat.]]
+![[LEO IIIa, q. 80, a. 4#arg. 5|Praeterea, contingit quandoque quod aliquis peccator non habet conscientiam sui peccati. Nec tamen talis peccare videtur corpus Christi sumendo, quia, secundum hoc, omnes peccarent qui sumunt, quasi periculo se exponentes; cum apostolus dicit, I Cor. IV, *nihil mihi conscius sum, sed non in hoc iustificatus sum*. Non ergo videtur quod peccatori cedat in culpam si hoc sacramentum sumat.]]
 ![[CERF IIIa, q. 80, a. 4#arg. 5]]
 
 ###### s.c.
-![[LEO IIIa, q. 80, a. 4#s.c.|Sed contra est quod apostolus dicit, [[1 Co 11]], *qui manducat et bibit indigne, iudicium sibi manducat et bibit*. Dicit autem Glossa ibidem, *indigne manducat et bibit qui in crimine est, vel irreverenter tractat*. Ergo qui est in peccato mortali, si hoc sacramentum accipiat, damnationem acquirit, mortaliter peccans.]]
+![[LEO IIIa, q. 80, a. 4#s.c.|Sed contra est quod apostolus dicit, I Cor. XI, *qui manducat et bibit indigne, iudicium sibi manducat et bibit*. Dicit autem Glossa ibidem, *indigne manducat et bibit qui in crimine est, vel irreverenter tractat*. Ergo qui est in peccato mortali, si hoc sacramentum accipiat, damnationem acquirit, mortaliter peccans.]]
 ![[CERF IIIa, q. 80, a. 4#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIIa, q. 80, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 80, a. 4#ad 1|Ad primum ergo dicendum quod Christus in propria specie apparens non exhibebat se tangendum hominibus in signum spiritualis unionis ad ipsum, sicut exhibetur sumendus in hoc sacramento. Et ideo peccatores eum in propria specie tangentes non incurrebant crimen falsitatis circa divina, sicut peccatores sumentes hoc sacramentum. Et praeterea Christus adhuc gerebat similitudinem carnis peccati, et ideo convenienter se peccatoribus tangendum exhibebat. Sed, remota similitudine carnis peccati per gloriam resurrectionis se tangi prohibuit a muliere, quae defectum fidei circa ipsum patiebatur, secundum illud [[Jn 20]], *noli me tangere, nondum enim ascendi ad patrem meum*, scilicet in corde tuo, ut Augustinus exponit. Et ideo peccatores, qui defectum fidei patiuntur formatae circa ipsum, repelluntur a contactu huius sacramenti.]]
+![[LEO IIIa, q. 80, a. 4#ad 1|Ad primum ergo dicendum quod Christus in propria specie apparens non exhibebat se tangendum hominibus in signum spiritualis unionis ad ipsum, sicut exhibetur sumendus in hoc sacramento. Et ideo peccatores eum in propria specie tangentes non incurrebant crimen falsitatis circa divina, sicut peccatores sumentes hoc sacramentum. Et praeterea Christus adhuc gerebat similitudinem carnis peccati, et ideo convenienter se peccatoribus tangendum exhibebat. Sed, remota similitudine carnis peccati per gloriam resurrectionis se tangi prohibuit a muliere, quae defectum fidei circa ipsum patiebatur, secundum illud Ioan. XX, *noli me tangere, nondum enim ascendi ad patrem meum*, scilicet in corde tuo, ut Augustinus exponit. Et ideo peccatores, qui defectum fidei patiuntur formatae circa ipsum, repelluntur a contactu huius sacramenti.]]
 ![[CERF IIIa, q. 80, a. 4#ad 1]]
 
 ###### ad 2
@@ -50,6 +50,6 @@ tags :
 ![[CERF IIIa, q. 80, a. 4#ad 4]]
 
 ###### ad 5
-![[LEO IIIa, q. 80, a. 4#ad 5|Ad quintum dicendum quod hoc quod non habet aliquis conscientiam sui peccati, potest contingere dupliciter. Uno modo, per culpam suam, vel quia per ignorantiam iuris, quae non excusat, reputat non esse peccatum quod est peccatum, puta si aliquis fornicator reputaret simplicem fornicationem non esse peccatum mortale; vel quia negligens est in examinatione sui ipsius, contra id quod apostolus dicit, [[1 Co 11]], *probet autem seipsum homo, et sic de pane illo edat et de calice bibat*. Et sic nihilominus peccat peccator sumens corpus Christi, licet non habeat conscientiam peccati, quia ipsa ignorantia est ei peccatum. Alio modo potest contingere sine culpa ipsius, puta, cum doluit de peccato, sed non est sufficienter contritus. Et in tali casu non peccat sumendo corpus Christi, quia homo per certitudinem scire non potest utrum sit vere contritus. Sufficit tamen si in se signa contritionis inveniat, puta ut doleat de praeteritis et proponat cavere de futuris. Si vero ignorat hoc quod fecit esse actum peccati propter ignorantiam facti, quae excusat, puta si accessit ad non suam quam credebat esse suam, non est ex hoc dicendus peccator. Similiter etiam, si totaliter est peccatum oblitus, sufficit ad eius deletionem generalis contritio, ut infra dicetur. Unde iam non est dicendus peccator.]]
+![[LEO IIIa, q. 80, a. 4#ad 5|Ad quintum dicendum quod hoc quod non habet aliquis conscientiam sui peccati, potest contingere dupliciter. Uno modo, per culpam suam, vel quia per ignorantiam iuris, quae non excusat, reputat non esse peccatum quod est peccatum, puta si aliquis fornicator reputaret simplicem fornicationem non esse peccatum mortale; vel quia negligens est in examinatione sui ipsius, contra id quod apostolus dicit, I Cor. XI, *probet autem seipsum homo, et sic de pane illo edat et de calice bibat*. Et sic nihilominus peccat peccator sumens corpus Christi, licet non habeat conscientiam peccati, quia ipsa ignorantia est ei peccatum. Alio modo potest contingere sine culpa ipsius, puta, cum doluit de peccato, sed non est sufficienter contritus. Et in tali casu non peccat sumendo corpus Christi, quia homo per certitudinem scire non potest utrum sit vere contritus. Sufficit tamen si in se signa contritionis inveniat, puta ut doleat de praeteritis et proponat cavere de futuris. Si vero ignorat hoc quod fecit esse actum peccati propter ignorantiam facti, quae excusat, puta si accessit ad non suam quam credebat esse suam, non est ex hoc dicendus peccator. Similiter etiam, si totaliter est peccatum oblitus, sufficit ad eius deletionem generalis contritio, ut infra dicetur. Unde iam non est dicendus peccator.]]
 ![[CERF IIIa, q. 80, a. 4#ad 5]]
 

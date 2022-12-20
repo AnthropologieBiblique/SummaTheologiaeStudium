@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 15, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 15, a. 7#s.c.|Sed contra est quod dicitur [[Mc 14]], *coepit Iesus taedere et pavere*.]]
+![[LEO IIIa, q. 15, a. 7#s.c.|Sed contra est quod dicitur Marc. XIV, *coepit Iesus taedere et pavere*.]]
 ![[CERF IIIa, q. 15, a. 7#s.c.]]
 
 ###### resp.

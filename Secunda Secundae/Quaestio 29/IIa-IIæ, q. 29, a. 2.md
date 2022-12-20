@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 29, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 29, a. 2#arg. 3|Praeterea, solum bonum est appetibile. Sed quaedam pax videtur esse mala, alioquin dominus non diceret, [[Mt 10]], *non veni mittere pacem*. Ergo non omnia pacem appetunt.]]
+![[LEO IIa-IIæ, q. 29, a. 2#arg. 3|Praeterea, solum bonum est appetibile. Sed quaedam pax videtur esse mala, alioquin dominus non diceret, Matth. X, *non veni mittere pacem*. Ergo non omnia pacem appetunt.]]
 ![[CERF IIa-IIæ, q. 29, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 29, a. 2#arg. 4|Praeterea, illud quod omnia appetunt videtur esse summum bonum, quod est ultimus finis. Sed pax non est huiusmodi, quia etiam in statu viae habetur; alioquin frustra dominus mandaret, [[Mc 9]], *pacem habete inter vos*. Ergo non omnia pacem appetunt.]]
+![[LEO IIa-IIæ, q. 29, a. 2#arg. 4|Praeterea, illud quod omnia appetunt videtur esse summum bonum, quod est ultimus finis. Sed pax non est huiusmodi, quia etiam in statu viae habetur; alioquin frustra dominus mandaret, Marc. IX, *pacem habete inter vos*. Ergo non omnia pacem appetunt.]]
 ![[CERF IIa-IIæ, q. 29, a. 2#arg. 4]]
 
 ###### s.c.
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIa-IIæ, q. 29, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 29, a. 2#ad 3|Ad tertium dicendum quod, quia pax consistit in quietatione et unione appetitus; sicut autem appetitus potest esse vel boni simpliciter vel boni apparentis, ita etiam et pax potest esse et vera et apparens, vera quidem pax non potest esse nisi circa appetitum veri boni; quia omne malum, etsi secundum aliquid appareat bonum, unde ex aliqua parte appetitum quietet, habet tamen multos defectus, ex quibus appetitus remanet inquietus et perturbatus. Unde pax vera non potest esse nisi in bonis et bonorum. Pax autem quae malorum est, est pax apparens et non vera. Unde dicitur [[Sg 14]], *in magno viventes inscientiae bello, tot et tanta mala pacem arbitrati sunt*.]]
+![[LEO IIa-IIæ, q. 29, a. 2#ad 3|Ad tertium dicendum quod, quia pax consistit in quietatione et unione appetitus; sicut autem appetitus potest esse vel boni simpliciter vel boni apparentis, ita etiam et pax potest esse et vera et apparens, vera quidem pax non potest esse nisi circa appetitum veri boni; quia omne malum, etsi secundum aliquid appareat bonum, unde ex aliqua parte appetitum quietet, habet tamen multos defectus, ex quibus appetitus remanet inquietus et perturbatus. Unde pax vera non potest esse nisi in bonis et bonorum. Pax autem quae malorum est, est pax apparens et non vera. Unde dicitur Sap. XIV, *in magno viventes inscientiae bello, tot et tanta mala pacem arbitrati sunt*.]]
 ![[CERF IIa-IIæ, q. 29, a. 2#ad 3]]
 
 ###### ad 4

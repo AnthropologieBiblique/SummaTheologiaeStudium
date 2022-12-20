@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 27, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod magis meritorium sit diligere inimicum quam amicum. Dicitur enim [[Mt 5]], *si diligitis eos qui vos diligunt, quam mercedem habebitis?* Diligere ergo amicum non meretur mercedem. Sed diligere inimicum meretur mercedem, ut ibidem ostenditur. Ergo magis est meritorium diligere inimicos quam diligere amicos.]]
+![[LEO IIa-IIæ, q. 27, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod magis meritorium sit diligere inimicum quam amicum. Dicitur enim Matth. V, *si diligitis eos qui vos diligunt, quam mercedem habebitis?* Diligere ergo amicum non meretur mercedem. Sed diligere inimicum meretur mercedem, ut ibidem ostenditur. Ergo magis est meritorium diligere inimicos quam diligere amicos.]]
 ![[CERF IIa-IIæ, q. 27, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 27, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 27, a. 7#arg. 3|Praeterea, ubi est maior conatus ad bonum, ibi videtur esse maius meritum, *quia unusquisque propriam mercedem accipiet secundum suum laborem*, ut dicitur [[1 Co 3]]. Sed maiori conatu indiget homo ad hoc quod diligat inimicum quam ad hoc quod diligat amicum, quia difficilius est. Ergo videtur quod diligere inimicum sit magis meritorium quam diligere amicum.]]
+![[LEO IIa-IIæ, q. 27, a. 7#arg. 3|Praeterea, ubi est maior conatus ad bonum, ibi videtur esse maius meritum, *quia unusquisque propriam mercedem accipiet secundum suum laborem*, ut dicitur I Cor. III. Sed maiori conatu indiget homo ad hoc quod diligat inimicum quam ad hoc quod diligat amicum, quia difficilius est. Ergo videtur quod diligere inimicum sit magis meritorium quam diligere amicum.]]
 ![[CERF IIa-IIæ, q. 27, a. 7#arg. 3]]
 
 ###### s.c.

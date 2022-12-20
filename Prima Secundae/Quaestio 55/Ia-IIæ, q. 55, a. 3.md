@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 55, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 55, a. 3#arg. 2|Praeterea, virtus potentiae respondet. Sed potentia non solum se habet ad bonum, sed etiam ad malum; secundum illud [[Is 5]], *vae, qui potentes estis ad bibendum vinum, et viri fortes ad miscendam ebrietatem*. Ergo etiam virtus se habet et ad bonum et ad malum.]]
+![[LEO Ia-IIæ, q. 55, a. 3#arg. 2|Praeterea, virtus potentiae respondet. Sed potentia non solum se habet ad bonum, sed etiam ad malum; secundum illud Isaiae V, *vae, qui potentes estis ad bibendum vinum, et viri fortes ad miscendam ebrietatem*. Ergo etiam virtus se habet et ad bonum et ad malum.]]
 ![[CERF Ia-IIæ, q. 55, a. 3#arg. 2]]
 
 ###### arg. 3

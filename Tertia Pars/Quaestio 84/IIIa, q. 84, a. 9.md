@@ -6,7 +6,7 @@ tags :
 ### Articulus 9
 
 ###### arg. 1
-![[LEO IIIa, q. 84, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod poenitentia non possit esse continua. Dicitur enim [[Jr 31]], *quiescat vox tua a ploratu, et oculi tui a lacrimis*. Sed hoc esse non posset si poenitentia continuaretur, quae consistit in ploratu et lacrimis. Ergo poenitentia non potest continuari.]]
+![[LEO IIIa, q. 84, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod poenitentia non possit esse continua. Dicitur enim Ierem. XXXI, *quiescat vox tua a ploratu, et oculi tui a lacrimis*. Sed hoc esse non posset si poenitentia continuaretur, quae consistit in ploratu et lacrimis. Ergo poenitentia non potest continuari.]]
 ![[CERF IIIa, q. 84, a. 9#arg. 1]]
 
 ###### arg. 2

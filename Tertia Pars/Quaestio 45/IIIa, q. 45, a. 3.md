@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 45, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 45, a. 3#arg. 2|Praeterea, testes veritatis non decet aliqua fictio, sed veritas. Moyses autem et Elias non ibi vere affuerunt, sed imaginarie, dicit enim quaedam Glossa super illud [[Lc 9]], *erant autem Moyses et Elias etc., sciendum est, inquit, non corpus vel animas Moysi vel Eliae ibi apparuisse, sed in subiecta creatura illa corpora fuisse formata. Potest etiam credi ut angelico ministerio hoc factum esset, ut Angeli eorum personas assumerent*. Non ergo videtur quod fuerint convenientes testes.]]
+![[LEO IIIa, q. 45, a. 3#arg. 2|Praeterea, testes veritatis non decet aliqua fictio, sed veritas. Moyses autem et Elias non ibi vere affuerunt, sed imaginarie, dicit enim quaedam Glossa super illud Luc. IX, *erant autem Moyses et Elias etc., sciendum est, inquit, non corpus vel animas Moysi vel Eliae ibi apparuisse, sed in subiecta creatura illa corpora fuisse formata. Potest etiam credi ut angelico ministerio hoc factum esset, ut Angeli eorum personas assumerent*. Non ergo videtur quod fuerint convenientes testes.]]
 ![[CERF IIIa, q. 45, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 45, a. 3#arg. 3|Praeterea, [[Ac 10]] dicitur quod Christo *omnes prophetae testimonium perhibent*. Ergo non soli Moyses et Elias debuerunt adesse tanquam testes, sed etiam omnes prophetae.]]
+![[LEO IIIa, q. 45, a. 3#arg. 3|Praeterea, Act. X dicitur quod Christo *omnes prophetae testimonium perhibent*. Ergo non soli Moyses et Elias debuerunt adesse tanquam testes, sed etiam omnes prophetae.]]
 ![[CERF IIIa, q. 45, a. 3#arg. 3]]
 
 ###### arg. 4
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 45, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 45, a. 3#resp.|Respondeo dicendum quod Christus transfigurari voluit ut gloriam suam hominibus ostenderet, et ad eam desiderandam homines provocaret, sicut supra dictum est. Ad gloriam autem aeternae beatitudinis adducuntur homines per Christum, non solum qui post eum fuerunt, sed etiam qui eum praecesserunt, unde, eo ad passionem properante, tam *turbae quae sequebantur, quam quae praecedebant ei, clamabant, hosanna*, ut dicitur [[Mt 21]], quasi salutem ab eo petentes. Et ideo conveniens fuit ut de praecedentibus ipsum testes adessent, scilicet Moyses et Elias; et de sequentibus, scilicet Petrus, Iacobus et Ioannes; ut *in ore duorum vel trium testium staret hoc verbum*.]]
+![[LEO IIIa, q. 45, a. 3#resp.|Respondeo dicendum quod Christus transfigurari voluit ut gloriam suam hominibus ostenderet, et ad eam desiderandam homines provocaret, sicut supra dictum est. Ad gloriam autem aeternae beatitudinis adducuntur homines per Christum, non solum qui post eum fuerunt, sed etiam qui eum praecesserunt, unde, eo ad passionem properante, tam *turbae quae sequebantur, quam quae praecedebant ei, clamabant, hosanna*, ut dicitur Matth. XXI, quasi salutem ab eo petentes. Et ideo conveniens fuit ut de praecedentibus ipsum testes adessent, scilicet Moyses et Elias; et de sequentibus, scilicet Petrus, Iacobus et Ioannes; ut *in ore duorum vel trium testium staret hoc verbum*.]]
 ![[CERF IIIa, q. 45, a. 3#resp.]]
 
 ###### ad 1

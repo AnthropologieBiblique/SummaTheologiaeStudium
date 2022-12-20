@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 19, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 19, a. 8#arg. 2|Praeterea, omnis causa quae non potest impediri, ex necessitate suum effectum producit, quia et natura semper idem operatur, nisi aliquid impediat, ut dicitur in II Physic. Sed voluntas Dei non potest impediri, dicit enim apostolus, ad [[Rm 9]], *voluntati enim eius quis resistit?* Ergo voluntas Dei imponit rebus volitis necessitatem.]]
+![[LEO Ia, q. 19, a. 8#arg. 2|Praeterea, omnis causa quae non potest impediri, ex necessitate suum effectum producit, quia et natura semper idem operatur, nisi aliquid impediat, ut dicitur in II Physic. Sed voluntas Dei non potest impediri, dicit enim apostolus, ad Rom. IX, *voluntati enim eius quis resistit?* Ergo voluntas Dei imponit rebus volitis necessitatem.]]
 ![[CERF Ia, q. 19, a. 8#arg. 2]]
 
 ###### arg. 3

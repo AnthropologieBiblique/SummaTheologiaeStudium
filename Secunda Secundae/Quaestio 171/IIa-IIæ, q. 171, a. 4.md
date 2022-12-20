@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 171, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod propheta per divinam inspirationem cognoscat omnia quae possunt prophetice cognosci. Dicitur enim [[Am 3]], *non faciet dominus Deus verbum, nisi revelaverit secretum suum ad servos suos prophetas*. Sed omnia quae prophetice revelantur, sunt verba divinitus facta. Nihil ergo eorum est quod non reveletur prophetae.]]
+![[LEO IIa-IIæ, q. 171, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod propheta per divinam inspirationem cognoscat omnia quae possunt prophetice cognosci. Dicitur enim Amos III, *non faciet dominus Deus verbum, nisi revelaverit secretum suum ad servos suos prophetas*. Sed omnia quae prophetice revelantur, sunt verba divinitus facta. Nihil ergo eorum est quod non reveletur prophetae.]]
 ![[CERF IIa-IIæ, q. 171, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 171, a. 4#arg. 2|Praeterea, Dei perfecta sunt opera, ut dicitur [[Dt 32]]. Sed prophetia est divina revelatio, ut dictum est. Ergo est perfecta. Quod non esset nisi omnia prophetabilia prophetae revelarentur, quia perfectum est cui nihil deest, ut dicitur in III Physic. Ergo prophetae omnia prophetabilia revelantur.]]
+![[LEO IIa-IIæ, q. 171, a. 4#arg. 2|Praeterea, Dei perfecta sunt opera, ut dicitur Deut. XXXII. Sed prophetia est divina revelatio, ut dictum est. Ergo est perfecta. Quod non esset nisi omnia prophetabilia prophetae revelarentur, quia perfectum est cui nihil deest, ut dicitur in III Physic. Ergo prophetae omnia prophetabilia revelantur.]]
 ![[CERF IIa-IIæ, q. 171, a. 4#arg. 2]]
 
 ###### arg. 3

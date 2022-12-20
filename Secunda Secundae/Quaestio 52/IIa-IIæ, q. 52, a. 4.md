@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 52, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 52, a. 4#arg. 2|Praeterea, praecepta dantur de his quae sunt de necessitate salutis, consilium autem datur de his quae non sunt de necessitate salutis. Misericordia autem est de necessitate salutis, secundum illud [[Jc 2]], *iudicium sine misericordia ei qui non fecit misericordiam*, paupertas autem non est de necessitate salutis, sed pertinet ad perfectionem vitae, ut patet [[Mt 19]]. Ergo dono consilii magis respondet beatitudo paupertatis quam beatitudo misericordiae.]]
+![[LEO IIa-IIæ, q. 52, a. 4#arg. 2|Praeterea, praecepta dantur de his quae sunt de necessitate salutis, consilium autem datur de his quae non sunt de necessitate salutis. Misericordia autem est de necessitate salutis, secundum illud Iac. II, *iudicium sine misericordia ei qui non fecit misericordiam*, paupertas autem non est de necessitate salutis, sed pertinet ad perfectionem vitae, ut patet Matth. XIX. Ergo dono consilii magis respondet beatitudo paupertatis quam beatitudo misericordiae.]]
 ![[CERF IIa-IIæ, q. 52, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 52, a. 4#arg. 3|Praeterea, fructus consequuntur ad beatitudines, important enim delectationem quandam spiritualem quae consequitur perfectos actus virtutum. Sed inter fructus non ponitur aliquid respondens dono consilii, ut patet [[Ga 5]]. Ergo etiam beatitudo misericordiae non respondet dono consilii.]]
+![[LEO IIa-IIæ, q. 52, a. 4#arg. 3|Praeterea, fructus consequuntur ad beatitudines, important enim delectationem quandam spiritualem quae consequitur perfectos actus virtutum. Sed inter fructus non ponitur aliquid respondens dono consilii, ut patet Gal. V. Ergo etiam beatitudo misericordiae non respondet dono consilii.]]
 ![[CERF IIa-IIæ, q. 52, a. 4#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 52, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 52, a. 4#resp.|Respondeo dicendum quod consilium proprie est de his quae sunt utilia ad finem. Unde ea quae maxime sunt utilia ad finem maxime debent correspondere dono consilii. Hoc autem est misericordia, secundum illud [[1 Tm 4]], *pietas ad omnia utilis est*. Et ideo specialiter dono consilii respondet beatitudo misericordiae, non sicut elicienti, sed sicut dirigenti.]]
+![[LEO IIa-IIæ, q. 52, a. 4#resp.|Respondeo dicendum quod consilium proprie est de his quae sunt utilia ad finem. Unde ea quae maxime sunt utilia ad finem maxime debent correspondere dono consilii. Hoc autem est misericordia, secundum illud I ad Tim. IV, *pietas ad omnia utilis est*. Et ideo specialiter dono consilii respondet beatitudo misericordiae, non sicut elicienti, sed sicut dirigenti.]]
 ![[CERF IIa-IIæ, q. 52, a. 4#resp.]]
 
 ###### ad 1

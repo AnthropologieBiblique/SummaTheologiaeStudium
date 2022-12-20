@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 73, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 73, a. 2#s.c.|Sed contra est quod dominus dicit ad Pilatum, [[Jn 19]], *qui tradidit me tibi, maius peccatum habet*. Et tamen constat quod Pilatus aliquod peccatum habuit. Ergo unum peccatum est maius alio.]]
+![[LEO Ia-IIæ, q. 73, a. 2#s.c.|Sed contra est quod dominus dicit ad Pilatum, Ioan. XIX, *qui tradidit me tibi, maius peccatum habet*. Et tamen constat quod Pilatus aliquod peccatum habuit. Ergo unum peccatum est maius alio.]]
 ![[CERF Ia-IIæ, q. 73, a. 2#s.c.]]
 
 ###### resp.

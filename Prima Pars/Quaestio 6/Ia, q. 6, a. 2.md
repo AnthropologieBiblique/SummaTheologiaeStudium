@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 6, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 6, a. 2#arg. 2|*Praeterea, bonum est quod omnia appetunt*, ut dicit philosophus. Sed nihil aliud est quod omnia appetunt, nisi solus Deus, qui est finis omnium. Ergo nihil aliud est bonum nisi Deus. Quod etiam videtur per id quod dicitur [[Mt 19]], *nemo bonus nisi solus Deus*. Sed summum dicitur in comparatione aliorum; sicut summum calidum in comparatione ad omnia calida. Ergo Deus non potest dici summum bonum.]]
+![[LEO Ia, q. 6, a. 2#arg. 2|*Praeterea, bonum est quod omnia appetunt*, ut dicit philosophus. Sed nihil aliud est quod omnia appetunt, nisi solus Deus, qui est finis omnium. Ergo nihil aliud est bonum nisi Deus. Quod etiam videtur per id quod dicitur Matth. XIX, *nemo bonus nisi solus Deus*. Sed summum dicitur in comparatione aliorum; sicut summum calidum in comparatione ad omnia calida. Ergo Deus non potest dici summum bonum.]]
 ![[CERF Ia, q. 6, a. 2#arg. 2]]
 
 ###### arg. 3

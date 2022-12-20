@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 86, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 86, a. 1#s.c.|Sed contra est quod dicitur, [[Si 47]], Salomoni, *dedisti maculam in gloria tua*. Et [[Ep 5]], *ut exhiberet sibi gloriosam Ecclesiam non habentem maculam aut rugam*. Et utrobique loquitur de macula peccati. Ergo macula est effectus peccati.]]
+![[LEO Ia-IIæ, q. 86, a. 1#s.c.|Sed contra est quod dicitur, Eccli. XLVII, Salomoni, *dedisti maculam in gloria tua*. Et Ephes. V, *ut exhiberet sibi gloriosam Ecclesiam non habentem maculam aut rugam*. Et utrobique loquitur de macula peccati. Ergo macula est effectus peccati.]]
 ![[CERF Ia-IIæ, q. 86, a. 1#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 86, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 86, a. 1#ad 2|Ad secundum dicendum quod actio intellectus perficitur secundum quod res intelligibiles sunt in intellectu per modum ipsius intellectus, et ideo intellectus ex eis non inficitur, sed magis perficitur. Sed actus voluntatis consistit in motu ad ipsas res, ita quod amor conglutinat animam rei amatae. Et ex hoc anima maculatur, quando in ordinate inhaeret; secundum illud [[Os 9]], *facti sunt abominabiles, sicut ea quae dilexerunt*.]]
+![[LEO Ia-IIæ, q. 86, a. 1#ad 2|Ad secundum dicendum quod actio intellectus perficitur secundum quod res intelligibiles sunt in intellectu per modum ipsius intellectus, et ideo intellectus ex eis non inficitur, sed magis perficitur. Sed actus voluntatis consistit in motu ad ipsas res, ita quod amor conglutinat animam rei amatae. Et ex hoc anima maculatur, quando in ordinate inhaeret; secundum illud Osee IX, *facti sunt abominabiles, sicut ea quae dilexerunt*.]]
 ![[CERF Ia-IIæ, q. 86, a. 1#ad 2]]
 
 ###### ad 3

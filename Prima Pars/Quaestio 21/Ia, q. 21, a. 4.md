@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia, q. 21, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non in omnibus Dei operibus sit misericordia et iustitia. Quaedam enim opera Dei attribuuntur misericordiae, ut iustificatio impii, quaedam vero iustitiae, ut damnatio impiorum. Unde dicitur [[Jc 2]], *iudicium sine misericordia fiet ei qui non fecerit misericordiam*. Non ergo in omni opere Dei apparet misericordia et iustitia.]]
+![[LEO Ia, q. 21, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non in omnibus Dei operibus sit misericordia et iustitia. Quaedam enim opera Dei attribuuntur misericordiae, ut iustificatio impii, quaedam vero iustitiae, ut damnatio impiorum. Unde dicitur Iac. II, *iudicium sine misericordia fiet ei qui non fecerit misericordiam*. Non ergo in omni opere Dei apparet misericordia et iustitia.]]
 ![[CERF Ia, q. 21, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 21, a. 4#arg. 2|Praeterea, apostolus, ad [[Rm 15]], conversionem Iudaeorum attribuit iustitiae et veritati; conversionem autem gentium, misericordiae. Ergo non in quolibet opere Dei est iustitia et misericordia.]]
+![[LEO Ia, q. 21, a. 4#arg. 2|Praeterea, apostolus, ad Rom. XV, conversionem Iudaeorum attribuit iustitiae et veritati; conversionem autem gentium, misericordiae. Ergo non in quolibet opere Dei est iustitia et misericordia.]]
 ![[CERF Ia, q. 21, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 21, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 21, a. 4#s.c.|Sed contra est quod dicitur in [[Ps 24]], *omnes viae domini misericordia et veritas*.]]
+![[LEO Ia, q. 21, a. 4#s.c.|Sed contra est quod dicitur in Psalmo XXIV, *omnes viae domini misericordia et veritas*.]]
 ![[CERF Ia, q. 21, a. 4#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia, q. 21, a. 4#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 21, a. 4#ad 1|Ad primum ergo dicendum quod quaedam opera attribuuntur iustitiae et quaedam misericordiae, quia in quibusdam vehementius apparet iustitia, in quibusdam misericordia. Et tamen in damnatione reproborum apparet misericordia, non quidem totaliter relaxans, sed aliqualiter allevians, dum punit citra condignum. Et in iustificatione impii apparet iustitia, dum culpas relaxat propter dilectionem, quam tamen ipse misericorditer infundit, sicut de Magdalena legitur, [[Lc 7]], *dimissa sunt ei peccata multa, quoniam dilexit multum*.]]
+![[LEO Ia, q. 21, a. 4#ad 1|Ad primum ergo dicendum quod quaedam opera attribuuntur iustitiae et quaedam misericordiae, quia in quibusdam vehementius apparet iustitia, in quibusdam misericordia. Et tamen in damnatione reproborum apparet misericordia, non quidem totaliter relaxans, sed aliqualiter allevians, dum punit citra condignum. Et in iustificatione impii apparet iustitia, dum culpas relaxat propter dilectionem, quam tamen ipse misericorditer infundit, sicut de Magdalena legitur, Luc. VII, *dimissa sunt ei peccata multa, quoniam dilexit multum*.]]
 ![[CERF Ia, q. 21, a. 4#ad 1]]
 
 ###### ad 2

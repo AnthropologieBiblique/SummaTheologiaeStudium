@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 96, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 96, a. 3#arg. 2|Praeterea, similitudo et aequalitas est ratio mutuae dilectionis; secundum illud [[Si 13]], *omne animal diligit sibi simile, sic et omnis homo proximum sibi*. In illo autem statu inter homines abundabat dilectio, quae est vinculum pacis. Ergo omnes fuissent pares in statu innocentiae.]]
+![[LEO Ia, q. 96, a. 3#arg. 2|Praeterea, similitudo et aequalitas est ratio mutuae dilectionis; secundum illud Eccli. XIII, *omne animal diligit sibi simile, sic et omnis homo proximum sibi*. In illo autem statu inter homines abundabat dilectio, quae est vinculum pacis. Ergo omnes fuissent pares in statu innocentiae.]]
 ![[CERF Ia, q. 96, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 96, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 96, a. 3#s.c.|Sed contra est quod dicitur [[Rm 13]], *quae a Deo sunt, ordinata sunt*. Ordo autem maxime videtur in disparitate consistere, dicit enim Augustinus, XIX de Civ. Dei, *ordo est parium dispariumque rerum sua cuique loca tribuens dispositio*. Ergo in primo statu, qui decentissimus fuisset, disparitas inveniretur.]]
+![[LEO Ia, q. 96, a. 3#s.c.|Sed contra est quod dicitur Rom. XIII, *quae a Deo sunt, ordinata sunt*. Ordo autem maxime videtur in disparitate consistere, dicit enim Augustinus, XIX de Civ. Dei, *ordo est parium dispariumque rerum sua cuique loca tribuens dispositio*. Ergo in primo statu, qui decentissimus fuisset, disparitas inveniretur.]]
 ![[CERF Ia, q. 96, a. 3#s.c.]]
 
 ###### resp.

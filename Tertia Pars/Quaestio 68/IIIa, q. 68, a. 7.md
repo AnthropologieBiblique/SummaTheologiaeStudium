@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 68, a. 7#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 68, a. 7#resp.|Respondeo dicendum quod per Baptismum aliquis moritur veteri vitae peccati, et incipit quandam vitae novitatem, secundum illud [[Rm 6]], *consepulti sumus Christo per Baptismum in mortem, ut, quomodo Christus resurrexit a mortuis, ita et nos in novitate vitae ambulemus*. Et ideo, sicut ad hoc quod homo moriatur veteri vitae, requiritur, secundum Augustinum, in habente usum liberi arbitrii, voluntas qua eum veteris vitae poeniteat; ita requiritur voluntas qua intendat vitae novitatem, cuius principium est ipsa susceptio sacramenti. Et ideo ex parte baptizati requiritur voluntas, sive intentio, suscipiendi sacramentum.]]
+![[LEO IIIa, q. 68, a. 7#resp.|Respondeo dicendum quod per Baptismum aliquis moritur veteri vitae peccati, et incipit quandam vitae novitatem, secundum illud Rom. VI, *consepulti sumus Christo per Baptismum in mortem, ut, quomodo Christus resurrexit a mortuis, ita et nos in novitate vitae ambulemus*. Et ideo, sicut ad hoc quod homo moriatur veteri vitae, requiritur, secundum Augustinum, in habente usum liberi arbitrii, voluntas qua eum veteris vitae poeniteat; ita requiritur voluntas qua intendat vitae novitatem, cuius principium est ipsa susceptio sacramenti. Et ideo ex parte baptizati requiritur voluntas, sive intentio, suscipiendi sacramentum.]]
 ![[CERF IIIa, q. 68, a. 7#resp.]]
 
 ###### ad 1

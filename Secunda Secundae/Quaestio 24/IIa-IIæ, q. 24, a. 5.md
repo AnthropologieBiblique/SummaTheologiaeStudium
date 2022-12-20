@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 24, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 24, a. 5#arg. 2|Praeterea, caritas in anima est quoddam spirituale lumen, secundum illud [[1 Jn 2]], *qui diligit fratrem suum in lumine manet*. Sed lumen crescit in aere per additionem, sicut in domo lumen crescit alia candela superaccensa. Ergo etiam caritas crescit in anima per additionem.]]
+![[LEO IIa-IIæ, q. 24, a. 5#arg. 2|Praeterea, caritas in anima est quoddam spirituale lumen, secundum illud I Ioan. II, *qui diligit fratrem suum in lumine manet*. Sed lumen crescit in aere per additionem, sicut in domo lumen crescit alia candela superaccensa. Ergo etiam caritas crescit in anima per additionem.]]
 ![[CERF IIa-IIæ, q. 24, a. 5#arg. 2]]
 
 ###### arg. 3

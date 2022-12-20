@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 17, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 17, a. 4#arg. 3|Praeterea, in Deo non est contrarietas aliqua, nihil enim divinae substantiae est contrarium, ut dicit Augustinus, XII de Civit. Dei. Sed Deo opponitur falsitas, nam idolum in Scriptura mendacium nominatur, [[Jr 8]], *apprehenderunt mendacium*; Glossa, *idest idola*. Ergo verum et falsum non sunt contraria.]]
+![[LEO Ia, q. 17, a. 4#arg. 3|Praeterea, in Deo non est contrarietas aliqua, nihil enim divinae substantiae est contrarium, ut dicit Augustinus, XII de Civit. Dei. Sed Deo opponitur falsitas, nam idolum in Scriptura mendacium nominatur, Ierem. VIII, *apprehenderunt mendacium*; Glossa, *idest idola*. Ergo verum et falsum non sunt contraria.]]
 ![[CERF Ia, q. 17, a. 4#arg. 3]]
 
 ###### s.c.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia, q. 115, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod corpora caelestia possint imprimere in ipsos Daemones. Daemones enim secundum certa augmenta lunae aliquos homines vexant, qui et propter hoc lunatici dicuntur; ut patet [[Mt 4]] et XVII. Sed hoc non esset, nisi corporibus caelestibus subiacerent. Ergo Daemones subiacent actionibus caelestium corporum.]]
+![[LEO Ia, q. 115, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod corpora caelestia possint imprimere in ipsos Daemones. Daemones enim secundum certa augmenta lunae aliquos homines vexant, qui et propter hoc lunatici dicuntur; ut patet Matth. IV et XVII. Sed hoc non esset, nisi corporibus caelestibus subiacerent. Ergo Daemones subiacent actionibus caelestium corporum.]]
 ![[CERF Ia, q. 115, a. 5#arg. 1]]
 
 ###### arg. 2

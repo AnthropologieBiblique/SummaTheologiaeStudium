@@ -6,27 +6,27 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 41, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod rixa non sit filia irae. Dicitur enim [[Jc 4]], *unde bella et lites in vobis? Nonne ex concupiscentiis quae militant in membris vestris?* Sed ira non pertinet ad concupiscibilem. Ergo rixa non est filia irae, sed magis concupiscentiae.]]
+![[LEO IIa-IIæ, q. 41, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod rixa non sit filia irae. Dicitur enim Iac. IV, *unde bella et lites in vobis? Nonne ex concupiscentiis quae militant in membris vestris?* Sed ira non pertinet ad concupiscibilem. Ergo rixa non est filia irae, sed magis concupiscentiae.]]
 ![[CERF IIa-IIæ, q. 41, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 41, a. 2#arg. 2|Praeterea, [[Pr 28]] dicitur, *qui se iactat et dilatat iurgia concitat*. Sed idem videtur esse rixa quod iurgium. Ergo videtur quod rixa sit filia superbiae vel inanis gloriae, ad quam pertinet se iactare et dilatare.]]
+![[LEO IIa-IIæ, q. 41, a. 2#arg. 2|Praeterea, Prov. XXVIII dicitur, *qui se iactat et dilatat iurgia concitat*. Sed idem videtur esse rixa quod iurgium. Ergo videtur quod rixa sit filia superbiae vel inanis gloriae, ad quam pertinet se iactare et dilatare.]]
 ![[CERF IIa-IIæ, q. 41, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 41, a. 2#arg. 3|Praeterea, [[Pr 18]] dicitur, *labia stulti immiscent se rixis*. Sed stultitia differt ab ira, non enim opponitur mansuetudini, sed magis sapientiae vel prudentiae. Ergo rixa non est filia irae.]]
+![[LEO IIa-IIæ, q. 41, a. 2#arg. 3|Praeterea, Prov. XVIII dicitur, *labia stulti immiscent se rixis*. Sed stultitia differt ab ira, non enim opponitur mansuetudini, sed magis sapientiae vel prudentiae. Ergo rixa non est filia irae.]]
 ![[CERF IIa-IIæ, q. 41, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 41, a. 2#arg. 4|Praeterea, [[Pr 10]] dicitur, *odium suscitat rixas*. Sed odium oritur ex invidia; ut Gregorius dicit, XXXI Moral. Ergo rixa non est filia irae, sed invidiae.]]
+![[LEO IIa-IIæ, q. 41, a. 2#arg. 4|Praeterea, Prov. X dicitur, *odium suscitat rixas*. Sed odium oritur ex invidia; ut Gregorius dicit, XXXI Moral. Ergo rixa non est filia irae, sed invidiae.]]
 ![[CERF IIa-IIæ, q. 41, a. 2#arg. 4]]
 
 ###### arg. 5
-![[LEO IIa-IIæ, q. 41, a. 2#arg. 5|Praeterea, [[Pr 17]] dicitur, *qui meditatur discordias seminat rixas*. Sed discordia est filia inanis gloriae, ut supra dictum est. Ergo et rixa.]]
+![[LEO IIa-IIæ, q. 41, a. 2#arg. 5|Praeterea, Prov. XVII dicitur, *qui meditatur discordias seminat rixas*. Sed discordia est filia inanis gloriae, ut supra dictum est. Ergo et rixa.]]
 ![[CERF IIa-IIæ, q. 41, a. 2#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 41, a. 2#s.c.|Sed contra est quod Gregorius dicit, XXXI Moral., quod ex ira oritur rixa. Et [[Pr 15]] et XXIX dicitur, *vir iracundus provocat rixas*.]]
+![[LEO IIa-IIæ, q. 41, a. 2#s.c.|Sed contra est quod Gregorius dicit, XXXI Moral., quod ex ira oritur rixa. Et Prov. XV et XXIX dicitur, *vir iracundus provocat rixas*.]]
 ![[CERF IIa-IIæ, q. 41, a. 2#s.c.]]
 
 ###### resp.

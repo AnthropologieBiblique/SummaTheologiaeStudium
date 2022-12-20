@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 107, a. 3#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 107, a. 3#s.c.|Sed contra est quod dicitur [[Za 1]], *respondit Angelus domini, et dixit, domine exercituum, usquequo non misereberis Ierusalem?* Loquitur ergo Angelus Deo.]]
+![[LEO Ia, q. 107, a. 3#s.c.|Sed contra est quod dicitur Zachar. I, *respondit Angelus domini, et dixit, domine exercituum, usquequo non misereberis Ierusalem?* Loquitur ergo Angelus Deo.]]
 ![[CERF Ia, q. 107, a. 3#s.c.]]
 
 ###### resp.

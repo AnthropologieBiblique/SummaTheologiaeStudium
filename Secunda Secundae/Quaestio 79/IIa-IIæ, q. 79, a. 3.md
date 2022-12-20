@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 79, a. 3#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 79, a. 3#s.c.|Sed contra est quod dicitur [[Jc 4]], *scienti bonum et non facienti, peccatum est illi*.]]
+![[LEO IIa-IIæ, q. 79, a. 3#s.c.|Sed contra est quod dicitur Iac. IV, *scienti bonum et non facienti, peccatum est illi*.]]
 ![[CERF IIa-IIæ, q. 79, a. 3#s.c.]]
 
 ###### resp.

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 35, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 35, a. 4#s.c.|Sed contra, contrariorum non est eadem causa. Sed ab eodem habitu procedit quod aliquis gaudeat de uno, et tristetur de opposito, *ex caritate enim contingit gaudere cum gaudentibus, et flere cum flentibus*, ut dicitur [[Rm 12]]. Ergo non omnis tristitia omni delectationi contrariatur.]]
+![[LEO Ia-IIæ, q. 35, a. 4#s.c.|Sed contra, contrariorum non est eadem causa. Sed ab eodem habitu procedit quod aliquis gaudeat de uno, et tristetur de opposito, *ex caritate enim contingit gaudere cum gaudentibus, et flere cum flentibus*, ut dicitur Rom. XII. Ergo non omnis tristitia omni delectationi contrariatur.]]
 ![[CERF Ia-IIæ, q. 35, a. 4#s.c.]]
 
 ###### resp.

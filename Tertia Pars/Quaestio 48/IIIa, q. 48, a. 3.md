@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 48, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 48, a. 3#s.c.|Sed contra est quod apostolus dicit, [[Ep 5]], *tradidit semetipsum pro nobis oblationem et hostiam Deo in odorem suavitatis*.]]
+![[LEO IIIa, q. 48, a. 3#s.c.|Sed contra est quod apostolus dicit, Ephes. V, *tradidit semetipsum pro nobis oblationem et hostiam Deo in odorem suavitatis*.]]
 ![[CERF IIIa, q. 48, a. 3#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 48, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 48, a. 3#ad 2|Ad secundum dicendum quod Augustinus ibi loquitur de sacrificiis visibilibus figuralibus. Et tamen ipsa passio Christi, licet sit aliquid significatum per alia sacrificia figuralia, est tamen signum alicuius rei observandae a nobis, secundum illud [[1 P 4]], *Christo igitur passo in carne, et vos eadem cogitatione armamini, quia qui passus est in carne, desiit a peccatis; ut iam non hominum desideriis, sed voluntati Dei, quod reliquum est in carne vivat temporis*.]]
+![[LEO IIIa, q. 48, a. 3#ad 2|Ad secundum dicendum quod Augustinus ibi loquitur de sacrificiis visibilibus figuralibus. Et tamen ipsa passio Christi, licet sit aliquid significatum per alia sacrificia figuralia, est tamen signum alicuius rei observandae a nobis, secundum illud I Pet. IV, *Christo igitur passo in carne, et vos eadem cogitatione armamini, quia qui passus est in carne, desiit a peccatis; ut iam non hominum desideriis, sed voluntati Dei, quod reliquum est in carne vivat temporis*.]]
 ![[CERF IIIa, q. 48, a. 3#ad 2]]
 
 ###### ad 3

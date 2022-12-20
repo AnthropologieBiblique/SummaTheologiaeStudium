@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 1, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 1, a. 1#s.c.|Sed contra, illud videtur esse convenientissimum ut per visibilia monstrentur invisibilia Dei, ad hoc enim totus mundus est factus, ut patet per illud apostoli, [[Rm 1]], *invisibilia Dei per ea quae facta sunt, intellecta, conspiciuntur*. Sed sicut Damascenus dicit, in principio III libri, *per incarnationis mysterium monstratur simul bonitas et sapientia et iustitia et potentia Dei* vel virtus, *bonitas quidem, quoniam non despexit proprii plasmatis infirmitatem; iustitia vero, quoniam non alium facit vincere tyrannum, neque vi eripit ex morte hominem; sapientia vero, quoniam invenit difficillimi decentissimam solutionem; potentia vero*, sive virtus, *infinita, quia nihil est maius quam Deum fieri hominem*. Ergo conveniens fuit Deum incarnari.]]
+![[LEO IIIa, q. 1, a. 1#s.c.|Sed contra, illud videtur esse convenientissimum ut per visibilia monstrentur invisibilia Dei, ad hoc enim totus mundus est factus, ut patet per illud apostoli, Rom. I, *invisibilia Dei per ea quae facta sunt, intellecta, conspiciuntur*. Sed sicut Damascenus dicit, in principio III libri, *per incarnationis mysterium monstratur simul bonitas et sapientia et iustitia et potentia Dei* vel virtus, *bonitas quidem, quoniam non despexit proprii plasmatis infirmitatem; iustitia vero, quoniam non alium facit vincere tyrannum, neque vi eripit ex morte hominem; sapientia vero, quoniam invenit difficillimi decentissimam solutionem; potentia vero*, sive virtus, *infinita, quia nihil est maius quam Deum fieri hominem*. Ergo conveniens fuit Deum incarnari.]]
 ![[CERF IIIa, q. 1, a. 1#s.c.]]
 
 ###### resp.

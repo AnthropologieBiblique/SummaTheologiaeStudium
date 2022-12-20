@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 21, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christi oratio non fuerit semper exaudita. Petiit enim a se removeri calicem passionis, ut patet [[Mt 26]], qui tamen ab eo non fuit translatus. Ergo videtur quod non omnis eius oratio fuerit exaudita.]]
+![[LEO IIIa, q. 21, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christi oratio non fuerit semper exaudita. Petiit enim a se removeri calicem passionis, ut patet Matth. XXVI, qui tamen ab eo non fuit translatus. Ergo videtur quod non omnis eius oratio fuerit exaudita.]]
 ![[CERF IIIa, q. 21, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 21, a. 4#arg. 2|Praeterea, ipse oravit ut peccatum suis crucifixoribus ignosceretur, ut patet [[Lc 23]]. Non tamen omnibus fuit illud peccatum dimissum, nam Iudaei fuerunt pro illo peccato puniti. Ergo videtur quod non omnis eius oratio fuerit exaudita.]]
+![[LEO IIIa, q. 21, a. 4#arg. 2|Praeterea, ipse oravit ut peccatum suis crucifixoribus ignosceretur, ut patet Luc. XXIII. Non tamen omnibus fuit illud peccatum dimissum, nam Iudaei fuerunt pro illo peccato puniti. Ergo videtur quod non omnis eius oratio fuerit exaudita.]]
 ![[CERF IIIa, q. 21, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,11 +22,11 @@ tags :
 ![[CERF IIIa, q. 21, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 21, a. 4#s.c.|Sed contra est quod apostolus dicit, [[He 5]], *cum clamore valido et lacrymis offerens, exauditus est pro sua reverentia*.]]
+![[LEO IIIa, q. 21, a. 4#s.c.|Sed contra est quod apostolus dicit, Heb. V, *cum clamore valido et lacrymis offerens, exauditus est pro sua reverentia*.]]
 ![[CERF IIIa, q. 21, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 21, a. 4#resp.|Respondeo dicendum quod, sicut dictum est, oratio est quodammodo interpretativa voluntatis humanae. Tunc ergo alicuius orantis exauditur oratio, quando eius voluntas adimpletur. Voluntas autem simpliciter hominis est voluntas rationis, hoc enim absolute volumus quod secundum deliberatam rationem volumus. Illud autem quod volumus secundum motum sensualitatis, vel etiam secundum motum voluntatis simplicis, quae consideratur ut natura, non simpliciter volumus, sed secundum quid, scilicet, si aliud non obsistat quod per deliberationem rationis invenitur. Unde talis voluntas magis est dicenda velleitas quam absoluta voluntas, quia scilicet homo hoc vellet si aliud non obsisteret. Secundum autem voluntatem rationis, Christus nihil aliud voluit nisi quod scivit Deum velle. Et ideo omnis absoluta voluntas Christi, etiam humana, fuit impleta, quia fuit Deo conformis, et per consequens, omnis eius oratio fuit exaudita. Nam et secundum hoc aliorum orationes adimplentur, quod sunt eorum voluntates Deo conformes, secundum illud [[Rm 8]], qui autem scrutatur corda, scit, idest, approbat, quid desideret spiritus, idest, quid faciat sanctos desiderare, quoniam secundum Deum, idest, secundum conformitatem divinae voluntatis, postulat pro sanctis.]]
+![[LEO IIIa, q. 21, a. 4#resp.|Respondeo dicendum quod, sicut dictum est, oratio est quodammodo interpretativa voluntatis humanae. Tunc ergo alicuius orantis exauditur oratio, quando eius voluntas adimpletur. Voluntas autem simpliciter hominis est voluntas rationis, hoc enim absolute volumus quod secundum deliberatam rationem volumus. Illud autem quod volumus secundum motum sensualitatis, vel etiam secundum motum voluntatis simplicis, quae consideratur ut natura, non simpliciter volumus, sed secundum quid, scilicet, si aliud non obsistat quod per deliberationem rationis invenitur. Unde talis voluntas magis est dicenda velleitas quam absoluta voluntas, quia scilicet homo hoc vellet si aliud non obsisteret. Secundum autem voluntatem rationis, Christus nihil aliud voluit nisi quod scivit Deum velle. Et ideo omnis absoluta voluntas Christi, etiam humana, fuit impleta, quia fuit Deo conformis, et per consequens, omnis eius oratio fuit exaudita. Nam et secundum hoc aliorum orationes adimplentur, quod sunt eorum voluntates Deo conformes, secundum illud Rom. VIII, qui autem scrutatur corda, scit, idest, approbat, quid desideret spiritus, idest, quid faciat sanctos desiderare, quoniam secundum Deum, idest, secundum conformitatem divinae voluntatis, postulat pro sanctis.]]
 ![[CERF IIIa, q. 21, a. 4#resp.]]
 
 ###### ad 1

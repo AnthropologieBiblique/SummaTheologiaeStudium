@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 103, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 103, a. 3#arg. 3|Praeterea, idem est motus quo aliquis movetur in imaginem, et in rem cuius est imago. Sed per duliam honoratur homo inquantum est ad Dei imaginem, dicitur enim [[Sg 2]], de impiis quod *non iudicaverunt honorem animarum sanctarum, quoniam Deus creavit hominem inexterminabilem, et ad imaginem suae similitudinis fecit illum*. Ergo dulia non est alia virtus a latria, qua honoratur Deus.]]
+![[LEO IIa-IIæ, q. 103, a. 3#arg. 3|Praeterea, idem est motus quo aliquis movetur in imaginem, et in rem cuius est imago. Sed per duliam honoratur homo inquantum est ad Dei imaginem, dicitur enim Sap. II, de impiis quod *non iudicaverunt honorem animarum sanctarum, quoniam Deus creavit hominem inexterminabilem, et ad imaginem suae similitudinis fecit illum*. Ergo dulia non est alia virtus a latria, qua honoratur Deus.]]
 ![[CERF IIa-IIæ, q. 103, a. 3#arg. 3]]
 
 ###### s.c.

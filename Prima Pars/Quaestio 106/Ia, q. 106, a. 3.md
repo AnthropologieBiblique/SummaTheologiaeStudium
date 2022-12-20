@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia, q. 106, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Angelus inferior superiorem illuminare possit. Ecclesiastica enim hierarchia derivata est a caelesti, et eam repraesentat, unde et superna Ierusalem dicitur mater nostra, [[Ga 4]]. Sed in Ecclesia etiam superiores illuminantur ab inferioribus et docentur; secundum illud apostoli, I ad Cor. XIV, *potestis omnes per singulos prophetare, ut omnes discant, et omnes exhortentur*. Ergo et in caelesti hierarchia superiores ab inferioribus possunt illuminari.]]
+![[LEO Ia, q. 106, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Angelus inferior superiorem illuminare possit. Ecclesiastica enim hierarchia derivata est a caelesti, et eam repraesentat, unde et superna Ierusalem dicitur mater nostra, Gal. IV. Sed in Ecclesia etiam superiores illuminantur ab inferioribus et docentur; secundum illud apostoli, I ad Cor. XIV, *potestis omnes per singulos prophetare, ut omnes discant, et omnes exhortentur*. Ergo et in caelesti hierarchia superiores ab inferioribus possunt illuminari.]]
 ![[CERF Ia, q. 106, a. 3#arg. 1]]
 
 ###### arg. 2

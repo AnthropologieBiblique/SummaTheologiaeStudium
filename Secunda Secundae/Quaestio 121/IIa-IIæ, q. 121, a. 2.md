@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 121, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 121, a. 2#arg. 2|Praeterea, donum pietatis dirigitur dono scientiae, quod adiungitur in connumeratione donorum [[Is 11]]. Ad idem autem se extendunt dirigens et exequens. Cum igitur ad scientiam pertineat tertia beatitudo, scilicet, beati qui lugent, videtur quod non pertineat ad pietatem secunda beatitudo.]]
+![[LEO IIa-IIæ, q. 121, a. 2#arg. 2|Praeterea, donum pietatis dirigitur dono scientiae, quod adiungitur in connumeratione donorum Isaiae XI. Ad idem autem se extendunt dirigens et exequens. Cum igitur ad scientiam pertineat tertia beatitudo, scilicet, beati qui lugent, videtur quod non pertineat ad pietatem secunda beatitudo.]]
 ![[CERF IIa-IIæ, q. 121, a. 2#arg. 2]]
 
 ###### arg. 3

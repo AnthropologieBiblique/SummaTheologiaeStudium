@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 172, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 172, a. 5#arg. 3|Praeterea, non est efficax signum quod etiam ad contraria se habet. Sed prophetia est signum confirmationis fidei, unde super illud [[Rm 12]], sive prophetiam secundum rationem fidei, dicit Glossa, *nota quod in numeratione gratiarum a prophetia incipit, quae est prima probatio quod fides nostra sit rationabilis, quia credentes, accepto spiritu, prophetabant*. Non ergo prophetia a Daemonibus dari potest.]]
+![[LEO IIa-IIæ, q. 172, a. 5#arg. 3|Praeterea, non est efficax signum quod etiam ad contraria se habet. Sed prophetia est signum confirmationis fidei, unde super illud Rom. XII, sive prophetiam secundum rationem fidei, dicit Glossa, *nota quod in numeratione gratiarum a prophetia incipit, quae est prima probatio quod fides nostra sit rationabilis, quia credentes, accepto spiritu, prophetabant*. Non ergo prophetia a Daemonibus dari potest.]]
 ![[CERF IIa-IIæ, q. 172, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 172, a. 5#s.c.|Sed contra est quod dicitur [[1R 18]], *congrega ad me universum Israel in monte Carmeli, et prophetas Baal trecentos quinquaginta, prophetasque lucorum quadringentos, qui comedunt de mensa Iezabel*. Sed tales erant Daemonum cultores. Ergo videtur quod etiam a Daemonibus sit aliqua prophetia.]]
+![[LEO IIa-IIæ, q. 172, a. 5#s.c.|Sed contra est quod dicitur III Reg. XVIII, *congrega ad me universum Israel in monte Carmeli, et prophetas Baal trecentos quinquaginta, prophetasque lucorum quadringentos, qui comedunt de mensa Iezabel*. Sed tales erant Daemonum cultores. Ergo videtur quod etiam a Daemonibus sit aliqua prophetia.]]
 ![[CERF IIa-IIæ, q. 172, a. 5#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 172, a. 5#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 172, a. 5#ad 3|Ad tertium dicendum quod aliquibus signis, etiam exterioribus, discerni potest prophetia Daemonum a prophetia divina. Unde dicit Chrysostomus, super Matth., quod *quidam prophetant in spiritu Diaboli, quales sunt divinatores, sed sic discernuntur, quoniam Diabolus interdum falsa dicit, spiritus sanctus nunquam*. Unde dicitur [[Dt 18]], *si tacita cogitatione responderis, quomodo possum intelligere verbum quod non est locutus dominus? Hoc habebis signum, quod in nomine domini propheta ille praedixerit, et non evenerit, hoc dominus non est locutus*.]]
+![[LEO IIa-IIæ, q. 172, a. 5#ad 3|Ad tertium dicendum quod aliquibus signis, etiam exterioribus, discerni potest prophetia Daemonum a prophetia divina. Unde dicit Chrysostomus, super Matth., quod *quidam prophetant in spiritu Diaboli, quales sunt divinatores, sed sic discernuntur, quoniam Diabolus interdum falsa dicit, spiritus sanctus nunquam*. Unde dicitur Deut. XVIII, *si tacita cogitatione responderis, quomodo possum intelligere verbum quod non est locutus dominus? Hoc habebis signum, quod in nomine domini propheta ille praedixerit, et non evenerit, hoc dominus non est locutus*.]]
 ![[CERF IIa-IIæ, q. 172, a. 5#ad 3]]
 

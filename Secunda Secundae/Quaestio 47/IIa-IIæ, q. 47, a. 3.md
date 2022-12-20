@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 47, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 47, a. 3#ad 2|Ad secundum dicendum quod quia infinitas singularium non potest ratione humana comprehendi, inde est quod sunt incertae providentiae nostrae, ut dicitur [[Sg 9]]. Tamen per experientiam singularia infinita reducuntur ad aliqua finita quae ut in pluribus accidunt, quorum cognitio sufficit ad prudentiam humanam.]]
+![[LEO IIa-IIæ, q. 47, a. 3#ad 2|Ad secundum dicendum quod quia infinitas singularium non potest ratione humana comprehendi, inde est quod sunt incertae providentiae nostrae, ut dicitur Sap. IX. Tamen per experientiam singularia infinita reducuntur ad aliqua finita quae ut in pluribus accidunt, quorum cognitio sufficit ad prudentiam humanam.]]
 ![[CERF IIa-IIæ, q. 47, a. 3#ad 2]]
 
 ###### ad 3

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 61, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 61, a. 2#s.c.|Sed contra est quod dicitur [[Pr 8]], ex persona sapientiae genitae, *dominus possedit me ab initio viarum suarum, antequam quidquam faceret a principio*. Sed Angeli sunt facti a Deo, ut ostensum est. Ergo Angeli aliquando non fuerunt.]]
+![[LEO Ia, q. 61, a. 2#s.c.|Sed contra est quod dicitur Prov. VIII, ex persona sapientiae genitae, *dominus possedit me ab initio viarum suarum, antequam quidquam faceret a principio*. Sed Angeli sunt facti a Deo, ut ostensum est. Ergo Angeli aliquando non fuerunt.]]
 ![[CERF Ia, q. 61, a. 2#s.c.]]
 
 ###### resp.

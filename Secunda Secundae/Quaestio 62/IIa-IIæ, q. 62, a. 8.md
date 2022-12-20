@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 62, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 62, a. 8#s.c.|Sed contra est quod eadem ratio esse videtur in omnibus quae sunt restituenda. Sed ille qui conducit opera mercenarii non potest differre restitutionem, ut patet per illud quod habetur [[Lv 19]] *non morabitur opus mercenarii tui apud te usque mane*. Ergo neque in aliis restitutionibus faciendis potest fieri dilatio, sed statim restituere oportet.]]
+![[LEO IIa-IIæ, q. 62, a. 8#s.c.|Sed contra est quod eadem ratio esse videtur in omnibus quae sunt restituenda. Sed ille qui conducit opera mercenarii non potest differre restitutionem, ut patet per illud quod habetur Levit. XIX *non morabitur opus mercenarii tui apud te usque mane*. Ergo neque in aliis restitutionibus faciendis potest fieri dilatio, sed statim restituere oportet.]]
 ![[CERF IIa-IIæ, q. 62, a. 8#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 62, a. 8#resp.|Respondeo dicendum quod sicut accipere rem alienam est peccatum contra iustitiam, ita etiam detinere eam, quia per hoc quod aliquis detinet rem alienam invito domino, impedit eum ab usu rei suae, et sic ei facit iniuriam. Manifestum est autem quod nec per modicum tempus licet in peccato morari, sed quilibet tenetur statim peccatum deserere, secundum illud [[Si 21]], *quasi a facie colubri fuge peccatum*. Et ideo quilibet tenetur statim restituere, vel petere dilationem ab eo qui potest usum rei concedere.]]
+![[LEO IIa-IIæ, q. 62, a. 8#resp.|Respondeo dicendum quod sicut accipere rem alienam est peccatum contra iustitiam, ita etiam detinere eam, quia per hoc quod aliquis detinet rem alienam invito domino, impedit eum ab usu rei suae, et sic ei facit iniuriam. Manifestum est autem quod nec per modicum tempus licet in peccato morari, sed quilibet tenetur statim peccatum deserere, secundum illud Eccli. XXI, *quasi a facie colubri fuge peccatum*. Et ideo quilibet tenetur statim restituere, vel petere dilationem ab eo qui potest usum rei concedere.]]
 ![[CERF IIa-IIæ, q. 62, a. 8#resp.]]
 
 ###### ad 1

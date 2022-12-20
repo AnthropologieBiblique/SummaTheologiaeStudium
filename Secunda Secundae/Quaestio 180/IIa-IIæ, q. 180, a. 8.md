@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 180, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 180, a. 8#arg. 2|Praeterea, dulcedinem contemplationis aliquis homo raptim et pertranseunter degustat. Unde Augustinus dicit, in X Confess., *intromittis me in affectum multum inusitatum introrsus ad nescio quam dulcedinem, sed redeo in haec aerumnosis ponderibus*. Gregorius etiam dicit, in V Moral., exponens illud [[Jb 4]], *cum spiritus me praesente transiret, in suavitate, inquit, contemplationis intimae non diu mens figitur, quia ad semetipsam, ipsa immensitate luminis reverberata, revocatur*. Ergo vita contemplativa non est diuturna.]]
+![[LEO IIa-IIæ, q. 180, a. 8#arg. 2|Praeterea, dulcedinem contemplationis aliquis homo raptim et pertranseunter degustat. Unde Augustinus dicit, in X Confess., *intromittis me in affectum multum inusitatum introrsus ad nescio quam dulcedinem, sed redeo in haec aerumnosis ponderibus*. Gregorius etiam dicit, in V Moral., exponens illud Iob IV, *cum spiritus me praesente transiret, in suavitate, inquit, contemplationis intimae non diu mens figitur, quia ad semetipsam, ipsa immensitate luminis reverberata, revocatur*. Ergo vita contemplativa non est diuturna.]]
 ![[CERF IIa-IIæ, q. 180, a. 8#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 180, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 180, a. 8#s.c.|Sed contra est quod dominus dicit, [[Lc 10]], *Maria optimam partem elegit, quae non auferetur ab ea*. Quia, ut Gregorius dicit, super Ezech., *contemplativa hic incipitur, ut in caelesti patria perficiatur*.]]
+![[LEO IIa-IIæ, q. 180, a. 8#s.c.|Sed contra est quod dominus dicit, Luc. X, *Maria optimam partem elegit, quae non auferetur ab ea*. Quia, ut Gregorius dicit, super Ezech., *contemplativa hic incipitur, ut in caelesti patria perficiatur*.]]
 ![[CERF IIa-IIæ, q. 180, a. 8#s.c.]]
 
 ###### resp.

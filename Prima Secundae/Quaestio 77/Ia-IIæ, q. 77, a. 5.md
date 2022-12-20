@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 77, a. 5#arg. 4]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 77, a. 5#s.c.|Sed contra est quod dicitur [[1 Jn 2]], *omne quod est in mundo, aut est concupiscentia carnis, aut concupiscentia oculorum, aut superbia vitae*. In mundo autem dicitur aliquid esse propter peccatum, unde et ibidem, dicit quod *totus mundus in maligno positus est*. Ergo praedicta tria sunt causae peccatorum.]]
+![[LEO Ia-IIæ, q. 77, a. 5#s.c.|Sed contra est quod dicitur I Ioan. II, *omne quod est in mundo, aut est concupiscentia carnis, aut concupiscentia oculorum, aut superbia vitae*. In mundo autem dicitur aliquid esse propter peccatum, unde et ibidem, dicit quod *totus mundus in maligno positus est*. Ergo praedicta tria sunt causae peccatorum.]]
 ![[CERF Ia-IIæ, q. 77, a. 5#s.c.]]
 
 ###### resp.

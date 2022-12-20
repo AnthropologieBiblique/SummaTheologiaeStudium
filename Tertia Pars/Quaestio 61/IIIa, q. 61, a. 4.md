@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 61, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod post Christum non debuerint esse aliqua sacramenta. Veniente enim veritate, debet cessare figura. Sed *gratia et veritas per Iesum Christum facta est*, ut dicitur [[Jn 1]]. Cum igitur sacramenta sint veritatis signa sive figurae, videtur quod post Christi passionem sacramenta esse non debuerint.]]
+![[LEO IIIa, q. 61, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod post Christum non debuerint esse aliqua sacramenta. Veniente enim veritate, debet cessare figura. Sed *gratia et veritas per Iesum Christum facta est*, ut dicitur Ioan. I. Cum igitur sacramenta sint veritatis signa sive figurae, videtur quod post Christi passionem sacramenta esse non debuerint.]]
 ![[CERF IIIa, q. 61, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 61, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 61, a. 4#arg. 3|Praeterea, *apud Deum non est transmutatio nec vicissitudinis obumbratio*, ut dicitur [[Jc 1]]. Sed hoc videtur ad quandam mutationem divinae voluntatis pertinere, quod alia sacramenta nunc exhibeat hominibus ad sanctificationem tempore gratiae, et alia ante Christum. Ergo videtur quod post Christum non debuerunt institui alia sacramenta.]]
+![[LEO IIIa, q. 61, a. 4#arg. 3|Praeterea, *apud Deum non est transmutatio nec vicissitudinis obumbratio*, ut dicitur Iac. I. Sed hoc videtur ad quandam mutationem divinae voluntatis pertinere, quod alia sacramenta nunc exhibeat hominibus ad sanctificationem tempore gratiae, et alia ante Christum. Ergo videtur quod post Christum non debuerunt institui alia sacramenta.]]
 ![[CERF IIIa, q. 61, a. 4#arg. 3]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 61, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 61, a. 4#ad 1|Ad primum ergo dicendum quod, sicut Dionysius dicit, in V cap. Eccl. Hier., status novae legis medius est inter statum veteris legis, cuius figurae implentur in nova lege; et inter statum gloriae, in qua omnis nude et perfecte manifestabitur veritas. Et ideo tunc nulla erunt sacramenta. Nunc autem, quandiu per speculum in aenigmate cognoscimus, ut dicitur [[1 Co 13]], oportet nos per aliqua sensibilia signa in spiritualia devenire. Quod pertinet ad rationem sacramentorum.]]
+![[LEO IIIa, q. 61, a. 4#ad 1|Ad primum ergo dicendum quod, sicut Dionysius dicit, in V cap. Eccl. Hier., status novae legis medius est inter statum veteris legis, cuius figurae implentur in nova lege; et inter statum gloriae, in qua omnis nude et perfecte manifestabitur veritas. Et ideo tunc nulla erunt sacramenta. Nunc autem, quandiu per speculum in aenigmate cognoscimus, ut dicitur I Cor. XIII, oportet nos per aliqua sensibilia signa in spiritualia devenire. Quod pertinet ad rationem sacramentorum.]]
 ![[CERF IIIa, q. 61, a. 4#ad 1]]
 
 ###### ad 2

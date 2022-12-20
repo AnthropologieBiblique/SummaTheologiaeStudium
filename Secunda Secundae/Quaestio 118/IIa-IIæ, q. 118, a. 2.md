@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 118, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 118, a. 2#arg. 3|Praeterea, super illud [[Rm 7]], *nam concupiscentiam nesciebam* etc., dicit Glossa, *bona est lex, quae, dum concupiscentiam prohibet, omne malum prohibet*. Videtur autem lex specialiter prohibere concupiscentiam avaritiae, ubi dicitur, [[Ex 20]], *non concupisces rem proximi tui*. Ergo concupiscentia avaritiae est omne malum. Et ita avaritia est generale peccatum.]]
+![[LEO IIa-IIæ, q. 118, a. 2#arg. 3|Praeterea, super illud Rom. VII, *nam concupiscentiam nesciebam* etc., dicit Glossa, *bona est lex, quae, dum concupiscentiam prohibet, omne malum prohibet*. Videtur autem lex specialiter prohibere concupiscentiam avaritiae, ubi dicitur, Exod. XX, *non concupisces rem proximi tui*. Ergo concupiscentia avaritiae est omne malum. Et ita avaritia est generale peccatum.]]
 ![[CERF IIa-IIæ, q. 118, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 118, a. 2#s.c.|Sed contra est quod [[Rm 1]], avaritia connumeratur inter alia specialia peccata, ubi dicitur, *repletos omni iniquitate, malitia, fornicatione, avaritia,* et cetera.]]
+![[LEO IIa-IIæ, q. 118, a. 2#s.c.|Sed contra est quod Rom. I, avaritia connumeratur inter alia specialia peccata, ubi dicitur, *repletos omni iniquitate, malitia, fornicatione, avaritia,* et cetera.]]
 ![[CERF IIa-IIæ, q. 118, a. 2#s.c.]]
 
 ###### resp.

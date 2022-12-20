@@ -6,11 +6,11 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 94, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod lex naturae mutari possit. Quia super illud [[Si 17]], *addidit eis disciplinam et legem vitae*, dicit Glossa, *legem litterae, quantum ad correctionem legis naturalis, scribi voluit*. Sed illud quod corrigitur, mutatur. Ergo lex naturalis potest mutari.]]
+![[LEO Ia-IIæ, q. 94, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod lex naturae mutari possit. Quia super illud Eccli. XVII, *addidit eis disciplinam et legem vitae*, dicit Glossa, *legem litterae, quantum ad correctionem legis naturalis, scribi voluit*. Sed illud quod corrigitur, mutatur. Ergo lex naturalis potest mutari.]]
 ![[CERF Ia-IIæ, q. 94, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 94, a. 5#arg. 2|Praeterea, contra legem naturalem est occisio innocentis, et etiam adulterium et furtum. Sed ista inveniuntur esse mutata a Deo, puta cum Deus praecepit Abrahae quod occideret filium innocentem, ut habetur [[Gn 22]]; et cum praecepit Iudaeis ut mutuata Aegyptiorum vasa subriperent, ut habetur [[Ex 12]]; et cum praecepit Osee ut uxorem fornicariam acciperet, ut habetur [[Os 1]]. Ergo lex naturalis potest mutari.]]
+![[LEO Ia-IIæ, q. 94, a. 5#arg. 2|Praeterea, contra legem naturalem est occisio innocentis, et etiam adulterium et furtum. Sed ista inveniuntur esse mutata a Deo, puta cum Deus praecepit Abrahae quod occideret filium innocentem, ut habetur Gen. XXII; et cum praecepit Iudaeis ut mutuata Aegyptiorum vasa subriperent, ut habetur Exod. XII; et cum praecepit Osee ut uxorem fornicariam acciperet, ut habetur Osee I. Ergo lex naturalis potest mutari.]]
 ![[CERF Ia-IIæ, q. 94, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 94, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 94, a. 5#ad 2|Ad secundum dicendum quod naturali morte moriuntur omnes communiter, tam nocentes quam innocentes. Quae quidem naturalis mors divina potestate inducitur propter peccatum originale; secundum illud [[1S 2]], *dominus mortificat et vivificat*. Et ideo absque aliqua iniustitia, secundum mandatum Dei, potest infligi mors cuicumque homini, vel nocenti vel innocenti. Similiter etiam adulterium est concubitus cum uxore aliena, quae quidem est ei deputata secundum legem divinitus traditam. Unde ad quamcumque mulierem aliquis accedat ex mandato divino, non est adulterium nec fornicatio. Et eadem ratio est de furto, quod est acceptio rei alienae. Quidquid enim accipit aliquis ex mandato Dei, qui est dominus universorum, non accipit absque voluntate domini, quod est furari. Nec solum in rebus humanis quidquid a Deo mandatur, hoc ipso est debitum, sed etiam in rebus naturalibus quidquid a Deo fit, est quodammodo naturale, ut in primo dictum est.]]
+![[LEO Ia-IIæ, q. 94, a. 5#ad 2|Ad secundum dicendum quod naturali morte moriuntur omnes communiter, tam nocentes quam innocentes. Quae quidem naturalis mors divina potestate inducitur propter peccatum originale; secundum illud I Reg. II, *dominus mortificat et vivificat*. Et ideo absque aliqua iniustitia, secundum mandatum Dei, potest infligi mors cuicumque homini, vel nocenti vel innocenti. Similiter etiam adulterium est concubitus cum uxore aliena, quae quidem est ei deputata secundum legem divinitus traditam. Unde ad quamcumque mulierem aliquis accedat ex mandato divino, non est adulterium nec fornicatio. Et eadem ratio est de furto, quod est acceptio rei alienae. Quidquid enim accipit aliquis ex mandato Dei, qui est dominus universorum, non accipit absque voluntate domini, quod est furari. Nec solum in rebus humanis quidquid a Deo mandatur, hoc ipso est debitum, sed etiam in rebus naturalibus quidquid a Deo fit, est quodammodo naturale, ut in primo dictum est.]]
 ![[CERF Ia-IIæ, q. 94, a. 5#ad 2]]
 
 ###### ad 3

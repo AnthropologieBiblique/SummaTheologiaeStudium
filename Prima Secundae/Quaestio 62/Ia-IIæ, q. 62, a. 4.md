@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 62, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non sit hic ordo theologicarum virtutum, quod fides sit prior spe, et spes prior caritate. Radix enim est prior eo quod est ex radice. Sed caritas est radix omnium virtutum; secundum illud ad [[Ep 3]], *in caritate radicati et fundati*. Ergo caritas est prior aliis.]]
+![[LEO Ia-IIæ, q. 62, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non sit hic ordo theologicarum virtutum, quod fides sit prior spe, et spes prior caritate. Radix enim est prior eo quod est ex radice. Sed caritas est radix omnium virtutum; secundum illud ad Ephes. III, *in caritate radicati et fundati*. Ergo caritas est prior aliis.]]
 ![[CERF Ia-IIæ, q. 62, a. 4#arg. 1]]
 
 ###### arg. 2

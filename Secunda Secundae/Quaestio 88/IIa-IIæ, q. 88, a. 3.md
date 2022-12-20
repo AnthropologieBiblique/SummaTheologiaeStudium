@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 88, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 88, a. 3#s.c.|Sed contra est quod dicitur [[Qo 5]], *quodcumque voveris, redde. Multoque melius est non vovere quam post votum promissa non reddere*.]]
+![[LEO IIa-IIæ, q. 88, a. 3#s.c.|Sed contra est quod dicitur Eccle. V, *quodcumque voveris, redde. Multoque melius est non vovere quam post votum promissa non reddere*.]]
 ![[CERF IIa-IIæ, q. 88, a. 3#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 88, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 88, a. 3#ad 3|Ad tertium dicendum quod obligatio voti ex propria voluntate et intentione causatur, unde dicitur [[Dt 23]], quod *semel egressum est de labiis tuis, observabis, et facies sicut promisisti domino Deo tuo, et propria voluntate et ore tuo locutus es*. Et ideo si in intentione et voluntate voventis est obligare se ad statim solvendum, tenetur statim solvere. Si autem ad certum tempus, vel sub certa conditione, non tenetur statim solvere. Sed nec debet tardare ultra quam intendit se obligare, dicitur enim ibidem, *cum votum voveris domino Deo tuo, non tardabis reddere, quia requiret illud dominus Deus tuus; et si moratus fueris, reputabitur tibi in peccatum*.]]
+![[LEO IIa-IIæ, q. 88, a. 3#ad 3|Ad tertium dicendum quod obligatio voti ex propria voluntate et intentione causatur, unde dicitur Deut. XXIII, quod *semel egressum est de labiis tuis, observabis, et facies sicut promisisti domino Deo tuo, et propria voluntate et ore tuo locutus es*. Et ideo si in intentione et voluntate voventis est obligare se ad statim solvendum, tenetur statim solvere. Si autem ad certum tempus, vel sub certa conditione, non tenetur statim solvere. Sed nec debet tardare ultra quam intendit se obligare, dicitur enim ibidem, *cum votum voveris domino Deo tuo, non tardabis reddere, quia requiret illud dominus Deus tuus; et si moratus fueris, reputabitur tibi in peccatum*.]]
 ![[CERF IIa-IIæ, q. 88, a. 3#ad 3]]
 

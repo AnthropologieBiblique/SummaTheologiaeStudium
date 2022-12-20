@@ -10,15 +10,15 @@ tags :
 ![[CERF Ia-IIæ, q. 99, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 99, a. 1#arg. 2|Praeterea, apostolus dicit, [[Rm 13]], *si quod est aliud mandatum, in hoc verbo instauratur, diliges proximum tuum sicut teipsum*. Sed istud mandatum est unum. Ergo lex vetus non continet nisi unum mandatum.]]
+![[LEO Ia-IIæ, q. 99, a. 1#arg. 2|Praeterea, apostolus dicit, Rom. XIII, *si quod est aliud mandatum, in hoc verbo instauratur, diliges proximum tuum sicut teipsum*. Sed istud mandatum est unum. Ergo lex vetus non continet nisi unum mandatum.]]
 ![[CERF Ia-IIæ, q. 99, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 99, a. 1#arg. 3|Praeterea, [[Mt 7]], dicitur, *omnia quaecumque vultis ut faciant vobis homines, et vos facite illis, haec est enim lex et prophetae*. Sed tota lex vetus continetur in lege et prophetis. Ergo tota lex vetus non habet nisi unum praeceptum.]]
+![[LEO Ia-IIæ, q. 99, a. 1#arg. 3|Praeterea, Matth. VII, dicitur, *omnia quaecumque vultis ut faciant vobis homines, et vos facite illis, haec est enim lex et prophetae*. Sed tota lex vetus continetur in lege et prophetis. Ergo tota lex vetus non habet nisi unum praeceptum.]]
 ![[CERF Ia-IIæ, q. 99, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 99, a. 1#s.c.|Sed contra est quod apostolus dicit, ad [[Ep 2]], *legem mandatorum decretis evacuans*. Et loquitur de lege veteri, ut patet per Glossam ibidem. Ergo lex vetus continet in se multa mandata.]]
+![[LEO Ia-IIæ, q. 99, a. 1#s.c.|Sed contra est quod apostolus dicit, ad Ephes. II, *legem mandatorum decretis evacuans*. Et loquitur de lege veteri, ut patet per Glossam ibidem. Ergo lex vetus continet in se multa mandata.]]
 ![[CERF Ia-IIæ, q. 99, a. 1#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 99, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 99, a. 1#ad 2|Ad secundum dicendum quod, sicut apostolus dicit, [[1 Tm 1]], *finis praecepti caritas est*, ad hoc enim omnis lex tendit, ut amicitiam constituat vel hominum ad invicem, vel hominis ad Deum. Et ideo tota lex impletur in hoc uno mandato, *diliges proximum tuum sicut teipsum*, sicut in quodam fine mandatorum omnium, in dilectione enim proximi includitur etiam Dei dilectio, quando proximus diligitur propter Deum. Unde apostolus hoc unum praeceptum posuit pro duobus quae sunt de dilectione Dei et proximi, de quibus dicit dominus, [[Mt 22]], *in his duobus mandatis pendet omnis lex et prophetae*.]]
+![[LEO Ia-IIæ, q. 99, a. 1#ad 2|Ad secundum dicendum quod, sicut apostolus dicit, I ad Tim. I, *finis praecepti caritas est*, ad hoc enim omnis lex tendit, ut amicitiam constituat vel hominum ad invicem, vel hominis ad Deum. Et ideo tota lex impletur in hoc uno mandato, *diliges proximum tuum sicut teipsum*, sicut in quodam fine mandatorum omnium, in dilectione enim proximi includitur etiam Dei dilectio, quando proximus diligitur propter Deum. Unde apostolus hoc unum praeceptum posuit pro duobus quae sunt de dilectione Dei et proximi, de quibus dicit dominus, Matth. XXII, *in his duobus mandatis pendet omnis lex et prophetae*.]]
 ![[CERF Ia-IIæ, q. 99, a. 1#ad 2]]
 
 ###### ad 3

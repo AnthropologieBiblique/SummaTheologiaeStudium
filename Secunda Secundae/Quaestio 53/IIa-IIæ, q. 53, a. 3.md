@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 53, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 53, a. 3#s.c.|Sed contra est quod dicitur [[Pr 4]], *via impiorum tenebrosa, nesciunt ubi corruant*. Tenebrae autem viae impietatis pertinent ad imprudentiam. Ergo corruere, sive praecipitari, ad imprudentiam pertinet.]]
+![[LEO IIa-IIæ, q. 53, a. 3#s.c.|Sed contra est quod dicitur Prov. IV, *via impiorum tenebrosa, nesciunt ubi corruant*. Tenebrae autem viae impietatis pertinent ad imprudentiam. Ergo corruere, sive praecipitari, ad imprudentiam pertinet.]]
 ![[CERF IIa-IIæ, q. 53, a. 3#s.c.]]
 
 ###### resp.

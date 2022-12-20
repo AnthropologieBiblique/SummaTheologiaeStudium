@@ -6,15 +6,15 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia, q. 58, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod una sit cognitio vespertina et matutina. Dicitur enim [[Gn 1]], *factum est vespere et mane dies unus*. Sed per diem intelligitur cognitio angelica, ut Augustinus dicit. Ergo una et eadem est cognitio in Angelis matutina et vespertina.]]
+![[LEO Ia, q. 58, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod una sit cognitio vespertina et matutina. Dicitur enim Gen. I, *factum est vespere et mane dies unus*. Sed per diem intelligitur cognitio angelica, ut Augustinus dicit. Ergo una et eadem est cognitio in Angelis matutina et vespertina.]]
 ![[CERF Ia, q. 58, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 58, a. 7#arg. 2|Praeterea, impossibile est unam potentiam simul duas operationes habere. Sed Angeli semper sunt in actu cognitionis matutinae, quia semper vident Deum et res in Deo, secundum illud [[Mt 18]], *Angeli eorum semper vident faciem patris mei* et cetera. Ergo, si cognitio vespertina esset alia a matutina, nullo modo Angelus posset esse in actu cognitionis vespertinae.]]
+![[LEO Ia, q. 58, a. 7#arg. 2|Praeterea, impossibile est unam potentiam simul duas operationes habere. Sed Angeli semper sunt in actu cognitionis matutinae, quia semper vident Deum et res in Deo, secundum illud Matth. XVIII, *Angeli eorum semper vident faciem patris mei* et cetera. Ergo, si cognitio vespertina esset alia a matutina, nullo modo Angelus posset esse in actu cognitionis vespertinae.]]
 ![[CERF Ia, q. 58, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 58, a. 7#arg. 3|Praeterea, apostolus dicit, [[1 Co 13]], *cum venerit quod perfectum est, evacuabitur quod ex parte est*. Sed si cognitio vespertina sit alia a matutina, comparatur ad ipsam sicut imperfectum ad perfectum. Ergo non poterit simul vespertina cognitio esse cum matutina.]]
+![[LEO Ia, q. 58, a. 7#arg. 3|Praeterea, apostolus dicit, I Cor. XIII, *cum venerit quod perfectum est, evacuabitur quod ex parte est*. Sed si cognitio vespertina sit alia a matutina, comparatur ad ipsam sicut imperfectum ad perfectum. Ergo non poterit simul vespertina cognitio esse cum matutina.]]
 ![[CERF Ia, q. 58, a. 7#arg. 3]]
 
 ###### s.c.

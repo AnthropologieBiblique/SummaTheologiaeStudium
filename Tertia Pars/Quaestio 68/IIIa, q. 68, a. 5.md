@@ -18,19 +18,19 @@ tags :
 ![[CERF IIIa, q. 68, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 68, a. 5#s.c.|Sed contra est quod Ambrosius, super [[Rm 11]], *sine poenitentia sunt dona Dei et vocatio*, dicit, *gratia Dei in Baptismo non requirit gemitum neque planctum, vel etiam opus aliquod, sed solam fidem, et omnia gratis condonat*.]]
+![[LEO IIIa, q. 68, a. 5#s.c.|Sed contra est quod Ambrosius, super Rom. XI, *sine poenitentia sunt dona Dei et vocatio*, dicit, *gratia Dei in Baptismo non requirit gemitum neque planctum, vel etiam opus aliquod, sed solam fidem, et omnia gratis condonat*.]]
 ![[CERF IIIa, q. 68, a. 5#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 68, a. 5#resp.|Respondeo dicendum quod, sicut apostolus dicit, [[Rm 6]], *quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus, consepulti enim sumus ei per Baptismum in mortem*, ita scilicet quod homo per Baptismum incorporatur ipsi morti Christi. Manifestum est autem ex supra dictis quod mors Christi satisfactoria fuit sufficienter pro peccatis, *non solum nostris, sed etiam totius mundi*, ut dicitur [[1 Jn 2]]. Et ideo ei qui baptizatur pro quibuscumque peccatis non est aliqua satisfactio iniungenda, hoc autem esset iniuriam facere passioni et morti Christi, quasi ipsa non esset sufficiens ad plenariam satisfactionem pro peccatis baptizandorum.]]
+![[LEO IIIa, q. 68, a. 5#resp.|Respondeo dicendum quod, sicut apostolus dicit, Rom. VI, *quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus, consepulti enim sumus ei per Baptismum in mortem*, ita scilicet quod homo per Baptismum incorporatur ipsi morti Christi. Manifestum est autem ex supra dictis quod mors Christi satisfactoria fuit sufficienter pro peccatis, *non solum nostris, sed etiam totius mundi*, ut dicitur I Ioan. II. Et ideo ei qui baptizatur pro quibuscumque peccatis non est aliqua satisfactio iniungenda, hoc autem esset iniuriam facere passioni et morti Christi, quasi ipsa non esset sufficiens ad plenariam satisfactionem pro peccatis baptizandorum.]]
 ![[CERF IIIa, q. 68, a. 5#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 68, a. 5#ad 1|Ad primum ergo dicendum quod, sicut Augustinus dicit, in libro de Baptismo parvulorum, *ad hoc Baptismus valet ut baptizati Christo incorporentur ut membra eius*. Unde ipsa poena Christi fuit satisfactoria pro peccatis baptizandorum, sicut et poena unius membri potest esse satisfactoria pro peccato alterius membri. Unde [[Is 53]] dicitur, *vere languores nostros ipse tulit, et dolores nostros ipse portavit*.]]
+![[LEO IIIa, q. 68, a. 5#ad 1|Ad primum ergo dicendum quod, sicut Augustinus dicit, in libro de Baptismo parvulorum, *ad hoc Baptismus valet ut baptizati Christo incorporentur ut membra eius*. Unde ipsa poena Christi fuit satisfactoria pro peccatis baptizandorum, sicut et poena unius membri potest esse satisfactoria pro peccato alterius membri. Unde Isaiae LIII dicitur, *vere languores nostros ipse tulit, et dolores nostros ipse portavit*.]]
 ![[CERF IIIa, q. 68, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 68, a. 5#ad 2|Ad secundum dicendum quod nuper baptizati exercitandi sunt ad iustitiam, non per opera poenalia, sed per opera facilia, *ut quasi quodam lacte facilis exercitii promoveantur ad perfectiora*, ut Glossa dicit, super illud Psalmi, *sicut ablactatus super matre sua*. Unde et dominus discipulos suos de novo conversos a ieiunio excusavit, ut patet [[Mt 9]]. Et hoc est quod dicitur [[1 P 2]], *sicut modo geniti infantes lac concupiscite, ut in eo crescatis in salutem*.]]
+![[LEO IIIa, q. 68, a. 5#ad 2|Ad secundum dicendum quod nuper baptizati exercitandi sunt ad iustitiam, non per opera poenalia, sed per opera facilia, *ut quasi quodam lacte facilis exercitii promoveantur ad perfectiora*, ut Glossa dicit, super illud Psalmi, *sicut ablactatus super matre sua*. Unde et dominus discipulos suos de novo conversos a ieiunio excusavit, ut patet Matth. IX. Et hoc est quod dicitur I Pet. II, *sicut modo geniti infantes lac concupiscite, ut in eo crescatis in salutem*.]]
 ![[CERF IIIa, q. 68, a. 5#ad 2]]
 
 ###### ad 3

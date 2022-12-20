@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 186, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 186, a. 2#ad 2|Ad secundum dicendum quod, sicut diligere Deum ex toto corde tenentur omnes, est tamen aliqua perfectionis totalitas quae sine peccato praetermitti non potest, aliqua autem quae sine peccato praetermittitur, dum tamen desit contemptus, ut supra dictum est, ita etiam omnes, tam religiosi quam saeculares, tenentur aliqualiter facere quidquid boni possunt, omnibus enim communiter dicitur, [[Qo 9]], *quidquid potest manus tua, instanter operare*; est tamen aliquis modus hoc praeceptum implendi quo peccatum vitatur, si scilicet homo faciat quod potest secundum quod requirit conditio sui status; dummodo contemptus non adsit agendi meliora, per quem animus obfirmatur contra spiritualem profectum.]]
+![[LEO IIa-IIæ, q. 186, a. 2#ad 2|Ad secundum dicendum quod, sicut diligere Deum ex toto corde tenentur omnes, est tamen aliqua perfectionis totalitas quae sine peccato praetermitti non potest, aliqua autem quae sine peccato praetermittitur, dum tamen desit contemptus, ut supra dictum est, ita etiam omnes, tam religiosi quam saeculares, tenentur aliqualiter facere quidquid boni possunt, omnibus enim communiter dicitur, Eccle. IX, *quidquid potest manus tua, instanter operare*; est tamen aliquis modus hoc praeceptum implendi quo peccatum vitatur, si scilicet homo faciat quod potest secundum quod requirit conditio sui status; dummodo contemptus non adsit agendi meliora, per quem animus obfirmatur contra spiritualem profectum.]]
 ![[CERF IIa-IIæ, q. 186, a. 2#ad 2]]
 
 ###### ad 3

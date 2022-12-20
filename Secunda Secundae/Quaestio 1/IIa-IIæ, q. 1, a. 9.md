@@ -6,11 +6,11 @@ tags :
 ### Articulus 9
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 1, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod inconvenienter articuli fidei in symbolo ponantur. Sacra enim Scriptura est regula fidei, cui nec addere nec subtrahere licet, dicitur enim [[Dt 4]], *non addetis ad verbum quod vobis loquor, neque auferetis ab eo*. Ergo illicitum fuit aliquod symbolum constituere quasi regulam fidei, post sacram Scripturam editam.]]
+![[LEO IIa-IIæ, q. 1, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod inconvenienter articuli fidei in symbolo ponantur. Sacra enim Scriptura est regula fidei, cui nec addere nec subtrahere licet, dicitur enim Deut. IV, *non addetis ad verbum quod vobis loquor, neque auferetis ab eo*. Ergo illicitum fuit aliquod symbolum constituere quasi regulam fidei, post sacram Scripturam editam.]]
 ![[CERF IIa-IIæ, q. 1, a. 9#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 1, a. 9#arg. 2|Praeterea, sicut apostolus dicit, ad [[Ep 4]], *una est fides*. Sed symbolum est professio fidei. Ergo inconvenienter traditur multiplex symbolum.]]
+![[LEO IIa-IIæ, q. 1, a. 9#arg. 2|Praeterea, sicut apostolus dicit, ad Ephes. IV, *una est fides*. Sed symbolum est professio fidei. Ergo inconvenienter traditur multiplex symbolum.]]
 ![[CERF IIa-IIæ, q. 1, a. 9#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 1, a. 9#arg. 4]]
 
 ###### arg. 5
-![[LEO IIa-IIæ, q. 1, a. 9#arg. 5|Praeterea, sicut Augustinus dicit, exponens illud [[Jn 14]], *creditis in Deum, et in me credite*, Petro aut Paulo credimus, sed non dicimur credere nisi in Deum. Cum igitur Ecclesia Catholica sit pure aliquid creatum, videtur quod inconvenienter dicatur, *in unam sanctam, Catholicam et apostolicam Ecclesiam*.]]
+![[LEO IIa-IIæ, q. 1, a. 9#arg. 5|Praeterea, sicut Augustinus dicit, exponens illud Ioan. XIV, *creditis in Deum, et in me credite*, Petro aut Paulo credimus, sed non dicimur credere nisi in Deum. Cum igitur Ecclesia Catholica sit pure aliquid creatum, videtur quod inconvenienter dicatur, *in unam sanctam, Catholicam et apostolicam Ecclesiam*.]]
 ![[CERF IIa-IIæ, q. 1, a. 9#arg. 5]]
 
 ###### arg. 6
@@ -30,11 +30,11 @@ tags :
 ![[CERF IIa-IIæ, q. 1, a. 9#arg. 6]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 1, a. 9#s.c.|Sed contra est quod Ecclesia universalis non potest errare, quia spiritu sancto gubernatur, qui est spiritus veritatis, hoc enim promisit dominus discipulis, [[Jn 16]], dicens, *cum venerit ille spiritus veritatis, docebit vos omnem veritatem*. Sed symbolum est auctoritate universalis Ecclesiae editum. Nihil ergo inconveniens in eo continetur.]]
+![[LEO IIa-IIæ, q. 1, a. 9#s.c.|Sed contra est quod Ecclesia universalis non potest errare, quia spiritu sancto gubernatur, qui est spiritus veritatis, hoc enim promisit dominus discipulis, Ioan. XVI, dicens, *cum venerit ille spiritus veritatis, docebit vos omnem veritatem*. Sed symbolum est auctoritate universalis Ecclesiae editum. Nihil ergo inconveniens in eo continetur.]]
 ![[CERF IIa-IIæ, q. 1, a. 9#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 1, a. 9#resp.|Respondeo dicendum quod, sicut apostolus dicit, ad [[He 11]], *accedentem ad Deum oportet credere*. Credere autem non potest aliquis nisi ei veritas quam credat proponatur. Et ideo necessarium fuit veritatem fidei in unum colligi, ut facilius posset omnibus proponi, ne aliquis per ignorantiam a fidei veritate deficeret. Et ab huiusmodi collectione sententiarum fidei nomen symboli est acceptum.]]
+![[LEO IIa-IIæ, q. 1, a. 9#resp.|Respondeo dicendum quod, sicut apostolus dicit, ad Heb. XI, *accedentem ad Deum oportet credere*. Credere autem non potest aliquis nisi ei veritas quam credat proponatur. Et ideo necessarium fuit veritatem fidei in unum colligi, ut facilius posset omnibus proponi, ne aliquis per ignorantiam a fidei veritate deficeret. Et ab huiusmodi collectione sententiarum fidei nomen symboli est acceptum.]]
 ![[CERF IIa-IIæ, q. 1, a. 9#resp.]]
 
 ###### ad 1

@@ -14,15 +14,15 @@ tags :
 ![[CERF IIIa, q. 8, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 8, a. 2#arg. 3|Praeterea, Christus corpus suum ab aliis hominibus traxit, ut patet [[Mt 1]] et [[Lc 3]]. Sed caput est primum inter cetera membra, ut dictum est. Ergo Christus non est caput Ecclesiae quantum ad corpora.]]
+![[LEO IIIa, q. 8, a. 2#arg. 3|Praeterea, Christus corpus suum ab aliis hominibus traxit, ut patet Matth. I et Luc. III. Sed caput est primum inter cetera membra, ut dictum est. Ergo Christus non est caput Ecclesiae quantum ad corpora.]]
 ![[CERF IIIa, q. 8, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 8, a. 2#s.c.|Sed contra est quod dicitur [[Ph 3]], *reformabit corpus humilitatis nostrae, configuratum corpori claritatis suae*.]]
+![[LEO IIIa, q. 8, a. 2#s.c.|Sed contra est quod dicitur Philipp. III, *reformabit corpus humilitatis nostrae, configuratum corpori claritatis suae*.]]
 ![[CERF IIIa, q. 8, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 8, a. 2#resp.|Respondeo dicendum quod corpus humanum habet naturalem ordinem ad animam rationalem, quae est propria forma eius et motor. Et inquantum quidem est forma eius, recipit ab anima vitam et ceteras proprietates convenientes humano corpori secundum suam speciem. Inquantum vero anima est motor corporis, corpus instrumentaliter servit animae. Sic ergo dicendum quod habet vim influendi Christi humanitas inquantum est coniuncta Dei verbo, cui corpus unitur per animam, ut supra dictum est. Unde tota Christi humanitas, secundum scilicet animam et corpus, influit in homines et quantum ad animam et quantum ad corpus, sed principaliter quantum ad animam; secundario quantum ad corpus. Uno modo, inquantum membra corporis exhibentur arma iustitiae in anima existenti per Christum, ut apostolus dicit, [[Rm 6]]. Alio modo, inquantum vita gloriae ab anima derivatur ad corpus, secundum illud [[Rm 6]], *qui suscitavit Iesum a mortuis, vivificabit et mortalia corpora vestra, propter inhabitantem spiritum eius in vobis*.]]
+![[LEO IIIa, q. 8, a. 2#resp.|Respondeo dicendum quod corpus humanum habet naturalem ordinem ad animam rationalem, quae est propria forma eius et motor. Et inquantum quidem est forma eius, recipit ab anima vitam et ceteras proprietates convenientes humano corpori secundum suam speciem. Inquantum vero anima est motor corporis, corpus instrumentaliter servit animae. Sic ergo dicendum quod habet vim influendi Christi humanitas inquantum est coniuncta Dei verbo, cui corpus unitur per animam, ut supra dictum est. Unde tota Christi humanitas, secundum scilicet animam et corpus, influit in homines et quantum ad animam et quantum ad corpus, sed principaliter quantum ad animam; secundario quantum ad corpus. Uno modo, inquantum membra corporis exhibentur arma iustitiae in anima existenti per Christum, ut apostolus dicit, Rom. VI. Alio modo, inquantum vita gloriae ab anima derivatur ad corpus, secundum illud Rom. VIII, *qui suscitavit Iesum a mortuis, vivificabit et mortalia corpora vestra, propter inhabitantem spiritum eius in vobis*.]]
 ![[CERF IIIa, q. 8, a. 2#resp.]]
 
 ###### ad 1
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 8, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 8, a. 2#ad 3|Ad tertium dicendum quod, licet Christus traxerit materiam corporis ab aliis hominibus, vitam tamen immortalem corporis omnes homines trahunt ab ipso, secundum illud [[1 Co 15]], *sicut in Adam omnes moriuntur, ita in Christo omnes vivificabuntur*.]]
+![[LEO IIIa, q. 8, a. 2#ad 3|Ad tertium dicendum quod, licet Christus traxerit materiam corporis ab aliis hominibus, vitam tamen immortalem corporis omnes homines trahunt ab ipso, secundum illud I Cor. XV, *sicut in Adam omnes moriuntur, ita in Christo omnes vivificabuntur*.]]
 ![[CERF IIIa, q. 8, a. 2#ad 3]]
 

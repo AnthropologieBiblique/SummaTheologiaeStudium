@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 158, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod irasci non possit esse licitum. Hieronymus enim, exponens illud [[Mt 5]], *qui irascitur fratri suo* etc., dicit, *in quibusdam codicibus additur, sine causa, ceterum in veris definita sententia est, et ira penitus tollitur*. Ergo irasci nullo modo est licitum.]]
+![[LEO IIa-IIæ, q. 158, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod irasci non possit esse licitum. Hieronymus enim, exponens illud Matth. V, *qui irascitur fratri suo* etc., dicit, *in quibusdam codicibus additur, sine causa, ceterum in veris definita sententia est, et ira penitus tollitur*. Ergo irasci nullo modo est licitum.]]
 ![[CERF IIa-IIæ, q. 158, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 158, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 158, a. 1#arg. 3|Praeterea, ira est appetitus vindictae, ut dicit Glossa super [[Lv 19]], *non oderis fratrem tuum in corde tuo*. Sed appetere ultionem non videtur esse licitum, sed hoc Deo est reservandum, secundum illud [[Dt 32]], *mea est ultio*. Ergo videtur quod irasci semper sit malum.]]
+![[LEO IIa-IIæ, q. 158, a. 1#arg. 3|Praeterea, ira est appetitus vindictae, ut dicit Glossa super Levit. XIX, *non oderis fratrem tuum in corde tuo*. Sed appetere ultionem non videtur esse licitum, sed hoc Deo est reservandum, secundum illud Deut. XXXII, *mea est ultio*. Ergo videtur quod irasci semper sit malum.]]
 ![[CERF IIa-IIæ, q. 158, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 158, a. 1#arg. 4|Praeterea, omne illud quod abducit nos a divina similitudine, est malum. Sed irasci semper abducit nos a divina similitudine, quia Deus cum tranquillitate iudicat, ut habetur [[Sg 12]]. Ergo irasci semper est malum.]]
+![[LEO IIa-IIæ, q. 158, a. 1#arg. 4|Praeterea, omne illud quod abducit nos a divina similitudine, est malum. Sed irasci semper abducit nos a divina similitudine, quia Deus cum tranquillitate iudicat, ut habetur Sap. XII. Ergo irasci semper est malum.]]
 ![[CERF IIa-IIæ, q. 158, a. 1#arg. 4]]
 
 ###### s.c.
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIa-IIæ, q. 158, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 158, a. 1#ad 3|Ad tertium dicendum quod appetere vindictam propter malum eius qui puniendus est, illicitum est. Sed appetere vindictam propter vitiorum correctionem et bonum iustitiae conservandum, laudabile est. Et in hoc potest tendere appetitus sensitivus inquantum movetur a ratione. Et dum vindicta secundum ordinem iudicii fit, a Deo fit, cuius minister est potestas puniens, ut dicitur [[Rm 13]].]]
+![[LEO IIa-IIæ, q. 158, a. 1#ad 3|Ad tertium dicendum quod appetere vindictam propter malum eius qui puniendus est, illicitum est. Sed appetere vindictam propter vitiorum correctionem et bonum iustitiae conservandum, laudabile est. Et in hoc potest tendere appetitus sensitivus inquantum movetur a ratione. Et dum vindicta secundum ordinem iudicii fit, a Deo fit, cuius minister est potestas puniens, ut dicitur Rom. XIII.]]
 ![[CERF IIa-IIæ, q. 158, a. 1#ad 3]]
 
 ###### ad 4

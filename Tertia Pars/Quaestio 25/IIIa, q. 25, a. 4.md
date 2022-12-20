@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 25, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod crux Christi non sit adoranda adoratione latriae. Nullus enim pius filius veneratur contumeliam patris sui, puta flagellum quo flagellatus est, vel lignum in quo erat suspensus, sed magis illud abhorret. Christus autem in ligno crucis est opprobriosissimam mortem passus, secundum illud [[Sg 2]], *morte turpissima condemnemus eum*. Ergo non debemus crucem venerari, sed magis abhorrere.]]
+![[LEO IIIa, q. 25, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod crux Christi non sit adoranda adoratione latriae. Nullus enim pius filius veneratur contumeliam patris sui, puta flagellum quo flagellatus est, vel lignum in quo erat suspensus, sed magis illud abhorret. Christus autem in ligno crucis est opprobriosissimam mortem passus, secundum illud Sap. II, *morte turpissima condemnemus eum*. Ergo non debemus crucem venerari, sed magis abhorrere.]]
 ![[CERF IIIa, q. 25, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 25, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 25, a. 4#ad 1|Ad primum ergo dicendum quod in cruce Christi, quantum ad opinionem vel intentionem infidelium, consideratur opprobrium Christi, sed quantum ad effectum nostrae salutis, consideratur virtus divina ipsius, qua de hostibus triumphavit, secundum illud [[Col 2]], *ipsum tulit de medio, affigens illud cruci, et spolians principatus et potestates, traduxit confidenter, palam triumphans illos in semetipso*. Et ideo dicit apostolus, [[1 Co 1]], *verbum crucis pereuntibus quidem stultitia est, his autem qui salvi fiunt, idest nobis, virtus Dei est*.]]
+![[LEO IIIa, q. 25, a. 4#ad 1|Ad primum ergo dicendum quod in cruce Christi, quantum ad opinionem vel intentionem infidelium, consideratur opprobrium Christi, sed quantum ad effectum nostrae salutis, consideratur virtus divina ipsius, qua de hostibus triumphavit, secundum illud Coloss. II, *ipsum tulit de medio, affigens illud cruci, et spolians principatus et potestates, traduxit confidenter, palam triumphans illos in semetipso*. Et ideo dicit apostolus, I Cor. I, *verbum crucis pereuntibus quidem stultitia est, his autem qui salvi fiunt, idest nobis, virtus Dei est*.]]
 ![[CERF IIIa, q. 25, a. 4#ad 1]]
 
 ###### ad 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 25, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 25, a. 4#ad 3|Ad tertium dicendum quod, quantum ad rationem contactus membrorum Christi, adoramus non solum crucem, sed etiam omnia quae sunt Christi. Unde Damascenus dicit, in IV libro, *pretiosum lignum, ut sanctificatum contactu sancti corporis et sanguinis, decenter adorandum; clavos, indumenta, lanceam; et sacra eius tabernacula*. Ista tamen non repraesentant imaginem Christi, sicut crux, quae dicitur signum filii hominis, quod apparebit in caelo, ut dicitur [[Mt 24]]. Ideoque mulieribus dixit Angelus, *Iesum quaeritis Nazarenum crucifixum*, non dixit, lanceatum, sed, crucifixum. Et inde est quod imaginem crucis Christi veneramur in quacumque materia, non autem imaginem clavorum, vel quorumcumque huiusmodi.]]
+![[LEO IIIa, q. 25, a. 4#ad 3|Ad tertium dicendum quod, quantum ad rationem contactus membrorum Christi, adoramus non solum crucem, sed etiam omnia quae sunt Christi. Unde Damascenus dicit, in IV libro, *pretiosum lignum, ut sanctificatum contactu sancti corporis et sanguinis, decenter adorandum; clavos, indumenta, lanceam; et sacra eius tabernacula*. Ista tamen non repraesentant imaginem Christi, sicut crux, quae dicitur signum filii hominis, quod apparebit in caelo, ut dicitur Matth. XXIV. Ideoque mulieribus dixit Angelus, *Iesum quaeritis Nazarenum crucifixum*, non dixit, lanceatum, sed, crucifixum. Et inde est quod imaginem crucis Christi veneramur in quacumque materia, non autem imaginem clavorum, vel quorumcumque huiusmodi.]]
 ![[CERF IIIa, q. 25, a. 4#ad 3]]
 

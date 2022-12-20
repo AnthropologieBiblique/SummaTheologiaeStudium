@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 147, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod ieiunium non sit actus virtutis. Omnis enim virtutis actus est Deo acceptus. Sed ieiunium non semper est Deo acceptum, secundum illud [[Is 58]], *quare ieiunavimus, et non aspexisti?* Ergo ieiunium non est actus virtutis.]]
+![[LEO IIa-IIæ, q. 147, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod ieiunium non sit actus virtutis. Omnis enim virtutis actus est Deo acceptus. Sed ieiunium non semper est Deo acceptum, secundum illud Isaiae LVIII, *quare ieiunavimus, et non aspexisti?* Ergo ieiunium non est actus virtutis.]]
 ![[CERF IIa-IIæ, q. 147, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 147, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 147, a. 1#resp.|Respondeo dicendum quod ex hoc aliquis actus est virtuosus, quod per rationem ordinatur ad aliquod bonum honestum. Hoc autem convenit ieiunio. Assumitur enim ieiunium principaliter ad tria. Primo quidem, ad concupiscentias carnis comprimendas. Unde apostolus dicit, in auctoritate inducta, in ieiuniis, in castitate, quia per ieiunia castitas conservatur. Ut enim Hieronymus dicit, *sine Cerere et Baccho friget Venus*, idest, per abstinentiam cibi et potus tepescit luxuria. Secundo, assumitur ad hoc quod mens liberius elevetur ad sublimia contemplanda. Unde dicitur Dan. X, quod post ieiunium trium hebdomadarum, revelationem accepit a Deo. Tertio, ad satisfaciendum pro peccatis. Unde dicitur [[Jl 2]], *convertimini ad me in toto corde vestro, in ieiunio et fletu et planctu*. Et hoc est quod Augustinus dicit, in quodam sermone de Orat. et Ieiun., *ieiunium purgat mentem, sublevat sensum, carnem spiritui subiicit, cor facit contritum et humiliatum, concupiscentiae nebulas dispergit, libidinum ardores extinguit, castitatis vero lumen accendit*. Unde patet quod ieiunium est actus virtutis.]]
+![[LEO IIa-IIæ, q. 147, a. 1#resp.|Respondeo dicendum quod ex hoc aliquis actus est virtuosus, quod per rationem ordinatur ad aliquod bonum honestum. Hoc autem convenit ieiunio. Assumitur enim ieiunium principaliter ad tria. Primo quidem, ad concupiscentias carnis comprimendas. Unde apostolus dicit, in auctoritate inducta, in ieiuniis, in castitate, quia per ieiunia castitas conservatur. Ut enim Hieronymus dicit, *sine Cerere et Baccho friget Venus*, idest, per abstinentiam cibi et potus tepescit luxuria. Secundo, assumitur ad hoc quod mens liberius elevetur ad sublimia contemplanda. Unde dicitur Dan. X, quod post ieiunium trium hebdomadarum, revelationem accepit a Deo. Tertio, ad satisfaciendum pro peccatis. Unde dicitur Ioel II, *convertimini ad me in toto corde vestro, in ieiunio et fletu et planctu*. Et hoc est quod Augustinus dicit, in quodam sermone de Orat. et Ieiun., *ieiunium purgat mentem, sublevat sensum, carnem spiritui subiicit, cor facit contritum et humiliatum, concupiscentiae nebulas dispergit, libidinum ardores extinguit, castitatis vero lumen accendit*. Unde patet quod ieiunium est actus virtutis.]]
 ![[CERF IIa-IIæ, q. 147, a. 1#resp.]]
 
 ###### ad 1

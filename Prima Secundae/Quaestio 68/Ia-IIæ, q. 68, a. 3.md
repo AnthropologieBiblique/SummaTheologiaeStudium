@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 68, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod dona spiritus sancti non sint habitus. Habitus enim est qualitas in homine manens, est enim qualitas difficile mobilis, ut dicitur in praedicamentis. Sed proprium Christi est quod dona spiritus sancti in eo requiescant, ut dicitur [[Is 11]]. Et [[Jn 1]], dicitur, *super quem videris spiritum descendentem, et manentem super eum, hic est qui baptizat*, quod exponens Gregorius, in II Moral., dicit, *in cunctis fidelibus spiritus sanctus venit; sed in solo mediatore semper singulariter permanet*. Ergo dona spiritus sancti non sunt habitus.]]
+![[LEO Ia-IIæ, q. 68, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod dona spiritus sancti non sint habitus. Habitus enim est qualitas in homine manens, est enim qualitas difficile mobilis, ut dicitur in praedicamentis. Sed proprium Christi est quod dona spiritus sancti in eo requiescant, ut dicitur Isaiae XI. Et Ioan. I, dicitur, *super quem videris spiritum descendentem, et manentem super eum, hic est qui baptizat*, quod exponens Gregorius, in II Moral., dicit, *in cunctis fidelibus spiritus sanctus venit; sed in solo mediatore semper singulariter permanet*. Ergo dona spiritus sancti non sunt habitus.]]
 ![[CERF Ia-IIæ, q. 68, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 68, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 68, a. 3#s.c.|Sed contra est quod dominus dicit discipulis, de spiritu sancto loquens, [[Jn 14]], *apud vos manebit, et in vobis erit*. Spiritus autem sanctus non est in hominibus absque donis eius. Ergo dona eius manent in hominibus. Ergo non solum sunt actus vel passiones, sed etiam habitus permanentes.]]
+![[LEO Ia-IIæ, q. 68, a. 3#s.c.|Sed contra est quod dominus dicit discipulis, de spiritu sancto loquens, Ioan. XIV, *apud vos manebit, et in vobis erit*. Spiritus autem sanctus non est in hominibus absque donis eius. Ergo dona eius manent in hominibus. Ergo non solum sunt actus vel passiones, sed etiam habitus permanentes.]]
 ![[CERF Ia-IIæ, q. 68, a. 3#s.c.]]
 
 ###### resp.

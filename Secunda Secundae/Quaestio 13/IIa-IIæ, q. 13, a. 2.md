@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 13, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 13, a. 2#s.c.|Sed contra est quod dicitur [[Lv 24]], *qui blasphemaverit nomen domini, morte moriatur*. Sed poena mortis non infertur nisi pro peccato mortali. Ergo blasphemia est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 13, a. 2#s.c.|Sed contra est quod dicitur Levit. XXIV, *qui blasphemaverit nomen domini, morte moriatur*. Sed poena mortis non infertur nisi pro peccato mortali. Ergo blasphemia est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 13, a. 2#s.c.]]
 
 ###### resp.

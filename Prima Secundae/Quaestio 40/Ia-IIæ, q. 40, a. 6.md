@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 40, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod iuventus et ebrietas non sint causa spei. Spes enim importat quandam certitudinem et firmitatem, unde ad [[He 6]], spes comparatur ancorae. Sed iuvenes et ebrii deficiunt a firmitate, habent enim animum de facili mutabilem. Ergo iuventus et ebrietas non est causa spei.]]
+![[LEO Ia-IIæ, q. 40, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod iuventus et ebrietas non sint causa spei. Spes enim importat quandam certitudinem et firmitatem, unde ad Heb. VI, spes comparatur ancorae. Sed iuvenes et ebrii deficiunt a firmitate, habent enim animum de facili mutabilem. Ergo iuventus et ebrietas non est causa spei.]]
 ![[CERF Ia-IIæ, q. 40, a. 6#arg. 1]]
 
 ###### arg. 2

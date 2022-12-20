@@ -6,11 +6,11 @@ tags :
 ### Articulus 11
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 26, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod homo plus debeat diligere uxorem quam patrem et matrem. Nullus enim dimittit rem aliquam nisi pro re magis dilecta. Sed [[Gn 2]] dicitur quod propter uxorem relinquet homo patrem et matrem. Ergo magis debet diligere uxorem quam patrem vel matrem.]]
+![[LEO IIa-IIæ, q. 26, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod homo plus debeat diligere uxorem quam patrem et matrem. Nullus enim dimittit rem aliquam nisi pro re magis dilecta. Sed Gen. II dicitur quod propter uxorem relinquet homo patrem et matrem. Ergo magis debet diligere uxorem quam patrem vel matrem.]]
 ![[CERF IIa-IIæ, q. 26, a. 11#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 26, a. 11#arg. 2|Praeterea, apostolus dicit, ad [[Ep 5]], quod *viri debent diligere uxores sicut seipsos*. Sed homo magis debet diligere seipsum quam parentes. Ergo etiam magis debet diligere uxorem quam parentes.]]
+![[LEO IIa-IIæ, q. 26, a. 11#arg. 2|Praeterea, apostolus dicit, ad Ephes. V, quod *viri debent diligere uxores sicut seipsos*. Sed homo magis debet diligere seipsum quam parentes. Ergo etiam magis debet diligere uxorem quam parentes.]]
 ![[CERF IIa-IIæ, q. 26, a. 11#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 26, a. 11#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 26, a. 11#s.c.|Sed contra est quod vir debet diligere uxorem suam sicut carnem suam, ut dicitur ad [[Ep 5]]. Sed corpus suum minus debet homo diligere quam proximum, ut supra dictum est. Inter proximos autem magis debemus diligere parentes. Ergo magis debemus diligere parentes quam uxorem.]]
+![[LEO IIa-IIæ, q. 26, a. 11#s.c.|Sed contra est quod vir debet diligere uxorem suam sicut carnem suam, ut dicitur ad Ephes. V. Sed corpus suum minus debet homo diligere quam proximum, ut supra dictum est. Inter proximos autem magis debemus diligere parentes. Ergo magis debemus diligere parentes quam uxorem.]]
 ![[CERF IIa-IIæ, q. 26, a. 11#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 26, a. 11#resp.|Respondeo dicendum quod, sicut dictum est, gradus dilectionis attendi potest et secundum rationem boni, et secundum coniunctionem ad diligentem. Secundum igitur rationem boni, quod est obiectum dilectionis, magis sunt diligendi parentes quam uxores, quia diliguntur sub ratione principii et eminentioris cuiusdam boni. Secundum autem rationem coniunctionis magis diligenda est uxor, quia uxor coniungitur viro ut una caro existens, secundum illud [[Mt 19]], *itaque iam non sunt duo, sed una caro*. Et ideo intensius diligitur uxor, sed maior reverentia est parentibus exhibenda.]]
+![[LEO IIa-IIæ, q. 26, a. 11#resp.|Respondeo dicendum quod, sicut dictum est, gradus dilectionis attendi potest et secundum rationem boni, et secundum coniunctionem ad diligentem. Secundum igitur rationem boni, quod est obiectum dilectionis, magis sunt diligendi parentes quam uxores, quia diliguntur sub ratione principii et eminentioris cuiusdam boni. Secundum autem rationem coniunctionis magis diligenda est uxor, quia uxor coniungitur viro ut una caro existens, secundum illud Matth. XIX, *itaque iam non sunt duo, sed una caro*. Et ideo intensius diligitur uxor, sed maior reverentia est parentibus exhibenda.]]
 ![[CERF IIa-IIæ, q. 26, a. 11#resp.]]
 
 ###### ad 1

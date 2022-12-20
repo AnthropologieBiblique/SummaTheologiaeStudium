@@ -6,19 +6,19 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 3, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Deus sit corpus. Corpus enim est quod habet trinam dimensionem. Sed sacra Scriptura attribuit Deo trinam dimensionem, dicitur enim [[Jb 11]], *excelsior caelo est, et quid facies? Profundior Inferno, et unde cognosces? Longior terra mensura eius, et latior mari*. Ergo Deus est corpus.]]
+![[LEO Ia, q. 3, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Deus sit corpus. Corpus enim est quod habet trinam dimensionem. Sed sacra Scriptura attribuit Deo trinam dimensionem, dicitur enim Iob XI, *excelsior caelo est, et quid facies? Profundior Inferno, et unde cognosces? Longior terra mensura eius, et latior mari*. Ergo Deus est corpus.]]
 ![[CERF Ia, q. 3, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 3, a. 1#arg. 2|Praeterea, omne figuratum est corpus, cum figura sit qualitas circa quantitatem. Sed Deus videtur esse figuratus, cum scriptum sit [[Gn 1]], *faciamus hominem ad imaginem et similitudinem nostram*, figura enim imago dicitur, secundum illud [[He 1]], *cum sit splendor gloriae, et figura substantiae eius*, idest imago. Ergo Deus est corpus.]]
+![[LEO Ia, q. 3, a. 1#arg. 2|Praeterea, omne figuratum est corpus, cum figura sit qualitas circa quantitatem. Sed Deus videtur esse figuratus, cum scriptum sit Gen. I, *faciamus hominem ad imaginem et similitudinem nostram*, figura enim imago dicitur, secundum illud Hebr. I, *cum sit splendor gloriae, et figura substantiae eius*, idest imago. Ergo Deus est corpus.]]
 ![[CERF Ia, q. 3, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 3, a. 1#arg. 3|Praeterea, omne quod habet partes corporeas, est corpus. Sed Scriptura attribuit Deo partes corporeas, dicitur enim [[Jb 40]], *si habes brachium ut Deus*; et in Psalmo, *oculi domini super iustos; et, dextera domini fecit virtutem*. Ergo Deus est corpus.]]
+![[LEO Ia, q. 3, a. 1#arg. 3|Praeterea, omne quod habet partes corporeas, est corpus. Sed Scriptura attribuit Deo partes corporeas, dicitur enim Iob XL, *si habes brachium ut Deus*; et in Psalmo, *oculi domini super iustos; et, dextera domini fecit virtutem*. Ergo Deus est corpus.]]
 ![[CERF Ia, q. 3, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 3, a. 1#arg. 4|Praeterea, situs non convenit nisi corpori. Sed ea quae ad situm pertinent, in Scripturis dicuntur de Deo, dicitur enim [[Is 6]], *vidi dominum sedentem*; et [[Is 6]], *stat ad iudicandum dominus*. Ergo Deus est corpus.]]
+![[LEO Ia, q. 3, a. 1#arg. 4|Praeterea, situs non convenit nisi corpori. Sed ea quae ad situm pertinent, in Scripturis dicuntur de Deo, dicitur enim Isaiae VI, *vidi dominum sedentem*; et Isaiae III, *stat ad iudicandum dominus*. Ergo Deus est corpus.]]
 ![[CERF Ia, q. 3, a. 1#arg. 4]]
 
 ###### arg. 5
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 3, a. 1#arg. 5]]
 
 ###### s.c.
-![[LEO Ia, q. 3, a. 1#s.c.|Sed contra est quod dicitur [[Jn 4]], *spiritus est Deus*.]]
+![[LEO Ia, q. 3, a. 1#s.c.|Sed contra est quod dicitur Ioan. IV, *spiritus est Deus*.]]
 ![[CERF Ia, q. 3, a. 1#s.c.]]
 
 ###### resp.
@@ -38,7 +38,7 @@ tags :
 ![[CERF Ia, q. 3, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO Ia, q. 3, a. 1#ad 2|Ad secundum dicendum quod homo dicitur esse ad imaginem Dei, non secundum corpus, sed secundum id quo homo excellit alia animalia, unde, [[Gn 1]], postquam dictum est, *faciamus hominem ad imaginem et similitudinem nostram*, subditur, *ut praesit piscibus maris,* et cetera. Excellit autem homo omnia animalia quantum ad rationem et intellectum. Unde secundum intellectum et rationem, quae sunt incorporea, homo est ad imaginem Dei.]]
+![[LEO Ia, q. 3, a. 1#ad 2|Ad secundum dicendum quod homo dicitur esse ad imaginem Dei, non secundum corpus, sed secundum id quo homo excellit alia animalia, unde, Gen. I, postquam dictum est, *faciamus hominem ad imaginem et similitudinem nostram*, subditur, *ut praesit piscibus maris,* et cetera. Excellit autem homo omnia animalia quantum ad rationem et intellectum. Unde secundum intellectum et rationem, quae sunt incorporea, homo est ad imaginem Dei.]]
 ![[CERF Ia, q. 3, a. 1#ad 2]]
 
 ###### ad 3

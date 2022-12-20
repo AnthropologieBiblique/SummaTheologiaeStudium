@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia-IIæ, q. 57, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 57, a. 5#arg. 3|Praeterea, virtus intellectualis est secundum quam contingit semper dicere verum, et nunquam falsum. Sed hoc non videtur contingere secundum prudentiam, non enim est humanum quod in consiliando de agendis nunquam erretur; cum humana agibilia sint contingentia aliter se habere. Unde dicitur [[Sg 9]], *cogitationes mortalium timidae, et incertae providentiae nostrae*. Ergo videtur quod prudentia non debeat poni intellectualis virtus.]]
+![[LEO Ia-IIæ, q. 57, a. 5#arg. 3|Praeterea, virtus intellectualis est secundum quam contingit semper dicere verum, et nunquam falsum. Sed hoc non videtur contingere secundum prudentiam, non enim est humanum quod in consiliando de agendis nunquam erretur; cum humana agibilia sint contingentia aliter se habere. Unde dicitur Sap. IX, *cogitationes mortalium timidae, et incertae providentiae nostrae*. Ergo videtur quod prudentia non debeat poni intellectualis virtus.]]
 ![[CERF Ia-IIæ, q. 57, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 57, a. 5#s.c.|Sed contra est quod [[Sg 8]], connumeratur aliis virtutibus necessariis ad vitam humanam, cum dicitur de divina sapientia, *sobrietatem et prudentiam docet, iustitiam et virtutem, quibus utilius nihil est in vita hominibus*.]]
+![[LEO Ia-IIæ, q. 57, a. 5#s.c.|Sed contra est quod Sap. VIII, connumeratur aliis virtutibus necessariis ad vitam humanam, cum dicitur de divina sapientia, *sobrietatem et prudentiam docet, iustitiam et virtutem, quibus utilius nihil est in vita hominibus*.]]
 ![[CERF Ia-IIæ, q. 57, a. 5#s.c.]]
 
 ###### resp.

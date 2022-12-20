@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 11, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod haeretici sint tolerandi. Dicit enim apostolus, [[2 Tm 2]], *servum Dei oportet mansuetum esse, cum modestia corripientem eos qui resistunt veritati, ne quando det illis poenitentiam Deus ad cognoscendam veritatem, et resipiscant a laqueis Diaboli*. Sed si haeretici non tolerantur, sed morti traduntur, aufertur eis facultas poenitendi. Ergo hoc videtur esse contra praeceptum apostoli.]]
+![[LEO IIa-IIæ, q. 11, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod haeretici sint tolerandi. Dicit enim apostolus, II ad Tim. II, *servum Dei oportet mansuetum esse, cum modestia corripientem eos qui resistunt veritati, ne quando det illis poenitentiam Deus ad cognoscendam veritatem, et resipiscant a laqueis Diaboli*. Sed si haeretici non tolerantur, sed morti traduntur, aufertur eis facultas poenitendi. Ergo hoc videtur esse contra praeceptum apostoli.]]
 ![[CERF IIa-IIæ, q. 11, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 11, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 11, a. 3#arg. 3|Praeterea, dominus mandavit, [[Mt 13]], servis suis ut zizania permitterent crescere usque ad messem, quae est finis saeculi, ut ibidem exponitur. Sed per zizania significantur haeretici, secundum expositionem sanctorum. Ergo haeretici sunt tolerandi.]]
+![[LEO IIa-IIæ, q. 11, a. 3#arg. 3|Praeterea, dominus mandavit, Matth. XIII, servis suis ut zizania permitterent crescere usque ad messem, quae est finis saeculi, ut ibidem exponitur. Sed per zizania significantur haeretici, secundum expositionem sanctorum. Ergo haeretici sunt tolerandi.]]
 ![[CERF IIa-IIæ, q. 11, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 11, a. 3#s.c.|Sed contra est quod apostolus dicit, ad [[Tt 3]], *haereticum hominem, post primam et secundam correptionem, devita, sciens quia subversus est qui eiusmodi est*.]]
+![[LEO IIa-IIæ, q. 11, a. 3#s.c.|Sed contra est quod apostolus dicit, ad Tit. III, *haereticum hominem, post primam et secundam correptionem, devita, sciens quia subversus est qui eiusmodi est*.]]
 ![[CERF IIa-IIæ, q. 11, a. 3#s.c.]]
 
 ###### resp.

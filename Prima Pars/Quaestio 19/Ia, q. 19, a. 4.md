@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 19, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 19, a. 4#s.c.|Sed contra est quod dicitur [[Sg 11]], *quomodo posset aliquid permanere, nisi tu voluisses?*]]
+![[LEO Ia, q. 19, a. 4#s.c.|Sed contra est quod dicitur Sap. XI, *quomodo posset aliquid permanere, nisi tu voluisses?*]]
 ![[CERF Ia, q. 19, a. 4#s.c.]]
 
 ###### resp.

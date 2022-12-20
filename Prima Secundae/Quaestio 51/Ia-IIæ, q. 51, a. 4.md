@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 51, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 51, a. 4#s.c.|Sed contra est quod dicitur [[Si 15]], *implevit eum dominus spiritu sapientiae et intellectus*. Sed sapientia et intellectus quidam habitus sunt. Ergo aliqui habitus homini a Deo infunduntur.]]
+![[LEO Ia-IIæ, q. 51, a. 4#s.c.|Sed contra est quod dicitur Eccli. XV, *implevit eum dominus spiritu sapientiae et intellectus*. Sed sapientia et intellectus quidam habitus sunt. Ergo aliqui habitus homini a Deo infunduntur.]]
 ![[CERF Ia-IIæ, q. 51, a. 4#s.c.]]
 
 ###### resp.

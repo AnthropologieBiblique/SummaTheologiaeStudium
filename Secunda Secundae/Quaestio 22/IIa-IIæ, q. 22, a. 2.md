@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 22, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 22, a. 2#s.c.|Sed contra est quod dicitur [[Dt 10]], *et nunc, Israel, quid dominus Deus tuus petit a te, nisi ut timeas dominum Deum tuum?* Sed illud a nobis requirit quod nobis praecipit observandum. Ergo sub praecepto cadit quod aliquis timeat Deum.]]
+![[LEO IIa-IIæ, q. 22, a. 2#s.c.|Sed contra est quod dicitur Deut. X, *et nunc, Israel, quid dominus Deus tuus petit a te, nisi ut timeas dominum Deum tuum?* Sed illud a nobis requirit quod nobis praecipit observandum. Ergo sub praecepto cadit quod aliquis timeat Deum.]]
 ![[CERF IIa-IIæ, q. 22, a. 2#s.c.]]
 
 ###### resp.

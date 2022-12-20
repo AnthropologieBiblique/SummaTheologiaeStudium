@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 17, a. 1#arg. 4]]
 
 ###### arg. 5
-![[LEO IIIa, q. 17, a. 1#arg. 5|Praeterea, sicut in mysterio Trinitatis sunt tres personae in una natura, ita in mysterio incarnationis sunt duae naturae in una persona. Sed propter unitatem naturae, non obstante distinctione personae, pater et filius sunt unum, secundum illud [[Jn 10]], *ego et pater unum sumus*. Ergo, non obstante unitate personae, propter dualitatem naturarum Christus est duo.]]
+![[LEO IIIa, q. 17, a. 1#arg. 5|Praeterea, sicut in mysterio Trinitatis sunt tres personae in una natura, ita in mysterio incarnationis sunt duae naturae in una persona. Sed propter unitatem naturae, non obstante distinctione personae, pater et filius sunt unum, secundum illud Ioan. X, *ego et pater unum sumus*. Ergo, non obstante unitate personae, propter dualitatem naturarum Christus est duo.]]
 ![[CERF IIIa, q. 17, a. 1#arg. 5]]
 
 ###### arg. 6

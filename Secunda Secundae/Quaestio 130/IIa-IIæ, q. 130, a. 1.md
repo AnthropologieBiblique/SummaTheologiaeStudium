@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 130, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod praesumptio non sit peccatum. Dicit enim apostolus, ad [[Ph 3]], *quae retro sunt obliviscens, ad anteriora me extendo*. Sed hoc videtur ad praesumptionem pertinere quod aliquis tendat in ea quae sunt supra seipsum. Ergo praesumptio non est peccatum.]]
+![[LEO IIa-IIæ, q. 130, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod praesumptio non sit peccatum. Dicit enim apostolus, ad Philipp. III, *quae retro sunt obliviscens, ad anteriora me extendo*. Sed hoc videtur ad praesumptionem pertinere quod aliquis tendat in ea quae sunt supra seipsum. Ergo praesumptio non est peccatum.]]
 ![[CERF IIa-IIæ, q. 130, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 130, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 130, a. 1#s.c.|Sed contra est quod dicitur [[Si 37]], *o praesumptio nequissima, unde creata es?* Ubi respondet Glossa, de mala scilicet voluntate creaturae. Sed omne quod procedit ex radice malae voluntatis est peccatum. Ergo praesumptio est peccatum.]]
+![[LEO IIa-IIæ, q. 130, a. 1#s.c.|Sed contra est quod dicitur Eccli. XXXVII, *o praesumptio nequissima, unde creata es?* Ubi respondet Glossa, de mala scilicet voluntate creaturae. Sed omne quod procedit ex radice malae voluntatis est peccatum. Ergo praesumptio est peccatum.]]
 ![[CERF IIa-IIæ, q. 130, a. 1#s.c.]]
 
 ###### resp.

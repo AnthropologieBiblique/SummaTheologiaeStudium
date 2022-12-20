@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 78, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 78, a. 2#arg. 3|Praeterea, in his quae aliquis ex certa malitia committit, gaudet postquam commisit, secundum illud [[Pr 2]], *qui laetantur cum male fecerint et exultant in rebus pessimis*. Et hoc ideo, quia unicuique est delectabile cum consequitur id quod intendit, et qui operatur quod est ei quodammodo connaturale secundum habitum. Sed illi qui peccant ex habitu, post peccatum commissum dolent, poenitudine enim replentur pravi, idest habentes habitum vitiosum, ut dicitur in IX Ethic. Ergo peccata quae sunt ex habitu, non sunt ex certa malitia.]]
+![[LEO Ia-IIæ, q. 78, a. 2#arg. 3|Praeterea, in his quae aliquis ex certa malitia committit, gaudet postquam commisit, secundum illud Prov. II, *qui laetantur cum male fecerint et exultant in rebus pessimis*. Et hoc ideo, quia unicuique est delectabile cum consequitur id quod intendit, et qui operatur quod est ei quodammodo connaturale secundum habitum. Sed illi qui peccant ex habitu, post peccatum commissum dolent, poenitudine enim replentur pravi, idest habentes habitum vitiosum, ut dicitur in IX Ethic. Ergo peccata quae sunt ex habitu, non sunt ex certa malitia.]]
 ![[CERF Ia-IIæ, q. 78, a. 2#arg. 3]]
 
 ###### s.c.

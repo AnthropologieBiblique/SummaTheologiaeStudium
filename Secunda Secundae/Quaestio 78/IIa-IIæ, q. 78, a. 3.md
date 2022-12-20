@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 78, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod quidquid aliquis de pecunia usuraria lucratus fuerit, reddere teneatur. Dicit enim apostolus, ad [[Rm 11]], *si radix sancta, et rami*. Ergo, eadem ratione, si radix infecta, et rami. Sed radix fuit usuraria. Ergo et quidquid ex ea acquisitum est, est usurarium. Ergo tenetur ad restitutionem illius.]]
+![[LEO IIa-IIæ, q. 78, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod quidquid aliquis de pecunia usuraria lucratus fuerit, reddere teneatur. Dicit enim apostolus, ad Rom. XI, *si radix sancta, et rami*. Ergo, eadem ratione, si radix infecta, et rami. Sed radix fuit usuraria. Ergo et quidquid ex ea acquisitum est, est usurarium. Ergo tenetur ad restitutionem illius.]]
 ![[CERF IIa-IIæ, q. 78, a. 3#arg. 1]]
 
 ###### arg. 2

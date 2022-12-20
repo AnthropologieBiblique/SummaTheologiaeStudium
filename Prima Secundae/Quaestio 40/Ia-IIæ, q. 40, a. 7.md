@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 40, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 40, a. 7#s.c.|Sed contra est quod [[Mt 1]], super illud, Abraham genuit Isaac, Isaac autem genuit Iacob, dicit Glossa, *idest, fides spem, spes caritatem*. Caritas autem est amor. Ergo amor causatur a spe.]]
+![[LEO Ia-IIæ, q. 40, a. 7#s.c.|Sed contra est quod Matth. I, super illud, Abraham genuit Isaac, Isaac autem genuit Iacob, dicit Glossa, *idest, fides spem, spes caritatem*. Caritas autem est amor. Ergo amor causatur a spe.]]
 ![[CERF Ia-IIæ, q. 40, a. 7#s.c.]]
 
 ###### resp.

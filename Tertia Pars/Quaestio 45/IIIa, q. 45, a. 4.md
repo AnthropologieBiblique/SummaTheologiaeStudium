@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 45, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod inconvenienter additum fuerit testimonium paternae vocis dicentis, *hic est filius meus dilectus*. Quia, ut dicitur [[Jb 33]], *semel loquitur Deus, et secundo idipsum non repetit*. Sed in Baptismo hoc ipsum paterna vox fuerat protestata. Non ergo fuit conveniens quod hoc iterum protestaretur in transfiguratione.]]
+![[LEO IIIa, q. 45, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod inconvenienter additum fuerit testimonium paternae vocis dicentis, *hic est filius meus dilectus*. Quia, ut dicitur Iob XXXIII, *semel loquitur Deus, et secundo idipsum non repetit*. Sed in Baptismo hoc ipsum paterna vox fuerat protestata. Non ergo fuit conveniens quod hoc iterum protestaretur in transfiguratione.]]
 ![[CERF IIIa, q. 45, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 45, a. 4#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 45, a. 4#arg. 4|Praeterea, non debent aliquibus dici ea quae ferre non possunt, secundum illud [[Jn 16]], *adhuc habeo vobis multa dicere, quae non potestis portare modo*. Sed discipuli vocem patris ferre non potuerunt, dicitur enim [[Mt 17]] quod *audientes discipuli ceciderunt in faciem suam et timuerunt valde*. Ergo non debuit vox paterna ad eos fieri.]]
+![[LEO IIIa, q. 45, a. 4#arg. 4|Praeterea, non debent aliquibus dici ea quae ferre non possunt, secundum illud Ioan. XVI, *adhuc habeo vobis multa dicere, quae non potestis portare modo*. Sed discipuli vocem patris ferre non potuerunt, dicitur enim Matth. XVII quod *audientes discipuli ceciderunt in faciem suam et timuerunt valde*. Ergo non debuit vox paterna ad eos fieri.]]
 ![[CERF IIIa, q. 45, a. 4#arg. 4]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 45, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 45, a. 4#resp.|Respondeo dicendum quod adoptio filiorum Dei est per quandam conformitatem imaginis ad Dei filium naturalem. Quod quidem fit dupliciter, primo quidem, per gratiam viae, quae est conformitas imperfecta; secundo, per gloriam, quae est conformitas perfecta; secundum illud [[1 Jn 3]], *nunc filii Dei sumus, et nondum apparuit quid erimus, scimus quoniam, cum apparuerit, similes ei erimus, quoniam videbimus eum sicuti est*. Quia igitur gratiam per Baptismum consequimur, in transfiguratione autem praemonstrata est claritas futurae gloriae, ideo tam in Baptismo quam in transfiguratione conveniens fuit manifestare naturalem Christi filiationem testimonio patris, quia solus est perfecte conscius illius perfectae generationis, simul cum filio et spiritu sancto.]]
+![[LEO IIIa, q. 45, a. 4#resp.|Respondeo dicendum quod adoptio filiorum Dei est per quandam conformitatem imaginis ad Dei filium naturalem. Quod quidem fit dupliciter, primo quidem, per gratiam viae, quae est conformitas imperfecta; secundo, per gloriam, quae est conformitas perfecta; secundum illud I Ioan. III, *nunc filii Dei sumus, et nondum apparuit quid erimus, scimus quoniam, cum apparuerit, similes ei erimus, quoniam videbimus eum sicuti est*. Quia igitur gratiam per Baptismum consequimur, in transfiguratione autem praemonstrata est claritas futurae gloriae, ideo tam in Baptismo quam in transfiguratione conveniens fuit manifestare naturalem Christi filiationem testimonio patris, quia solus est perfecte conscius illius perfectae generationis, simul cum filio et spiritu sancto.]]
 ![[CERF IIIa, q. 45, a. 4#resp.]]
 
 ###### ad 1
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIIa, q. 45, a. 4#ad 3]]
 
 ###### ad 4
-![[LEO IIIa, q. 45, a. 4#ad 4|Ad quartum dicendum quod conveniens fuit discipulos voce paterna terreri et prosterni, ut ostenderetur quod excellentia illius gloriae quae tunc demonstrabatur, excedit omnem sensum et facultatem mortalium, secundum illud [[Ex 33]], *non videbit me homo et vivet*. Et hoc est quod Hieronymus dicit, super Matth., quod *humana fragilitas conspectum maioris gloriae ferre non sustinet*. Ab hac autem fragilitate sanantur homines per Christum, eos in gloriam adducendo. Quod significatur per hoc quod dixit eis, *surgite, nolite timere*.]]
+![[LEO IIIa, q. 45, a. 4#ad 4|Ad quartum dicendum quod conveniens fuit discipulos voce paterna terreri et prosterni, ut ostenderetur quod excellentia illius gloriae quae tunc demonstrabatur, excedit omnem sensum et facultatem mortalium, secundum illud Exod. XXXIII, *non videbit me homo et vivet*. Et hoc est quod Hieronymus dicit, super Matth., quod *humana fragilitas conspectum maioris gloriae ferre non sustinet*. Ab hac autem fragilitate sanantur homines per Christum, eos in gloriam adducendo. Quod significatur per hoc quod dixit eis, *surgite, nolite timere*.]]
 ![[CERF IIIa, q. 45, a. 4#ad 4]]
 

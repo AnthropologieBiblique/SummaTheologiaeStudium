@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 100, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non omnia praecepta moralia veteris legis reducantur ad decem praecepta Decalogi. Prima enim et principalia legis praecepta sunt, diliges dominum Deum tuum, et, diliges proximum tuum, ut habetur [[Mt 22]]. Sed ista duo non continentur in praeceptis Decalogi. Ergo non omnia praecepta moralia continentur in praeceptis Decalogi.]]
+![[LEO Ia-IIæ, q. 100, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non omnia praecepta moralia veteris legis reducantur ad decem praecepta Decalogi. Prima enim et principalia legis praecepta sunt, diliges dominum Deum tuum, et, diliges proximum tuum, ut habetur Matth. XXII. Sed ista duo non continentur in praeceptis Decalogi. Ergo non omnia praecepta moralia continentur in praeceptis Decalogi.]]
 ![[CERF Ia-IIæ, q. 100, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 100, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 100, a. 3#s.c.|Sed contra est quod, [[Mt 5]], super illud, *beati estis cum maledixerint* etc., dicit Glossa quod *Moyses, decem praecepta proponens, postea per partes explicat*. Ergo omnia praecepta legis sunt quaedam partes praeceptorum Decalogi.]]
+![[LEO Ia-IIæ, q. 100, a. 3#s.c.|Sed contra est quod, Matth. V, super illud, *beati estis cum maledixerint* etc., dicit Glossa quod *Moyses, decem praecepta proponens, postea per partes explicat*. Ergo omnia praecepta legis sunt quaedam partes praeceptorum Decalogi.]]
 ![[CERF Ia-IIæ, q. 100, a. 3#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 100, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 100, a. 3#ad 2|Ad secundum dicendum quod praeceptum de observatione sabbati est secundum aliquid morale, inquantum scilicet per hoc praecipitur quod homo aliquo tempore vacet rebus divinis; secundum illud [[Ps 45]], *vacate, et videte quoniam ego sum Deus*. Et secundum hoc, inter praecepta Decalogi computatur. Non autem quantum ad taxationem temporis, quia secundum hoc est caeremoniale.]]
+![[LEO Ia-IIæ, q. 100, a. 3#ad 2|Ad secundum dicendum quod praeceptum de observatione sabbati est secundum aliquid morale, inquantum scilicet per hoc praecipitur quod homo aliquo tempore vacet rebus divinis; secundum illud Psalmi XLV, *vacate, et videte quoniam ego sum Deus*. Et secundum hoc, inter praecepta Decalogi computatur. Non autem quantum ad taxationem temporis, quia secundum hoc est caeremoniale.]]
 ![[CERF Ia-IIæ, q. 100, a. 3#ad 2]]
 
 ###### ad 3

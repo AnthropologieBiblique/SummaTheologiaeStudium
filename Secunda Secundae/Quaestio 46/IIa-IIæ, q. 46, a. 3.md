@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 46, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 46, a. 3#s.c.|Sed contra est quod dicitur [[Pr 7]], statim eam sequitur, scilicet meretricem, ignorans quod ad vincula stultus trahatur.]]
+![[LEO IIa-IIæ, q. 46, a. 3#s.c.|Sed contra est quod dicitur Prov. VII, statim eam sequitur, scilicet meretricem, ignorans quod ad vincula stultus trahatur.]]
 ![[CERF IIa-IIæ, q. 46, a. 3#s.c.]]
 
 ###### resp.

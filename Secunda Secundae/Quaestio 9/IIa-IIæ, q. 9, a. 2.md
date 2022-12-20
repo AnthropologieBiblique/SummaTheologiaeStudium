@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 9, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 9, a. 2#arg. 3|Praeterea, sicut dicitur [[Rm 1]], *invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Si igitur est scientia circa res creatas, videtur quod etiam sit circa res divinas.]]
+![[LEO IIa-IIæ, q. 9, a. 2#arg. 3|Praeterea, sicut dicitur Rom. I, *invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Si igitur est scientia circa res creatas, videtur quod etiam sit circa res divinas.]]
 ![[CERF IIa-IIæ, q. 9, a. 2#arg. 3]]
 
 ###### s.c.

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 68, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 68, a. 8#arg. 3|Praeterea, ad Baptismum requiritur intentio suscipiendi sacramentum. Sed hoc non potest esse sine recta fide, cum Baptismus sit rectae fidei sacramentum, per eum enim incorporantur homines Christo, ut Augustinus dicit, in libro de Baptismo parvulorum; hoc autem esse non potest sine recta fide, secundum illud [[Ep 3]], *habitare Christum per fidem in cordibus vestris*. Ergo videtur quod ille qui non habet rectam fidem, non possit suscipere sacramentum Baptismi.]]
+![[LEO IIIa, q. 68, a. 8#arg. 3|Praeterea, ad Baptismum requiritur intentio suscipiendi sacramentum. Sed hoc non potest esse sine recta fide, cum Baptismus sit rectae fidei sacramentum, per eum enim incorporantur homines Christo, ut Augustinus dicit, in libro de Baptismo parvulorum; hoc autem esse non potest sine recta fide, secundum illud Ephes. III, *habitare Christum per fidem in cordibus vestris*. Ergo videtur quod ille qui non habet rectam fidem, non possit suscipere sacramentum Baptismi.]]
 ![[CERF IIIa, q. 68, a. 8#arg. 3]]
 
 ###### arg. 4
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 68, a. 8#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 68, a. 8#resp.|Respondeo dicendum quod, sicut ex dictis patet, duo efficiuntur in anima per Baptismum, scilicet character et gratia. Dupliciter ergo aliquid ex necessitate requiritur ad Baptismum. Uno modo, sine quo gratia haberi non potest, quae est ultimus effectus sacramenti. Et hoc modo recta fides ex necessitate requiritur ad Baptismum, quia, sicut dicitur [[Rm 3]], *iustitia Dei est per fidem Iesu Christi*. Alio modo requiritur aliquid ex necessitate ad Baptismum, sine quo character Baptismi imprimi non potest. Et sic recta fides baptizati non requiritur ex necessitate ad Baptismum, sicut nec recta fides baptizantis, dummodo adsint cetera quae sunt de necessitate sacramenti. Non enim sacramentum perficitur per iustitiam hominis dantis vel suscipientis Baptismum, sed per virtutem Dei.]]
+![[LEO IIIa, q. 68, a. 8#resp.|Respondeo dicendum quod, sicut ex dictis patet, duo efficiuntur in anima per Baptismum, scilicet character et gratia. Dupliciter ergo aliquid ex necessitate requiritur ad Baptismum. Uno modo, sine quo gratia haberi non potest, quae est ultimus effectus sacramenti. Et hoc modo recta fides ex necessitate requiritur ad Baptismum, quia, sicut dicitur Rom. III, *iustitia Dei est per fidem Iesu Christi*. Alio modo requiritur aliquid ex necessitate ad Baptismum, sine quo character Baptismi imprimi non potest. Et sic recta fides baptizati non requiritur ex necessitate ad Baptismum, sicut nec recta fides baptizantis, dummodo adsint cetera quae sunt de necessitate sacramenti. Non enim sacramentum perficitur per iustitiam hominis dantis vel suscipientis Baptismum, sed per virtutem Dei.]]
 ![[CERF IIIa, q. 68, a. 8#resp.]]
 
 ###### ad 1
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIIa, q. 68, a. 8#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 68, a. 8#ad 2|Ad secundum dicendum quod Ecclesia intendit homines baptizare ut emundentur a peccato, secundum illud [[Is 27]], *hic est omnis fructus, ut auferatur peccatum*. Et ideo, quantum est de se, non intendit dare Baptismum nisi habentibus rectam fidem, sine qua non est remissio peccatorum. Et propter hoc interrogat ad Baptismum accedentes, an credant. Si tamen sine recta fide aliquis Baptismum suscipiat extra Ecclesiam, non percipit illud ad suam salutem. Unde Augustinus dicit, *Ecclesia Paradiso comparata indicat nobis posse quidem Baptismum eius homines etiam foris accipere, sed salutem beatitudinis extra eam neminem percipere vel tenere*.]]
+![[LEO IIIa, q. 68, a. 8#ad 2|Ad secundum dicendum quod Ecclesia intendit homines baptizare ut emundentur a peccato, secundum illud Isaiae XXVII, *hic est omnis fructus, ut auferatur peccatum*. Et ideo, quantum est de se, non intendit dare Baptismum nisi habentibus rectam fidem, sine qua non est remissio peccatorum. Et propter hoc interrogat ad Baptismum accedentes, an credant. Si tamen sine recta fide aliquis Baptismum suscipiat extra Ecclesiam, non percipit illud ad suam salutem. Unde Augustinus dicit, *Ecclesia Paradiso comparata indicat nobis posse quidem Baptismum eius homines etiam foris accipere, sed salutem beatitudinis extra eam neminem percipere vel tenere*.]]
 ![[CERF IIIa, q. 68, a. 8#ad 2]]
 
 ###### ad 3

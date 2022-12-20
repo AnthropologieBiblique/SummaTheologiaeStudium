@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia, q. 4, a. 3#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 4, a. 3#arg. 4|Praeterea, in similibus est mutua similitudo, nam simile est simili simile. Si igitur aliqua creatura est similis Deo, et Deus erit similis alicui creaturae. Quod est contra id quod dicitur [[Is 40]], *cui similem fecistis Deum?*]]
+![[LEO Ia, q. 4, a. 3#arg. 4|Praeterea, in similibus est mutua similitudo, nam simile est simili simile. Si igitur aliqua creatura est similis Deo, et Deus erit similis alicui creaturae. Quod est contra id quod dicitur Isaiae XL, *cui similem fecistis Deum?*]]
 ![[CERF Ia, q. 4, a. 3#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 4, a. 3#s.c.|Sed contra est quod dicitur [[Gn 1]], *faciamus hominem ad imaginem et similitudinem nostram*; et [[1 Jn 3]], *cum apparuerit, similes ei erimus*.]]
+![[LEO Ia, q. 4, a. 3#s.c.|Sed contra est quod dicitur Gen. I, *faciamus hominem ad imaginem et similitudinem nostram*; et I Ioann. III, *cum apparuerit, similes ei erimus*.]]
 ![[CERF Ia, q. 4, a. 3#s.c.]]
 
 ###### resp.

@@ -26,11 +26,11 @@ tags :
 ![[CERF IIa-IIæ, q. 168, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 168, a. 2#ad 1|Ad primum ergo dicendum quod, sicut dictum est, iocosa debent congruere negotiis et personis. Unde et Tullius dicit, in I Rhet., quod quando auditores sunt defatigati, *non est inutile ab aliqua re nova aut ridicula oratorem incipere, si tamen rei dignitas non adimit iocandi facultatem*. Doctrina autem sacra maximis rebus intendit, secundum illud [[Pr 8]], *audite, quoniam de rebus magnis locutura sum*. Unde Ambrosius non excludit universaliter iocum a conversatione humana, sed a doctrina sacra. Unde praemittit, *licet interdum honesta ioca ac suavia sint, tamen ab ecclesiastica abhorrent regula, quoniam quae in Scripturis sanctis non reperimus, ea quem ad modum usurpare possumus?*]]
+![[LEO IIa-IIæ, q. 168, a. 2#ad 1|Ad primum ergo dicendum quod, sicut dictum est, iocosa debent congruere negotiis et personis. Unde et Tullius dicit, in I Rhet., quod quando auditores sunt defatigati, *non est inutile ab aliqua re nova aut ridicula oratorem incipere, si tamen rei dignitas non adimit iocandi facultatem*. Doctrina autem sacra maximis rebus intendit, secundum illud Prov. VIII, *audite, quoniam de rebus magnis locutura sum*. Unde Ambrosius non excludit universaliter iocum a conversatione humana, sed a doctrina sacra. Unde praemittit, *licet interdum honesta ioca ac suavia sint, tamen ab ecclesiastica abhorrent regula, quoniam quae in Scripturis sanctis non reperimus, ea quem ad modum usurpare possumus?*]]
 ![[CERF IIa-IIæ, q. 168, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 168, a. 2#ad 2|Ad secundum dicendum quod verbum illud Chrysostomi est intelligendum de illis qui inordinate ludis utuntur, et praecipue eorum qui finem in delectatione ludi constituunt, sicut de quibusdam dicitur [[Sg 15]], *aestimaverunt esse ludum vitam nostram*. Contra quod dicit Tullius, in I de Offic., *non ita generati a natura sumus ut ad ludum et iocum facti esse videamur, sed ad severitatem potius, et ad quaedam studia graviora atque maiora*.]]
+![[LEO IIa-IIæ, q. 168, a. 2#ad 2|Ad secundum dicendum quod verbum illud Chrysostomi est intelligendum de illis qui inordinate ludis utuntur, et praecipue eorum qui finem in delectatione ludi constituunt, sicut de quibusdam dicitur Sap. XV, *aestimaverunt esse ludum vitam nostram*. Contra quod dicit Tullius, in I de Offic., *non ita generati a natura sumus ut ad ludum et iocum facti esse videamur, sed ad severitatem potius, et ad quaedam studia graviora atque maiora*.]]
 ![[CERF IIa-IIæ, q. 168, a. 2#ad 2]]
 
 ###### ad 3

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 49, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 49, a. 8#s.c.|Sed contra est quod apostolus dicit, ad [[Ep 5]], *videte quomodo caute ambuletis*.]]
+![[LEO IIa-IIæ, q. 49, a. 8#s.c.|Sed contra est quod apostolus dicit, ad Ephes. V, *videte quomodo caute ambuletis*.]]
 ![[CERF IIa-IIæ, q. 49, a. 8#s.c.]]
 
 ###### resp.

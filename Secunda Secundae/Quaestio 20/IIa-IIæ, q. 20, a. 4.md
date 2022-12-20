@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 20, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 20, a. 4#arg. 2|Praeterea, sicut spei opponitur desperatio, ita gaudio spirituali opponitur acedia. Sed gaudium spirituale procedit ex spe, secundum illud [[Rm 12]], *spe gaudentes*. Ergo acedia procedit ex desperatione, et non e converso.]]
+![[LEO IIa-IIæ, q. 20, a. 4#arg. 2|Praeterea, sicut spei opponitur desperatio, ita gaudio spirituali opponitur acedia. Sed gaudium spirituale procedit ex spe, secundum illud Rom. XII, *spe gaudentes*. Ergo acedia procedit ex desperatione, et non e converso.]]
 ![[CERF IIa-IIæ, q. 20, a. 4#arg. 2]]
 
 ###### arg. 3

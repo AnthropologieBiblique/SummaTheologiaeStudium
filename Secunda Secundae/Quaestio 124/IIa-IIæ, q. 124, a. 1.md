@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 124, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 124, a. 1#s.c.|Sed contra est quod praemium beatitudinis non debetur nisi actui virtutis. Debetur autem martyrio, secundum illud [[Mt 5]], *beati qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est regnum caelorum*. Ergo martyrium est actus virtutis.]]
+![[LEO IIa-IIæ, q. 124, a. 1#s.c.|Sed contra est quod praemium beatitudinis non debetur nisi actui virtutis. Debetur autem martyrio, secundum illud Matth. V, *beati qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est regnum caelorum*. Ergo martyrium est actus virtutis.]]
 ![[CERF IIa-IIæ, q. 124, a. 1#s.c.]]
 
 ###### resp.

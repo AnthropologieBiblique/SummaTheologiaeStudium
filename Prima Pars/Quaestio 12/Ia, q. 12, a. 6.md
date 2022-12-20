@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia, q. 12, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod videntium essentiam Dei unus alio perfectius non videat. Dicitur enim [[1 Jn 3]], *videbimus eum sicuti est*. Sed ipse uno modo est. Ergo uno modo videbitur ab omnibus. Non ergo perfectius et minus perfecte.]]
+![[LEO Ia, q. 12, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod videntium essentiam Dei unus alio perfectius non videat. Dicitur enim I Ioan. III, *videbimus eum sicuti est*. Sed ipse uno modo est. Ergo uno modo videbitur ab omnibus. Non ergo perfectius et minus perfecte.]]
 ![[CERF Ia, q. 12, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 12, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 12, a. 6#s.c.|Sed contra est quod vita aeterna in visione Dei consistit, secundum illud [[Jn 17]], *haec est vita aeterna,* et cetera. Ergo, si omnes aequaliter Dei essentiam vident, in vita aeterna omnes erunt aequales. Cuius contrarium dicit apostolus, [[1 Co 15]], *stella differt a stella in claritate*.]]
+![[LEO Ia, q. 12, a. 6#s.c.|Sed contra est quod vita aeterna in visione Dei consistit, secundum illud Ioan. XVII, *haec est vita aeterna,* et cetera. Ergo, si omnes aequaliter Dei essentiam vident, in vita aeterna omnes erunt aequales. Cuius contrarium dicit apostolus, I Cor. XV, *stella differt a stella in claritate*.]]
 ![[CERF Ia, q. 12, a. 6#s.c.]]
 
 ###### resp.

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 124, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 124, a. 4#arg. 3|Praeterea, martyrium est fortitudinis actus. Ad fortitudinem autem pertinet non solum mortem non formidare, sed nec alias adversitates, ut Augustinus dicit, in VI musicae. Sed multae sunt aliae adversitates praeter mortem, quas aliqui possunt sustinere pro fide Christi, sicut carcerem, exilium, rapinam bonorum, ut patet ad [[He 10]]. Unde et sancti Marcelli Papae martyrium celebratur, qui tamen fuit in carcere mortuus. Ergo non est de necessitate martyrii quod aliquis sustineat poenam mortis.]]
+![[LEO IIa-IIæ, q. 124, a. 4#arg. 3|Praeterea, martyrium est fortitudinis actus. Ad fortitudinem autem pertinet non solum mortem non formidare, sed nec alias adversitates, ut Augustinus dicit, in VI musicae. Sed multae sunt aliae adversitates praeter mortem, quas aliqui possunt sustinere pro fide Christi, sicut carcerem, exilium, rapinam bonorum, ut patet ad Heb. X. Unde et sancti Marcelli Papae martyrium celebratur, qui tamen fuit in carcere mortuus. Ergo non est de necessitate martyrii quod aliquis sustineat poenam mortis.]]
 ![[CERF IIa-IIæ, q. 124, a. 4#arg. 3]]
 
 ###### arg. 4
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 124, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 124, a. 4#resp.|Respondeo dicendum quod, sicut dictum est, martyr dicitur quasi testis fidei Christianae, per quam nobis visibilia pro invisibilibus contemnenda proponuntur, ut dicitur [[He 11]]. Ad martyrium ergo pertinet ut homo testificetur fidem, se opere ostendens cuncta praesentia contemnere, ut ad futura et ad invisibilia bona perveniat. Quandiu autem homini remanet vita corporalis, nondum opere se ostendit temporalia cuncta despicere, consueverunt enim homines et consanguineos et omnia bona possessa contemnere, et etiam dolores corporis pati, ut vitam conservent. Unde et Satan contra Iob induxit, *pellem pro pelle, et cuncta quae habet homo, dabit pro anima sua*, idest pro vita corporali. Et ideo ad perfectam rationem martyrii requiritur quod aliquis mortem sustineat propter Christum.]]
+![[LEO IIa-IIæ, q. 124, a. 4#resp.|Respondeo dicendum quod, sicut dictum est, martyr dicitur quasi testis fidei Christianae, per quam nobis visibilia pro invisibilibus contemnenda proponuntur, ut dicitur Heb. XI. Ad martyrium ergo pertinet ut homo testificetur fidem, se opere ostendens cuncta praesentia contemnere, ut ad futura et ad invisibilia bona perveniat. Quandiu autem homini remanet vita corporalis, nondum opere se ostendit temporalia cuncta despicere, consueverunt enim homines et consanguineos et omnia bona possessa contemnere, et etiam dolores corporis pati, ut vitam conservent. Unde et Satan contra Iob induxit, *pellem pro pelle, et cuncta quae habet homo, dabit pro anima sua*, idest pro vita corporali. Et ideo ad perfectam rationem martyrii requiritur quod aliquis mortem sustineat propter Christum.]]
 ![[CERF IIa-IIæ, q. 124, a. 4#resp.]]
 
 ###### ad 1

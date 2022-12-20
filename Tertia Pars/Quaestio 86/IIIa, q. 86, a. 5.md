@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 86, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 86, a. 5#s.c.|Sed contra est quod [[Mc 8]] legitur quod caecus illuminatus a domino, primo restitutus est ad imperfectum visum, unde ait, *video homines velut arbores ambulare*; deinde restitutus est perfecte, ita ut videret clare omnia. Illuminatio autem caeci significat liberationem peccatoris. Post primam ergo remissionem culpae, qua peccator restituitur ad visum spiritualem, adhuc remanent in eo reliquiae aliquae peccati praeteriti.]]
+![[LEO IIIa, q. 86, a. 5#s.c.|Sed contra est quod Marci VIII legitur quod caecus illuminatus a domino, primo restitutus est ad imperfectum visum, unde ait, *video homines velut arbores ambulare*; deinde restitutus est perfecte, ita ut videret clare omnia. Illuminatio autem caeci significat liberationem peccatoris. Post primam ergo remissionem culpae, qua peccator restituitur ad visum spiritualem, adhuc remanent in eo reliquiae aliquae peccati praeteriti.]]
 ![[CERF IIIa, q. 86, a. 5#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 86, a. 5#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 86, a. 5#ad 1|Ad primum ergo dicendum quod Deus totum hominem perfecte curat, sed quandoque subito, sicut socrum Petri statim restituit perfectae sanitati, ita ut surgens ministraret ei, ut legitur [[Lc 4]]; quandoque autem successive, sicut dictum est de caeco illuminato, [[Mc 8]]. Et ita etiam spiritualiter quandoque tanta commotione convertit cor hominis ut subito perfecte consequatur sanitatem spiritualem, non solum remissa culpa, sed sublatis omnibus peccati reliquiis, ut patet de Magdalena, [[Lc 4]]. Quandoque autem prius remittit culpam per gratiam operantem, et postea per gratiam cooperantem successive tollit peccati reliquias.]]
+![[LEO IIIa, q. 86, a. 5#ad 1|Ad primum ergo dicendum quod Deus totum hominem perfecte curat, sed quandoque subito, sicut socrum Petri statim restituit perfectae sanitati, ita ut surgens ministraret ei, ut legitur Luc. IV; quandoque autem successive, sicut dictum est de caeco illuminato, Marci VIII. Et ita etiam spiritualiter quandoque tanta commotione convertit cor hominis ut subito perfecte consequatur sanitatem spiritualem, non solum remissa culpa, sed sublatis omnibus peccati reliquiis, ut patet de Magdalena, Luc. VII. Quandoque autem prius remittit culpam per gratiam operantem, et postea per gratiam cooperantem successive tollit peccati reliquias.]]
 ![[CERF IIIa, q. 86, a. 5#ad 1]]
 
 ###### ad 2

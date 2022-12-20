@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia, q. 94, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod homo in primo statu decipi potuisset. Dicit enim apostolus, [[1 Tm 2]], quod *mulier seducta in praevaricatione fuit*.]]
+![[LEO Ia, q. 94, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod homo in primo statu decipi potuisset. Dicit enim apostolus, I ad Tim. II, quod *mulier seducta in praevaricatione fuit*.]]
 ![[CERF Ia, q. 94, a. 4#arg. 1]]
 
 ###### arg. 2

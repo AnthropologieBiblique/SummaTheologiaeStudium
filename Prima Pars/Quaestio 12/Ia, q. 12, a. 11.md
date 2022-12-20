@@ -6,11 +6,11 @@ tags :
 ### Articulus 11
 
 ###### arg. 1
-![[LEO Ia, q. 12, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod aliquis in hac vita possit Deum per essentiam videre. Dicit enim Iacob, [[Gn 32]], *vidi Deum facie ad faciem*. Sed videre facie ad faciem, est videre per essentiam, ut patet per illud quod dicitur [[1 Co 13]], *videmus nunc per speculum et in aenigmate, tunc autem facie ad faciem*. Ergo Deus in hac vita per essentiam videri potest.]]
+![[LEO Ia, q. 12, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod aliquis in hac vita possit Deum per essentiam videre. Dicit enim Iacob, Gen. XXXII, *vidi Deum facie ad faciem*. Sed videre facie ad faciem, est videre per essentiam, ut patet per illud quod dicitur I Cor. XIII, *videmus nunc per speculum et in aenigmate, tunc autem facie ad faciem*. Ergo Deus in hac vita per essentiam videri potest.]]
 ![[CERF Ia, q. 12, a. 11#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 12, a. 11#arg. 2|Praeterea, [[Nb 12]] dicit dominus de Moyse, *ore ad os loquor ei, et palam, et non per aenigmata et figuras, videt Deum*. Sed hoc est videre Deum per essentiam. Ergo aliquis in statu huius vitae potest Deum per essentiam videre.]]
+![[LEO Ia, q. 12, a. 11#arg. 2|Praeterea, Num. XII dicit dominus de Moyse, *ore ad os loquor ei, et palam, et non per aenigmata et figuras, videt Deum*. Sed hoc est videre Deum per essentiam. Ergo aliquis in statu huius vitae potest Deum per essentiam videre.]]
 ![[CERF Ia, q. 12, a. 11#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 12, a. 11#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 12, a. 11#s.c.|Sed contra est quod dicitur [[Ex 33]], *non videbit me homo et vivet*. Glossa, *quandiu hic mortaliter vivitur, videri per quasdam imagines Deus potest; sed per ipsam naturae suae speciem non potest*.]]
+![[LEO Ia, q. 12, a. 11#s.c.|Sed contra est quod dicitur Exod. XXXIII, *non videbit me homo et vivet*. Glossa, *quandiu hic mortaliter vivitur, videri per quasdam imagines Deus potest; sed per ipsam naturae suae speciem non potest*.]]
 ![[CERF Ia, q. 12, a. 11#s.c.]]
 
 ###### resp.

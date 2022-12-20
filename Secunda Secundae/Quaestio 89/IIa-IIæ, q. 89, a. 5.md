@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 89, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 89, a. 5#s.c.|Sed contra est quod dicitur [[Si 23]], *vir multum iurans replebitur iniquitate*. Et Augustinus dicit, in libro de mendacio, quod praeceptum domini de prohibitione iuramenti *ad hoc positum est ut, quantum in te est, non affectes, non, quasi pro bono, cum aliqua delectatione appetas iusiurandum*.]]
+![[LEO IIa-IIæ, q. 89, a. 5#s.c.|Sed contra est quod dicitur Eccli. XXIII, *vir multum iurans replebitur iniquitate*. Et Augustinus dicit, in libro de mendacio, quod praeceptum domini de prohibitione iuramenti *ad hoc positum est ut, quantum in te est, non affectes, non, quasi pro bono, cum aliqua delectatione appetas iusiurandum*.]]
 ![[CERF IIa-IIæ, q. 89, a. 5#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 89, a. 5#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 89, a. 5#ad 3|Ad tertium dicendum quod sicut medicina est utilis ad sanandum, et tamen quanto est virtuosior, tanto maius nocumentum inducit si non debite sumatur; ita etiam iuramentum utile quidem est ad confirmationem, tamen quanto est magis venerandum, tanto est magis periculosum nisi debite inducatur. Quia, ut dicitur [[Si 23]], si frustraverit, idest deceperit fratrem, delictum illius supra ipsum erit; et si dissimulaverit, quasi per simulationem iurando falsum, delinquit dupliciter (quia scilicet simulata aequitas est duplex iniquitas); et si in vanum iuraverit, idest sine debita causa et necessitate, non iustificabitur.]]
+![[LEO IIa-IIæ, q. 89, a. 5#ad 3|Ad tertium dicendum quod sicut medicina est utilis ad sanandum, et tamen quanto est virtuosior, tanto maius nocumentum inducit si non debite sumatur; ita etiam iuramentum utile quidem est ad confirmationem, tamen quanto est magis venerandum, tanto est magis periculosum nisi debite inducatur. Quia, ut dicitur Eccli. XXIII, si frustraverit, idest deceperit fratrem, delictum illius supra ipsum erit; et si dissimulaverit, quasi per simulationem iurando falsum, delinquit dupliciter (quia scilicet simulata aequitas est duplex iniquitas); et si in vanum iuraverit, idest sine debita causa et necessitate, non iustificabitur.]]
 ![[CERF IIa-IIæ, q. 89, a. 5#ad 3]]
 

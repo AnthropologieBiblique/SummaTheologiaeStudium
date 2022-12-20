@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 69, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod per Baptismum non liberetur homo ab omni reatu peccati. Dicit enim apostolus, [[Rm 13]], *quae a Deo sunt, ordinata sunt*. Sed culpa non ordinatur nisi per poenam, ut Augustinus dicit. Ergo per Baptismum non tollitur reatus poenae praecedentium peccatorum.]]
+![[LEO IIIa, q. 69, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod per Baptismum non liberetur homo ab omni reatu peccati. Dicit enim apostolus, Rom. XIII, *quae a Deo sunt, ordinata sunt*. Sed culpa non ordinatur nisi per poenam, ut Augustinus dicit. Ergo per Baptismum non tollitur reatus poenae praecedentium peccatorum.]]
 ![[CERF IIIa, q. 69, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 69, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 69, a. 2#s.c.|Sed contra est quod Ambrosius dicit, super illud [[Rm 11]], *sine poenitentia sunt dona Dei et vocatio*, gratia, inquit, Dei in Baptismo omnia gratis condonat.]]
+![[LEO IIIa, q. 69, a. 2#s.c.|Sed contra est quod Ambrosius dicit, super illud Rom. XI, *sine poenitentia sunt dona Dei et vocatio*, gratia, inquit, Dei in Baptismo omnia gratis condonat.]]
 ![[CERF IIIa, q. 69, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 69, a. 2#resp.|Respondeo dicendum quod, sicut supra dictum est, per Baptismum aliquis incorporatur passioni et morti Christi, secundum illud [[Rm 6]], *si mortui sumus cum Christo, credimus quia etiam simul vivemus cum Christo*. Ex quo patet quod omni baptizato communicatur passio Christi ad remedium ac si ipse passus et mortuus esset. Passio autem Christi, sicut supra dictum est, est sufficiens satisfactio pro omnibus peccatis omnium hominum. Et ideo ille qui baptizatur liberatur a reatu omnis poenae sibi debitae pro peccatis, ac si ipse sufficienter satisfecisset pro omnibus peccatis suis.]]
+![[LEO IIIa, q. 69, a. 2#resp.|Respondeo dicendum quod, sicut supra dictum est, per Baptismum aliquis incorporatur passioni et morti Christi, secundum illud Rom. VI, *si mortui sumus cum Christo, credimus quia etiam simul vivemus cum Christo*. Ex quo patet quod omni baptizato communicatur passio Christi ad remedium ac si ipse passus et mortuus esset. Passio autem Christi, sicut supra dictum est, est sufficiens satisfactio pro omnibus peccatis omnium hominum. Et ideo ille qui baptizatur liberatur a reatu omnis poenae sibi debitae pro peccatis, ac si ipse sufficienter satisfecisset pro omnibus peccatis suis.]]
 ![[CERF IIIa, q. 69, a. 2#resp.]]
 
 ###### ad 1

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 4, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 4, a. 1#arg. 3|Praeterea, in natura angelica invenitur expressior Dei similitudo quam in natura humana, sicut Gregorius dicit, in homilia de centum ovibus, introducens illud [[Ez 28]], *tu signaculum similitudinis*. Invenitur etiam in Angelo peccatum, sicut in homine, secundum illud [[Jb 4]], *in Angelis suis reperit pravitatem*. Ergo natura angelica fuit ita assumptibilis sicut natura hominis.]]
+![[LEO IIIa, q. 4, a. 1#arg. 3|Praeterea, in natura angelica invenitur expressior Dei similitudo quam in natura humana, sicut Gregorius dicit, in homilia de centum ovibus, introducens illud Ezech. XXVIII, *tu signaculum similitudinis*. Invenitur etiam in Angelo peccatum, sicut in homine, secundum illud Iob IV, *in Angelis suis reperit pravitatem*. Ergo natura angelica fuit ita assumptibilis sicut natura hominis.]]
 ![[CERF IIIa, q. 4, a. 1#arg. 3]]
 
 ###### arg. 4
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 4, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 4, a. 1#s.c.|Sed contra est quod dicitur [[Pr 8]], ex ore sapientiae genitae, *deliciae meae esse cum filiis hominum*. Et ita videtur esse quaedam congruentia unionis filii Dei ad humanam naturam.]]
+![[LEO IIIa, q. 4, a. 1#s.c.|Sed contra est quod dicitur Prov. VIII, ex ore sapientiae genitae, *deliciae meae esse cum filiis hominum*. Et ita videtur esse quaedam congruentia unionis filii Dei ad humanam naturam.]]
 ![[CERF IIIa, q. 4, a. 1#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 48, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod passio Christi non causaverit nostram salutem per modum satisfactionis. Eiusdem enim videtur esse satisfacere cuius est peccare, sicut patet in aliis poenitentiae partibus; eiusdem enim est conteri et confiteri cuius est peccare. Sed Christus non peccavit, secundum illud [[1 P 2]], *qui peccatum non fecit*. Ergo ipse non satisfecit propria passione.]]
+![[LEO IIIa, q. 48, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod passio Christi non causaverit nostram salutem per modum satisfactionis. Eiusdem enim videtur esse satisfacere cuius est peccare, sicut patet in aliis poenitentiae partibus; eiusdem enim est conteri et confiteri cuius est peccare. Sed Christus non peccavit, secundum illud I Pet. II, *qui peccatum non fecit*. Ergo ipse non satisfecit propria passione.]]
 ![[CERF IIIa, q. 48, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 48, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 48, a. 2#arg. 3|Praeterea, satisfactio importat aequalitatem quandam ad culpam, cum sit actus iustitiae. Sed passio Christi non videtur esse aequalis omnibus peccatis humani generis, quia Christus non est passus secundum divinitatem, sed secundum carnem, secundum illud [[1 P 4]], Christo igitur passo in carne; anima autem, in qua est peccatum, potior est quam caro. Non ergo Christus sua passione satisfecit pro peccatis nostris.]]
+![[LEO IIIa, q. 48, a. 2#arg. 3|Praeterea, satisfactio importat aequalitatem quandam ad culpam, cum sit actus iustitiae. Sed passio Christi non videtur esse aequalis omnibus peccatis humani generis, quia Christus non est passus secundum divinitatem, sed secundum carnem, secundum illud I Pet. IV, Christo igitur passo in carne; anima autem, in qua est peccatum, potior est quam caro. Non ergo Christus sua passione satisfecit pro peccatis nostris.]]
 ![[CERF IIIa, q. 48, a. 2#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 48, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 48, a. 2#resp.|Respondeo dicendum quod ille proprie satisfacit pro offensa qui exhibet offenso id quod aeque vel magis diligit quam oderit offensam. Christus autem, ex caritate et obedientia patiendo, maius aliquid Deo exhibuit quam exigeret recompensatio totius offensae humani generis. Primo quidem, propter magnitudinem caritatis ex qua patiebatur. Secundo, propter dignitatem vitae suae, quam pro satisfactione ponebat, quae erat vita Dei et hominis. Tertio, propter generalitatem passionis et magnitudinem doloris assumpti, ut supra dictum est. Et ideo passio Christi non solum sufficiens, sed etiam superabundans satisfactio fuit pro peccatis humani generis, secundum illud [[1 Jn 2]], *ipse est propitiatio pro peccatis nostris, non pro nostris autem tantum, sed etiam pro totius mundi*.]]
+![[LEO IIIa, q. 48, a. 2#resp.|Respondeo dicendum quod ille proprie satisfacit pro offensa qui exhibet offenso id quod aeque vel magis diligit quam oderit offensam. Christus autem, ex caritate et obedientia patiendo, maius aliquid Deo exhibuit quam exigeret recompensatio totius offensae humani generis. Primo quidem, propter magnitudinem caritatis ex qua patiebatur. Secundo, propter dignitatem vitae suae, quam pro satisfactione ponebat, quae erat vita Dei et hominis. Tertio, propter generalitatem passionis et magnitudinem doloris assumpti, ut supra dictum est. Et ideo passio Christi non solum sufficiens, sed etiam superabundans satisfactio fuit pro peccatis humani generis, secundum illud I Ioan. II, *ipse est propitiatio pro peccatis nostris, non pro nostris autem tantum, sed etiam pro totius mundi*.]]
 ![[CERF IIIa, q. 48, a. 2#resp.]]
 
 ###### ad 1

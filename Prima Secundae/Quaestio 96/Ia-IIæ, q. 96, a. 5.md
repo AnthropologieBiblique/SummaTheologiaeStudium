@@ -6,11 +6,11 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 96, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod non omnes legi subiiciantur. Illi enim soli subiiciuntur legi, quibus lex ponitur. Sed apostolus dicit, [[1 Tm 1]], quod *iusto non est lex posita*. Ergo iusti non subiiciuntur legi humanae.]]
+![[LEO Ia-IIæ, q. 96, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod non omnes legi subiiciantur. Illi enim soli subiiciuntur legi, quibus lex ponitur. Sed apostolus dicit, I ad Tim. I, quod *iusto non est lex posita*. Ergo iusti non subiiciuntur legi humanae.]]
 ![[CERF Ia-IIæ, q. 96, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 96, a. 5#arg. 2|Praeterea, Urbanus Papa dicit, et habetur in decretis, XIX qu. II, *qui lege privata ducitur, nulla ratio exigit ut publica constringatur*. Lege autem privata spiritus sancti ducuntur omnes viri spirituales, qui sunt filii Dei; secundum illud [[Rm 8]], *qui spiritu Dei aguntur, hi filii Dei sunt*. Ergo non omnes homines legi humanae subiiciuntur.]]
+![[LEO Ia-IIæ, q. 96, a. 5#arg. 2|Praeterea, Urbanus Papa dicit, et habetur in decretis, XIX qu. II, *qui lege privata ducitur, nulla ratio exigit ut publica constringatur*. Lege autem privata spiritus sancti ducuntur omnes viri spirituales, qui sunt filii Dei; secundum illud Rom. VIII, *qui spiritu Dei aguntur, hi filii Dei sunt*. Ergo non omnes homines legi humanae subiiciuntur.]]
 ![[CERF Ia-IIæ, q. 96, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 96, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 96, a. 5#s.c.|Sed contra est quod apostolus dicit, [[Rm 13]], *omnis anima potestatibus sublimioribus subdita sit*. Sed non videtur esse subditus potestati, qui non subiicitur legi quam fert potestas. Ergo omnes homines debent esse legi humanae subiecti.]]
+![[LEO Ia-IIæ, q. 96, a. 5#s.c.|Sed contra est quod apostolus dicit, Rom. XIII, *omnis anima potestatibus sublimioribus subdita sit*. Sed non videtur esse subditus potestati, qui non subiicitur legi quam fert potestas. Ergo omnes homines debent esse legi humanae subiecti.]]
 ![[CERF Ia-IIæ, q. 96, a. 5#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 96, a. 5#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 96, a. 5#ad 1|Ad primum ergo dicendum quod ratio illa procedit de subiectione quae est per modum coactionis. Sic enim iusto non est lex posita, quia ipsi sibi sunt lex, dum ostendunt opus legis scriptum in cordibus suis, sicut apostolus, ad [[Rm 2]], dicit. Unde in eos non habet lex vim coactivam, sicut habet in iniustos.]]
+![[LEO Ia-IIæ, q. 96, a. 5#ad 1|Ad primum ergo dicendum quod ratio illa procedit de subiectione quae est per modum coactionis. Sic enim iusto non est lex posita, quia ipsi sibi sunt lex, dum ostendunt opus legis scriptum in cordibus suis, sicut apostolus, ad Rom. II, dicit. Unde in eos non habet lex vim coactivam, sicut habet in iniustos.]]
 ![[CERF Ia-IIæ, q. 96, a. 5#ad 1]]
 
 ###### ad 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia-IIæ, q. 96, a. 5#ad 2]]
 
 ###### ad 3
-![[LEO Ia-IIæ, q. 96, a. 5#ad 3|Ad tertium dicendum quod princeps dicitur esse solutus a lege, quantum ad vim coactivam legis, nullus enim proprie cogitur a seipso; lex autem non habet vim coactivam nisi ex principis potestate. Sic igitur princeps dicitur esse solutus a lege, quia nullus in ipsum potest iudicium condemnationis ferre, si contra legem agat. Unde super illud Psalmi l, *tibi soli peccavi* etc., dicit Glossa quod *lex non habet hominem qui sua facta diiudicet*. Sed quantum ad vim directivam legis, princeps subditur legi propria voluntate; secundum quod dicitur extra, de constitutionibus, cap. cum omnes, *quod quisque iuris in alterum statuit, ipse eodem iure uti debet. Et sapientis dicit auctoritas, patere legem quam ipse tuleris*. Improperatur etiam his a domino qui dicunt et non faciunt; et qui aliis onera gravia imponunt, et ipsi nec digito volunt ea movere; ut habetur [[Mt 23]]. Unde quantum ad Dei iudicium, princeps non est solutus a lege, quantum ad vim directivam eius; sed debet voluntarius, non coactus, legem implere. Est etiam princeps supra legem, inquantum, si expediens fuerit, potest legem mutare, et in ea dispensare, pro loco et tempore.]]
+![[LEO Ia-IIæ, q. 96, a. 5#ad 3|Ad tertium dicendum quod princeps dicitur esse solutus a lege, quantum ad vim coactivam legis, nullus enim proprie cogitur a seipso; lex autem non habet vim coactivam nisi ex principis potestate. Sic igitur princeps dicitur esse solutus a lege, quia nullus in ipsum potest iudicium condemnationis ferre, si contra legem agat. Unde super illud Psalmi l, *tibi soli peccavi* etc., dicit Glossa quod *lex non habet hominem qui sua facta diiudicet*. Sed quantum ad vim directivam legis, princeps subditur legi propria voluntate; secundum quod dicitur extra, de constitutionibus, cap. cum omnes, *quod quisque iuris in alterum statuit, ipse eodem iure uti debet. Et sapientis dicit auctoritas, patere legem quam ipse tuleris*. Improperatur etiam his a domino qui dicunt et non faciunt; et qui aliis onera gravia imponunt, et ipsi nec digito volunt ea movere; ut habetur Matth. XXIII. Unde quantum ad Dei iudicium, princeps non est solutus a lege, quantum ad vim directivam eius; sed debet voluntarius, non coactus, legem implere. Est etiam princeps supra legem, inquantum, si expediens fuerit, potest legem mutare, et in ea dispensare, pro loco et tempore.]]
 ![[CERF Ia-IIæ, q. 96, a. 5#ad 3]]
 

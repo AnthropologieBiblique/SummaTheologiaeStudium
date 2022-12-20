@@ -6,15 +6,15 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIIa, q. 35, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod Christus non debuit in Bethlehem nasci. Dicitur enim [[Is 2]], *de Sion exibit lex, et verbum domini de Ierusalem*. Sed Christus est vere verbum Dei. Ergo de Ierusalem debuit prodire in mundum.]]
+![[LEO IIIa, q. 35, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod Christus non debuit in Bethlehem nasci. Dicitur enim Isaiae II, *de Sion exibit lex, et verbum domini de Ierusalem*. Sed Christus est vere verbum Dei. Ergo de Ierusalem debuit prodire in mundum.]]
 ![[CERF IIIa, q. 35, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 35, a. 7#arg. 2|Praeterea, [[Mt 2]] dicitur scriptum esse de Christo quod Nazaraeus vocabitur, quod sumitur ex eo quod scribitur [[Is 11]], *flos de radice eius ascendet*; Nazareth enim flos interpretatur. Sed maxime aliquis denominatur a loco suae nativitatis. Ergo videtur quod in Nazareth nasci debuerit, ubi etiam fuit conceptus et nutritus.]]
+![[LEO IIIa, q. 35, a. 7#arg. 2|Praeterea, Matth. II dicitur scriptum esse de Christo quod Nazaraeus vocabitur, quod sumitur ex eo quod scribitur Isaiae XI, *flos de radice eius ascendet*; Nazareth enim flos interpretatur. Sed maxime aliquis denominatur a loco suae nativitatis. Ergo videtur quod in Nazareth nasci debuerit, ubi etiam fuit conceptus et nutritus.]]
 ![[CERF IIIa, q. 35, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 35, a. 7#arg. 3|Praeterea, ad hoc dominus natus est in mundo ut veritatis fidem annuntiaret, secundum illud [[Jn 18]], *in hoc natus sum, et ad hoc veni in mundum, ut testimonium perhibeam veritati*. Sed hoc facilius fieri potuisset si natus fuisset in civitate Romana, quae tunc dominatum orbis habebat, unde et Paulus, Romanis scribens, dicit, [[Rm 1]], *fides vestra annuntiatur universo mundo*. Ergo videtur quod non debuit nasci in Bethlehem.]]
+![[LEO IIIa, q. 35, a. 7#arg. 3|Praeterea, ad hoc dominus natus est in mundo ut veritatis fidem annuntiaret, secundum illud Ioan. XVIII, *in hoc natus sum, et ad hoc veni in mundum, ut testimonium perhibeam veritati*. Sed hoc facilius fieri potuisset si natus fuisset in civitate Romana, quae tunc dominatum orbis habebat, unde et Paulus, Romanis scribens, dicit, Rom. I, *fides vestra annuntiatur universo mundo*. Ergo videtur quod non debuit nasci in Bethlehem.]]
 ![[CERF IIIa, q. 35, a. 7#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 35, a. 7#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 35, a. 7#resp.|Respondeo dicendum quod Christus in Bethlehem nasci voluit duplici ratione. Primo quidem, quia *factus est ex semine David secundum carnem*, ut dicitur [[Rm 1]], cui etiam fuerat facta repromissio specialis de Christo, secundum illud [[2S 23]], *dixit vir cui constitutum de Christo Dei Iacob*. Et ideo in Bethlehem, de qua natus fuit David, nasci voluit, ut ex ipso loco nativitatis promissio ei facta impleta ostenderetur. Et hoc designat Evangelista dicens, *eo quod esset de domo et familia David*. Secundo quia, ut Gregorius dicit, in homilia, *Bethlehem domus panis interpretatur. Ipse Christus est qui ait, ego sum panis vivus, qui de caelo descendi*.]]
+![[LEO IIIa, q. 35, a. 7#resp.|Respondeo dicendum quod Christus in Bethlehem nasci voluit duplici ratione. Primo quidem, quia *factus est ex semine David secundum carnem*, ut dicitur Rom. I, cui etiam fuerat facta repromissio specialis de Christo, secundum illud II Reg. XXIII, *dixit vir cui constitutum de Christo Dei Iacob*. Et ideo in Bethlehem, de qua natus fuit David, nasci voluit, ut ex ipso loco nativitatis promissio ei facta impleta ostenderetur. Et hoc designat Evangelista dicens, *eo quod esset de domo et familia David*. Secundo quia, ut Gregorius dicit, in homilia, *Bethlehem domus panis interpretatur. Ipse Christus est qui ait, ego sum panis vivus, qui de caelo descendi*.]]
 ![[CERF IIIa, q. 35, a. 7#resp.]]
 
 ###### ad 1
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 35, a. 7#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 35, a. 7#ad 3|Ad tertium dicendum quod, sicut dicitur in quodam sermone Ephesini Concilii, *si maximam Romam elegisset civitatem, propter potentiam civium mutationem orbis terrarum putarent. Si filius fuisset imperatoris, potestati utilitatem adscriberent. Sed ut divinitas cognosceretur orbem transformasse terrarum, pauperculam elegit matrem, pauperiorem patriam. Elegit autem Deus infirma mundi ut confundat fortia*, sicut dicitur [[1 Co 1]]. Et ideo, ut suam potestatem magis ostenderet, in ipsa Roma, quae caput orbis erat, statuit caput Ecclesiae suae, in signum perfectae victoriae, ut exinde fides derivaretur ad universum mundum, secundum illud [[Is 26]], *civitatem sublimem humiliabit, et conculcabit eam pes pauperis*, idest Christi, gressus egenorum, idest apostolorum Petri et Pauli.]]
+![[LEO IIIa, q. 35, a. 7#ad 3|Ad tertium dicendum quod, sicut dicitur in quodam sermone Ephesini Concilii, *si maximam Romam elegisset civitatem, propter potentiam civium mutationem orbis terrarum putarent. Si filius fuisset imperatoris, potestati utilitatem adscriberent. Sed ut divinitas cognosceretur orbem transformasse terrarum, pauperculam elegit matrem, pauperiorem patriam. Elegit autem Deus infirma mundi ut confundat fortia*, sicut dicitur I Cor. I. Et ideo, ut suam potestatem magis ostenderet, in ipsa Roma, quae caput orbis erat, statuit caput Ecclesiae suae, in signum perfectae victoriae, ut exinde fides derivaretur ad universum mundum, secundum illud Isaiae XXVI, *civitatem sublimem humiliabit, et conculcabit eam pes pauperis*, idest Christi, gressus egenorum, idest apostolorum Petri et Pauli.]]
 ![[CERF IIIa, q. 35, a. 7#ad 3]]
 

@@ -6,15 +6,15 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 180, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod virtutes morales pertineant ad vitam contemplativam. Dicit enim Gregorius, super Ezech., quod *contemplativa vita est caritatem quidem Dei et proximi tota mente retinere*. Sed omnes virtutes morales, de quarum actibus dantur praecepta legis, reducuntur ad dilectionem Dei et proximi, quia plenitudo legis est dilectio, ut dicitur [[Rm 13]]. Ergo videtur quod virtutes morales pertineant ad vitam contemplativam.]]
+![[LEO IIa-IIæ, q. 180, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod virtutes morales pertineant ad vitam contemplativam. Dicit enim Gregorius, super Ezech., quod *contemplativa vita est caritatem quidem Dei et proximi tota mente retinere*. Sed omnes virtutes morales, de quarum actibus dantur praecepta legis, reducuntur ad dilectionem Dei et proximi, quia plenitudo legis est dilectio, ut dicitur Rom. XIII. Ergo videtur quod virtutes morales pertineant ad vitam contemplativam.]]
 ![[CERF IIa-IIæ, q. 180, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 180, a. 2#arg. 2|Praeterea, contemplativa vita praecipue ordinatur ad Dei contemplationem, dicit enim Gregorius, super Ezech., *quod, calcatis curis omnibus, ad videndum faciem sui creatoris inardescit*. Sed ad hoc nullus potest pervenire nisi per munditiam, quam causat virtus moralis, dicitur enim [[Mt 5]], *beati mundo corde, quoniam ipsi Deum videbunt; et* [[He 12]], *pacem sequimini cum omnibus, et sanctimoniam, sine qua nemo videbit Deum*. Ergo videtur quod virtutes morales pertineant ad vitam contemplativam.]]
+![[LEO IIa-IIæ, q. 180, a. 2#arg. 2|Praeterea, contemplativa vita praecipue ordinatur ad Dei contemplationem, dicit enim Gregorius, super Ezech., *quod, calcatis curis omnibus, ad videndum faciem sui creatoris inardescit*. Sed ad hoc nullus potest pervenire nisi per munditiam, quam causat virtus moralis, dicitur enim Matth. V, *beati mundo corde, quoniam ipsi Deum videbunt; et* Heb. XII, *pacem sequimini cum omnibus, et sanctimoniam, sine qua nemo videbit Deum*. Ergo videtur quod virtutes morales pertineant ad vitam contemplativam.]]
 ![[CERF IIa-IIæ, q. 180, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 180, a. 2#arg. 3|Praeterea, Gregorius dicit, super Ezech., quod *contemplativa vita speciosa est in animo* unde significatur per Rachelem, de qua dicitur, [[Gn 29]], quod erat pulchra facie. Sed pulchritudo animi attenditur secundum virtutes morales, et praecipue secundum temperantiam, ut Ambrosius dicit, in I de Offic. Ergo videtur quod virtutes morales pertineant ad vitam contemplativam.]]
+![[LEO IIa-IIæ, q. 180, a. 2#arg. 3|Praeterea, Gregorius dicit, super Ezech., quod *contemplativa vita speciosa est in animo* unde significatur per Rachelem, de qua dicitur, Gen. XXIX, quod erat pulchra facie. Sed pulchritudo animi attenditur secundum virtutes morales, et praecipue secundum temperantiam, ut Ambrosius dicit, in I de Offic. Ergo videtur quod virtutes morales pertineant ad vitam contemplativam.]]
 ![[CERF IIa-IIæ, q. 180, a. 2#arg. 3]]
 
 ###### s.c.
@@ -30,10 +30,10 @@ tags :
 ![[CERF IIa-IIæ, q. 180, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 180, a. 2#ad 2|Ad secundum dicendum quod sanctimonia, idest munditia, causatur ex virtutibus quae sunt circa passiones impedientes puritatem rationis. Pax autem causatur ex iustitia, quae est circa operationes, secundum illud [[Is 32]], opus iustitiae pax, inquantum scilicet ille qui ab iniuriis aliorum abstinet, subtrahit litigiorum et tumultuum occasiones. Et sic virtutes morales disponunt ad vitam contemplativam, inquantum causant pacem et munditiam.]]
+![[LEO IIa-IIæ, q. 180, a. 2#ad 2|Ad secundum dicendum quod sanctimonia, idest munditia, causatur ex virtutibus quae sunt circa passiones impedientes puritatem rationis. Pax autem causatur ex iustitia, quae est circa operationes, secundum illud Isaiae XXXII, opus iustitiae pax, inquantum scilicet ille qui ab iniuriis aliorum abstinet, subtrahit litigiorum et tumultuum occasiones. Et sic virtutes morales disponunt ad vitam contemplativam, inquantum causant pacem et munditiam.]]
 ![[CERF IIa-IIæ, q. 180, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 180, a. 2#ad 3|Ad tertium dicendum quod pulchritudo, sicut supra dictum est, consistit in quadam claritate et debita proportione. Utrumque autem horum radicaliter in ratione invenitur, ad quam pertinet et lumen manifestans, et proportionem debitam in aliis ordinare. Et ideo in vita contemplativa, quae consistit in actu rationis, per se et essentialiter invenitur pulchritudo. Unde [[Sg 8]] de contemplatione sapientiae dicitur, *amator factus sum formae illius*. In virtutibus autem moralibus invenitur pulchritudo participative, inquantum scilicet participant ordinem rationis, et praecipue in temperantia, quae reprimit concupiscentias maxime lumen rationis obscurantes. Et inde est quod virtus castitatis maxime reddit hominem aptum ad contemplationem, inquantum delectationes venereae maxime deprimunt mentem ad sensibilia, ut Augustinus dicit, in libro Soliloquiorum.]]
+![[LEO IIa-IIæ, q. 180, a. 2#ad 3|Ad tertium dicendum quod pulchritudo, sicut supra dictum est, consistit in quadam claritate et debita proportione. Utrumque autem horum radicaliter in ratione invenitur, ad quam pertinet et lumen manifestans, et proportionem debitam in aliis ordinare. Et ideo in vita contemplativa, quae consistit in actu rationis, per se et essentialiter invenitur pulchritudo. Unde Sap. VIII de contemplatione sapientiae dicitur, *amator factus sum formae illius*. In virtutibus autem moralibus invenitur pulchritudo participative, inquantum scilicet participant ordinem rationis, et praecipue in temperantia, quae reprimit concupiscentias maxime lumen rationis obscurantes. Et inde est quod virtus castitatis maxime reddit hominem aptum ad contemplationem, inquantum delectationes venereae maxime deprimunt mentem ad sensibilia, ut Augustinus dicit, in libro Soliloquiorum.]]
 ![[CERF IIa-IIæ, q. 180, a. 2#ad 3]]
 

@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 26, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod magis debeamus diligere meliores quam nobis coniunctiores. Illud enim videtur esse magis diligendum quod nulla ratione debet odio haberi, quam illud quod aliqua ratione est odiendum, sicut et albius est quod est nigro impermixtius. Sed personae nobis coniunctae sunt secundum aliquam rationem odiendae, secundum illud [[Lc 14]], *si quis venit ad me et non odit patrem et matrem*, etc., homines autem boni nulla ratione sunt odiendi. Ergo videtur quod meliores sint magis amandi quam coniunctiores.]]
+![[LEO IIa-IIæ, q. 26, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod magis debeamus diligere meliores quam nobis coniunctiores. Illud enim videtur esse magis diligendum quod nulla ratione debet odio haberi, quam illud quod aliqua ratione est odiendum, sicut et albius est quod est nigro impermixtius. Sed personae nobis coniunctae sunt secundum aliquam rationem odiendae, secundum illud Luc. XIV, *si quis venit ad me et non odit patrem et matrem*, etc., homines autem boni nulla ratione sunt odiendi. Ergo videtur quod meliores sint magis amandi quam coniunctiores.]]
 ![[CERF IIa-IIæ, q. 26, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 26, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 26, a. 7#s.c.|Sed contra est quod dicitur [[1 Tm 5]], *si quis suorum, et maxime domesticorum curam non habet, fidem negavit et est infideli deterior*. Sed interior caritatis affectio debet respondere exteriori effectui. Ergo caritas magis debet haberi ad propinquiores quam ad meliores.]]
+![[LEO IIa-IIæ, q. 26, a. 7#s.c.|Sed contra est quod dicitur I ad Tim. V, *si quis suorum, et maxime domesticorum curam non habet, fidem negavit et est infideli deterior*. Sed interior caritatis affectio debet respondere exteriori effectui. Ergo caritas magis debet haberi ad propinquiores quam ad meliores.]]
 ![[CERF IIa-IIæ, q. 26, a. 7#s.c.]]
 
 ###### resp.

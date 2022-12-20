@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 114, a. 9#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 114, a. 9#ad 1|Ad primum ergo dicendum quod etiam ea quae non meremur, orando impetramus. Nam et peccatores Deus audit, peccatorum veniam petentes, quam non merentur, ut patet per Augustinum, super illud [[Jn 9]], scimus quia peccatores Deus non exaudit; alioquin frustra dixisset publicanus, Deus, propitius esto mihi peccatori, ut dicitur [[Lc 18]]. Et similiter perseverantiae donum aliquis petendo a Deo impetrat vel sibi vel alii, quamvis sub merito non cadat.]]
+![[LEO Ia-IIæ, q. 114, a. 9#ad 1|Ad primum ergo dicendum quod etiam ea quae non meremur, orando impetramus. Nam et peccatores Deus audit, peccatorum veniam petentes, quam non merentur, ut patet per Augustinum, super illud Ioan. IX, scimus quia peccatores Deus non exaudit; alioquin frustra dixisset publicanus, Deus, propitius esto mihi peccatori, ut dicitur Luc. XVIII. Et similiter perseverantiae donum aliquis petendo a Deo impetrat vel sibi vel alii, quamvis sub merito non cadat.]]
 ![[CERF Ia-IIæ, q. 114, a. 9#ad 1]]
 
 ###### ad 2

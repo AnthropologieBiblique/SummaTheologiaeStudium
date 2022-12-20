@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 5, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 5, a. 3#ad 3|Ad tertium dicendum quod diversa praecepta legis possunt referri vel ad diversa motiva proxima, et sic unum sine alio servari potest. Vel ad unum motivum primum, quod est perfecte obedire Deo, a quo decidit quicumque unum praeceptum transgreditur, secundum illud [[Jc 2]], *qui offendit in uno factus est omnium reus*.]]
+![[LEO IIa-IIæ, q. 5, a. 3#ad 3|Ad tertium dicendum quod diversa praecepta legis possunt referri vel ad diversa motiva proxima, et sic unum sine alio servari potest. Vel ad unum motivum primum, quod est perfecte obedire Deo, a quo decidit quicumque unum praeceptum transgreditur, secundum illud Iac. II, *qui offendit in uno factus est omnium reus*.]]
 ![[CERF IIa-IIæ, q. 5, a. 3#ad 3]]
 

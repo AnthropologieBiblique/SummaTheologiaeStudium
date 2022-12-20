@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 137, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 137, a. 4#arg. 2|Praeterea, donum gratiae Christi est maius quam nocumentum quod Adam intulit, ut patet [[Rm 5]]. Sed ante peccatum homo sic conditus fuit ut posset perseverare per id quod acceperat, sicut Augustinus dicit, in libro de Corrept. et gratia. Ergo multo magis homo per gratiam Christi reparatus, potest perseverare absque auxilio novae gratiae.]]
+![[LEO IIa-IIæ, q. 137, a. 4#arg. 2|Praeterea, donum gratiae Christi est maius quam nocumentum quod Adam intulit, ut patet Rom. V. Sed ante peccatum homo sic conditus fuit ut posset perseverare per id quod acceperat, sicut Augustinus dicit, in libro de Corrept. et gratia. Ergo multo magis homo per gratiam Christi reparatus, potest perseverare absque auxilio novae gratiae.]]
 ![[CERF IIa-IIæ, q. 137, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 137, a. 4#arg. 3|Praeterea, opera peccati quandoque sunt difficiliora quam opera virtutis, unde ex persona impiorum dicitur [[Sg 5]], ambulavimus vias difficiles. Sed aliqui perseverant in operibus peccati absque alterius auxilio. Ergo etiam in operibus virtutum potest homo perseverare absque auxilio gratiae.]]
+![[LEO IIa-IIæ, q. 137, a. 4#arg. 3|Praeterea, opera peccati quandoque sunt difficiliora quam opera virtutis, unde ex persona impiorum dicitur Sap. V, ambulavimus vias difficiles. Sed aliqui perseverant in operibus peccati absque alterius auxilio. Ergo etiam in operibus virtutum potest homo perseverare absque auxilio gratiae.]]
 ![[CERF IIa-IIæ, q. 137, a. 4#arg. 3]]
 
 ###### s.c.

@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 112, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod omnes Angeli in ministerium mittantur. Dicit enim apostolus, ad [[He 1]], *omnes sunt administratorii spiritus, in ministerium missi*.]]
+![[LEO Ia, q. 112, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod omnes Angeli in ministerium mittantur. Dicit enim apostolus, ad Heb. I, *omnes sunt administratorii spiritus, in ministerium missi*.]]
 ![[CERF Ia, q. 112, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 112, a. 2#arg. 2|Praeterea, inter ordines supremus est ordo Seraphim, ut ex supra dictis patet. Sed Seraphim est missus ad purgandum labia prophetae, ut habetur [[Is 6]]. Ergo multo magis inferiores Angeli mittuntur.]]
+![[LEO Ia, q. 112, a. 2#arg. 2|Praeterea, inter ordines supremus est ordo Seraphim, ut ex supra dictis patet. Sed Seraphim est missus ad purgandum labia prophetae, ut habetur Isaiae VI. Ergo multo magis inferiores Angeli mittuntur.]]
 ![[CERF Ia, q. 112, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 112, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 112, a. 2#arg. 4|Praeterea, si superiores Angeli non mittuntur ad exterius ministerium, hoc non est nisi quia superiores Angeli exequuntur divina ministeria per inferiores. Sed cum omnes Angeli sint inaequales, ut supra dictum est, quilibet Angelus habet inferiorem Angelum, praeter ultimum. Ergo unus Angelus solus ministraret in ministerium missus. Quod est contra id quod dicitur [[Dn 7]], *millia millium ministrabant ei*.]]
+![[LEO Ia, q. 112, a. 2#arg. 4|Praeterea, si superiores Angeli non mittuntur ad exterius ministerium, hoc non est nisi quia superiores Angeli exequuntur divina ministeria per inferiores. Sed cum omnes Angeli sint inaequales, ut supra dictum est, quilibet Angelus habet inferiorem Angelum, praeter ultimum. Ergo unus Angelus solus ministraret in ministerium missus. Quod est contra id quod dicitur Daniel VII, *millia millium ministrabant ei*.]]
 ![[CERF Ia, q. 112, a. 2#arg. 4]]
 
 ###### s.c.

@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 118, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 118, a. 1#s.c.|Sed contra, ita se habet virtus quae est in semine, ad animalia quae ex semine generantur, sicut se habet virtus quae est in elementis mundi, ad animalia quae ex elementis mundi producuntur, sicut quae ex putrefactione generantur. Sed in huiusmodi animalibus animae producuntur ex virtute quae est in elementis; secundum illud [[Gn 1]], *producant aquae reptile animae viventis*. Ergo et animalium quae generantur ex semine, animae producuntur ex virtute quae est in semine.]]
+![[LEO Ia, q. 118, a. 1#s.c.|Sed contra, ita se habet virtus quae est in semine, ad animalia quae ex semine generantur, sicut se habet virtus quae est in elementis mundi, ad animalia quae ex elementis mundi producuntur, sicut quae ex putrefactione generantur. Sed in huiusmodi animalibus animae producuntur ex virtute quae est in elementis; secundum illud Gen. I, *producant aquae reptile animae viventis*. Ergo et animalium quae generantur ex semine, animae producuntur ex virtute quae est in semine.]]
 ![[CERF Ia, q. 118, a. 1#s.c.]]
 
 ###### resp.

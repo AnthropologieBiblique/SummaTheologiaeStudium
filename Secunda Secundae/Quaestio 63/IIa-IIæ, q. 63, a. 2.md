@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 63, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 63, a. 2#arg. 2|Praeterea, praeferre divitem pauperi videtur ad acceptionem personarum pertinere, ut patet [[Jc 2]]. Sed facilius dispensatur cum divitibus et potentibus quod contrahant matrimonium in gradu prohibito, quam cum aliis. Ergo peccatum personarum acceptionis non videtur locum habere circa dispensationem spiritualium.]]
+![[LEO IIa-IIæ, q. 63, a. 2#arg. 2|Praeterea, praeferre divitem pauperi videtur ad acceptionem personarum pertinere, ut patet Iac. II. Sed facilius dispensatur cum divitibus et potentibus quod contrahant matrimonium in gradu prohibito, quam cum aliis. Ergo peccatum personarum acceptionis non videtur locum habere circa dispensationem spiritualium.]]
 ![[CERF IIa-IIæ, q. 63, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 63, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 63, a. 2#s.c.|Sed contra est quod dicitur [[Jc 2]], *nolite in personarum acceptione habere fidem domini nostri Iesu Christi*. Ubi dicit Glossa Augustini, *quis ferat si quis divitem eligat ad sedem honoris Ecclesiae, contempto paupere instructiore et sanctiore?*]]
+![[LEO IIa-IIæ, q. 63, a. 2#s.c.|Sed contra est quod dicitur Iac. II, *nolite in personarum acceptione habere fidem domini nostri Iesu Christi*. Ubi dicit Glossa Augustini, *quis ferat si quis divitem eligat ad sedem honoris Ecclesiae, contempto paupere instructiore et sanctiore?*]]
 ![[CERF IIa-IIæ, q. 63, a. 2#s.c.]]
 
 ###### resp.
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIa-IIæ, q. 63, a. 2#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 63, a. 2#ad 4|Ad quartum dicendum quod ille qui de gremio Ecclesiae assumitur, ut in pluribus consuevit esse utilior quantum ad bonum commune, quia magis diligit Ecclesiam in qua est nutritus. Et propter hoc etiam mandatur [[Dt 17]], *non poteris alterius gentis facere regem, qui non sit frater tuus*.]]
+![[LEO IIa-IIæ, q. 63, a. 2#ad 4|Ad quartum dicendum quod ille qui de gremio Ecclesiae assumitur, ut in pluribus consuevit esse utilior quantum ad bonum commune, quia magis diligit Ecclesiam in qua est nutritus. Et propter hoc etiam mandatur Deut. XVII, *non poteris alterius gentis facere regem, qui non sit frater tuus*.]]
 ![[CERF IIa-IIæ, q. 63, a. 2#ad 4]]
 

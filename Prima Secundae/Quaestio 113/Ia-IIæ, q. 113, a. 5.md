@@ -6,11 +6,11 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 113, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod ad iustificationem impii non requiratur motus liberi arbitrii in peccatum. Sola enim caritas sufficit ad deletionem peccati, secundum illud [[Pr 10]], *universa delicta operit caritas*. Sed caritatis obiectum non est peccatum. Ergo non requiritur ad iustificationem impii motus liberi arbitrii in peccatum.]]
+![[LEO Ia-IIæ, q. 113, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod ad iustificationem impii non requiratur motus liberi arbitrii in peccatum. Sola enim caritas sufficit ad deletionem peccati, secundum illud Prov. X, *universa delicta operit caritas*. Sed caritatis obiectum non est peccatum. Ergo non requiritur ad iustificationem impii motus liberi arbitrii in peccatum.]]
 ![[CERF Ia-IIæ, q. 113, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 113, a. 5#arg. 2|Praeterea, qui in anteriora tendit, ad posteriora respicere non debet; secundum illud apostoli, ad [[Ph 3]], *quae quidem retro sunt obliviscens, ad ea vero quae sunt priora extendens meipsum, ad destinatum persequor bravium supernae vocationis*. Sed tendenti in iustitiam retrorsum sunt peccata praeterita. Ergo eorum debet oblivisci, nec in ea se debet extendere per motum liberi arbitrii.]]
+![[LEO Ia-IIæ, q. 113, a. 5#arg. 2|Praeterea, qui in anteriora tendit, ad posteriora respicere non debet; secundum illud apostoli, ad Philipp. III, *quae quidem retro sunt obliviscens, ad ea vero quae sunt priora extendens meipsum, ad destinatum persequor bravium supernae vocationis*. Sed tendenti in iustitiam retrorsum sunt peccata praeterita. Ergo eorum debet oblivisci, nec in ea se debet extendere per motum liberi arbitrii.]]
 ![[CERF Ia-IIæ, q. 113, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 113, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 113, a. 5#s.c.|Sed contra est quod dicitur in [[Ps 31]], *dixi, confitebor adversum me iniustitiam meam domino, et tu remisisti impietatem peccati mei*.]]
+![[LEO Ia-IIæ, q. 113, a. 5#s.c.|Sed contra est quod dicitur in Psalmo XXXI, *dixi, confitebor adversum me iniustitiam meam domino, et tu remisisti impietatem peccati mei*.]]
 ![[CERF Ia-IIæ, q. 113, a. 5#s.c.]]
 
 ###### resp.

@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 38, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 38, a. 4#arg. 3|Praeterea, si alii illo Baptismo baptizabantur, hoc non erat nisi ut praepararentur ad Baptismum Christi, et sic conveniens videbatur quod, sicut Baptismus Christi omnibus confertur, et magnis et parvis, et gentilibus et Iudaeis, ita etiam et Baptismus Ioannis conferretur. Sed non legitur quod ab eo pueri baptizarentur, nec etiam gentiles, dicitur enim [[Mc 1]], quod *egrediebantur ad eum Ierosolymitae universi, et baptizabantur ab illo*. Ergo videtur quod solus Christus a Ioanne debuit baptizari.]]
+![[LEO IIIa, q. 38, a. 4#arg. 3|Praeterea, si alii illo Baptismo baptizabantur, hoc non erat nisi ut praepararentur ad Baptismum Christi, et sic conveniens videbatur quod, sicut Baptismus Christi omnibus confertur, et magnis et parvis, et gentilibus et Iudaeis, ita etiam et Baptismus Ioannis conferretur. Sed non legitur quod ab eo pueri baptizarentur, nec etiam gentiles, dicitur enim Marci I, quod *egrediebantur ad eum Ierosolymitae universi, et baptizabantur ab illo*. Ergo videtur quod solus Christus a Ioanne debuit baptizari.]]
 ![[CERF IIIa, q. 38, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 38, a. 4#s.c.|Sed contra est quod dicitur [[Lc 3]], *factum est, cum baptizaretur omnis populus, et Iesu baptizato et orante, aperti sunt caeli*.]]
+![[LEO IIIa, q. 38, a. 4#s.c.|Sed contra est quod dicitur Luc. III, *factum est, cum baptizaretur omnis populus, et Iesu baptizato et orante, aperti sunt caeli*.]]
 ![[CERF IIIa, q. 38, a. 4#s.c.]]
 
 ###### resp.

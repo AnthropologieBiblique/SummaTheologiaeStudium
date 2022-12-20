@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 76, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 76, a. 4#s.c.|Sed contra, quidquid est ratio remissionis peccati, alleviat peccatum. Sed ignorantia est huiusmodi, ut patet [[1 Tm 1]], *misericordiam consecutus sum, quia ignorans feci*. Ergo ignorantia diminuit, vel alleviat peccatum.]]
+![[LEO Ia-IIæ, q. 76, a. 4#s.c.|Sed contra, quidquid est ratio remissionis peccati, alleviat peccatum. Sed ignorantia est huiusmodi, ut patet I ad Tim. I, *misericordiam consecutus sum, quia ignorans feci*. Ergo ignorantia diminuit, vel alleviat peccatum.]]
 ![[CERF Ia-IIæ, q. 76, a. 4#s.c.]]
 
 ###### resp.

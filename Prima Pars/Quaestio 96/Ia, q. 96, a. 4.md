@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 96, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 96, a. 4#arg. 2|Praeterea, illud quod est introductum in poenam peccati, non fuisset in statu innocentiae. Sed hominem subesse homini, introductum est in poenam peccati, dictum est enim mulieri post peccatum, sub potestate viri eris, ut dicitur [[Gn 3]]. Ergo in statu innocentiae non erat homo homini subiectus.]]
+![[LEO Ia, q. 96, a. 4#arg. 2|Praeterea, illud quod est introductum in poenam peccati, non fuisset in statu innocentiae. Sed hominem subesse homini, introductum est in poenam peccati, dictum est enim mulieri post peccatum, sub potestate viri eris, ut dicitur Gen. III. Ergo in statu innocentiae non erat homo homini subiectus.]]
 ![[CERF Ia, q. 96, a. 4#arg. 2]]
 
 ###### arg. 3

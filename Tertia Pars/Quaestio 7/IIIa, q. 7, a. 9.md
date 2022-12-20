@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 7, a. 9#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 7, a. 9#arg. 3|Praeterea, [[Jc 1]] dicitur, *omne datum optimum, et omne donum perfectum, de sursum est, descendens a patre luminum*. Sed quod descendit, habetur particulariter, et non plene. Ergo nulla creatura, nec etiam anima Christi, potest habere plenitudinem donorum gratiae.]]
+![[LEO IIIa, q. 7, a. 9#arg. 3|Praeterea, Iac. I dicitur, *omne datum optimum, et omne donum perfectum, de sursum est, descendens a patre luminum*. Sed quod descendit, habetur particulariter, et non plene. Ergo nulla creatura, nec etiam anima Christi, potest habere plenitudinem donorum gratiae.]]
 ![[CERF IIIa, q. 7, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 7, a. 9#s.c.|Sed contra est quod dicitur [[Jn 1]], *vidimus eum plenum gratiae et veritatis*.]]
+![[LEO IIIa, q. 7, a. 9#s.c.|Sed contra est quod dicitur Ioan. I, *vidimus eum plenum gratiae et veritatis*.]]
 ![[CERF IIIa, q. 7, a. 9#s.c.]]
 
 ###### resp.

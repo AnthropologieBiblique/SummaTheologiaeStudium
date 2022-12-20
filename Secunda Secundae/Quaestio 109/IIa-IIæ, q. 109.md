@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 109#Prooemium|Deinde considerandum est de veritate, et vitiis oppositis. Circa veritatem autem quaeruntur quatuor. Primo, utrum veritas sit virtus. Secundo, utrum sit virtus specialis. Tertio, utrum sit pars iustitiae. Quarto, utrum magis declinet ad minus.]]
-![[CERF IIa-IIæ, q. 109#Prooemium]]
+Deinde considerandum est de veritate, et vitiis oppositis. Circa veritatem autem quaeruntur quatuor. Primo, utrum veritas sit virtus. Secundo, utrum sit virtus specialis. Tertio, utrum sit pars iustitiae. Quarto, utrum magis declinet ad minus.
 
 ![[IIa-IIæ, q. 109, a. 1#Articulus 1]]
 

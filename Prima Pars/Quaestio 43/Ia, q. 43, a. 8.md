@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 43, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 43, a. 8#s.c.|Sed contra est quod filius mittitur a spiritu sancto, secundum illud [[Is 48]], *et nunc misit me dominus Deus, et spiritus eius*. Filius autem non est a spiritu sancto. Ergo persona divina mittitur ab ea a qua non est.]]
+![[LEO Ia, q. 43, a. 8#s.c.|Sed contra est quod filius mittitur a spiritu sancto, secundum illud Isaiae XLVIII, *et nunc misit me dominus Deus, et spiritus eius*. Filius autem non est a spiritu sancto. Ergo persona divina mittitur ab ea a qua non est.]]
 ![[CERF Ia, q. 43, a. 8#s.c.]]
 
 ###### resp.

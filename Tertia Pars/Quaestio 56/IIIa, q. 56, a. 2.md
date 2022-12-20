@@ -14,19 +14,19 @@ tags :
 ![[CERF IIIa, q. 56, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 56, a. 2#arg. 3|Praeterea, quia resurrectio Christi est causa resurrectionis corporum, omnium corpora resurgent, secundum illud [[1 Co 15]], omnes quidem resurgemus. Sed non omnium animae resurgent, quia quidam ibunt in supplicium aeternum, ut dicitur [[Mt 25]]. Ergo resurrectio Christi non est causa resurrectionis animarum.]]
+![[LEO IIIa, q. 56, a. 2#arg. 3|Praeterea, quia resurrectio Christi est causa resurrectionis corporum, omnium corpora resurgent, secundum illud I Cor. XV, omnes quidem resurgemus. Sed non omnium animae resurgent, quia quidam ibunt in supplicium aeternum, ut dicitur Matth. XXV. Ergo resurrectio Christi non est causa resurrectionis animarum.]]
 ![[CERF IIIa, q. 56, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 56, a. 2#arg. 4|Praeterea, resurrectio animarum fit per remissionem peccatorum. Sed hoc factum est per Christi passionem, secundum illud [[Ap 1]], *lavit nos a peccatis nostris in sanguine suo*. Ergo resurrectionis animarum magis est causa Christi passio quam eius resurrectio.]]
+![[LEO IIIa, q. 56, a. 2#arg. 4|Praeterea, resurrectio animarum fit per remissionem peccatorum. Sed hoc factum est per Christi passionem, secundum illud Apoc. I, *lavit nos a peccatis nostris in sanguine suo*. Ergo resurrectionis animarum magis est causa Christi passio quam eius resurrectio.]]
 ![[CERF IIIa, q. 56, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 56, a. 2#s.c.|Sed contra est quod apostolus dicit, [[Rm 4]], *resurrexit propter iustificationem nostram*, quae nihil aliud est quam resurrectio animarum. Et super illud Psalmi, *ad vesperum demorabitur fletus*, dicit Glossa quod *resurrectio Christi causa est resurrectionis nostrae et animae in praesenti, et corporis in futuro*.]]
+![[LEO IIIa, q. 56, a. 2#s.c.|Sed contra est quod apostolus dicit, Rom. IV, *resurrexit propter iustificationem nostram*, quae nihil aliud est quam resurrectio animarum. Et super illud Psalmi, *ad vesperum demorabitur fletus*, dicit Glossa quod *resurrectio Christi causa est resurrectionis nostrae et animae in praesenti, et corporis in futuro*.]]
 ![[CERF IIIa, q. 56, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 56, a. 2#resp.|Respondeo dicendum quod, sicut dictum est, resurrectio Christi agit in virtute divinitatis. Quae quidem se extendit non solum ad resurrectionem corporum, sed etiam ad resurrectionem animarum, a Deo enim est et quod anima vivit per gratiam, et quod corpus vivit per animam. Et ideo resurrectio Christi habet instrumentaliter virtutem effectivam non solum respectu resurrectionis corporum, sed etiam respectu resurrectionis animarum. Similiter autem habet rationem exemplaritatis respectu resurrectionis animarum. Quia Christo resurgenti debemus etiam secundum animam conformari, ut sicut, secundum apostolum, [[Rm 6]], *Christus resurrexit a mortuis per gloriam patris, ita et nos in novitate vitae ambulemus; et sicut ipse resurgens ex mortuis iam non moritur, ita et nos existimemus nos mortuos esse peccato, ut iterum nos vivamus cum illo*.]]
+![[LEO IIIa, q. 56, a. 2#resp.|Respondeo dicendum quod, sicut dictum est, resurrectio Christi agit in virtute divinitatis. Quae quidem se extendit non solum ad resurrectionem corporum, sed etiam ad resurrectionem animarum, a Deo enim est et quod anima vivit per gratiam, et quod corpus vivit per animam. Et ideo resurrectio Christi habet instrumentaliter virtutem effectivam non solum respectu resurrectionis corporum, sed etiam respectu resurrectionis animarum. Similiter autem habet rationem exemplaritatis respectu resurrectionis animarum. Quia Christo resurgenti debemus etiam secundum animam conformari, ut sicut, secundum apostolum, Rom. VI, *Christus resurrexit a mortuis per gloriam patris, ita et nos in novitate vitae ambulemus; et sicut ipse resurgens ex mortuis iam non moritur, ita et nos existimemus nos mortuos esse peccato, ut iterum nos vivamus cum illo*.]]
 ![[CERF IIIa, q. 56, a. 2#resp.]]
 
 ###### ad 1
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIIa, q. 56, a. 2#ad 3]]
 
 ###### ad 4
-![[LEO IIIa, q. 56, a. 2#ad 4|Ad quartum dicendum quod in iustificatione animarum duo concurrunt, scilicet remissio culpae, et novitas vitae per gratiam. Quantum ergo ad efficaciam, quae est per virtutem divinam, tam passio Christi quam resurrectio est causa iustificationis quoad utrumque. Sed quantum ad exemplaritatem, proprie passio et mors Christi est causa remissionis culpae, per quam morimur peccato, resurrectio autem est causa novitatis vitae, quae est per gratiam sive iustitiam. Et ideo apostolus dicit, [[Rm 4]], quod traditus est, scilicet in mortem, propter delicta nostra, scilicet tollenda, et resurrexit propter iustificationem nostram. Sed passio Christi est etiam causa meritoria, ut dictum est.]]
+![[LEO IIIa, q. 56, a. 2#ad 4|Ad quartum dicendum quod in iustificatione animarum duo concurrunt, scilicet remissio culpae, et novitas vitae per gratiam. Quantum ergo ad efficaciam, quae est per virtutem divinam, tam passio Christi quam resurrectio est causa iustificationis quoad utrumque. Sed quantum ad exemplaritatem, proprie passio et mors Christi est causa remissionis culpae, per quam morimur peccato, resurrectio autem est causa novitatis vitae, quae est per gratiam sive iustitiam. Et ideo apostolus dicit, Rom. IV, quod traditus est, scilicet in mortem, propter delicta nostra, scilicet tollenda, et resurrexit propter iustificationem nostram. Sed passio Christi est etiam causa meritoria, ut dictum est.]]
 ![[CERF IIIa, q. 56, a. 2#ad 4]]
 

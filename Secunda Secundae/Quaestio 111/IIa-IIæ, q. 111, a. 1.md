@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 111, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non omnis simulatio sit peccatum. Dicitur enim Luc. ult., quod dominus se finxit longius ire. Et Ambrosius dicit de Abraham, in libro de patriarchis, quod captiose loquebatur cum servulis cum dixit, [[Gn 22]], *ego et puer, illuc usque properantes, postquam adoraverimus, revertemur ad vos*. Fingere autem et captiose loqui ad simulationem pertinet. Non est autem dicendum quod in Christo et in Abraham fuerit peccatum. Ergo non omnis simulatio est peccatum.]]
+![[LEO IIa-IIæ, q. 111, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non omnis simulatio sit peccatum. Dicitur enim Luc. ult., quod dominus se finxit longius ire. Et Ambrosius dicit de Abraham, in libro de patriarchis, quod captiose loquebatur cum servulis cum dixit, Gen. XXII, *ego et puer, illuc usque properantes, postquam adoraverimus, revertemur ad vos*. Fingere autem et captiose loqui ad simulationem pertinet. Non est autem dicendum quod in Christo et in Abraham fuerit peccatum. Ergo non omnis simulatio est peccatum.]]
 ![[CERF IIa-IIæ, q. 111, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 111, a. 1#arg. 2|Praeterea, nullum peccatum est utile. Sed sicut Hieronymus dicit, *utilem simulationem, et in tempore assumendam, Iehu, regis Israel, nos doceat exemplum, qui interfecit sacerdotes Baal fingens se* idola colere velle, ut habetur [[2R 10]]. *Et David immutavit faciem suam coram Achis, rege Geth*, ut habetur [[1S 21]]. Ergo non omnis simulatio est peccatum.]]
+![[LEO IIa-IIæ, q. 111, a. 1#arg. 2|Praeterea, nullum peccatum est utile. Sed sicut Hieronymus dicit, *utilem simulationem, et in tempore assumendam, Iehu, regis Israel, nos doceat exemplum, qui interfecit sacerdotes Baal fingens se* idola colere velle, ut habetur IV Reg. X. *Et David immutavit faciem suam coram Achis, rege Geth*, ut habetur I Reg. XXI. Ergo non omnis simulatio est peccatum.]]
 ![[CERF IIa-IIæ, q. 111, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 111, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 111, a. 1#arg. 4|Praeterea, [[Is 3]], contra quosdam dicitur, *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Sed abscondere peccatum ad simulationem pertinet. Ergo non uti simulatione interdum est reprehensibile. Vitare autem peccatum nunquam est reprehensibile. Ergo simulatio non semper est peccatum.]]
+![[LEO IIa-IIæ, q. 111, a. 1#arg. 4|Praeterea, Isaiae III, contra quosdam dicitur, *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Sed abscondere peccatum ad simulationem pertinet. Ergo non uti simulatione interdum est reprehensibile. Vitare autem peccatum nunquam est reprehensibile. Ergo simulatio non semper est peccatum.]]
 ![[CERF IIa-IIæ, q. 111, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 111, a. 1#s.c.|Sed contra est quod [[Is 16]], super illud, in tribus annis etc., dicit Glossa, *in comparatione duorum malorum, levius est aperte peccare quam sanctitatem simulare*. Sed aperte peccare semper est peccatum. Ergo simulatio semper est peccatum.]]
+![[LEO IIa-IIæ, q. 111, a. 1#s.c.|Sed contra est quod Isaiae XVI, super illud, in tribus annis etc., dicit Glossa, *in comparatione duorum malorum, levius est aperte peccare quam sanctitatem simulare*. Sed aperte peccare semper est peccatum. Ergo simulatio semper est peccatum.]]
 ![[CERF IIa-IIæ, q. 111, a. 1#s.c.]]
 
 ###### resp.

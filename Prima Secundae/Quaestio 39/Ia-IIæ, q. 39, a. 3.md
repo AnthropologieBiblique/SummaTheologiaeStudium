@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 39, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod tristitia non possit esse bonum utile. Dicitur enim [[Si 30]], *multos occidit tristitia, et non est utilitas in illa*.]]
+![[LEO Ia-IIæ, q. 39, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod tristitia non possit esse bonum utile. Dicitur enim Eccli. XXX, *multos occidit tristitia, et non est utilitas in illa*.]]
 ![[CERF Ia-IIæ, q. 39, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia-IIæ, q. 39, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 39, a. 3#s.c.|Sed contra, sapiens non quaerit nisi utilia. Sed sicut dicitur [[Qo 7]], *cor sapientum ubi tristitia, et cor stultorum ubi laetitia*. Ergo tristitia est utilis.]]
+![[LEO Ia-IIæ, q. 39, a. 3#s.c.|Sed contra, sapiens non quaerit nisi utilia. Sed sicut dicitur Eccle. VII, *cor sapientum ubi tristitia, et cor stultorum ubi laetitia*. Ergo tristitia est utilis.]]
 ![[CERF Ia-IIæ, q. 39, a. 3#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 39, a. 3#resp.|Respondeo dicendum quod ex malo praesenti insurgit duplex appetitivus motus. Unus quidem est quo appetitus contrariatur malo praesenti. Et ex ista parte tristitia non habet utilitatem, quia id quod est praesens, non potest non esse praesens. Secundus motus consurgit in appetitu ad fugiendum vel repellendum malum contristans. Et quantum ad hoc, tristitia habet utilitatem, si sit de aliquo quod est fugiendum. Est enim aliquid fugiendum dupliciter. Uno modo, propter seipsum, ex contrarietate quam habet ad bonum; sicut peccatum. Et ideo tristitia de peccato utilis est ad hoc quod homo fugiat peccatum, sicut apostolus dicit, II ad Cor. VII, *gaudeo, non quia contristati estis, sed quia contristati estis ad poenitentiam*. Alio modo est aliquid fugiendum, non quia sit secundum se malum, sed quia est occasio mali; dum vel homo nimis inhaeret ei per amorem, vel etiam ex hoc praecipitatur in aliquod malum, sicut patet in bonis temporalibus. Et secundum hoc, tristitia de bonis temporalibus potest esse utilis, sicut dicitur [[Qo 7]], *melius est ire ad domum luctus quam ad domum convivii, in illa enim finis cunctorum admonetur hominum*. Ideo autem tristitia in omni fugiendo est utilis, quia geminatur fugiendi causa. Nam ipsum malum secundum se fugiendum est, ipsam autem tristitiam secundum se omnes fugiunt, sicut etiam bonum omnes appetunt, et delectationem de bono. Sicut ergo delectatio de bono facit ut bonum avidius quaeratur, ita tristitia de malo facit ut malum vehementius fugiatur.]]
+![[LEO Ia-IIæ, q. 39, a. 3#resp.|Respondeo dicendum quod ex malo praesenti insurgit duplex appetitivus motus. Unus quidem est quo appetitus contrariatur malo praesenti. Et ex ista parte tristitia non habet utilitatem, quia id quod est praesens, non potest non esse praesens. Secundus motus consurgit in appetitu ad fugiendum vel repellendum malum contristans. Et quantum ad hoc, tristitia habet utilitatem, si sit de aliquo quod est fugiendum. Est enim aliquid fugiendum dupliciter. Uno modo, propter seipsum, ex contrarietate quam habet ad bonum; sicut peccatum. Et ideo tristitia de peccato utilis est ad hoc quod homo fugiat peccatum, sicut apostolus dicit, II ad Cor. VII, *gaudeo, non quia contristati estis, sed quia contristati estis ad poenitentiam*. Alio modo est aliquid fugiendum, non quia sit secundum se malum, sed quia est occasio mali; dum vel homo nimis inhaeret ei per amorem, vel etiam ex hoc praecipitatur in aliquod malum, sicut patet in bonis temporalibus. Et secundum hoc, tristitia de bonis temporalibus potest esse utilis, sicut dicitur Eccle. VII, *melius est ire ad domum luctus quam ad domum convivii, in illa enim finis cunctorum admonetur hominum*. Ideo autem tristitia in omni fugiendo est utilis, quia geminatur fugiendi causa. Nam ipsum malum secundum se fugiendum est, ipsam autem tristitiam secundum se omnes fugiunt, sicut etiam bonum omnes appetunt, et delectationem de bono. Sicut ergo delectatio de bono facit ut bonum avidius quaeratur, ita tristitia de malo facit ut malum vehementius fugiatur.]]
 ![[CERF Ia-IIæ, q. 39, a. 3#resp.]]
 
 ###### ad 1

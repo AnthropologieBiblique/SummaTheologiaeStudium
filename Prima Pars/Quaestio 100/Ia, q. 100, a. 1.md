@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 100, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 100, a. 1#arg. 2|Praeterea, iustitia est per gratiam, ut apostolus dicit ad [[Rm 5]]. Sed gratia non transfunditur, quia sic esset naturalis; sed a solo Deo infunditur. Ergo pueri cum iustitia nati non fuissent.]]
+![[LEO Ia, q. 100, a. 1#arg. 2|Praeterea, iustitia est per gratiam, ut apostolus dicit ad Rom. V. Sed gratia non transfunditur, quia sic esset naturalis; sed a solo Deo infunditur. Ergo pueri cum iustitia nati non fuissent.]]
 ![[CERF Ia, q. 100, a. 1#arg. 2]]
 
 ###### arg. 3

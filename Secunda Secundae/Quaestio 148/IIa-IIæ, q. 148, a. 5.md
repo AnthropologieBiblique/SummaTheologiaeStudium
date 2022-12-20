@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 148, a. 5#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 148, a. 5#ad 1|Ad primum ergo dicendum quod ipse cibus ordinatur quidem ad aliquid sicut ad finem, sed quia ille finis, scilicet conservatio vitae, est maxime appetibilis, quae sine cibo conservari non potest, inde etiam est quod ipse cibus est maxime appetibilis; et ad hoc fere totus labor humanae vitae ordinatur, secundum illud [[Qo 6]], *omnis labor hominis in ore eius*. Et tamen gula magis videtur esse circa delectationes cibi quam circa cibos. Propter quod, ut Augustinus dicit, in libro de vera Relig., *quibus vilis est corporis salus, malunt vesci*, in quo scilicet est delectatio, *quam saturari, cum omnis finis illius voluptatis sit non sitire atque esurire*.]]
+![[LEO IIa-IIæ, q. 148, a. 5#ad 1|Ad primum ergo dicendum quod ipse cibus ordinatur quidem ad aliquid sicut ad finem, sed quia ille finis, scilicet conservatio vitae, est maxime appetibilis, quae sine cibo conservari non potest, inde etiam est quod ipse cibus est maxime appetibilis; et ad hoc fere totus labor humanae vitae ordinatur, secundum illud Eccle. VI, *omnis labor hominis in ore eius*. Et tamen gula magis videtur esse circa delectationes cibi quam circa cibos. Propter quod, ut Augustinus dicit, in libro de vera Relig., *quibus vilis est corporis salus, malunt vesci*, in quo scilicet est delectatio, *quam saturari, cum omnis finis illius voluptatis sit non sitire atque esurire*.]]
 ![[CERF IIa-IIæ, q. 148, a. 5#ad 1]]
 
 ###### ad 2

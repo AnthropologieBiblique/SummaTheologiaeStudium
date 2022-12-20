@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 105#Prooemium|Deinde considerandum est de inobedientia. Et circa hoc quaeruntur duo. Primo, utrum sit peccatum mortale. Secundo, utrum sit gravissimum peccatorum.]]
-![[CERF IIa-IIæ, q. 105#Prooemium]]
+Deinde considerandum est de inobedientia. Et circa hoc quaeruntur duo. Primo, utrum sit peccatum mortale. Secundo, utrum sit gravissimum peccatorum.
 
 ![[IIa-IIæ, q. 105, a. 1#Articulus 1]]
 

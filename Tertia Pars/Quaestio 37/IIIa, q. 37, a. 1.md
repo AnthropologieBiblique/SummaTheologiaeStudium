@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 37, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Christus non debuerit circumcidi. Veniente enim veritate, cessat figura. Sed circumcisio fuit Abrahae praecepta in signum foederis quod erat de semine nascituro, ut patet [[Gn 17]]. Hoc autem foedus fuit in Christi nativitate completum. Ergo circumcisio statim cessare debuit.]]
+![[LEO IIIa, q. 37, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Christus non debuerit circumcidi. Veniente enim veritate, cessat figura. Sed circumcisio fuit Abrahae praecepta in signum foederis quod erat de semine nascituro, ut patet Gen. XVII. Hoc autem foedus fuit in Christi nativitate completum. Ergo circumcisio statim cessare debuit.]]
 ![[CERF IIIa, q. 37, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 37, a. 1#arg. 2|*Praeterea, omnis Christi actio nostra est instructio*, unde dicitur [[Jn 13]], *exemplum dedi vobis, ut, quemadmodum ego feci vobis, ita et vos faciatis*. Sed nos non debemus circumcidi, secundum illud Galat. V, *si circumcidimini, Christus vobis nihil proderit*. Ergo videtur quod nec Christus debuit circumcidi.]]
+![[LEO IIIa, q. 37, a. 1#arg. 2|*Praeterea, omnis Christi actio nostra est instructio*, unde dicitur Ioan. XIII, *exemplum dedi vobis, ut, quemadmodum ego feci vobis, ita et vos faciatis*. Sed nos non debemus circumcidi, secundum illud Galat. V, *si circumcidimini, Christus vobis nihil proderit*. Ergo videtur quod nec Christus debuit circumcidi.]]
 ![[CERF IIIa, q. 37, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 37, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 37, a. 1#s.c.|Sed contra est quod dicitur [[Lc 2]], *postquam consummati sunt dies octo, ut circumcideretur puer*.]]
+![[LEO IIIa, q. 37, a. 1#s.c.|Sed contra est quod dicitur Luc. II, *postquam consummati sunt dies octo, ut circumcideretur puer*.]]
 ![[CERF IIIa, q. 37, a. 1#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 37, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 37, a. 1#ad 2|Ad secundum dicendum quod Christus circumcisionem suscepit eo tempore quo erat sub praecepto. Et ideo sua actio in hoc est nobis imitanda, ut observemus ea quae sunt nostro tempore in praecepto. Quia *unicuique negotio est tempus et opportunitas*, ut dicitur [[Qo 8]]. Et praeterea, ut Origenes dicit, *sicut mortui sumus cum illo moriente, et consurreximus Christo resurgenti, ita circumcisi sumus spirituali circumcisione per Christum. Et ideo carnali circumcisione non indigemus*. Et hoc est quod apostolus dicit, [[Col 2]], in quo, scilicet Christo, circumcisi estis circumcisione non manu facta *in exspoliatione corporis carnis, sed in circumcisione domini nostri Iesu Christi*.]]
+![[LEO IIIa, q. 37, a. 1#ad 2|Ad secundum dicendum quod Christus circumcisionem suscepit eo tempore quo erat sub praecepto. Et ideo sua actio in hoc est nobis imitanda, ut observemus ea quae sunt nostro tempore in praecepto. Quia *unicuique negotio est tempus et opportunitas*, ut dicitur Eccle. VIII. Et praeterea, ut Origenes dicit, *sicut mortui sumus cum illo moriente, et consurreximus Christo resurgenti, ita circumcisi sumus spirituali circumcisione per Christum. Et ideo carnali circumcisione non indigemus*. Et hoc est quod apostolus dicit, Coloss. II, in quo, scilicet Christo, circumcisi estis circumcisione non manu facta *in exspoliatione corporis carnis, sed in circumcisione domini nostri Iesu Christi*.]]
 ![[CERF IIIa, q. 37, a. 1#ad 2]]
 
 ###### ad 3

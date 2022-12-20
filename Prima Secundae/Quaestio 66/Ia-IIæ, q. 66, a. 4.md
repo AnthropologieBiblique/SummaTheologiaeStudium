@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 66, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 66, a. 4#arg. 2|Praeterea, illud videtur esse maximum in unoquoque, quod est perfectissimum in ipso. Sed sicut dicitur [[Jc 1]], *patientia opus perfectum habet*. Ergo videtur quod patientia sit maior quam iustitia.]]
+![[LEO Ia-IIæ, q. 66, a. 4#arg. 2|Praeterea, illud videtur esse maximum in unoquoque, quod est perfectissimum in ipso. Sed sicut dicitur Iac. I, *patientia opus perfectum habet*. Ergo videtur quod patientia sit maior quam iustitia.]]
 ![[CERF Ia-IIæ, q. 66, a. 4#arg. 2]]
 
 ###### arg. 3

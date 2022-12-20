@@ -6,7 +6,7 @@ tags :
 ### Articulus 9
 
 ###### arg. 1
-![[LEO IIIa, q. 15, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod in Christo non fuerit ira. Dicitur enim [[Jc 1]], *ira enim viri iustitiam Dei non operatur*. Sed quidquid fuit in Christo ad iustitiam Dei pertinuit, ipse enim *factus est nobis iustitia a Deo*, ut dicitur [[1 Co 1]]. Ergo videtur quod in Christo non fuerit ira.]]
+![[LEO IIIa, q. 15, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod in Christo non fuerit ira. Dicitur enim Iac. I, *ira enim viri iustitiam Dei non operatur*. Sed quidquid fuit in Christo ad iustitiam Dei pertinuit, ipse enim *factus est nobis iustitia a Deo*, ut dicitur I Cor. I. Ergo videtur quod in Christo non fuerit ira.]]
 ![[CERF IIIa, q. 15, a. 9#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 15, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 15, a. 9#s.c.|Sed contra est quod [[Jn 2]] dicitur de eo esse impletum quod in Psalmo legitur, *zelus domus tuae comedit me*.]]
+![[LEO IIIa, q. 15, a. 9#s.c.|Sed contra est quod Ioan. II dicitur de eo esse impletum quod in Psalmo legitur, *zelus domus tuae comedit me*.]]
 ![[CERF IIIa, q. 15, a. 9#s.c.]]
 
 ###### resp.

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 10, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 10, a. 6#s.c.|Sed contra est quod dicitur [[2 P 2]], *melius erat illis non cognoscere viam iustitiae quam post cognitam retrorsum converti*. Sed gentiles non cognoverunt viam iustitiae, haeretici autem et Iudaei aliqualiter cognoscentes deseruerunt. Ergo eorum peccatum est gravius.]]
+![[LEO IIa-IIæ, q. 10, a. 6#s.c.|Sed contra est quod dicitur II Pet. II, *melius erat illis non cognoscere viam iustitiae quam post cognitam retrorsum converti*. Sed gentiles non cognoverunt viam iustitiae, haeretici autem et Iudaei aliqualiter cognoscentes deseruerunt. Ergo eorum peccatum est gravius.]]
 ![[CERF IIa-IIæ, q. 10, a. 6#s.c.]]
 
 ###### resp.

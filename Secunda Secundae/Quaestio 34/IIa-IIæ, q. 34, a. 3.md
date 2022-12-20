@@ -6,11 +6,11 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 34, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non omne odium proximi sit peccatum. Nullum enim peccatum invenitur in praeceptis vel consiliis legis divinae, secundum illud [[Pr 8]]. *Recti sunt omnes sermones mei, non est in eis pravum quid nec perversum*. Sed [[Lc 14]] dicitur, *si quis venit ad me et non odit patrem et matrem, non potest meus esse discipulus*. Ergo non omne odium proximi est peccatum.]]
+![[LEO IIa-IIæ, q. 34, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non omne odium proximi sit peccatum. Nullum enim peccatum invenitur in praeceptis vel consiliis legis divinae, secundum illud Prov. VIII. *Recti sunt omnes sermones mei, non est in eis pravum quid nec perversum*. Sed Luc. XIV dicitur, *si quis venit ad me et non odit patrem et matrem, non potest meus esse discipulus*. Ergo non omne odium proximi est peccatum.]]
 ![[CERF IIa-IIæ, q. 34, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 34, a. 3#arg. 2|Praeterea, nihil potest esse peccatum secundum quod Deum imitamur. Sed imitando Deum quosdam odio habemus, dicitur enim [[Rm 1]], *detractores, Deo odibiles*. Ergo possumus aliquos odio habere absque peccato.]]
+![[LEO IIa-IIæ, q. 34, a. 3#arg. 2|Praeterea, nihil potest esse peccatum secundum quod Deum imitamur. Sed imitando Deum quosdam odio habemus, dicitur enim Rom. I, *detractores, Deo odibiles*. Ergo possumus aliquos odio habere absque peccato.]]
 ![[CERF IIa-IIæ, q. 34, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 34, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 34, a. 3#s.c.|Sed contra est quod dicitur [[1 Jn 2]], *qui fratrem suum odit in tenebris est*. Sed tenebrae spirituales sunt peccata. Ergo odium proximi non potest esse sine peccato.]]
+![[LEO IIa-IIæ, q. 34, a. 3#s.c.|Sed contra est quod dicitur I Ioan. II, *qui fratrem suum odit in tenebris est*. Sed tenebrae spirituales sunt peccata. Ergo odium proximi non potest esse sine peccato.]]
 ![[CERF IIa-IIæ, q. 34, a. 3#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 34, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 34, a. 3#ad 1|Ad primum ergo dicendum quod parentes, quantum ad naturam et affinitatem qua nobis coniunguntur, sunt a nobis secundum praeceptum Dei honorandi, ut patet [[Ex 20]]. Odiendi autem sunt quantum ad hoc quod impedimentum praestant nobis accedendi ad perfectionem divinae iustitiae.]]
+![[LEO IIa-IIæ, q. 34, a. 3#ad 1|Ad primum ergo dicendum quod parentes, quantum ad naturam et affinitatem qua nobis coniunguntur, sunt a nobis secundum praeceptum Dei honorandi, ut patet Exod. XX. Odiendi autem sunt quantum ad hoc quod impedimentum praestant nobis accedendi ad perfectionem divinae iustitiae.]]
 ![[CERF IIa-IIæ, q. 34, a. 3#ad 1]]
 
 ###### ad 2

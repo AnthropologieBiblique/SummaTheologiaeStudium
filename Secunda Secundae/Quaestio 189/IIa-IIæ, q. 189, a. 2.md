@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 189, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 189, a. 2#arg. 3|Praeterea, nullus debet alteri praebere occasionem ruinae, unde [[Ex 21]] dicitur, *si quis aperuerit cisternam, cecideritque bos vel asinus in eam, dominus cisternae reddet pretium iumentorum*. Sed ex hoc quod aliqui obligantur ad religionem per votum, frequenter aliqui ruunt in desperationem et in diversa peccata. Ergo videtur quod non sint aliqui ad religionis ingressum voto obligandi.]]
+![[LEO IIa-IIæ, q. 189, a. 2#arg. 3|Praeterea, nullus debet alteri praebere occasionem ruinae, unde Exod. XXI dicitur, *si quis aperuerit cisternam, cecideritque bos vel asinus in eam, dominus cisternae reddet pretium iumentorum*. Sed ex hoc quod aliqui obligantur ad religionem per votum, frequenter aliqui ruunt in desperationem et in diversa peccata. Ergo videtur quod non sint aliqui ad religionis ingressum voto obligandi.]]
 ![[CERF IIa-IIæ, q. 189, a. 2#arg. 3]]
 
 ###### s.c.

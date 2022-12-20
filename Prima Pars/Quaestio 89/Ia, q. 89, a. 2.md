@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 89, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 89, a. 2#s.c.|Sed contra est quod animae separatae cognoscunt alias animas separatas; sicut dives in Inferno positus vidit Lazarum et Abraham, [[Lc 16]]. Ergo vident etiam et Daemones et Angelos animae separatae.]]
+![[LEO Ia, q. 89, a. 2#s.c.|Sed contra est quod animae separatae cognoscunt alias animas separatas; sicut dives in Inferno positus vidit Lazarum et Abraham, Luc. XVI. Ergo vident etiam et Daemones et Angelos animae separatae.]]
 ![[CERF Ia, q. 89, a. 2#s.c.]]
 
 ###### resp.

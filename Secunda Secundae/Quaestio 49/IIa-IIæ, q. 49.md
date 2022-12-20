@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 49#Prooemium|Deinde considerandum est de singulis prudentiae partibus quasi integralibus. Et circa hoc quaeruntur octo. Primo, de memoria. Secundo, de intellectu vel intelligentia. Tertio, de docilitate. Quarto, de solertia. Quinto, de ratione. Sexto, de providentia. Septimo, de circumspectione. Octavo, de cautione.]]
-![[CERF IIa-IIæ, q. 49#Prooemium]]
+Deinde considerandum est de singulis prudentiae partibus quasi integralibus. Et circa hoc quaeruntur octo. Primo, de memoria. Secundo, de intellectu vel intelligentia. Tertio, de docilitate. Quarto, de solertia. Quinto, de ratione. Sexto, de providentia. Septimo, de circumspectione. Octavo, de cautione.
 
 ![[IIa-IIæ, q. 49, a. 1#Articulus 1]]
 

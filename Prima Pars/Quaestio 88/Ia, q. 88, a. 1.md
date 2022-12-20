@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 88, a. 1#arg. 5]]
 
 ###### s.c.
-![[LEO Ia, q. 88, a. 1#s.c.|Sed contra est quod dicitur [[Sg 9]], *quae in caelis sunt, quis investigabit?* In caelis autem dicuntur huiusmodi substantiae esse; secundum illud [[Mt 18]], *Angeli eorum in caelis* et cetera. Ergo non possunt substantiae immateriales per investigationem humanam cognosci.]]
+![[LEO Ia, q. 88, a. 1#s.c.|Sed contra est quod dicitur Sap. IX, *quae in caelis sunt, quis investigabit?* In caelis autem dicuntur huiusmodi substantiae esse; secundum illud Matth. XVIII, *Angeli eorum in caelis* et cetera. Ergo non possunt substantiae immateriales per investigationem humanam cognosci.]]
 ![[CERF Ia, q. 88, a. 1#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 67, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod virtutes morales non maneant post hanc vitam. Homines enim in statu futurae gloriae erunt similes Angelis, ut dicitur [[Mt 22]]. Sed ridiculum est in Angelis ponere virtutes morales, ut dicitur in X Ethic. Ergo neque in hominibus, post hanc vitam, erunt virtutes morales.]]
+![[LEO Ia-IIæ, q. 67, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod virtutes morales non maneant post hanc vitam. Homines enim in statu futurae gloriae erunt similes Angelis, ut dicitur Matth. XXII. Sed ridiculum est in Angelis ponere virtutes morales, ut dicitur in X Ethic. Ergo neque in hominibus, post hanc vitam, erunt virtutes morales.]]
 ![[CERF Ia-IIæ, q. 67, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 67, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 67, a. 1#s.c.|Sed contra est quod dicitur [[Sg 1]], quod *iustitia perpetua est et immortalis*.]]
+![[LEO Ia-IIæ, q. 67, a. 1#s.c.|Sed contra est quod dicitur Sap. I, quod *iustitia perpetua est et immortalis*.]]
 ![[CERF Ia-IIæ, q. 67, a. 1#s.c.]]
 
 ###### resp.

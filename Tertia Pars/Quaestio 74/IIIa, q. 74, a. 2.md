@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 74, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 74, a. 2#arg. 2|Praeterea, ministris Ecclesiae non est a Christo data potestas ad ea quae pertinent ad irrisionem fidei et sacramentorum eius, secundum illud [[2 Co 10]], *secundum potestatem quam dedit mihi Deus in aedificationem, et non in destructionem*. Sed hoc esset ad irrisionem sacramenti, si sacerdos vellet consecrare totum panem qui venditur in foro, et totum vinum quod est in cellario. Ergo hoc facere non potest.]]
+![[LEO IIIa, q. 74, a. 2#arg. 2|Praeterea, ministris Ecclesiae non est a Christo data potestas ad ea quae pertinent ad irrisionem fidei et sacramentorum eius, secundum illud II Cor. X, *secundum potestatem quam dedit mihi Deus in aedificationem, et non in destructionem*. Sed hoc esset ad irrisionem sacramenti, si sacerdos vellet consecrare totum panem qui venditur in foro, et totum vinum quod est in cellario. Ergo hoc facere non potest.]]
 ![[CERF IIIa, q. 74, a. 2#arg. 2]]
 
 ###### arg. 3

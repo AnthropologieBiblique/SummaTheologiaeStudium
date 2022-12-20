@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 11#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 83, a. 11#resp.|Respondeo dicendum quod, sicut Hieronymus dicit, *Vigilantii error fuit quod, dum vivimus, mutuo pro nobis orare possumus; postquam autem mortui fuerimus, nullius sit pro alio exaudienda oratio, praesertim cum martyres, ultionem sui sanguinis obsecrantes, impetrare nequiverint*. Sed hoc est omnino falsum. Quia cum oratio pro aliis facta ex caritate proveniat, ut dictum est, quanto sancti qui sunt in patria sunt perfectioris caritatis, tanto magis orant pro viatoribus, qui orationibus iuvari possunt, et quanto sunt Deo coniunctiores, tanto eorum orationes sunt magis efficaces. Habet enim hoc divinus ordo, ut ex superiorum excellentia in inferiora refundatur, sicut ex claritate solis in aerem. Unde et de Christo dicitur, [[He 7]], *accedens per semetipsum ad Deum ad interpellandum pro nobis*. Et propter hoc Hieronymus, contra Vigilantium, dicit, *si apostoli et martyres adhuc in corpore constituti possunt orare pro ceteris, quando pro se adhuc debent esse solliciti; quanto magis post coronas, victorias et triumphos*.]]
+![[LEO IIa-IIæ, q. 83, a. 11#resp.|Respondeo dicendum quod, sicut Hieronymus dicit, *Vigilantii error fuit quod, dum vivimus, mutuo pro nobis orare possumus; postquam autem mortui fuerimus, nullius sit pro alio exaudienda oratio, praesertim cum martyres, ultionem sui sanguinis obsecrantes, impetrare nequiverint*. Sed hoc est omnino falsum. Quia cum oratio pro aliis facta ex caritate proveniat, ut dictum est, quanto sancti qui sunt in patria sunt perfectioris caritatis, tanto magis orant pro viatoribus, qui orationibus iuvari possunt, et quanto sunt Deo coniunctiores, tanto eorum orationes sunt magis efficaces. Habet enim hoc divinus ordo, ut ex superiorum excellentia in inferiora refundatur, sicut ex claritate solis in aerem. Unde et de Christo dicitur, Heb. VII, *accedens per semetipsum ad Deum ad interpellandum pro nobis*. Et propter hoc Hieronymus, contra Vigilantium, dicit, *si apostoli et martyres adhuc in corpore constituti possunt orare pro ceteris, quando pro se adhuc debent esse solliciti; quanto magis post coronas, victorias et triumphos*.]]
 ![[CERF IIa-IIæ, q. 83, a. 11#resp.]]
 
 ###### ad 1
@@ -50,6 +50,6 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 11#ad 4]]
 
 ###### ad 5
-![[LEO IIa-IIæ, q. 83, a. 11#ad 5|Ad quintum dicendum quod quia sancti viventes meruerunt ut pro nobis orarent, ideo eos invocamus nominibus quibus hic vocabantur, quibus etiam nobis magis innotescunt. Et iterum propter fidem resurrectionis insinuandam, sicut legitur [[Ex 3]], *ego sum Deus Abraham,* et cetera.]]
+![[LEO IIa-IIæ, q. 83, a. 11#ad 5|Ad quintum dicendum quod quia sancti viventes meruerunt ut pro nobis orarent, ideo eos invocamus nominibus quibus hic vocabantur, quibus etiam nobis magis innotescunt. Et iterum propter fidem resurrectionis insinuandam, sicut legitur Exod. III, *ego sum Deus Abraham,* et cetera.]]
 ![[CERF IIa-IIæ, q. 83, a. 11#ad 5]]
 

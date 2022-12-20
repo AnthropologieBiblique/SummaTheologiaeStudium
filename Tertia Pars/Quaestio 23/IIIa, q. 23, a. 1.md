@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 23, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 23, a. 1#s.c.|Sed contra est quod dicitur [[Ep 1]], *praedestinavit nos in adoptionem filiorum Dei*. Sed praedestinatio Dei non est irrita. Ergo Deus aliquos sibi adoptat in filios.]]
+![[LEO IIIa, q. 23, a. 1#s.c.|Sed contra est quod dicitur Ephes. I, *praedestinavit nos in adoptionem filiorum Dei*. Sed praedestinatio Dei non est irrita. Ergo Deus aliquos sibi adoptat in filios.]]
 ![[CERF IIIa, q. 23, a. 1#s.c.]]
 
 ###### resp.
@@ -30,10 +30,10 @@ tags :
 ![[CERF IIIa, q. 23, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 23, a. 1#ad 2|Ad secundum dicendum quod hominis est operari ad supplendam suam indigentiam, non autem Dei, cui convenit operari ad communicandam suae perfectionis abundantiam. Et ideo, sicut per actum creationis communicatur bonitas divina omnibus creaturis secundum quandam similitudinem, ita per actum adoptionis communicatur similitudo naturalis filiationis hominibus, secundum illud [[Rm 8]], *quos praescivit conformes fieri imaginis filii sui*.]]
+![[LEO IIIa, q. 23, a. 1#ad 2|Ad secundum dicendum quod hominis est operari ad supplendam suam indigentiam, non autem Dei, cui convenit operari ad communicandam suae perfectionis abundantiam. Et ideo, sicut per actum creationis communicatur bonitas divina omnibus creaturis secundum quandam similitudinem, ita per actum adoptionis communicatur similitudo naturalis filiationis hominibus, secundum illud Rom. VIII, *quos praescivit conformes fieri imaginis filii sui*.]]
 ![[CERF IIIa, q. 23, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 23, a. 1#ad 3|Ad tertium dicendum quod bona spiritualia possunt simul a pluribus possideri, non autem bona corporalia. Et ideo hereditatem corporalem nullus potest percipere nisi succedens decedenti, hereditatem autem spiritualem simul omnes ex integro percipiunt, sine detrimento patris semper viventis. Quamvis posset dici quod Deus decedit secundum quod est in nobis per fidem, ut incipiat in nobis esse per speciem, sicut Glossa dicit, [[Rm 8]], super illud, *si filii, et heredes*.]]
+![[LEO IIIa, q. 23, a. 1#ad 3|Ad tertium dicendum quod bona spiritualia possunt simul a pluribus possideri, non autem bona corporalia. Et ideo hereditatem corporalem nullus potest percipere nisi succedens decedenti, hereditatem autem spiritualem simul omnes ex integro percipiunt, sine detrimento patris semper viventis. Quamvis posset dici quod Deus decedit secundum quod est in nobis per fidem, ut incipiat in nobis esse per speciem, sicut Glossa dicit, Rom. VIII, super illud, *si filii, et heredes*.]]
 ![[CERF IIIa, q. 23, a. 1#ad 3]]
 

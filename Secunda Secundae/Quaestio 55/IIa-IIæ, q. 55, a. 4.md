@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 55, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 55, a. 4#arg. 3|Praeterea, [[Pr 12]] dicitur, *dolus in corde cogitantium mala*. Sed non omnis malorum cogitatio pertinet ad astutiam. Ergo dolus non videtur ad astutiam pertinere.]]
+![[LEO IIa-IIæ, q. 55, a. 4#arg. 3|Praeterea, Prov. XII dicitur, *dolus in corde cogitantium mala*. Sed non omnis malorum cogitatio pertinet ad astutiam. Ergo dolus non videtur ad astutiam pertinere.]]
 ![[CERF IIa-IIæ, q. 55, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 55, a. 4#s.c.|Sed contra est quod astutia ad circumveniendum ordinatur, secundum illud apostoli, ad [[Ep 4]], *in astutia ad circumventionem erroris*. Ad quod etiam dolus ordinatur. Ergo dolus pertinet ad astutiam.]]
+![[LEO IIa-IIæ, q. 55, a. 4#s.c.|Sed contra est quod astutia ad circumveniendum ordinatur, secundum illud apostoli, ad Ephes. IV, *in astutia ad circumventionem erroris*. Ad quod etiam dolus ordinatur. Ergo dolus pertinet ad astutiam.]]
 ![[CERF IIa-IIæ, q. 55, a. 4#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 55, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 55, a. 4#ad 2|Ad secundum dicendum quod executio astutiae ad decipiendum primo quidem et principaliter fit per verba, quae praecipuum locum tenent inter signa quibus homo significat aliquid alteri, ut patet per Augustinum, in libro de Doct. Christ. Et ideo dolus maxime attribuitur locutioni. Contingit tamen esse dolum et in factis, secundum illud Psalm., *et dolum facerent in servos eius*. Est etiam et dolus in corde, secundum illud [[Si 19]]. *Interiora eius plena sunt dolo*. Sed hoc est secundum quod aliquis dolos excogitat, secundum illud Psalm., *dolos tota die meditabantur*.]]
+![[LEO IIa-IIæ, q. 55, a. 4#ad 2|Ad secundum dicendum quod executio astutiae ad decipiendum primo quidem et principaliter fit per verba, quae praecipuum locum tenent inter signa quibus homo significat aliquid alteri, ut patet per Augustinum, in libro de Doct. Christ. Et ideo dolus maxime attribuitur locutioni. Contingit tamen esse dolum et in factis, secundum illud Psalm., *et dolum facerent in servos eius*. Est etiam et dolus in corde, secundum illud Eccli. XIX. *Interiora eius plena sunt dolo*. Sed hoc est secundum quod aliquis dolos excogitat, secundum illud Psalm., *dolos tota die meditabantur*.]]
 ![[CERF IIa-IIæ, q. 55, a. 4#ad 2]]
 
 ###### ad 3

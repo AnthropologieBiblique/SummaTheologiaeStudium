@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 18, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 18, a. 1#s.c.|Sed contra est quod dominus dicit, [[Jn 3]], *omnis qui male agit, odit lucem*. Est ergo aliqua actio hominis mala.]]
+![[LEO Ia-IIæ, q. 18, a. 1#s.c.|Sed contra est quod dominus dicit, Ioan. III, *omnis qui male agit, odit lucem*. Est ergo aliqua actio hominis mala.]]
 ![[CERF Ia-IIæ, q. 18, a. 1#s.c.]]
 
 ###### resp.

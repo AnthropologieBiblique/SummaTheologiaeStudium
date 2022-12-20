@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIIa, q. 39, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod illa columba in qua spiritus sanctus apparuit, non fuerit verum animal. Illud enim videtur specie tenus apparere quod secundum similitudinem apparet sed [[Lc 3]] dicitur quod *descendit spiritus sanctus corporali specie sicut columba in ipsum*. Non ergo fuit vera columba, sed quaedam similitudo columbae.]]
+![[LEO IIIa, q. 39, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod illa columba in qua spiritus sanctus apparuit, non fuerit verum animal. Illud enim videtur specie tenus apparere quod secundum similitudinem apparet sed Luc. III dicitur quod *descendit spiritus sanctus corporali specie sicut columba in ipsum*. Non ergo fuit vera columba, sed quaedam similitudo columbae.]]
 ![[CERF IIIa, q. 39, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 39, a. 7#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 39, a. 7#resp.|Respondeo dicendum quod, sicut supra dictum est, non decebat ut filius Dei, qui est veritas patris, aliqua fictione uteretur, et ideo non phantasticum, sed verum corpus accepit. Et quia spiritus sanctus dicitur spiritus veritatis, ut patet [[Jn 16]], ideo etiam ipse veram columbam formavit in qua appareret, licet non assumeret ipsam in unitatem personae. Unde post praedicta verba Augustinus subdit, *sicut non oportebat ut homines falleret filius Dei, sic etiam non oportebat ut falleret spiritus sanctus. Sed omnipotenti Deo, qui universam creaturam ex nihilo fabricavit, non erat difficile verum corpus columbae sine aliarum columbarum ministerio figurare, sicut non fuit ei difficile verum corpus in utero Mariae sine virili semine fabricare, cum creatura corporea et in visceribus feminae ad formandum hominem, et in ipso mundo ad formandum columbam, imperio domini voluntatique serviret*.]]
+![[LEO IIIa, q. 39, a. 7#resp.|Respondeo dicendum quod, sicut supra dictum est, non decebat ut filius Dei, qui est veritas patris, aliqua fictione uteretur, et ideo non phantasticum, sed verum corpus accepit. Et quia spiritus sanctus dicitur spiritus veritatis, ut patet Ioan. XVI, ideo etiam ipse veram columbam formavit in qua appareret, licet non assumeret ipsam in unitatem personae. Unde post praedicta verba Augustinus subdit, *sicut non oportebat ut homines falleret filius Dei, sic etiam non oportebat ut falleret spiritus sanctus. Sed omnipotenti Deo, qui universam creaturam ex nihilo fabricavit, non erat difficile verum corpus columbae sine aliarum columbarum ministerio figurare, sicut non fuit ei difficile verum corpus in utero Mariae sine virili semine fabricare, cum creatura corporea et in visceribus feminae ad formandum hominem, et in ipso mundo ad formandum columbam, imperio domini voluntatique serviret*.]]
 ![[CERF IIIa, q. 39, a. 7#resp.]]
 
 ###### ad 1

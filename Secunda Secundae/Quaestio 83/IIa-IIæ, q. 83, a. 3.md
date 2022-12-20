@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 83, a. 3#ad 2|Ad secundum dicendum quod non solum petere quae desideramus, sed etiam recte aliquid desiderare sub praecepto cadit. Sed desiderare quidem cadit sub praecepto caritatis, petere autem sub praecepto religionis. Quod quidem praeceptum ponitur [[Mt 7]], ubi dicitur, *petite, et accipietis*.]]
+![[LEO IIa-IIæ, q. 83, a. 3#ad 2|Ad secundum dicendum quod non solum petere quae desideramus, sed etiam recte aliquid desiderare sub praecepto cadit. Sed desiderare quidem cadit sub praecepto caritatis, petere autem sub praecepto religionis. Quod quidem praeceptum ponitur Matth. VII, ubi dicitur, *petite, et accipietis*.]]
 ![[CERF IIa-IIæ, q. 83, a. 3#ad 2]]
 
 ###### ad 3

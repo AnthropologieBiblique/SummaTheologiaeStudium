@@ -6,7 +6,7 @@ tags :
 ### Articulus 12
 
 ###### arg. 1
-![[LEO IIIa, q. 16, a. 12#arg. 1|Ad duodecimum sic proceditur. Videtur quod Christus, secundum quod homo, sit hypostasis vel persona. Illud enim quod convenit cuilibet homini, convenit Christo secundum quod est homo, est enim aliis hominibus similis, secundum illud [[Ph 2]], *in similitudinem hominum factus*. Sed omnis homo est persona. Ergo Christus, secundum quod homo, est persona.]]
+![[LEO IIIa, q. 16, a. 12#arg. 1|Ad duodecimum sic proceditur. Videtur quod Christus, secundum quod homo, sit hypostasis vel persona. Illud enim quod convenit cuilibet homini, convenit Christo secundum quod est homo, est enim aliis hominibus similis, secundum illud Philipp. II, *in similitudinem hominum factus*. Sed omnis homo est persona. Ergo Christus, secundum quod homo, est persona.]]
 ![[CERF IIIa, q. 16, a. 12#arg. 1]]
 
 ###### arg. 2

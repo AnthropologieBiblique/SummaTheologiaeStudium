@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 24, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 24, a. 7#s.c.|Sed contra est quod apostolus dicit, ad [[Ph 3]]. *Non quod iam acceperim, aut iam perfectus sim, sequor autem si quo modo comprehendam*. Ubi dicit Glossa, *nemo fidelium, etsi multum profecerit, dicat, sufficit mihi. Qui enim hoc dicit, exit de via ante finem*. Ergo semper in via caritas potest magis ac magis augeri.]]
+![[LEO IIa-IIæ, q. 24, a. 7#s.c.|Sed contra est quod apostolus dicit, ad Philipp. III. *Non quod iam acceperim, aut iam perfectus sim, sequor autem si quo modo comprehendam*. Ubi dicit Glossa, *nemo fidelium, etsi multum profecerit, dicat, sufficit mihi. Qui enim hoc dicit, exit de via ante finem*. Ergo semper in via caritas potest magis ac magis augeri.]]
 ![[CERF IIa-IIæ, q. 24, a. 7#s.c.]]
 
 ###### resp.

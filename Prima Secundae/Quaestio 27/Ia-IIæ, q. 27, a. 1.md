@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 27, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non solum bonum sit causa amoris. Bonum enim non est causa amoris, nisi quia amatur. Sed contingit etiam malum amari, secundum illud [[Ps 10]], *qui diligit iniquitatem, odit animam suam*, alioquin omnis amor esset bonus. Ergo non solum bonum est causa amoris.]]
+![[LEO Ia-IIæ, q. 27, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non solum bonum sit causa amoris. Bonum enim non est causa amoris, nisi quia amatur. Sed contingit etiam malum amari, secundum illud Psalmi X, *qui diligit iniquitatem, odit animam suam*, alioquin omnis amor esset bonus. Ergo non solum bonum est causa amoris.]]
 ![[CERF Ia-IIæ, q. 27, a. 1#arg. 1]]
 
 ###### arg. 2

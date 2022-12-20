@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 188, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod nulla religio ordinari possit ad militandum. Omnis enim religio pertinet ad statum perfectionis. Sed ad perfectionem vitae Christianae pertinet quod dominus dicit, [[Mt 5]], *ego dico vobis, non resistere malo, sed si quis percusserit te in unam maxillam, praebe ei et alteram*, quod repugnat officio militari. Ergo nulla religio potest institui ad militandum.]]
+![[LEO IIa-IIæ, q. 188, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod nulla religio ordinari possit ad militandum. Omnis enim religio pertinet ad statum perfectionis. Sed ad perfectionem vitae Christianae pertinet quod dominus dicit, Matth. V, *ego dico vobis, non resistere malo, sed si quis percusserit te in unam maxillam, praebe ei et alteram*, quod repugnat officio militari. Ergo nulla religio potest institui ad militandum.]]
 ![[CERF IIa-IIæ, q. 188, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 188, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 188, a. 3#resp.|Respondeo dicendum quod, sicut dictum est, religio institui potest non solum ad opera contemplativae vitae, sed etiam ad opera vitae activae, inquantum pertinent ad subventionem proximorum et obsequium Dei, non autem inquantum pertinent ad aliquid mundanum tenendum. Potest autem officium militare ordinari ad subventionem proximorum, non solum quantum ad privatas personas, sed etiam quantum ad totius reipublicae defensionem, unde de Iuda Machabaeo dicitur, [[1 M 3]], quod *praeliabatur praelium Israel cum laetitia, et dilatavit gloriam populo suo*. Ordinari etiam potest ad conservationem divini cultus, unde ibidem subditur Iudam dixisse, *nos pugnabimus pro animabus nostris et legibus nostris*; et infra, XIII, dicit Simon, *vos scitis quanta ego et fratres mei et domus patris mei fecimus pro legibus et pro sanctis praelia*. Unde convenienter institui potest aliqua religio ad militandum, non quidem propter aliquid mundanum, sed propter defensionem divini cultus et publicae salutis; vel etiam pauperum et oppressorum, secundum illud Psalmi, *eripite pauperem, et egenum de manu peccatoris liberate*.]]
+![[LEO IIa-IIæ, q. 188, a. 3#resp.|Respondeo dicendum quod, sicut dictum est, religio institui potest non solum ad opera contemplativae vitae, sed etiam ad opera vitae activae, inquantum pertinent ad subventionem proximorum et obsequium Dei, non autem inquantum pertinent ad aliquid mundanum tenendum. Potest autem officium militare ordinari ad subventionem proximorum, non solum quantum ad privatas personas, sed etiam quantum ad totius reipublicae defensionem, unde de Iuda Machabaeo dicitur, I Machab. III, quod *praeliabatur praelium Israel cum laetitia, et dilatavit gloriam populo suo*. Ordinari etiam potest ad conservationem divini cultus, unde ibidem subditur Iudam dixisse, *nos pugnabimus pro animabus nostris et legibus nostris*; et infra, XIII, dicit Simon, *vos scitis quanta ego et fratres mei et domus patris mei fecimus pro legibus et pro sanctis praelia*. Unde convenienter institui potest aliqua religio ad militandum, non quidem propter aliquid mundanum, sed propter defensionem divini cultus et publicae salutis; vel etiam pauperum et oppressorum, secundum illud Psalmi, *eripite pauperem, et egenum de manu peccatoris liberate*.]]
 ![[CERF IIa-IIæ, q. 188, a. 3#resp.]]
 
 ###### ad 1

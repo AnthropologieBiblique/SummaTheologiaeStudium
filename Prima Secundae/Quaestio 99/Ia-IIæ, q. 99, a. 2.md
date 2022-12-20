@@ -14,15 +14,15 @@ tags :
 ![[CERF Ia-IIæ, q. 99, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 99, a. 2#arg. 3|Praeterea, lex vetus dicitur littera occidens, ut patet II ad Cor. III. Sed praecepta moralia non occidunt, sed vivificant; secundum illud [[Ps 118]], *in aeternum non obliviscar iustificationes tuas, quia in ipsis vivificasti me*. Ergo praecepta moralia non pertinent ad veterem legem.]]
+![[LEO Ia-IIæ, q. 99, a. 2#arg. 3|Praeterea, lex vetus dicitur littera occidens, ut patet II ad Cor. III. Sed praecepta moralia non occidunt, sed vivificant; secundum illud Psalmi CXVIII, *in aeternum non obliviscar iustificationes tuas, quia in ipsis vivificasti me*. Ergo praecepta moralia non pertinent ad veterem legem.]]
 ![[CERF Ia-IIæ, q. 99, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 99, a. 2#s.c.|Sed contra est quod dicitur [[Si 17]], *addidit illis disciplinam, et legem vitae haereditavit eos*. Disciplina autem pertinet ad mores, dicit enim Glossa ad [[He 12]], super illud, omnis disciplina etc., *disciplina est eruditio morum per difficilia*. Ergo lex a Deo data, praecepta moralia continebat.]]
+![[LEO Ia-IIæ, q. 99, a. 2#s.c.|Sed contra est quod dicitur Eccli. XVII, *addidit illis disciplinam, et legem vitae haereditavit eos*. Disciplina autem pertinet ad mores, dicit enim Glossa ad Heb. XII, super illud, omnis disciplina etc., *disciplina est eruditio morum per difficilia*. Ergo lex a Deo data, praecepta moralia continebat.]]
 ![[CERF Ia-IIæ, q. 99, a. 2#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 99, a. 2#resp.|Respondeo dicendum quod lex vetus continebat praecepta quaedam moralia, ut patet [[Ex 20]], *non occides, non furtum facies*. Et hoc rationabiliter. Nam sicut intentio principalis legis humanae est ut faciat amicitiam hominum ad invicem; ita intentio legis divinae est ut constituat principaliter amicitiam hominis ad Deum. Cum autem similitudo sit ratio amoris, secundum illud [[Si 13]], *omne animal diligit simile sibi*; impossibile est esse amicitiam hominis ad Deum, qui est optimus, nisi homines boni efficiantur, unde dicitur [[Lv 19]], *sancti eritis, quoniam ego sanctus sum*. Bonitas autem hominis est virtus, quae facit bonum habentem. Et ideo oportuit praecepta legis veteris etiam de actibus virtutum dari. Et haec sunt moralia legis praecepta.]]
+![[LEO Ia-IIæ, q. 99, a. 2#resp.|Respondeo dicendum quod lex vetus continebat praecepta quaedam moralia, ut patet Exod. XX, *non occides, non furtum facies*. Et hoc rationabiliter. Nam sicut intentio principalis legis humanae est ut faciat amicitiam hominum ad invicem; ita intentio legis divinae est ut constituat principaliter amicitiam hominis ad Deum. Cum autem similitudo sit ratio amoris, secundum illud Eccli. XIII, *omne animal diligit simile sibi*; impossibile est esse amicitiam hominis ad Deum, qui est optimus, nisi homines boni efficiantur, unde dicitur Levit. XIX, *sancti eritis, quoniam ego sanctus sum*. Bonitas autem hominis est virtus, quae facit bonum habentem. Et ideo oportuit praecepta legis veteris etiam de actibus virtutum dari. Et haec sunt moralia legis praecepta.]]
 ![[CERF Ia-IIæ, q. 99, a. 2#resp.]]
 
 ###### ad 1

@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 58, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Christo non conveniat sedere ad dexteram Dei patris. Dextera enim et sinistra sunt differentiae positionum corporalium. Sed nihil corporale convenit Deo, quia *Deus spiritus est*, ut habetur [[Jn 4]]. Ergo videtur quod Christus non sedeat ad dexteram patris.]]
+![[LEO IIIa, q. 58, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Christo non conveniat sedere ad dexteram Dei patris. Dextera enim et sinistra sunt differentiae positionum corporalium. Sed nihil corporale convenit Deo, quia *Deus spiritus est*, ut habetur Ioan. IV. Ergo videtur quod Christus non sedeat ad dexteram patris.]]
 ![[CERF IIIa, q. 58, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 58, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 58, a. 1#arg. 3|Praeterea, sedere et stare videntur oppositionem habere. Sed Stephanus dicit, [[Ac 7]], *ecce, video caelos apertos, et filium hominis stantem a dextris virtutis Dei*. Ergo videtur quod Christus non sedeat ad dexteram patris.]]
+![[LEO IIIa, q. 58, a. 1#arg. 3|Praeterea, sedere et stare videntur oppositionem habere. Sed Stephanus dicit, Act. VII, *ecce, video caelos apertos, et filium hominis stantem a dextris virtutis Dei*. Ergo videtur quod Christus non sedeat ad dexteram patris.]]
 ![[CERF IIIa, q. 58, a. 1#arg. 3]]
 
 ###### s.c.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 11
 
 ###### arg. 1
-![[LEO IIIa, q. 80, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod liceat cessare omnino a communione. Laudatur enim centurio de hoc quod dicit, [[Mt 8]] *domine, non sum dignus ut intres sub tectum meum*. Cui comparatur ille qui reputat sibi a communione esse abstinendum, ut dictum est. Cum ergo nunquam legatur Christum in eius domum venisse, videtur quod liceat alicui toto tempore vitae suae a communione abstinere.]]
+![[LEO IIIa, q. 80, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod liceat cessare omnino a communione. Laudatur enim centurio de hoc quod dicit, Matth. VIII *domine, non sum dignus ut intres sub tectum meum*. Cui comparatur ille qui reputat sibi a communione esse abstinendum, ut dictum est. Cum ergo nunquam legatur Christum in eius domum venisse, videtur quod liceat alicui toto tempore vitae suae a communione abstinere.]]
 ![[CERF IIIa, q. 80, a. 11#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 80, a. 11#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 80, a. 11#s.c.|Sed contra est quod dominus dicit, [[Jn 6]], *nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis*.]]
+![[LEO IIIa, q. 80, a. 11#s.c.|Sed contra est quod dominus dicit, Ioan. VI, *nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis*.]]
 ![[CERF IIIa, q. 80, a. 11#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 80, a. 11#resp.|Respondeo dicendum quod, sicut supra dictum est, duplex est modus percipiendi hoc sacramentum, spiritualis scilicet et sacramentalis. Manifestum est autem quod omnes tenentur saltem spiritualiter manducare, quia hoc est Christo incorporari, ut supra dictum est. Spiritualis autem manducatio includit votum seu desiderium percipiendi hoc sacramentum, ut supra dictum est. Et ideo sine voto percipiendi hoc sacramentum non potest homini esse salus. Frustra autem esset votum nisi impleretur quando opportunitas adesset. Et ideo manifestum est quod homo tenetur hoc sacramentum sumere, non solum ex statuto Ecclesiae, sed etiam ex mandato domini, dicentis, [[Mt 26]], *hoc facite in meam commemorationem*. Ex statuto autem Ecclesiae sunt determinata tempora exequendi Christi praeceptum.]]
+![[LEO IIIa, q. 80, a. 11#resp.|Respondeo dicendum quod, sicut supra dictum est, duplex est modus percipiendi hoc sacramentum, spiritualis scilicet et sacramentalis. Manifestum est autem quod omnes tenentur saltem spiritualiter manducare, quia hoc est Christo incorporari, ut supra dictum est. Spiritualis autem manducatio includit votum seu desiderium percipiendi hoc sacramentum, ut supra dictum est. Et ideo sine voto percipiendi hoc sacramentum non potest homini esse salus. Frustra autem esset votum nisi impleretur quando opportunitas adesset. Et ideo manifestum est quod homo tenetur hoc sacramentum sumere, non solum ex statuto Ecclesiae, sed etiam ex mandato domini, dicentis, Matth. XXVI, *hoc facite in meam commemorationem*. Ex statuto autem Ecclesiae sunt determinata tempora exequendi Christi praeceptum.]]
 ![[CERF IIIa, q. 80, a. 11#resp.]]
 
 ###### ad 1

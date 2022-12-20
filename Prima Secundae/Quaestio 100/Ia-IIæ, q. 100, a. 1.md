@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 100, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non omnia praecepta moralia pertineant ad legem naturae. Dicitur enim [[Si 17]], *addidit illis disciplinam, et legem vitae haereditavit illos*. Sed disciplina dividitur contra legem naturae, eo quod lex naturalis non addiscitur, sed ex naturali instinctu habetur. Ergo non omnia praecepta moralia sunt de lege naturae.]]
+![[LEO Ia-IIæ, q. 100, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non omnia praecepta moralia pertineant ad legem naturae. Dicitur enim Eccli. XVII, *addidit illis disciplinam, et legem vitae haereditavit illos*. Sed disciplina dividitur contra legem naturae, eo quod lex naturalis non addiscitur, sed ex naturali instinctu habetur. Ergo non omnia praecepta moralia sunt de lege naturae.]]
 ![[CERF Ia-IIæ, q. 100, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 100, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 100, a. 1#s.c.|Sed contra est quod dicit apostolus, [[Rm 2]], quod *gentes, quae legem non habent, naturaliter ea quae legis sunt, faciunt*, quod oportet intelligi de his quae pertinent ad bonos mores. Ergo omnia moralia praecepta legis sunt de lege naturae.]]
+![[LEO Ia-IIæ, q. 100, a. 1#s.c.|Sed contra est quod dicit apostolus, Rom. II, quod *gentes, quae legem non habent, naturaliter ea quae legis sunt, faciunt*, quod oportet intelligi de his quae pertinent ad bonos mores. Ergo omnia moralia praecepta legis sunt de lege naturae.]]
 ![[CERF Ia-IIæ, q. 100, a. 1#s.c.]]
 
 ###### resp.

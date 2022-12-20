@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 10, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 10, a. 4#s.c.|Sed contra est quod apostolus dicit, [[Ep 1]], quod *Deus constituit Christum in caelestibus super omnem principatum et potestatem et virtutem et dominationem, et omne nomen quod nominatur, non solum in hoc saeculo, sed etiam in futuro*. Sed in caelesti gloria tanto aliquis est superior quanto perfectius cognoscit Deum. Ergo anima Christi perfectius videt Deum quam quaevis alia creatura.]]
+![[LEO IIIa, q. 10, a. 4#s.c.|Sed contra est quod apostolus dicit, Ephes. I, quod *Deus constituit Christum in caelestibus super omnem principatum et potestatem et virtutem et dominationem, et omne nomen quod nominatur, non solum in hoc saeculo, sed etiam in futuro*. Sed in caelesti gloria tanto aliquis est superior quanto perfectius cognoscit Deum. Ergo anima Christi perfectius videt Deum quam quaevis alia creatura.]]
 ![[CERF IIIa, q. 10, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 10, a. 4#resp.|Respondeo dicendum quod divinae essentiae visio convenit omnibus beatis secundum participationem luminis derivati ad eos a fonte verbi Dei, secundum illud [[Si 1]], *fons sapientiae verbum Dei in excelsis*. Huic autem verbo Dei propinquius coniungitur anima Christi, quae est unita verbo in persona, quam quaevis alia creatura. Et ideo plenius recipit influentiam luminis in quo Deus videtur ab ipso verbo, quam quaecumque alia creatura. Et ideo prae ceteris creaturis perfectius videt ipsam primam veritatem, quae est Dei essentia. Et ideo dicitur [[Jn 1]], *vidimus gloriam eius, quasi unigeniti a patre, plenum* non solum gratiae, sed etiam veritatis.]]
+![[LEO IIIa, q. 10, a. 4#resp.|Respondeo dicendum quod divinae essentiae visio convenit omnibus beatis secundum participationem luminis derivati ad eos a fonte verbi Dei, secundum illud Eccli. I, *fons sapientiae verbum Dei in excelsis*. Huic autem verbo Dei propinquius coniungitur anima Christi, quae est unita verbo in persona, quam quaevis alia creatura. Et ideo plenius recipit influentiam luminis in quo Deus videtur ab ipso verbo, quam quaecumque alia creatura. Et ideo prae ceteris creaturis perfectius videt ipsam primam veritatem, quae est Dei essentia. Et ideo dicitur Ioan. I, *vidimus gloriam eius, quasi unigeniti a patre, plenum* non solum gratiae, sed etiam veritatis.]]
 ![[CERF IIIa, q. 10, a. 4#resp.]]
 
 ###### ad 1

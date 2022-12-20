@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 103, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 103, a. 3#arg. 3|Praeterea, in natura semper invenitur quod melius est. Sed melius est simul esse duos quam unum, ut dicitur [[Qo 4]]. Ergo mundus non gubernatur ab uno, sed a pluribus.]]
+![[LEO Ia, q. 103, a. 3#arg. 3|Praeterea, in natura semper invenitur quod melius est. Sed melius est simul esse duos quam unum, ut dicitur Eccle. IV. Ergo mundus non gubernatur ab uno, sed a pluribus.]]
 ![[CERF Ia, q. 103, a. 3#arg. 3]]
 
 ###### s.c.

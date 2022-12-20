@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 94, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 94, a. 2#arg. 2|Praeterea, anima in statu praesenti impeditur a cognitione substantiarum separatarum, ex hoc quod est unita corpori corruptibili, quod aggravat animam, ut dicitur [[Sg 9]]. Unde et anima separata substantias separatas videre potest, ut supra dictum est. Sed anima primi hominis non aggravabatur a corpore, cum non esset corruptibile. Ergo poterat videre substantias separatas.]]
+![[LEO Ia, q. 94, a. 2#arg. 2|Praeterea, anima in statu praesenti impeditur a cognitione substantiarum separatarum, ex hoc quod est unita corpori corruptibili, quod aggravat animam, ut dicitur Sap. IX. Unde et anima separata substantias separatas videre potest, ut supra dictum est. Sed anima primi hominis non aggravabatur a corpore, cum non esset corruptibile. Ergo poterat videre substantias separatas.]]
 ![[CERF Ia, q. 94, a. 2#arg. 2]]
 
 ###### arg. 3

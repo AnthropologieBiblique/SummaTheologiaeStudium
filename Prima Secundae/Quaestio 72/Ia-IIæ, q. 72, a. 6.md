@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 72, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod peccatum commissionis et omissionis specie differant. Delictum enim contra peccatum dividitur, [[Ep 2]], ubi dicitur, *cum essetis mortui delictis et peccatis vestris*. Et exponit ibi Glossa, *delictis, idest dimittendo quae iubentur; et peccatis, scilicet agendo prohibita*, ex quo patet quod per delictum intelligitur peccatum omissionis, per peccatum, peccatum commissionis. Differunt igitur specie, cum ex opposito dividantur, tanquam diversae species.]]
+![[LEO Ia-IIæ, q. 72, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod peccatum commissionis et omissionis specie differant. Delictum enim contra peccatum dividitur, Ephes. II, ubi dicitur, *cum essetis mortui delictis et peccatis vestris*. Et exponit ibi Glossa, *delictis, idest dimittendo quae iubentur; et peccatis, scilicet agendo prohibita*, ex quo patet quod per delictum intelligitur peccatum omissionis, per peccatum, peccatum commissionis. Differunt igitur specie, cum ex opposito dividantur, tanquam diversae species.]]
 ![[CERF Ia-IIæ, q. 72, a. 6#arg. 1]]
 
 ###### arg. 2

@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 77, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non liceat, negotiando, aliquid carius vendere quam emere. Dicit enim Chrysostomus, super [[Mt 21]], *quicumque rem comparat ut, integram et immutatam vendendo, lucretur, ille est mercator qui de templo Dei eiicitur*. Et idem dicit Cassiodorus, super illud Psalm., *quoniam non cognovi litteraturam*, vel negotiationem secundum aliam litteram, *quid, inquit, est aliud negotiatio nisi vilius comparare et carius velle distrahere?* Et subdit, *negotiatores tales dominus eiecit de templo*. Sed nullus eiicitur de templo nisi propter aliquod peccatum. Ergo talis negotiatio est peccatum.]]
+![[LEO IIa-IIæ, q. 77, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non liceat, negotiando, aliquid carius vendere quam emere. Dicit enim Chrysostomus, super Matth. XXI, *quicumque rem comparat ut, integram et immutatam vendendo, lucretur, ille est mercator qui de templo Dei eiicitur*. Et idem dicit Cassiodorus, super illud Psalm., *quoniam non cognovi litteraturam*, vel negotiationem secundum aliam litteram, *quid, inquit, est aliud negotiatio nisi vilius comparare et carius velle distrahere?* Et subdit, *negotiatores tales dominus eiecit de templo*. Sed nullus eiicitur de templo nisi propter aliquod peccatum. Ergo talis negotiatio est peccatum.]]
 ![[CERF IIa-IIæ, q. 77, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 77, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 77, a. 4#ad 3|Ad tertium dicendum quod clerici non solum debent abstinere ab his quae sunt secundum se mala, sed etiam ab his quae habent speciem mali. Quod quidem in negotiatione contingit, tum propter hoc quod est ordinata ad lucrum terrenum, cuius clerici debent esse contemptores; tum etiam propter frequentia negotiatorum vitia, quia *difficiliter exuitur negotiator a peccatis labiorum*, ut dicitur [[Si 26]]. Est et alia causa, quia negotiatio nimis implicat animum saecularibus curis, et per consequens a spiritualibus retrahit, unde apostolus dicit, [[2 Tm 2]], *nemo militans Deo implicat se negotiis saecularibus*. Licet tamen clericis uti prima commutationis specie, quae ordinatur ad necessitatem vitae, emendo vel vendendo.]]
+![[LEO IIa-IIæ, q. 77, a. 4#ad 3|Ad tertium dicendum quod clerici non solum debent abstinere ab his quae sunt secundum se mala, sed etiam ab his quae habent speciem mali. Quod quidem in negotiatione contingit, tum propter hoc quod est ordinata ad lucrum terrenum, cuius clerici debent esse contemptores; tum etiam propter frequentia negotiatorum vitia, quia *difficiliter exuitur negotiator a peccatis labiorum*, ut dicitur Eccli. XXVI. Est et alia causa, quia negotiatio nimis implicat animum saecularibus curis, et per consequens a spiritualibus retrahit, unde apostolus dicit, II ad Tim. II, *nemo militans Deo implicat se negotiis saecularibus*. Licet tamen clericis uti prima commutationis specie, quae ordinatur ad necessitatem vitae, emendo vel vendendo.]]
 ![[CERF IIa-IIæ, q. 77, a. 4#ad 3]]
 

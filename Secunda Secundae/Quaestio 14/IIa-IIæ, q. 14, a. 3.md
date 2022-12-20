@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 14, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 14, a. 3#arg. 3|Praeterea, liberum arbitrium se habet ad bonum et ad malum. Sed quandiu durat status viae, potest aliquis a quacumque virtute excidere, cum etiam Angelus de caelo ceciderit, unde dicitur [[Jb 4]], *in Angelis suis reperit pravitatem, quanto magis qui habitant domos luteas?* Ergo pari ratione potest aliquis a quocumque peccato ad statum iustitiae redire. Ergo peccatum in spiritum sanctum non est irremissibile.]]
+![[LEO IIa-IIæ, q. 14, a. 3#arg. 3|Praeterea, liberum arbitrium se habet ad bonum et ad malum. Sed quandiu durat status viae, potest aliquis a quacumque virtute excidere, cum etiam Angelus de caelo ceciderit, unde dicitur Iob IV, *in Angelis suis reperit pravitatem, quanto magis qui habitant domos luteas?* Ergo pari ratione potest aliquis a quocumque peccato ad statum iustitiae redire. Ergo peccatum in spiritum sanctum non est irremissibile.]]
 ![[CERF IIa-IIæ, q. 14, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 14, a. 3#s.c.|Sed contra est quod dicitur [[Mt 12]], *qui dixerit verbum contra spiritum sanctum, non remittetur ei neque in hoc saeculo neque in futuro*. Et Augustinus dicit, in libro de Serm. Dom. in monte, quod *tanta est labes huius peccati quod humilitatem deprecandi subire non potest*.]]
+![[LEO IIa-IIæ, q. 14, a. 3#s.c.|Sed contra est quod dicitur Matth. XII, *qui dixerit verbum contra spiritum sanctum, non remittetur ei neque in hoc saeculo neque in futuro*. Et Augustinus dicit, in libro de Serm. Dom. in monte, quod *tanta est labes huius peccati quod humilitatem deprecandi subire non potest*.]]
 ![[CERF IIa-IIæ, q. 14, a. 3#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 14, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 14, a. 3#ad 1|Ad primum ergo dicendum quod de nemine desperandum est in hac vita, considerata omnipotentia et misericordia Dei. Sed considerata conditione peccati, dicuntur aliqui filii diffidentiae, ut habetur ad [[Ep 2]].]]
+![[LEO IIa-IIæ, q. 14, a. 3#ad 1|Ad primum ergo dicendum quod de nemine desperandum est in hac vita, considerata omnipotentia et misericordia Dei. Sed considerata conditione peccati, dicuntur aliqui filii diffidentiae, ut habetur ad Ephes. II.]]
 ![[CERF IIa-IIæ, q. 14, a. 3#ad 1]]
 
 ###### ad 2

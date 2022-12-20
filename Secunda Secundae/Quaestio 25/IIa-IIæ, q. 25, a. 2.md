@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 25, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod caritas non sit ex caritate diligenda. Ea enim quae sunt ex caritate diligenda, duobus praeceptis caritatis concluduntur, ut patet [[Mt 22]]. Sed sub neutro eorum caritas continetur, quia nec caritas est Deus nec est proximus. Ergo caritas non est ex caritate diligenda.]]
+![[LEO IIa-IIæ, q. 25, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod caritas non sit ex caritate diligenda. Ea enim quae sunt ex caritate diligenda, duobus praeceptis caritatis concluduntur, ut patet Matth. XXII. Sed sub neutro eorum caritas continetur, quia nec caritas est Deus nec est proximus. Ergo caritas non est ex caritate diligenda.]]
 ![[CERF IIa-IIæ, q. 25, a. 2#arg. 1]]
 
 ###### arg. 2

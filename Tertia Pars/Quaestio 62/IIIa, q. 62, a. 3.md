@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 62, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 62, a. 3#ad 1|Ad primum ergo dicendum quod gratia non dicitur esse in sacramento sicut in subiecto; neque sicut in vase prout vas est locus quidam, sed prout vas dicitur instrumentum alicuius operis faciendi, secundum quod dicitur [[Ez 9]], *unusquisque vas interfectionis habet in manu sua*.]]
+![[LEO IIIa, q. 62, a. 3#ad 1|Ad primum ergo dicendum quod gratia non dicitur esse in sacramento sicut in subiecto; neque sicut in vase prout vas est locus quidam, sed prout vas dicitur instrumentum alicuius operis faciendi, secundum quod dicitur Ezech. IX, *unusquisque vas interfectionis habet in manu sua*.]]
 ![[CERF IIIa, q. 62, a. 3#ad 1]]
 
 ###### ad 2

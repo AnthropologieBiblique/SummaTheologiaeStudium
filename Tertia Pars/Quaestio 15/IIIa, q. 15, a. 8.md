@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 15, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 15, a. 8#s.c.|Sed contra est quod dicitur [[Mt 8]], audiens Iesus, scilicet verba centurionis, miratus est.]]
+![[LEO IIIa, q. 15, a. 8#s.c.|Sed contra est quod dicitur Matth. VIII, audiens Iesus, scilicet verba centurionis, miratus est.]]
 ![[CERF IIIa, q. 15, a. 8#s.c.]]
 
 ###### resp.

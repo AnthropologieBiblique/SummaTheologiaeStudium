@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 107, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod ingratis sint beneficia subtrahenda. Dicitur enim [[Sg 16]], *ingratis spes tanquam hibernalis glacies tabescet*. Non autem eius spes tabesceret si non esset ei beneficium subtrahendum. Ergo sunt subtrahenda beneficia ingratis.]]
+![[LEO IIa-IIæ, q. 107, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod ingratis sint beneficia subtrahenda. Dicitur enim Sap. XVI, *ingratis spes tanquam hibernalis glacies tabescet*. Non autem eius spes tabesceret si non esset ei beneficium subtrahendum. Ergo sunt subtrahenda beneficia ingratis.]]
 ![[CERF IIa-IIæ, q. 107, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 107, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 107, a. 4#arg. 3|*Praeterea, in quo quis peccat, per hoc et torquetur*, ut dicitur [[Sg 11]]. Sed ille qui ingratus est beneficio accepto, peccat contra beneficium. Ergo est beneficio privandus.]]
+![[LEO IIa-IIæ, q. 107, a. 4#arg. 3|*Praeterea, in quo quis peccat, per hoc et torquetur*, ut dicitur Sap. XI. Sed ille qui ingratus est beneficio accepto, peccat contra beneficium. Ergo est beneficio privandus.]]
 ![[CERF IIa-IIæ, q. 107, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 107, a. 4#s.c.|Sed contra est quod dicitur [[Lc 6]], quod *altissimus benignus est super ingratos et malos*. Sed eius per imitationem nos filios esse oportet, ut ibidem dicitur. Ergo non debemus beneficia ingratis subtrahere.]]
+![[LEO IIa-IIæ, q. 107, a. 4#s.c.|Sed contra est quod dicitur Luc. VI, quod *altissimus benignus est super ingratos et malos*. Sed eius per imitationem nos filios esse oportet, ut ibidem dicitur. Ergo non debemus beneficia ingratis subtrahere.]]
 ![[CERF IIa-IIæ, q. 107, a. 4#s.c.]]
 
 ###### resp.

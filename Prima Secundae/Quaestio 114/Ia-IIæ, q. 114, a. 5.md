@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia-IIæ, q. 114, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 114, a. 5#s.c.|Sed contra est quod ratio gratiae repugnat mercedi operum; secundum illud [[Rm 4]], *ei qui operatur, merces non imputatur secundum gratiam, sed secundum debitum*. Sed illud meretur homo quod imputatur quasi merces operis eius. Ergo primam gratiam non potest homo mereri.]]
+![[LEO Ia-IIæ, q. 114, a. 5#s.c.|Sed contra est quod ratio gratiae repugnat mercedi operum; secundum illud Rom. IV, *ei qui operatur, merces non imputatur secundum gratiam, sed secundum debitum*. Sed illud meretur homo quod imputatur quasi merces operis eius. Ergo primam gratiam non potest homo mereri.]]
 ![[CERF Ia-IIæ, q. 114, a. 5#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 114, a. 5#resp.|Respondeo dicendum quod donum gratiae considerari potest dupliciter. Uno modo, secundum rationem gratuiti doni. Et sic manifestum est quod omne meritum repugnat gratiae, quia ut ad [[Rm 11]] apostolus dicit, *si ex operibus, iam non ex gratia*. Alio modo potest considerari secundum naturam ipsius rei quae donatur. Et sic etiam non potest cadere sub merito non habentis gratiam, tum quia excedit proportionem naturae; tum etiam quia ante gratiam, in statu peccati, homo habet impedimentum promerendi gratiam, scilicet ipsum peccatum. Postquam autem iam aliquis habet gratiam, non potest gratia iam habita sub merito cadere, quia merces est terminus operis, gratia vero est principium cuiuslibet boni operis in nobis, ut supra dictum est. Si vero aliud donum gratuitum aliquis mereatur virtute gratiae praecedentis, iam non erit prima. Unde manifestum est quod nullus potest sibi mereri primam gratiam.]]
+![[LEO Ia-IIæ, q. 114, a. 5#resp.|Respondeo dicendum quod donum gratiae considerari potest dupliciter. Uno modo, secundum rationem gratuiti doni. Et sic manifestum est quod omne meritum repugnat gratiae, quia ut ad Rom. XI apostolus dicit, *si ex operibus, iam non ex gratia*. Alio modo potest considerari secundum naturam ipsius rei quae donatur. Et sic etiam non potest cadere sub merito non habentis gratiam, tum quia excedit proportionem naturae; tum etiam quia ante gratiam, in statu peccati, homo habet impedimentum promerendi gratiam, scilicet ipsum peccatum. Postquam autem iam aliquis habet gratiam, non potest gratia iam habita sub merito cadere, quia merces est terminus operis, gratia vero est principium cuiuslibet boni operis in nobis, ut supra dictum est. Si vero aliud donum gratuitum aliquis mereatur virtute gratiae praecedentis, iam non erit prima. Unde manifestum est quod nullus potest sibi mereri primam gratiam.]]
 ![[CERF Ia-IIæ, q. 114, a. 5#resp.]]
 
 ###### ad 1

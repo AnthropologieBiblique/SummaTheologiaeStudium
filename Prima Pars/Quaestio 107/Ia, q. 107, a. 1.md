@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 107, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 107, a. 1#s.c.|Sed contra est quod dicitur [[1 Co 13]], *si linguis hominum loquar et Angelorum*.]]
+![[LEO Ia, q. 107, a. 1#s.c.|Sed contra est quod dicitur I Cor. XIII, *si linguis hominum loquar et Angelorum*.]]
 ![[CERF Ia, q. 107, a. 1#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 107, a. 1#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 107, a. 1#ad 1|Ad primum ergo dicendum quod in nobis interior mentis conceptus quasi duplici obstaculo clauditur. Primo quidem, ipsa voluntate, quae conceptum intellectus potest retinere interius, vel ad extra ordinare. Et quantum ad hoc, mentem unius nullus alius potest videre nisi solus Deus; secundum illud [[1 Co 2]], *quae sunt hominis, nemo novit nisi spiritus hominis, qui in ipso est*. Secundo autem clauditur mens hominis ab alio homine per grossitiem corporis. Unde cum etiam voluntas ordinat conceptum mentis ad manifestandum alteri, non statim cognoscitur ab alio, sed oportet aliquod signum sensibile adhibere. Et hoc est quod Gregorius dicit, II Moral., *alienis oculis intra secretum mentis, quasi post parietem corporis stamus, sed cum manifestare nosmetipsos cupimus, quasi per linguae ianuam egredimur, ut quales sumus intrinsecus, ostendamus*. Hoc autem obstaculum non habet Angelus. Et ideo quam cito vult manifestare suum conceptum, statim alius cognoscit.]]
+![[LEO Ia, q. 107, a. 1#ad 1|Ad primum ergo dicendum quod in nobis interior mentis conceptus quasi duplici obstaculo clauditur. Primo quidem, ipsa voluntate, quae conceptum intellectus potest retinere interius, vel ad extra ordinare. Et quantum ad hoc, mentem unius nullus alius potest videre nisi solus Deus; secundum illud I Cor. II, *quae sunt hominis, nemo novit nisi spiritus hominis, qui in ipso est*. Secundo autem clauditur mens hominis ab alio homine per grossitiem corporis. Unde cum etiam voluntas ordinat conceptum mentis ad manifestandum alteri, non statim cognoscitur ab alio, sed oportet aliquod signum sensibile adhibere. Et hoc est quod Gregorius dicit, II Moral., *alienis oculis intra secretum mentis, quasi post parietem corporis stamus, sed cum manifestare nosmetipsos cupimus, quasi per linguae ianuam egredimur, ut quales sumus intrinsecus, ostendamus*. Hoc autem obstaculum non habet Angelus. Et ideo quam cito vult manifestare suum conceptum, statim alius cognoscit.]]
 ![[CERF Ia, q. 107, a. 1#ad 1]]
 
 ###### ad 2

@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 83, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod in celebratione huius sacramenti Christus non immoletur. Dicitur enim [[He 10]], quod *Christus una oblatione consummavit in sempiternum sanctificatos*. Sed illa oblatio fuit eius immolatio. Ergo Christus non immolatur in celebratione huius sacramenti.]]
+![[LEO IIIa, q. 83, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod in celebratione huius sacramenti Christus non immoletur. Dicitur enim Hebr. X, quod *Christus una oblatione consummavit in sempiternum sanctificatos*. Sed illa oblatio fuit eius immolatio. Ergo Christus non immolatur in celebratione huius sacramenti.]]
 ![[CERF IIIa, q. 83, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 83, a. 1#arg. 2|Praeterea, immolatio Christi facta est in cruce, in qua *tradidit semetipsum oblationem et hostiam Deo in odorem suavitatis*, ut dicitur [[Ep 5]]. Sed in celebratione huius mysterii Christus non crucifigitur. Ergo nec immolatur.]]
+![[LEO IIIa, q. 83, a. 1#arg. 2|Praeterea, immolatio Christi facta est in cruce, in qua *tradidit semetipsum oblationem et hostiam Deo in odorem suavitatis*, ut dicitur Ephes. V. Sed in celebratione huius mysterii Christus non crucifigitur. Ergo nec immolatur.]]
 ![[CERF IIIa, q. 83, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 83, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 83, a. 1#resp.|Respondeo dicendum quod duplici ratione celebratio huius sacramenti dicitur Christi immolatio. Primo quidem quia, sicut Augustinus dicit, ad Simplicianum, *solent imagines earum rerum nominibus appellari quarum imagines sunt, sicut cum, intuentes tabulam aut parietem pictum, dicimus, ille Cicero est, ille Sallustius*. Celebratio autem huius sacramenti, sicut supra dictum est, imago est quaedam repraesentativa passionis Christi, quae est vera immolatio. Unde Ambrosius dicit, super epistolam ad Heb., *in Christo semel oblata est hostia ad salutem sempiternam potens. Quid ergo nos? Nonne per singulos dies offerimus ad recordationem mortis eius?* Alio modo, quantum ad effectum passionis, quia scilicet per hoc sacramentum participes efficimur fructus dominicae passionis. Unde et in quadam dominicali oratione secreta dicitur, *quoties huius hostiae commemoratio celebratur, opus nostrae redemptionis exercetur*. Quantum igitur ad primum modum, poterat Christus dici immolari etiam in figuris veteris testamenti, unde et in [[Ap 13]] dicitur, *quorum nomina non sunt scripta in libro vitae agni, qui occisus est ab origine mundi*. Sed quantum ad modum secundum, proprium est huic sacramento quod in eius celebratione Christus immoletur.]]
+![[LEO IIIa, q. 83, a. 1#resp.|Respondeo dicendum quod duplici ratione celebratio huius sacramenti dicitur Christi immolatio. Primo quidem quia, sicut Augustinus dicit, ad Simplicianum, *solent imagines earum rerum nominibus appellari quarum imagines sunt, sicut cum, intuentes tabulam aut parietem pictum, dicimus, ille Cicero est, ille Sallustius*. Celebratio autem huius sacramenti, sicut supra dictum est, imago est quaedam repraesentativa passionis Christi, quae est vera immolatio. Unde Ambrosius dicit, super epistolam ad Heb., *in Christo semel oblata est hostia ad salutem sempiternam potens. Quid ergo nos? Nonne per singulos dies offerimus ad recordationem mortis eius?* Alio modo, quantum ad effectum passionis, quia scilicet per hoc sacramentum participes efficimur fructus dominicae passionis. Unde et in quadam dominicali oratione secreta dicitur, *quoties huius hostiae commemoratio celebratur, opus nostrae redemptionis exercetur*. Quantum igitur ad primum modum, poterat Christus dici immolari etiam in figuris veteris testamenti, unde et in Apoc. XIII dicitur, *quorum nomina non sunt scripta in libro vitae agni, qui occisus est ab origine mundi*. Sed quantum ad modum secundum, proprium est huic sacramento quod in eius celebratione Christus immoletur.]]
 ![[CERF IIIa, q. 83, a. 1#resp.]]
 
 ###### ad 1

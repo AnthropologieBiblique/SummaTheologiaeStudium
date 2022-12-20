@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 65, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 65, a. 3#s.c.|Sed contra est quod per caritatem tota lex impletur, dicitur enim [[Rm 13]], *qui diligit proximum, legem implevit*. Sed tota lex impleri non potest nisi per omnes virtutes morales, quia lex praecipit de omnibus actibus virtutum, ut dicitur in V Ethic. Ergo qui habet caritatem, habet omnes virtutes morales. Augustinus etiam dicit, in quadam epistola, quod caritas includit in se omnes virtutes cardinales.]]
+![[LEO Ia-IIæ, q. 65, a. 3#s.c.|Sed contra est quod per caritatem tota lex impletur, dicitur enim Rom. XIII, *qui diligit proximum, legem implevit*. Sed tota lex impleri non potest nisi per omnes virtutes morales, quia lex praecipit de omnibus actibus virtutum, ut dicitur in V Ethic. Ergo qui habet caritatem, habet omnes virtutes morales. Augustinus etiam dicit, in quadam epistola, quod caritas includit in se omnes virtutes cardinales.]]
 ![[CERF Ia-IIæ, q. 65, a. 3#s.c.]]
 
 ###### resp.

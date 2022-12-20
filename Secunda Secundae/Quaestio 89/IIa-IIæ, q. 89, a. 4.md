@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 89, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod iuramentum non sit actus religionis sive latriae. Actus enim latriae sunt circa aliqua sacra et divina. Sed iuramenta adhibentur circa controversias humanas, ut apostolus dicit, ad [[He 6]]. Ergo iurare non est actus religionis seu latriae.]]
+![[LEO IIa-IIæ, q. 89, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod iuramentum non sit actus religionis sive latriae. Actus enim latriae sunt circa aliqua sacra et divina. Sed iuramenta adhibentur circa controversias humanas, ut apostolus dicit, ad Heb. VI. Ergo iurare non est actus religionis seu latriae.]]
 ![[CERF IIa-IIæ, q. 89, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 89, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 89, a. 4#s.c.|Sed contra est quod dicitur [[Dt 6]], *dominum Deum tuum timebis, et ipsi soli servies, ac per nomen illius iurabis*. Loquitur autem ibi de servitute latriae. Ergo iurare est actus latriae.]]
+![[LEO IIa-IIæ, q. 89, a. 4#s.c.|Sed contra est quod dicitur Deut. VI, *dominum Deum tuum timebis, et ipsi soli servies, ac per nomen illius iurabis*. Loquitur autem ibi de servitute latriae. Ergo iurare est actus latriae.]]
 ![[CERF IIa-IIæ, q. 89, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 89, a. 4#resp.|Respondeo dicendum quod, sicut ex dictis patet, ille qui iurat invocat divinum testimonium ad confirmandum ea quae dicit. Nihil autem confirmatur nisi per aliquid quod certius est et potius. Et ideo in hoc ipso quod homo per Deum iurat, profitetur Deum potiorem, utpote cuius veritas est indefectibilis et cognitio universalis, et sic aliquo modo Deo reverentiam exhibet. Unde et apostolus dicit, ad [[He 6]], quod *homines per maiores se iurant*. Et Hieronymus dicit, super Matth., quod *qui iurat, aut veneratur aut diligit eum per quem iurat*. Philosophus etiam dicit, in I Metaphys., quod iuramentum est honorabilissimum. Exhibere autem reverentiam Deo pertinet ad religionem sive latriam. Unde manifestum est quod iuramentum est actus religionis sive latriae.]]
+![[LEO IIa-IIæ, q. 89, a. 4#resp.|Respondeo dicendum quod, sicut ex dictis patet, ille qui iurat invocat divinum testimonium ad confirmandum ea quae dicit. Nihil autem confirmatur nisi per aliquid quod certius est et potius. Et ideo in hoc ipso quod homo per Deum iurat, profitetur Deum potiorem, utpote cuius veritas est indefectibilis et cognitio universalis, et sic aliquo modo Deo reverentiam exhibet. Unde et apostolus dicit, ad Heb. VI, quod *homines per maiores se iurant*. Et Hieronymus dicit, super Matth., quod *qui iurat, aut veneratur aut diligit eum per quem iurat*. Philosophus etiam dicit, in I Metaphys., quod iuramentum est honorabilissimum. Exhibere autem reverentiam Deo pertinet ad religionem sive latriam. Unde manifestum est quod iuramentum est actus religionis sive latriae.]]
 ![[CERF IIa-IIæ, q. 89, a. 4#resp.]]
 
 ###### ad 1

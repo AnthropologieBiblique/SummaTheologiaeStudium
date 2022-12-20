@@ -6,11 +6,11 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIIa, q. 25, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod imago Christi non sit adoranda adoratione latriae. Dicitur enim [[Ex 20]], *non facies tibi sculptile, neque omnem similitudinem*. Sed nulla adoratio est facienda contra Dei praeceptum. Ergo imago Christi non est adoranda adoratione latriae.]]
+![[LEO IIIa, q. 25, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod imago Christi non sit adoranda adoratione latriae. Dicitur enim Exod. XX, *non facies tibi sculptile, neque omnem similitudinem*. Sed nulla adoratio est facienda contra Dei praeceptum. Ergo imago Christi non est adoranda adoratione latriae.]]
 ![[CERF IIIa, q. 25, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 25, a. 3#arg. 2|Praeterea, operibus gentilium non debemus communicare, ut apostolus dicit, [[Ep 5]]. Sed gentiles de hoc praecipue inculpantur, quia *commutaverunt gloriam incorruptibilis Dei in similitudinem imaginis corruptibilis hominis*, ut dicitur [[Rm 1]]. Ergo imago Christi non est adoranda adoratione latriae.]]
+![[LEO IIIa, q. 25, a. 3#arg. 2|Praeterea, operibus gentilium non debemus communicare, ut apostolus dicit, Ephes. V. Sed gentiles de hoc praecipue inculpantur, quia *commutaverunt gloriam incorruptibilis Dei in similitudinem imaginis corruptibilis hominis*, ut dicitur Rom. I. Ergo imago Christi non est adoranda adoratione latriae.]]
 ![[CERF IIIa, q. 25, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 25, a. 3#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 25, a. 3#arg. 4|Praeterea, nihil videtur in cultu divino faciendum nisi quod est a Deo institutum, unde et apostolus, [[1 Co 11]], traditurus doctrinam de sacrificio Ecclesiae, dicit, *ego accepi a domino quod et tradidi vobis*. Sed nulla traditio in Scriptura invenitur de adorandis imaginibus. Ergo imago Christi non est adoratione latriae adoranda.]]
+![[LEO IIIa, q. 25, a. 3#arg. 4|Praeterea, nihil videtur in cultu divino faciendum nisi quod est a Deo institutum, unde et apostolus, I Cor. XI, traditurus doctrinam de sacrificio Ecclesiae, dicit, *ego accepi a domino quod et tradidi vobis*. Sed nulla traditio in Scriptura invenitur de adorandis imaginibus. Ergo imago Christi non est adoratione latriae adoranda.]]
 ![[CERF IIIa, q. 25, a. 3#arg. 4]]
 
 ###### s.c.

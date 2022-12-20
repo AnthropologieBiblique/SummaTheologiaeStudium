@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 25, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 25, a. 2#arg. 2|Praeterea, cultus latriae nulli creaturae debetur, ex hoc enim reprobantur gentiles quod coluerunt et servierunt creaturae, ut dicitur [[Rm 1]]. Sed humanitas Christi est creatura. Ergo non est adoranda adoratione latriae.]]
+![[LEO IIIa, q. 25, a. 2#arg. 2|Praeterea, cultus latriae nulli creaturae debetur, ex hoc enim reprobantur gentiles quod coluerunt et servierunt creaturae, ut dicitur Rom. I. Sed humanitas Christi est creatura. Ergo non est adoranda adoratione latriae.]]
 ![[CERF IIIa, q. 25, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 25, a. 2#arg. 3|Praeterea, adoratio latriae debetur Deo in recognitionem maximi dominii, secundum illud [[Dt 6]], *dominum Deum tuum adorabis, et illi soli servies*. Sed Christus, secundum quod homo, est minor patre. Ergo humanitas eius non est adoratione latriae adoranda.]]
+![[LEO IIIa, q. 25, a. 2#arg. 3|Praeterea, adoratio latriae debetur Deo in recognitionem maximi dominii, secundum illud Deut. VI, *dominum Deum tuum adorabis, et illi soli servies*. Sed Christus, secundum quod homo, est minor patre. Ergo humanitas eius non est adoratione latriae adoranda.]]
 ![[CERF IIIa, q. 25, a. 2#arg. 3]]
 
 ###### s.c.

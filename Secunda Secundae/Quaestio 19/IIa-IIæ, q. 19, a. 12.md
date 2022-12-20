@@ -6,7 +6,7 @@ tags :
 ### Articulus 12
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 19, a. 12#arg. 1|Ad duodecimum sic proceditur. Videtur quod paupertas spiritus non sit beatitudo respondens dono timoris. Timor enim est initium spiritualis vitae, ut ex dictis patet. Sed paupertas pertinet ad perfectionem vitae spiritualis, secundum illud [[Mt 19]], *si vis perfectus esse, vade et vende omnia quae habes, et da pauperibus*. Ergo paupertas spiritus non respondet dono timoris.]]
+![[LEO IIa-IIæ, q. 19, a. 12#arg. 1|Ad duodecimum sic proceditur. Videtur quod paupertas spiritus non sit beatitudo respondens dono timoris. Timor enim est initium spiritualis vitae, ut ex dictis patet. Sed paupertas pertinet ad perfectionem vitae spiritualis, secundum illud Matth. XIX, *si vis perfectus esse, vade et vende omnia quae habes, et da pauperibus*. Ergo paupertas spiritus non respondet dono timoris.]]
 ![[CERF IIa-IIæ, q. 19, a. 12#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 12#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 19, a. 12#arg. 3|Praeterea, donum timoris respondet virtuti spei, sicut dictum est. Sed spei maxime videtur respondere beatitudo ultima, quae est, *beati pacifici, quoniam filii Dei vocabuntur*, quia, ut dicitur [[Rm 5]], *gloriamur in spe gloriae filiorum Dei*. Ergo illa beatitudo magis respondet dono timoris quam paupertas spiritus.]]
+![[LEO IIa-IIæ, q. 19, a. 12#arg. 3|Praeterea, donum timoris respondet virtuti spei, sicut dictum est. Sed spei maxime videtur respondere beatitudo ultima, quae est, *beati pacifici, quoniam filii Dei vocabuntur*, quia, ut dicitur Rom. V, *gloriamur in spe gloriae filiorum Dei*. Ergo illa beatitudo magis respondet dono timoris quam paupertas spiritus.]]
 ![[CERF IIa-IIæ, q. 19, a. 12#arg. 3]]
 
 ###### arg. 4

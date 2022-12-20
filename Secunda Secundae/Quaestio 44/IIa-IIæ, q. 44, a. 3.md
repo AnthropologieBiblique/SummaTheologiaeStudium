@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 44, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 44, a. 3#s.c.|Sed contra est quod dominus dicit, [[Mt 22]], *in his duobus mandatis tota lex pendet et prophetae*.]]
+![[LEO IIa-IIæ, q. 44, a. 3#s.c.|Sed contra est quod dominus dicit, Matth. XXII, *in his duobus mandatis tota lex pendet et prophetae*.]]
 ![[CERF IIa-IIæ, q. 44, a. 3#s.c.]]
 
 ###### resp.
@@ -30,10 +30,10 @@ tags :
 ![[CERF IIa-IIæ, q. 44, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 44, a. 3#ad 2|Ad secundum dicendum quod alii actus caritatis consequuntur ex actu dilectionis sicut effectus ex causa, ut ex supradictis patet. Unde in praeceptis dilectionis virtute includuntur praecepta de aliis actibus. Et tamen propter tardiores inveniuntur de singulis explicite praecepta tradita, de gaudio quidem, [[Ph 4]], *gaudete in domino semper*; de pace autem, ad Heb. ult., *pacem sequimini cum omnibus*; de beneficentia autem, ad Gal. ult., *dum tempus habemus, operemur bonum ad omnes*. De singulis beneficentiae partibus inveniuntur praecepta tradita in sacra Scriptura, ut patet diligenter consideranti.]]
+![[LEO IIa-IIæ, q. 44, a. 3#ad 2|Ad secundum dicendum quod alii actus caritatis consequuntur ex actu dilectionis sicut effectus ex causa, ut ex supradictis patet. Unde in praeceptis dilectionis virtute includuntur praecepta de aliis actibus. Et tamen propter tardiores inveniuntur de singulis explicite praecepta tradita, de gaudio quidem, Philipp. IV, *gaudete in domino semper*; de pace autem, ad Heb. ult., *pacem sequimini cum omnibus*; de beneficentia autem, ad Gal. ult., *dum tempus habemus, operemur bonum ad omnes*. De singulis beneficentiae partibus inveniuntur praecepta tradita in sacra Scriptura, ut patet diligenter consideranti.]]
 ![[CERF IIa-IIæ, q. 44, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 44, a. 3#ad 3|Ad tertium dicendum quod plus est operari bonum quam vitare malum. Et ideo in praeceptis affirmativis virtute includuntur praecepta negativa. Et tamen explicite inveniuntur praecepta data contra vitia caritati opposita. Nam contra odium dicitur Lev. XIX, *ne oderis fratrem tuum in corde tuo* contra acediam dicitur [[Si 6]], *ne acedieris in vinculis eius*; contra invidiam, [[Ga 5]], *non efficiamur inanis gloriae cupidi, invicem provocantes, invicem invidentes*; contra discordiam vero, I ad Cor. I, *idipsum dicatis omnes, et non sint in vobis schismata*; contra scandalum autem, ad [[Rm 14]], *ne ponatis offendiculum fratri vel scandalum*.]]
+![[LEO IIa-IIæ, q. 44, a. 3#ad 3|Ad tertium dicendum quod plus est operari bonum quam vitare malum. Et ideo in praeceptis affirmativis virtute includuntur praecepta negativa. Et tamen explicite inveniuntur praecepta data contra vitia caritati opposita. Nam contra odium dicitur Lev. XIX, *ne oderis fratrem tuum in corde tuo* contra acediam dicitur Eccli. VI, *ne acedieris in vinculis eius*; contra invidiam, Gal. V, *non efficiamur inanis gloriae cupidi, invicem provocantes, invicem invidentes*; contra discordiam vero, I ad Cor. I, *idipsum dicatis omnes, et non sint in vobis schismata*; contra scandalum autem, ad Rom. XIV, *ne ponatis offendiculum fratri vel scandalum*.]]
 ![[CERF IIa-IIæ, q. 44, a. 3#ad 3]]
 

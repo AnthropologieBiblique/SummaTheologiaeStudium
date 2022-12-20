@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 103, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod honor non proprie debeatur superioribus. Angelus enim est superior quolibet homine viatore, secundum illud [[Mt 11]], *qui minor est in regno caelorum, est maior Ioanne Baptista*. Sed Angelus prohibuit Ioannem volentem se honorare, ut patet Apoc. ult. Ergo honor non debetur superioribus.]]
+![[LEO IIa-IIæ, q. 103, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod honor non proprie debeatur superioribus. Angelus enim est superior quolibet homine viatore, secundum illud Matth. XI, *qui minor est in regno caelorum, est maior Ioanne Baptista*. Sed Angelus prohibuit Ioannem volentem se honorare, ut patet Apoc. ult. Ergo honor non debetur superioribus.]]
 ![[CERF IIa-IIæ, q. 103, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 103, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 103, a. 2#arg. 3|Praeterea, apostolus dicit, [[Rm 12]], honore invicem praevenientes. Et [[1 P 2]], omnes honorate. Sed hoc non esset servandum si solis superioribus honor deberetur. Ergo honor non debetur proprie superioribus.]]
+![[LEO IIa-IIæ, q. 103, a. 2#arg. 3|Praeterea, apostolus dicit, Rom. XII, honore invicem praevenientes. Et I Pet. II, omnes honorate. Sed hoc non esset servandum si solis superioribus honor deberetur. Ergo honor non debetur proprie superioribus.]]
 ![[CERF IIa-IIæ, q. 103, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 103, a. 2#arg. 4|Praeterea, Tobiae I dicitur quod *Tobias habebat decem talenta ex his quibus erat honoratus a rege*. Legitur etiam [[Est 6]], quod Assuerus honoravit Mardochaeum, et coram eo fecit clamari, *hoc honore dignus est quem rex honorare voluerit*. Ergo honor exhibetur etiam inferioribus. Et ita non videtur quod honor proprie superioribus debeatur.]]
+![[LEO IIa-IIæ, q. 103, a. 2#arg. 4|Praeterea, Tobiae I dicitur quod *Tobias habebat decem talenta ex his quibus erat honoratus a rege*. Legitur etiam Esther VI, quod Assuerus honoravit Mardochaeum, et coram eo fecit clamari, *hoc honore dignus est quem rex honorare voluerit*. Ergo honor exhibetur etiam inferioribus. Et ita non videtur quod honor proprie superioribus debeatur.]]
 ![[CERF IIa-IIæ, q. 103, a. 2#arg. 4]]
 
 ###### s.c.
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIa-IIæ, q. 103, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 103, a. 2#ad 3|Ad tertium dicendum quod in quolibet invenitur aliquid ex quo potest aliquis eum superiorem reputare, secundum illud [[Ph 2]] *in humilitate superiores invicem arbitrantes*. Et secundum hoc etiam omnes se invicem debent honore praevenire.]]
+![[LEO IIa-IIæ, q. 103, a. 2#ad 3|Ad tertium dicendum quod in quolibet invenitur aliquid ex quo potest aliquis eum superiorem reputare, secundum illud Philipp. II *in humilitate superiores invicem arbitrantes*. Et secundum hoc etiam omnes se invicem debent honore praevenire.]]
 ![[CERF IIa-IIæ, q. 103, a. 2#ad 3]]
 
 ###### ad 4

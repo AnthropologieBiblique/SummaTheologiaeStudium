@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 34, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 34, a. 1#arg. 4|Praeterea, nulla persona divina est facta. Sed verbum Dei est aliquid factum, dicitur enim in [[Ps 148]], *ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum eius*. Ergo verbum non est nomen personale in divinis.]]
+![[LEO Ia, q. 34, a. 1#arg. 4|Praeterea, nulla persona divina est facta. Sed verbum Dei est aliquid factum, dicitur enim in Psalmo CXLVIII, *ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum eius*. Ergo verbum non est nomen personale in divinis.]]
 ![[CERF Ia, q. 34, a. 1#arg. 4]]
 
 ###### s.c.

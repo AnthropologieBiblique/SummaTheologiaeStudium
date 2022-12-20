@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 81, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 81, a. 6#arg. 2|Praeterea, in his quae hominibus exhibentur, tanto videtur aliquid esse laudabilius quanto magis indigenti exhibetur, unde dicitur [[Is 58]], *frange esurienti panem tuum*. Sed Deus non indiget aliquo quod ei a nobis exhibeatur, secundum illud Psalm., *dixi, Deus meus es tu, quoniam bonorum meorum non eges*. Ergo religio videtur minus laudabilis aliis virtutibus, per quas hominibus subvenitur.]]
+![[LEO IIa-IIæ, q. 81, a. 6#arg. 2|Praeterea, in his quae hominibus exhibentur, tanto videtur aliquid esse laudabilius quanto magis indigenti exhibetur, unde dicitur Isaiae LVIII, *frange esurienti panem tuum*. Sed Deus non indiget aliquo quod ei a nobis exhibeatur, secundum illud Psalm., *dixi, Deus meus es tu, quoniam bonorum meorum non eges*. Ergo religio videtur minus laudabilis aliis virtutibus, per quas hominibus subvenitur.]]
 ![[CERF IIa-IIæ, q. 81, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 81, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 81, a. 6#s.c.|Sed contra est quod [[Ex 20]] ponuntur primo praecepta ad religionem pertinentia, tanquam praecipua. Ordo autem praeceptorum proportionatur ordini virtutum, quia praecepta legis dantur de actibus virtutum. Ergo religio est praecipua inter virtutes morales.]]
+![[LEO IIa-IIæ, q. 81, a. 6#s.c.|Sed contra est quod Exod. XX ponuntur primo praecepta ad religionem pertinentia, tanquam praecipua. Ordo autem praeceptorum proportionatur ordini virtutum, quia praecepta legis dantur de actibus virtutum. Ergo religio est praecipua inter virtutes morales.]]
 ![[CERF IIa-IIæ, q. 81, a. 6#s.c.]]
 
 ###### resp.

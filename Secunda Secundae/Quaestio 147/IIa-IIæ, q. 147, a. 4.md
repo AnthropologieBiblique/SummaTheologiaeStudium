@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 147, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod omnes ad ieiunia Ecclesiae teneantur. Praecepta enim Ecclesiae obligant sicut Dei praecepta, secundum illud [[Lc 10]], *qui vos audit, me audit*. Sed ad praecepta Dei servanda omnes tenentur. Ergo similiter omnes tenentur ad servanda ieiunia quae sunt ab Ecclesia instituta.]]
+![[LEO IIa-IIæ, q. 147, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod omnes ad ieiunia Ecclesiae teneantur. Praecepta enim Ecclesiae obligant sicut Dei praecepta, secundum illud Lucae X, *qui vos audit, me audit*. Sed ad praecepta Dei servanda omnes tenentur. Ergo similiter omnes tenentur ad servanda ieiunia quae sunt ab Ecclesia instituta.]]
 ![[CERF IIa-IIæ, q. 147, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 147, a. 4#arg. 2|Praeterea, maxime videntur excusari pueri a ieiunio, propter aetatem. Sed pueri non excusantur, dicitur enim [[Jl 2]], *sanctificate ieiunium*. Et postea sequitur, *congregate parvulos et sugentes ubera*, ergo multo magis omnes alii ad ieiunia tenentur.]]
+![[LEO IIa-IIæ, q. 147, a. 4#arg. 2|Praeterea, maxime videntur excusari pueri a ieiunio, propter aetatem. Sed pueri non excusantur, dicitur enim Ioel II, *sanctificate ieiunium*. Et postea sequitur, *congregate parvulos et sugentes ubera*, ergo multo magis omnes alii ad ieiunia tenentur.]]
 ![[CERF IIa-IIæ, q. 147, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 147, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 147, a. 4#s.c.|Sed contra, videtur quod nullus iustus teneatur ieiunare. Praecepta enim Ecclesiae non obligant contra doctrinam Christi. Sed dominus dixit, [[Lc 5]], quod *non possunt filii sponsi ieiunare quandiu cum ipsis est sponsus*. Est autem cum omnibus iustis, spiritualiter eos inhabitans, unde dominus dicit, Matth. ult., *ecce, ego vobiscum sum usque ad consummationem saeculi*. Ergo iusti ex statuto Ecclesiae non obligantur ad ieiunandum.]]
+![[LEO IIa-IIæ, q. 147, a. 4#s.c.|Sed contra, videtur quod nullus iustus teneatur ieiunare. Praecepta enim Ecclesiae non obligant contra doctrinam Christi. Sed dominus dixit, Lucae V, quod *non possunt filii sponsi ieiunare quandiu cum ipsis est sponsus*. Est autem cum omnibus iustis, spiritualiter eos inhabitans, unde dominus dicit, Matth. ult., *ecce, ego vobiscum sum usque ad consummationem saeculi*. Ergo iusti ex statuto Ecclesiae non obligantur ad ieiunandum.]]
 ![[CERF IIa-IIæ, q. 147, a. 4#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIa-IIæ, q. 147, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 147, a. 4#ad 2|Ad secundum dicendum quod in pueris est maxime evidens causa non ieiunandi, tum propter debilitatem naturae, ex qua provenit quod indigent frequenti cibo, et non multo simul assumpto; tum etiam quia indigent multo nutrimento propter necessitatem augmenti, quod fit de residuo alimenti. Et ideo quandiu sunt in statu augmenti, quod est ut in pluribus usque ad finem tertii septennii, non tenentur ad ecclesiastica ieiunia observanda. Conveniens tamen est ut etiam in hoc tempore se ad ieiunandum exerceant, plus vel minus, secundum modum suae aetatis. Quandoque tamen, magna tribulatione imminente, in signum poenitentiae arctioris, etiam pueris ieiunia indicuntur, sicut etiam de iumentis legitur [[Jon 3]], *homines et iumenta non gustent quidquam, nec aquam bibant*.]]
+![[LEO IIa-IIæ, q. 147, a. 4#ad 2|Ad secundum dicendum quod in pueris est maxime evidens causa non ieiunandi, tum propter debilitatem naturae, ex qua provenit quod indigent frequenti cibo, et non multo simul assumpto; tum etiam quia indigent multo nutrimento propter necessitatem augmenti, quod fit de residuo alimenti. Et ideo quandiu sunt in statu augmenti, quod est ut in pluribus usque ad finem tertii septennii, non tenentur ad ecclesiastica ieiunia observanda. Conveniens tamen est ut etiam in hoc tempore se ad ieiunandum exerceant, plus vel minus, secundum modum suae aetatis. Quandoque tamen, magna tribulatione imminente, in signum poenitentiae arctioris, etiam pueris ieiunia indicuntur, sicut etiam de iumentis legitur Ionae III, *homines et iumenta non gustent quidquam, nec aquam bibant*.]]
 ![[CERF IIa-IIæ, q. 147, a. 4#ad 2]]
 
 ###### ad 3

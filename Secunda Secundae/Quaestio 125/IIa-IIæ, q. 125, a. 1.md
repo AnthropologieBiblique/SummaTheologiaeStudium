@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 125, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 125, a. 1#arg. 2|Praeterea, nihil quod in lege divina mandatur est peccatum, quia lex domini est immaculata, ut dicitur in Psalmo. Sed timor mandatur in lege Dei, dicitur enim ad [[Ep 6]], *servi, obedite dominis carnalibus, cum timore et tremore*. Timor ergo non est peccatum.]]
+![[LEO IIa-IIæ, q. 125, a. 1#arg. 2|Praeterea, nihil quod in lege divina mandatur est peccatum, quia lex domini est immaculata, ut dicitur in Psalmo. Sed timor mandatur in lege Dei, dicitur enim ad Ephes. VI, *servi, obedite dominis carnalibus, cum timore et tremore*. Timor ergo non est peccatum.]]
 ![[CERF IIa-IIæ, q. 125, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 125, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 125, a. 1#s.c.|Sed contra est quod dominus dicit, [[Mt 10]], *nolite timere eos qui occidunt corpus*. Et [[Ez 2]] dicitur, *ne timeas eos, neque sermones eorum metuas*.]]
+![[LEO IIa-IIæ, q. 125, a. 1#s.c.|Sed contra est quod dominus dicit, Matth. X, *nolite timere eos qui occidunt corpus*. Et Ezech. II dicitur, *ne timeas eos, neque sermones eorum metuas*.]]
 ![[CERF IIa-IIæ, q. 125, a. 1#s.c.]]
 
 ###### resp.

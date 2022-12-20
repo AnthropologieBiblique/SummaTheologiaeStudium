@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 168, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 168, a. 3#s.c.|Sed contra est quod, super illud [[Pr 14]], *risus dolori miscebitur et extrema gaudii luctus occupat*, dicit Glossa, luctus perpetuus. Sed in superfluitate ludi est inordinatus risus et inordinatum gaudium. Ergo est ibi peccatum mortale, cui soli debetur luctus perpetuus.]]
+![[LEO IIa-IIæ, q. 168, a. 3#s.c.|Sed contra est quod, super illud Prov. XIV, *risus dolori miscebitur et extrema gaudii luctus occupat*, dicit Glossa, luctus perpetuus. Sed in superfluitate ludi est inordinatus risus et inordinatum gaudium. Ergo est ibi peccatum mortale, cui soli debetur luctus perpetuus.]]
 ![[CERF IIa-IIæ, q. 168, a. 3#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 168, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 168, a. 3#ad 2|Ad secundum dicendum quod superfluitas in ludo pertinet ad ineptam laetitiam, quam Gregorius dicit esse filiam gulae. Unde [[Ex 32]] dicitur, *sedit populus manducare et bibere, et surrexerunt ludere*.]]
+![[LEO IIa-IIæ, q. 168, a. 3#ad 2|Ad secundum dicendum quod superfluitas in ludo pertinet ad ineptam laetitiam, quam Gregorius dicit esse filiam gulae. Unde Exod. XXXII dicitur, *sedit populus manducare et bibere, et surrexerunt ludere*.]]
 ![[CERF IIa-IIæ, q. 168, a. 3#ad 2]]
 
 ###### ad 3

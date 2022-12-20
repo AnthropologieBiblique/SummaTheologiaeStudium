@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 83, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod in oratione nihil determinate a Deo petere debeamus. Quia, ut Damascenus dicit, *oratio est petitio decentium a Deo*. Unde inefficax est oratio per quam petitur id quod non expedit, secundum illud [[Jc 4]], *petitis et non accipitis, eo quod male petatis*. Sed sicut dicitur [[Rm 8]]. *Nam quid oremus sicut oportet, nescimus*. Ergo non debemus aliquid orando determinate petere.]]
+![[LEO IIa-IIæ, q. 83, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod in oratione nihil determinate a Deo petere debeamus. Quia, ut Damascenus dicit, *oratio est petitio decentium a Deo*. Unde inefficax est oratio per quam petitur id quod non expedit, secundum illud Iac. IV, *petitis et non accipitis, eo quod male petatis*. Sed sicut dicitur Rom. VIII. *Nam quid oremus sicut oportet, nescimus*. Ergo non debemus aliquid orando determinate petere.]]
 ![[CERF IIa-IIæ, q. 83, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 83, a. 5#s.c.|Sed contra est quod dominus, [[Mt 6]] et [[Lc 11]], docuit discipulos determinate petere ea quae continentur in petitionibus orationis dominicae.]]
+![[LEO IIa-IIæ, q. 83, a. 5#s.c.|Sed contra est quod dominus, Matth. VI et Luc. XI, docuit discipulos determinate petere ea quae continentur in petitionibus orationis dominicae.]]
 ![[CERF IIa-IIæ, q. 83, a. 5#s.c.]]
 
 ###### resp.
@@ -26,11 +26,11 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 5#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 83, a. 5#ad 1|Ad primum ergo dicendum quod licet homo ex se scire non possit quid orare debeat, spiritus tamen, ut ibidem dicitur, in hoc adiuvat infirmitatem nostram quod, inspirando nobis sancta desideria, recte postulare nos facit. Unde dominus dicit, [[Jn 4]], quod *veros adoratores adorare oportet in spiritu et veritate*.]]
+![[LEO IIa-IIæ, q. 83, a. 5#ad 1|Ad primum ergo dicendum quod licet homo ex se scire non possit quid orare debeat, spiritus tamen, ut ibidem dicitur, in hoc adiuvat infirmitatem nostram quod, inspirando nobis sancta desideria, recte postulare nos facit. Unde dominus dicit, Ioan. IV, quod *veros adoratores adorare oportet in spiritu et veritate*.]]
 ![[CERF IIa-IIæ, q. 83, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 83, a. 5#ad 2|Ad secundum dicendum quod cum orando petimus aliqua quae pertinent ad nostram salutem, conformamus voluntatem nostram voluntati Dei, de quo dicitur, [[1 Tm 2]], quod *vult omnes homines salvos fieri*.]]
+![[LEO IIa-IIæ, q. 83, a. 5#ad 2|Ad secundum dicendum quod cum orando petimus aliqua quae pertinent ad nostram salutem, conformamus voluntatem nostram voluntati Dei, de quo dicitur, I ad Tim. II, quod *vult omnes homines salvos fieri*.]]
 ![[CERF IIa-IIæ, q. 83, a. 5#ad 2]]
 
 ###### ad 3

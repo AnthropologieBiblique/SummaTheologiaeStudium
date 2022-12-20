@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 3#Prooemium|Deinde considerandum est de exteriori fidei actu, qui est confessio. Et circa hoc quaeruntur duo. Primo, utrum confessio sit actus fidei. Secundo, utrum confessio sit necessaria ad salutem.]]
-![[CERF IIa-IIæ, q. 3#Prooemium]]
+Deinde considerandum est de exteriori fidei actu, qui est confessio. Et circa hoc quaeruntur duo. Primo, utrum confessio sit actus fidei. Secundo, utrum confessio sit necessaria ad salutem.
 
 ![[IIa-IIæ, q. 3, a. 1#Articulus 1]]
 

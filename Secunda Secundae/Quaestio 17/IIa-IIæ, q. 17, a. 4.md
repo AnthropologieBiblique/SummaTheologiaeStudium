@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 17, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 17, a. 4#arg. 2|Praeterea, si non potest aliquis sperare in homine, non esset reputandum alicui in vitium quod in eo aliquis sperare non possit. Sed hoc de quibusdam in vitium dicitur, ut patet [[Jr 9]], *unusquisque a proximo suo se custodiat, et in omni fratre suo non habeat fiduciam*. Ergo licite potest aliquis sperare in homine.]]
+![[LEO IIa-IIæ, q. 17, a. 4#arg. 2|Praeterea, si non potest aliquis sperare in homine, non esset reputandum alicui in vitium quod in eo aliquis sperare non possit. Sed hoc de quibusdam in vitium dicitur, ut patet Ierem. IX, *unusquisque a proximo suo se custodiat, et in omni fratre suo non habeat fiduciam*. Ergo licite potest aliquis sperare in homine.]]
 ![[CERF IIa-IIæ, q. 17, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 17, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 17, a. 4#s.c.|Sed contra est quod dicitur [[Jr 17]], *maledictus homo qui confidit in homine*.]]
+![[LEO IIa-IIæ, q. 17, a. 4#s.c.|Sed contra est quod dicitur Ierem. XVII, *maledictus homo qui confidit in homine*.]]
 ![[CERF IIa-IIæ, q. 17, a. 4#s.c.]]
 
 ###### resp.

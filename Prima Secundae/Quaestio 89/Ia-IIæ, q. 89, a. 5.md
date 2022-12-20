@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 89, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod primi motus sensualitatis in infidelibus sint peccata mortalia. Dicit enim apostolus, ad [[Rm 8]], quod *nihil est damnationis his qui sunt in Christo Iesu, qui non secundum carnem ambulant*, et loquitur ibi de concupiscentia sensualitatis, ut ex praemissis apparet. Haec ergo causa est quare concupiscere non sit damnabile his qui non secundum carnem ambulant, consentiendo scilicet concupiscentiae, quia sunt in Christo Iesu. Sed infideles non sunt in Christo Iesu. Ergo in infidelibus est damnabile. Primi igitur motus infidelium sunt peccata mortalia.]]
+![[LEO Ia-IIæ, q. 89, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod primi motus sensualitatis in infidelibus sint peccata mortalia. Dicit enim apostolus, ad Rom. VIII, quod *nihil est damnationis his qui sunt in Christo Iesu, qui non secundum carnem ambulant*, et loquitur ibi de concupiscentia sensualitatis, ut ex praemissis apparet. Haec ergo causa est quare concupiscere non sit damnabile his qui non secundum carnem ambulant, consentiendo scilicet concupiscentiae, quia sunt in Christo Iesu. Sed infideles non sunt in Christo Iesu. Ergo in infidelibus est damnabile. Primi igitur motus infidelium sunt peccata mortalia.]]
 ![[CERF Ia-IIæ, q. 89, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia-IIæ, q. 89, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 89, a. 5#s.c.|Sed contra est quod dicitur [[Ac 10]], *non est personarum acceptor Deus*. Quod ergo uni non imputat ad damnationem, nec alteri. Sed primos motus fidelibus non imputat ad damnationem. Ergo etiam nec infidelibus.]]
+![[LEO Ia-IIæ, q. 89, a. 5#s.c.|Sed contra est quod dicitur Act. X, *non est personarum acceptor Deus*. Quod ergo uni non imputat ad damnationem, nec alteri. Sed primos motus fidelibus non imputat ad damnationem. Ergo etiam nec infidelibus.]]
 ![[CERF Ia-IIæ, q. 89, a. 5#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 89, a. 5#resp.|Respondeo dicendum quod irrationabiliter dicitur quod primi motus infidelium sint peccata mortalia, si eis non consentiatur. Et hoc patet dupliciter. Primo quidem, quia ipsa sensualitas non potest esse subiectum peccati mortalis, ut supra habitum est. Est autem eadem natura sensualitatis in infidelibus et fidelibus. Unde non potest esse quod solus motus sensualitatis in infidelibus sit peccatum mortale. Alio modo, ex statu ipsius peccantis. Nunquam enim dignitas personae diminuit peccatum, sed magis auget, ut ex supra dictis patet. Unde nec peccatum est minus in fideli quam in infideli, sed multo maius. Nam et infidelium peccata magis merentur veniam, propter ignorantiam, secundum illud [[1 Tm 1]], *misericordiam Dei consecutus sum, quia ignorans feci in incredulitate mea*; et peccata fidelium aggravantur propter gratiae sacramenta, secundum illud [[He 10]], *quanto magis putatis deteriora mereri supplicia, qui sanguinem testamenti, in quo sanctificatus est, pollutum duxerit?*]]
+![[LEO Ia-IIæ, q. 89, a. 5#resp.|Respondeo dicendum quod irrationabiliter dicitur quod primi motus infidelium sint peccata mortalia, si eis non consentiatur. Et hoc patet dupliciter. Primo quidem, quia ipsa sensualitas non potest esse subiectum peccati mortalis, ut supra habitum est. Est autem eadem natura sensualitatis in infidelibus et fidelibus. Unde non potest esse quod solus motus sensualitatis in infidelibus sit peccatum mortale. Alio modo, ex statu ipsius peccantis. Nunquam enim dignitas personae diminuit peccatum, sed magis auget, ut ex supra dictis patet. Unde nec peccatum est minus in fideli quam in infideli, sed multo maius. Nam et infidelium peccata magis merentur veniam, propter ignorantiam, secundum illud I ad Tim. I, *misericordiam Dei consecutus sum, quia ignorans feci in incredulitate mea*; et peccata fidelium aggravantur propter gratiae sacramenta, secundum illud Heb. X, *quanto magis putatis deteriora mereri supplicia, qui sanguinem testamenti, in quo sanctificatus est, pollutum duxerit?*]]
 ![[CERF Ia-IIæ, q. 89, a. 5#resp.]]
 
 ###### ad 1

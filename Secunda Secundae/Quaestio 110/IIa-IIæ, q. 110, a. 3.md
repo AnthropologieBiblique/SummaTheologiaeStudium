@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 110, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 110, a. 3#arg. 2|Praeterea, nullus remuneratur a Deo pro peccato. Sed obstetrices Aegypti remuneratae sunt a Deo propter mendacium, dicitur enim [[Ex 1]], quod *aedificavit illis Deus domos*. Ergo mendacium non est peccatum.]]
+![[LEO IIa-IIæ, q. 110, a. 3#arg. 2|Praeterea, nullus remuneratur a Deo pro peccato. Sed obstetrices Aegypti remuneratae sunt a Deo propter mendacium, dicitur enim Exod. I, quod *aedificavit illis Deus domos*. Ergo mendacium non est peccatum.]]
 ![[CERF IIa-IIæ, q. 110, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 110, a. 3#arg. 3|Praeterea, gesta sanctorum narrantur in sacra Scriptura ad informationem vitae humanae. Sed de quibusdam sanctissimis viris legitur quod sunt mentiti, sicut legitur [[Gn 12]] et XX quod Abraham dixit de uxore sua quod soror sua esset. Iacob etiam mentitus est dicens se Esau, tamen benedictionem adeptus est, ut habetur [[Gn 12]]. Iudith etiam commendatur, quae tamen Holoferni mentita est. Non ergo omne mendacium est peccatum.]]
+![[LEO IIa-IIæ, q. 110, a. 3#arg. 3|Praeterea, gesta sanctorum narrantur in sacra Scriptura ad informationem vitae humanae. Sed de quibusdam sanctissimis viris legitur quod sunt mentiti, sicut legitur Gen. XII et XX quod Abraham dixit de uxore sua quod soror sua esset. Iacob etiam mentitus est dicens se Esau, tamen benedictionem adeptus est, ut habetur Gen. XXVII. Iudith etiam commendatur, quae tamen Holoferni mentita est. Non ergo omne mendacium est peccatum.]]
 ![[CERF IIa-IIæ, q. 110, a. 3#arg. 3]]
 
 ###### arg. 4
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 110, a. 3#arg. 6]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 110, a. 3#s.c.|Sed contra est quod dicitur [[Si 7]], *noli velle mentiri omne mendacium*.]]
+![[LEO IIa-IIæ, q. 110, a. 3#s.c.|Sed contra est quod dicitur Eccli. VII, *noli velle mentiri omne mendacium*.]]
 ![[CERF IIa-IIæ, q. 110, a. 3#s.c.]]
 
 ###### resp.
@@ -42,11 +42,11 @@ tags :
 ![[CERF IIa-IIæ, q. 110, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 110, a. 3#ad 2|Ad secundum dicendum quod obstetrices non sunt remuneratae pro mendacio, sed pro timore Dei et benevolentia, ex qua processit mendacium. Unde signanter dicitur [[Ex 1]], *et quia timuerunt obstetrices Deum, aedificavit illis domos*. Mendacium vero postea sequens non fuit meritorium.]]
+![[LEO IIa-IIæ, q. 110, a. 3#ad 2|Ad secundum dicendum quod obstetrices non sunt remuneratae pro mendacio, sed pro timore Dei et benevolentia, ex qua processit mendacium. Unde signanter dicitur Exod. I, *et quia timuerunt obstetrices Deum, aedificavit illis domos*. Mendacium vero postea sequens non fuit meritorium.]]
 ![[CERF IIa-IIæ, q. 110, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 110, a. 3#ad 3|Ad tertium dicendum quod in sacra Scriptura, sicut Augustinus dicit, inducuntur aliquorum gesta quasi exempla perfectae virtutis, de quibus non est aestimandum eos fuisse mentitos. Si qua tamen in eorum dictis appareant quae mendacia videantur, intelligendum est ea figuraliter et prophetice dicta esse. Unde Augustinus dicit, in libro contra mendacium, *credendum est illos homines qui propheticis temporibus digni auctoritate fuisse commemorantur, omnia quae scripta sunt de illis prophetice gessisse atque dixisse*. Abraham tamen, ut Augustinus dicit, in quaest. Genes. Dicens Saram esse suam sororem, veritatem voluit celari, non mendacium dici, soror enim dicitur quia filia fratris erat. Unde et ipse Abraham dicit, [[Gn 20]], *vere soror mea est, filia patris mei, et non matris meae filia*, quia scilicet ex parte patris ei attinebat. Iacob vero mystice dixit se esse Esau, primogenitum Isaac, quia videlicet primogenita illius de iure ei debebantur. Usus autem est hoc modo loquendi per spiritum prophetiae, ad designandum mysterium, quia videlicet minor populus, scilicet gentilium, substituendus erat in locum primogeniti, scilicet in locum Iudaeorum. Quidam vero commendantur in Scriptura non propter perfectam virtutem, sed propter quandam virtutis indolem, quia scilicet apparebat in eis aliquis laudabilis affectus, ex quo movebantur ad quaedam indebita facienda. Et hoc modo Iudith laudatur, non quia mentita est Holoferni, sed propter affectum quem habuit ad salutem populi, pro qua periculis se exposuit. Quamvis etiam dici possit quod verba eius veritatem habent secundum aliquem mysticum intellectum.]]
+![[LEO IIa-IIæ, q. 110, a. 3#ad 3|Ad tertium dicendum quod in sacra Scriptura, sicut Augustinus dicit, inducuntur aliquorum gesta quasi exempla perfectae virtutis, de quibus non est aestimandum eos fuisse mentitos. Si qua tamen in eorum dictis appareant quae mendacia videantur, intelligendum est ea figuraliter et prophetice dicta esse. Unde Augustinus dicit, in libro contra mendacium, *credendum est illos homines qui propheticis temporibus digni auctoritate fuisse commemorantur, omnia quae scripta sunt de illis prophetice gessisse atque dixisse*. Abraham tamen, ut Augustinus dicit, in quaest. Genes. Dicens Saram esse suam sororem, veritatem voluit celari, non mendacium dici, soror enim dicitur quia filia fratris erat. Unde et ipse Abraham dicit, Gen. XX, *vere soror mea est, filia patris mei, et non matris meae filia*, quia scilicet ex parte patris ei attinebat. Iacob vero mystice dixit se esse Esau, primogenitum Isaac, quia videlicet primogenita illius de iure ei debebantur. Usus autem est hoc modo loquendi per spiritum prophetiae, ad designandum mysterium, quia videlicet minor populus, scilicet gentilium, substituendus erat in locum primogeniti, scilicet in locum Iudaeorum. Quidam vero commendantur in Scriptura non propter perfectam virtutem, sed propter quandam virtutis indolem, quia scilicet apparebat in eis aliquis laudabilis affectus, ex quo movebantur ad quaedam indebita facienda. Et hoc modo Iudith laudatur, non quia mentita est Holoferni, sed propter affectum quem habuit ad salutem populi, pro qua periculis se exposuit. Quamvis etiam dici possit quod verba eius veritatem habent secundum aliquem mysticum intellectum.]]
 ![[CERF IIa-IIæ, q. 110, a. 3#ad 3]]
 
 ###### ad 4
@@ -54,7 +54,7 @@ tags :
 ![[CERF IIa-IIæ, q. 110, a. 3#ad 4]]
 
 ###### ad 5
-![[LEO IIa-IIæ, q. 110, a. 3#ad 5|Ad quintum dicendum quod ille qui aliquid promittit, si habeat animum faciendi quod promittit, non mentitur, quia non loquitur contra id quod gerit in mente. Si vero non faciat quod promisit, tunc videtur infideliter agere per hoc quod animum mutat. Potest tamen excusari ex duobus. Uno modo, si promisit id quod est manifeste illicitum, quia promittendo peccavit, mutando autem propositum bene facit. Alio modo, si sint mutatae conditiones personarum et negotiorum. Ut enim Seneca dicit, in libro de Benefic., ad hoc quod homo teneatur facere quod promisit, requiritur quod omnia immutata permaneant, alioquin nec fuit mendax in promittendo, quia promisit quod habebat in mente, subintellectis debitis conditionibus; nec etiam est infidelis non implendo quod promisit, quia eaedem conditiones non extant. Unde et apostolus non est mentitus, qui non ivit Corinthum, quo se iturum esse promiserat, ut dicitur [[2 Co 1]], et hoc propter impedimenta quae supervenerant.]]
+![[LEO IIa-IIæ, q. 110, a. 3#ad 5|Ad quintum dicendum quod ille qui aliquid promittit, si habeat animum faciendi quod promittit, non mentitur, quia non loquitur contra id quod gerit in mente. Si vero non faciat quod promisit, tunc videtur infideliter agere per hoc quod animum mutat. Potest tamen excusari ex duobus. Uno modo, si promisit id quod est manifeste illicitum, quia promittendo peccavit, mutando autem propositum bene facit. Alio modo, si sint mutatae conditiones personarum et negotiorum. Ut enim Seneca dicit, in libro de Benefic., ad hoc quod homo teneatur facere quod promisit, requiritur quod omnia immutata permaneant, alioquin nec fuit mendax in promittendo, quia promisit quod habebat in mente, subintellectis debitis conditionibus; nec etiam est infidelis non implendo quod promisit, quia eaedem conditiones non extant. Unde et apostolus non est mentitus, qui non ivit Corinthum, quo se iturum esse promiserat, ut dicitur II Cor. I, et hoc propter impedimenta quae supervenerant.]]
 ![[CERF IIa-IIæ, q. 110, a. 3#ad 5]]
 
 ###### ad 6

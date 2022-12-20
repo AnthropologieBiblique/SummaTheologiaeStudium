@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 82, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod devotio non sit specialis actus. Illud enim quod pertinet ad modum aliorum actuum non videtur esse specialis actus. Sed devotio videtur pertinere ad modum aliorum actuum, dicitur enim [[2 Ch 29]], *obtulit universa multitudo hostias et laudes et holocausta mente devota*. Ergo devotio non est specialis actus.]]
+![[LEO IIa-IIæ, q. 82, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod devotio non sit specialis actus. Illud enim quod pertinet ad modum aliorum actuum non videtur esse specialis actus. Sed devotio videtur pertinere ad modum aliorum actuum, dicitur enim II Paral. XXIX, *obtulit universa multitudo hostias et laudes et holocausta mente devota*. Ergo devotio non est specialis actus.]]
 ![[CERF IIa-IIæ, q. 82, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 82, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 82, a. 1#resp.|Respondeo dicendum quod devotio dicitur a devovendo, unde devoti dicuntur qui seipsos quodammodo Deo devovent, ut ei se totaliter subdant. Propter quod et olim apud gentiles devoti dicebantur qui seipsos idolis devovebant in mortem pro sui salute exercitus, sicut de duobus Deciis Titus Livius narrat. Unde devotio nihil aliud esse videtur quam voluntas quaedam prompte tradendi se ad ea quae pertinent ad Dei famulatum. Unde [[Ex 35]] dicitur quod *multitudo filiorum Israel obtulit mente promptissima atque devota primitias domino*. Manifestum est autem quod voluntas prompte faciendi quod ad Dei servitium pertinet est quidam specialis actus. Unde devotio est specialis actus voluntatis.]]
+![[LEO IIa-IIæ, q. 82, a. 1#resp.|Respondeo dicendum quod devotio dicitur a devovendo, unde devoti dicuntur qui seipsos quodammodo Deo devovent, ut ei se totaliter subdant. Propter quod et olim apud gentiles devoti dicebantur qui seipsos idolis devovebant in mortem pro sui salute exercitus, sicut de duobus Deciis Titus Livius narrat. Unde devotio nihil aliud esse videtur quam voluntas quaedam prompte tradendi se ad ea quae pertinent ad Dei famulatum. Unde Exod. XXXV dicitur quod *multitudo filiorum Israel obtulit mente promptissima atque devota primitias domino*. Manifestum est autem quod voluntas prompte faciendi quod ad Dei servitium pertinet est quidam specialis actus. Unde devotio est specialis actus voluntatis.]]
 ![[CERF IIa-IIæ, q. 82, a. 1#resp.]]
 
 ###### ad 1

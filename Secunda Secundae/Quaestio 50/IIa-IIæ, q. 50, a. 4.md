@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 50, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 50, a. 4#s.c.|Sed contra est quod dicitur [[Pr 24]], *cum dispositione initur bellum, et erit salus ubi sunt multa consilia*. Sed consiliari pertinet ad prudentiam. Ergo in rebus bellicis maxime necessaria est aliqua species prudentiae quae militaris dicitur.]]
+![[LEO IIa-IIæ, q. 50, a. 4#s.c.|Sed contra est quod dicitur Prov. XXIV, *cum dispositione initur bellum, et erit salus ubi sunt multa consilia*. Sed consiliari pertinet ad prudentiam. Ergo in rebus bellicis maxime necessaria est aliqua species prudentiae quae militaris dicitur.]]
 ![[CERF IIa-IIæ, q. 50, a. 4#s.c.]]
 
 ###### resp.

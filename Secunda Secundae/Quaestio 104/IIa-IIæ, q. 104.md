@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 104#Prooemium|Deinde considerandum est de obedientia. Et circa hoc quaeruntur sex. Primo, utrum homo debeat homini obedire. Secundo, utrum obedientia sit specialis virtus. Tertio, de comparatione eius ad alias virtutes. Quarto, utrum Deo sit in omnibus obediendum. Quinto, utrum subditi suis praelatis teneantur in omnibus obedire. Sexto, utrum fideles teneantur saecularibus potestatibus obedire.]]
-![[CERF IIa-IIæ, q. 104#Prooemium]]
+Deinde considerandum est de obedientia. Et circa hoc quaeruntur sex. Primo, utrum homo debeat homini obedire. Secundo, utrum obedientia sit specialis virtus. Tertio, de comparatione eius ad alias virtutes. Quarto, utrum Deo sit in omnibus obediendum. Quinto, utrum subditi suis praelatis teneantur in omnibus obedire. Sexto, utrum fideles teneantur saecularibus potestatibus obedire.
 
 ![[IIa-IIæ, q. 104, a. 1#Articulus 1]]
 

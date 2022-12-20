@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 156, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod incontinens plus peccet quam intemperatus. Tanto enim aliquis videtur gravius peccare, quanto magis contra conscientiam agit, secundum illud [[Lc 12]], *servus sciens voluntatem domini sui et faciens digna plagis, vapulabit multis*. Sed incontinens magis videtur agere contra conscientiam quam intemperatus, quia, ut dicitur in VII Ethic., incontinens, sciens quoniam prava sunt quae concupiscit, nihilominus agit, propter passionem; intemperatus autem iudicat ea quae concupiscit esse bona. Ergo incontinens gravius peccat quam intemperatus.]]
+![[LEO IIa-IIæ, q. 156, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod incontinens plus peccet quam intemperatus. Tanto enim aliquis videtur gravius peccare, quanto magis contra conscientiam agit, secundum illud Luc. XII, *servus sciens voluntatem domini sui et faciens digna plagis, vapulabit multis*. Sed incontinens magis videtur agere contra conscientiam quam intemperatus, quia, ut dicitur in VII Ethic., incontinens, sciens quoniam prava sunt quae concupiscit, nihilominus agit, propter passionem; intemperatus autem iudicat ea quae concupiscit esse bona. Ergo incontinens gravius peccat quam intemperatus.]]
 ![[CERF IIa-IIæ, q. 156, a. 3#arg. 1]]
 
 ###### arg. 2

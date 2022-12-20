@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 11#Prooemium|Post praemissa, considerandum est de divina unitate. Et circa hoc quaeruntur quatuor. Primo, utrum unum addat aliquid supra ens. Secundo, utrum opponantur unum et multa. Tertio, utrum Deus sit unus. Quarto, utrum sit maxime unus.]]
-![[CERF Ia, q. 11#Prooemium]]
+Post praemissa, considerandum est de divina unitate. Et circa hoc quaeruntur quatuor. Primo, utrum unum addat aliquid supra ens. Secundo, utrum opponantur unum et multa. Tertio, utrum Deus sit unus. Quarto, utrum sit maxime unus.
 
 ![[Ia, q. 11, a. 1#Articulus 1]]
 

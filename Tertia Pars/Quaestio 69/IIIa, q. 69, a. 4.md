@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 69, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 69, a. 4#arg. 2|Praeterea, illud quod iam aliquis adeptus est, non indiget iterum suscipere. Sed aliqui accedunt ad Baptismum iam habentes gratiam et virtutes; sicut [[Ac 10]] legitur, *vir quidam erat in Caesarea, nomine Cornelius, centurio cohortis* quae dicitur Italica, religiosus et timens Deum; qui tamen postea a Petro baptizatus est. Non ergo per Baptismum conferuntur gratia et virtutes.]]
+![[LEO IIIa, q. 69, a. 4#arg. 2|Praeterea, illud quod iam aliquis adeptus est, non indiget iterum suscipere. Sed aliqui accedunt ad Baptismum iam habentes gratiam et virtutes; sicut Act. X legitur, *vir quidam erat in Caesarea, nomine Cornelius, centurio cohortis* quae dicitur Italica, religiosus et timens Deum; qui tamen postea a Petro baptizatus est. Non ergo per Baptismum conferuntur gratia et virtutes.]]
 ![[CERF IIIa, q. 69, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 69, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 69, a. 4#s.c.|Sed contra est quod, ad [[Tt 3]], dicit apostolus, *salvos nos fecit per lavacrum regenerationis, idest per Baptismum, et renovationis spiritus sancti, quem effudit in nos abunde, idest ad remissionem peccatorum et copiam virtutum*, ut Glossa ibidem exponit. Sic ergo in Baptismo datur gratia spiritus sancti et copia virtutum.]]
+![[LEO IIIa, q. 69, a. 4#s.c.|Sed contra est quod, ad Tit. III, dicit apostolus, *salvos nos fecit per lavacrum regenerationis, idest per Baptismum, et renovationis spiritus sancti, quem effudit in nos abunde, idest ad remissionem peccatorum et copiam virtutum*, ut Glossa ibidem exponit. Sic ergo in Baptismo datur gratia spiritus sancti et copia virtutum.]]
 ![[CERF IIIa, q. 69, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 69, a. 4#resp.|Respondeo dicendum quod, sicut Augustinus dicit, in libro de Baptismo parvulorum, *ad hoc Baptismus valet, ut baptizati Christo incorporentur ut membra eius*. A capite autem Christo in omnia membra eius gratiae et virtutis plenitudo derivatur, secundum illud [[Jn 1]], *de plenitudine eius nos omnes accepimus*. Unde manifestum est quod per Baptismum aliquis consequitur gratiam et virtutes.]]
+![[LEO IIIa, q. 69, a. 4#resp.|Respondeo dicendum quod, sicut Augustinus dicit, in libro de Baptismo parvulorum, *ad hoc Baptismus valet, ut baptizati Christo incorporentur ut membra eius*. A capite autem Christo in omnia membra eius gratiae et virtutis plenitudo derivatur, secundum illud Ioan. I, *de plenitudine eius nos omnes accepimus*. Unde manifestum est quod per Baptismum aliquis consequitur gratiam et virtutes.]]
 ![[CERF IIIa, q. 69, a. 4#resp.]]
 
 ###### ad 1

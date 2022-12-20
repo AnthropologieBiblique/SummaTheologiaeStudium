@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 83, a. 4#s.c.|Sed contra est quod dicitur [[Jb 5]], *voca, si est qui tibi respondeat, et ad aliquem sanctorum convertere*.]]
+![[LEO IIa-IIæ, q. 83, a. 4#s.c.|Sed contra est quod dicitur Iob V, *voca, si est qui tibi respondeat, et ad aliquem sanctorum convertere*.]]
 ![[CERF IIa-IIæ, q. 83, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 83, a. 4#resp.|Respondeo dicendum quod oratio porrigitur alicui dupliciter, uno modo, quasi per ipsum implenda; alio modo, sicut per ipsum impetranda. Primo quidem modo soli Deo orationem porrigimus, quia omnes orationes nostrae ordinari debent ad gratiam et gloriam consequendam, quae solus Deus dat, secundum illud Psalm., *gratiam et gloriam dabit dominus*. Sed secundo modo orationem porrigimus sanctis Angelis et hominibus, non ut per eos Deus nostras petitiones cognoscat, sed ut eorum precibus et meritis orationes nostrae sortiantur effectum. Et ideo dicitur [[Ap 8]] quod *ascendit fumus aromatum, idest orationes sanctorum, de manu Angeli coram domino*. Et hoc etiam patet ex ipso modo quo Ecclesia utitur in orando. Nam a sancta Trinitate petimus ut nostri misereatur, ab aliis autem sanctis quibuscumque petimus ut orent pro nobis.]]
+![[LEO IIa-IIæ, q. 83, a. 4#resp.|Respondeo dicendum quod oratio porrigitur alicui dupliciter, uno modo, quasi per ipsum implenda; alio modo, sicut per ipsum impetranda. Primo quidem modo soli Deo orationem porrigimus, quia omnes orationes nostrae ordinari debent ad gratiam et gloriam consequendam, quae solus Deus dat, secundum illud Psalm., *gratiam et gloriam dabit dominus*. Sed secundo modo orationem porrigimus sanctis Angelis et hominibus, non ut per eos Deus nostras petitiones cognoscat, sed ut eorum precibus et meritis orationes nostrae sortiantur effectum. Et ideo dicitur Apoc. VIII quod *ascendit fumus aromatum, idest orationes sanctorum, de manu Angeli coram domino*. Et hoc etiam patet ex ipso modo quo Ecclesia utitur in orando. Nam a sancta Trinitate petimus ut nostri misereatur, ab aliis autem sanctis quibuscumque petimus ut orent pro nobis.]]
 ![[CERF IIa-IIæ, q. 83, a. 4#resp.]]
 
 ###### ad 1

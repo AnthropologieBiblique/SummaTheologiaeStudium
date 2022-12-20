@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 36, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod nativitas Christi nulli debuerit manifestari. Quia, ut dictum est, hoc erat congruum humanae saluti, ut primus Christi adventus esset occultus. Sed Christus venerat ut omnes salvaret, secundum illud [[1 Tm 4]], *qui est salvator omnium hominum, maxime fidelium*. Ergo nativitas Christi nulli debuit manifestari.]]
+![[LEO IIIa, q. 36, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod nativitas Christi nulli debuerit manifestari. Quia, ut dictum est, hoc erat congruum humanae saluti, ut primus Christi adventus esset occultus. Sed Christus venerat ut omnes salvaret, secundum illud I Tim. IV, *qui est salvator omnium hominum, maxime fidelium*. Ergo nativitas Christi nulli debuit manifestari.]]
 ![[CERF IIIa, q. 36, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 36, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 36, a. 2#arg. 3|Praeterea, nullus sapiens manifestat id ex quo turbatio nascitur et detrimentum aliorum. Sed, manifestata Christi nativitate, subsecuta est turbatio, dicitur enim [[Mt 2]] quod, audiens rex Herodes Christi nativitatem, turbatus est, et omnis Ierosolyma cum illo. Cessit etiam hoc in detrimentum aliorum, quia ex hac occasione Herodes *occidit pueros in Bethlehem et in finibus eius a bimatu et infra*. Ergo videtur quod non fuerit conveniens Christi nativitatem aliquibus manifestari.]]
+![[LEO IIIa, q. 36, a. 2#arg. 3|Praeterea, nullus sapiens manifestat id ex quo turbatio nascitur et detrimentum aliorum. Sed, manifestata Christi nativitate, subsecuta est turbatio, dicitur enim Matth. II quod, audiens rex Herodes Christi nativitatem, turbatus est, et omnis Ierosolyma cum illo. Cessit etiam hoc in detrimentum aliorum, quia ex hac occasione Herodes *occidit pueros in Bethlehem et in finibus eius a bimatu et infra*. Ergo videtur quod non fuerit conveniens Christi nativitatem aliquibus manifestari.]]
 ![[CERF IIIa, q. 36, a. 2#arg. 3]]
 
 ###### s.c.
@@ -22,11 +22,11 @@ tags :
 ![[CERF IIIa, q. 36, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 36, a. 2#resp.|Respondeo dicendum quod, sicut apostolus dicit, [[Rm 13]], *quae a Deo sunt, ordinata sunt*. Pertinet autem ad divinae sapientiae ordinem ut Dei dona, et secreta sapientiae eius, non aequaliter ad omnes, sed immediate ad quosdam perveniant, et per eos ad alios deriventur. Unde et quantum ad resurrectionis mysterium dicitur, [[Ac 10]], quod Deus dedit Christum resurgentem manifestum fieri, *non omni populo, sed testibus praeordinatis a Deo*. Unde hoc etiam debuit circa ipsius nativitatem observari, ut non omnibus Christus manifestaretur, sed quibusdam, per quos posset ad alios devenire.]]
+![[LEO IIIa, q. 36, a. 2#resp.|Respondeo dicendum quod, sicut apostolus dicit, Rom. XIII, *quae a Deo sunt, ordinata sunt*. Pertinet autem ad divinae sapientiae ordinem ut Dei dona, et secreta sapientiae eius, non aequaliter ad omnes, sed immediate ad quosdam perveniant, et per eos ad alios deriventur. Unde et quantum ad resurrectionis mysterium dicitur, Act. X, quod Deus dedit Christum resurgentem manifestum fieri, *non omni populo, sed testibus praeordinatis a Deo*. Unde hoc etiam debuit circa ipsius nativitatem observari, ut non omnibus Christus manifestaretur, sed quibusdam, per quos posset ad alios devenire.]]
 ![[CERF IIIa, q. 36, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 36, a. 2#ad 1|Ad primum ergo dicendum quod, sicut fuisset in praeiudicium salutis humanae si omnibus hominibus Dei nativitas innotuisset, ita etiam et si nulli nota fuisset. Utroque enim modo tollitur fides, tam scilicet per hoc quod aliquid est totaliter manifestum; quam etiam per hoc quod a nullo cognoscitur a quo possit testimonium audiri; fides enim est ex auditu, ut dicitur [[Rm 10]].]]
+![[LEO IIIa, q. 36, a. 2#ad 1|Ad primum ergo dicendum quod, sicut fuisset in praeiudicium salutis humanae si omnibus hominibus Dei nativitas innotuisset, ita etiam et si nulli nota fuisset. Utroque enim modo tollitur fides, tam scilicet per hoc quod aliquid est totaliter manifestum; quam etiam per hoc quod a nullo cognoscitur a quo possit testimonium audiri; fides enim est ex auditu, ut dicitur Rom. X.]]
 ![[CERF IIIa, q. 36, a. 2#ad 1]]
 
 ###### ad 2

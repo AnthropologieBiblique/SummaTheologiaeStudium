@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIIa, q. 31, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod caro Christi in antiquis patribus peccato infecta non fuerit. Dicitur enim [[Sg 7]] quod in divinam sapientiam nihil inquinatum incurrit. Christus autem est Dei sapientia, ut dicitur I ad Cor. I. Ergo caro Christi nunquam peccato inquinata fuit.]]
+![[LEO IIIa, q. 31, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod caro Christi in antiquis patribus peccato infecta non fuerit. Dicitur enim Sap. VII quod in divinam sapientiam nihil inquinatum incurrit. Christus autem est Dei sapientia, ut dicitur I ad Cor. I. Ergo caro Christi nunquam peccato inquinata fuit.]]
 ![[CERF IIIa, q. 31, a. 7#arg. 1]]
 
 ###### arg. 2

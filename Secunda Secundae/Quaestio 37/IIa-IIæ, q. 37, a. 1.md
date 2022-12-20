@@ -10,15 +10,15 @@ tags :
 ![[CERF IIa-IIæ, q. 37, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 37, a. 1#arg. 2|Praeterea, quicumque inducit aliquem ad peccandum, et ipse peccat. Sed inducere inter aliquos discordiam non videtur esse peccatum, dicitur enim [[Ac 23]], quod *sciens Paulus quia una pars esset Sadducaeorum et altera Pharisaeorum, exclamavit in Concilio, viri fratres, ego Pharisaeus sum, filius Pharisaeorum, de spe et resurrectione mortuorum ego iudicor. Et cum haec dixisset, facta est dissensio inter Pharisaeos et Sadducaeos*. Ergo discordia non est peccatum.]]
+![[LEO IIa-IIæ, q. 37, a. 1#arg. 2|Praeterea, quicumque inducit aliquem ad peccandum, et ipse peccat. Sed inducere inter aliquos discordiam non videtur esse peccatum, dicitur enim Act. XXIII, quod *sciens Paulus quia una pars esset Sadducaeorum et altera Pharisaeorum, exclamavit in Concilio, viri fratres, ego Pharisaeus sum, filius Pharisaeorum, de spe et resurrectione mortuorum ego iudicor. Et cum haec dixisset, facta est dissensio inter Pharisaeos et Sadducaeos*. Ergo discordia non est peccatum.]]
 ![[CERF IIa-IIæ, q. 37, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 37, a. 1#arg. 3|Praeterea, peccatum, praecipue mortale, in sanctis viris non invenitur. Sed in sanctis viris invenitur discordia, dicitur enim [[Ac 15]], *facta est dissensio inter Paulum et Barnabam, ita ut discederent ab invicem*. Ergo discordia non est peccatum, et maxime mortale.]]
+![[LEO IIa-IIæ, q. 37, a. 1#arg. 3|Praeterea, peccatum, praecipue mortale, in sanctis viris non invenitur. Sed in sanctis viris invenitur discordia, dicitur enim Act. XV, *facta est dissensio inter Paulum et Barnabam, ita ut discederent ab invicem*. Ergo discordia non est peccatum, et maxime mortale.]]
 ![[CERF IIa-IIæ, q. 37, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 37, a. 1#s.c.|Sed contra est quod ad [[Ga 5]] dissensiones, idest discordiae, ponuntur inter opera carnis, de quibus subditur, *qui talia agunt, regnum Dei non consequuntur*. Nihil autem excludit a regno Dei nisi peccatum mortale. Ergo discordia est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 37, a. 1#s.c.|Sed contra est quod ad Gal. V dissensiones, idest discordiae, ponuntur inter opera carnis, de quibus subditur, *qui talia agunt, regnum Dei non consequuntur*. Nihil autem excludit a regno Dei nisi peccatum mortale. Ergo discordia est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 37, a. 1#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 37, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 37, a. 1#ad 2|Ad secundum dicendum quod sicut voluntas hominis adhaerens Deo est quaedam regula recta, a qua peccatum est discordare; ita etiam voluntas hominis Deo contraria est quaedam perversa regula, a qua bonum est discordare. Facere ergo discordiam per quam tollitur bona concordia quam caritas facit, est grave peccatum, unde dicitur [[Pr 6]], *sex sunt quae odit dominus, et septimum detestatur anima eius*, et hoc septimum ponit eum qui seminat inter fratres discordias. Sed causare discordiam per quam tollitur mala concordia, scilicet in mala voluntate, est laudabile. Et hoc modo laudabile fuit quod Paulus dissensionem posuit inter eos qui erant concordes in malo, nam et dominus de se dicit, [[Mt 10]], *non veni pacem mittere, sed gladium*.]]
+![[LEO IIa-IIæ, q. 37, a. 1#ad 2|Ad secundum dicendum quod sicut voluntas hominis adhaerens Deo est quaedam regula recta, a qua peccatum est discordare; ita etiam voluntas hominis Deo contraria est quaedam perversa regula, a qua bonum est discordare. Facere ergo discordiam per quam tollitur bona concordia quam caritas facit, est grave peccatum, unde dicitur Prov. VI, *sex sunt quae odit dominus, et septimum detestatur anima eius*, et hoc septimum ponit eum qui seminat inter fratres discordias. Sed causare discordiam per quam tollitur mala concordia, scilicet in mala voluntate, est laudabile. Et hoc modo laudabile fuit quod Paulus dissensionem posuit inter eos qui erant concordes in malo, nam et dominus de se dicit, Matth. X, *non veni pacem mittere, sed gladium*.]]
 ![[CERF IIa-IIæ, q. 37, a. 1#ad 2]]
 
 ###### ad 3

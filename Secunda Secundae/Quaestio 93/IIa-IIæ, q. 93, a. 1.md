@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 93, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod in cultu veri Dei non possit esse aliquid perniciosum. Dicitur enim [[Jl 2]], *omnis quicumque invocaverit nomen domini, salvus erit*. Sed quicumque colit Deum quocumque modo, invocat nomen eius. Ergo omnis cultus Dei confert salutem. Nullus ergo est perniciosus.]]
+![[LEO IIa-IIæ, q. 93, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod in cultu veri Dei non possit esse aliquid perniciosum. Dicitur enim Ioel II, *omnis quicumque invocaverit nomen domini, salvus erit*. Sed quicumque colit Deum quocumque modo, invocat nomen eius. Ergo omnis cultus Dei confert salutem. Nullus ergo est perniciosus.]]
 ![[CERF IIa-IIæ, q. 93, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 93, a. 1#arg. 2|Praeterea, idem Deus est qui colitur a iustis quacumque mundi aetate. Sed ante legem datam, iusti, absque peccato mortali, colebant Deum qualitercumque eis placebat, unde et Iacob proprio voto se obligavit ad specialem cultum, ut habetur [[Gn 28]]. Ergo etiam modo nullus Dei cultus est perniciosus.]]
+![[LEO IIa-IIæ, q. 93, a. 1#arg. 2|Praeterea, idem Deus est qui colitur a iustis quacumque mundi aetate. Sed ante legem datam, iusti, absque peccato mortali, colebant Deum qualitercumque eis placebat, unde et Iacob proprio voto se obligavit ad specialem cultum, ut habetur Gen. XXVIII. Ergo etiam modo nullus Dei cultus est perniciosus.]]
 ![[CERF IIa-IIæ, q. 93, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -22,11 +22,11 @@ tags :
 ![[CERF IIa-IIæ, q. 93, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 93, a. 1#resp.|Respondeo dicendum quod, sicut Augustinus dicit, in libro contra mendacium, mendacium maxime perniciosum est quod fit in his quae ad Christianam religionem pertinent. Est autem mendacium cum aliquis exterius significat contrarium veritati. Sicut autem significatur aliquid verbo, ita etiam significatur aliquid facto, et in tali significatione facti consistit exterior religionis cultus, ut ex supradictis patet. Et ideo si per cultum exteriorem aliquid falsum significetur, erit cultus perniciosus. Hoc autem contingit dupliciter. Uno quidem modo, ex parte rei significatae, a qua discordat significatio cultus. Et hoc modo, tempore novae legis, peractis iam Christi mysteriis, perniciosum est uti caeremoniis veteris legis, quibus Christi mysteria significabantur futura, sicut etiam perniciosum esset si quis verbo confiteretur Christum esse passurum. Alio modo potest contingere falsitas in exteriori cultu ex parte colentis, et hoc praecipue in cultu communi, qui per ministros exhibetur in persona totius Ecclesiae. Sicut enim falsarius esset qui aliqua proponeret ex parte alicuius quae non essent ei commissa, ita vitium falsitatis incurrit qui ex parte Ecclesiae cultum exhibet Deo contra modum divina auctoritate ab Ecclesia constitutum et in Ecclesia consuetum. Unde Ambrosius dicit, *indignus est qui aliter celebrat mysterium quam Christus tradidit*. Et propter hoc etiam Glossa dicit, [[Col 2]], quod *superstitio est quando traditioni humanae nomen religionis applicatur*.]]
+![[LEO IIa-IIæ, q. 93, a. 1#resp.|Respondeo dicendum quod, sicut Augustinus dicit, in libro contra mendacium, mendacium maxime perniciosum est quod fit in his quae ad Christianam religionem pertinent. Est autem mendacium cum aliquis exterius significat contrarium veritati. Sicut autem significatur aliquid verbo, ita etiam significatur aliquid facto, et in tali significatione facti consistit exterior religionis cultus, ut ex supradictis patet. Et ideo si per cultum exteriorem aliquid falsum significetur, erit cultus perniciosus. Hoc autem contingit dupliciter. Uno quidem modo, ex parte rei significatae, a qua discordat significatio cultus. Et hoc modo, tempore novae legis, peractis iam Christi mysteriis, perniciosum est uti caeremoniis veteris legis, quibus Christi mysteria significabantur futura, sicut etiam perniciosum esset si quis verbo confiteretur Christum esse passurum. Alio modo potest contingere falsitas in exteriori cultu ex parte colentis, et hoc praecipue in cultu communi, qui per ministros exhibetur in persona totius Ecclesiae. Sicut enim falsarius esset qui aliqua proponeret ex parte alicuius quae non essent ei commissa, ita vitium falsitatis incurrit qui ex parte Ecclesiae cultum exhibet Deo contra modum divina auctoritate ab Ecclesia constitutum et in Ecclesia consuetum. Unde Ambrosius dicit, *indignus est qui aliter celebrat mysterium quam Christus tradidit*. Et propter hoc etiam Glossa dicit, Coloss. II, quod *superstitio est quando traditioni humanae nomen religionis applicatur*.]]
 ![[CERF IIa-IIæ, q. 93, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 93, a. 1#ad 1|Ad primum ergo dicendum quod, cum Deus sit veritas, illi invocant Deum qui in spiritu et veritate eum colunt, ut dicitur [[Jn 4]]. Et ideo cultus continens falsitatem non pertinet proprie ad Dei invocationem quae salvat.]]
+![[LEO IIa-IIæ, q. 93, a. 1#ad 1|Ad primum ergo dicendum quod, cum Deus sit veritas, illi invocant Deum qui in spiritu et veritate eum colunt, ut dicitur Ioan. IV. Et ideo cultus continens falsitatem non pertinet proprie ad Dei invocationem quae salvat.]]
 ![[CERF IIa-IIæ, q. 93, a. 1#ad 1]]
 
 ###### ad 2

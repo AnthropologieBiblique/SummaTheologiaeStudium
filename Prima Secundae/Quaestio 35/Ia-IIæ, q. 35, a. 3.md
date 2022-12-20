@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 35, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod dolor delectationi non contrarietur. Unum enim contrariorum non est causa alterius. Sed tristitia potest esse causa delectationis, dicitur enim [[Mt 5]], *beati qui lugent, quoniam ipsi consolabuntur*. Ergo non sunt contraria.]]
+![[LEO Ia-IIæ, q. 35, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod dolor delectationi non contrarietur. Unum enim contrariorum non est causa alterius. Sed tristitia potest esse causa delectationis, dicitur enim Matth. V, *beati qui lugent, quoniam ipsi consolabuntur*. Ergo non sunt contraria.]]
 ![[CERF Ia-IIæ, q. 35, a. 3#arg. 1]]
 
 ###### arg. 2

@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 23, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 23, a. 1#arg. 2|Praeterea, [[Mt 13]], super illud, *simile est regnum caelorum fermento* etc., dicit Glossa Hieronymi, *in ratione possideamus prudentiam, in irascibili odium vitiorum, in concupiscibili desiderium virtutum*. Sed odium est in concupiscibili, sicut et amor, cui contrariatur, ut dicitur in II Topic. Ergo eadem passio est in concupiscibili et irascibili.]]
+![[LEO Ia-IIæ, q. 23, a. 1#arg. 2|Praeterea, Matth. XIII, super illud, *simile est regnum caelorum fermento* etc., dicit Glossa Hieronymi, *in ratione possideamus prudentiam, in irascibili odium vitiorum, in concupiscibili desiderium virtutum*. Sed odium est in concupiscibili, sicut et amor, cui contrariatur, ut dicitur in II Topic. Ergo eadem passio est in concupiscibili et irascibili.]]
 ![[CERF Ia-IIæ, q. 23, a. 1#arg. 2]]
 
 ###### arg. 3

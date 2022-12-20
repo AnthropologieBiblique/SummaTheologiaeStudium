@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 17, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod actus sensitivi appetitus non sit imperatus. Dicit enim apostolus, [[Rm 7]], *non enim quod volo bonum, hoc ago*, et Glossa exponit quod homo vult non concupiscere, et tamen concupiscit. Sed concupiscere est actus appetitus sensitivi. Ergo actus appetitus sensitivi non subditur imperio nostro.]]
+![[LEO Ia-IIæ, q. 17, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod actus sensitivi appetitus non sit imperatus. Dicit enim apostolus, Rom. VII, *non enim quod volo bonum, hoc ago*, et Glossa exponit quod homo vult non concupiscere, et tamen concupiscit. Sed concupiscere est actus appetitus sensitivi. Ergo actus appetitus sensitivi non subditur imperio nostro.]]
 ![[CERF Ia-IIæ, q. 17, a. 7#arg. 1]]
 
 ###### arg. 2

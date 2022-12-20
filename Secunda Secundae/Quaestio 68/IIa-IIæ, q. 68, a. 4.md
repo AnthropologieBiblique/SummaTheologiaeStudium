@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 68, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 68, a. 4#arg. 3|Praeterea, eidem peccato non debetur duplex poena, secundum illud [[Na 1]], *non iudicabit Deus bis in idipsum*. Sed ille qui in probatione deficit incurrit poenam infamiae, quam etiam Papa non videtur posse remittere, secundum illud Gelasii Papae, *quanquam animas per poenitentiam salvare possimus, infamiam tamen abolere non possumus*. Non ergo tenetur ad poenam talionis.]]
+![[LEO IIa-IIæ, q. 68, a. 4#arg. 3|Praeterea, eidem peccato non debetur duplex poena, secundum illud Nahum I, *non iudicabit Deus bis in idipsum*. Sed ille qui in probatione deficit incurrit poenam infamiae, quam etiam Papa non videtur posse remittere, secundum illud Gelasii Papae, *quanquam animas per poenitentiam salvare possimus, infamiam tamen abolere non possumus*. Non ergo tenetur ad poenam talionis.]]
 ![[CERF IIa-IIæ, q. 68, a. 4#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 68, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 68, a. 4#resp.|Respondeo dicendum quod, sicut supra dictum est, accusator in causa accusationis constituitur pars intendens ad poenam accusati. Ad iudicem autem pertinet ut inter eos iustitiae aequalitatem constituat. Iustitiae autem aequalitas hoc requirit, ut nocumentum quod quis alteri intentat, ipse patiatur, secundum illud [[Ex 21]], *oculum pro oculo, dentem pro dente*. Et ideo iustum est ut ille qui per accusationem aliquem in periculum gravis poenae inducit, ipse etiam similem poenam patiatur.]]
+![[LEO IIa-IIæ, q. 68, a. 4#resp.|Respondeo dicendum quod, sicut supra dictum est, accusator in causa accusationis constituitur pars intendens ad poenam accusati. Ad iudicem autem pertinet ut inter eos iustitiae aequalitatem constituat. Iustitiae autem aequalitas hoc requirit, ut nocumentum quod quis alteri intentat, ipse patiatur, secundum illud Exod. XXI, *oculum pro oculo, dentem pro dente*. Et ideo iustum est ut ille qui per accusationem aliquem in periculum gravis poenae inducit, ipse etiam similem poenam patiatur.]]
 ![[CERF IIa-IIæ, q. 68, a. 4#resp.]]
 
 ###### ad 1
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 68, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 68, a. 4#ad 2|Ad secundum dicendum quod ille qui male accusat peccat et contra personam accusati, et contra rempublicam. Unde propter utrumque punitur. Et hoc est quod dicitur [[Dt 19]], *cumque, diligentissime perscrutantes, invenerint falsum testem dixisse contra fratrem suum mendacium, reddent ei sicut fratri suo facere cogitavit*, quod pertinet ad iniuriam personae, et postea, quantum ad iniuriam reipublicae, subditur, *et auferes malum de medio tui, ut audientes ceteri timorem habeant, et nequaquam talia audeant facere*. Specialiter tamen personae accusati facit iniuriam si de falso accuset, et ideo accusatus, si innocens fuerit, potest ei iniuriam suam remittere; maxime si non calumniose accusaverit, sed ex animi levitate. Si vero ab accusatione innocentis desistat propter aliquam collusionem cum adversario, facit iniuriam reipublicae, et hoc non potest ei remitti ab eo qui accusatur, sed potest ei remitti per principem, qui curam reipublicae gerit.]]
+![[LEO IIa-IIæ, q. 68, a. 4#ad 2|Ad secundum dicendum quod ille qui male accusat peccat et contra personam accusati, et contra rempublicam. Unde propter utrumque punitur. Et hoc est quod dicitur Deut. XIX, *cumque, diligentissime perscrutantes, invenerint falsum testem dixisse contra fratrem suum mendacium, reddent ei sicut fratri suo facere cogitavit*, quod pertinet ad iniuriam personae, et postea, quantum ad iniuriam reipublicae, subditur, *et auferes malum de medio tui, ut audientes ceteri timorem habeant, et nequaquam talia audeant facere*. Specialiter tamen personae accusati facit iniuriam si de falso accuset, et ideo accusatus, si innocens fuerit, potest ei iniuriam suam remittere; maxime si non calumniose accusaverit, sed ex animi levitate. Si vero ab accusatione innocentis desistat propter aliquam collusionem cum adversario, facit iniuriam reipublicae, et hoc non potest ei remitti ab eo qui accusatur, sed potest ei remitti per principem, qui curam reipublicae gerit.]]
 ![[CERF IIa-IIæ, q. 68, a. 4#ad 2]]
 
 ###### ad 3

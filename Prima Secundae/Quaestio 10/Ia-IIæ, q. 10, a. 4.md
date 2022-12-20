@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 10, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod voluntas ex necessitate moveatur a Deo. Omne enim agens cui resisti non potest, ex necessitate movet. Sed Deo, cum sit infinitae virtutis, resisti non potest, unde dicitur [[Rm 9]], *voluntati eius quis resistit?* Ergo Deus ex necessitate movet voluntatem.]]
+![[LEO Ia-IIæ, q. 10, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod voluntas ex necessitate moveatur a Deo. Omne enim agens cui resisti non potest, ex necessitate movet. Sed Deo, cum sit infinitae virtutis, resisti non potest, unde dicitur Rom. IX, *voluntati eius quis resistit?* Ergo Deus ex necessitate movet voluntatem.]]
 ![[CERF Ia-IIæ, q. 10, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 10, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 10, a. 4#s.c.|Sed contra est quod dicitur [[Si 15]], *Deus ab initio constituit hominem, et reliquit eum in manu consilii sui*. Non ergo ex necessitate movet voluntatem eius.]]
+![[LEO Ia-IIæ, q. 10, a. 4#s.c.|Sed contra est quod dicitur Eccli. XV, *Deus ab initio constituit hominem, et reliquit eum in manu consilii sui*. Non ergo ex necessitate movet voluntatem eius.]]
 ![[CERF Ia-IIæ, q. 10, a. 4#s.c.]]
 
 ###### resp.

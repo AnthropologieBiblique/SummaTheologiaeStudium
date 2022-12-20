@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 104, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 104, a. 1#s.c.|Sed contra est quod dicitur [[He 1]], *portans omnia verbo virtutis suae*.]]
+![[LEO Ia, q. 104, a. 1#s.c.|Sed contra est quod dicitur Heb. I, *portans omnia verbo virtutis suae*.]]
 ![[CERF Ia, q. 104, a. 1#s.c.]]
 
 ###### resp.

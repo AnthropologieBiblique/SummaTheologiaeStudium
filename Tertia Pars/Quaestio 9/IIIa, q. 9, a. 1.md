@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 9, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 9, a. 1#ad 2|Ad secundum dicendum quod, si duo lumina accipiantur eiusdem ordinis, minus offuscatur per maius, sicut lumen solis offuscat lumen candelae, quorum utrumque accipitur in ordine illuminantis. Sed si accipiatur maius in ordine illuminantis et minus in ordine illuminati, minus lumen non offuscatur per maius, sed magis augetur, sicut lumen aeris per lumen solis. Et hoc modo lumen scientiae non offuscatur, sed clarescit in anima Christi per lumen scientiae divinae, quae est *lux vera illuminans omnem hominem venientem in hunc mundum*, ut dicitur [[Jn 1]].]]
+![[LEO IIIa, q. 9, a. 1#ad 2|Ad secundum dicendum quod, si duo lumina accipiantur eiusdem ordinis, minus offuscatur per maius, sicut lumen solis offuscat lumen candelae, quorum utrumque accipitur in ordine illuminantis. Sed si accipiatur maius in ordine illuminantis et minus in ordine illuminati, minus lumen non offuscatur per maius, sed magis augetur, sicut lumen aeris per lumen solis. Et hoc modo lumen scientiae non offuscatur, sed clarescit in anima Christi per lumen scientiae divinae, quae est *lux vera illuminans omnem hominem venientem in hunc mundum*, ut dicitur Ioan. I.]]
 ![[CERF IIIa, q. 9, a. 1#ad 2]]
 
 ###### ad 3

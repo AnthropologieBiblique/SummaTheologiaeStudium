@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 26, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod amor non sit in concupiscibili. Dicitur enim [[Sg 8]], hanc, scilicet sapientiam, amavi et exquisivi a iuventute mea. Sed concupiscibilis, cum sit pars appetitus sensitivi, non potest tendere in sapientiam, quae non comprehenditur sensu. Ergo amor non est in concupiscibili.]]
+![[LEO Ia-IIæ, q. 26, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod amor non sit in concupiscibili. Dicitur enim Sap. VIII, hanc, scilicet sapientiam, amavi et exquisivi a iuventute mea. Sed concupiscibilis, cum sit pars appetitus sensitivi, non potest tendere in sapientiam, quae non comprehenditur sensu. Ergo amor non est in concupiscibili.]]
 ![[CERF Ia-IIæ, q. 26, a. 1#arg. 1]]
 
 ###### arg. 2

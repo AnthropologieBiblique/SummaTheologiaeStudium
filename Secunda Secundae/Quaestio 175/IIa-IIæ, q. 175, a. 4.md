@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 175, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 175, a. 4#ad 2|Ad secundum dicendum quod intellectus animae Christi erat glorificatus per habituale lumen gloriae, quo divinam essentiam videbat multo amplius quam aliquis Angelus vel homo. Erat autem viator propter corporis passibilitatem, secundum quam paulo minus ab Angelis minorabatur, ut dicitur ad [[He 2]], dispensative, et non propter aliquem defectum ex parte intellectus. Unde non est similis ratio de eo et de aliis viatoribus.]]
+![[LEO IIa-IIæ, q. 175, a. 4#ad 2|Ad secundum dicendum quod intellectus animae Christi erat glorificatus per habituale lumen gloriae, quo divinam essentiam videbat multo amplius quam aliquis Angelus vel homo. Erat autem viator propter corporis passibilitatem, secundum quam paulo minus ab Angelis minorabatur, ut dicitur ad Heb. II, dispensative, et non propter aliquem defectum ex parte intellectus. Unde non est similis ratio de eo et de aliis viatoribus.]]
 ![[CERF IIa-IIæ, q. 175, a. 4#ad 2]]
 
 ###### ad 3

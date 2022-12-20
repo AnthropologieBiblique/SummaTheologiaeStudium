@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 24, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod liber vitae non sit idem quod praedestinatio. Dicitur enim [[Si 24]], *haec omnia liber vitae*; Glossa, *idest novum et vetus testamentum*. Hoc autem non est praedestinatio. Ergo liber vitae non est idem quod praedestinatio.]]
+![[LEO Ia, q. 24, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod liber vitae non sit idem quod praedestinatio. Dicitur enim Eccli. XXIV, *haec omnia liber vitae*; Glossa, *idest novum et vetus testamentum*. Hoc autem non est praedestinatio. Ergo liber vitae non est idem quod praedestinatio.]]
 ![[CERF Ia, q. 24, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia, q. 24, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 24, a. 1#s.c.|Sed contra est quod dicitur in Glossa, super illud [[Ps 68]], *deleantur de libro viventium, liber iste est notitia Dei, qua praedestinavit ad vitam, quos praescivit*.]]
+![[LEO Ia, q. 24, a. 1#s.c.|Sed contra est quod dicitur in Glossa, super illud Psalmi LXVIII, *deleantur de libro viventium, liber iste est notitia Dei, qua praedestinavit ad vitam, quos praescivit*.]]
 ![[CERF Ia, q. 24, a. 1#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 24, a. 1#resp.|Respondeo dicendum quod liber vitae in Deo dicitur metaphorice, secundum similitudinem a rebus humanis acceptam. Est enim consuetum apud homines, quod illi qui ad aliquid eliguntur, conscribuntur in libro; utpote milites vel consiliarii, qui olim dicebantur patres conscripti. Patet autem ex praemissis quod omnes praedestinati eliguntur a Deo ad habendum vitam aeternam. Ipsa ergo praedestinatorum conscriptio dicitur liber vitae. Dicitur autem metaphorice aliquid conscriptum in intellectu alicuius, quod firmiter in memoria tenet, secundum illud [[Pr 3]], *ne obliviscaris legis meae, et praecepta mea cor tuum custodiat*; et post pauca sequitur, *describe illa in tabulis cordis tui*. Nam et in libris materialibus aliquid conscribitur ad succurrendum memoriae. Unde ipsa Dei notitia, qua firmiter retinet se aliquos praedestinasse ad vitam aeternam, dicitur liber vitae. Nam sicut Scriptura libri est signum eorum quae fienda sunt ita Dei notitia est quoddam signum apud ipsum, eorum qui sunt perducendi ad vitam aeternam; secundum illud [[2 Tm 2]], *firmum fundamentum Dei stat, habens signaculum hoc, novit dominus qui sunt eius*.]]
+![[LEO Ia, q. 24, a. 1#resp.|Respondeo dicendum quod liber vitae in Deo dicitur metaphorice, secundum similitudinem a rebus humanis acceptam. Est enim consuetum apud homines, quod illi qui ad aliquid eliguntur, conscribuntur in libro; utpote milites vel consiliarii, qui olim dicebantur patres conscripti. Patet autem ex praemissis quod omnes praedestinati eliguntur a Deo ad habendum vitam aeternam. Ipsa ergo praedestinatorum conscriptio dicitur liber vitae. Dicitur autem metaphorice aliquid conscriptum in intellectu alicuius, quod firmiter in memoria tenet, secundum illud Prov. III, *ne obliviscaris legis meae, et praecepta mea cor tuum custodiat*; et post pauca sequitur, *describe illa in tabulis cordis tui*. Nam et in libris materialibus aliquid conscribitur ad succurrendum memoriae. Unde ipsa Dei notitia, qua firmiter retinet se aliquos praedestinasse ad vitam aeternam, dicitur liber vitae. Nam sicut Scriptura libri est signum eorum quae fienda sunt ita Dei notitia est quoddam signum apud ipsum, eorum qui sunt perducendi ad vitam aeternam; secundum illud II Tim. II, *firmum fundamentum Dei stat, habens signaculum hoc, novit dominus qui sunt eius*.]]
 ![[CERF Ia, q. 24, a. 1#resp.]]
 
 ###### ad 1

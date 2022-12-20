@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 89, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod iuramentum non habeat vim obligandi. Inducitur enim iuramentum ad confirmandum veritatem eius quod dicitur. Sed quando aliquis dicit aliquid de futuro, verum dicit etiam si non eveniat quod dicit, sicut Paulus, quamvis non iverit Corinthum, sicut dixerat, non tamen est mentitus, ut patet [[2 Co 1]]. Ergo videtur quod iuramentum non sit obligatorium.]]
+![[LEO IIa-IIæ, q. 89, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod iuramentum non habeat vim obligandi. Inducitur enim iuramentum ad confirmandum veritatem eius quod dicitur. Sed quando aliquis dicit aliquid de futuro, verum dicit etiam si non eveniat quod dicit, sicut Paulus, quamvis non iverit Corinthum, sicut dixerat, non tamen est mentitus, ut patet II Cor. I. Ergo videtur quod iuramentum non sit obligatorium.]]
 ![[CERF IIa-IIæ, q. 89, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 89, a. 7#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 89, a. 7#s.c.|Sed contra est quod dicitur [[Mt 5]], *reddes domino iuramenta tua*.]]
+![[LEO IIa-IIæ, q. 89, a. 7#s.c.|Sed contra est quod dicitur Matth. V, *reddes domino iuramenta tua*.]]
 ![[CERF IIa-IIæ, q. 89, a. 7#s.c.]]
 
 ###### resp.

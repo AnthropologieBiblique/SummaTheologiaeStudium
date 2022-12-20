@@ -6,11 +6,11 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIIa, q. 69, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod effectus Baptismi non sit apertio ianuae regni caelestis. Illud enim quod est apertum, non indiget apertione. Sed ianua regni caelestis est aperta per passionem Christi, unde [[Ap 4]] dicitur, *post haec vidi ostium magnum apertum in caelo*. Non est ergo effectus Baptismi apertio ianuae regni caelestis.]]
+![[LEO IIIa, q. 69, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod effectus Baptismi non sit apertio ianuae regni caelestis. Illud enim quod est apertum, non indiget apertione. Sed ianua regni caelestis est aperta per passionem Christi, unde Apoc. IV dicitur, *post haec vidi ostium magnum apertum in caelo*. Non est ergo effectus Baptismi apertio ianuae regni caelestis.]]
 ![[CERF IIIa, q. 69, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 69, a. 7#arg. 2|Praeterea, Baptismus omni tempore ex quo institutus fuit, habet suum effectum. Sed quidam baptizati sunt Baptismo Christi ante eius passionem, ut habetur [[Jn 3]], quibus, si tunc decessissent, introitus regni caelestis non patebat, in quod nullus ante Christum introivit, secundum illud Mich. II, *ascendit pandens iter ante eos*. Non est ergo effectus Baptismi apertio ianuae regni caelestis.]]
+![[LEO IIIa, q. 69, a. 7#arg. 2|Praeterea, Baptismus omni tempore ex quo institutus fuit, habet suum effectum. Sed quidam baptizati sunt Baptismo Christi ante eius passionem, ut habetur Ioan. III, quibus, si tunc decessissent, introitus regni caelestis non patebat, in quod nullus ante Christum introivit, secundum illud Mich. II, *ascendit pandens iter ante eos*. Non est ergo effectus Baptismi apertio ianuae regni caelestis.]]
 ![[CERF IIIa, q. 69, a. 7#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 69, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 69, a. 7#s.c.|Sed contra est quod super illud [[Lc 3]], *apertum est caelum*, dicit Glossa Bedae, *virtus hic Baptismatis ostenditur, de quo quisque cum egreditur, ei regni caelestis ianua aperitur*.]]
+![[LEO IIIa, q. 69, a. 7#s.c.|Sed contra est quod super illud Luc. III, *apertum est caelum*, dicit Glossa Bedae, *virtus hic Baptismatis ostenditur, de quo quisque cum egreditur, ei regni caelestis ianua aperitur*.]]
 ![[CERF IIIa, q. 69, a. 7#s.c.]]
 
 ###### resp.

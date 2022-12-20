@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 6, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 6, a. 3#arg. 3|Praeterea, [[Jn 1]] dicitur, vidimus eum plenum gratiae et veritatis, et postea sequitur, de plenitudine eius omnes accepimus, idest, omnes fideles quocumque tempore, ut Chrysostomus exponit. Hoc autem non esset nisi Christus habuisset plenitudinem gratiae et veritatis ante omnes sanctos qui fuerunt ab origine mundi, quia causa non est posterior causato. Cum ergo plenitudo gratiae et veritatis fuerit in anima Christi ex unione ad verbum, secundum illud quod ibidem dicitur, *vidimus gloriam eius quasi unigeniti a patre, plenum gratiae et veritatis*; consequens videtur quod a principio mundi anima Christi fuisset a verbo Dei assumpta.]]
+![[LEO IIIa, q. 6, a. 3#arg. 3|Praeterea, Ioan. I dicitur, vidimus eum plenum gratiae et veritatis, et postea sequitur, de plenitudine eius omnes accepimus, idest, omnes fideles quocumque tempore, ut Chrysostomus exponit. Hoc autem non esset nisi Christus habuisset plenitudinem gratiae et veritatis ante omnes sanctos qui fuerunt ab origine mundi, quia causa non est posterior causato. Cum ergo plenitudo gratiae et veritatis fuerit in anima Christi ex unione ad verbum, secundum illud quod ibidem dicitur, *vidimus gloriam eius quasi unigeniti a patre, plenum gratiae et veritatis*; consequens videtur quod a principio mundi anima Christi fuisset a verbo Dei assumpta.]]
 ![[CERF IIIa, q. 6, a. 3#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 6, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 6, a. 3#ad 3|Ad tertium dicendum quod de plenitudine Christi omnes homines accipiunt secundum fidem quam habent in ipsum, dicitur enim [[Rm 3]], quod *iustitia Dei est per fidem Iesu Christi in omnes et super omnes qui credunt in ipsum*. Sicut autem nos in ipsum credimus ut incarnatum, ita antiqui crediderunt in ipsum ut nasciturum, *habentes enim eundem spiritum credimus*, ut dicitur [[2 Co 4]]. Habet autem fides quae est in Christum virtutem iustificandi ex proposito gratiae Dei, secundum illud [[Rm 3]], *ei qui non operatur, credenti autem in eum qui iustificat impium, fides reputatur ad iustitiam secundum propositum gratiae Dei*. Unde, quia hoc propositum est aeternum, nihil prohibet per fidem Iesu Christi aliquos iustificari antequam eius anima esset plena gratia et veritate.]]
+![[LEO IIIa, q. 6, a. 3#ad 3|Ad tertium dicendum quod de plenitudine Christi omnes homines accipiunt secundum fidem quam habent in ipsum, dicitur enim Rom. III, quod *iustitia Dei est per fidem Iesu Christi in omnes et super omnes qui credunt in ipsum*. Sicut autem nos in ipsum credimus ut incarnatum, ita antiqui crediderunt in ipsum ut nasciturum, *habentes enim eundem spiritum credimus*, ut dicitur II Cor. IV. Habet autem fides quae est in Christum virtutem iustificandi ex proposito gratiae Dei, secundum illud Rom. IV, *ei qui non operatur, credenti autem in eum qui iustificat impium, fides reputatur ad iustitiam secundum propositum gratiae Dei*. Unde, quia hoc propositum est aeternum, nihil prohibet per fidem Iesu Christi aliquos iustificari antequam eius anima esset plena gratia et veritate.]]
 ![[CERF IIIa, q. 6, a. 3#ad 3]]
 

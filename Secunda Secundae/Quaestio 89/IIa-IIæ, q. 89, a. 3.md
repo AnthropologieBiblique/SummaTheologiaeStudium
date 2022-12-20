@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 89, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 89, a. 3#arg. 3|Praeterea, haec tria in quolibet opere humano inquirenda sunt, nihil enim debet fieri contra iustitiam aut veritatem, aut sine iudicio, secundum illud [[1 Tm 5]], *nihil facias sine praeiudicio*, idest sine praecedenti iudicio. Ergo haec tria non magis debent associari iuramento quam aliis humanis actibus.]]
+![[LEO IIa-IIæ, q. 89, a. 3#arg. 3|Praeterea, haec tria in quolibet opere humano inquirenda sunt, nihil enim debet fieri contra iustitiam aut veritatem, aut sine iudicio, secundum illud I ad Tim. V, *nihil facias sine praeiudicio*, idest sine praecedenti iudicio. Ergo haec tria non magis debent associari iuramento quam aliis humanis actibus.]]
 ![[CERF IIa-IIæ, q. 89, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 89, a. 3#s.c.|Sed contra est quod dicitur [[Jr 4]], *iurabis, vivit dominus, in veritate, in iudicio et in iustitia*, quod exponens Hieronymus dicit, *animadvertendum est quod iusiurandum hos habet comites, scilicet veritatem, iudicium et iustitiam*.]]
+![[LEO IIa-IIæ, q. 89, a. 3#s.c.|Sed contra est quod dicitur Ierem. IV, *iurabis, vivit dominus, in veritate, in iudicio et in iustitia*, quod exponens Hieronymus dicit, *animadvertendum est quod iusiurandum hos habet comites, scilicet veritatem, iudicium et iustitiam*.]]
 ![[CERF IIa-IIæ, q. 89, a. 3#s.c.]]
 
 ###### resp.

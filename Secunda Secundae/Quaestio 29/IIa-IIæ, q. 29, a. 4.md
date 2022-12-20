@@ -6,15 +6,15 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 29, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod pax sit virtus. Praecepta enim non dantur nisi de actibus virtutum. Sed dantur praecepta de habendo pacem, ut patet [[Mc 9]], *pacem habete inter vos*. Ergo pax est virtus.]]
+![[LEO IIa-IIæ, q. 29, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod pax sit virtus. Praecepta enim non dantur nisi de actibus virtutum. Sed dantur praecepta de habendo pacem, ut patet Marc. IX, *pacem habete inter vos*. Ergo pax est virtus.]]
 ![[CERF IIa-IIæ, q. 29, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 29, a. 4#arg. 2|Praeterea, non meremur nisi actibus virtutum. Sed facere pacem est meritorium, secundum illud [[Mt 5]], *beati pacifici, quoniam filii Dei vocabuntur*. Ergo pax est virtus.]]
+![[LEO IIa-IIæ, q. 29, a. 4#arg. 2|Praeterea, non meremur nisi actibus virtutum. Sed facere pacem est meritorium, secundum illud Matth. V, *beati pacifici, quoniam filii Dei vocabuntur*. Ergo pax est virtus.]]
 ![[CERF IIa-IIæ, q. 29, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 29, a. 4#arg. 3|Praeterea, vitia virtutibus opponuntur. Sed dissensiones, quae opponuntur paci, numerantur inter vitia; ut patet ad [[Ga 5]]. Ergo pax est virtus.]]
+![[LEO IIa-IIæ, q. 29, a. 4#arg. 3|Praeterea, vitia virtutibus opponuntur. Sed dissensiones, quae opponuntur paci, numerantur inter vitia; ut patet ad Gal. V. Ergo pax est virtus.]]
 ![[CERF IIa-IIæ, q. 29, a. 4#arg. 3]]
 
 ###### s.c.

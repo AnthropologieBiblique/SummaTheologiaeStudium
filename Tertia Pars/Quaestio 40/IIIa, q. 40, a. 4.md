@@ -10,15 +10,15 @@ tags :
 ![[CERF IIIa, q. 40, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 40, a. 4#arg. 2|Praeterea, eadem Christus fecit et docuit, secundum illud [[Ac 1]], *coepit Iesus facere et docere*. Sed ipse docuit, [[Mt 15]], quod *omne quod intrat in os, non coinquinat hominem*, quod est contra praeceptum legis, quae per esum et contactum quorundam animalium dicebat hominem immundum fieri, ut patet [[Lv 11]]. Ergo videtur quod ipse non fuerit secundum legem conversatus.]]
+![[LEO IIIa, q. 40, a. 4#arg. 2|Praeterea, eadem Christus fecit et docuit, secundum illud Act. I, *coepit Iesus facere et docere*. Sed ipse docuit, Matth. XV, quod *omne quod intrat in os, non coinquinat hominem*, quod est contra praeceptum legis, quae per esum et contactum quorundam animalium dicebat hominem immundum fieri, ut patet Levit. XI. Ergo videtur quod ipse non fuerit secundum legem conversatus.]]
 ![[CERF IIIa, q. 40, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 40, a. 4#arg. 3|Praeterea, idem iudicium videtur esse facientis et consentientis, secundum illud [[Rm 1]], *non solum illi qui faciunt, sed qui consentiunt facientibus*. Sed Christus consensit discipulis solventibus legem in hoc quod sabbato spicas vellebant, excusando eos, ut habetur [[Mt 12]]. Ergo videtur quod Christus non conversatus fuerit secundum legem.]]
+![[LEO IIIa, q. 40, a. 4#arg. 3|Praeterea, idem iudicium videtur esse facientis et consentientis, secundum illud Rom. I, *non solum illi qui faciunt, sed qui consentiunt facientibus*. Sed Christus consensit discipulis solventibus legem in hoc quod sabbato spicas vellebant, excusando eos, ut habetur Matth. XII. Ergo videtur quod Christus non conversatus fuerit secundum legem.]]
 ![[CERF IIIa, q. 40, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 40, a. 4#s.c.|Sed contra est quod dicitur [[Mt 5]], *nolite putare quoniam veni solvere legem aut prophetas*. Quod exponens Chrysostomus dicit, *legem implevit, primo quidem, nihil transgrediendo legalium; secundo, iustificando per fidem, quod lex per litteram facere non valebat*.]]
+![[LEO IIIa, q. 40, a. 4#s.c.|Sed contra est quod dicitur Matth. V, *nolite putare quoniam veni solvere legem aut prophetas*. Quod exponens Chrysostomus dicit, *legem implevit, primo quidem, nihil transgrediendo legalium; secundo, iustificando per fidem, quod lex per litteram facere non valebat*.]]
 ![[CERF IIIa, q. 40, a. 4#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 40, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 40, a. 4#ad 1|Ad primum ergo dicendum quod dominus super hoc se excusat a transgressione legis tripliciter. Uno quidem modo, quia per praeceptum de sanctificatione sabbati non interdicitur opus divinum, sed humanum opus, quamvis enim Deus die septima cessaverit a novis creaturis condendis, semper tamen operatur in rerum conservatione et gubernatione. Quod autem Christus miracula faciebat, erat operis divini. Unde ipse dicit, [[Jn 5]], *pater meus usque modo operatur, et ego operor*. Secundo, excusat se per hoc quod illo praecepto non prohibentur opera quae sunt de necessitate salutis corporalis. Unde ipse dicit, [[Lc 13]], *unusquisque vestrum non solvet sabbato bovem suum aut asinum a praesepio, et ducit adaquare?* Et infra, XIV, *cuius vestrum asinus aut bos in puteum cadit, et non continuo extrahet illum die sabbati?* Manifestum est autem quod opera miraculorum quae Christus faciebat, ad salutem corporis et animae pertinebant. Tertio, quia illo praecepto non prohibentur opera quae pertinent ad Dei cultum unde dicit, [[Mt 12]], *an non legistis in lege quia sabbatis sacerdotes in templo sabbatum violant, et sine crimine sunt?* Et [[Jn 5]] dicitur quod *circumcisionem accipit homo in sabbato*. Quod autem Christus paralytico mandavit ut lectum suum sabbato portaret, ad cultum Dei pertinebat, idest ad laudem virtutis divinae. Et patet quod sabbatum non solvebat. Quamvis hoc ei Iudaei falso obiicerent, dicentes, [[Jn 5]], *non est hic homo a Deo, qui sabbatum non custodit*.]]
+![[LEO IIIa, q. 40, a. 4#ad 1|Ad primum ergo dicendum quod dominus super hoc se excusat a transgressione legis tripliciter. Uno quidem modo, quia per praeceptum de sanctificatione sabbati non interdicitur opus divinum, sed humanum opus, quamvis enim Deus die septima cessaverit a novis creaturis condendis, semper tamen operatur in rerum conservatione et gubernatione. Quod autem Christus miracula faciebat, erat operis divini. Unde ipse dicit, Ioan. V, *pater meus usque modo operatur, et ego operor*. Secundo, excusat se per hoc quod illo praecepto non prohibentur opera quae sunt de necessitate salutis corporalis. Unde ipse dicit, Luc. XIII, *unusquisque vestrum non solvet sabbato bovem suum aut asinum a praesepio, et ducit adaquare?* Et infra, XIV, *cuius vestrum asinus aut bos in puteum cadit, et non continuo extrahet illum die sabbati?* Manifestum est autem quod opera miraculorum quae Christus faciebat, ad salutem corporis et animae pertinebant. Tertio, quia illo praecepto non prohibentur opera quae pertinent ad Dei cultum unde dicit, Matth. XII, *an non legistis in lege quia sabbatis sacerdotes in templo sabbatum violant, et sine crimine sunt?* Et Ioan. VII dicitur quod *circumcisionem accipit homo in sabbato*. Quod autem Christus paralytico mandavit ut lectum suum sabbato portaret, ad cultum Dei pertinebat, idest ad laudem virtutis divinae. Et patet quod sabbatum non solvebat. Quamvis hoc ei Iudaei falso obiicerent, dicentes, Ioan. IX, *non est hic homo a Deo, qui sabbatum non custodit*.]]
 ![[CERF IIIa, q. 40, a. 4#ad 1]]
 
 ###### ad 2

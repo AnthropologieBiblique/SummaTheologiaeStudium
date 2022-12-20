@@ -6,15 +6,15 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIIa, q. 35, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod Christus non fuerit congruo tempore natus. Ad hoc enim Christus venerat ut suos in libertatem revocaret. Natus est autem tempore servitutis, quo scilicet totus orbis praecepto Augusti describitur, quasi tributarius factus, ut habetur [[Lc 2]]. Ergo videtur quod non congruo tempore Christus fuerit natus.]]
+![[LEO IIIa, q. 35, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod Christus non fuerit congruo tempore natus. Ad hoc enim Christus venerat ut suos in libertatem revocaret. Natus est autem tempore servitutis, quo scilicet totus orbis praecepto Augusti describitur, quasi tributarius factus, ut habetur Luc. II. Ergo videtur quod non congruo tempore Christus fuerit natus.]]
 ![[CERF IIIa, q. 35, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 35, a. 8#arg. 2|Praeterea, promissiones de Christo nascituro non gentilibus fuerant factae, secundum illud [[Rm 9]], *quorum sunt promissa*. Sed Christus natus est tempore quo rex alienigena dominabatur, sicut patet [[Mt 2]], *cum natus esset Iesus in diebus Herodis regis*. Ergo videtur quod non fuerit congruo tempore natus.]]
+![[LEO IIIa, q. 35, a. 8#arg. 2|Praeterea, promissiones de Christo nascituro non gentilibus fuerant factae, secundum illud Rom. IX, *quorum sunt promissa*. Sed Christus natus est tempore quo rex alienigena dominabatur, sicut patet Matth. II, *cum natus esset Iesus in diebus Herodis regis*. Ergo videtur quod non fuerit congruo tempore natus.]]
 ![[CERF IIIa, q. 35, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 35, a. 8#arg. 3|Praeterea, tempus praesentiae Christi in mundo diei comparatur, propter id quod ipse est lux mundi, unde ipse dicit, [[Jn 9]], *me oportet operari opera eius qui misit me, donec dies est*. Sed in aestate sunt dies longiores quam in hieme. Ergo, cum natus fuerit in profundo hiemis octo Kalendas Ianuarii, videtur quod non fuerit convenienti tempore natus.]]
+![[LEO IIIa, q. 35, a. 8#arg. 3|Praeterea, tempus praesentiae Christi in mundo diei comparatur, propter id quod ipse est lux mundi, unde ipse dicit, Ioan. IX, *me oportet operari opera eius qui misit me, donec dies est*. Sed in aestate sunt dies longiores quam in hieme. Ergo, cum natus fuerit in profundo hiemis octo Kalendas Ianuarii, videtur quod non fuerit convenienti tempore natus.]]
 ![[CERF IIIa, q. 35, a. 8#arg. 3]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 35, a. 8#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 35, a. 8#ad 1|Ad primum ergo dicendum quod Christus venerat nos in statum libertatis reducere de statu servitutis. Et ideo, sicut mortalitatem nostram suscepit ut nos ad vitam reduceret, ita, ut Beda dicit, *eo tempore dignatus est incarnari quo, mox natus, censu Caesaris adscriberetur atque, ob nostri liberationem, ipse servitio subderetur*. Tempore etiam illo, quo totus orbis sub uno principe vivebat, maxime pax fuit in mundo. Et ideo decebat ut illo tempore Christus nasceretur, qui est pax nostra, faciens utraque unum, ut dicitur [[Ep 2]]. Unde Hieronymus dicit, super Isaiam, *veteres revolvamus historias, et inveniemus usque ad vigesimum octavum annum Caesaris Augusti in toto orbe terrarum fuisse discordiam, orto autem domino, omnia bella cessaverunt*, secundum illud [[Is 2]], *non levabit gens contra gentem gladium*. Congruebat etiam ut illo tempore quo unus princeps dominabatur in mundo, Christus nasceretur, qui venerat suos *congregare in unum, ut esset unum ovile et unus pastor*, ut dicitur [[Jn 10]].]]
+![[LEO IIIa, q. 35, a. 8#ad 1|Ad primum ergo dicendum quod Christus venerat nos in statum libertatis reducere de statu servitutis. Et ideo, sicut mortalitatem nostram suscepit ut nos ad vitam reduceret, ita, ut Beda dicit, *eo tempore dignatus est incarnari quo, mox natus, censu Caesaris adscriberetur atque, ob nostri liberationem, ipse servitio subderetur*. Tempore etiam illo, quo totus orbis sub uno principe vivebat, maxime pax fuit in mundo. Et ideo decebat ut illo tempore Christus nasceretur, qui est pax nostra, faciens utraque unum, ut dicitur Ephes. II. Unde Hieronymus dicit, super Isaiam, *veteres revolvamus historias, et inveniemus usque ad vigesimum octavum annum Caesaris Augusti in toto orbe terrarum fuisse discordiam, orto autem domino, omnia bella cessaverunt*, secundum illud Isaiae II, *non levabit gens contra gentem gladium*. Congruebat etiam ut illo tempore quo unus princeps dominabatur in mundo, Christus nasceretur, qui venerat suos *congregare in unum, ut esset unum ovile et unus pastor*, ut dicitur Ioan. X.]]
 ![[CERF IIIa, q. 35, a. 8#ad 1]]
 
 ###### ad 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 35, a. 8#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 35, a. 8#ad 3|Ad tertium dicendum quod, sicut dicitur in libro de quaest. novi et Vet. Test., *tunc Christus nasci voluit, quando lux diei crementum incipit accipere*, ut ostenderetur quod ipse venerat ut homines crescerent in lucem divinam, secundum illud [[Lc 1]], *illuminare his qui in tenebris et umbra mortis sedent*. Similiter etiam asperitatem hiemis elegit ad nativitatem, ut ex tunc carnis afflictionem pateretur pro nobis.]]
+![[LEO IIIa, q. 35, a. 8#ad 3|Ad tertium dicendum quod, sicut dicitur in libro de quaest. novi et Vet. Test., *tunc Christus nasci voluit, quando lux diei crementum incipit accipere*, ut ostenderetur quod ipse venerat ut homines crescerent in lucem divinam, secundum illud Luc. I, *illuminare his qui in tenebris et umbra mortis sedent*. Similiter etiam asperitatem hiemis elegit ad nativitatem, ut ex tunc carnis afflictionem pateretur pro nobis.]]
 ![[CERF IIIa, q. 35, a. 8#ad 3]]
 

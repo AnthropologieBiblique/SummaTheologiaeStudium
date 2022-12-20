@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 23, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 23, a. 1#arg. 2|Praeterea, amicitia non est sine reamatione, ut dicitur in VIII Ethic. Sed caritas habetur etiam ad inimicos, secundum illud [[Mt 5]], *diligite inimicos vestros*. Ergo caritas non est amicitia.]]
+![[LEO IIa-IIæ, q. 23, a. 1#arg. 2|Praeterea, amicitia non est sine reamatione, ut dicitur in VIII Ethic. Sed caritas habetur etiam ad inimicos, secundum illud Matth. V, *diligite inimicos vestros*. Ergo caritas non est amicitia.]]
 ![[CERF IIa-IIæ, q. 23, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 23, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 23, a. 1#s.c.|Sed contra est quod [[Jn 15]] dicitur, *iam non dicam vos servos, sed amicos meos*. Sed hoc non dicebatur eis nisi ratione caritatis. Ergo caritas est amicitia.]]
+![[LEO IIa-IIæ, q. 23, a. 1#s.c.|Sed contra est quod Ioan. XV dicitur, *iam non dicam vos servos, sed amicos meos*. Sed hoc non dicebatur eis nisi ratione caritatis. Ergo caritas est amicitia.]]
 ![[CERF IIa-IIæ, q. 23, a. 1#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 23, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 23, a. 1#ad 1|Ad primum ergo dicendum quod duplex est hominis vita. Una quidem exterior secundum naturam sensibilem et corporalem, et secundum hanc vitam non est nobis communicatio vel conversatio cum Deo et Angelis. Alia autem est vita hominis spiritualis secundum mentem. Et secundum hanc vitam est nobis conversatio et cum Deo et cum Angelis. In praesenti quidem statu imperfecte, unde dicitur [[Ph 3]], *nostra conversatio in caelis est*. Sed ista conversatio perficietur in patria, quando servi eius servient Deo et videbunt faciem eius, ut dicitur Apoc. ult. Et ideo hic est caritas imperfecta, sed perficietur in patria.]]
+![[LEO IIa-IIæ, q. 23, a. 1#ad 1|Ad primum ergo dicendum quod duplex est hominis vita. Una quidem exterior secundum naturam sensibilem et corporalem, et secundum hanc vitam non est nobis communicatio vel conversatio cum Deo et Angelis. Alia autem est vita hominis spiritualis secundum mentem. Et secundum hanc vitam est nobis conversatio et cum Deo et cum Angelis. In praesenti quidem statu imperfecte, unde dicitur Philipp. III, *nostra conversatio in caelis est*. Sed ista conversatio perficietur in patria, quando servi eius servient Deo et videbunt faciem eius, ut dicitur Apoc. ult. Et ideo hic est caritas imperfecta, sed perficietur in patria.]]
 ![[CERF IIa-IIæ, q. 23, a. 1#ad 1]]
 
 ###### ad 2

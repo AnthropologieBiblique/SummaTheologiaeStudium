@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 14, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 14, a. 1#s.c.|Sed contra est quod apostolus dicit [[Rm 11]], *o altitudo divitiarum sapientiae et scientiae Dei*.]]
+![[LEO Ia, q. 14, a. 1#s.c.|Sed contra est quod apostolus dicit Rom. XI, *o altitudo divitiarum sapientiae et scientiae Dei*.]]
 ![[CERF Ia, q. 14, a. 1#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia, q. 14, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO Ia, q. 14, a. 1#ad 2|Ad secundum dicendum quod ea quae sunt divisim et multipliciter in creaturis, in Deo sunt simpliciter et unite, ut supra dictum est. Homo autem, secundum diversa cognita, habet diversas cognitiones, nam secundum quod cognoscit principia, dicitur habere intelligentiam; scientiam vero, secundum quod cognoscit conclusiones; sapientiam, secundum quod cognoscit causam altissimam; consilium vel prudentiam, secundum quod cognoscit agibilia. Sed haec omnia Deus una et simplici cognitione cognoscit, ut infra patebit. Unde simplex Dei cognitio omnibus istis nominibus nominari potest, ita tamen quod ab unoquoque eorum, secundum quod in divinam praedicationem venit, secludatur quidquid imperfectionis est, et retineatur quidquid perfectionis est. Et secundum hoc dicitur [[Jb 12]], *apud ipsum est sapientia et fortitudo; ipse habet consilium et intelligentiam*.]]
+![[LEO Ia, q. 14, a. 1#ad 2|Ad secundum dicendum quod ea quae sunt divisim et multipliciter in creaturis, in Deo sunt simpliciter et unite, ut supra dictum est. Homo autem, secundum diversa cognita, habet diversas cognitiones, nam secundum quod cognoscit principia, dicitur habere intelligentiam; scientiam vero, secundum quod cognoscit conclusiones; sapientiam, secundum quod cognoscit causam altissimam; consilium vel prudentiam, secundum quod cognoscit agibilia. Sed haec omnia Deus una et simplici cognitione cognoscit, ut infra patebit. Unde simplex Dei cognitio omnibus istis nominibus nominari potest, ita tamen quod ab unoquoque eorum, secundum quod in divinam praedicationem venit, secludatur quidquid imperfectionis est, et retineatur quidquid perfectionis est. Et secundum hoc dicitur Iob XII, *apud ipsum est sapientia et fortitudo; ipse habet consilium et intelligentiam*.]]
 ![[CERF Ia, q. 14, a. 1#ad 2]]
 
 ###### ad 3

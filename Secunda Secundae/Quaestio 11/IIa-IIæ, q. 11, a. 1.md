@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 11, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 11, a. 1#arg. 3|Praeterea, infidelitas, cum sit in intellectu, non videtur ad carnem pertinere. Sed haeresis pertinet ad opera carnis, dicit enim apostolus, ad [[Ga 5]], *manifesta sunt opera carnis, quae sunt fornicatio, immunditia*; et inter cetera postmodum subdit, dissensiones, sectae, quae sunt idem quod haereses. Ergo haeresis non est infidelitatis species.]]
+![[LEO IIa-IIæ, q. 11, a. 1#arg. 3|Praeterea, infidelitas, cum sit in intellectu, non videtur ad carnem pertinere. Sed haeresis pertinet ad opera carnis, dicit enim apostolus, ad Gal. V, *manifesta sunt opera carnis, quae sunt fornicatio, immunditia*; et inter cetera postmodum subdit, dissensiones, sectae, quae sunt idem quod haereses. Ergo haeresis non est infidelitatis species.]]
 ![[CERF IIa-IIæ, q. 11, a. 1#arg. 3]]
 
 ###### s.c.

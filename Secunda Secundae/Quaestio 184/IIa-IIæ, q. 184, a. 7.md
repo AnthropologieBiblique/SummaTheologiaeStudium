@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 184, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod status religiosorum sit perfectior quam status praelatorum. Dominus enim dicit, [[Mt 19]], si vis *perfectus esse, vade et vende omnia quae habes et da pauperibus*, quod faciunt religiosi. Non autem ad hoc tenentur episcopi, dicitur enim XII, qu. I, *episcopi de rebus propriis vel acquisitis, vel quidquid de proprio habent, heredibus suis derelinquant*. Ergo religiosi sunt in perfectiori statu quam episcopi.]]
+![[LEO IIa-IIæ, q. 184, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod status religiosorum sit perfectior quam status praelatorum. Dominus enim dicit, Matth. XIX, si vis *perfectus esse, vade et vende omnia quae habes et da pauperibus*, quod faciunt religiosi. Non autem ad hoc tenentur episcopi, dicitur enim XII, qu. I, *episcopi de rebus propriis vel acquisitis, vel quidquid de proprio habent, heredibus suis derelinquant*. Ergo religiosi sunt in perfectiori statu quam episcopi.]]
 ![[CERF IIa-IIæ, q. 184, a. 7#arg. 1]]
 
 ###### arg. 2

@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia-IIæ, q. 72, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 72, a. 3#arg. 3|Praeterea, Augustinus, super illud Psalmi, incensa igni et suffossa, dicit quod *omne peccatum est ex timore male humiliante, vel ex amore male inflammante*. Dicitur etiam [[1 Jn 2]], quod *omne quod est in mundo, aut est concupiscentia carnis, aut concupiscentia oculorum, aut superbia vitae*, dicitur autem aliquid esse in mundo, propter peccatum, secundum quod mundi nomine amatores mundi significantur, ut Augustinus dicit, super Ioan. Gregorius etiam, XXXI Moral., distinguit omnia peccata secundum septem vitia capitalia. Omnes autem huiusmodi divisiones respiciunt causas peccatorum. Ergo videtur quod peccata differant specie secundum diversitatem causarum.]]
+![[LEO Ia-IIæ, q. 72, a. 3#arg. 3|Praeterea, Augustinus, super illud Psalmi, incensa igni et suffossa, dicit quod *omne peccatum est ex timore male humiliante, vel ex amore male inflammante*. Dicitur etiam I Ioan. II, quod *omne quod est in mundo, aut est concupiscentia carnis, aut concupiscentia oculorum, aut superbia vitae*, dicitur autem aliquid esse in mundo, propter peccatum, secundum quod mundi nomine amatores mundi significantur, ut Augustinus dicit, super Ioan. Gregorius etiam, XXXI Moral., distinguit omnia peccata secundum septem vitia capitalia. Omnes autem huiusmodi divisiones respiciunt causas peccatorum. Ergo videtur quod peccata differant specie secundum diversitatem causarum.]]
 ![[CERF Ia-IIæ, q. 72, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 72, a. 3#s.c.|Sed contra est quia secundum hoc omnia peccata essent unius speciei, cum ex una causa causentur, dicitur enim [[Si 10]], quod *initium omnis peccati est superbia*; et I ad Tim. ult., quod *radix omnium malorum est cupiditas*. Manifestum est autem esse diversas species peccatorum. Non ergo peccata distinguuntur specie secundum diversitates causarum.]]
+![[LEO Ia-IIæ, q. 72, a. 3#s.c.|Sed contra est quia secundum hoc omnia peccata essent unius speciei, cum ex una causa causentur, dicitur enim Eccli. X, quod *initium omnis peccati est superbia*; et I ad Tim. ult., quod *radix omnium malorum est cupiditas*. Manifestum est autem esse diversas species peccatorum. Non ergo peccata distinguuntur specie secundum diversitates causarum.]]
 ![[CERF Ia-IIæ, q. 72, a. 3#s.c.]]
 
 ###### resp.

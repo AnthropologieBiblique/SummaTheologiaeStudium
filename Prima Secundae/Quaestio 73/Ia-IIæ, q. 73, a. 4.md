@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 73, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod gravitas peccatorum non differat secundum dignitatem virtutum quibus peccata opponuntur, ut scilicet maiori virtuti gravius peccatum opponatur. Quia ut dicitur [[Pr 15]], *in abundanti iustitia virtus maxima est*. Sed sicut dicit dominus, [[Mt 5]], abundans iustitia cohibet iram; quae est minus peccatum quam homicidium, quod cohibet minor iustitia. Ergo maximae virtuti opponitur minimum peccatum.]]
+![[LEO Ia-IIæ, q. 73, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod gravitas peccatorum non differat secundum dignitatem virtutum quibus peccata opponuntur, ut scilicet maiori virtuti gravius peccatum opponatur. Quia ut dicitur Prov. XV, *in abundanti iustitia virtus maxima est*. Sed sicut dicit dominus, Matth. V, abundans iustitia cohibet iram; quae est minus peccatum quam homicidium, quod cohibet minor iustitia. Ergo maximae virtuti opponitur minimum peccatum.]]
 ![[CERF Ia-IIæ, q. 73, a. 4#arg. 1]]
 
 ###### arg. 2

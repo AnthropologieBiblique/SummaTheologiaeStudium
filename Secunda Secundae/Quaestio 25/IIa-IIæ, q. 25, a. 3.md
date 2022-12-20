@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 25, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod etiam creaturae irrationales sint ex caritate diligendae. Per caritatem enim maxime conformamur Deo. Sed Deus diligit creaturas irrationales ex caritate, diligit enim omnia quae sunt, ut habetur [[Sg 11]]; et omne quod diligit, seipso diligit, qui est caritas. Ergo et nos debemus creaturas irrationales ex caritate diligere.]]
+![[LEO IIa-IIæ, q. 25, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod etiam creaturae irrationales sint ex caritate diligendae. Per caritatem enim maxime conformamur Deo. Sed Deus diligit creaturas irrationales ex caritate, diligit enim omnia quae sunt, ut habetur Sap. XI; et omne quod diligit, seipso diligit, qui est caritas. Ergo et nos debemus creaturas irrationales ex caritate diligere.]]
 ![[CERF IIa-IIæ, q. 25, a. 3#arg. 1]]
 
 ###### arg. 2

@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 78, a. 2#arg. 5]]
 
 ###### s.c.
-![[LEO IIIa, q. 78, a. 2#s.c.|Sed contra est quod dominus hac forma in consecrando est usus, ut patet [[Mt 26]].]]
+![[LEO IIIa, q. 78, a. 2#s.c.|Sed contra est quod dominus hac forma in consecrando est usus, ut patet Matth. XXVI.]]
 ![[CERF IIIa, q. 78, a. 2#s.c.]]
 
 ###### resp.
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIIa, q. 78, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 78, a. 2#ad 2|Ad secundum dicendum quod sermo Dei operatus est in creatione rerum, qui etiam operatur in hac consecratione, aliter tamen et aliter. Nam hic operatur sacramentaliter, idest secundum vim significationis. Et ideo oportet in hoc sermone significari ultimum effectum consecrationis per verbum substantivum indicativi modi et praesentis temporis. Sed in creatione rerum operatus est solum effective, quae quidem efficientia est per imperium suae sapientiae. Et ideo in creatione rerum exprimitur sermo dominicus per verbum imperativi modi, secundum illud [[Gn 1]], *fiat lux, et facta est lux*.]]
+![[LEO IIIa, q. 78, a. 2#ad 2|Ad secundum dicendum quod sermo Dei operatus est in creatione rerum, qui etiam operatur in hac consecratione, aliter tamen et aliter. Nam hic operatur sacramentaliter, idest secundum vim significationis. Et ideo oportet in hoc sermone significari ultimum effectum consecrationis per verbum substantivum indicativi modi et praesentis temporis. Sed in creatione rerum operatus est solum effective, quae quidem efficientia est per imperium suae sapientiae. Et ideo in creatione rerum exprimitur sermo dominicus per verbum imperativi modi, secundum illud Gen. I, *fiat lux, et facta est lux*.]]
 ![[CERF IIIa, q. 78, a. 2#ad 2]]
 
 ###### ad 3

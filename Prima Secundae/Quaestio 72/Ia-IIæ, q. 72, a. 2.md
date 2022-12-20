@@ -10,15 +10,15 @@ tags :
 ![[CERF Ia-IIæ, q. 72, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 72, a. 2#arg. 2|Praeterea, quicumque peccat, secundum carnem ambulat, secundum illud [[Rm 8]], *si secundum carnem vixeritis, moriemini; si autem spiritu facta carnis mortificaveritis, vivetis*. Sed vivere vel ambulare secundum carnem, videtur pertinere ad rationem peccati carnalis. Ergo omnia peccata sunt carnalia. Non ergo sunt distinguenda peccata carnalia a spiritualibus.]]
+![[LEO Ia-IIæ, q. 72, a. 2#arg. 2|Praeterea, quicumque peccat, secundum carnem ambulat, secundum illud Rom. VIII, *si secundum carnem vixeritis, moriemini; si autem spiritu facta carnis mortificaveritis, vivetis*. Sed vivere vel ambulare secundum carnem, videtur pertinere ad rationem peccati carnalis. Ergo omnia peccata sunt carnalia. Non ergo sunt distinguenda peccata carnalia a spiritualibus.]]
 ![[CERF Ia-IIæ, q. 72, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 72, a. 2#arg. 3|Praeterea, superior pars animae, quae est mens vel ratio, spiritus nominatur, secundum illud [[Ep 4]], *renovamini spiritu mentis vestrae*, ubi spiritus pro ratione ponitur, ut ibi Glossa dicit. Sed omne peccatum quod secundum carnem committitur, a ratione derivatur per consensum, quia superioris rationis est consentire in actum peccati, ut infra dicetur. Ergo eadem peccata sunt carnalia et spiritualia. Non ergo sunt distinguenda ad invicem.]]
+![[LEO Ia-IIæ, q. 72, a. 2#arg. 3|Praeterea, superior pars animae, quae est mens vel ratio, spiritus nominatur, secundum illud Ephes. IV, *renovamini spiritu mentis vestrae*, ubi spiritus pro ratione ponitur, ut ibi Glossa dicit. Sed omne peccatum quod secundum carnem committitur, a ratione derivatur per consensum, quia superioris rationis est consentire in actum peccati, ut infra dicetur. Ergo eadem peccata sunt carnalia et spiritualia. Non ergo sunt distinguenda ad invicem.]]
 ![[CERF Ia-IIæ, q. 72, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia-IIæ, q. 72, a. 2#arg. 4|Praeterea, si aliqua peccata specialiter sunt carnalia, hoc potissime intelligendum videtur de illis peccatis quibus aliquis in corpus suum peccat. Sed sicut apostolus dicit, I ad Cor. VI, *omne peccatum quodcumque fecerit homo, extra corpus est, qui autem fornicatur, in corpus suum peccat*. Ergo sola fornicatio esset peccatum carnale, cum tamen apostolus, ad [[Ep 5]], etiam avaritiam carnalibus peccatis annumeret.]]
+![[LEO Ia-IIæ, q. 72, a. 2#arg. 4|Praeterea, si aliqua peccata specialiter sunt carnalia, hoc potissime intelligendum videtur de illis peccatis quibus aliquis in corpus suum peccat. Sed sicut apostolus dicit, I ad Cor. VI, *omne peccatum quodcumque fecerit homo, extra corpus est, qui autem fornicatur, in corpus suum peccat*. Ergo sola fornicatio esset peccatum carnale, cum tamen apostolus, ad Ephes. V, etiam avaritiam carnalibus peccatis annumeret.]]
 ![[CERF Ia-IIæ, q. 72, a. 2#arg. 4]]
 
 ###### s.c.

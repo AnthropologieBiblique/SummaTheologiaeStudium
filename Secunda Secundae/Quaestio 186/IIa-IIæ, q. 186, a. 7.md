@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 186, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod inconvenienter dicatur in his tribus votis consistere religionis perfectionem. Perfectio enim vitae magis consistit in interioribus quam in exterioribus actibus, secundum illud [[Rm 14]], *non est regnum Dei esca et potus, sed iustitia et pax et gaudium in spiritu sancto*. Sed per votum religionis aliquis obligatur ad ea quae sunt perfectionis. Ergo magis deberent ad religionem pertinere vota interiorum actuum, puta contemplationis, dilectionis Dei et proximi, et aliorum huiusmodi, quam votum paupertatis, continentiae et obedientiae, quae pertinent ad exteriores actus.]]
+![[LEO IIa-IIæ, q. 186, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod inconvenienter dicatur in his tribus votis consistere religionis perfectionem. Perfectio enim vitae magis consistit in interioribus quam in exterioribus actibus, secundum illud Rom. XIV, *non est regnum Dei esca et potus, sed iustitia et pax et gaudium in spiritu sancto*. Sed per votum religionis aliquis obligatur ad ea quae sunt perfectionis. Ergo magis deberent ad religionem pertinere vota interiorum actuum, puta contemplationis, dilectionis Dei et proximi, et aliorum huiusmodi, quam votum paupertatis, continentiae et obedientiae, quae pertinent ad exteriores actus.]]
 ![[CERF IIa-IIæ, q. 186, a. 7#arg. 1]]
 
 ###### arg. 2

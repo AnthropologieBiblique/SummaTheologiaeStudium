@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia, q. 42, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod filius non sit aequalis patri in magnitudine. Dicit enim ipse, [[Jn 14]], *pater maior me est*; et apostolus, [[1 Co 15]], *ipse filius subiectus erit illi qui sibi subiecit omnia*.]]
+![[LEO Ia, q. 42, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod filius non sit aequalis patri in magnitudine. Dicit enim ipse, Ioan. XIV, *pater maior me est*; et apostolus, I Cor. XV, *ipse filius subiectus erit illi qui sibi subiecit omnia*.]]
 ![[CERF Ia, q. 42, a. 4#arg. 1]]
 
 ###### arg. 2

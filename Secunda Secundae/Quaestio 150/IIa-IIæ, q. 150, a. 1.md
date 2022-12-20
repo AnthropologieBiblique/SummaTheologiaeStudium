@@ -22,11 +22,11 @@ tags :
 ![[CERF IIa-IIæ, q. 150, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 150, a. 1#s.c.|Sed contra est quod apostolus dicit, [[Rm 13]], *non in comessationibus et ebrietatibus*.]]
+![[LEO IIa-IIæ, q. 150, a. 1#s.c.|Sed contra est quod apostolus dicit, Rom. XIII, *non in comessationibus et ebrietatibus*.]]
 ![[CERF IIa-IIæ, q. 150, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 150, a. 1#resp.|Respondeo dicendum quod ebrietas dupliciter accipi potest. Uno modo, prout significat ipsum defectum hominis qui accidit ex multo vino potato, ex quo fit ut non sit compos rationis. Et secundum hoc, ebrietas non nominat culpam, sed defectum poenalem consequentem ex culpa. Alio modo ebrietas potest nominare actum quo quis in hunc defectum incidit. Qui potest causare ebrietatem dupliciter. Uno modo, ex nimia vini fortitudine, praeter opinionem bibentis. Et sic etiam ebrietas potest accidere sine peccato, praecipue si non ex negligentia hominis contingat, et sic creditur Noe inebriatus fuisse, ut legitur [[Gn 9]]. Alio modo, ex inordinata concupiscentia et usu vini. Et sic ebrietas ponitur esse peccatum. Et continetur sub gula sicut species sub genere, dividitur enim gula in comessationem et ebrietatem, quae prohibet apostolus in auctoritate inducta.]]
+![[LEO IIa-IIæ, q. 150, a. 1#resp.|Respondeo dicendum quod ebrietas dupliciter accipi potest. Uno modo, prout significat ipsum defectum hominis qui accidit ex multo vino potato, ex quo fit ut non sit compos rationis. Et secundum hoc, ebrietas non nominat culpam, sed defectum poenalem consequentem ex culpa. Alio modo ebrietas potest nominare actum quo quis in hunc defectum incidit. Qui potest causare ebrietatem dupliciter. Uno modo, ex nimia vini fortitudine, praeter opinionem bibentis. Et sic etiam ebrietas potest accidere sine peccato, praecipue si non ex negligentia hominis contingat, et sic creditur Noe inebriatus fuisse, ut legitur Gen. IX. Alio modo, ex inordinata concupiscentia et usu vini. Et sic ebrietas ponitur esse peccatum. Et continetur sub gula sicut species sub genere, dividitur enim gula in comessationem et ebrietatem, quae prohibet apostolus in auctoritate inducta.]]
 ![[CERF IIa-IIæ, q. 150, a. 1#resp.]]
 
 ###### ad 1

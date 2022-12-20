@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 98, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 98, a. 1#s.c.|Sed contra est quod dicitur [[Gn 1]], *crescite et multiplicamini, et replete terram*. Huiusmodi autem multiplicatio absque nova generatione fieri non potuisset, cum duo tantum fuerint primitus instituti. Ergo in primo statu generatio fuisset.]]
+![[LEO Ia, q. 98, a. 1#s.c.|Sed contra est quod dicitur Gen. I, *crescite et multiplicamini, et replete terram*. Huiusmodi autem multiplicatio absque nova generatione fieri non potuisset, cum duo tantum fuerint primitus instituti. Ergo in primo statu generatio fuisset.]]
 ![[CERF Ia, q. 98, a. 1#s.c.]]
 
 ###### resp.

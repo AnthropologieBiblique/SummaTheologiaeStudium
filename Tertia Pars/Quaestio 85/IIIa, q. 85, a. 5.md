@@ -10,15 +10,15 @@ tags :
 ![[CERF IIIa, q. 85, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 85, a. 5#arg. 2|Praeterea, ad poenitentiam homines provocantur per expectationem regni caelestis, secundum illud [[Mt 4]], *poenitentiam agite, appropinquabit enim regnum caelorum*. Sed regnum caelorum est obiectum spei. Ergo poenitentia magis procedit ex spe quam ex timore.]]
+![[LEO IIIa, q. 85, a. 5#arg. 2|Praeterea, ad poenitentiam homines provocantur per expectationem regni caelestis, secundum illud Matth. IV, *poenitentiam agite, appropinquabit enim regnum caelorum*. Sed regnum caelorum est obiectum spei. Ergo poenitentia magis procedit ex spe quam ex timore.]]
 ![[CERF IIIa, q. 85, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 85, a. 5#arg. 3|Praeterea, timor est interior actus hominis. Poenitentia autem non videtur esse ex opere hominis, sed ex opere Dei, secundum illud [[Jr 31]], *postquam convertisti me, egi poenitentiam*. Ergo poenitentia non procedit ex timore.]]
+![[LEO IIIa, q. 85, a. 5#arg. 3|Praeterea, timor est interior actus hominis. Poenitentia autem non videtur esse ex opere hominis, sed ex opere Dei, secundum illud Ierem. XXXI, *postquam convertisti me, egi poenitentiam*. Ergo poenitentia non procedit ex timore.]]
 ![[CERF IIIa, q. 85, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 85, a. 5#s.c.|Sed contra est quod [[Is 26]] dicitur, *sicut quae concipit, cum appropinquaverit ad partum, dolens clamat in doloribus suis, sic facti sumus*, scilicet per poenitentiam, et postea subditur, secundum aliam litteram, *a timore tuo, domine, concepimus, et parturivimus, et peperimus spiritum salutis*, idest poenitentiae salutaris, ut per praemissa patet. Ergo poenitentia procedit ex timore.]]
+![[LEO IIIa, q. 85, a. 5#s.c.|Sed contra est quod Isaiae XXVI dicitur, *sicut quae concipit, cum appropinquaverit ad partum, dolens clamat in doloribus suis, sic facti sumus*, scilicet per poenitentiam, et postea subditur, secundum aliam litteram, *a timore tuo, domine, concepimus, et parturivimus, et peperimus spiritum salutis*, idest poenitentiae salutaris, ut per praemissa patet. Ergo poenitentia procedit ex timore.]]
 ![[CERF IIIa, q. 85, a. 5#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 85, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 85, a. 5#ad 2|Ad secundum dicendum quod in regno caelorum appropinquante intelligitur adventus regis non solum praemiantis, sed etiam punientis. Unde et, [[Mt 3]], Ioannes Baptista dicebat, *progenies viperarum, quis demonstravit vobis fugere a ventura ira?*]]
+![[LEO IIIa, q. 85, a. 5#ad 2|Ad secundum dicendum quod in regno caelorum appropinquante intelligitur adventus regis non solum praemiantis, sed etiam punientis. Unde et, Matth. III, Ioannes Baptista dicebat, *progenies viperarum, quis demonstravit vobis fugere a ventura ira?*]]
 ![[CERF IIIa, q. 85, a. 5#ad 2]]
 
 ###### ad 3

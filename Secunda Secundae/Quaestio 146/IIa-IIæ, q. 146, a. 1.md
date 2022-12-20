@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 146, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod abstinentia non sit virtus. Dicit enim apostolus, I ad Cor. IV, *non est regnum Dei in sermone, sed in virtute*. In abstinentia autem non consistit regnum Dei, dicit enim apostolus, [[Rm 14]], *non est regnum Dei esca et potus*; ubi dicit Glossa *nec in abstinendo nec in manducando esse iustitiam*. Ergo abstinentia non est virtus.]]
+![[LEO IIa-IIæ, q. 146, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod abstinentia non sit virtus. Dicit enim apostolus, I ad Cor. IV, *non est regnum Dei in sermone, sed in virtute*. In abstinentia autem non consistit regnum Dei, dicit enim apostolus, Rom. XIV, *non est regnum Dei esca et potus*; ubi dicit Glossa *nec in abstinendo nec in manducando esse iustitiam*. Ergo abstinentia non est virtus.]]
 ![[CERF IIa-IIæ, q. 146, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 146, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 146, a. 1#s.c.|Sed contra est quod dicitur [[2 P 1]], *ministrate in fide vestra virtutem, in virtute autem scientiam, in scientia autem abstinentiam*, ubi abstinentia aliis virtutibus connumeratur. Ergo abstinentia est virtus.]]
+![[LEO IIa-IIæ, q. 146, a. 1#s.c.|Sed contra est quod dicitur II Pet. I, *ministrate in fide vestra virtutem, in virtute autem scientiam, in scientia autem abstinentiam*, ubi abstinentia aliis virtutibus connumeratur. Ergo abstinentia est virtus.]]
 ![[CERF IIa-IIæ, q. 146, a. 1#s.c.]]
 
 ###### resp.

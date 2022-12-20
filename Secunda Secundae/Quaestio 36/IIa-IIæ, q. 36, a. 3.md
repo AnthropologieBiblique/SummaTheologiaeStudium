@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 36, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 36, a. 3#s.c.|Sed contra est quod dicitur [[Jb 5]], *parvulum occidit invidia*. Nihil autem occidit spiritualiter nisi peccatum mortale. Ergo invidia est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 36, a. 3#s.c.|Sed contra est quod dicitur Iob V, *parvulum occidit invidia*. Nihil autem occidit spiritualiter nisi peccatum mortale. Ergo invidia est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 36, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 36, a. 3#resp.|Respondeo dicendum quod invidia ex genere suo est peccatum mortale. Genus enim peccati ex obiecto consideratur. Invidia autem, secundum rationem sui obiecti, contrariatur caritati, per quam est vita animae spiritualis, secundum illud [[1 Jn 3]], *nos scimus quoniam translati sumus de morte ad vitam, quoniam diligimus fratres*. Utriusque enim obiectum, et caritatis et invidiae, est bonum proximi, sed secundum contrarium motum, nam caritas gaudet de bono proximi, invidia autem de eodem tristatur, ut ex dictis patet. Unde manifestum est quod invidia ex suo genere est peccatum mortale. Sed sicut supra dictum est, in quolibet genere peccati mortalis inveniuntur aliqui imperfecti motus in sensualitate existentes qui sunt peccata venialia, sicut in genere adulterii primus motus concupiscentiae, et in genere homicidii primus motus irae. Ita etiam et in genere invidiae inveniuntur aliqui primi motus quandoque etiam in viris perfectis, qui sunt peccata venialia.]]
+![[LEO IIa-IIæ, q. 36, a. 3#resp.|Respondeo dicendum quod invidia ex genere suo est peccatum mortale. Genus enim peccati ex obiecto consideratur. Invidia autem, secundum rationem sui obiecti, contrariatur caritati, per quam est vita animae spiritualis, secundum illud I Ioan. III, *nos scimus quoniam translati sumus de morte ad vitam, quoniam diligimus fratres*. Utriusque enim obiectum, et caritatis et invidiae, est bonum proximi, sed secundum contrarium motum, nam caritas gaudet de bono proximi, invidia autem de eodem tristatur, ut ex dictis patet. Unde manifestum est quod invidia ex suo genere est peccatum mortale. Sed sicut supra dictum est, in quolibet genere peccati mortalis inveniuntur aliqui imperfecti motus in sensualitate existentes qui sunt peccata venialia, sicut in genere adulterii primus motus concupiscentiae, et in genere homicidii primus motus irae. Ita etiam et in genere invidiae inveniuntur aliqui primi motus quandoque etiam in viris perfectis, qui sunt peccata venialia.]]
 ![[CERF IIa-IIæ, q. 36, a. 3#resp.]]
 
 ###### ad 1

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 145#Prooemium|Deinde considerandum est de honestate. Et circa hoc quaeruntur quatuor. Primo, quomodo honestum se habeat ad virtutem. Secundo, quomodo se habeat ad decorem. Tertio, quomodo se habeat ad utile et delectabile. Quarto, utrum honestas sit pars temperantiae.]]
-![[CERF IIa-IIæ, q. 145#Prooemium]]
+Deinde considerandum est de honestate. Et circa hoc quaeruntur quatuor. Primo, quomodo honestum se habeat ad virtutem. Secundo, quomodo se habeat ad decorem. Tertio, quomodo se habeat ad utile et delectabile. Quarto, utrum honestas sit pars temperantiae.
 
 ![[IIa-IIæ, q. 145, a. 1#Articulus 1]]
 

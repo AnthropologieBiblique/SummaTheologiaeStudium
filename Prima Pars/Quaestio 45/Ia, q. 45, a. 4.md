@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 45, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 45, a. 4#s.c.|Sed contra est quod dicitur [[Gn 1]], *in principio creavit Deus caelum et terram*. Caelum autem et terra sunt res compositae subsistentes. Ergo horum proprie est creatio.]]
+![[LEO Ia, q. 45, a. 4#s.c.|Sed contra est quod dicitur Gen. I, *in principio creavit Deus caelum et terram*. Caelum autem et terra sunt res compositae subsistentes. Ergo horum proprie est creatio.]]
 ![[CERF Ia, q. 45, a. 4#s.c.]]
 
 ###### resp.

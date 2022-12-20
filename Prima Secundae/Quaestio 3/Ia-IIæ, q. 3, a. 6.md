@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 3, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 3, a. 6#s.c.|Sed contra est quod dicitur [[Jr 9]], *non glorietur sapiens in sapientia sua*; et loquitur de sapientia speculativarum scientiarum. Non ergo consistit in harum consideratione ultima hominis beatitudo.]]
+![[LEO Ia-IIæ, q. 3, a. 6#s.c.|Sed contra est quod dicitur Ierem. IX, *non glorietur sapiens in sapientia sua*; et loquitur de sapientia speculativarum scientiarum. Non ergo consistit in harum consideratione ultima hominis beatitudo.]]
 ![[CERF Ia-IIæ, q. 3, a. 6#s.c.]]
 
 ###### resp.

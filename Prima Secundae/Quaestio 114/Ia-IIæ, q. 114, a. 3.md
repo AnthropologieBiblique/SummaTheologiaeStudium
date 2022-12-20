@@ -6,11 +6,11 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 114, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod homo in gratia constitutus non possit mereri vitam aeternam ex condigno. Dicit enim apostolus, ad [[Rm 8]], *non sunt condignae passiones huius temporis ad futuram gloriam quae revelabitur in nobis*. Sed inter alia opera meritoria maxime videntur esse meritoriae sanctorum passiones. Ergo nulla opera hominum sunt meritoria vitae aeternae ex condigno.]]
+![[LEO Ia-IIæ, q. 114, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod homo in gratia constitutus non possit mereri vitam aeternam ex condigno. Dicit enim apostolus, ad Rom. VIII, *non sunt condignae passiones huius temporis ad futuram gloriam quae revelabitur in nobis*. Sed inter alia opera meritoria maxime videntur esse meritoriae sanctorum passiones. Ergo nulla opera hominum sunt meritoria vitae aeternae ex condigno.]]
 ![[CERF Ia-IIæ, q. 114, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 114, a. 3#arg. 2|Praeterea, super illud [[Rm 6]], *gratia Dei vita aeterna*, dicit Glossa, *posset recte dicere, stipendium iustitiae vita aeterna, sed maluit dicere, gratia Dei vita aeterna, ut intelligeremus Deum ad aeternam vitam pro sua miseratione nos perducere, non meritis nostris*. Sed id quod ex condigno quis meretur, non ex miseratione, sed ex merito accipit. Ergo videtur quod homo non possit per gratiam mereri vitam aeternam ex condigno.]]
+![[LEO Ia-IIæ, q. 114, a. 3#arg. 2|Praeterea, super illud Rom. VI, *gratia Dei vita aeterna*, dicit Glossa, *posset recte dicere, stipendium iustitiae vita aeterna, sed maluit dicere, gratia Dei vita aeterna, ut intelligeremus Deum ad aeternam vitam pro sua miseratione nos perducere, non meritis nostris*. Sed id quod ex condigno quis meretur, non ex miseratione, sed ex merito accipit. Ergo videtur quod homo non possit per gratiam mereri vitam aeternam ex condigno.]]
 ![[CERF Ia-IIæ, q. 114, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia-IIæ, q. 114, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 114, a. 3#s.c.|Sed contra, id quod redditur secundum iustum iudicium, videtur esse merces condigna. Sed vita aeterna redditur a Deo secundum iudicium iustitiae; secundum illud [[2 Tm 4]], *in reliquo reposita est mihi corona iustitiae, quam reddet mihi dominus in illa die, iustus iudex*. Ergo homo meretur vitam aeternam ex condigno.]]
+![[LEO Ia-IIæ, q. 114, a. 3#s.c.|Sed contra, id quod redditur secundum iustum iudicium, videtur esse merces condigna. Sed vita aeterna redditur a Deo secundum iudicium iustitiae; secundum illud II ad Tim. IV, *in reliquo reposita est mihi corona iustitiae, quam reddet mihi dominus in illa die, iustus iudex*. Ergo homo meretur vitam aeternam ex condigno.]]
 ![[CERF Ia-IIæ, q. 114, a. 3#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 114, a. 3#resp.|Respondeo dicendum quod opus meritorium hominis dupliciter considerari potest, uno modo, secundum quod procedit ex libero arbitrio; alio modo, secundum quod procedit ex gratia spiritus sancti. Si consideretur secundum substantiam operis, et secundum quod procedit ex libero arbitrio, sic non potest ibi esse condignitas, propter maximam inaequalitatem. Sed est ibi congruitas, propter quandam aequalitatem proportionis, videtur enim congruum ut homini operanti secundum suam virtutem, Deus recompenset secundum excellentiam suae virtutis. Si autem loquamur de opere meritorio secundum quod procedit ex gratia spiritus sancti, sic est meritorium vitae aeternae ex condigno. Sic enim valor meriti attenditur secundum virtutem spiritus sancti moventis nos in vitam aeternam; secundum illud [[Jn 4]], *fiet in eo fons aquae salientis in vitam aeternam*. Attenditur etiam pretium operis secundum dignitatem gratiae, per quam homo, consors factus divinae naturae, adoptatur in filium Dei, cui debetur hereditas ex ipso iure adoptionis, secundum illud [[Rm 8]], *si filii, et heredes*.]]
+![[LEO Ia-IIæ, q. 114, a. 3#resp.|Respondeo dicendum quod opus meritorium hominis dupliciter considerari potest, uno modo, secundum quod procedit ex libero arbitrio; alio modo, secundum quod procedit ex gratia spiritus sancti. Si consideretur secundum substantiam operis, et secundum quod procedit ex libero arbitrio, sic non potest ibi esse condignitas, propter maximam inaequalitatem. Sed est ibi congruitas, propter quandam aequalitatem proportionis, videtur enim congruum ut homini operanti secundum suam virtutem, Deus recompenset secundum excellentiam suae virtutis. Si autem loquamur de opere meritorio secundum quod procedit ex gratia spiritus sancti, sic est meritorium vitae aeternae ex condigno. Sic enim valor meriti attenditur secundum virtutem spiritus sancti moventis nos in vitam aeternam; secundum illud Ioan. IV, *fiet in eo fons aquae salientis in vitam aeternam*. Attenditur etiam pretium operis secundum dignitatem gratiae, per quam homo, consors factus divinae naturae, adoptatur in filium Dei, cui debetur hereditas ex ipso iure adoptionis, secundum illud Rom. VIII, *si filii, et heredes*.]]
 ![[CERF Ia-IIæ, q. 114, a. 3#resp.]]
 
 ###### ad 1

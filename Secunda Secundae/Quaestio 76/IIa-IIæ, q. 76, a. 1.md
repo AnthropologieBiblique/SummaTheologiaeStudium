@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 76, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non liceat maledicere aliquem. Non est enim licitum praeterire mandatum apostoli, in quo Christus loquebatur, ut dicitur II ad Cor. XIII. Sed ipse praecipit, [[Rm 12]], *benedicite, et nolite maledicere*. Ergo non licet aliquem maledicere.]]
+![[LEO IIa-IIæ, q. 76, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non liceat maledicere aliquem. Non est enim licitum praeterire mandatum apostoli, in quo Christus loquebatur, ut dicitur II ad Cor. XIII. Sed ipse praecipit, Rom. XII, *benedicite, et nolite maledicere*. Ergo non licet aliquem maledicere.]]
 ![[CERF IIa-IIæ, q. 76, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 76, a. 1#arg. 2|Praeterea, omnes tenentur Deum benedicere, secundum illud Dan. III, benedicite, filii hominum, domino. Sed non potest ex ore eodem procedere benedictio Dei et maledictio hominis, ut probatur [[Jc 3]]. Ergo nulli licet aliquem maledicere.]]
+![[LEO IIa-IIæ, q. 76, a. 1#arg. 2|Praeterea, omnes tenentur Deum benedicere, secundum illud Dan. III, benedicite, filii hominum, domino. Sed non potest ex ore eodem procedere benedictio Dei et maledictio hominis, ut probatur Iac. III. Ergo nulli licet aliquem maledicere.]]
 ![[CERF IIa-IIæ, q. 76, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,15 +18,15 @@ tags :
 ![[CERF IIa-IIæ, q. 76, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 76, a. 1#arg. 4|Praeterea, Diabolus per obstinationem maxime subiectus est malitiae. Sed non licet alicui maledicere Diabolum, sicut nec seipsum, dicitur enim [[Si 21]], *cum maledicit impius Diabolum, maledicit ipse animam suam*. Ergo multo minus licet maledicere hominem.]]
+![[LEO IIa-IIæ, q. 76, a. 1#arg. 4|Praeterea, Diabolus per obstinationem maxime subiectus est malitiae. Sed non licet alicui maledicere Diabolum, sicut nec seipsum, dicitur enim Eccli. XXI, *cum maledicit impius Diabolum, maledicit ipse animam suam*. Ergo multo minus licet maledicere hominem.]]
 ![[CERF IIa-IIæ, q. 76, a. 1#arg. 4]]
 
 ###### arg. 5
-![[LEO IIa-IIæ, q. 76, a. 1#arg. 5|Praeterea, [[Nb 23]], super illud, *quomodo maledicam cui non maledixit dominus?* Dicit Glossa, *non potest esse iusta maledicendi causa ubi peccantis ignoratur affectus*. Sed homo non potest scire affectum alterius hominis, nec etiam utrum sit maledictus a Deo. Ergo nulli licet aliquem hominem maledicere.]]
+![[LEO IIa-IIæ, q. 76, a. 1#arg. 5|Praeterea, Num. XXIII, super illud, *quomodo maledicam cui non maledixit dominus?* Dicit Glossa, *non potest esse iusta maledicendi causa ubi peccantis ignoratur affectus*. Sed homo non potest scire affectum alterius hominis, nec etiam utrum sit maledictus a Deo. Ergo nulli licet aliquem hominem maledicere.]]
 ![[CERF IIa-IIæ, q. 76, a. 1#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 76, a. 1#s.c.|Sed contra est quod [[Dt 27]] dicitur, *maledictus qui non permanet in sermonibus legis huius*. Elisaeus etiam pueris sibi illudentibus maledixit, ut habetur [[2R 2]].]]
+![[LEO IIa-IIæ, q. 76, a. 1#s.c.|Sed contra est quod Deut. XXVII dicitur, *maledictus qui non permanet in sermonibus legis huius*. Elisaeus etiam pueris sibi illudentibus maledixit, ut habetur IV Reg. II.]]
 ![[CERF IIa-IIæ, q. 76, a. 1#s.c.]]
 
 ###### resp.
@@ -46,7 +46,7 @@ tags :
 ![[CERF IIa-IIæ, q. 76, a. 1#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 76, a. 1#ad 4|Ad quartum dicendum quod in Diabolo est considerare naturam, et culpam. Natura quidem eius bona est, et a Deo, nec eam maledicere licet. Culpa autem eius est maledicenda, secundum illud [[Jb 3]], *maledicant ei qui maledicunt diei*. Cum autem peccator maledicit Diabolum propter culpam, seipsum simili ratione iudicat maledictione dignum. Et secundum hoc dicitur maledicere animam suam.]]
+![[LEO IIa-IIæ, q. 76, a. 1#ad 4|Ad quartum dicendum quod in Diabolo est considerare naturam, et culpam. Natura quidem eius bona est, et a Deo, nec eam maledicere licet. Culpa autem eius est maledicenda, secundum illud Iob III, *maledicant ei qui maledicunt diei*. Cum autem peccator maledicit Diabolum propter culpam, seipsum simili ratione iudicat maledictione dignum. Et secundum hoc dicitur maledicere animam suam.]]
 ![[CERF IIa-IIæ, q. 76, a. 1#ad 4]]
 
 ###### ad 5

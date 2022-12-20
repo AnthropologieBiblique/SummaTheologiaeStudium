@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 51, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 51, a. 3#arg. 3|Praeterea, moveri motu processivo est unum de operibus vitae, ut patet in II de anima. Manifeste autem Angeli apparent in assumptis corporibus moveri. Dicitur enim [[Gn 18]], quod Abraham simul gradiebatur, deducens Angelos qui ei apparuerant. Et Angelus Tobiae quaerenti, nosti viam quae ducit in civitatem Medorum? Respondit, *novi, et omnia itinera eius frequenter ambulavi*. Ergo Angeli in corporibus assumptis frequenter exercent opera vitae.]]
+![[LEO Ia, q. 51, a. 3#arg. 3|Praeterea, moveri motu processivo est unum de operibus vitae, ut patet in II de anima. Manifeste autem Angeli apparent in assumptis corporibus moveri. Dicitur enim Gen. XVIII, quod Abraham simul gradiebatur, deducens Angelos qui ei apparuerant. Et Angelus Tobiae quaerenti, nosti viam quae ducit in civitatem Medorum? Respondit, *novi, et omnia itinera eius frequenter ambulavi*. Ergo Angeli in corporibus assumptis frequenter exercent opera vitae.]]
 ![[CERF Ia, q. 51, a. 3#arg. 3]]
 
 ###### arg. 4
@@ -22,11 +22,11 @@ tags :
 ![[CERF Ia, q. 51, a. 3#arg. 4]]
 
 ###### arg. 5
-![[LEO Ia, q. 51, a. 3#arg. 5|Praeterea, comedere est proprium opus animalis, unde dominus post resurrectionem, in argumentum resumptae vitae, cum discipulis manducavit, ut habetur Lucae ultimo. Sed Angeli in assumptis corporibus apparentes comederunt, et Abraham eis cibos obtulit, quos tamen prius adoraverat, ut habetur [[Gn 18]]. Ergo Angeli in assumptis corporibus exercent opera vitae.]]
+![[LEO Ia, q. 51, a. 3#arg. 5|Praeterea, comedere est proprium opus animalis, unde dominus post resurrectionem, in argumentum resumptae vitae, cum discipulis manducavit, ut habetur Lucae ultimo. Sed Angeli in assumptis corporibus apparentes comederunt, et Abraham eis cibos obtulit, quos tamen prius adoraverat, ut habetur Gen. XVIII. Ergo Angeli in assumptis corporibus exercent opera vitae.]]
 ![[CERF Ia, q. 51, a. 3#arg. 5]]
 
 ###### arg. 6
-![[LEO Ia, q. 51, a. 3#arg. 6|Praeterea, generare hominem est actus vitae. Sed hoc competit Angelis in assumptis corporibus dicitur enim [[Gn 6]], *postquam ingressi sunt filii Dei ad filias hominum, illaeque genuerunt, isti sunt potentes a saeculo viri famosi*. Ergo Angeli exercent opera vitae in corporibus assumptis.]]
+![[LEO Ia, q. 51, a. 3#arg. 6|Praeterea, generare hominem est actus vitae. Sed hoc competit Angelis in assumptis corporibus dicitur enim Gen. VI, *postquam ingressi sunt filii Dei ad filias hominum, illaeque genuerunt, isti sunt potentes a saeculo viri famosi*. Ergo Angeli exercent opera vitae in corporibus assumptis.]]
 ![[CERF Ia, q. 51, a. 3#arg. 6]]
 
 ###### s.c.
@@ -54,7 +54,7 @@ tags :
 ![[CERF Ia, q. 51, a. 3#ad 4]]
 
 ###### ad 5
-![[LEO Ia, q. 51, a. 3#ad 5|Ad quintum dicendum quod nec etiam comedere, proprie loquendo, Angelis convenit, quia comestio importat sumptionem cibi convertibilis in substantiam comedentis. Et quamvis in corpus Christi post resurrectionem cibus non converteretur, sed resolveretur in praeiacentem materiam, tamen Christus habebat corpus talis naturae in quod posset cibus converti, unde fuit vera comestio. Sed cibus assumptus ab Angelis neque convertebatur in corpus assumptum, neque corpus illud talis erat naturae in quod posset alimentum converti, unde non fuit vera comestio, sed figurativa spiritualis comestionis. Et hoc est quod Angelus dixit, [[Tb 12]], *cum essem vobiscum, videbar quidem manducare et bibere, sed ego potu invisibili et cibo utor*. Abraham autem obtulit eis cibos, existimans eos homines esse; in quibus tamen Deum venerabatur, sicut solet Deus esse in prophetis, ut Augustinus dicit, XVI de Civ. Dei.]]
+![[LEO Ia, q. 51, a. 3#ad 5|Ad quintum dicendum quod nec etiam comedere, proprie loquendo, Angelis convenit, quia comestio importat sumptionem cibi convertibilis in substantiam comedentis. Et quamvis in corpus Christi post resurrectionem cibus non converteretur, sed resolveretur in praeiacentem materiam, tamen Christus habebat corpus talis naturae in quod posset cibus converti, unde fuit vera comestio. Sed cibus assumptus ab Angelis neque convertebatur in corpus assumptum, neque corpus illud talis erat naturae in quod posset alimentum converti, unde non fuit vera comestio, sed figurativa spiritualis comestionis. Et hoc est quod Angelus dixit, Tob. XII, *cum essem vobiscum, videbar quidem manducare et bibere, sed ego potu invisibili et cibo utor*. Abraham autem obtulit eis cibos, existimans eos homines esse; in quibus tamen Deum venerabatur, sicut solet Deus esse in prophetis, ut Augustinus dicit, XVI de Civ. Dei.]]
 ![[CERF Ia, q. 51, a. 3#ad 5]]
 
 ###### ad 6

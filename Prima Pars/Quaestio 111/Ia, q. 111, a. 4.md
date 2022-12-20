@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 111, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 111, a. 4#s.c.|Sed contra est quod Angeli qui subverterunt Sodomam, *percusserunt Sodomitas caecitate (vel aorasia), ut ostium domus invenire non possent*, ut dicitur [[Gn 19]]. Et simile legitur [[2R 6]], de Syris quos Elisaeus duxit in Samariam.]]
+![[LEO Ia, q. 111, a. 4#s.c.|Sed contra est quod Angeli qui subverterunt Sodomam, *percusserunt Sodomitas caecitate (vel aorasia), ut ostium domus invenire non possent*, ut dicitur Gen. XIX. Et simile legitur IV Reg. VI, de Syris quos Elisaeus duxit in Samariam.]]
 ![[CERF Ia, q. 111, a. 4#s.c.]]
 
 ###### resp.

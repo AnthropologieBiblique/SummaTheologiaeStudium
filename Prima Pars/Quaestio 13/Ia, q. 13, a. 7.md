@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 13, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 13, a. 7#arg. 3|Praeterea, si aliqua nomina dicuntur de Deo ex tempore propter hoc quod important relationem ad creaturas, eadem ratio videtur de omnibus quae relationem ad creaturas important. Sed quaedam nomina importantia relationem ad creaturas, dicuntur de Deo ab aeterno, ab aeterno enim scivit creaturam et dilexit, secundum illud [[Jr 31]], *in caritate perpetua dilexi te*. Ergo et alia nomina quae important relationem ad creaturas, ut dominus et creator, dicuntur de Deo ab aeterno.]]
+![[LEO Ia, q. 13, a. 7#arg. 3|Praeterea, si aliqua nomina dicuntur de Deo ex tempore propter hoc quod important relationem ad creaturas, eadem ratio videtur de omnibus quae relationem ad creaturas important. Sed quaedam nomina importantia relationem ad creaturas, dicuntur de Deo ab aeterno, ab aeterno enim scivit creaturam et dilexit, secundum illud Ierem. XXXI, *in caritate perpetua dilexi te*. Ergo et alia nomina quae important relationem ad creaturas, ut dominus et creator, dicuntur de Deo ab aeterno.]]
 ![[CERF Ia, q. 13, a. 7#arg. 3]]
 
 ###### arg. 4

@@ -10,15 +10,15 @@ tags :
 ![[CERF IIa-IIæ, q. 68, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 68, a. 1#arg. 2|Praeterea, omne debitum ex caritate dependet, quae est finis praecepti, unde dicitur [[Rm 13]], *nemini quidquam debeatis, nisi ut invicem diligatis*. Sed illud quod est caritatis homo debet omnibus, maioribus et minoribus, subditis et praelatis. Cum igitur subditi non debeant praelatos accusare, nec minores suos maiores, ut per plura capitula probatur II, qu. VII; videtur quod nullus ex debito teneatur accusare.]]
+![[LEO IIa-IIæ, q. 68, a. 1#arg. 2|Praeterea, omne debitum ex caritate dependet, quae est finis praecepti, unde dicitur Rom. XIII, *nemini quidquam debeatis, nisi ut invicem diligatis*. Sed illud quod est caritatis homo debet omnibus, maioribus et minoribus, subditis et praelatis. Cum igitur subditi non debeant praelatos accusare, nec minores suos maiores, ut per plura capitula probatur II, qu. VII; videtur quod nullus ex debito teneatur accusare.]]
 ![[CERF IIa-IIæ, q. 68, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 68, a. 1#arg. 3|Praeterea, nullus tenetur contra fidelitatem agere quam debet amico, quia non debet alteri facere quod sibi non vult fieri. Sed accusare aliquem quandoque est contra fidelitatem quam quis debet amico, dicitur enim [[Pr 11]], *qui ambulat fraudulenter revelat arcana, qui autem fidelis est celat amici commissum*. Ergo homo non tenetur ad accusandum.]]
+![[LEO IIa-IIæ, q. 68, a. 1#arg. 3|Praeterea, nullus tenetur contra fidelitatem agere quam debet amico, quia non debet alteri facere quod sibi non vult fieri. Sed accusare aliquem quandoque est contra fidelitatem quam quis debet amico, dicitur enim Prov. XI, *qui ambulat fraudulenter revelat arcana, qui autem fidelis est celat amici commissum*. Ergo homo non tenetur ad accusandum.]]
 ![[CERF IIa-IIæ, q. 68, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 68, a. 1#s.c.|Sed contra est quod dicitur [[Lv 5]], *si peccaverit anima, et audierit vocem iurantis, testisque fuerit quod aut ipse vidit aut conscius est, nisi indicaverit, portabit iniquitatem suam*.]]
+![[LEO IIa-IIæ, q. 68, a. 1#s.c.|Sed contra est quod dicitur Levit. V, *si peccaverit anima, et audierit vocem iurantis, testisque fuerit quod aut ipse vidit aut conscius est, nisi indicaverit, portabit iniquitatem suam*.]]
 ![[CERF IIa-IIæ, q. 68, a. 1#s.c.]]
 
 ###### resp.

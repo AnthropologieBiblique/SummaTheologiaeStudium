@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 168, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 168, a. 4#arg. 2|Praeterea, nullum peccatum ponitur in commendatione sanctorum. Sed in commendatione quorundam ponitur quod a ludo abstinuerunt, dicitur enim [[Jr 15]], non sedi in Concilio ludentium; et Tobiae III dicitur, *nunquam cum ludentibus miscui me, neque cum his qui in levitate ambulant, participem me praebui*. Ergo in defectu ludi non potest esse peccatum.]]
+![[LEO IIa-IIæ, q. 168, a. 4#arg. 2|Praeterea, nullum peccatum ponitur in commendatione sanctorum. Sed in commendatione quorundam ponitur quod a ludo abstinuerunt, dicitur enim Ierem. XV, non sedi in Concilio ludentium; et Tobiae III dicitur, *nunquam cum ludentibus miscui me, neque cum his qui in levitate ambulant, participem me praebui*. Ergo in defectu ludi non potest esse peccatum.]]
 ![[CERF IIa-IIæ, q. 168, a. 4#arg. 2]]
 
 ###### arg. 3

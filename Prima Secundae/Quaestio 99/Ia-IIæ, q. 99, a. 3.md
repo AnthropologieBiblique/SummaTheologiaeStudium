@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 99, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 99, a. 3#s.c.|Sed contra est quod dicitur [[Dt 4]], *decem verba scripsit in duabus tabulis lapideis, mihique mandavit in illo tempore ut docerem vos caeremonias et iudicia quae facere deberetis*. Sed decem praecepta legis sunt moralia. Ergo praeter praecepta moralia sunt etiam alia praecepta caeremonialia.]]
+![[LEO Ia-IIæ, q. 99, a. 3#s.c.|Sed contra est quod dicitur Deut. IV, *decem verba scripsit in duabus tabulis lapideis, mihique mandavit in illo tempore ut docerem vos caeremonias et iudicia quae facere deberetis*. Sed decem praecepta legis sunt moralia. Ergo praeter praecepta moralia sunt etiam alia praecepta caeremonialia.]]
 ![[CERF Ia-IIæ, q. 99, a. 3#s.c.]]
 
 ###### resp.

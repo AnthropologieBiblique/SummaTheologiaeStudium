@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 57, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 57, a. 4#arg. 3|Praeterea, [[Ac 1]] dicitur quod *nubes suscepit eum ab oculis eorum*. Sed nubes non possunt elevari supra caelum. Ergo Christus non ascendit super omnes caelos.]]
+![[LEO IIIa, q. 57, a. 4#arg. 3|Praeterea, Act. I dicitur quod *nubes suscepit eum ab oculis eorum*. Sed nubes non possunt elevari supra caelum. Ergo Christus non ascendit super omnes caelos.]]
 ![[CERF IIIa, q. 57, a. 4#arg. 3]]
 
 ###### arg. 4
@@ -22,11 +22,11 @@ tags :
 ![[CERF IIIa, q. 57, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 57, a. 4#s.c.|Sed contra est quod dicitur [[Ep 4]], *ascendit super omnes caelos, ut adimpleret omnia*.]]
+![[LEO IIIa, q. 57, a. 4#s.c.|Sed contra est quod dicitur Ephes. IV, *ascendit super omnes caelos, ut adimpleret omnia*.]]
 ![[CERF IIIa, q. 57, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 57, a. 4#resp.|Respondeo dicendum quod, quanto aliqua corpora perfectius participant bonitatem divinam, tanto sunt superiora corporali ordine, qui est ordo localis. Unde videmus quod corpora quae sunt magis formalia, sunt naturaliter superiora, ut patet per philosophum, in IV Physic., et in II de caelo, per formam enim unumquodque corpus participat divinum esse, ut patet in I Physic. Plus autem participat de divina bonitate corpus per gloriam quam quodcumque corpus naturale per formam suae naturae. Et inter cetera corpora gloriosa, manifestum est quod corpus Christi maiori refulget gloria. Unde convenientissimum est sibi quod sit supra omnia corpora constitutum in alto. Et ideo, super illud [[Ep 4]], *ascendens in altum*, dicit Glossa, *loco et dignitate*.]]
+![[LEO IIIa, q. 57, a. 4#resp.|Respondeo dicendum quod, quanto aliqua corpora perfectius participant bonitatem divinam, tanto sunt superiora corporali ordine, qui est ordo localis. Unde videmus quod corpora quae sunt magis formalia, sunt naturaliter superiora, ut patet per philosophum, in IV Physic., et in II de caelo, per formam enim unumquodque corpus participat divinum esse, ut patet in I Physic. Plus autem participat de divina bonitate corpus per gloriam quam quodcumque corpus naturale per formam suae naturae. Et inter cetera corpora gloriosa, manifestum est quod corpus Christi maiori refulget gloria. Unde convenientissimum est sibi quod sit supra omnia corpora constitutum in alto. Et ideo, super illud Ephes. IV, *ascendens in altum*, dicit Glossa, *loco et dignitate*.]]
 ![[CERF IIIa, q. 57, a. 4#resp.]]
 
 ###### ad 1

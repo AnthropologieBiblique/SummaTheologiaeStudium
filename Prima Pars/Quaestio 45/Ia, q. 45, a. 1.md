@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 45, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 45, a. 1#s.c.|Sed contra est quod super illud [[Gn 1]], *in principio creavit Deus caelum* etc., dicit Glossa quod creare est aliquid ex nihilo facere.]]
+![[LEO Ia, q. 45, a. 1#s.c.|Sed contra est quod super illud Gen. I, *in principio creavit Deus caelum* etc., dicit Glossa quod creare est aliquid ex nihilo facere.]]
 ![[CERF Ia, q. 45, a. 1#s.c.]]
 
 ###### resp.

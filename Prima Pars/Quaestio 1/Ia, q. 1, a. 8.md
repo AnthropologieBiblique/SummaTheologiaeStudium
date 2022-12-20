@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO Ia, q. 1, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod haec doctrina non sit argumentativa. Dicit enim Ambrosius in libro I de fide Catholica, *tolle argumenta, ubi fides quaeritur*. Sed in hac doctrina praecipue fides quaeritur, unde dicitur [[Jn 20]], *haec scripta sunt ut credatis*. Ergo sacra doctrina non est argumentativa.]]
+![[LEO Ia, q. 1, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod haec doctrina non sit argumentativa. Dicit enim Ambrosius in libro I de fide Catholica, *tolle argumenta, ubi fides quaeritur*. Sed in hac doctrina praecipue fides quaeritur, unde dicitur Ioan. XX, *haec scripta sunt ut credatis*. Ergo sacra doctrina non est argumentativa.]]
 ![[CERF Ia, q. 1, a. 8#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 1, a. 8#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 1, a. 8#s.c.|Sed contra est quod dicitur ad [[Tt 1]], de episcopo, *amplectentem eum qui secundum doctrinam est, fidelem sermonem, ut potens sit exhortari in doctrina sana, et eos qui contradicunt arguere*.]]
+![[LEO Ia, q. 1, a. 8#s.c.|Sed contra est quod dicitur ad Titum I, de episcopo, *amplectentem eum qui secundum doctrinam est, fidelem sermonem, ut potens sit exhortari in doctrina sana, et eos qui contradicunt arguere*.]]
 ![[CERF Ia, q. 1, a. 8#s.c.]]
 
 ###### resp.

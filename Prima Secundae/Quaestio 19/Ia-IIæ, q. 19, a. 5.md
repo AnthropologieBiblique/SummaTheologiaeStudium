@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 19, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 19, a. 5#s.c.|Sed contra, sicut in primo dictum est, conscientia nihil aliud est quam applicatio scientiae ad aliquem actum. Scientia autem in ratione est. Voluntas ergo discordans a ratione errante, est contra conscientiam. Sed omnis talis voluntas est mala, dicitur enim [[Rm 14]], *omne quod non est ex fide, peccatum est*, idest omne quod est contra conscientiam. Ergo voluntas discordans a ratione errante, est mala.]]
+![[LEO Ia-IIæ, q. 19, a. 5#s.c.|Sed contra, sicut in primo dictum est, conscientia nihil aliud est quam applicatio scientiae ad aliquem actum. Scientia autem in ratione est. Voluntas ergo discordans a ratione errante, est contra conscientiam. Sed omnis talis voluntas est mala, dicitur enim Rom. XIV, *omne quod non est ex fide, peccatum est*, idest omne quod est contra conscientiam. Ergo voluntas discordans a ratione errante, est mala.]]
 ![[CERF Ia-IIæ, q. 19, a. 5#s.c.]]
 
 ###### resp.

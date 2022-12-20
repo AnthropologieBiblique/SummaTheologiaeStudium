@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 20, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 20, a. 3#arg. 2|Praeterea, maiori bono maius malum opponitur; ut patet per philosophum, in VIII Ethic. Sed caritas est maior spe, ut dicitur [[1 Co 13]]. Ergo odium est maius peccatum quam desperatio.]]
+![[LEO IIa-IIæ, q. 20, a. 3#arg. 2|Praeterea, maiori bono maius malum opponitur; ut patet per philosophum, in VIII Ethic. Sed caritas est maior spe, ut dicitur I Cor. XIII. Ergo odium est maius peccatum quam desperatio.]]
 ![[CERF IIa-IIæ, q. 20, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 20, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 20, a. 3#s.c.|Sed contra, peccatum insanabile videtur esse gravissimum, secundum illud [[Jr 30]], *insanabilis fractura tua, pessima plaga tua*. Sed peccatum desperationis est insanabile, secundum illud [[Jr 30]], *plaga mea desperabilis renuit curari*. Ergo desperatio est gravissimum peccatum.]]
+![[LEO IIa-IIæ, q. 20, a. 3#s.c.|Sed contra, peccatum insanabile videtur esse gravissimum, secundum illud Ierem. XXX, *insanabilis fractura tua, pessima plaga tua*. Sed peccatum desperationis est insanabile, secundum illud Ierem. XV, *plaga mea desperabilis renuit curari*. Ergo desperatio est gravissimum peccatum.]]
 ![[CERF IIa-IIæ, q. 20, a. 3#s.c.]]
 
 ###### resp.

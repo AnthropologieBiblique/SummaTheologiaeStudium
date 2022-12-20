@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 9, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 9, a. 4#arg. 2|Praeterea, consideratio veritatis est actus scientiae. Sed in consideratione veritatis non est tristitia, sed magis gaudium, dicitur enim [[Sg 8]], *non habet amaritudinem conversatio illius, nec taedium convictus illius, sed laetitiam et gaudium*. Ergo praedicta beatitudo non convenienter respondet dono scientiae.]]
+![[LEO IIa-IIæ, q. 9, a. 4#arg. 2|Praeterea, consideratio veritatis est actus scientiae. Sed in consideratione veritatis non est tristitia, sed magis gaudium, dicitur enim Sap. VIII, *non habet amaritudinem conversatio illius, nec taedium convictus illius, sed laetitiam et gaudium*. Ergo praedicta beatitudo non convenienter respondet dono scientiae.]]
 ![[CERF IIa-IIæ, q. 9, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 9, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 9, a. 4#resp.|Respondeo dicendum quod ad scientiam proprie pertinet rectum iudicium creaturarum. Creaturae autem sunt ex quibus homo occasionaliter a Deo avertitur, secundum illud [[Sg 14]], *creaturae factae sunt in odium, et in muscipulam pedibus insipientium*, qui scilicet rectum iudicium de his non habent, dum aestimant in eis esse perfectum bonum; unde in eis finem constituendo, peccant et verum bonum perdunt. Et hoc damnum homini innotescit per rectum iudicium de creaturis, quod habetur per donum scientiae. Et ideo beatitudo luctus ponitur respondere dono scientiae.]]
+![[LEO IIa-IIæ, q. 9, a. 4#resp.|Respondeo dicendum quod ad scientiam proprie pertinet rectum iudicium creaturarum. Creaturae autem sunt ex quibus homo occasionaliter a Deo avertitur, secundum illud Sap. XIV, *creaturae factae sunt in odium, et in muscipulam pedibus insipientium*, qui scilicet rectum iudicium de his non habent, dum aestimant in eis esse perfectum bonum; unde in eis finem constituendo, peccant et verum bonum perdunt. Et hoc damnum homini innotescit per rectum iudicium de creaturis, quod habetur per donum scientiae. Et ideo beatitudo luctus ponitur respondere dono scientiae.]]
 ![[CERF IIa-IIæ, q. 9, a. 4#resp.]]
 
 ###### ad 1

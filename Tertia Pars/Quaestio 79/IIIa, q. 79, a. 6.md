@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 79, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 79, a. 6#arg. 3|Praeterea, origo peccati in nobis est *lex peccati, quae est in membris nostris*, ut patet per apostolum, [[Rm 7]]. Sed mitigatio fomitis, qui est lex peccati, non ponitur effectus huius sacramenti, sed magis Baptismi. Ergo praeservare a peccatis futuris non est effectus huius sacramenti.]]
+![[LEO IIIa, q. 79, a. 6#arg. 3|Praeterea, origo peccati in nobis est *lex peccati, quae est in membris nostris*, ut patet per apostolum, Rom. VII. Sed mitigatio fomitis, qui est lex peccati, non ponitur effectus huius sacramenti, sed magis Baptismi. Ergo praeservare a peccatis futuris non est effectus huius sacramenti.]]
 ![[CERF IIIa, q. 79, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 79, a. 6#s.c.|Sed contra est quod dominus dicit, [[Jn 6]], *hic est panis de caelo descendens, ut, si quis ex eo manducaverit, non moriatur*. Quod quidem manifestum est non intelligi de morte corporali. Ergo intelligitur quod hoc sacramentum praeservet a morte spirituali, quae est per peccatum.]]
+![[LEO IIIa, q. 79, a. 6#s.c.|Sed contra est quod dominus dicit, Ioan. VI, *hic est panis de caelo descendens, ut, si quis ex eo manducaverit, non moriatur*. Quod quidem manifestum est non intelligi de morte corporali. Ergo intelligitur quod hoc sacramentum praeservet a morte spirituali, quae est per peccatum.]]
 ![[CERF IIIa, q. 79, a. 6#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 79, a. 6#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 79, a. 6#ad 2|Ad secundum dicendum quod etiam caritas, quantum est de se, praeservat hominem a peccato, secundum illud [[Rm 13]], *dilectio proximi malum non operatur*. Sed ex mutabilitate liberi arbitrii contingit quod aliquis post habitam caritatem peccat, sicut et post susceptionem huius sacramenti.]]
+![[LEO IIIa, q. 79, a. 6#ad 2|Ad secundum dicendum quod etiam caritas, quantum est de se, praeservat hominem a peccato, secundum illud Rom. XIII, *dilectio proximi malum non operatur*. Sed ex mutabilitate liberi arbitrii contingit quod aliquis post habitam caritatem peccat, sicut et post susceptionem huius sacramenti.]]
 ![[CERF IIIa, q. 79, a. 6#ad 2]]
 
 ###### ad 3

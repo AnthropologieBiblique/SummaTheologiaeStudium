@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 2, a. 8#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 2, a. 8#resp.|Respondeo dicendum quod impossibile est beatitudinem hominis esse in aliquo bono creato. Beatitudo enim est bonum perfectum, quod totaliter quietat appetitum, alioquin non esset ultimus finis, si adhuc restaret aliquid appetendum. Obiectum autem voluntatis, quae est appetitus humanus, est universale bonum; sicut obiectum intellectus est universale verum. Ex quo patet quod nihil potest quietare voluntatem hominis, nisi bonum universale. Quod non invenitur in aliquo creato, sed solum in Deo, quia omnis creatura habet bonitatem participatam. Unde solus Deus voluntatem hominis implere potest; secundum quod dicitur in [[Ps 102]], *qui replet in bonis desiderium tuum*. In solo igitur Deo beatitudo hominis consistit.]]
+![[LEO Ia-IIæ, q. 2, a. 8#resp.|Respondeo dicendum quod impossibile est beatitudinem hominis esse in aliquo bono creato. Beatitudo enim est bonum perfectum, quod totaliter quietat appetitum, alioquin non esset ultimus finis, si adhuc restaret aliquid appetendum. Obiectum autem voluntatis, quae est appetitus humanus, est universale bonum; sicut obiectum intellectus est universale verum. Ex quo patet quod nihil potest quietare voluntatem hominis, nisi bonum universale. Quod non invenitur in aliquo creato, sed solum in Deo, quia omnis creatura habet bonitatem participatam. Unde solus Deus voluntatem hominis implere potest; secundum quod dicitur in Psalmo CII, *qui replet in bonis desiderium tuum*. In solo igitur Deo beatitudo hominis consistit.]]
 ![[CERF Ia-IIæ, q. 2, a. 8#resp.]]
 
 ###### ad 1

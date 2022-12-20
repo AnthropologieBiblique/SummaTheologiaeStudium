@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIIa, q. 41#Prooemium|Deinde considerandum est de tentatione Christi. Et circa hoc quaeruntur quatuor. Primo, utrum fuerit conveniens Christum tentari. Secundo, de loco tentationis. Tertio, de tempore. Quarto, de modo et ordine tentationum.]]
-![[CERF IIIa, q. 41#Prooemium]]
+Deinde considerandum est de tentatione Christi. Et circa hoc quaeruntur quatuor. Primo, utrum fuerit conveniens Christum tentari. Secundo, de loco tentationis. Tertio, de tempore. Quarto, de modo et ordine tentationum.
 
 ![[IIIa, q. 41, a. 1#Articulus 1]]
 

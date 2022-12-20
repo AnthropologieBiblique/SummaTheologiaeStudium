@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 11, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 11, a. 3#arg. 3|Praeterea, scientia animae Christi se habuit per modum comprehensorum, qui Angelis conformantur, ut dicitur [[Mt 22]]. Sed in Angelis non est scientia discursiva seu collativa, ut patet per Dionysium, VII cap. de Div. Nom. Non ergo in anima Christi fuit scientia discursiva seu collativa.]]
+![[LEO IIIa, q. 11, a. 3#arg. 3|Praeterea, scientia animae Christi se habuit per modum comprehensorum, qui Angelis conformantur, ut dicitur Matth. XXII. Sed in Angelis non est scientia discursiva seu collativa, ut patet per Dionysium, VII cap. de Div. Nom. Non ergo in anima Christi fuit scientia discursiva seu collativa.]]
 ![[CERF IIIa, q. 11, a. 3#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 11, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 11, a. 3#resp.|Respondeo dicendum quod aliqua scientia potest esse discursiva vel collativa dupliciter. Uno modo, quantum ad scientiae acquisitionem, sicut accidit in nobis, qui procedimus ad cognoscendum unum per aliud, sicut effectus per causas, et e converso. Et hoc modo scientia animae Christi non fuit discursiva vel collativa, quia haec scientia de qua nunc loquimur, fuit sibi divinitus indita, non per investigationem rationis acquisita. Alio modo potest dici scientia discursiva vel collativa quantum ad usum, sicut scientes interdum ex causis concludunt effectus, non ut de novo addiscant, sed volentes uti scientia quam iam habent. Et hoc modo scientia animae Christi poterat esse collativa et discursiva, poterat enim ex uno aliud concludere, sicut sibi placebat. Sicut, [[Mt 17]], cum dominus quaesivisset a Petro *a quibus reges terrae tributum acciperent, a filiis suis an ab alienis*, Petro respondente quod ab alienis, conclusit, ergo liberi sunt filii.]]
+![[LEO IIIa, q. 11, a. 3#resp.|Respondeo dicendum quod aliqua scientia potest esse discursiva vel collativa dupliciter. Uno modo, quantum ad scientiae acquisitionem, sicut accidit in nobis, qui procedimus ad cognoscendum unum per aliud, sicut effectus per causas, et e converso. Et hoc modo scientia animae Christi non fuit discursiva vel collativa, quia haec scientia de qua nunc loquimur, fuit sibi divinitus indita, non per investigationem rationis acquisita. Alio modo potest dici scientia discursiva vel collativa quantum ad usum, sicut scientes interdum ex causis concludunt effectus, non ut de novo addiscant, sed volentes uti scientia quam iam habent. Et hoc modo scientia animae Christi poterat esse collativa et discursiva, poterat enim ex uno aliud concludere, sicut sibi placebat. Sicut, Matth. XVII, cum dominus quaesivisset a Petro *a quibus reges terrae tributum acciperent, a filiis suis an ab alienis*, Petro respondente quod ab alienis, conclusit, ergo liberi sunt filii.]]
 ![[CERF IIIa, q. 11, a. 3#resp.]]
 
 ###### ad 1

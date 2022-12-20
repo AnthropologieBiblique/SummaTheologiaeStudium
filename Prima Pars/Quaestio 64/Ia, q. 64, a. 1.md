@@ -14,15 +14,15 @@ tags :
 ![[CERF Ia, q. 64, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 64, a. 1#arg. 3|Praeterea, cognitio rerum Angelis conveniens est duplex, secundum Augustinum, scilicet matutina, et vespertina. Sed cognitio matutina non competit Daemonibus, quia non vident res in verbo, nec etiam cognitio vespertina, quia cognitio vespertina refert res cognitas ad laudem creatoris (unde post vespere fit mane, ut dicitur [[Gn 1]]). Ergo Daemones non possunt cognitionem de rebus habere.]]
+![[LEO Ia, q. 64, a. 1#arg. 3|Praeterea, cognitio rerum Angelis conveniens est duplex, secundum Augustinum, scilicet matutina, et vespertina. Sed cognitio matutina non competit Daemonibus, quia non vident res in verbo, nec etiam cognitio vespertina, quia cognitio vespertina refert res cognitas ad laudem creatoris (unde post vespere fit mane, ut dicitur Gen. I). Ergo Daemones non possunt cognitionem de rebus habere.]]
 ![[CERF Ia, q. 64, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 64, a. 1#arg. 4|Praeterea, Angeli in sua conditione cognoverunt mysterium regni Dei, ut Augustinus dicit, V super Gen. ad Litt. Sed Daemones hac cognitione privati sunt, quia *si cognovissent, nequaquam dominum gloriae crucifixissent*, ut dicitur [[1 Co 2]]. Ergo, pari ratione, omni alia cognitione veritatis sunt privati.]]
+![[LEO Ia, q. 64, a. 1#arg. 4|Praeterea, Angeli in sua conditione cognoverunt mysterium regni Dei, ut Augustinus dicit, V super Gen. ad Litt. Sed Daemones hac cognitione privati sunt, quia *si cognovissent, nequaquam dominum gloriae crucifixissent*, ut dicitur I Cor. II. Ergo, pari ratione, omni alia cognitione veritatis sunt privati.]]
 ![[CERF Ia, q. 64, a. 1#arg. 4]]
 
 ###### arg. 5
-![[LEO Ia, q. 64, a. 1#arg. 5|Praeterea, quamcumque veritatem aliquis scit, aut cognoscit eam naturaliter, sicut nos cognoscimus prima principia; aut accipiendo ab alio, sicut quae scimus addiscendo; aut per experientiam longi temporis, sicut quae scimus inveniendo. Sed Daemones non possunt cognoscere veritatem per suam naturam, quia ab eis divisi sunt boni Angeli sicut lux a tenebris, ut Augustinus dicit; omnis autem manifestatio fit per lumen, ut dicitur [[Ep 5]]. Similiter etiam neque per revelationem, neque addiscendo a bonis Angelis, quia non est conventio lucis ad tenebras, ut dicitur [[2 Co 6]]. Neque etiam per experientiam longi temporis, quia experientia a sensu oritur. Ergo nulla in eis est cognitio veritatis.]]
+![[LEO Ia, q. 64, a. 1#arg. 5|Praeterea, quamcumque veritatem aliquis scit, aut cognoscit eam naturaliter, sicut nos cognoscimus prima principia; aut accipiendo ab alio, sicut quae scimus addiscendo; aut per experientiam longi temporis, sicut quae scimus inveniendo. Sed Daemones non possunt cognoscere veritatem per suam naturam, quia ab eis divisi sunt boni Angeli sicut lux a tenebris, ut Augustinus dicit; omnis autem manifestatio fit per lumen, ut dicitur Ephes. V. Similiter etiam neque per revelationem, neque addiscendo a bonis Angelis, quia non est conventio lucis ad tenebras, ut dicitur II Cor. VI. Neque etiam per experientiam longi temporis, quia experientia a sensu oritur. Ergo nulla in eis est cognitio veritatis.]]
 ![[CERF Ia, q. 64, a. 1#arg. 5]]
 
 ###### s.c.

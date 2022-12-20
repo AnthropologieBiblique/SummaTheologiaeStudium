@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 46, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 46, a. 5#arg. 2|Praeterea, [[Is 52]] dicitur, *ecce, intelliget servus meus, et exaltabitur, et elevabitur, et sublimis erit valde. Sicut obstupuerunt super eum multi, sic inglorius erit inter viros aspectus eius, et forma eius inter filios hominum*. Sed Christus est exaltatus secundum hoc quod habuit omnem gratiam et omnem scientiam, pro quo super eo multi admirantes obstupuerunt. Ergo videtur quod inglorius fuerit sustinendo omnem passionem humanam.]]
+![[LEO IIIa, q. 46, a. 5#arg. 2|Praeterea, Isaiae LII dicitur, *ecce, intelliget servus meus, et exaltabitur, et elevabitur, et sublimis erit valde. Sicut obstupuerunt super eum multi, sic inglorius erit inter viros aspectus eius, et forma eius inter filios hominum*. Sed Christus est exaltatus secundum hoc quod habuit omnem gratiam et omnem scientiam, pro quo super eo multi admirantes obstupuerunt. Ergo videtur quod inglorius fuerit sustinendo omnem passionem humanam.]]
 ![[CERF IIIa, q. 46, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 46, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 46, a. 5#s.c.|Sed contra est quod dicitur [[Jn 19]], quod *milites primi quidem fregerunt crura et alterius qui crucifixus est cum eo, ad Iesum autem cum venissent, non fregerunt eius crura*. Non ergo passus est omnem humanam passionem.]]
+![[LEO IIIa, q. 46, a. 5#s.c.|Sed contra est quod dicitur Ioan. XIX, quod *milites primi quidem fregerunt crura et alterius qui crucifixus est cum eo, ad Iesum autem cum venissent, non fregerunt eius crura*. Non ergo passus est omnem humanam passionem.]]
 ![[CERF IIIa, q. 46, a. 5#s.c.]]
 
 ###### resp.

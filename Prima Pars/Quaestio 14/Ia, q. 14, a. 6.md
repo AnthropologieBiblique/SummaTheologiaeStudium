@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 14, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 14, a. 6#s.c.|Sed contra, habere propriam cognitionem de rebus, est cognoscere res non solum in communi, sed secundum quod sunt ab invicem distinctae. Sic autem Deus cognoscit res. Unde dicitur [[He 4]], quod *pertingit usque ad divisionem spiritus et animae, compagum quoque et medullarum; et discretor cogitationum et intentionum cordis; et non est ulla creatura invisibilis in conspectu eius*.]]
+![[LEO Ia, q. 14, a. 6#s.c.|Sed contra, habere propriam cognitionem de rebus, est cognoscere res non solum in communi, sed secundum quod sunt ab invicem distinctae. Sic autem Deus cognoscit res. Unde dicitur Heb. IV, quod *pertingit usque ad divisionem spiritus et animae, compagum quoque et medullarum; et discretor cogitationum et intentionum cordis; et non est ulla creatura invisibilis in conspectu eius*.]]
 ![[CERF Ia, q. 14, a. 6#s.c.]]
 
 ###### resp.

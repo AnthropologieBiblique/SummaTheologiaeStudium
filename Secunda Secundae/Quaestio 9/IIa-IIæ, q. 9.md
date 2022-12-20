@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 9#Prooemium|Deinde considerandum est de dono scientiae. Et circa hoc quaeruntur quatuor. Primo, utrum scientia sit donum. Secundo, utrum sit circa divina. Tertio, utrum sit speculativa vel practica. Quarto, quae beatitudo ei respondeat.]]
-![[CERF IIa-IIæ, q. 9#Prooemium]]
+Deinde considerandum est de dono scientiae. Et circa hoc quaeruntur quatuor. Primo, utrum scientia sit donum. Secundo, utrum sit circa divina. Tertio, utrum sit speculativa vel practica. Quarto, quae beatitudo ei respondeat.
 
 ![[IIa-IIæ, q. 9, a. 1#Articulus 1]]
 

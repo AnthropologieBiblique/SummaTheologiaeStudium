@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIIa, q. 66, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod in nomine Christi possit dari Baptismus. Sicut enim *una est fides, et unum Baptisma*, ut dicitur [[Ep 4]]. Sed [[Ac 8]] dicitur quod *in nomine Iesu Christi baptizabantur viri et mulieres*. Ergo etiam nunc potest dari Baptismus in nomine Christi.]]
+![[LEO IIIa, q. 66, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod in nomine Christi possit dari Baptismus. Sicut enim *una est fides, et unum Baptisma*, ut dicitur Ephes. IV. Sed Act. VIII dicitur quod *in nomine Iesu Christi baptizabantur viri et mulieres*. Ergo etiam nunc potest dari Baptismus in nomine Christi.]]
 ![[CERF IIIa, q. 66, a. 6#arg. 1]]
 
 ###### arg. 2

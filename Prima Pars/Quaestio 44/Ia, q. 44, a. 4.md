@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 44, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 44, a. 4#s.c.|Sed contra est quod dicitur [[Pr 16]], *universa propter semetipsum operatus est dominus*.]]
+![[LEO Ia, q. 44, a. 4#s.c.|Sed contra est quod dicitur Prov. XVI, *universa propter semetipsum operatus est dominus*.]]
 ![[CERF Ia, q. 44, a. 4#s.c.]]
 
 ###### resp.

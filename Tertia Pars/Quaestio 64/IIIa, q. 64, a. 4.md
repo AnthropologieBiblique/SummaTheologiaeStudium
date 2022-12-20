@@ -10,15 +10,15 @@ tags :
 ![[CERF IIIa, q. 64, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 64, a. 4#arg. 2|Praeterea, super illud [[Jn 14]], *maiora horum faciet*, dicit Augustinus, prorsus maius hoc esse dixerim, scilicet ut ex impio iustus fiat, quam creare caelum et terram. Sed Christus non potuit communicare suis discipulis quod crearent caelum et terram. Ergo neque quod iustificent impium. Cum igitur iustificatio impii fiat per potestatem Christi quam habet in sacramentis, videtur quod potestatem suam quam habet in sacramentis, non potuerit ministris communicare.]]
+![[LEO IIIa, q. 64, a. 4#arg. 2|Praeterea, super illud Ioan. XIV, *maiora horum faciet*, dicit Augustinus, prorsus maius hoc esse dixerim, scilicet ut ex impio iustus fiat, quam creare caelum et terram. Sed Christus non potuit communicare suis discipulis quod crearent caelum et terram. Ergo neque quod iustificent impium. Cum igitur iustificatio impii fiat per potestatem Christi quam habet in sacramentis, videtur quod potestatem suam quam habet in sacramentis, non potuerit ministris communicare.]]
 ![[CERF IIIa, q. 64, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 64, a. 4#arg. 3|Praeterea, Christo inquantum est caput Ecclesiae, competit ut ab ipso gratia derivetur ad alios, secundum illud [[Jn 1]], *de plenitudine eius omnes accepimus*. Sed hoc non fuit aliis communicabile, quia sic Ecclesia esset monstruosa, multa capita habens. Ergo videtur quod Christus suam potestatem non potuerit ministris communicare.]]
+![[LEO IIIa, q. 64, a. 4#arg. 3|Praeterea, Christo inquantum est caput Ecclesiae, competit ut ab ipso gratia derivetur ad alios, secundum illud Ioan. I, *de plenitudine eius omnes accepimus*. Sed hoc non fuit aliis communicabile, quia sic Ecclesia esset monstruosa, multa capita habens. Ergo videtur quod Christus suam potestatem non potuerit ministris communicare.]]
 ![[CERF IIIa, q. 64, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 64, a. 4#s.c.|Sed contra est quod, super illud [[Jn 1]], *ego nesciebam eum*, dicit Augustinus quod *non noverat potestatem Baptismi ipsum dominum habiturum et sibi retenturum*. Hoc autem non ignorasset Ioannes si talis potestas communicabilis non esset. Potuit ergo potestatem suam Christus ministris communicare.]]
+![[LEO IIIa, q. 64, a. 4#s.c.|Sed contra est quod, super illud Ioan. I, *ego nesciebam eum*, dicit Augustinus quod *non noverat potestatem Baptismi ipsum dominum habiturum et sibi retenturum*. Hoc autem non ignorasset Ioannes si talis potestas communicabilis non esset. Potuit ergo potestatem suam Christus ministris communicare.]]
 ![[CERF IIIa, q. 64, a. 4#s.c.]]
 
 ###### resp.
@@ -26,11 +26,11 @@ tags :
 ![[CERF IIIa, q. 64, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 64, a. 4#ad 1|Ad primum ergo dicendum quod Christus non ex invidia praetermisit potestatem excellentiae ministris communicare, sed propter fidelium utilitatem, ne in homine spem ponerent, et essent diversa sacramenta, ex quibus divisio in Ecclesia oriretur; sicut apud illos qui dicebant, *ego sum Pauli, ego autem Apollo, ego vero Cephae*, ut dicitur [[1 Co 1]].]]
+![[LEO IIIa, q. 64, a. 4#ad 1|Ad primum ergo dicendum quod Christus non ex invidia praetermisit potestatem excellentiae ministris communicare, sed propter fidelium utilitatem, ne in homine spem ponerent, et essent diversa sacramenta, ex quibus divisio in Ecclesia oriretur; sicut apud illos qui dicebant, *ego sum Pauli, ego autem Apollo, ego vero Cephae*, ut dicitur I Cor. I.]]
 ![[CERF IIIa, q. 64, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 64, a. 4#ad 2|Ad secundum dicendum quod obiectio illa procedit de potestate auctoritatis, quae convenit Christo secundum quod est Deus. Licet et potestas excellentiae possit auctoritas nominari per comparationem ad alios ministros. Unde super illud [[1 Co 1]], *divisus est Christus?* Dicit Glossa quod *potuit eis dare auctoritatem Baptismi, quibus contulit ministerium*.]]
+![[LEO IIIa, q. 64, a. 4#ad 2|Ad secundum dicendum quod obiectio illa procedit de potestate auctoritatis, quae convenit Christo secundum quod est Deus. Licet et potestas excellentiae possit auctoritas nominari per comparationem ad alios ministros. Unde super illud I Cor. I, *divisus est Christus?* Dicit Glossa quod *potuit eis dare auctoritatem Baptismi, quibus contulit ministerium*.]]
 ![[CERF IIIa, q. 64, a. 4#ad 2]]
 
 ###### ad 3

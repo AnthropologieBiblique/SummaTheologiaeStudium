@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 111, a. 3#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 111, a. 3#s.c.|Sed contra est quod ea quae apparent in somnis, videntur imaginaria visione. Sed Angeli revelant aliqua in somnis; ut patet [[Mt 1]] et II, de Angelo qui Ioseph in somnis apparuit. Ergo Angelus potest imaginationem movere.]]
+![[LEO Ia, q. 111, a. 3#s.c.|Sed contra est quod ea quae apparent in somnis, videntur imaginaria visione. Sed Angeli revelant aliqua in somnis; ut patet Matth. I et II, de Angelo qui Ioseph in somnis apparuit. Ergo Angelus potest imaginationem movere.]]
 ![[CERF Ia, q. 111, a. 3#s.c.]]
 
 ###### resp.

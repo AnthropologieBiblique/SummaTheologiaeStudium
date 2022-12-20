@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 108#Prooemium|Deinde considerandum est de vindicatione. Et circa hoc quaeruntur quatuor. Primo, utrum vindicatio sit licita. Secundo, utrum sit specialis virtus. Tertio, de modo vindicandi. Quarto, in quos sit vindicta exercenda.]]
-![[CERF IIa-IIæ, q. 108#Prooemium]]
+Deinde considerandum est de vindicatione. Et circa hoc quaeruntur quatuor. Primo, utrum vindicatio sit licita. Secundo, utrum sit specialis virtus. Tertio, de modo vindicandi. Quarto, in quos sit vindicta exercenda.
 
 ![[IIa-IIæ, q. 108, a. 1#Articulus 1]]
 

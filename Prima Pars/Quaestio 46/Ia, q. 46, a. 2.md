@@ -38,7 +38,7 @@ tags :
 ![[CERF Ia, q. 46, a. 2#arg. 8]]
 
 ###### s.c.
-![[LEO Ia, q. 46, a. 2#s.c.|Sed contra, fidei articuli demonstrative probari non possunt, *quia fides de non apparentibus est*, ut dicitur ad [[He 11]]. Sed Deum esse creatorem mundi, sic quod mundus incoeperit esse, est articulus fidei, dicimus enim, credo in unum Deum et cetera. Et iterum, Gregorius dicit, in Homil. I in Ezech., quod Moyses prophetizavit de praeterito, dicens in principio creavit Deus caelum et terram; in quo novitas mundi traditur. Ergo novitas mundi habetur tantum per revelationem. Et ideo non potest probari demonstrative.]]
+![[LEO Ia, q. 46, a. 2#s.c.|Sed contra, fidei articuli demonstrative probari non possunt, *quia fides de non apparentibus est*, ut dicitur ad Hebr. XI. Sed Deum esse creatorem mundi, sic quod mundus incoeperit esse, est articulus fidei, dicimus enim, credo in unum Deum et cetera. Et iterum, Gregorius dicit, in Homil. I in Ezech., quod Moyses prophetizavit de praeterito, dicens in principio creavit Deus caelum et terram; in quo novitas mundi traditur. Ergo novitas mundi habetur tantum per revelationem. Et ideo non potest probari demonstrative.]]
 ![[CERF Ia, q. 46, a. 2#s.c.]]
 
 ###### resp.

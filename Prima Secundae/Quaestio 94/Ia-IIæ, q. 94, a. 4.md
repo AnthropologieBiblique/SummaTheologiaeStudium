@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 94, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod lex naturae non sit una apud omnes. Dicitur enim in decretis, dist. I, quod *ius naturale est quod in lege et in Evangelio continetur*. Sed hoc non est commune omnibus, quia, ut dicitur [[Rm 10]], *non omnes obediunt Evangelio*. Ergo lex naturalis non est una apud omnes.]]
+![[LEO Ia-IIæ, q. 94, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod lex naturae non sit una apud omnes. Dicitur enim in decretis, dist. I, quod *ius naturale est quod in lege et in Evangelio continetur*. Sed hoc non est commune omnibus, quia, ut dicitur Rom. X, *non omnes obediunt Evangelio*. Ergo lex naturalis non est una apud omnes.]]
 ![[CERF Ia-IIæ, q. 94, a. 4#arg. 1]]
 
 ###### arg. 2

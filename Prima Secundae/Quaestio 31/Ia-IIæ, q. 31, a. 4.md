@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 31, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 31, a. 4#s.c.|Sed contra est quod in [[Ps 36]], dicitur, *delectare in domino*. Sed ad Deum non potest extendi appetitus sensitivus, sed solum intellectivus. Ergo delectatio potest esse in appetitu intellectivo.]]
+![[LEO Ia-IIæ, q. 31, a. 4#s.c.|Sed contra est quod in Psalmo XXXVI, dicitur, *delectare in domino*. Sed ad Deum non potest extendi appetitus sensitivus, sed solum intellectivus. Ergo delectatio potest esse in appetitu intellectivo.]]
 ![[CERF Ia-IIæ, q. 31, a. 4#s.c.]]
 
 ###### resp.

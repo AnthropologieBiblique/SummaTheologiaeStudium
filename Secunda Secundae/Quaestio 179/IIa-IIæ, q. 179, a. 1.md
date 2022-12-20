@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 179, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 179, a. 1#arg. 3|Praeterea, nomen vitae importat motum, ut patet per Dionysium, VI cap. de Div. Nom. Sed contemplatio consistit magis in quiete, secundum illud [[Sg 8]], *intrans in domum meam, conquiescam cum illa*. Ergo videtur quod vita non convenienter dividatur per activam et contemplativam.]]
+![[LEO IIa-IIæ, q. 179, a. 1#arg. 3|Praeterea, nomen vitae importat motum, ut patet per Dionysium, VI cap. de Div. Nom. Sed contemplatio consistit magis in quiete, secundum illud Sap. VIII, *intrans in domum meam, conquiescam cum illa*. Ergo videtur quod vita non convenienter dividatur per activam et contemplativam.]]
 ![[CERF IIa-IIæ, q. 179, a. 1#arg. 3]]
 
 ###### s.c.

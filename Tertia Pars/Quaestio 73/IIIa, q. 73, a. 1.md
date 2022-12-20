@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 73, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 73, a. 1#ad 2|Ad secundum dicendum quod aqua Baptismi non causat aliquem spiritualem effectum propter ipsam aquam, sed propter virtutem spiritus sancti in aqua existentem, unde Chrysostomus dicit, super illud [[Jn 5]], *Angelus domini secundum tempus etc., in baptizatis non simpliciter aqua operatur, sed, cum spiritus sancti susceperit gratiam, tunc omnia solvit peccata*. Sicut autem se habet virtus spiritus sancti ad aquam Baptismi, ita se habet corpus Christi verum ad species panis et vini. Unde species panis et vini non efficiunt aliquid nisi virtute corporis Christi veri.]]
+![[LEO IIIa, q. 73, a. 1#ad 2|Ad secundum dicendum quod aqua Baptismi non causat aliquem spiritualem effectum propter ipsam aquam, sed propter virtutem spiritus sancti in aqua existentem, unde Chrysostomus dicit, super illud Ioan. V, *Angelus domini secundum tempus etc., in baptizatis non simpliciter aqua operatur, sed, cum spiritus sancti susceperit gratiam, tunc omnia solvit peccata*. Sicut autem se habet virtus spiritus sancti ad aquam Baptismi, ita se habet corpus Christi verum ad species panis et vini. Unde species panis et vini non efficiunt aliquid nisi virtute corporis Christi veri.]]
 ![[CERF IIIa, q. 73, a. 1#ad 2]]
 
 ###### ad 3

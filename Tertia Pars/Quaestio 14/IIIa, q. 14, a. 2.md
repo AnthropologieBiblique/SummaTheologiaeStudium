@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 14, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Christus non ex necessitate his defectibus subiacuerit. Dicitur enim [[Is 53]], *oblatus est quia ipse voluit*, et loquitur de oblatione ad passionem. Sed voluntas opponitur necessitati. Ergo Christus non ex necessitate subiacuit corporis defectibus.]]
+![[LEO IIIa, q. 14, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Christus non ex necessitate his defectibus subiacuerit. Dicitur enim Isaiae LIII, *oblatus est quia ipse voluit*, et loquitur de oblatione ad passionem. Sed voluntas opponitur necessitati. Ergo Christus non ex necessitate subiacuit corporis defectibus.]]
 ![[CERF IIIa, q. 14, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 14, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 14, a. 2#s.c.|Sed contra est quod apostolus dicit, [[Rm 8]], *misit Deus filium suum in similitudinem carnis peccati*. Sed conditio carnis peccati est quod habeat necessitatem moriendi, et sustinendi alias huiusmodi passiones. Ergo talis necessitas sustinendi hos defectus fuit in carne Christi.]]
+![[LEO IIIa, q. 14, a. 2#s.c.|Sed contra est quod apostolus dicit, Rom. VIII, *misit Deus filium suum in similitudinem carnis peccati*. Sed conditio carnis peccati est quod habeat necessitatem moriendi, et sustinendi alias huiusmodi passiones. Ergo talis necessitas sustinendi hos defectus fuit in carne Christi.]]
 ![[CERF IIIa, q. 14, a. 2#s.c.]]
 
 ###### resp.

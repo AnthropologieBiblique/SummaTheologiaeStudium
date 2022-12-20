@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 12, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod essentia Dei ab intellectu creato per aliquam similitudinem videatur. Dicitur enim [[1 Jn 3]], *scimus quoniam, cum apparuerit, similes ei erimus, et videbimus eum sicuti est*.]]
+![[LEO Ia, q. 12, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod essentia Dei ab intellectu creato per aliquam similitudinem videatur. Dicitur enim I Ioan. III, *scimus quoniam, cum apparuerit, similes ei erimus, et videbimus eum sicuti est*.]]
 ![[CERF Ia, q. 12, a. 2#arg. 1]]
 
 ###### arg. 2

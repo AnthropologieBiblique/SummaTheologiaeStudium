@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 75#Prooemium|Deinde considerandum est de derisione. Et circa hoc quaeruntur duo. Primo, utrum derisio sit peccatum speciale distinctum ab aliis peccatis quibus per verba nocumentum proximo infertur. Secundo, utrum derisio sit peccatum mortale.]]
-![[CERF IIa-IIæ, q. 75#Prooemium]]
+Deinde considerandum est de derisione. Et circa hoc quaeruntur duo. Primo, utrum derisio sit peccatum speciale distinctum ab aliis peccatis quibus per verba nocumentum proximo infertur. Secundo, utrum derisio sit peccatum mortale.
 
 ![[IIa-IIæ, q. 75, a. 1#Articulus 1]]
 

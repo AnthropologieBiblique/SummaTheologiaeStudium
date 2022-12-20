@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 1, a. 5#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 1, a. 5#s.c.|Sed contra est quod aliae scientiae dicuntur ancillae huius, [[Pr 9]], *misit ancillas suas vocare ad arcem*.]]
+![[LEO Ia, q. 1, a. 5#s.c.|Sed contra est quod aliae scientiae dicuntur ancillae huius, Prov. IX, *misit ancillas suas vocare ad arcem*.]]
 ![[CERF Ia, q. 1, a. 5#s.c.]]
 
 ###### resp.

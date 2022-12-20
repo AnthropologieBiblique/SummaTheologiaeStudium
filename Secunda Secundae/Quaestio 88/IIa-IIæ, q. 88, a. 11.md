@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 88, a. 11#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 88, a. 11#s.c.|Sed contra est quod dicitur [[Si 26]], *omnis ponderatio non est digna animae continentis*.]]
+![[LEO IIa-IIæ, q. 88, a. 11#s.c.|Sed contra est quod dicitur Eccli. XXVI, *omnis ponderatio non est digna animae continentis*.]]
 ![[CERF IIa-IIæ, q. 88, a. 11#s.c.]]
 
 ###### s.c.

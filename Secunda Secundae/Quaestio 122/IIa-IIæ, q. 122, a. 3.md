@@ -6,15 +6,15 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 122, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod secundum praeceptum Decalogi non convenienter tradatur. Hoc enim praeceptum, non assumes nomen Dei tui in vanum, sic exponitur in Glossa [[Ex 20]], *idest, non existimes creaturam esse filium Dei*, per quod prohibetur error contra fidem. Et [[Dt 5]] exponitur, *non assumes nomen Dei tui in vanum, scilicet, nomen Dei ligno et lapidi attribuendo*, per quod prohibetur falsa confessio, quae est actus infidelitatis, sicut et error. Infidelitas autem est prior superstitione, sicut et fides religione. Ergo hoc praeceptum debuit praemitti primo, in quo prohibetur superstitio.]]
+![[LEO IIa-IIæ, q. 122, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod secundum praeceptum Decalogi non convenienter tradatur. Hoc enim praeceptum, non assumes nomen Dei tui in vanum, sic exponitur in Glossa Exod. XX, *idest, non existimes creaturam esse filium Dei*, per quod prohibetur error contra fidem. Et Deut. V exponitur, *non assumes nomen Dei tui in vanum, scilicet, nomen Dei ligno et lapidi attribuendo*, per quod prohibetur falsa confessio, quae est actus infidelitatis, sicut et error. Infidelitas autem est prior superstitione, sicut et fides religione. Ergo hoc praeceptum debuit praemitti primo, in quo prohibetur superstitio.]]
 ![[CERF IIa-IIæ, q. 122, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 122, a. 3#arg. 2|Praeterea, nomen Dei ad multa assumitur, sicut ad laudandum, ad miracula faciendum, et universaliter ad omnia quae dicuntur vel fiunt a nobis, secundum illud [[Col 3]], *omne quodcumque facitis in verbo vel opere, in nomine domini facite*. Ergo praeceptum quo prohibetur nomen Dei assumi in vanum, videtur universalius esse quam praeceptum quo prohibetur superstitio. Et ita debuit ei praemitti.]]
+![[LEO IIa-IIæ, q. 122, a. 3#arg. 2|Praeterea, nomen Dei ad multa assumitur, sicut ad laudandum, ad miracula faciendum, et universaliter ad omnia quae dicuntur vel fiunt a nobis, secundum illud Coloss. III, *omne quodcumque facitis in verbo vel opere, in nomine domini facite*. Ergo praeceptum quo prohibetur nomen Dei assumi in vanum, videtur universalius esse quam praeceptum quo prohibetur superstitio. Et ita debuit ei praemitti.]]
 ![[CERF IIa-IIæ, q. 122, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 122, a. 3#arg. 3|Praeterea, [[Ex 20]] exponitur illud praeceptum, *non assumes nomen Dei tui in vanum, iurando scilicet pro nihilo*. Unde videtur per hoc prohiberi vana iuratio, quae scilicet est sine iudicio. Sed multo gravior est falsa iuratio, quae est sine veritate; et iniusta iuratio, quae est sine iustitia. Ergo magis debuerunt illa prohiberi per hoc praeceptum.]]
+![[LEO IIa-IIæ, q. 122, a. 3#arg. 3|Praeterea, Exod. XX exponitur illud praeceptum, *non assumes nomen Dei tui in vanum, iurando scilicet pro nihilo*. Unde videtur per hoc prohiberi vana iuratio, quae scilicet est sine iudicio. Sed multo gravior est falsa iuratio, quae est sine veritate; et iniusta iuratio, quae est sine iustitia. Ergo magis debuerunt illa prohiberi per hoc praeceptum.]]
 ![[CERF IIa-IIæ, q. 122, a. 3#arg. 3]]
 
 ###### arg. 4
@@ -30,11 +30,11 @@ tags :
 ![[CERF IIa-IIæ, q. 122, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 122, a. 3#resp.|Respondeo dicendum quod oportet prius impedimenta verae religionis excludere in eo qui instituitur ad virtutem, quam eum in vera religione fundare. Opponitur autem verae religioni aliquid dupliciter. Uno modo, per excessum, quando scilicet id quod est religionis alteri indebite exhibetur, quod pertinet ad superstitionem. Alio modo, quasi per defectum reverentiae, cum scilicet Deus contemnitur, quod pertinet ad vitium irreligiositatis, ut supra habitum est. Superstitio autem impedit religionem quantum ad hoc, ne suscipiatur Deus ad colendum. Ille autem cuius animus implicatus est indebito cultui, non potest simul debitum Dei cultum suscipere, secundum illud [[Is 28]], *angustatum est stratum, ut alter decidat*, scilicet Deus verus vel falsus a corde hominis, *et pallium breve utrumque operire non potest*. Per irreligiositatem autem impeditur religio quantum ad hoc, ne Deus, postquam susceptus est, honoretur. Prius autem est Deum suscipere ad colendum quam eum susceptum honorare. Et ideo praemittitur praeceptum quo prohibetur superstitio secundo praecepto, quo prohibetur periurium, ad irreligiositatem pertinens.]]
+![[LEO IIa-IIæ, q. 122, a. 3#resp.|Respondeo dicendum quod oportet prius impedimenta verae religionis excludere in eo qui instituitur ad virtutem, quam eum in vera religione fundare. Opponitur autem verae religioni aliquid dupliciter. Uno modo, per excessum, quando scilicet id quod est religionis alteri indebite exhibetur, quod pertinet ad superstitionem. Alio modo, quasi per defectum reverentiae, cum scilicet Deus contemnitur, quod pertinet ad vitium irreligiositatis, ut supra habitum est. Superstitio autem impedit religionem quantum ad hoc, ne suscipiatur Deus ad colendum. Ille autem cuius animus implicatus est indebito cultui, non potest simul debitum Dei cultum suscipere, secundum illud Isaiae XXVIII, *angustatum est stratum, ut alter decidat*, scilicet Deus verus vel falsus a corde hominis, *et pallium breve utrumque operire non potest*. Per irreligiositatem autem impeditur religio quantum ad hoc, ne Deus, postquam susceptus est, honoretur. Prius autem est Deum suscipere ad colendum quam eum susceptum honorare. Et ideo praemittitur praeceptum quo prohibetur superstitio secundo praecepto, quo prohibetur periurium, ad irreligiositatem pertinens.]]
 ![[CERF IIa-IIæ, q. 122, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 122, a. 3#ad 1|Ad primum ergo dicendum quod illae expositiones sunt mysticae. Litteralis autem expositio est quae habetur [[Dt 5]], *non assumes nomen Dei tui in vanum, scilicet iurando pro re quae non est*.]]
+![[LEO IIa-IIæ, q. 122, a. 3#ad 1|Ad primum ergo dicendum quod illae expositiones sunt mysticae. Litteralis autem expositio est quae habetur Deut. V, *non assumes nomen Dei tui in vanum, scilicet iurando pro re quae non est*.]]
 ![[CERF IIa-IIæ, q. 122, a. 3#ad 1]]
 
 ###### ad 2

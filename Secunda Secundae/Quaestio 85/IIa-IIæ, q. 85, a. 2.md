@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 85, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non soli summo Deo sit sacrificium offerendum. Cum enim sacrificium Deo offerri debeat, videtur quod omnibus illis sit sacrificium offerendum qui divinitatis consortes fiunt. Sed etiam sancti homines efficiuntur divinae naturae consortes, ut dicitur [[2 P 1]], unde et de eis in Psalm. dicitur, ego dixi, dii estis. Angeli etiam filii Dei nominantur, ut patet [[Jb 1]]. Ergo omnibus his debet sacrificium offerri.]]
+![[LEO IIa-IIæ, q. 85, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non soli summo Deo sit sacrificium offerendum. Cum enim sacrificium Deo offerri debeat, videtur quod omnibus illis sit sacrificium offerendum qui divinitatis consortes fiunt. Sed etiam sancti homines efficiuntur divinae naturae consortes, ut dicitur II Petri I, unde et de eis in Psalm. dicitur, ego dixi, dii estis. Angeli etiam filii Dei nominantur, ut patet Iob I. Ergo omnibus his debet sacrificium offerri.]]
 ![[CERF IIa-IIæ, q. 85, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 85, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 85, a. 2#s.c.|Sed contra est quod dicitur [[Ex 22]], *qui immolat diis, occidetur, praeter domino soli*.]]
+![[LEO IIa-IIæ, q. 85, a. 2#s.c.|Sed contra est quod dicitur Exod. XXII, *qui immolat diis, occidetur, praeter domino soli*.]]
 ![[CERF IIa-IIæ, q. 85, a. 2#s.c.]]
 
 ###### resp.

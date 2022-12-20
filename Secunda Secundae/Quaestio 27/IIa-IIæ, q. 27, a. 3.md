@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 27, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 27, a. 3#arg. 2|Praeterea, amor sequitur cognitionem. Sed Deus per aliud cognoscitur, secundum illud [[Rm 1]]. *Invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Ergo etiam propter aliud amatur, et non propter se.]]
+![[LEO IIa-IIæ, q. 27, a. 3#arg. 2|Praeterea, amor sequitur cognitionem. Sed Deus per aliud cognoscitur, secundum illud Rom. I. *Invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Ergo etiam propter aliud amatur, et non propter se.]]
 ![[CERF IIa-IIæ, q. 27, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 27, a. 3#arg. 3|Praeterea, spes generat caritatem, ut dicitur in Glossa [[Mt 1]]. *Timor etiam caritatem introducit*; ut Augustinus dicit, super Prim. Canonic. Ioan. Sed spes expectat aliquid adipisci a Deo, timor autem refugit aliquid quod a Deo infligi potest. Ergo videtur quod Deus propter aliquod bonum speratum, vel propter aliquod malum timendum sit amandus. Non ergo est amandus propter seipsum.]]
+![[LEO IIa-IIæ, q. 27, a. 3#arg. 3|Praeterea, spes generat caritatem, ut dicitur in Glossa Matth. I. *Timor etiam caritatem introducit*; ut Augustinus dicit, super Prim. Canonic. Ioan. Sed spes expectat aliquid adipisci a Deo, timor autem refugit aliquid quod a Deo infligi potest. Ergo videtur quod Deus propter aliquod bonum speratum, vel propter aliquod malum timendum sit amandus. Non ergo est amandus propter seipsum.]]
 ![[CERF IIa-IIæ, q. 27, a. 3#arg. 3]]
 
 ###### s.c.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 27, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 27, a. 3#ad 2|Ad secundum dicendum quod cognitio Dei acquiritur quidem per alia, sed postquam iam cognoscitur, non per alia cognoscitur, sed per seipsum; secundum illud [[Jn 4]]. *Iam non propter tuam loquelam credimus, ipsi enim vidimus, et scimus quia hic est vere salvator mundi*.]]
+![[LEO IIa-IIæ, q. 27, a. 3#ad 2|Ad secundum dicendum quod cognitio Dei acquiritur quidem per alia, sed postquam iam cognoscitur, non per alia cognoscitur, sed per seipsum; secundum illud Ioan. IV. *Iam non propter tuam loquelam credimus, ipsi enim vidimus, et scimus quia hic est vere salvator mundi*.]]
 ![[CERF IIa-IIæ, q. 27, a. 3#ad 2]]
 
 ###### ad 3

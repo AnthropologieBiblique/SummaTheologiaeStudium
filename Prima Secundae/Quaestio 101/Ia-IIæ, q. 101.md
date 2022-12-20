@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 101#Prooemium|Consequenter considerandum est de praeceptis caeremonialibus. Et primo, de ipsis secundum se; secundo, de causa eorum; tertio, de duratione ipsorum. Circa primum quaeruntur quatuor. Primo, quae sit ratio praeceptorum caeremonialium. Secundo, utrum sint figuralia. Tertio, utrum debuerint esse multa. Quarto, de distinctione ipsorum.]]
-![[CERF Ia-IIæ, q. 101#Prooemium]]
+Consequenter considerandum est de praeceptis caeremonialibus. Et primo, de ipsis secundum se; secundo, de causa eorum; tertio, de duratione ipsorum. Circa primum quaeruntur quatuor. Primo, quae sit ratio praeceptorum caeremonialium. Secundo, utrum sint figuralia. Tertio, utrum debuerint esse multa. Quarto, de distinctione ipsorum.
 
 ![[Ia-IIæ, q. 101, a. 1#Articulus 1]]
 

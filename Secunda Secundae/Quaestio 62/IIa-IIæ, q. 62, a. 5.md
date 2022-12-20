@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 62, a. 5#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 62, a. 5#s.c.|Sed contra est quod dicitur [[Rm 13]], *reddite omnibus debita, cui tributum, tributum; cui vectigal, vectigal*.]]
+![[LEO IIa-IIæ, q. 62, a. 5#s.c.|Sed contra est quod dicitur Rom. XIII, *reddite omnibus debita, cui tributum, tributum; cui vectigal, vectigal*.]]
 ![[CERF IIa-IIæ, q. 62, a. 5#s.c.]]
 
 ###### resp.

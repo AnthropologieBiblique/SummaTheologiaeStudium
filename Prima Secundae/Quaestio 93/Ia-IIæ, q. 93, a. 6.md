@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 93, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod non omnes res humanae subiiciantur legi aeternae. Dicit enim apostolus, ad [[Ga 5]], *si spiritu ducimini, non estis sub lege*. Sed viri iusti, qui sunt filii Dei per adoptionem, spiritu Dei aguntur; secundum illud [[Rm 8]], *qui spiritu Dei aguntur, hi filii Dei sunt*. Ergo non omnes homines sunt sub lege aeterna.]]
+![[LEO Ia-IIæ, q. 93, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod non omnes res humanae subiiciantur legi aeternae. Dicit enim apostolus, ad Gal. V, *si spiritu ducimini, non estis sub lege*. Sed viri iusti, qui sunt filii Dei per adoptionem, spiritu Dei aguntur; secundum illud Rom. VIII, *qui spiritu Dei aguntur, hi filii Dei sunt*. Ergo non omnes homines sunt sub lege aeterna.]]
 ![[CERF Ia-IIæ, q. 93, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 93, a. 6#arg. 2|Praeterea, apostolus dicit, ad [[Rm 8]], *prudentia carnis inimica est Deo, legi enim Dei subiecta non est*. Sed multi homines sunt in quibus prudentia carnis dominatur. Ergo legi aeternae, quae est lex Dei, non subiiciuntur omnes homines.]]
+![[LEO Ia-IIæ, q. 93, a. 6#arg. 2|Praeterea, apostolus dicit, ad Rom. VIII, *prudentia carnis inimica est Deo, legi enim Dei subiecta non est*. Sed multi homines sunt in quibus prudentia carnis dominatur. Ergo legi aeternae, quae est lex Dei, non subiiciuntur omnes homines.]]
 ![[CERF Ia-IIæ, q. 93, a. 6#arg. 2]]
 
 ###### arg. 3

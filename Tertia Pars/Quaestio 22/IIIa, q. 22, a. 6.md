@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 22, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 22, a. 6#arg. 3|Praeterea, [[He 7]] dicitur, *quod est rex pacis; sine patre sine matre sine genealogia; neque initium dierum neque finem vitae habens*, quae quidem conveniunt soli filio Dei. Ergo non debet dici Christus sacerdos secundum ordinem Melchisedech tanquam cuiusdam alterius, sed secundum ordinem sui ipsius.]]
+![[LEO IIIa, q. 22, a. 6#arg. 3|Praeterea, Heb. VII dicitur, *quod est rex pacis; sine patre sine matre sine genealogia; neque initium dierum neque finem vitae habens*, quae quidem conveniunt soli filio Dei. Ergo non debet dici Christus sacerdos secundum ordinem Melchisedech tanquam cuiusdam alterius, sed secundum ordinem sui ipsius.]]
 ![[CERF IIIa, q. 22, a. 6#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 22, a. 6#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 22, a. 6#ad 3|Ad tertium dicendum quod Melchisedech dictus est sine patre et sine matre et sine genealogia, et quod non habet initium dierum neque finem non quia ista non habuit, sed quia in Scriptura sacra ista de eo non leguntur. Et per hoc ipsum, ut apostolus ibidem dicit, assimilatus est filio Dei, qui in terris est sine patre, et in caelis sine matre et sine genealogia, secundum illud [[Is 53]], *generationem eius quis enarrabit?* Et secundum divinitatem neque principium neque finem habet dierum.]]
+![[LEO IIIa, q. 22, a. 6#ad 3|Ad tertium dicendum quod Melchisedech dictus est sine patre et sine matre et sine genealogia, et quod non habet initium dierum neque finem non quia ista non habuit, sed quia in Scriptura sacra ista de eo non leguntur. Et per hoc ipsum, ut apostolus ibidem dicit, assimilatus est filio Dei, qui in terris est sine patre, et in caelis sine matre et sine genealogia, secundum illud Isaiae LIII, *generationem eius quis enarrabit?* Et secundum divinitatem neque principium neque finem habet dierum.]]
 ![[CERF IIIa, q. 22, a. 6#ad 3]]
 

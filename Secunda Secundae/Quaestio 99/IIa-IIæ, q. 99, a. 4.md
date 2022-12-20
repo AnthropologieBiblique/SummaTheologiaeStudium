@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 99, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 99, a. 4#arg. 2|Praeterea, idem peccatum non debet duplici poena puniri, secundum illud [[Na 1]], non consurget duplex tribulatio. Sed poena sacrilegii est excommunicatio, maior quidem si violentia inferatur in personam sacram, vel si aliquis incendat vel frangat Ecclesiam; minor autem in aliis sacrilegiis. Ergo non debet sacrilegium puniri poena pecuniaria.]]
+![[LEO IIa-IIæ, q. 99, a. 4#arg. 2|Praeterea, idem peccatum non debet duplici poena puniri, secundum illud Nahum I, non consurget duplex tribulatio. Sed poena sacrilegii est excommunicatio, maior quidem si violentia inferatur in personam sacram, vel si aliquis incendat vel frangat Ecclesiam; minor autem in aliis sacrilegiis. Ergo non debet sacrilegium puniri poena pecuniaria.]]
 ![[CERF IIa-IIæ, q. 99, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 99, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 99, a. 4#resp.|Respondeo dicendum quod in poenis infligendis duo sunt consideranda. Primo quidem, aequalitas, ad hoc quod poena sit iusta, ut scilicet in quo quis peccat, per hoc torqueatur, ut dicitur [[Sg 11]]. Et hoc modo conveniens poena sacrilegi, qui sacris iniuriam infert est excommunicatio, per quam a sacris arcetur. Secundo autem consideratur utilitas, nam poenae quasi medicinae quaedam infliguntur, ut his territi homines a peccando desistant. Sacrilegus autem, qui sacra non reveretur, non sufficienter videtur a peccando arceri per hoc quod ei sacra interdicuntur, de quibus non curat. Et ideo secundum leges humanas adhibetur capitis poena; secundum vero Ecclesiae sententiam, quae mortem corporalem non infligit, adhibetur pecuniaria poena, ut saltem poenis temporalibus homines a sacrilegiis revocentur.]]
+![[LEO IIa-IIæ, q. 99, a. 4#resp.|Respondeo dicendum quod in poenis infligendis duo sunt consideranda. Primo quidem, aequalitas, ad hoc quod poena sit iusta, ut scilicet in quo quis peccat, per hoc torqueatur, ut dicitur Sap. XI. Et hoc modo conveniens poena sacrilegi, qui sacris iniuriam infert est excommunicatio, per quam a sacris arcetur. Secundo autem consideratur utilitas, nam poenae quasi medicinae quaedam infliguntur, ut his territi homines a peccando desistant. Sacrilegus autem, qui sacra non reveretur, non sufficienter videtur a peccando arceri per hoc quod ei sacra interdicuntur, de quibus non curat. Et ideo secundum leges humanas adhibetur capitis poena; secundum vero Ecclesiae sententiam, quae mortem corporalem non infligit, adhibetur pecuniaria poena, ut saltem poenis temporalibus homines a sacrilegiis revocentur.]]
 ![[CERF IIa-IIæ, q. 99, a. 4#resp.]]
 
 ###### ad 1

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 36, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 36, a. 2#arg. 2|Praeterea, invidia est tristitia de alienis bonis, ut Damascenus dicit. Sed hoc quandoque laudabiliter fit, dicitur enim [[Pr 29]], *cum impii sumpserint principatum, gemet populus*. Ergo invidia non semper est peccatum.]]
+![[LEO IIa-IIæ, q. 36, a. 2#arg. 2|Praeterea, invidia est tristitia de alienis bonis, ut Damascenus dicit. Sed hoc quandoque laudabiliter fit, dicitur enim Prov. XXIX, *cum impii sumpserint principatum, gemet populus*. Ergo invidia non semper est peccatum.]]
 ![[CERF IIa-IIæ, q. 36, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 36, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 36, a. 2#s.c.|Sed contra est quod dicitur ad [[Ga 5]], *non efficiamur inanis gloriae cupidi, invicem provocantes, invicem invidentes*.]]
+![[LEO IIa-IIæ, q. 36, a. 2#s.c.|Sed contra est quod dicitur ad Gal. V, *non efficiamur inanis gloriae cupidi, invicem provocantes, invicem invidentes*.]]
 ![[CERF IIa-IIæ, q. 36, a. 2#s.c.]]
 
 ###### resp.

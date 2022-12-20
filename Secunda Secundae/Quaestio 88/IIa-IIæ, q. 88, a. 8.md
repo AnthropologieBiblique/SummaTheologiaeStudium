@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 88, a. 8#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 88, a. 8#s.c.|Sed contra est quod [[Nb 30]] mandatur quod, *si mulier in domo patris sui, et adhuc in puellari aetate, aliquid voverit*, non tenetur rea voti nisi pater eius consenserit. Et idem dicit de muliere habente virum. Ergo, pari ratione, nec aliae personae alterius potestati subiectae possunt se voto obligare.]]
+![[LEO IIa-IIæ, q. 88, a. 8#s.c.|Sed contra est quod Num. XXX mandatur quod, *si mulier in domo patris sui, et adhuc in puellari aetate, aliquid voverit*, non tenetur rea voti nisi pater eius consenserit. Et idem dicit de muliere habente virum. Ergo, pari ratione, nec aliae personae alterius potestati subiectae possunt se voto obligare.]]
 ![[CERF IIa-IIæ, q. 88, a. 8#s.c.]]
 
 ###### resp.

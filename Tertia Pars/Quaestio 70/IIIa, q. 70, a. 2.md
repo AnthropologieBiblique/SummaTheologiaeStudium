@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 70, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod circumcisio fuerit inconvenienter instituta. Sicut enim dictum est, in circumcisione fiebat quaedam professio fidei. Sed a peccato primi hominis nullus unquam salvari potuit nisi per fidem passionis Christi, secundum illud [[Rm 3]], *quem proposuit Deus propitiatorem per fidem in sanguine ipsius*. Ergo statim post peccatum primi hominis circumcisio institui debuit, et non tempore Abrahae.]]
+![[LEO IIIa, q. 70, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod circumcisio fuerit inconvenienter instituta. Sicut enim dictum est, in circumcisione fiebat quaedam professio fidei. Sed a peccato primi hominis nullus unquam salvari potuit nisi per fidem passionis Christi, secundum illud Rom. III, *quem proposuit Deus propitiatorem per fidem in sanguine ipsius*. Ergo statim post peccatum primi hominis circumcisio institui debuit, et non tempore Abrahae.]]
 ![[CERF IIIa, q. 70, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,15 +18,15 @@ tags :
 ![[CERF IIIa, q. 70, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 70, a. 2#arg. 4|Praeterea, carnalis circumcisio debet respondere spirituali sicut figura figurato. Sed spiritualis circumcisio, quae fit per Christum, indifferenter convenit utrique sexui, quia *in Christo Iesu non est masculus neque femina*, ut dicitur [[Col 3]]. Ergo inconvenienter est circumcisio instituta, quae competit solum maribus.]]
+![[LEO IIIa, q. 70, a. 2#arg. 4|Praeterea, carnalis circumcisio debet respondere spirituali sicut figura figurato. Sed spiritualis circumcisio, quae fit per Christum, indifferenter convenit utrique sexui, quia *in Christo Iesu non est masculus neque femina*, ut dicitur Coloss. III. Ergo inconvenienter est circumcisio instituta, quae competit solum maribus.]]
 ![[CERF IIIa, q. 70, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 70, a. 2#s.c.|Sed contra est quod, sicut legitur [[Gn 17]], circumcisio est instituta a Deo, cuius perfecta sunt opera.]]
+![[LEO IIIa, q. 70, a. 2#s.c.|Sed contra est quod, sicut legitur Gen. XVII, circumcisio est instituta a Deo, cuius perfecta sunt opera.]]
 ![[CERF IIIa, q. 70, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 70, a. 2#resp.|Respondeo dicendum quod, sicut dictum est, circumcisio erat praeparatoria ad Baptismum inquantum erat quaedam professio fidei Christi, quam et nos in Baptismo profitemur. Inter antiquos autem patres, primus Abraham promissionem accepit de Christo nascituro, cum dictum est ei, [[Gn 22]], *in semine tuo benedicentur omnes gentes terrae*. Et ipse etiam primus se a societate infidelium segregavit, secundum mandatum domini dicentis sibi, *egredere de terra tua et de cognatione tua*. Et ideo convenienter circumcisio fuit instituta in Abraham.]]
+![[LEO IIIa, q. 70, a. 2#resp.|Respondeo dicendum quod, sicut dictum est, circumcisio erat praeparatoria ad Baptismum inquantum erat quaedam professio fidei Christi, quam et nos in Baptismo profitemur. Inter antiquos autem patres, primus Abraham promissionem accepit de Christo nascituro, cum dictum est ei, Gen. XXII, *in semine tuo benedicentur omnes gentes terrae*. Et ipse etiam primus se a societate infidelium segregavit, secundum mandatum domini dicentis sibi, *egredere de terra tua et de cognatione tua*. Et ideo convenienter circumcisio fuit instituta in Abraham.]]
 ![[CERF IIIa, q. 70, a. 2#resp.]]
 
 ###### ad 1
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIIa, q. 70, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 70, a. 2#ad 3|Ad tertium dicendum quod Baptismus in se continet perfectionem salutis, ad quam Deus omnes homines vocat, secundum illud [[1 Tm 2]] *qui vult omnes homines salvos fieri*. Et ideo Baptismus omnibus populis proponitur. Circumcisio autem non continebat perfectionem salutis, sed significabat ipsam ut fiendam per Christum, qui erat ex Iudaeorum populo nasciturus. Et ideo illi soli populo data est circumcisio.]]
+![[LEO IIIa, q. 70, a. 2#ad 3|Ad tertium dicendum quod Baptismus in se continet perfectionem salutis, ad quam Deus omnes homines vocat, secundum illud I Tim. II *qui vult omnes homines salvos fieri*. Et ideo Baptismus omnibus populis proponitur. Circumcisio autem non continebat perfectionem salutis, sed significabat ipsam ut fiendam per Christum, qui erat ex Iudaeorum populo nasciturus. Et ideo illi soli populo data est circumcisio.]]
 ![[CERF IIIa, q. 70, a. 2#ad 3]]
 
 ###### ad 4

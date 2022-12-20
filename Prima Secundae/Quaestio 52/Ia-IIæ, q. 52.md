@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 52#Prooemium|Deinde considerandum est de augmento habituum. Et circa hoc quaeruntur tria. Primo, utrum habitus augeantur. Secundo, utrum augeantur per additionem. Tertio, utrum quilibet actus augeat habitum.]]
-![[CERF Ia-IIæ, q. 52#Prooemium]]
+Deinde considerandum est de augmento habituum. Et circa hoc quaeruntur tria. Primo, utrum habitus augeantur. Secundo, utrum augeantur per additionem. Tertio, utrum quilibet actus augeat habitum.
 
 ![[Ia-IIæ, q. 52, a. 1#Articulus 1]]
 

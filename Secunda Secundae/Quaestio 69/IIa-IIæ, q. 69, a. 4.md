@@ -10,19 +10,19 @@ tags :
 ![[CERF IIa-IIæ, q. 69, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 69, a. 4#arg. 2|Praeterea, sicut aliquis sententiam mortis contra se latam subterfugit resistendo, ita etiam fugiendo. Sed licitum esse videtur quod aliquis se a morte per fugam liberet, secundum illud [[Si 9]], *longe esto ab homine potestatem habente occidendi et non vivificandi*. Ergo etiam licitum est resistere.]]
+![[LEO IIa-IIæ, q. 69, a. 4#arg. 2|Praeterea, sicut aliquis sententiam mortis contra se latam subterfugit resistendo, ita etiam fugiendo. Sed licitum esse videtur quod aliquis se a morte per fugam liberet, secundum illud Eccli. IX, *longe esto ab homine potestatem habente occidendi et non vivificandi*. Ergo etiam licitum est resistere.]]
 ![[CERF IIa-IIæ, q. 69, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 69, a. 4#arg. 3|Praeterea, [[Pr 24]] dicitur, *erue eos qui ducuntur ad mortem, et eos qui trahuntur ad interitum liberare ne cesses*. Sed plus tenetur aliquis sibi quam alteri. Ergo licitum est quod aliquis condemnatus seipsum defendat ne in mortem tradatur.]]
+![[LEO IIa-IIæ, q. 69, a. 4#arg. 3|Praeterea, Prov. XXIV dicitur, *erue eos qui ducuntur ad mortem, et eos qui trahuntur ad interitum liberare ne cesses*. Sed plus tenetur aliquis sibi quam alteri. Ergo licitum est quod aliquis condemnatus seipsum defendat ne in mortem tradatur.]]
 ![[CERF IIa-IIæ, q. 69, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 69, a. 4#s.c.|Sed contra est quod dicit apostolus, [[Rm 13]], *qui potestati resistit, Dei ordinationi resistit, et ipse sibi damnationem acquirit*. Sed condemnatus se defendendo potestati resistit quantum ad hoc in quo est divinitus instituta ad vindictam malefactorum, laudem vero bonorum. Ergo peccat se defendendo.]]
+![[LEO IIa-IIæ, q. 69, a. 4#s.c.|Sed contra est quod dicit apostolus, Rom. XIII, *qui potestati resistit, Dei ordinationi resistit, et ipse sibi damnationem acquirit*. Sed condemnatus se defendendo potestati resistit quantum ad hoc in quo est divinitus instituta ad vindictam malefactorum, laudem vero bonorum. Ergo peccat se defendendo.]]
 ![[CERF IIa-IIæ, q. 69, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 69, a. 4#resp.|Respondeo dicendum quod aliquis damnatur ad mortem dupliciter. Uno modo, iuste. Et sic non licet condemnato se defendere, licitum enim est iudici eum resistentem impugnare; unde relinquitur quod ex parte eius sit bellum iniustum. Unde indubitanter peccat. Alio modo condemnatur aliquis iniuste. Et tale iudicium simile est violentiae latronum, secundum illud [[Ez 22]], *principes eius in medio eius quasi lupi rapientes praedam ad effundendum sanguinem*. Et ideo sicut licet resistere latronibus, ita licet resistere in tali casu malis principibus, nisi forte propter scandalum vitandum, cum ex hoc aliqua gravis turbatio timeretur.]]
+![[LEO IIa-IIæ, q. 69, a. 4#resp.|Respondeo dicendum quod aliquis damnatur ad mortem dupliciter. Uno modo, iuste. Et sic non licet condemnato se defendere, licitum enim est iudici eum resistentem impugnare; unde relinquitur quod ex parte eius sit bellum iniustum. Unde indubitanter peccat. Alio modo condemnatur aliquis iniuste. Et tale iudicium simile est violentiae latronum, secundum illud Ezech. XXII, *principes eius in medio eius quasi lupi rapientes praedam ad effundendum sanguinem*. Et ideo sicut licet resistere latronibus, ita licet resistere in tali casu malis principibus, nisi forte propter scandalum vitandum, cum ex hoc aliqua gravis turbatio timeretur.]]
 ![[CERF IIa-IIæ, q. 69, a. 4#resp.]]
 
 ###### ad 1

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 8, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 8, a. 7#arg. 2|Praeterea, [[Ac 15]] dicitur, *fide purificans corda eorum*. Sed per purificationem cordis acquiritur munditia cordis. Ergo praedicta beatitudo magis pertinet ad virtutem fidei quam ad donum intellectus.]]
+![[LEO IIa-IIæ, q. 8, a. 7#arg. 2|Praeterea, Act. XV dicitur, *fide purificans corda eorum*. Sed per purificationem cordis acquiritur munditia cordis. Ergo praedicta beatitudo magis pertinet ad virtutem fidei quam ad donum intellectus.]]
 ![[CERF IIa-IIæ, q. 8, a. 7#arg. 2]]
 
 ###### arg. 3

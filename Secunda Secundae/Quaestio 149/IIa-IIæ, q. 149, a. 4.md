@@ -6,19 +6,19 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 149, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod sobrietas magis requiratur in maioribus personis. Senectus enim excellentiam quandam homini praestat, unde et senibus reverentia et honor debetur, secundum illud [[Lv 19]], *coram cano capite consurge, et honora personam senis*. Sed apostolus specialiter senes dicit esse ad sobrietatem exhortandos, secundum illud [[Tt 2]], *senes, ut sobrii sint*. Ergo sobrietas maxime requiritur in excellentioribus personis.]]
+![[LEO IIa-IIæ, q. 149, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod sobrietas magis requiratur in maioribus personis. Senectus enim excellentiam quandam homini praestat, unde et senibus reverentia et honor debetur, secundum illud Levit. XIX, *coram cano capite consurge, et honora personam senis*. Sed apostolus specialiter senes dicit esse ad sobrietatem exhortandos, secundum illud Tit. II, *senes, ut sobrii sint*. Ergo sobrietas maxime requiritur in excellentioribus personis.]]
 ![[CERF IIa-IIæ, q. 149, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 149, a. 4#arg. 2|Praeterea, episcopus in Ecclesia excellentissimum gradum habet. Cui per apostolum indicitur sobrietas, secundum illud [[1 Tm 3]], *oportet episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem,* et cetera. Ergo sobrietas maxime requiritur in personis excellentibus.]]
+![[LEO IIa-IIæ, q. 149, a. 4#arg. 2|Praeterea, episcopus in Ecclesia excellentissimum gradum habet. Cui per apostolum indicitur sobrietas, secundum illud I ad Tim. III, *oportet episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem,* et cetera. Ergo sobrietas maxime requiritur in personis excellentibus.]]
 ![[CERF IIa-IIæ, q. 149, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 149, a. 4#arg. 3|Praeterea, sobrietas importat abstinentiam a vino. Sed vinum interdicitur regibus, qui tenent summum locum in rebus humanis, conceditur autem his qui sunt in statu deiectionis, secundum illud [[Pr 31]], *noli regibus dare vinum*; et postea subdit, *date siceram moerentibus, et vinum his qui amaro animo sunt*. Ergo sobrietas magis requiritur in excellentioribus personis.]]
+![[LEO IIa-IIæ, q. 149, a. 4#arg. 3|Praeterea, sobrietas importat abstinentiam a vino. Sed vinum interdicitur regibus, qui tenent summum locum in rebus humanis, conceditur autem his qui sunt in statu deiectionis, secundum illud Prov. XXXI, *noli regibus dare vinum*; et postea subdit, *date siceram moerentibus, et vinum his qui amaro animo sunt*. Ergo sobrietas magis requiritur in excellentioribus personis.]]
 ![[CERF IIa-IIæ, q. 149, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 149, a. 4#s.c.|Sed contra est quod apostolus, [[1 Tm 3]], dicit, *mulieres similiter pudicas, sobrias,* et cetera. Et [[Tt 2]] dicitur, *iuvenes similiter hortare ut sobrii sint*.]]
+![[LEO IIa-IIæ, q. 149, a. 4#s.c.|Sed contra est quod apostolus, I ad Tim. III, dicit, *mulieres similiter pudicas, sobrias,* et cetera. Et Tit. II dicitur, *iuvenes similiter hortare ut sobrii sint*.]]
 ![[CERF IIa-IIæ, q. 149, a. 4#s.c.]]
 
 ###### resp.

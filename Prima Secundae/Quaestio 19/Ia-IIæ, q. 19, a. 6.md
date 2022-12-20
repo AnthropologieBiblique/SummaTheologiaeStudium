@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 19, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 19, a. 6#s.c.|Sed contra, voluntas occidentium apostolos erat mala. Sed tamen concordabat rationi erranti ipsorum, secundum illud [[Jn 16]], *venit hora, ut omnis qui interficit vos, arbitretur obsequium se praestare Deo*. Ergo voluntas concordans rationi erranti, potest esse mala.]]
+![[LEO Ia-IIæ, q. 19, a. 6#s.c.|Sed contra, voluntas occidentium apostolos erat mala. Sed tamen concordabat rationi erranti ipsorum, secundum illud Ioan. XVI, *venit hora, ut omnis qui interficit vos, arbitretur obsequium se praestare Deo*. Ergo voluntas concordans rationi erranti, potest esse mala.]]
 ![[CERF Ia-IIæ, q. 19, a. 6#s.c.]]
 
 ###### resp.

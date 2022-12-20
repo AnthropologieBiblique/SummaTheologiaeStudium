@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 153, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 153, a. 3#s.c.|Sed contra est quod causa est potior effectu. Sed vinum prohibetur propter luxuriam, secundum illud apostoli, [[Ep 5]], *nolite inebriari vino, in quo est luxuria*. Ergo luxuria est prohibita.]]
+![[LEO IIa-IIæ, q. 153, a. 3#s.c.|Sed contra est quod causa est potior effectu. Sed vinum prohibetur propter luxuriam, secundum illud apostoli, Ephes. V, *nolite inebriari vino, in quo est luxuria*. Ergo luxuria est prohibita.]]
 ![[CERF IIa-IIæ, q. 153, a. 3#s.c.]]
 
 ###### s.c.

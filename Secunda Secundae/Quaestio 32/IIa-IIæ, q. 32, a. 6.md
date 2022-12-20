@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 32, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 32, a. 6#arg. 3|Praeterea, apostolus dicit, [[1 Tm 5]], *si quis suorum, et maxime domesticorum curam non habet, fidem negavit et est infideli deterior*. Sed quod aliquis det de his quae sunt sibi necessaria vel suis videtur derogare curae quam quis debet habere de se et de suis. Ergo videtur quod quicumque de necessariis eleemosynam dat, quod graviter peccet.]]
+![[LEO IIa-IIæ, q. 32, a. 6#arg. 3|Praeterea, apostolus dicit, I ad Tim. V, *si quis suorum, et maxime domesticorum curam non habet, fidem negavit et est infideli deterior*. Sed quod aliquis det de his quae sunt sibi necessaria vel suis videtur derogare curae quam quis debet habere de se et de suis. Ergo videtur quod quicumque de necessariis eleemosynam dat, quod graviter peccet.]]
 ![[CERF IIa-IIæ, q. 32, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 32, a. 6#s.c.|Sed contra est quod dominus dicit, [[Mt 19]], *si vis perfectus esse, vade et vende omnia quae habes, et da pauperibus*. Sed ille qui dat omnia quae habet pauperibus non solum dat superflua sed etiam necessaria. Ergo de necessariis potest homo eleemosynam dare.]]
+![[LEO IIa-IIæ, q. 32, a. 6#s.c.|Sed contra est quod dominus dicit, Matth. XIX, *si vis perfectus esse, vade et vende omnia quae habes, et da pauperibus*. Sed ille qui dat omnia quae habet pauperibus non solum dat superflua sed etiam necessaria. Ergo de necessariis potest homo eleemosynam dare.]]
 ![[CERF IIa-IIæ, q. 32, a. 6#s.c.]]
 
 ###### resp.

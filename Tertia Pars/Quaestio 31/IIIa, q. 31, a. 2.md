@@ -10,19 +10,19 @@ tags :
 ![[CERF IIIa, q. 31, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 31, a. 2#arg. 2|Praeterea, Aaron fuit de tribu levi, ut patet [[Ex 6]], Maria autem, mater Christi, cognata dicitur Elisabeth, quae est filia Aaron, ut patet [[Lc 1]]. Cum ergo David de tribu Iuda fuerit, ut patet [[Mt 1]], videtur quod Christus de semine David non descenderit.]]
+![[LEO IIIa, q. 31, a. 2#arg. 2|Praeterea, Aaron fuit de tribu levi, ut patet Exod. VI, Maria autem, mater Christi, cognata dicitur Elisabeth, quae est filia Aaron, ut patet Luc. I. Cum ergo David de tribu Iuda fuerit, ut patet Matth. I, videtur quod Christus de semine David non descenderit.]]
 ![[CERF IIIa, q. 31, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 31, a. 2#arg. 3|Praeterea, [[Jr 22]] dicitur de Iechonia, *scribe virum istum sterilem, nec enim erit de semine eius vir qui sedeat super solium David*. Sed de Christo dicitur [[Is 9]], *super solium David sedebit*. Ergo Christus non fuit de semine Iechoniae. Et per consequens nec de genere David, quia Matthaeus a David per Iechoniam seriem generationis perducit.]]
+![[LEO IIIa, q. 31, a. 2#arg. 3|Praeterea, Ierem. XXII dicitur de Iechonia, *scribe virum istum sterilem, nec enim erit de semine eius vir qui sedeat super solium David*. Sed de Christo dicitur Isaiae IX, *super solium David sedebit*. Ergo Christus non fuit de semine Iechoniae. Et per consequens nec de genere David, quia Matthaeus a David per Iechoniam seriem generationis perducit.]]
 ![[CERF IIIa, q. 31, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 31, a. 2#s.c.|Sed contra est quod dicitur [[Rm 1]], *qui factus est ei ex semine David secundum carnem*.]]
+![[LEO IIIa, q. 31, a. 2#s.c.|Sed contra est quod dicitur Rom. I, *qui factus est ei ex semine David secundum carnem*.]]
 ![[CERF IIIa, q. 31, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 31, a. 2#resp.|Respondeo dicendum quod Christus specialiter duorum antiquorum patrum filius dicitur esse, Abrahae scilicet et David, ut patet [[Mt 1]]. Cuius est multiplex ratio. Prima quidem, quia ad hos specialiter de Christo repromissio facta est. Dictum est enim Abrahae, [[Gn 22]], *benedicentur in semine tuo omnes gentes terrae*, quod apostolus de Christo exponit, dicens, Galat. III, *Abrahae dictae sunt promissiones, et semini eius. Non dicit et seminibus, quasi in multis, sed, quasi in uno, et semini tuo, qui est Christus*. Ad David autem dictum est, *de fructu ventris tui ponam super sedem tuam*. Unde et populi Iudaeorum, ut regem honorifice suscipientes, dicebant, [[Mt 1]], *hosanna filio David*. Secunda ratio est quia Christus futurus erat rex, propheta et sacerdos. Abraham autem sacerdos fuit, ut patet ex hoc quod dominus dixit ad eum, [[Gn 22]], *sume tibi vaccam triennem,* et cetera. Fuit etiam propheta, secundum id quod dicitur [[Gn 22]], *propheta est, et orabit pro te*. David autem rex fuit et propheta. Tertia ratio est quia in Abraham primo incoepit circumcisio, in David autem maxime manifestata est Dei electio, secundum illud quod dicitur [[1S 13]], *quaesivit sibi dominus virum iuxta cor suum*. Et ideo utriusque filius Christus specialissime dicitur, ut ostendatur esse in salutem circumcisioni et electioni gentilium.]]
+![[LEO IIIa, q. 31, a. 2#resp.|Respondeo dicendum quod Christus specialiter duorum antiquorum patrum filius dicitur esse, Abrahae scilicet et David, ut patet Matth. I. Cuius est multiplex ratio. Prima quidem, quia ad hos specialiter de Christo repromissio facta est. Dictum est enim Abrahae, Gen. XXII, *benedicentur in semine tuo omnes gentes terrae*, quod apostolus de Christo exponit, dicens, Galat. III, *Abrahae dictae sunt promissiones, et semini eius. Non dicit et seminibus, quasi in multis, sed, quasi in uno, et semini tuo, qui est Christus*. Ad David autem dictum est, *de fructu ventris tui ponam super sedem tuam*. Unde et populi Iudaeorum, ut regem honorifice suscipientes, dicebant, Matth. XXI, *hosanna filio David*. Secunda ratio est quia Christus futurus erat rex, propheta et sacerdos. Abraham autem sacerdos fuit, ut patet ex hoc quod dominus dixit ad eum, Gen. XV, *sume tibi vaccam triennem,* et cetera. Fuit etiam propheta, secundum id quod dicitur Gen. XX, *propheta est, et orabit pro te*. David autem rex fuit et propheta. Tertia ratio est quia in Abraham primo incoepit circumcisio, in David autem maxime manifestata est Dei electio, secundum illud quod dicitur I Reg. XIII, *quaesivit sibi dominus virum iuxta cor suum*. Et ideo utriusque filius Christus specialissime dicitur, ut ostendatur esse in salutem circumcisioni et electioni gentilium.]]
 ![[CERF IIIa, q. 31, a. 2#resp.]]
 
 ###### ad 1

@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 81, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod religio non ordinet hominem solum ad Deum. Dicitur enim [[Jc 1]], *religio munda et immaculata apud Deum et patrem haec est, visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc saeculo*. Sed visitare pupillos et viduas dicitur secundum ordinem ad proximum, quod autem dicit immaculatum se custodire ab hoc saeculo, pertinet ad ordinem quo ordinatur homo in seipso. Ergo religio non solum dicitur in ordine ad Deum.]]
+![[LEO IIa-IIæ, q. 81, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod religio non ordinet hominem solum ad Deum. Dicitur enim Iac. I, *religio munda et immaculata apud Deum et patrem haec est, visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc saeculo*. Sed visitare pupillos et viduas dicitur secundum ordinem ad proximum, quod autem dicit immaculatum se custodire ab hoc saeculo, pertinet ad ordinem quo ordinatur homo in seipso. Ergo religio non solum dicitur in ordine ad Deum.]]
 ![[CERF IIa-IIæ, q. 81, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 81, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 81, a. 1#arg. 3|Praeterea, ad religionem videtur latria pertinere. Latria autem interpretatur servitus, ut Augustinus dicit, in X de Civ. Dei. Servire autem debemus non solum Deo, sed etiam proximis, secundum illud [[Ga 5]], *per caritatem spiritus servite invicem*. Ergo religio importat etiam ordinem ad proximum.]]
+![[LEO IIa-IIæ, q. 81, a. 1#arg. 3|Praeterea, ad religionem videtur latria pertinere. Latria autem interpretatur servitus, ut Augustinus dicit, in X de Civ. Dei. Servire autem debemus non solum Deo, sed etiam proximis, secundum illud Gal. V, *per caritatem spiritus servite invicem*. Ergo religio importat etiam ordinem ad proximum.]]
 ![[CERF IIa-IIæ, q. 81, a. 1#arg. 3]]
 
 ###### arg. 4
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 81, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 81, a. 1#resp.|Respondeo dicendum quod, sicut Isidorus dicit, in libro Etymol., *religiosus, ut ait Cicero, a religione appellatus, qui retractat et tanquam relegit ea quae ad cultum divinum pertinent*. Et sic religio videtur dicta a religendo ea quae sunt divini cultus, quia huiusmodi sunt frequenter in corde revolvenda, secundum illud [[Pr 3]], *in omnibus viis tuis cogita illum*. Quamvis etiam possit intelligi religio ex hoc dicta quod *Deum reeligere debemus, quem amiseramus negligentes*, sicut Augustinus dicit, X de Civ. Dei. Vel potest intelligi religio a religando dicta, unde Augustinus dicit, in libro de vera Relig., *religet nos religio uni omnipotenti Deo*. Sive autem religio dicatur a frequenti lectione, sive ex iterata electione eius quod negligenter amissum est, sive a religatione, religio proprie importat ordinem ad Deum. Ipse enim est cui principaliter alligari debemus, tanquam indeficienti principio; ad quem etiam nostra electio assidue dirigi debet, sicut in ultimum finem; quem etiam negligenter peccando amittimus, et credendo et fidem protestando recuperare debemus.]]
+![[LEO IIa-IIæ, q. 81, a. 1#resp.|Respondeo dicendum quod, sicut Isidorus dicit, in libro Etymol., *religiosus, ut ait Cicero, a religione appellatus, qui retractat et tanquam relegit ea quae ad cultum divinum pertinent*. Et sic religio videtur dicta a religendo ea quae sunt divini cultus, quia huiusmodi sunt frequenter in corde revolvenda, secundum illud Prov. III, *in omnibus viis tuis cogita illum*. Quamvis etiam possit intelligi religio ex hoc dicta quod *Deum reeligere debemus, quem amiseramus negligentes*, sicut Augustinus dicit, X de Civ. Dei. Vel potest intelligi religio a religando dicta, unde Augustinus dicit, in libro de vera Relig., *religet nos religio uni omnipotenti Deo*. Sive autem religio dicatur a frequenti lectione, sive ex iterata electione eius quod negligenter amissum est, sive a religatione, religio proprie importat ordinem ad Deum. Ipse enim est cui principaliter alligari debemus, tanquam indeficienti principio; ad quem etiam nostra electio assidue dirigi debet, sicut in ultimum finem; quem etiam negligenter peccando amittimus, et credendo et fidem protestando recuperare debemus.]]
 ![[CERF IIa-IIæ, q. 81, a. 1#resp.]]
 
 ###### ad 1
@@ -50,6 +50,6 @@ tags :
 ![[CERF IIa-IIæ, q. 81, a. 1#ad 4]]
 
 ###### ad 5
-![[LEO IIa-IIæ, q. 81, a. 1#ad 5|Ad quintum dicendum quod quamvis religiosi dici possint communiter omnes qui Deum colunt, specialiter tamen religiosi dicuntur qui totam vitam suam divino cultui dedicant, a mundanis negotiis se abstrahentes. Sicut etiam contemplativi dicuntur non qui contemplantur, sed qui contemplationi totam vitam suam deputant. Huiusmodi autem non se subiiciunt homini propter hominem sed propter Deum, secundum illud apostoli, [[Ga 4]], *sicut Angelum Dei excepistis me, sicut Christum Iesum*.]]
+![[LEO IIa-IIæ, q. 81, a. 1#ad 5|Ad quintum dicendum quod quamvis religiosi dici possint communiter omnes qui Deum colunt, specialiter tamen religiosi dicuntur qui totam vitam suam divino cultui dedicant, a mundanis negotiis se abstrahentes. Sicut etiam contemplativi dicuntur non qui contemplantur, sed qui contemplationi totam vitam suam deputant. Huiusmodi autem non se subiiciunt homini propter hominem sed propter Deum, secundum illud apostoli, Gal. IV, *sicut Angelum Dei excepistis me, sicut Christum Iesum*.]]
 ![[CERF IIa-IIæ, q. 81, a. 1#ad 5]]
 

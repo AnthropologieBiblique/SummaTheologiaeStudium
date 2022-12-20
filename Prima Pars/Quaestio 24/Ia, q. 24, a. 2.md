@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 24, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 24, a. 2#arg. 3|Praeterea, aliqui eliguntur ad gratiam, qui non eliguntur ad vitam gloriae; ut patet per id quod dicitur [[Jn 6]], *nonne duodecim vos elegi, et unus ex vobis Diabolus est?* Sed liber vitae est conscriptio electionis divinae, ut dictum est. Ergo etiam est respectu vitae gratiae.]]
+![[LEO Ia, q. 24, a. 2#arg. 3|Praeterea, aliqui eliguntur ad gratiam, qui non eliguntur ad vitam gloriae; ut patet per id quod dicitur Ioan. VI, *nonne duodecim vos elegi, et unus ex vobis Diabolus est?* Sed liber vitae est conscriptio electionis divinae, ut dictum est. Ergo etiam est respectu vitae gratiae.]]
 ![[CERF Ia, q. 24, a. 2#arg. 3]]
 
 ###### s.c.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 20, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod tota bonitas et malitia actus exterioris dependeat ex voluntate. Dicitur enim [[Mt 7]], *non potest arbor bona malos fructus facere, nec arbor mala facere fructus bonos*. Per arborem autem intelligitur voluntas, et per fructum opus, secundum Glossam. Ergo non potest esse quod voluntas interior sit bona, et actus exterior sit malus; aut e converso.]]
+![[LEO Ia-IIæ, q. 20, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod tota bonitas et malitia actus exterioris dependeat ex voluntate. Dicitur enim Matth. VII, *non potest arbor bona malos fructus facere, nec arbor mala facere fructus bonos*. Per arborem autem intelligitur voluntas, et per fructum opus, secundum Glossam. Ergo non potest esse quod voluntas interior sit bona, et actus exterior sit malus; aut e converso.]]
 ![[CERF Ia-IIæ, q. 20, a. 2#arg. 1]]
 
 ###### arg. 2

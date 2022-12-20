@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 60, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod non sit semper secundum leges scriptas iudicandum. Semper enim vitandum est iniustum iudicium. Sed quandoque leges scriptae iniustitiam continent, secundum illud [[Is 10]], *vae qui condunt leges iniquas, et scribentes iniustitias scripserunt*. Ergo non semper est secundum leges scriptas iudicandum.]]
+![[LEO IIa-IIæ, q. 60, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod non sit semper secundum leges scriptas iudicandum. Semper enim vitandum est iniustum iudicium. Sed quandoque leges scriptae iniustitiam continent, secundum illud Isaiae X, *vae qui condunt leges iniquas, et scribentes iniustitias scripserunt*. Ergo non semper est secundum leges scriptas iudicandum.]]
 ![[CERF IIa-IIæ, q. 60, a. 5#arg. 1]]
 
 ###### arg. 2

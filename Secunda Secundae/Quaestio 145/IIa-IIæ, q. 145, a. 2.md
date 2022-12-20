@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 145, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 145, a. 2#arg. 3|Praeterea, honestum est idem virtuti, ut supra dictum est. Sed aliquis decor contrariatur virtuti, unde dicitur [[Ez 16]], *habens fiduciam in pulchritudine tua, fornicata es in nomine tuo*. Ergo honestum non est idem decoro.]]
+![[LEO IIa-IIæ, q. 145, a. 2#arg. 3|Praeterea, honestum est idem virtuti, ut supra dictum est. Sed aliquis decor contrariatur virtuti, unde dicitur Ezech. XVI, *habens fiduciam in pulchritudine tua, fornicata es in nomine tuo*. Ergo honestum non est idem decoro.]]
 ![[CERF IIa-IIæ, q. 145, a. 2#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 145, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 145, a. 2#ad 3|Ad tertium dicendum quod obiectio illa procedit de pulchritudine corporali. Quamvis possit dici quod etiam propter pulchritudinem spiritualem aliquis spiritualiter fornicatur, inquantum de ipsa honestate superbit, secundum illud [[Ez 28]], *elevatum est cor tuum in decore tuo, perdidisti sapientiam tuam in decore tuo*.]]
+![[LEO IIa-IIæ, q. 145, a. 2#ad 3|Ad tertium dicendum quod obiectio illa procedit de pulchritudine corporali. Quamvis possit dici quod etiam propter pulchritudinem spiritualem aliquis spiritualiter fornicatur, inquantum de ipsa honestate superbit, secundum illud Ezech. XXVIII, *elevatum est cor tuum in decore tuo, perdidisti sapientiam tuam in decore tuo*.]]
 ![[CERF IIa-IIæ, q. 145, a. 2#ad 3]]
 

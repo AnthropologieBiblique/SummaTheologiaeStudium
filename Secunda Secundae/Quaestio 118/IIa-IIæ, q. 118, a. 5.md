@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 118, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod avaritia sit maximum peccatorum. Dicitur enim [[Si 10]], *avaro nihil est scelestius*; et postea subditur, *nihil est iniquius quam amare pecuniam, hic enim et animam suam venalem habet*. Et Tullius dicit, in I de Offic., *nihil est tam angusti animi, tamque parvi, quam amare pecuniam*. Sed hoc pertinet ad avaritiam. Ergo avaritia est gravissimum peccatorum.]]
+![[LEO IIa-IIæ, q. 118, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod avaritia sit maximum peccatorum. Dicitur enim Eccli. X, *avaro nihil est scelestius*; et postea subditur, *nihil est iniquius quam amare pecuniam, hic enim et animam suam venalem habet*. Et Tullius dicit, in I de Offic., *nihil est tam angusti animi, tamque parvi, quam amare pecuniam*. Sed hoc pertinet ad avaritiam. Ergo avaritia est gravissimum peccatorum.]]
 ![[CERF IIa-IIæ, q. 118, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 118, a. 5#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 118, a. 5#arg. 4|Praeterea, apostolus dicit, ad [[Ep 5]], quod avaritia est idolorum servitus. Sed idololatria computatur inter gravissima peccata. Ergo et avaritia.]]
+![[LEO IIa-IIæ, q. 118, a. 5#arg. 4|Praeterea, apostolus dicit, ad Ephes. V, quod avaritia est idolorum servitus. Sed idololatria computatur inter gravissima peccata. Ergo et avaritia.]]
 ![[CERF IIa-IIæ, q. 118, a. 5#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 118, a. 5#s.c.|Sed contra est quod adulterium est gravius peccatum quam furtum, ut habetur [[Pr 6]]. Furtum autem pertinet ad avaritiam. Ergo avaritia non est gravissimum peccatorum.]]
+![[LEO IIa-IIæ, q. 118, a. 5#s.c.|Sed contra est quod adulterium est gravius peccatum quam furtum, ut habetur Prov. VI. Furtum autem pertinet ad avaritiam. Ergo avaritia non est gravissimum peccatorum.]]
 ![[CERF IIa-IIæ, q. 118, a. 5#s.c.]]
 
 ###### resp.

@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 48, a. 3#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 48, a. 3#resp.|Respondeo dicendum quod mens vel ratio quamvis non utatur organo corporali in suo proprio actu; tamen, quia indiget ad sui actum quibusdam viribus sensitivis, quorum actus impediuntur corpore perturbato; necesse est quod perturbationes corporales etiam iudicium rationis impediant, sicut patet in ebrietate et somno. Dictum est autem quod ira maxime facit perturbationem corporalem circa cor, ita ut etiam usque ad exteriora membra derivetur. Unde ira, inter ceteras passiones, manifestius impedit iudicium rationis; secundum illud [[Ps 30]], *conturbatus est in ira oculus meus*.]]
+![[LEO Ia-IIæ, q. 48, a. 3#resp.|Respondeo dicendum quod mens vel ratio quamvis non utatur organo corporali in suo proprio actu; tamen, quia indiget ad sui actum quibusdam viribus sensitivis, quorum actus impediuntur corpore perturbato; necesse est quod perturbationes corporales etiam iudicium rationis impediant, sicut patet in ebrietate et somno. Dictum est autem quod ira maxime facit perturbationem corporalem circa cor, ita ut etiam usque ad exteriora membra derivetur. Unde ira, inter ceteras passiones, manifestius impedit iudicium rationis; secundum illud Psalmi XXX, *conturbatus est in ira oculus meus*.]]
 ![[CERF Ia-IIæ, q. 48, a. 3#resp.]]
 
 ###### ad 1

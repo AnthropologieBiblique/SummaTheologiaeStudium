@@ -10,15 +10,15 @@ tags :
 ![[CERF IIIa, q. 15, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 15, a. 2#arg. 2|Praeterea, sicut Damascenus dicit, in III libro, *beneplacito divinae voluntatis permittebatur caro Christi pati et operari quae propria*. Sed proprium est carni ut concupiscat delectabilia sibi. Cum ergo nihil aliud sit fomes quam concupiscentia, ut dicitur in Glossa, [[Rm 7]], videtur quod in Christo fuerit fomes peccati.]]
+![[LEO IIIa, q. 15, a. 2#arg. 2|Praeterea, sicut Damascenus dicit, in III libro, *beneplacito divinae voluntatis permittebatur caro Christi pati et operari quae propria*. Sed proprium est carni ut concupiscat delectabilia sibi. Cum ergo nihil aliud sit fomes quam concupiscentia, ut dicitur in Glossa, Rom. VII, videtur quod in Christo fuerit fomes peccati.]]
 ![[CERF IIIa, q. 15, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 15, a. 2#arg. 3|Praeterea, ratione fomitis *caro concupiscit adversus spiritum*, ut dicitur Galat. V. Sed tanto spiritus ostenditur esse fortior et magis dignus corona, quanto magis super hostem, scilicet concupiscentiam carnis, dominatur, secundum illud [[2 Tm 2]], *non coronabitur nisi qui legitime certaverit*. Christus autem habuit fortissimum et victoriosissimum spiritum, et maxime dignum corona, secundum illud [[Ap 6]], *data est ei corona, et exivit vincens, ut vinceret*. Videtur ergo quod in Christo debuerit esse maxime fomes peccati.]]
+![[LEO IIIa, q. 15, a. 2#arg. 3|Praeterea, ratione fomitis *caro concupiscit adversus spiritum*, ut dicitur Galat. V. Sed tanto spiritus ostenditur esse fortior et magis dignus corona, quanto magis super hostem, scilicet concupiscentiam carnis, dominatur, secundum illud II Tim. II, *non coronabitur nisi qui legitime certaverit*. Christus autem habuit fortissimum et victoriosissimum spiritum, et maxime dignum corona, secundum illud Apoc. VI, *data est ei corona, et exivit vincens, ut vinceret*. Videtur ergo quod in Christo debuerit esse maxime fomes peccati.]]
 ![[CERF IIIa, q. 15, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 15, a. 2#s.c.|Sed contra est quod dicitur [[Mt 1]], *quod in ea natum est, de spiritu sancto est*. Sed spiritus sanctus excludit peccatum, et inclinationem peccati, quae importatur nomine fomitis. Ergo in Christo non fuit fomes peccati.]]
+![[LEO IIIa, q. 15, a. 2#s.c.|Sed contra est quod dicitur Matth. I, *quod in ea natum est, de spiritu sancto est*. Sed spiritus sanctus excludit peccatum, et inclinationem peccati, quae importatur nomine fomitis. Ergo in Christo non fuit fomes peccati.]]
 ![[CERF IIIa, q. 15, a. 2#s.c.]]
 
 ###### resp.

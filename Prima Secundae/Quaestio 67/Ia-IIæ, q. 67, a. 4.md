@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia-IIæ, q. 67, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 67, a. 4#arg. 3|Praeterea, sicut spes est futuri boni, ita et desiderium. Sed in beatis est desiderium futuri boni, et quantum ad gloriam corporis, quam animae beatorum desiderant, ut dicit Augustinus, XII super Gen. ad Litt.; et etiam quantum ad gloriam animae, secundum illud [[Si 24]], *qui edunt me, adhuc esurient, et qui bibunt me, adhuc sitient*; et I Petr. I, dicitur, *in quem desiderant Angeli prospicere*. Ergo videtur quod possit esse spes post hanc vitam in beatis.]]
+![[LEO Ia-IIæ, q. 67, a. 4#arg. 3|Praeterea, sicut spes est futuri boni, ita et desiderium. Sed in beatis est desiderium futuri boni, et quantum ad gloriam corporis, quam animae beatorum desiderant, ut dicit Augustinus, XII super Gen. ad Litt.; et etiam quantum ad gloriam animae, secundum illud Eccli. XXIV, *qui edunt me, adhuc esurient, et qui bibunt me, adhuc sitient*; et I Petr. I, dicitur, *in quem desiderant Angeli prospicere*. Ergo videtur quod possit esse spes post hanc vitam in beatis.]]
 ![[CERF Ia-IIæ, q. 67, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 67, a. 4#s.c.|Sed contra est quod apostolus dicit, [[Rm 8]], *quod videt quis, quid sperat?* Sed beati vident id quod est obiectum spei, scilicet Deum. Ergo non sperant.]]
+![[LEO Ia-IIæ, q. 67, a. 4#s.c.|Sed contra est quod apostolus dicit, Rom. VIII, *quod videt quis, quid sperat?* Sed beati vident id quod est obiectum spei, scilicet Deum. Ergo non sperant.]]
 ![[CERF Ia-IIæ, q. 67, a. 4#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 25, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod homo non debeat corpus suum ex caritate diligere. Non enim diligimus illum cui convivere non volumus. Sed homines caritatem habentes refugiunt corporis convictum, secundum illud [[Rm 7]], *quis me liberabit de corpore mortis huius?* Et [[Ph 1]], *desiderium habens dissolvi et cum Christo esse*. Ergo corpus nostrum non est ex caritate diligendum.]]
+![[LEO IIa-IIæ, q. 25, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod homo non debeat corpus suum ex caritate diligere. Non enim diligimus illum cui convivere non volumus. Sed homines caritatem habentes refugiunt corporis convictum, secundum illud Rom. VII, *quis me liberabit de corpore mortis huius?* Et Philipp. I, *desiderium habens dissolvi et cum Christo esse*. Ergo corpus nostrum non est ex caritate diligendum.]]
 ![[CERF IIa-IIæ, q. 25, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 25, a. 5#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 25, a. 5#resp.|Respondeo dicendum quod corpus nostrum secundum duo potest considerari, uno modo, secundum eius naturam; alio modo, secundum corruptionem culpae et poenae. Natura autem corporis nostri non est a malo principio creata, ut Manichaei fabulantur, sed est a Deo. Unde possumus eo uti ad servitium Dei, secundum illud [[Rm 6]], *exhibete membra vestra arma iustitiae Deo*. Et ideo ex dilectione caritatis qua diligimus Deum, debemus etiam corpus nostrum diligere. Sed infectionem culpae et corruptionem poenae in corpore nostro diligere non debemus, sed potius ad eius remotionem anhelare desiderio caritatis.]]
+![[LEO IIa-IIæ, q. 25, a. 5#resp.|Respondeo dicendum quod corpus nostrum secundum duo potest considerari, uno modo, secundum eius naturam; alio modo, secundum corruptionem culpae et poenae. Natura autem corporis nostri non est a malo principio creata, ut Manichaei fabulantur, sed est a Deo. Unde possumus eo uti ad servitium Dei, secundum illud Rom. VI, *exhibete membra vestra arma iustitiae Deo*. Et ideo ex dilectione caritatis qua diligimus Deum, debemus etiam corpus nostrum diligere. Sed infectionem culpae et corruptionem poenae in corpore nostro diligere non debemus, sed potius ad eius remotionem anhelare desiderio caritatis.]]
 ![[CERF IIa-IIæ, q. 25, a. 5#resp.]]
 
 ###### ad 1

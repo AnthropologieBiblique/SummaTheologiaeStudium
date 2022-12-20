@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 64, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non sit licitum occidere homines peccatores. Dominus enim, [[Mt 13]], in parabola, prohibuit extirpare zizania, qui sunt filii nequam, ut ibidem dicitur. Sed omne quod est prohibitum a Deo est peccatum. Ergo occidere peccatorem est peccatum.]]
+![[LEO IIa-IIæ, q. 64, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non sit licitum occidere homines peccatores. Dominus enim, Matth. XIII, in parabola, prohibuit extirpare zizania, qui sunt filii nequam, ut ibidem dicitur. Sed omne quod est prohibitum a Deo est peccatum. Ergo occidere peccatorem est peccatum.]]
 ![[CERF IIa-IIæ, q. 64, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 64, a. 2#arg. 2|Praeterea, iustitia humana conformatur iustitiae divinae. Sed secundum divinam iustitiam peccatores ad poenitentiam reservantur, secundum illud [[Ez 18]], *nolo mortem peccatoris, sed ut convertatur et vivat*. Ergo videtur esse omnino iniustum quod peccatores occidantur.]]
+![[LEO IIa-IIæ, q. 64, a. 2#arg. 2|Praeterea, iustitia humana conformatur iustitiae divinae. Sed secundum divinam iustitiam peccatores ad poenitentiam reservantur, secundum illud Ezech. XVIII, *nolo mortem peccatoris, sed ut convertatur et vivat*. Ergo videtur esse omnino iniustum quod peccatores occidantur.]]
 ![[CERF IIa-IIæ, q. 64, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 64, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 64, a. 2#s.c.|Sed contra est quod dicitur [[Ex 22]], *maleficos non patieris vivere*; et in Psalm., *in matutino interficiebam omnes peccatores terrae*.]]
+![[LEO IIa-IIæ, q. 64, a. 2#s.c.|Sed contra est quod dicitur Exod. XXII, *maleficos non patieris vivere*; et in Psalm., *in matutino interficiebam omnes peccatores terrae*.]]
 ![[CERF IIa-IIæ, q. 64, a. 2#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 64, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 64, a. 2#ad 3|Ad tertium dicendum quod homo peccando ab ordine rationis recedit, et ideo decidit a dignitate humana, prout scilicet homo est naturaliter liber et propter seipsum existens, et incidit quodammodo in servitutem bestiarum, ut scilicet de ipso ordinetur secundum quod est utile aliis; secundum illud Psalm., *homo, cum in honore esset, non intellexit, comparatus est iumentis insipientibus, et similis factus est illis*; et [[Pr 11]] dicitur, *qui stultus est serviet sapienti*. Et ideo quamvis hominem in sua dignitate manentem occidere sit secundum se malum, tamen hominem peccatorem occidere potest esse bonum, sicut occidere bestiam, peior enim est malus homo bestia, et plus nocet, ut philosophus dicit, in I Polit. et in VII Ethic.]]
+![[LEO IIa-IIæ, q. 64, a. 2#ad 3|Ad tertium dicendum quod homo peccando ab ordine rationis recedit, et ideo decidit a dignitate humana, prout scilicet homo est naturaliter liber et propter seipsum existens, et incidit quodammodo in servitutem bestiarum, ut scilicet de ipso ordinetur secundum quod est utile aliis; secundum illud Psalm., *homo, cum in honore esset, non intellexit, comparatus est iumentis insipientibus, et similis factus est illis*; et Prov. XI dicitur, *qui stultus est serviet sapienti*. Et ideo quamvis hominem in sua dignitate manentem occidere sit secundum se malum, tamen hominem peccatorem occidere potest esse bonum, sicut occidere bestiam, peior enim est malus homo bestia, et plus nocet, ut philosophus dicit, in I Polit. et in VII Ethic.]]
 ![[CERF IIa-IIæ, q. 64, a. 2#ad 3]]
 

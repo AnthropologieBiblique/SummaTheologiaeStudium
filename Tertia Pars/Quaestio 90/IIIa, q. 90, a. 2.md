@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 90, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 90, a. 2#arg. 3|Praeterea, non est idem fructus rei et pars. Sed satisfactio est fructus poenitentiae, secundum illud [[Lc 3]], *facite vobis dignos fructus poenitentiae*. Ergo non est pars poenitentiae.]]
+![[LEO IIIa, q. 90, a. 2#arg. 3|Praeterea, non est idem fructus rei et pars. Sed satisfactio est fructus poenitentiae, secundum illud Luc. III, *facite vobis dignos fructus poenitentiae*. Ergo non est pars poenitentiae.]]
 ![[CERF IIIa, q. 90, a. 2#arg. 3]]
 
 ###### arg. 4

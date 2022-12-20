@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 21, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 21, a. 1#s.c.|Sed contra est quod dicitur [[Lc 6]], *factum est in illis diebus, exiit in montem orare, et erat pernoctans in oratione Dei*.]]
+![[LEO IIIa, q. 21, a. 1#s.c.|Sed contra est quod dicitur Luc. VI, *factum est in illis diebus, exiit in montem orare, et erat pernoctans in oratione Dei*.]]
 ![[CERF IIIa, q. 21, a. 1#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 21, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 21, a. 1#ad 1|Ad primum ergo dicendum quod Christus poterat perficere omnia quae volebat secundum quod Deus, non autem secundum quod homo, quia, secundum quod homo, non habuit omnipotentiam, ut supra habitum est. Nihilominus tamen, idem ipse Deus existens et homo, voluit ad patrem orationem porrigere, non quasi ipse esset impotens, sed propter nostram instructionem. Primo quidem, ut ostenderet se esse a patre. Unde ipse dicit, [[Jn 11]], propter populum qui circumstat dixi, scilicet verba orationis, *ut credant quia tu me misisti*. Unde Hilarius, in X de Trin., dicit, *non prece eguit, nobis oravit, ne filius ignoraretur*. Secundo, ut nobis exemplum daret. Unde Ambrosius dicit, super Luc., *noli insidiatrices aperire aures, ut putes filium Dei quasi infirmum rogare, ut impetret quod implere non possit. Potestatis enim auctor, obedientiae magister, ad praecepta virtutis suo nos informat exemplo*. Unde et Augustinus dicit, super Ioan., *poterat dominus in forma servi, si hoc opus esset, orare silentio. Sed ita se patri voluit exhibere precatorem, ut meminisset nostrum se esse doctorem*.]]
+![[LEO IIIa, q. 21, a. 1#ad 1|Ad primum ergo dicendum quod Christus poterat perficere omnia quae volebat secundum quod Deus, non autem secundum quod homo, quia, secundum quod homo, non habuit omnipotentiam, ut supra habitum est. Nihilominus tamen, idem ipse Deus existens et homo, voluit ad patrem orationem porrigere, non quasi ipse esset impotens, sed propter nostram instructionem. Primo quidem, ut ostenderet se esse a patre. Unde ipse dicit, Ioan. XI, propter populum qui circumstat dixi, scilicet verba orationis, *ut credant quia tu me misisti*. Unde Hilarius, in X de Trin., dicit, *non prece eguit, nobis oravit, ne filius ignoraretur*. Secundo, ut nobis exemplum daret. Unde Ambrosius dicit, super Luc., *noli insidiatrices aperire aures, ut putes filium Dei quasi infirmum rogare, ut impetret quod implere non possit. Potestatis enim auctor, obedientiae magister, ad praecepta virtutis suo nos informat exemplo*. Unde et Augustinus dicit, super Ioan., *poterat dominus in forma servi, si hoc opus esset, orare silentio. Sed ita se patri voluit exhibere precatorem, ut meminisset nostrum se esse doctorem*.]]
 ![[CERF IIIa, q. 21, a. 1#ad 1]]
 
 ###### ad 2

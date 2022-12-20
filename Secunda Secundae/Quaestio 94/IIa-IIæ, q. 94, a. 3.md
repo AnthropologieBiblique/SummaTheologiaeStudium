@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 94, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 94, a. 3#arg. 3|Praeterea, minora mala maioribus malis puniri videntur. Sed peccatum idololatriae punitum est peccato contra naturam, ut dicitur [[Rm 1]]. Ergo peccatum contra naturam est gravius peccato idololatriae.]]
+![[LEO IIa-IIæ, q. 94, a. 3#arg. 3|Praeterea, minora mala maioribus malis puniri videntur. Sed peccatum idololatriae punitum est peccato contra naturam, ut dicitur Rom. I. Ergo peccatum contra naturam est gravius peccato idololatriae.]]
 ![[CERF IIa-IIæ, q. 94, a. 3#arg. 3]]
 
 ###### arg. 4
@@ -22,11 +22,11 @@ tags :
 ![[CERF IIa-IIæ, q. 94, a. 3#arg. 4]]
 
 ###### arg. 5
-![[LEO IIa-IIæ, q. 94, a. 3#arg. 5|Praeterea, super illud [[Ga 4]], *quomodo convertimini iterum ad infirma et egena elementa?* Dicit Glossa Hieronymi, *legis observantia, cui dediti tunc erant, erat peccatum paene par servituti idolorum, cui ante conversionem vacaverant*. Non ergo peccatum idololatriae est gravissimum.]]
+![[LEO IIa-IIæ, q. 94, a. 3#arg. 5|Praeterea, super illud Gal. IV, *quomodo convertimini iterum ad infirma et egena elementa?* Dicit Glossa Hieronymi, *legis observantia, cui dediti tunc erant, erat peccatum paene par servituti idolorum, cui ante conversionem vacaverant*. Non ergo peccatum idololatriae est gravissimum.]]
 ![[CERF IIa-IIæ, q. 94, a. 3#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 94, a. 3#s.c.|Sed contra est quod [[Lv 15]], super illud quod dicitur de immunditia mulieris patientis fluxum sanguinis, dicit Glossa, *omne peccatum est immunditia animae, sed idololatria maxime*.]]
+![[LEO IIa-IIæ, q. 94, a. 3#s.c.|Sed contra est quod Levit. XV, super illud quod dicitur de immunditia mulieris patientis fluxum sanguinis, dicit Glossa, *omne peccatum est immunditia animae, sed idololatria maxime*.]]
 ![[CERF IIa-IIæ, q. 94, a. 3#s.c.]]
 
 ###### resp.

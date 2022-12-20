@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 12, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod nullus intellectus creatus possit Deum per essentiam videre. Chrysostomus enim, super Ioannem, exponens illud quod dicitur [[Jn 1]], *Deum nemo vidit unquam*, sic dicit, *ipsum quod est Deus, non solum prophetae, sed nec Angeli viderunt nec Archangeli, quod enim creabilis est naturae, qualiter videre poterit quod increabile est?* Dionysius etiam, I cap. de Div. Nom., loquens de Deo, dicit, *neque sensus est eius, neque phantasia, neque opinio, nec ratio, nec scientia*.]]
+![[LEO Ia, q. 12, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod nullus intellectus creatus possit Deum per essentiam videre. Chrysostomus enim, super Ioannem, exponens illud quod dicitur Ioan. I, *Deum nemo vidit unquam*, sic dicit, *ipsum quod est Deus, non solum prophetae, sed nec Angeli viderunt nec Archangeli, quod enim creabilis est naturae, qualiter videre poterit quod increabile est?* Dionysius etiam, I cap. de Div. Nom., loquens de Deo, dicit, *neque sensus est eius, neque phantasia, neque opinio, nec ratio, nec scientia*.]]
 ![[CERF Ia, q. 12, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 12, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 12, a. 1#s.c.|Sed contra est quod dicitur [[1 Jn 3]], *videbimus eum sicuti est*.]]
+![[LEO Ia, q. 12, a. 1#s.c.|Sed contra est quod dicitur I Ioan. III, *videbimus eum sicuti est*.]]
 ![[CERF Ia, q. 12, a. 1#s.c.]]
 
 ###### resp.

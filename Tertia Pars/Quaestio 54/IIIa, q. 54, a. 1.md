@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 54, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Christus post resurrectionem non habuerit verum corpus. Verum enim corpus non potest simul esse cum alio corpore in eodem loco. Sed corpus Christi post resurrectionem fuit simul cum alio corpore in eodem loco, intravit enim ad discipulos ianuis clausis, ut dicitur [[Jn 20]]. Ergo videtur quod Christus post resurrectionem non habuerit verum corpus.]]
+![[LEO IIIa, q. 54, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Christus post resurrectionem non habuerit verum corpus. Verum enim corpus non potest simul esse cum alio corpore in eodem loco. Sed corpus Christi post resurrectionem fuit simul cum alio corpore in eodem loco, intravit enim ad discipulos ianuis clausis, ut dicitur Ioan. XX. Ergo videtur quod Christus post resurrectionem non habuerit verum corpus.]]
 ![[CERF IIIa, q. 54, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 54, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 54, a. 1#ad 2|Ad secundum dicendum quod, sicut dictum est, Christus resurrexit ad immortalem gloriae vitam. Haec est autem dispositio corporis gloriosi, ut sit spirituale, idest subiectum spiritui, ut apostolus dicit, [[1 Co 15]]. Ad hoc autem quod sit omnino corpus subiectum spiritui, requiritur quod omnis actio corporis subdatur spiritus voluntati. Quod autem aliquid videatur, fit per actionem visibilis in visum, ut patet per philosophum, in II de anima. Et ideo quicumque habet corpus glorificatum, in potestate sua habet videri quando vult, et, quando non vult, non videri. Hoc tamen Christus habuit non solum ex conditione corporis gloriosi, sed etiam ex virtute divinitatis, per quam fieri potest ut etiam corpora non gloriosa miraculose non videantur; sicut praestitum fuit miraculose beato Bartholomaeo, ut, *si vellet, videretur, non autem videretur si non vellet*. Dicitur ergo quod Christus ab oculis discipulorum evanuit, non quia corrumperetur aut resolveretur in aliqua invisibilia, sed quia sua voluntate desiit ab eis videri, vel eo praesente, vel etiam eo abscedente per dotem agilitatis.]]
+![[LEO IIIa, q. 54, a. 1#ad 2|Ad secundum dicendum quod, sicut dictum est, Christus resurrexit ad immortalem gloriae vitam. Haec est autem dispositio corporis gloriosi, ut sit spirituale, idest subiectum spiritui, ut apostolus dicit, I Cor. XV. Ad hoc autem quod sit omnino corpus subiectum spiritui, requiritur quod omnis actio corporis subdatur spiritus voluntati. Quod autem aliquid videatur, fit per actionem visibilis in visum, ut patet per philosophum, in II de anima. Et ideo quicumque habet corpus glorificatum, in potestate sua habet videri quando vult, et, quando non vult, non videri. Hoc tamen Christus habuit non solum ex conditione corporis gloriosi, sed etiam ex virtute divinitatis, per quam fieri potest ut etiam corpora non gloriosa miraculose non videantur; sicut praestitum fuit miraculose beato Bartholomaeo, ut, *si vellet, videretur, non autem videretur si non vellet*. Dicitur ergo quod Christus ab oculis discipulorum evanuit, non quia corrumperetur aut resolveretur in aliqua invisibilia, sed quia sua voluntate desiit ab eis videri, vel eo praesente, vel etiam eo abscedente per dotem agilitatis.]]
 ![[CERF IIIa, q. 54, a. 1#ad 2]]
 
 ###### ad 3

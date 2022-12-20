@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 71, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 71, a. 2#arg. 3|Praeterea, nihil quod est contra naturam, invenitur in habentibus illam naturam ut in pluribus. Sed vitia inveniuntur in hominibus ut in pluribus, quia, sicut dicitur [[Mt 7]], *lata est via quae ducit ad perditionem, et multi vadunt per eam*. Ergo vitium non est contra naturam.]]
+![[LEO Ia-IIæ, q. 71, a. 2#arg. 3|Praeterea, nihil quod est contra naturam, invenitur in habentibus illam naturam ut in pluribus. Sed vitia inveniuntur in hominibus ut in pluribus, quia, sicut dicitur Matth. VII, *lata est via quae ducit ad perditionem, et multi vadunt per eam*. Ergo vitium non est contra naturam.]]
 ![[CERF Ia-IIæ, q. 71, a. 2#arg. 3]]
 
 ###### arg. 4

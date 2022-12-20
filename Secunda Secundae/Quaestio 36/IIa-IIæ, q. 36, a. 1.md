@@ -38,7 +38,7 @@ tags :
 ![[CERF IIa-IIæ, q. 36, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 36, a. 1#ad 3|Ad tertium dicendum quod nullus conatur ad ea in quibus est multum deficiens. Et ideo cum aliquis in hoc eum excedat, non invidet. Sed si modicum deficiat, videtur quod ad hoc pertingere possit, et sic ad hoc conatur. Unde si frustraretur eius conatus propter excessum gloriae alterius, tristatur. Et inde est quod amatores honoris sunt magis invidi. Et similiter etiam pusillanimes sunt invidi, quia omnia reputant magna, et quidquid boni alicui accidat, reputant se in magno superatos esse. Unde et [[Jb 5]] dicitur, *parvulum occidit invidia*. Et dicit Gregorius, in V Moral., quod *invidere non possumus nisi eis quos nobis in aliquo meliores putamus*.]]
+![[LEO IIa-IIæ, q. 36, a. 1#ad 3|Ad tertium dicendum quod nullus conatur ad ea in quibus est multum deficiens. Et ideo cum aliquis in hoc eum excedat, non invidet. Sed si modicum deficiat, videtur quod ad hoc pertingere possit, et sic ad hoc conatur. Unde si frustraretur eius conatus propter excessum gloriae alterius, tristatur. Et inde est quod amatores honoris sunt magis invidi. Et similiter etiam pusillanimes sunt invidi, quia omnia reputant magna, et quidquid boni alicui accidat, reputant se in magno superatos esse. Unde et Iob V dicitur, *parvulum occidit invidia*. Et dicit Gregorius, in V Moral., quod *invidere non possumus nisi eis quos nobis in aliquo meliores putamus*.]]
 ![[CERF IIa-IIæ, q. 36, a. 1#ad 3]]
 
 ###### ad 4

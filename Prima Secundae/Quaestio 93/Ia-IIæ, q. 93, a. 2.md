@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 93, a. 2#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 93, a. 2#ad 1|Ad primum ergo dicendum quod ea quae sunt Dei, in seipsis quidem cognosci a nobis non possunt, sed tamen in effectibus suis nobis manifestantur, secundum illud [[Rm 1]], *invisibilia Dei per ea quae facta sunt, intellecta, conspiciuntur*.]]
+![[LEO Ia-IIæ, q. 93, a. 2#ad 1|Ad primum ergo dicendum quod ea quae sunt Dei, in seipsis quidem cognosci a nobis non possunt, sed tamen in effectibus suis nobis manifestantur, secundum illud Rom. I, *invisibilia Dei per ea quae facta sunt, intellecta, conspiciuntur*.]]
 ![[CERF Ia-IIæ, q. 93, a. 2#ad 1]]
 
 ###### ad 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia-IIæ, q. 93, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO Ia-IIæ, q. 93, a. 2#ad 3|Ad tertium dicendum quod iudicare de aliquo potest intelligi dupliciter. Uno modo, sicut vis cognitiva diiudicat de proprio obiecto; secundum illud [[Jb 12]], *nonne auris verba diiudicat, et fauces comedentis saporem?* Et secundum istum modum iudicii, philosophus dicit quod unusquisque bene iudicat quae cognoscit, iudicando scilicet an sit verum quod proponitur. Alio modo, secundum quod superior iudicat de inferiori quodam practico iudicio, an scilicet ita debeat esse vel non ita. Et sic nullus potest iudicare de lege aeterna.]]
+![[LEO Ia-IIæ, q. 93, a. 2#ad 3|Ad tertium dicendum quod iudicare de aliquo potest intelligi dupliciter. Uno modo, sicut vis cognitiva diiudicat de proprio obiecto; secundum illud Iob XII, *nonne auris verba diiudicat, et fauces comedentis saporem?* Et secundum istum modum iudicii, philosophus dicit quod unusquisque bene iudicat quae cognoscit, iudicando scilicet an sit verum quod proponitur. Alio modo, secundum quod superior iudicat de inferiori quodam practico iudicio, an scilicet ita debeat esse vel non ita. Et sic nullus potest iudicare de lege aeterna.]]
 ![[CERF Ia-IIæ, q. 93, a. 2#ad 3]]
 

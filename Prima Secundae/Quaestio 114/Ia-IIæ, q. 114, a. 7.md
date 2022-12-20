@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 114, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod aliquis possit mereri sibi ipsi reparationem post lapsum. Illud enim quod iuste a Deo petitur, homo videtur posse mereri. Sed nihil iustius a Deo petitur, ut Augustinus dicit, quam quod reparetur post lapsum; secundum illud [[Ps 70]], *cum defecerit virtus mea, ne derelinquas me, domine*. Ergo homo potest mereri ut reparetur post lapsum.]]
+![[LEO Ia-IIæ, q. 114, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod aliquis possit mereri sibi ipsi reparationem post lapsum. Illud enim quod iuste a Deo petitur, homo videtur posse mereri. Sed nihil iustius a Deo petitur, ut Augustinus dicit, quam quod reparetur post lapsum; secundum illud Psalmi LXX, *cum defecerit virtus mea, ne derelinquas me, domine*. Ergo homo potest mereri ut reparetur post lapsum.]]
 ![[CERF Ia-IIæ, q. 114, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 114, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 114, a. 7#s.c.|Sed contra est quod dicitur [[Ez 18]], *si averterit se iustus a iustitia sua, et fecerit iniquitatem; omnes iustitiae eius quas fecerat, non recordabuntur*. Ergo nihil valebunt ei praecedentia merita ad hoc quod resurgat. Non ergo aliquis potest sibi mereri reparationem post lapsum futurum.]]
+![[LEO Ia-IIæ, q. 114, a. 7#s.c.|Sed contra est quod dicitur Ezech. XVIII, *si averterit se iustus a iustitia sua, et fecerit iniquitatem; omnes iustitiae eius quas fecerat, non recordabuntur*. Ergo nihil valebunt ei praecedentia merita ad hoc quod resurgat. Non ergo aliquis potest sibi mereri reparationem post lapsum futurum.]]
 ![[CERF Ia-IIæ, q. 114, a. 7#s.c.]]
 
 ###### resp.

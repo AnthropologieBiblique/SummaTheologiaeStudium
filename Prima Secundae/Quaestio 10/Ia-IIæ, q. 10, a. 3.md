@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 10, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod voluntas ex necessitate moveatur a passione appetitus inferioris. Dicit enim apostolus, [[Rm 7]], *non enim quod volo bonum, hoc ago; sed quod odi malum, illud facio*, quod dicitur propter concupiscentiam, quae est passio quaedam. Ergo voluntas ex necessitate movetur a passione.]]
+![[LEO Ia-IIæ, q. 10, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod voluntas ex necessitate moveatur a passione appetitus inferioris. Dicit enim apostolus, Rom. VII, *non enim quod volo bonum, hoc ago; sed quod odi malum, illud facio*, quod dicitur propter concupiscentiam, quae est passio quaedam. Ergo voluntas ex necessitate movetur a passione.]]
 ![[CERF Ia-IIæ, q. 10, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 10, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 10, a. 3#s.c.|Sed contra est quod dicitur [[Gn 4]], *subter te erit appetitus tuus, et tu dominaberis illius*. Non ergo voluntas hominis ex necessitate movetur ab appetitu inferiori.]]
+![[LEO Ia-IIæ, q. 10, a. 3#s.c.|Sed contra est quod dicitur Gen. IV, *subter te erit appetitus tuus, et tu dominaberis illius*. Non ergo voluntas hominis ex necessitate movetur ab appetitu inferiori.]]
 ![[CERF Ia-IIæ, q. 10, a. 3#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 10, a. 3#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 10, a. 3#ad 1|Ad primum ergo dicendum quod, etsi voluntas non possit facere quin motus concupiscentiae insurgat, de quo apostolus dicit [[Rm 7]], *quod odi malum, illud facio*, idest concupisco; tamen potest voluntas non velle concupiscere, aut concupiscentiae non consentire. Et sic non ex necessitate sequitur concupiscentiae motum.]]
+![[LEO Ia-IIæ, q. 10, a. 3#ad 1|Ad primum ergo dicendum quod, etsi voluntas non possit facere quin motus concupiscentiae insurgat, de quo apostolus dicit Rom. VII, *quod odi malum, illud facio*, idest concupisco; tamen potest voluntas non velle concupiscere, aut concupiscentiae non consentire. Et sic non ex necessitate sequitur concupiscentiae motum.]]
 ![[CERF Ia-IIæ, q. 10, a. 3#ad 1]]
 
 ###### ad 2

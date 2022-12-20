@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 104, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 104, a. 3#s.c.|Sed contra est quod dicitur [[Jr 10]], *corripe me, domine, verumtamen in iudicio, et non in furore tuo, ne forte ad nihilum redigas me*.]]
+![[LEO Ia, q. 104, a. 3#s.c.|Sed contra est quod dicitur Ierem. X, *corripe me, domine, verumtamen in iudicio, et non in furore tuo, ne forte ad nihilum redigas me*.]]
 ![[CERF Ia, q. 104, a. 3#s.c.]]
 
 ###### resp.

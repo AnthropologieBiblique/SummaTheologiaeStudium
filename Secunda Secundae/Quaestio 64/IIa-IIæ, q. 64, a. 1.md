@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 64, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod occidere quaecumque viventia sit illicitum. Dicit enim apostolus, ad [[Rm 13]], *qui ordinationi Dei resistit, ipse sibi damnationem acquirit*. Sed per ordinationem divinae providentiae omnia viventia conservantur, secundum illud Psalm., *qui producit in montibus faenum, et dat iumentis escam ipsorum*. Ergo mortificare quaecumque viventia videtur esse illicitum.]]
+![[LEO IIa-IIæ, q. 64, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod occidere quaecumque viventia sit illicitum. Dicit enim apostolus, ad Rom. XIII, *qui ordinationi Dei resistit, ipse sibi damnationem acquirit*. Sed per ordinationem divinae providentiae omnia viventia conservantur, secundum illud Psalm., *qui producit in montibus faenum, et dat iumentis escam ipsorum*. Ergo mortificare quaecumque viventia videtur esse illicitum.]]
 ![[CERF IIa-IIæ, q. 64, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 64, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 64, a. 1#arg. 3|Praeterea, in lege divina non determinatur specialis poena nisi peccato. Sed occidenti ovem vel bovem alterius statuitur poena determinata in lege divina, ut patet [[Ex 22]]. Ergo occisio brutorum animalium est peccatum.]]
+![[LEO IIa-IIæ, q. 64, a. 1#arg. 3|Praeterea, in lege divina non determinatur specialis poena nisi peccato. Sed occidenti ovem vel bovem alterius statuitur poena determinata in lege divina, ut patet Exod. XXII. Ergo occisio brutorum animalium est peccatum.]]
 ![[CERF IIa-IIæ, q. 64, a. 1#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 64, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 64, a. 1#resp.|Respondeo dicendum quod nullus peccat ex hoc quod utitur re aliqua ad hoc ad quod est. In rerum autem ordine imperfectiora sunt propter perfectiora, sicut etiam in generationis via natura ab imperfectis ad perfecta procedit. Et inde est quod sicut in generatione hominis prius est vivum, deinde animal, ultimo autem homo; ita etiam ea quae tantum vivunt, ut plantae, sunt communiter propter omnia animalia, et animalia sunt propter hominem. Et ideo si homo utatur plantis ad utilitatem animalium, et animalibus ad utilitatem hominum, non est illicitum, ut etiam per philosophum patet, in I Polit. Inter alios autem usus maxime necessarius esse videtur ut animalia plantis utantur in cibum, et homines animalibus, quod sine mortificatione eorum fieri non potest. Et ideo licitum est et plantas mortificare in usum animalium, et animalia in usum hominum, ex ipsa ordinatione divina, dicitur enim [[Gn 1]], *ecce, dedi vobis omnem herbam et universa ligna, ut sint vobis in escam et cunctis animantibus*. Et [[Gn 1]] dicitur, *omne quod movetur et vivit, erit vobis in cibum*.]]
+![[LEO IIa-IIæ, q. 64, a. 1#resp.|Respondeo dicendum quod nullus peccat ex hoc quod utitur re aliqua ad hoc ad quod est. In rerum autem ordine imperfectiora sunt propter perfectiora, sicut etiam in generationis via natura ab imperfectis ad perfecta procedit. Et inde est quod sicut in generatione hominis prius est vivum, deinde animal, ultimo autem homo; ita etiam ea quae tantum vivunt, ut plantae, sunt communiter propter omnia animalia, et animalia sunt propter hominem. Et ideo si homo utatur plantis ad utilitatem animalium, et animalibus ad utilitatem hominum, non est illicitum, ut etiam per philosophum patet, in I Polit. Inter alios autem usus maxime necessarius esse videtur ut animalia plantis utantur in cibum, et homines animalibus, quod sine mortificatione eorum fieri non potest. Et ideo licitum est et plantas mortificare in usum animalium, et animalia in usum hominum, ex ipsa ordinatione divina, dicitur enim Gen. I, *ecce, dedi vobis omnem herbam et universa ligna, ut sint vobis in escam et cunctis animantibus*. Et Gen. IX dicitur, *omne quod movetur et vivit, erit vobis in cibum*.]]
 ![[CERF IIa-IIæ, q. 64, a. 1#resp.]]
 
 ###### ad 1

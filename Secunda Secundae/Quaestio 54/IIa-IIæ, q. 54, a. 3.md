@@ -6,11 +6,11 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 54, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod negligentia non possit esse peccatum mortale. Quia super illud [[Jb 9]], *verebar opera mea* etc., dicit Glossa Gregorii quod illam, scilicet negligentiam, *minor amor Dei exaggerat*. Sed ubicumque est peccatum mortale, totaliter tollitur amor Dei. Ergo negligentia non est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 54, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod negligentia non possit esse peccatum mortale. Quia super illud Iob IX, *verebar opera mea* etc., dicit Glossa Gregorii quod illam, scilicet negligentiam, *minor amor Dei exaggerat*. Sed ubicumque est peccatum mortale, totaliter tollitur amor Dei. Ergo negligentia non est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 54, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 54, a. 3#arg. 2|Praeterea, super illud [[Si 7]], *de negligentia purga te cum paucis*, dicit Glossa, *quamvis oblatio parva sit, multorum delictorum purgat negligentias*. Sed hoc non esset si negligentia esset peccatum mortale. Ergo negligentia non est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 54, a. 3#arg. 2|Praeterea, super illud Eccli. VII, *de negligentia purga te cum paucis*, dicit Glossa, *quamvis oblatio parva sit, multorum delictorum purgat negligentias*. Sed hoc non esset si negligentia esset peccatum mortale. Ergo negligentia non est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 54, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 54, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 54, a. 3#s.c.|Sed contra est quod habetur [[Pr 19]], *qui negligit vitam suam mortificabitur*.]]
+![[LEO IIa-IIæ, q. 54, a. 3#s.c.|Sed contra est quod habetur Prov. XIX, *qui negligit vitam suam mortificabitur*.]]
 ![[CERF IIa-IIæ, q. 54, a. 3#s.c.]]
 
 ###### resp.

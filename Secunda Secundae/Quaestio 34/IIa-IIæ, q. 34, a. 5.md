@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 34, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 34, a. 5#arg. 2|Praeterea, peccata oriuntur in nobis secundum inclinationem passionum, secundum illud ad [[Rm 7]], *passiones peccatorum operabantur in membris nostris, ut fructificarent morti*. Sed in passionibus animae ex amore et odio videntur omnes aliae sequi, ut ex supradictis patet. Ergo odium debet poni inter vitia capitalia.]]
+![[LEO IIa-IIæ, q. 34, a. 5#arg. 2|Praeterea, peccata oriuntur in nobis secundum inclinationem passionum, secundum illud ad Rom. VII, *passiones peccatorum operabantur in membris nostris, ut fructificarent morti*. Sed in passionibus animae ex amore et odio videntur omnes aliae sequi, ut ex supradictis patet. Ergo odium debet poni inter vitia capitalia.]]
 ![[CERF IIa-IIæ, q. 34, a. 5#arg. 2]]
 
 ###### arg. 3

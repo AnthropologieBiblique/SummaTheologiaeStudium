@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 85, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non omnes teneantur ad sacrificia offerenda. Dicit enim apostolus, [[Rm 3]], *quaecumque lex loquitur, his qui sunt in lege loquitur*. Sed lex de sacrificiis non fuit omnibus data, sed soli populo Hebraeorum. Ergo non omnes ad sacrificia tenebantur.]]
+![[LEO IIa-IIæ, q. 85, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non omnes teneantur ad sacrificia offerenda. Dicit enim apostolus, Rom. III, *quaecumque lex loquitur, his qui sunt in lege loquitur*. Sed lex de sacrificiis non fuit omnibus data, sed soli populo Hebraeorum. Ergo non omnes ad sacrificia tenebantur.]]
 ![[CERF IIa-IIæ, q. 85, a. 4#arg. 1]]
 
 ###### arg. 2

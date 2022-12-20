@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 90, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod cuiuslibet ratio sit factiva legis. Dicit enim apostolus, ad [[Rm 2]], quod *cum gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt, ipsi sibi sunt lex*. Hoc autem communiter de omnibus dicit. Ergo quilibet potest facere sibi legem.]]
+![[LEO Ia-IIæ, q. 90, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod cuiuslibet ratio sit factiva legis. Dicit enim apostolus, ad Rom. II, quod *cum gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt, ipsi sibi sunt lex*. Hoc autem communiter de omnibus dicit. Ergo quilibet potest facere sibi legem.]]
 ![[CERF Ia-IIæ, q. 90, a. 3#arg. 1]]
 
 ###### arg. 2

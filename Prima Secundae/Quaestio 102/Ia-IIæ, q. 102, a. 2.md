@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 102, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod praecepta caeremonialia non habeant causam litteralem, sed figuralem tantum. Inter praecepta enim caeremonialia praecipua erant circumcisio, et immolatio agni paschalis. Sed utrumque istorum non habebat nisi causam figuralem, quia utrumque istorum datum est in signum. Dicitur enim [[Gn 17]], *circumcidetis carnem praeputii vestri, ut sit in signum foederis inter me et vos*. Et de celebratione phase dicitur [[Ex 13]], *erit quasi signum in manu tua, et quasi monumentum ante oculos tuos*. Ergo multo magis alia caeremonialia non habent nisi causam figuralem.]]
+![[LEO Ia-IIæ, q. 102, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod praecepta caeremonialia non habeant causam litteralem, sed figuralem tantum. Inter praecepta enim caeremonialia praecipua erant circumcisio, et immolatio agni paschalis. Sed utrumque istorum non habebat nisi causam figuralem, quia utrumque istorum datum est in signum. Dicitur enim Gen. XVII, *circumcidetis carnem praeputii vestri, ut sit in signum foederis inter me et vos*. Et de celebratione phase dicitur Exod. XIII, *erit quasi signum in manu tua, et quasi monumentum ante oculos tuos*. Ergo multo magis alia caeremonialia non habent nisi causam figuralem.]]
 ![[CERF Ia-IIæ, q. 102, a. 2#arg. 1]]
 
 ###### arg. 2

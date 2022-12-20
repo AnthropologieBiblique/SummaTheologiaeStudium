@@ -6,7 +6,7 @@ tags :
 ### Articulus 12
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 10, a. 12#arg. 1|Ad duodecimum sic proceditur. Videtur quod pueri Iudaeorum et aliorum infidelium sint baptizandi parentibus invitis. Maius enim est vinculum matrimoniale quam ius patriae potestatis, quia ius patriae potestatis potest per hominem solvi, cum filiusfamilias emancipatur; vinculum autem matrimoniale non potest solvi per hominem, secundum illud [[Mt 19]], *quod Deus coniunxit homo non separet*. Sed propter infidelitatem solvitur vinculum matrimoniale, dicit enim apostolus, I ad Cor. VII, *quod si infidelis discedit, discedat, non enim servituti subiectus est frater aut soror in huiusmodi*; et canon dicit quod si coniux infidelis non vult sine contumelia sui creatoris cum altero stare, quod alter coniugum non debet ei cohabitare. Ergo multo magis propter infidelitatem tollitur ius patriae potestatis in suos filios. Possunt ergo eorum filii baptizari eis invitis.]]
+![[LEO IIa-IIæ, q. 10, a. 12#arg. 1|Ad duodecimum sic proceditur. Videtur quod pueri Iudaeorum et aliorum infidelium sint baptizandi parentibus invitis. Maius enim est vinculum matrimoniale quam ius patriae potestatis, quia ius patriae potestatis potest per hominem solvi, cum filiusfamilias emancipatur; vinculum autem matrimoniale non potest solvi per hominem, secundum illud Matth. XIX, *quod Deus coniunxit homo non separet*. Sed propter infidelitatem solvitur vinculum matrimoniale, dicit enim apostolus, I ad Cor. VII, *quod si infidelis discedit, discedat, non enim servituti subiectus est frater aut soror in huiusmodi*; et canon dicit quod si coniux infidelis non vult sine contumelia sui creatoris cum altero stare, quod alter coniugum non debet ei cohabitare. Ergo multo magis propter infidelitatem tollitur ius patriae potestatis in suos filios. Possunt ergo eorum filii baptizari eis invitis.]]
 ![[CERF IIa-IIæ, q. 10, a. 12#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 10, a. 12#arg. 4]]
 
 ###### arg. 5
-![[LEO IIa-IIæ, q. 10, a. 12#arg. 5|Praeterea, Baptismus efficacior est ad salutem quam praedicatio, quia per Baptismum statim tollitur peccati macula, reatus poenae, et aperitur ianua caeli. Sed si periculum sequitur ex defectu praedicationis, imputatur ei qui non praedicavit, ut habetur [[Ez 3]], et XXXIII de eo qui *videt gladium venientem et non insonuerit tuba*. Ergo multo magis, si pueri Iudaeorum damnentur propter defectum Baptismi, imputatur ad peccatum eis qui potuerunt baptizare et non baptizaverunt.]]
+![[LEO IIa-IIæ, q. 10, a. 12#arg. 5|Praeterea, Baptismus efficacior est ad salutem quam praedicatio, quia per Baptismum statim tollitur peccati macula, reatus poenae, et aperitur ianua caeli. Sed si periculum sequitur ex defectu praedicationis, imputatur ei qui non praedicavit, ut habetur Ezech. III, et XXXIII de eo qui *videt gladium venientem et non insonuerit tuba*. Ergo multo magis, si pueri Iudaeorum damnentur propter defectum Baptismi, imputatur ad peccatum eis qui potuerunt baptizare et non baptizaverunt.]]
 ![[CERF IIa-IIæ, q. 10, a. 12#arg. 5]]
 
 ###### s.c.

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 26, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 26, a. 4#s.c.|Sed contra est quod dicitur [[Lv 19]], et [[Mt 22]], *diliges proximum tuum sicut teipsum*, ex quo videtur quod dilectio hominis ad seipsum est sicut exemplar dilectionis quae habetur ad alterum. Sed exemplar potius est quam exemplatum. Ergo homo ex caritate magis debet diligere seipsum quam proximum.]]
+![[LEO IIa-IIæ, q. 26, a. 4#s.c.|Sed contra est quod dicitur Levit. XIX, et Matth. XXII, *diliges proximum tuum sicut teipsum*, ex quo videtur quod dilectio hominis ad seipsum est sicut exemplar dilectionis quae habetur ad alterum. Sed exemplar potius est quam exemplatum. Ergo homo ex caritate magis debet diligere seipsum quam proximum.]]
 ![[CERF IIa-IIæ, q. 26, a. 4#s.c.]]
 
 ###### resp.

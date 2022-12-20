@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia-IIæ, q. 9, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 9, a. 6#arg. 3|Praeterea, Deus non est causa nisi bonorum; secundum illud [[Gn 1]], *vidit Deus cuncta quae fecerat, et erant valde bona*. Si ergo a solo Deo voluntas hominis moveretur, nunquam moveretur ad malum, cum tamen voluntas sit qua peccatur et recte vivitur, ut Augustinus dicit.]]
+![[LEO Ia-IIæ, q. 9, a. 6#arg. 3|Praeterea, Deus non est causa nisi bonorum; secundum illud Gen. I, *vidit Deus cuncta quae fecerat, et erant valde bona*. Si ergo a solo Deo voluntas hominis moveretur, nunquam moveretur ad malum, cum tamen voluntas sit qua peccatur et recte vivitur, ut Augustinus dicit.]]
 ![[CERF Ia-IIæ, q. 9, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 9, a. 6#s.c.|Sed contra est quod apostolus dicit, ad [[Ph 2]], *Deus est qui operatur in nobis velle et perficere*.]]
+![[LEO Ia-IIæ, q. 9, a. 6#s.c.|Sed contra est quod apostolus dicit, ad Philipp. II, *Deus est qui operatur in nobis velle et perficere*.]]
 ![[CERF Ia-IIæ, q. 9, a. 6#s.c.]]
 
 ###### resp.

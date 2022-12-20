@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 72, a. 12#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 72, a. 12#arg. 3|Praeterea, chrisma est quoddam signum plenitudinis spiritus sancti, ut supra dictum est. Sed plenitudo spiritus sancti data est fidelibus Christi in die Pentecostes, ut habetur [[Ac 2]]. Magis ergo deberet chrisma confici et benedici in festo Pentecostes quam in cena domini.]]
+![[LEO IIIa, q. 72, a. 12#arg. 3|Praeterea, chrisma est quoddam signum plenitudinis spiritus sancti, ut supra dictum est. Sed plenitudo spiritus sancti data est fidelibus Christi in die Pentecostes, ut habetur Act. II. Magis ergo deberet chrisma confici et benedici in festo Pentecostes quam in cena domini.]]
 ![[CERF IIIa, q. 72, a. 12#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 72, a. 12#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 72, a. 12#resp.|Respondeo dicendum quod dominus, [[Mt 18]], fidelibus suis promisit dicens, *ubi fuerint duo vel tres congregati in nomine meo, ibi sum in medio eorum*. Et ideo firmiter tenendum est quod ordinationes Ecclesiae dirigantur secundum sapientiam Christi. Et propter hoc certum esse debet ritus quos Ecclesia observat in hoc et in aliis sacramentis, esse convenientes.]]
+![[LEO IIIa, q. 72, a. 12#resp.|Respondeo dicendum quod dominus, Matth. XVIII, fidelibus suis promisit dicens, *ubi fuerint duo vel tres congregati in nomine meo, ibi sum in medio eorum*. Et ideo firmiter tenendum est quod ordinationes Ecclesiae dirigantur secundum sapientiam Christi. Et propter hoc certum esse debet ritus quos Ecclesia observat in hoc et in aliis sacramentis, esse convenientes.]]
 ![[CERF IIIa, q. 72, a. 12#resp.]]
 
 ###### ad 1

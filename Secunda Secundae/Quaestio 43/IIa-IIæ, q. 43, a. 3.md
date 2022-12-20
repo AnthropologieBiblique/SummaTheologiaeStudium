@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 43, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 43, a. 3#s.c.|Sed contra, speciali virtuti speciale peccatum opponitur. Sed scandalum opponitur speciali virtuti, scilicet caritati, dicitur enim [[Rm 14]], *si propter cibum frater tuus contristatur, iam non secundum caritatem ambulas*. Ergo scandalum est speciale peccatum.]]
+![[LEO IIa-IIæ, q. 43, a. 3#s.c.|Sed contra, speciali virtuti speciale peccatum opponitur. Sed scandalum opponitur speciali virtuti, scilicet caritati, dicitur enim Rom. XIV, *si propter cibum frater tuus contristatur, iam non secundum caritatem ambulas*. Ergo scandalum est speciale peccatum.]]
 ![[CERF IIa-IIæ, q. 43, a. 3#s.c.]]
 
 ###### resp.

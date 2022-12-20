@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 73, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 73, a. 4#resp.|Respondeo dicendum quod hoc sacramentum habet triplicem significationem. Unam quidem respectu praeteriti, inquantum scilicet est commemorativum dominicae passionis, quae fuit verum sacrificium, ut supra dictum est. Et secundum hoc nominatur sacrificium. Aliam autem significationem habet respectu rei praesentis, scilicet ecclesiasticae unitatis, cui homines congregantur per hoc sacramentum. Et secundum hoc nominatur communio vel synaxis, dicit enim Damascenus, IV libro, quod *dicitur communio, quia communicamus per ipsam Christo; et quia participamus eius carne et deitate; et quia communicamus et unimur ad invicem per ipsam*. Tertiam significationem habet respectu futuri, inquantum scilicet hoc sacramentum est praefigurativum fruitionis Dei, quae erit in patria. Et secundum hoc dicitur viaticum, quia hoc praebet nobis viam illuc perveniendi. Et secundum hoc etiam dicitur Eucharistia, idest bona gratia, quia *gratia Dei est vita aeterna*, ut dicitur [[Rm 6]]; vel quia realiter continet Christum, qui est plenus gratia. Dicitur etiam in Graeco metalepsis, idest assumptio, quia, ut Damascenus dicit, *per hoc filii deitatem assumimus*.]]
+![[LEO IIIa, q. 73, a. 4#resp.|Respondeo dicendum quod hoc sacramentum habet triplicem significationem. Unam quidem respectu praeteriti, inquantum scilicet est commemorativum dominicae passionis, quae fuit verum sacrificium, ut supra dictum est. Et secundum hoc nominatur sacrificium. Aliam autem significationem habet respectu rei praesentis, scilicet ecclesiasticae unitatis, cui homines congregantur per hoc sacramentum. Et secundum hoc nominatur communio vel synaxis, dicit enim Damascenus, IV libro, quod *dicitur communio, quia communicamus per ipsam Christo; et quia participamus eius carne et deitate; et quia communicamus et unimur ad invicem per ipsam*. Tertiam significationem habet respectu futuri, inquantum scilicet hoc sacramentum est praefigurativum fruitionis Dei, quae erit in patria. Et secundum hoc dicitur viaticum, quia hoc praebet nobis viam illuc perveniendi. Et secundum hoc etiam dicitur Eucharistia, idest bona gratia, quia *gratia Dei est vita aeterna*, ut dicitur Rom. VI; vel quia realiter continet Christum, qui est plenus gratia. Dicitur etiam in Graeco metalepsis, idest assumptio, quia, ut Damascenus dicit, *per hoc filii deitatem assumimus*.]]
 ![[CERF IIIa, q. 73, a. 4#resp.]]
 
 ###### ad 1
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 73, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 73, a. 4#ad 3|Ad tertium dicendum quod hoc sacramentum dicitur sacrificium, inquantum repraesentat ipsam passionem Christi. Dicitur autem hostia, inquantum continet ipsum Christum, qui est hostia suavitatis, ut dicitur [[Ep 5]].]]
+![[LEO IIIa, q. 73, a. 4#ad 3|Ad tertium dicendum quod hoc sacramentum dicitur sacrificium, inquantum repraesentat ipsam passionem Christi. Dicitur autem hostia, inquantum continet ipsum Christum, qui est hostia suavitatis, ut dicitur Ephes. V.]]
 ![[CERF IIIa, q. 73, a. 4#ad 3]]
 

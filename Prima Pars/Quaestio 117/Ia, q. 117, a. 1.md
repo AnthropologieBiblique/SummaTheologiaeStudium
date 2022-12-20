@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 117, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod homo non possit alium docere. Dicit enim dominus, [[Mt 23]], *nolite vocari Rabbi*; ubi dicit Glossa Hieronymi, *ne divinum honorem hominibus tribuatis*. Esse ergo magistrum pertinet proprie ad divinum honorem. Sed docere est proprium magistri. Homo ergo non potest docere, sed hoc est proprium Dei.]]
+![[LEO Ia, q. 117, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod homo non possit alium docere. Dicit enim dominus, Matth. XXIII, *nolite vocari Rabbi*; ubi dicit Glossa Hieronymi, *ne divinum honorem hominibus tribuatis*. Esse ergo magistrum pertinet proprie ad divinum honorem. Sed docere est proprium magistri. Homo ergo non potest docere, sed hoc est proprium Dei.]]
 ![[CERF Ia, q. 117, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 117, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 117, a. 1#s.c.|Sed contra est quod apostolus dicit, [[1 Tm 2]], *in quo positus sum ego praedicator et apostolus, doctor gentium in fide et veritate*.]]
+![[LEO Ia, q. 117, a. 1#s.c.|Sed contra est quod apostolus dicit, I ad Tim. II, *in quo positus sum ego praedicator et apostolus, doctor gentium in fide et veritate*.]]
 ![[CERF Ia, q. 117, a. 1#s.c.]]
 
 ###### resp.

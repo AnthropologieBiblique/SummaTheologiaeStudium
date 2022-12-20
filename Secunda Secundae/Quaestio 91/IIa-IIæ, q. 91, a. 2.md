@@ -6,15 +6,15 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 91, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod cantus non sint assumendi ad laudem divinam. Dicit enim apostolus, ad [[Col 3]], *docentes et commonentes vosmetipsos in Psalmis et hymnis et canticis spiritualibus*. Sed nihil assumere debemus in divinum cultum praeter ea quae nobis auctoritate Scripturae traduntur. Ergo videtur quod non debemus uti in divinis laudibus canticis corporalibus, sed solum spiritualibus.]]
+![[LEO IIa-IIæ, q. 91, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod cantus non sint assumendi ad laudem divinam. Dicit enim apostolus, ad Coloss. III, *docentes et commonentes vosmetipsos in Psalmis et hymnis et canticis spiritualibus*. Sed nihil assumere debemus in divinum cultum praeter ea quae nobis auctoritate Scripturae traduntur. Ergo videtur quod non debemus uti in divinis laudibus canticis corporalibus, sed solum spiritualibus.]]
 ![[CERF IIa-IIæ, q. 91, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 91, a. 2#arg. 2|Praeterea, Hieronymus, super illud ad [[Ep 5]], *cantantes et psallentes in cordibus vestris domino*, dicit, *audiant haec adolescentuli quibus in Ecclesia est psallendi officium, Deo non voce, sed corde cantandum, nec in tragoediarum modum guttur et fauces medicamine liniendae sunt, ut in Ecclesia theatrales moduli audiantur et cantica*. Non ergo in laudes Dei sunt cantus assumendi.]]
+![[LEO IIa-IIæ, q. 91, a. 2#arg. 2|Praeterea, Hieronymus, super illud ad Ephes. V, *cantantes et psallentes in cordibus vestris domino*, dicit, *audiant haec adolescentuli quibus in Ecclesia est psallendi officium, Deo non voce, sed corde cantandum, nec in tragoediarum modum guttur et fauces medicamine liniendae sunt, ut in Ecclesia theatrales moduli audiantur et cantica*. Non ergo in laudes Dei sunt cantus assumendi.]]
 ![[CERF IIa-IIæ, q. 91, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 91, a. 2#arg. 3|Praeterea, laudare Deum convenit parvis et magnis, secundum illud [[Ap 19]], *laudem dicite Deo nostro, omnes servi eius et qui timetis illum, pusilli et magni*. Sed maiores qui sunt in Ecclesia non decet cantare, dicit enim Gregorius, et habetur in decretis, dist. XCII, cap. *in sancta Romana Ecclesia, praesenti decreto constituo ut in sede hac sacri altaris ministri cantare non debeant*. Ergo cantus non conveniunt divinis laudibus.]]
+![[LEO IIa-IIæ, q. 91, a. 2#arg. 3|Praeterea, laudare Deum convenit parvis et magnis, secundum illud Apoc. XIX, *laudem dicite Deo nostro, omnes servi eius et qui timetis illum, pusilli et magni*. Sed maiores qui sunt in Ecclesia non decet cantare, dicit enim Gregorius, et habetur in decretis, dist. XCII, cap. *in sancta Romana Ecclesia, praesenti decreto constituo ut in sede hac sacri altaris ministri cantare non debeant*. Ergo cantus non conveniunt divinis laudibus.]]
 ![[CERF IIa-IIæ, q. 91, a. 2#arg. 3]]
 
 ###### arg. 4

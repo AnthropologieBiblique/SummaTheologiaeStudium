@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 85, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 85, a. 1#s.c.|Sed contra est quod praecepta legis dantur de actibus virtutum, quia legislator intendit cives facere virtuosos, ut dicitur in II Ethic. Sed praeceptum divinae legis est de poenitentia, secundum illud [[Mt 3]], poenitentiam agite, et cetera. Ergo poenitentia est virtus.]]
+![[LEO IIIa, q. 85, a. 1#s.c.|Sed contra est quod praecepta legis dantur de actibus virtutum, quia legislator intendit cives facere virtuosos, ut dicitur in II Ethic. Sed praeceptum divinae legis est de poenitentia, secundum illud Matth. III, poenitentiam agite, et cetera. Ergo poenitentia est virtus.]]
 ![[CERF IIIa, q. 85, a. 1#s.c.]]
 
 ###### resp.

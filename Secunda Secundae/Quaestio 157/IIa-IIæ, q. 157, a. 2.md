@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 157, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 157, a. 2#arg. 3|Praeterea, mansuetudo, sive mititas, ponitur, [[Mt 5]], inter beatitudines; et inter fructus, Galat. V. Sed virtutes differunt et a beatitudinibus et a fructibus. Ergo non continetur sub virtute.]]
+![[LEO IIa-IIæ, q. 157, a. 2#arg. 3|Praeterea, mansuetudo, sive mititas, ponitur, Matth. V, inter beatitudines; et inter fructus, Galat. V. Sed virtutes differunt et a beatitudinibus et a fructibus. Ergo non continetur sub virtute.]]
 ![[CERF IIa-IIæ, q. 157, a. 2#arg. 3]]
 
 ###### s.c.

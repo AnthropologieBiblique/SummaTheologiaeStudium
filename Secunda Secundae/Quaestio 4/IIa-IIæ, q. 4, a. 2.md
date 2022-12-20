@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 4, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 4, a. 2#arg. 3|Praeterea, intellectus est vel speculativus vel practicus. Sed fides non est in intellectu speculativo, qui, cum nihil dicat de imitabili et fugiendo, ut dicitur in III de anima, non est principium operationis, fides autem est quae per dilectionem operatur, ut dicitur ad [[Ga 5]]. Similiter etiam nec in intellectu practico, cuius obiectum est verum contingens factibile vel agibile, obiectum enim fidei est verum aeternum, ut ex supradictis patet. Non ergo fides est in intellectu sicut in subiecto.]]
+![[LEO IIa-IIæ, q. 4, a. 2#arg. 3|Praeterea, intellectus est vel speculativus vel practicus. Sed fides non est in intellectu speculativo, qui, cum nihil dicat de imitabili et fugiendo, ut dicitur in III de anima, non est principium operationis, fides autem est quae per dilectionem operatur, ut dicitur ad Gal. V. Similiter etiam nec in intellectu practico, cuius obiectum est verum contingens factibile vel agibile, obiectum enim fidei est verum aeternum, ut ex supradictis patet. Non ergo fides est in intellectu sicut in subiecto.]]
 ![[CERF IIa-IIæ, q. 4, a. 2#arg. 3]]
 
 ###### s.c.

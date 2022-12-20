@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 148, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod gula non sit peccatum. Dicit enim dominus, [[Mt 15]], *quod intrat in os, non coinquinat hominem*. Sed gula est circa cibos, qui intrant in hominem. Cum ergo omne peccatum coinquinet hominem, videtur quod gula non sit peccatum.]]
+![[LEO IIa-IIæ, q. 148, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod gula non sit peccatum. Dicit enim dominus, Matth. XV, *quod intrat in os, non coinquinat hominem*. Sed gula est circa cibos, qui intrant in hominem. Cum ergo omne peccatum coinquinet hominem, videtur quod gula non sit peccatum.]]
 ![[CERF IIa-IIæ, q. 148, a. 1#arg. 1]]
 
 ###### arg. 2

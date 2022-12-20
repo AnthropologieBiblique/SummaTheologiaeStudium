@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 45, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod sapientia possit esse sine gratia, cum peccato mortali. De his enim quae cum peccato mortali haberi non possunt praecipue sancti gloriantur, secundum illud II ad Cor. I, *gloria nostra haec est, testimonium conscientiae nostrae*. Sed de sapientia non debet aliquis gloriari, secundum illud [[Jr 9]], *non glorietur sapiens in sapientia sua*. Ergo sapientia potest esse sine gratia, cum peccato mortali.]]
+![[LEO IIa-IIæ, q. 45, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod sapientia possit esse sine gratia, cum peccato mortali. De his enim quae cum peccato mortali haberi non possunt praecipue sancti gloriantur, secundum illud II ad Cor. I, *gloria nostra haec est, testimonium conscientiae nostrae*. Sed de sapientia non debet aliquis gloriari, secundum illud Ierem. IX, *non glorietur sapiens in sapientia sua*. Ergo sapientia potest esse sine gratia, cum peccato mortali.]]
 ![[CERF IIa-IIæ, q. 45, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 45, a. 4#arg. 2|Praeterea, sapientia importat cognitionem divinorum, ut dictum est. Sed aliqui cum peccato mortali possunt habere cognitionem veritatis divinae, secundum illud [[Rm 1]], *veritatem Dei in iniustitia detinent*. Ergo sapientia potest esse cum peccato mortali.]]
+![[LEO IIa-IIæ, q. 45, a. 4#arg. 2|Praeterea, sapientia importat cognitionem divinorum, ut dictum est. Sed aliqui cum peccato mortali possunt habere cognitionem veritatis divinae, secundum illud Rom. I, *veritatem Dei in iniustitia detinent*. Ergo sapientia potest esse cum peccato mortali.]]
 ![[CERF IIa-IIæ, q. 45, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 45, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 45, a. 4#s.c.|Sed contra est quod dicitur [[Sg 1]], *in malevolam animam non introibit sapientia, nec habitabit in corpore subdito peccatis*.]]
+![[LEO IIa-IIæ, q. 45, a. 4#s.c.|Sed contra est quod dicitur Sap. I, *in malevolam animam non introibit sapientia, nec habitabit in corpore subdito peccatis*.]]
 ![[CERF IIa-IIæ, q. 45, a. 4#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 45, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 45, a. 4#ad 1|Ad primum ergo dicendum quod illud intelligendum est de sapientia in rebus mundanis; sive etiam in rebus divinis per rationes humanas. De qua sancti non gloriantur, sed eam se fatentur non habere, secundum illud [[Pr 30]], *sapientia hominum non est mecum*. Gloriantur autem de sapientia divina, secundum illud I ad Cor. I, *factus est nobis sapientia a Deo*.]]
+![[LEO IIa-IIæ, q. 45, a. 4#ad 1|Ad primum ergo dicendum quod illud intelligendum est de sapientia in rebus mundanis; sive etiam in rebus divinis per rationes humanas. De qua sancti non gloriantur, sed eam se fatentur non habere, secundum illud Prov. XXX, *sapientia hominum non est mecum*. Gloriantur autem de sapientia divina, secundum illud I ad Cor. I, *factus est nobis sapientia a Deo*.]]
 ![[CERF IIa-IIæ, q. 45, a. 4#ad 1]]
 
 ###### ad 2

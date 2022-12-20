@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 113, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 113, a. 6#s.c.|Sed contra est quod in enumeratione eorum quae requiruntur ad rem, non debet praetermitti finis, qui est potissimum in unoquoque. Sed remissio peccatorum est finis in iustificatione impii, dicitur enim [[Is 27]], *iste est omnis fructus, ut auferatur peccatum eius*. Ergo remissio peccatorum debet connumerari inter ea quae requiruntur ad iustificationem impii.]]
+![[LEO Ia-IIæ, q. 113, a. 6#s.c.|Sed contra est quod in enumeratione eorum quae requiruntur ad rem, non debet praetermitti finis, qui est potissimum in unoquoque. Sed remissio peccatorum est finis in iustificatione impii, dicitur enim Isaiae XXVII, *iste est omnis fructus, ut auferatur peccatum eius*. Ergo remissio peccatorum debet connumerari inter ea quae requiruntur ad iustificationem impii.]]
 ![[CERF Ia-IIæ, q. 113, a. 6#s.c.]]
 
 ###### resp.

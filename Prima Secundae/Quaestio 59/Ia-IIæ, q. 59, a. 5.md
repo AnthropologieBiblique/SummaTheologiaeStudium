@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 59, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 59, a. 5#arg. 2|Praeterea, tunc unumquodque est perfectum, quando est remotum a suo contrario, et ab his quae ad contrarium inclinant. Sed passiones inclinant ad peccatum, quod virtuti contrariatur, unde [[Rm 7]], nominantur passiones peccatorum. Ergo perfecta virtus est omnino absque passione.]]
+![[LEO Ia-IIæ, q. 59, a. 5#arg. 2|Praeterea, tunc unumquodque est perfectum, quando est remotum a suo contrario, et ab his quae ad contrarium inclinant. Sed passiones inclinant ad peccatum, quod virtuti contrariatur, unde Rom. VII, nominantur passiones peccatorum. Ergo perfecta virtus est omnino absque passione.]]
 ![[CERF Ia-IIæ, q. 59, a. 5#arg. 2]]
 
 ###### arg. 3

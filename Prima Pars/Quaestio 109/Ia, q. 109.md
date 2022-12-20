@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 109#Prooemium|Deinde considerandum est de ordinatione malorum Angelorum. Et circa hoc quaeruntur quatuor. Primo, utrum ordines sint in Daemonibus. Secundo, utrum in eis sit praelatio. Tertio, utrum unus illuminet alium. Quarto, utrum subiiciantur praelationi bonorum Angelorum.]]
-![[CERF Ia, q. 109#Prooemium]]
+Deinde considerandum est de ordinatione malorum Angelorum. Et circa hoc quaeruntur quatuor. Primo, utrum ordines sint in Daemonibus. Secundo, utrum in eis sit praelatio. Tertio, utrum unus illuminet alium. Quarto, utrum subiiciantur praelationi bonorum Angelorum.
 
 ![[Ia, q. 109, a. 1#Articulus 1]]
 

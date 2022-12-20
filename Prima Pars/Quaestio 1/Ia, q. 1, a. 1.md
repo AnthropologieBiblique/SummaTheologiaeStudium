@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 1, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non sit necessarium, praeter philosophicas disciplinas, aliam doctrinam haberi. Ad ea enim quae supra rationem sunt, homo non debet conari, secundum illud [[Si 3]], *altiora te ne quaesieris*. Sed ea quae rationi subduntur, sufficienter traduntur in philosophicis disciplinis. Superfluum igitur videtur, praeter philosophicas disciplinas, aliam doctrinam haberi.]]
+![[LEO Ia, q. 1, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non sit necessarium, praeter philosophicas disciplinas, aliam doctrinam haberi. Ad ea enim quae supra rationem sunt, homo non debet conari, secundum illud Eccli. III, *altiora te ne quaesieris*. Sed ea quae rationi subduntur, sufficienter traduntur in philosophicis disciplinis. Superfluum igitur videtur, praeter philosophicas disciplinas, aliam doctrinam haberi.]]
 ![[CERF Ia, q. 1, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia, q. 1, a. 1#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 1, a. 1#s.c.|Sed contra est quod dicitur [[2 Tm 3]], *omnis Scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad corripiendum, ad erudiendum ad iustitiam*. Scriptura autem divinitus inspirata non pertinet ad philosophicas disciplinas, quae sunt secundum rationem humanam inventae. Utile igitur est, praeter philosophicas disciplinas, esse aliam scientiam divinitus inspiratam.]]
+![[LEO Ia, q. 1, a. 1#s.c.|Sed contra est quod dicitur II ad Tim. III, *omnis Scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad corripiendum, ad erudiendum ad iustitiam*. Scriptura autem divinitus inspirata non pertinet ad philosophicas disciplinas, quae sunt secundum rationem humanam inventae. Utile igitur est, praeter philosophicas disciplinas, esse aliam scientiam divinitus inspiratam.]]
 ![[CERF Ia, q. 1, a. 1#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 1, a. 1#resp.|Respondeo dicendum quod necessarium fuit ad humanam salutem, esse doctrinam quandam secundum revelationem divinam, praeter philosophicas disciplinas, quae ratione humana investigantur. Primo quidem, quia homo ordinatur ad Deum sicut ad quendam finem qui comprehensionem rationis excedit, secundum illud [[Is 64]], *oculus non vidit Deus absque te, quae praeparasti diligentibus te*. Finem autem oportet esse praecognitum hominibus, qui suas intentiones et actiones debent ordinare in finem. Unde necessarium fuit homini ad salutem, quod ei nota fierent quaedam per revelationem divinam, quae rationem humanam excedunt. Ad ea etiam quae de Deo ratione humana investigari possunt, necessarium fuit hominem instrui revelatione divina. Quia veritas de Deo, per rationem investigata, a paucis, et per longum tempus, et cum admixtione multorum errorum, homini proveniret, a cuius tamen veritatis cognitione dependet tota hominis salus, quae in Deo est. Ut igitur salus hominibus et convenientius et certius proveniat, necessarium fuit quod de divinis per divinam revelationem instruantur. Necessarium igitur fuit, praeter philosophicas disciplinas, quae per rationem investigantur, sacram doctrinam per revelationem haberi.]]
+![[LEO Ia, q. 1, a. 1#resp.|Respondeo dicendum quod necessarium fuit ad humanam salutem, esse doctrinam quandam secundum revelationem divinam, praeter philosophicas disciplinas, quae ratione humana investigantur. Primo quidem, quia homo ordinatur ad Deum sicut ad quendam finem qui comprehensionem rationis excedit, secundum illud Isaiae LXIV, *oculus non vidit Deus absque te, quae praeparasti diligentibus te*. Finem autem oportet esse praecognitum hominibus, qui suas intentiones et actiones debent ordinare in finem. Unde necessarium fuit homini ad salutem, quod ei nota fierent quaedam per revelationem divinam, quae rationem humanam excedunt. Ad ea etiam quae de Deo ratione humana investigari possunt, necessarium fuit hominem instrui revelatione divina. Quia veritas de Deo, per rationem investigata, a paucis, et per longum tempus, et cum admixtione multorum errorum, homini proveniret, a cuius tamen veritatis cognitione dependet tota hominis salus, quae in Deo est. Ut igitur salus hominibus et convenientius et certius proveniat, necessarium fuit quod de divinis per divinam revelationem instruantur. Necessarium igitur fuit, praeter philosophicas disciplinas, quae per rationem investigantur, sacram doctrinam per revelationem haberi.]]
 ![[CERF Ia, q. 1, a. 1#resp.]]
 
 ###### ad 1

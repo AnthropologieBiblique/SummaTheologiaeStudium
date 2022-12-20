@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 4, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 4, a. 5#arg. 2|Praeterea, incarnatio divina processit ex divina caritate, ideo dicitur [[Jn 3]], *sic Deus dilexit mundum ut filium suum unigenitum daret*. Sed caritas facit ut aliquis se communicet amicis quantum possibile est. Possibile autem fuit filio Dei ut plures naturas hominum assumeret, ut supra dictum est, et, eadem ratione, omnes. Ergo conveniens fuit ut filius Dei assumeret naturam in omnibus suis suppositis.]]
+![[LEO IIIa, q. 4, a. 5#arg. 2|Praeterea, incarnatio divina processit ex divina caritate, ideo dicitur Ioan. III, *sic Deus dilexit mundum ut filium suum unigenitum daret*. Sed caritas facit ut aliquis se communicet amicis quantum possibile est. Possibile autem fuit filio Dei ut plures naturas hominum assumeret, ut supra dictum est, et, eadem ratione, omnes. Ergo conveniens fuit ut filius Dei assumeret naturam in omnibus suis suppositis.]]
 ![[CERF IIIa, q. 4, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 4, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 4, a. 5#ad 2|Ad secundum dicendum quod dilectio Dei ad homines manifestatur non solum in ipsa assumptione humanae naturae, sed praecipue per ea quae passus est in natura humana pro aliis hominibus, secundum illud [[Rm 5]], *commendat autem Deus suam caritatem in nobis, quia, cum inimici essemus, Christus pro nobis mortuus est*. Quod locum non haberet si in omnibus hominibus naturam humanam assumpsisset.]]
+![[LEO IIIa, q. 4, a. 5#ad 2|Ad secundum dicendum quod dilectio Dei ad homines manifestatur non solum in ipsa assumptione humanae naturae, sed praecipue per ea quae passus est in natura humana pro aliis hominibus, secundum illud Rom. V, *commendat autem Deus suam caritatem in nobis, quia, cum inimici essemus, Christus pro nobis mortuus est*. Quod locum non haberet si in omnibus hominibus naturam humanam assumpsisset.]]
 ![[CERF IIIa, q. 4, a. 5#ad 2]]
 
 ###### ad 3

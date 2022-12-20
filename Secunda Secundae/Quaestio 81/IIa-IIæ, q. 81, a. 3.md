@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 81, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 81, a. 3#s.c.|Sed contra est quod dicitur [[Ep 4]], *unus Deus, una fides*. Sed vera religio protestatur fidem unius Dei. Ergo religio est una virtus.]]
+![[LEO IIa-IIæ, q. 81, a. 3#s.c.|Sed contra est quod dicitur Ephes. IV, *unus Deus, una fides*. Sed vera religio protestatur fidem unius Dei. Ergo religio est una virtus.]]
 ![[CERF IIa-IIæ, q. 81, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 81, a. 3#resp.|Respondeo dicendum quod, sicut supra habitum est, habitus distinguuntur secundum diversam rationem obiecti. Ad religionem autem pertinet exhibere reverentiam uni Deo secundum unam rationem, inquantum scilicet est primum principium creationis et gubernationis rerum, unde ipse dicit, [[Ml 1]], *si ego pater, ubi honor meus?* Patris enim est et producere et gubernare. Et ideo manifestum est quod religio est una virtus.]]
+![[LEO IIa-IIæ, q. 81, a. 3#resp.|Respondeo dicendum quod, sicut supra habitum est, habitus distinguuntur secundum diversam rationem obiecti. Ad religionem autem pertinet exhibere reverentiam uni Deo secundum unam rationem, inquantum scilicet est primum principium creationis et gubernationis rerum, unde ipse dicit, Malach. I, *si ego pater, ubi honor meus?* Patris enim est et producere et gubernare. Et ideo manifestum est quod religio est una virtus.]]
 ![[CERF IIa-IIæ, q. 81, a. 3#resp.]]
 
 ###### ad 1

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIIa, q. 30#Prooemium|Deinde considerandum est de Annuntiatione beatae virginis. Et circa hoc quaeruntur quatuor. Primo, utrum conveniens fuerit ei annuntiari quod in ea generandum erat. Secundo, per quem erat ei annuntiandum. Tertio, per quem modum ei annuntiari debebat. Quarto, de ordine Annuntiationis.]]
-![[CERF IIIa, q. 30#Prooemium]]
+Deinde considerandum est de Annuntiatione beatae virginis. Et circa hoc quaeruntur quatuor. Primo, utrum conveniens fuerit ei annuntiari quod in ea generandum erat. Secundo, per quem erat ei annuntiandum. Tertio, per quem modum ei annuntiari debebat. Quarto, de ordine Annuntiationis.
 
 ![[IIIa, q. 30, a. 1#Articulus 1]]
 

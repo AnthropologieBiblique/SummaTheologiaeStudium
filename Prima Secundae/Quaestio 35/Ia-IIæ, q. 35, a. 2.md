@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 35, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 35, a. 2#s.c.|Sed contra est quod apostolus dicit, ad [[Rm 9]], *tristitia est mihi magna, et continuus dolor cordi meo*, pro eodem utens tristitia et dolore.]]
+![[LEO Ia-IIæ, q. 35, a. 2#s.c.|Sed contra est quod apostolus dicit, ad Rom. IX, *tristitia est mihi magna, et continuus dolor cordi meo*, pro eodem utens tristitia et dolore.]]
 ![[CERF Ia-IIæ, q. 35, a. 2#s.c.]]
 
 ###### resp.

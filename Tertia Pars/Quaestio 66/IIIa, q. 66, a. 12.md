@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 66, a. 12#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 66, a. 12#arg. 2|Praeterea, Baptismus sanguinis non valet sine Baptismo flaminis, qui est per caritatem, dicitur enim [[1 Co 13]], *si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest*. Sed Baptismus flaminis valet sine Baptismo sanguinis, non enim soli martyres salvantur. Ergo Baptismus sanguinis non est potissimus.]]
+![[LEO IIIa, q. 66, a. 12#arg. 2|Praeterea, Baptismus sanguinis non valet sine Baptismo flaminis, qui est per caritatem, dicitur enim I Cor. XIII, *si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest*. Sed Baptismus flaminis valet sine Baptismo sanguinis, non enim soli martyres salvantur. Ergo Baptismus sanguinis non est potissimus.]]
 ![[CERF IIIa, q. 66, a. 12#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 66, a. 12#arg. 3|Praeterea, sicut Baptismus aquae habet efficaciam a passione Christi, cui, secundum praedicta, respondet Baptismus sanguinis, ita passio Christi efficaciam habet a spiritu sancto, secundum illud [[He 9]], *sanguis Christi, qui per spiritum sanctum obtulit semetipsum pro nobis, emundabit conscientias nostras ab operibus mortuis*, et cetera. Ergo Baptismus flaminis potior est quam Baptismus sanguinis. Non ergo Baptismus sanguinis est potissimus.]]
+![[LEO IIIa, q. 66, a. 12#arg. 3|Praeterea, sicut Baptismus aquae habet efficaciam a passione Christi, cui, secundum praedicta, respondet Baptismus sanguinis, ita passio Christi efficaciam habet a spiritu sancto, secundum illud Heb. IX, *sanguis Christi, qui per spiritum sanctum obtulit semetipsum pro nobis, emundabit conscientias nostras ab operibus mortuis*, et cetera. Ergo Baptismus flaminis potior est quam Baptismus sanguinis. Non ergo Baptismus sanguinis est potissimus.]]
 ![[CERF IIIa, q. 66, a. 12#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 66, a. 12#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 66, a. 12#resp.|Respondeo dicendum quod, sicut dictum est, effusio sanguinis pro Christo, et operatio interior spiritus sancti, dicuntur Baptismata inquantum efficiunt effectum Baptismi aquae. Baptismus autem aquae efficaciam habet a passione Christi et a spiritu sancto, ut dictum est. Quae quidem duae causae operantur in quolibet horum trium Baptismatum, excellentissime autem in Baptismo sanguinis. Nam passio Christi operatur quidem in Baptismo aquae per quandam figuralem repraesentationem; in Baptismo autem flaminis vel poenitentiae per quandam affectionem; sed in Baptismo sanguinis per imitationem operis. Similiter etiam virtus spiritus sancti operatur in Baptismo aquae per quandam virtutem latentem; in Baptismo autem poenitentiae per cordis commotionem; sed in Baptismo sanguinis per potissimum dilectionis et affectionis fervorem, secundum illud [[Jn 15]], *maiorem hac dilectionem nemo habet, ut animam suam ponat quis pro amicis suis*.]]
+![[LEO IIIa, q. 66, a. 12#resp.|Respondeo dicendum quod, sicut dictum est, effusio sanguinis pro Christo, et operatio interior spiritus sancti, dicuntur Baptismata inquantum efficiunt effectum Baptismi aquae. Baptismus autem aquae efficaciam habet a passione Christi et a spiritu sancto, ut dictum est. Quae quidem duae causae operantur in quolibet horum trium Baptismatum, excellentissime autem in Baptismo sanguinis. Nam passio Christi operatur quidem in Baptismo aquae per quandam figuralem repraesentationem; in Baptismo autem flaminis vel poenitentiae per quandam affectionem; sed in Baptismo sanguinis per imitationem operis. Similiter etiam virtus spiritus sancti operatur in Baptismo aquae per quandam virtutem latentem; in Baptismo autem poenitentiae per cordis commotionem; sed in Baptismo sanguinis per potissimum dilectionis et affectionis fervorem, secundum illud Ioan. XV, *maiorem hac dilectionem nemo habet, ut animam suam ponat quis pro amicis suis*.]]
 ![[CERF IIIa, q. 66, a. 12#resp.]]
 
 ###### ad 1

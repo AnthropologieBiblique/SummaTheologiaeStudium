@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 105, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 105, a. 2#s.c.|Sed contra, opera sex dierum Deus fecit immediate; in quibus continetur motus corporum, ut patet per hoc quod dicitur [[Gn 1]], *congregentur aquae in locum unum*. Ergo Deus immediate potest movere corpus.]]
+![[LEO Ia, q. 105, a. 2#s.c.|Sed contra, opera sex dierum Deus fecit immediate; in quibus continetur motus corporum, ut patet per hoc quod dicitur Gen. I, *congregentur aquae in locum unum*. Ergo Deus immediate potest movere corpus.]]
 ![[CERF Ia, q. 105, a. 2#s.c.]]
 
 ###### resp.

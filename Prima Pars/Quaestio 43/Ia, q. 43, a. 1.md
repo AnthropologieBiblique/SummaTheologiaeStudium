@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia, q. 43, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 43, a. 1#s.c.|Sed contra est quod dicitur [[Jn 8]], *non sum ego solus, sed ego et qui misit me, pater*.]]
+![[LEO Ia, q. 43, a. 1#s.c.|Sed contra est quod dicitur Ioan. VIII, *non sum ego solus, sed ego et qui misit me, pater*.]]
 ![[CERF Ia, q. 43, a. 1#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 43, a. 1#resp.|Respondeo dicendum quod in ratione missionis duo importantur, quorum unum est habitudo missi ad eum a quo mittitur; aliud est habitudo missi ad terminum ad quem mittitur. Per hoc autem quod aliquis mittitur, ostenditur processio quaedam missi a mittente; vel secundum imperium, sicut dominus mittit servum; vel secundum consilium, ut si consiliarius mittere dicatur regem ad bellandum; vel secundum originem, ut si dicatur quod flos emittitur ab arbore. Ostenditur etiam habitudo ad terminum ad quem mittitur, ut aliquo modo ibi esse incipiat; vel quia prius ibi omnino non erat quo mittitur; vel quia incipit ibi aliquo modo esse, quo prius non erat. Missio igitur divinae personae convenire potest, secundum quod importat ex una parte processionem originis a mittente; et secundum quod importat ex alia parte novum modum existendi in aliquo. Sicut filius dicitur esse missus a patre in mundum, secundum quod incoepit esse in mundo visibiliter per carnem assumptam, et tamen ante in mundo erat, ut dicitur [[Jn 1]].]]
+![[LEO Ia, q. 43, a. 1#resp.|Respondeo dicendum quod in ratione missionis duo importantur, quorum unum est habitudo missi ad eum a quo mittitur; aliud est habitudo missi ad terminum ad quem mittitur. Per hoc autem quod aliquis mittitur, ostenditur processio quaedam missi a mittente; vel secundum imperium, sicut dominus mittit servum; vel secundum consilium, ut si consiliarius mittere dicatur regem ad bellandum; vel secundum originem, ut si dicatur quod flos emittitur ab arbore. Ostenditur etiam habitudo ad terminum ad quem mittitur, ut aliquo modo ibi esse incipiat; vel quia prius ibi omnino non erat quo mittitur; vel quia incipit ibi aliquo modo esse, quo prius non erat. Missio igitur divinae personae convenire potest, secundum quod importat ex una parte processionem originis a mittente; et secundum quod importat ex alia parte novum modum existendi in aliquo. Sicut filius dicitur esse missus a patre in mundum, secundum quod incoepit esse in mundo visibiliter per carnem assumptam, et tamen ante in mundo erat, ut dicitur Ioan. I.]]
 ![[CERF Ia, q. 43, a. 1#resp.]]
 
 ###### ad 1

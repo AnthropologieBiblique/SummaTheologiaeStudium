@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 58, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod iustitia particularis non habeat materiam specialem. Quia super illud [[Gn 2]], *fluvius quartus ipse est Euphrates*, dicit Glossa, *Euphrates frugifer interpretatur. Nec dicitur contra quod vadat, quia iustitia ad omnes animae partes pertinet*. Hoc autem non esset si haberet materiam specialem, quia quaelibet materia specialis ad aliquam specialem potentiam pertinet. Ergo iustitia particularis non habet materiam specialem.]]
+![[LEO IIa-IIæ, q. 58, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod iustitia particularis non habeat materiam specialem. Quia super illud Gen. II, *fluvius quartus ipse est Euphrates*, dicit Glossa, *Euphrates frugifer interpretatur. Nec dicitur contra quod vadat, quia iustitia ad omnes animae partes pertinet*. Hoc autem non esset si haberet materiam specialem, quia quaelibet materia specialis ad aliquam specialem potentiam pertinet. Ergo iustitia particularis non habet materiam specialem.]]
 ![[CERF IIa-IIæ, q. 58, a. 8#arg. 1]]
 
 ###### arg. 2

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 62, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 62, a. 7#s.c.|Sed contra est quod dicitur [[Rm 1]], *digni sunt morte non solum qui faciunt, sed etiam qui consentiunt facientibus*. Ergo, pari ratione, etiam consentientes debent restituere.]]
+![[LEO IIa-IIæ, q. 62, a. 7#s.c.|Sed contra est quod dicitur Rom. I, *digni sunt morte non solum qui faciunt, sed etiam qui consentiunt facientibus*. Ergo, pari ratione, etiam consentientes debent restituere.]]
 ![[CERF IIa-IIæ, q. 62, a. 7#s.c.]]
 
 ###### resp.

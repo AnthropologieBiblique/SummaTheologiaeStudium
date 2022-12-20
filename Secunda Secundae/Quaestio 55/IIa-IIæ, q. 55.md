@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 55#Prooemium|Deinde considerandum est de vitiis oppositis prudentiae quae habent similitudinem cum ipsa. Et circa hoc quaeruntur octo. Primo, utrum prudentia carnis sit peccatum. Secundo, utrum sit peccatum mortale. Tertio, utrum astutia sit peccatum speciale. Quarto, de dolo. Quinto, de fraude. Sexto, de sollicitudine temporalium rerum. Septimo, de sollicitudine futurorum. Octavo, de origine horum vitiorum.]]
-![[CERF IIa-IIæ, q. 55#Prooemium]]
+Deinde considerandum est de vitiis oppositis prudentiae quae habent similitudinem cum ipsa. Et circa hoc quaeruntur octo. Primo, utrum prudentia carnis sit peccatum. Secundo, utrum sit peccatum mortale. Tertio, utrum astutia sit peccatum speciale. Quarto, de dolo. Quinto, de fraude. Sexto, de sollicitudine temporalium rerum. Septimo, de sollicitudine futurorum. Octavo, de origine horum vitiorum.
 
 ![[IIa-IIæ, q. 55, a. 1#Articulus 1]]
 

@@ -6,19 +6,19 @@ tags :
 ### Articulus 11
 
 ###### arg. 1
-![[LEO IIIa, q. 46, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod non fuerit conveniens Christum cum latronibus crucifigi. Dicitur enim [[2 Co 6]], *quae participatio iustitiae cum iniquitate? Sed Christus factus est nobis iustitia a Deo*; iniquitas autem pertinet ad latrones. Non ergo fuit conveniens ut Christus simul cum latronibus crucifigeretur.]]
+![[LEO IIIa, q. 46, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod non fuerit conveniens Christum cum latronibus crucifigi. Dicitur enim II Cor. VI, *quae participatio iustitiae cum iniquitate? Sed Christus factus est nobis iustitia a Deo*; iniquitas autem pertinet ad latrones. Non ergo fuit conveniens ut Christus simul cum latronibus crucifigeretur.]]
 ![[CERF IIIa, q. 46, a. 11#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 46, a. 11#arg. 2|Praeterea, super illud [[Mt 26]], *si oportuerit me mori tecum, non te negabo*, dicit Origenes, *mori cum Iesu pro omnibus moriente, hominum non erat*. Et Ambrosius dicit, super illud [[Lc 22]], *paratus sum tecum et in carcerem et in mortem ire, passio, inquit, domini aemulos habet, pares non habet*. Multo igitur minus conveniens videtur quod Christus simul cum latronibus pateretur.]]
+![[LEO IIIa, q. 46, a. 11#arg. 2|Praeterea, super illud Matth. XXVI, *si oportuerit me mori tecum, non te negabo*, dicit Origenes, *mori cum Iesu pro omnibus moriente, hominum non erat*. Et Ambrosius dicit, super illud Luc. XXII, *paratus sum tecum et in carcerem et in mortem ire, passio, inquit, domini aemulos habet, pares non habet*. Multo igitur minus conveniens videtur quod Christus simul cum latronibus pateretur.]]
 ![[CERF IIIa, q. 46, a. 11#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 46, a. 11#arg. 3|Praeterea, [[Mt 27]] dicitur quod *latrones qui crucifixi erant, improperabant ei*. Sed [[Lc 23]] dicitur quod unus eorum qui crucifixi erant cum Christo, ei dicebat, *memento mei, domine, cum veneris in regnum tuum*. Ergo videtur quod, praeter latrones blasphemantes, fuerit cum eo crucifixus alius non blasphemans. Et sic videtur inconvenienter ab Evangelistis narratum quod Christus fuerit cum latronibus crucifixus.]]
+![[LEO IIIa, q. 46, a. 11#arg. 3|Praeterea, Matth. XXVII dicitur quod *latrones qui crucifixi erant, improperabant ei*. Sed Luc. XXIII dicitur quod unus eorum qui crucifixi erant cum Christo, ei dicebat, *memento mei, domine, cum veneris in regnum tuum*. Ergo videtur quod, praeter latrones blasphemantes, fuerit cum eo crucifixus alius non blasphemans. Et sic videtur inconvenienter ab Evangelistis narratum quod Christus fuerit cum latronibus crucifixus.]]
 ![[CERF IIIa, q. 46, a. 11#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 46, a. 11#s.c.|Sed contra est quod [[Is 53]] fuerat prophetatum, *et cum sceleratis reputatus est*.]]
+![[LEO IIIa, q. 46, a. 11#s.c.|Sed contra est quod Isaiae LIII fuerat prophetatum, *et cum sceleratis reputatus est*.]]
 ![[CERF IIIa, q. 46, a. 11#s.c.]]
 
 ###### resp.

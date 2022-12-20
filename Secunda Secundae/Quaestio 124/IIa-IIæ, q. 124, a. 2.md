@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 124, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod martyrium non sit actus fortitudinis. Dicitur enim martyr in Graeco quasi testis. Testimonium autem redditur fidei Christi, secundum illud [[Ac 1]], *eritis mihi testes in Ierusalem,* et cetera. Et maximus dicit, in quodam sermone, *mater martyrii fides Catholica est, in qua illustres athletae suo sanguine subscripserunt*. Ergo martyrium est potius actus fidei quam fortitudinis.]]
+![[LEO IIa-IIæ, q. 124, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod martyrium non sit actus fortitudinis. Dicitur enim martyr in Graeco quasi testis. Testimonium autem redditur fidei Christi, secundum illud Act. I, *eritis mihi testes in Ierusalem,* et cetera. Et maximus dicit, in quodam sermone, *mater martyrii fides Catholica est, in qua illustres athletae suo sanguine subscripserunt*. Ergo martyrium est potius actus fidei quam fortitudinis.]]
 ![[CERF IIa-IIæ, q. 124, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 124, a. 2#arg. 2|Praeterea, actus laudabilis ad illam virtutem praecipue pertinet quae ad ipsum inclinat, et quae ab ipso manifestatur, et sine qua ipse non valet. Sed ad martyrium praecipue inclinat caritas, unde in quodam sermone maximi dicitur, *caritas Christi in martyribus suis vicit*. Maxime etiam caritas per actum martyrii manifestatur, secundum illud [[Jn 15]], *maiorem dilectionem nemo habet quam ut animam suam ponat quis pro amicis suis*. Sine caritate etiam martyrium nihil valet, secundum illud I ad Cor. XIII, *si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest*. Ergo martyrium magis est actus caritatis quam fortitudinis.]]
+![[LEO IIa-IIæ, q. 124, a. 2#arg. 2|Praeterea, actus laudabilis ad illam virtutem praecipue pertinet quae ad ipsum inclinat, et quae ab ipso manifestatur, et sine qua ipse non valet. Sed ad martyrium praecipue inclinat caritas, unde in quodam sermone maximi dicitur, *caritas Christi in martyribus suis vicit*. Maxime etiam caritas per actum martyrii manifestatur, secundum illud Ioan. XV, *maiorem dilectionem nemo habet quam ut animam suam ponat quis pro amicis suis*. Sine caritate etiam martyrium nihil valet, secundum illud I ad Cor. XIII, *si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest*. Ergo martyrium magis est actus caritatis quam fortitudinis.]]
 ![[CERF IIa-IIæ, q. 124, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 124, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 124, a. 2#ad 1|Ad primum ergo dicendum quod in actu fortitudinis duo sunt consideranda. Quorum unum est bonum in quo fortis firmatur, et hoc est fortitudinis finis. Aliud est ipsa firmitas, qua quis non cedit contrariis prohibentibus ab illo bono, et in hoc consistit essentia fortitudinis. Sicut autem fortitudo civilis firmat animum hominis in iustitia humana, propter cuius conservationem mortis pericula sustinet; ita etiam fortitudo gratuita firmat animum hominis in bono iustitiae Dei, quae est per fidem Iesu Christi, ut dicitur [[Rm 3]]. Et sic martyrium comparatur ad fidem sicut ad finem in quo aliquis firmatur, ad fortitudinem autem sicut ad habitum elicientem.]]
+![[LEO IIa-IIæ, q. 124, a. 2#ad 1|Ad primum ergo dicendum quod in actu fortitudinis duo sunt consideranda. Quorum unum est bonum in quo fortis firmatur, et hoc est fortitudinis finis. Aliud est ipsa firmitas, qua quis non cedit contrariis prohibentibus ab illo bono, et in hoc consistit essentia fortitudinis. Sicut autem fortitudo civilis firmat animum hominis in iustitia humana, propter cuius conservationem mortis pericula sustinet; ita etiam fortitudo gratuita firmat animum hominis in bono iustitiae Dei, quae est per fidem Iesu Christi, ut dicitur Rom. III. Et sic martyrium comparatur ad fidem sicut ad finem in quo aliquis firmatur, ad fortitudinem autem sicut ad habitum elicientem.]]
 ![[CERF IIa-IIæ, q. 124, a. 2#ad 1]]
 
 ###### ad 2

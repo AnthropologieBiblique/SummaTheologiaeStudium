@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 53, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 53, a. 5#arg. 2|Praeterea, [[Jc 3]] dicitur, *ubi zelus et contentio, ibi inconstantia et omne opus pravum*. Sed zelus ad invidiam pertinet. Ergo inconstantia non pertinet ad imprudentiam, sed magis ad invidiam.]]
+![[LEO IIa-IIæ, q. 53, a. 5#arg. 2|Praeterea, Iac. III dicitur, *ubi zelus et contentio, ibi inconstantia et omne opus pravum*. Sed zelus ad invidiam pertinet. Ergo inconstantia non pertinet ad imprudentiam, sed magis ad invidiam.]]
 ![[CERF IIa-IIæ, q. 53, a. 5#arg. 2]]
 
 ###### arg. 3

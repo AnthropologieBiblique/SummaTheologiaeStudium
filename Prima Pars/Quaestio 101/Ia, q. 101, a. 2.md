@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 101, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod pueri in statu innocentiae mox nati habuissent perfectum usum rationis. Nunc enim pueri perfectum usum rationis non habent propter hoc, quod anima per corpus aggravatur. Hoc autem tunc non erat, quia, ut dicitur [[Sg 9]], *corpus quod corrumpitur, aggravat animam*. Ergo ante peccatum et corruptionem a peccato subsecutam, pueri mox nati perfectum usum rationis habuissent.]]
+![[LEO Ia, q. 101, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod pueri in statu innocentiae mox nati habuissent perfectum usum rationis. Nunc enim pueri perfectum usum rationis non habent propter hoc, quod anima per corpus aggravatur. Hoc autem tunc non erat, quia, ut dicitur Sap. IX, *corpus quod corrumpitur, aggravat animam*. Ergo ante peccatum et corruptionem a peccato subsecutam, pueri mox nati perfectum usum rationis habuissent.]]
 ![[CERF Ia, q. 101, a. 2#arg. 1]]
 
 ###### arg. 2

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 132, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 132, a. 2#arg. 3|Praeterea, [[Ph 2]], super illud, nihil per contentionem aut inanem gloriam, dicit Glossa, *erant aliqui inter eos dissentientes, inquieti, inanis gloriae causa contendentes*. Contentio autem non opponitur magnanimitati. Ergo neque inanis gloria.]]
+![[LEO IIa-IIæ, q. 132, a. 2#arg. 3|Praeterea, Philipp. II, super illud, nihil per contentionem aut inanem gloriam, dicit Glossa, *erant aliqui inter eos dissentientes, inquieti, inanis gloriae causa contendentes*. Contentio autem non opponitur magnanimitati. Ergo neque inanis gloria.]]
 ![[CERF IIa-IIæ, q. 132, a. 2#arg. 3]]
 
 ###### s.c.

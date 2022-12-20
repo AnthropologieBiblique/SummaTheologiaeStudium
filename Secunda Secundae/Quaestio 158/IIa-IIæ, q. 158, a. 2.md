@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 158, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 158, a. 2#s.c.|Sed contra est quod apostolus dicit, ad [[Ep 4]], *omnis indignatio et ira tollatur a vobis*.]]
+![[LEO IIa-IIæ, q. 158, a. 2#s.c.|Sed contra est quod apostolus dicit, ad Ephes. IV, *omnis indignatio et ira tollatur a vobis*.]]
 ![[CERF IIa-IIæ, q. 158, a. 2#s.c.]]
 
 ###### resp.

@@ -22,11 +22,11 @@ tags :
 ![[CERF IIIa, q. 72, a. 7#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 72, a. 7#resp.|Respondeo dicendum quod in hoc sacramento, sicut dictum est, datur baptizato spiritus sanctus ad robur, sicut apostolis datus est in die Pentecostes, ut legitur [[Ac 2]]; et sicut dabatur baptizatis per impositionem manus apostolorum, ut dicitur [[Ac 2]]. Ostensum est autem in prima parte quod missio seu datio spiritus sancti non est nisi cum gratia gratum faciente. Unde manifestum est quod gratia gratum faciens confertur in hoc sacramento.]]
+![[LEO IIIa, q. 72, a. 7#resp.|Respondeo dicendum quod in hoc sacramento, sicut dictum est, datur baptizato spiritus sanctus ad robur, sicut apostolis datus est in die Pentecostes, ut legitur Act. II; et sicut dabatur baptizatis per impositionem manus apostolorum, ut dicitur Act. VIII. Ostensum est autem in prima parte quod missio seu datio spiritus sancti non est nisi cum gratia gratum faciente. Unde manifestum est quod gratia gratum faciens confertur in hoc sacramento.]]
 ![[CERF IIIa, q. 72, a. 7#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 72, a. 7#ad 1|Ad primum ergo dicendum quod gratiae gratum facientis est remissio culpae, habet tamen et alios effectus, quia sufficit ad hoc quod promoveat hominem per omnes gradus usque in vitam aeternam. Unde et Paulo dictum est, [[2 Co 12]], *sufficit tibi gratia mea*, et ipse de se dicit, [[1 Co 15]], *gratia Dei sum id quod sum*. Et ideo gratia gratum faciens non solum datur ad remissionem culpae, sed etiam ad augmentum et firmitatem iustitiae. Et sic confertur in hoc sacramento.]]
+![[LEO IIIa, q. 72, a. 7#ad 1|Ad primum ergo dicendum quod gratiae gratum facientis est remissio culpae, habet tamen et alios effectus, quia sufficit ad hoc quod promoveat hominem per omnes gradus usque in vitam aeternam. Unde et Paulo dictum est, II Cor. XII, *sufficit tibi gratia mea*, et ipse de se dicit, I Cor. XV, *gratia Dei sum id quod sum*. Et ideo gratia gratum faciens non solum datur ad remissionem culpae, sed etiam ad augmentum et firmitatem iustitiae. Et sic confertur in hoc sacramento.]]
 ![[CERF IIIa, q. 72, a. 7#ad 1]]
 
 ###### ad 2

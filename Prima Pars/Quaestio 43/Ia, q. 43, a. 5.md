@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia, q. 43, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod filio non conveniat invisibiliter mitti. Missio enim invisibilis divinae personae attenditur secundum dona gratiae. Sed omnia dona gratiae pertinent ad spiritum sanctum, secundum illud [[1 Co 12]], *omnia operatur unus atque idem spiritus*. Ergo invisibiliter non mittitur nisi spiritus sanctus.]]
+![[LEO Ia, q. 43, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod filio non conveniat invisibiliter mitti. Missio enim invisibilis divinae personae attenditur secundum dona gratiae. Sed omnia dona gratiae pertinent ad spiritum sanctum, secundum illud I Cor. XII, *omnia operatur unus atque idem spiritus*. Ergo invisibiliter non mittitur nisi spiritus sanctus.]]
 ![[CERF Ia, q. 43, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia, q. 43, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 43, a. 5#s.c.|Sed contra est quod [[Sg 9]] dicitur de divina sapientia, *mitte illam de caelis sanctis tuis, et a sede magnitudinis tuae*.]]
+![[LEO Ia, q. 43, a. 5#s.c.|Sed contra est quod Sap. IX dicitur de divina sapientia, *mitte illam de caelis sanctis tuis, et a sede magnitudinis tuae*.]]
 ![[CERF Ia, q. 43, a. 5#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 43, a. 5#resp.|Respondeo dicendum quod per gratiam gratum facientem tota Trinitas inhabitat mentem, secundum illud [[Jn 14]], *ad eum veniemus, et mansionem apud eum faciemus*. Mitti autem personam divinam ad aliquem per invisibilem gratiam, significat novum modum inhabitandi illius personae, et originem eius ab alia. Unde, cum tam filio quam spiritui sancto conveniat et inhabitare per gratiam et ab alio esse, utrique convenit invisibiliter mitti. Patri autem licet conveniat inhabitare per gratiam, non tamen sibi convenit ab alio esse; et per consequens nec mitti.]]
+![[LEO Ia, q. 43, a. 5#resp.|Respondeo dicendum quod per gratiam gratum facientem tota Trinitas inhabitat mentem, secundum illud Ioan. XIV, *ad eum veniemus, et mansionem apud eum faciemus*. Mitti autem personam divinam ad aliquem per invisibilem gratiam, significat novum modum inhabitandi illius personae, et originem eius ab alia. Unde, cum tam filio quam spiritui sancto conveniat et inhabitare per gratiam et ab alio esse, utrique convenit invisibiliter mitti. Patri autem licet conveniat inhabitare per gratiam, non tamen sibi convenit ab alio esse; et per consequens nec mitti.]]
 ![[CERF Ia, q. 43, a. 5#resp.]]
 
 ###### ad 1
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia, q. 43, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO Ia, q. 43, a. 5#ad 2|Ad secundum dicendum quod anima per gratiam conformatur Deo. Unde ad hoc quod aliqua persona divina mittatur ad aliquem per gratiam, oportet quod fiat assimilatio illius ad divinam personam quae mittitur per aliquod gratiae donum. Et quia spiritus sanctus est amor, per donum caritatis anima spiritui sancto assimilatur, unde secundum donum caritatis attenditur missio spiritus sancti. Filius autem est verbum, non qualecumque, sed spirans amorem, unde Augustinus dicit, in IX libro de Trin., *verbum quod insinuare intendimus, cum amore notitia est*. Non igitur secundum quamlibet perfectionem intellectus mittitur filius, sed secundum talem instructionem intellectus, qua prorumpat in affectum amoris, ut dicitur [[Jn 6]], *omnis qui audivit a patre, et didicit, venit ad me*; et in Psalm., *in meditatione mea exardescet ignis*. Et ideo signanter dicit Augustinus quod filius mittitur, cum a quoquam cognoscitur atque percipitur, perceptio enim experimentalem quandam notitiam significat. Et haec proprie dicitur sapientia, quasi sapida scientia, secundum illud [[Si 6]], *sapientia doctrinae secundum nomen eius est*.]]
+![[LEO Ia, q. 43, a. 5#ad 2|Ad secundum dicendum quod anima per gratiam conformatur Deo. Unde ad hoc quod aliqua persona divina mittatur ad aliquem per gratiam, oportet quod fiat assimilatio illius ad divinam personam quae mittitur per aliquod gratiae donum. Et quia spiritus sanctus est amor, per donum caritatis anima spiritui sancto assimilatur, unde secundum donum caritatis attenditur missio spiritus sancti. Filius autem est verbum, non qualecumque, sed spirans amorem, unde Augustinus dicit, in IX libro de Trin., *verbum quod insinuare intendimus, cum amore notitia est*. Non igitur secundum quamlibet perfectionem intellectus mittitur filius, sed secundum talem instructionem intellectus, qua prorumpat in affectum amoris, ut dicitur Ioan. VI, *omnis qui audivit a patre, et didicit, venit ad me*; et in Psalm., *in meditatione mea exardescet ignis*. Et ideo signanter dicit Augustinus quod filius mittitur, cum a quoquam cognoscitur atque percipitur, perceptio enim experimentalem quandam notitiam significat. Et haec proprie dicitur sapientia, quasi sapida scientia, secundum illud Eccli. VI, *sapientia doctrinae secundum nomen eius est*.]]
 ![[CERF Ia, q. 43, a. 5#ad 2]]
 
 ###### ad 3

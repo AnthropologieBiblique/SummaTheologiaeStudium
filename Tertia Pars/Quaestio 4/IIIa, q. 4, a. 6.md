@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIIa, q. 4, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod non fuerit conveniens ut filius Dei humanam naturam assumeret ex stirpe Adae. Dicit enim apostolus, ad [[He 7]], *decebat ut esset nobis pontifex segregatus a peccatoribus*. Sed magis esset a peccatoribus segregatus si non assumpsisset humanam naturam ex stirpe Adae peccatoris. Ergo videtur quod non debuit de stirpe Adae naturam humanam assumere.]]
+![[LEO IIIa, q. 4, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod non fuerit conveniens ut filius Dei humanam naturam assumeret ex stirpe Adae. Dicit enim apostolus, ad Heb. VII, *decebat ut esset nobis pontifex segregatus a peccatoribus*. Sed magis esset a peccatoribus segregatus si non assumpsisset humanam naturam ex stirpe Adae peccatoris. Ergo videtur quod non debuit de stirpe Adae naturam humanam assumere.]]
 ![[CERF IIIa, q. 4, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 4, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 4, a. 6#s.c.|Sed contra est quod [[Lc 3]] generatio domini reducitur usque ad Adam.]]
+![[LEO IIIa, q. 4, a. 6#s.c.|Sed contra est quod Luc. III generatio domini reducitur usque ad Adam.]]
 ![[CERF IIIa, q. 4, a. 6#s.c.]]
 
 ###### resp.
@@ -26,14 +26,14 @@ tags :
 ![[CERF IIIa, q. 4, a. 6#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 4, a. 6#ad 1|Ad primum ergo dicendum quod Christus debuit esse a peccatoribus segregatus quantum ad culpam, quam venerat destruere, non quantum ad naturam, quam venerat salvare; secundum quam *debuit per omnia fratribus assimilari*, ut idem apostolus dicit, [[He 2]]. Et in hoc etiam mirabilior est eius innocentia, quod de massa peccato subiecta natura assumpta tantam habuit puritatem.]]
+![[LEO IIIa, q. 4, a. 6#ad 1|Ad primum ergo dicendum quod Christus debuit esse a peccatoribus segregatus quantum ad culpam, quam venerat destruere, non quantum ad naturam, quam venerat salvare; secundum quam *debuit per omnia fratribus assimilari*, ut idem apostolus dicit, Heb. II. Et in hoc etiam mirabilior est eius innocentia, quod de massa peccato subiecta natura assumpta tantam habuit puritatem.]]
 ![[CERF IIIa, q. 4, a. 6#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 4, a. 6#ad 2|Ad secundum dicendum quod, sicut dictum est, oportuit eum qui peccata venerat tollere, esse a peccatoribus segregatum quantum ad culpam, cui Adam subiacuit, et quem Christus a suo delicto eduxit, ut dicitur [[Sg 10]]. Oportebat autem eum qui mundare omnes venerat, non esse mundandum, sicut et in quolibet genere motus primum movens est immobile secundum illum motum, sicut primum alterans est inalterabile. Et ideo non fuit conveniens ut assumeret humanam naturam in ipso Adam.]]
+![[LEO IIIa, q. 4, a. 6#ad 2|Ad secundum dicendum quod, sicut dictum est, oportuit eum qui peccata venerat tollere, esse a peccatoribus segregatum quantum ad culpam, cui Adam subiacuit, et quem Christus a suo delicto eduxit, ut dicitur Sap. X. Oportebat autem eum qui mundare omnes venerat, non esse mundandum, sicut et in quolibet genere motus primum movens est immobile secundum illum motum, sicut primum alterans est inalterabile. Et ideo non fuit conveniens ut assumeret humanam naturam in ipso Adam.]]
 ![[CERF IIIa, q. 4, a. 6#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 4, a. 6#ad 3|Ad tertium dicendum quod, quia Christus debebat esse maxime a peccatoribus segregatus quantum ad culpam, quasi summam innocentiae obtinens, conveniens fuit ut a primo peccatore usque ad Christum perveniretur mediantibus quibusdam iustis, in quibus perfulgerent quaedam insignia futurae sanctitatis. Propter hoc etiam in populo ex quo Christus erat nasciturus instituit Deus quaedam sanctitatis signa, quae incoeperunt in Abraham, qui primus promissionem accepit de Christo, et circumcisionem in signum foederis consummandi, ut dicitur [[Gn 17]].]]
+![[LEO IIIa, q. 4, a. 6#ad 3|Ad tertium dicendum quod, quia Christus debebat esse maxime a peccatoribus segregatus quantum ad culpam, quasi summam innocentiae obtinens, conveniens fuit ut a primo peccatore usque ad Christum perveniretur mediantibus quibusdam iustis, in quibus perfulgerent quaedam insignia futurae sanctitatis. Propter hoc etiam in populo ex quo Christus erat nasciturus instituit Deus quaedam sanctitatis signa, quae incoeperunt in Abraham, qui primus promissionem accepit de Christo, et circumcisionem in signum foederis consummandi, ut dicitur Gen. XVII.]]
 ![[CERF IIIa, q. 4, a. 6#ad 3]]
 

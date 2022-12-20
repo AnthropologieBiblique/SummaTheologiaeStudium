@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia-IIæ, q. 44, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO Ia-IIæ, q. 44, a. 3#ad 3|Ad tertium dicendum quod, quia in timore calor deserit cor, a superioribus ad inferiora tendens, ideo timentibus maxime tremit cor, et membra quae habent aliquam connexionem ad pectus, ubi est cor. Unde timentes maxime tremunt in voce, propter vicinitatem vocalis arteriae ad cor. Tremit etiam labium inferius, et tota inferior mandibula, propter continuationem ad cor, unde et crepitus dentium sequitur. Et eadem ratione brachia et manus tremunt. Vel etiam quia huiusmodi membra sunt magis mobilia. Propter quod et genua tremunt timentibus; secundum illud [[Is 35]], *confortate manus dissolutas, et genua trementia roborate*.]]
+![[LEO Ia-IIæ, q. 44, a. 3#ad 3|Ad tertium dicendum quod, quia in timore calor deserit cor, a superioribus ad inferiora tendens, ideo timentibus maxime tremit cor, et membra quae habent aliquam connexionem ad pectus, ubi est cor. Unde timentes maxime tremunt in voce, propter vicinitatem vocalis arteriae ad cor. Tremit etiam labium inferius, et tota inferior mandibula, propter continuationem ad cor, unde et crepitus dentium sequitur. Et eadem ratione brachia et manus tremunt. Vel etiam quia huiusmodi membra sunt magis mobilia. Propter quod et genua tremunt timentibus; secundum illud Isaiae XXXV, *confortate manus dissolutas, et genua trementia roborate*.]]
 ![[CERF Ia-IIæ, q. 44, a. 3#ad 3]]
 

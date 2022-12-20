@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 88, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 88, a. 3#s.c.|Sed contra est quod dicitur [[Si 19]], *qui spernit minima, paulatim defluit*. Sed ille qui peccat venialiter, videtur minima spernere. Ergo paulatim disponitur ad hoc quod totaliter defluat per peccatum mortale.]]
+![[LEO Ia-IIæ, q. 88, a. 3#s.c.|Sed contra est quod dicitur Eccli. XIX, *qui spernit minima, paulatim defluit*. Sed ille qui peccat venialiter, videtur minima spernere. Ergo paulatim disponitur ad hoc quod totaliter defluat per peccatum mortale.]]
 ![[CERF Ia-IIæ, q. 88, a. 3#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 40, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod spes pertineat ad vim cognitivam. Spes enim videtur esse expectatio quaedam, dicit enim apostolus, [[Rm 8]], *si autem quod non videmus speramus, per patientiam expectamus*. Sed expectatio videtur ad vim cognitivam pertinere, cuius est exspectare. Ergo spes ad cognitivam pertinet.]]
+![[LEO Ia-IIæ, q. 40, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod spes pertineat ad vim cognitivam. Spes enim videtur esse expectatio quaedam, dicit enim apostolus, Rom. VIII, *si autem quod non videmus speramus, per patientiam expectamus*. Sed expectatio videtur ad vim cognitivam pertinere, cuius est exspectare. Ergo spes ad cognitivam pertinet.]]
 ![[CERF Ia-IIæ, q. 40, a. 2#arg. 1]]
 
 ###### arg. 2

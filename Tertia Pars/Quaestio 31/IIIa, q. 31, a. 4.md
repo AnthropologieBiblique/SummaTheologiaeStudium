@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 31, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 31, a. 4#arg. 2|Praeterea, quicumque ex femina concipitur, utero feminae includitur. Sed Deo, *qui caelum et terram implet*, ut dicitur [[Jr 23]], non competit ut parvo feminae utero includatur. Ergo videtur quod non debuit concipi de femina.]]
+![[LEO IIIa, q. 31, a. 4#arg. 2|Praeterea, quicumque ex femina concipitur, utero feminae includitur. Sed Deo, *qui caelum et terram implet*, ut dicitur Ierem. XXIII, non competit ut parvo feminae utero includatur. Ergo videtur quod non debuit concipi de femina.]]
 ![[CERF IIIa, q. 31, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 31, a. 4#arg. 3|Praeterea, illi qui concipiuntur ex femina, quandam immunditiam patiuntur, ut dicitur [[Jb 25]], *nunquid iustificari potest homo comparatus Deo? Aut apparere mundus natus de muliere?* Sed in Christo nulla immunditia esse debuit, ipse enim est Dei sapientia, de qua dicitur, [[Sg 7]], quod *nihil inquinatum in illam incurrit*. Ergo non videtur quod debuerit carnem assumpsisse de femina.]]
+![[LEO IIIa, q. 31, a. 4#arg. 3|Praeterea, illi qui concipiuntur ex femina, quandam immunditiam patiuntur, ut dicitur Iob XXV, *nunquid iustificari potest homo comparatus Deo? Aut apparere mundus natus de muliere?* Sed in Christo nulla immunditia esse debuit, ipse enim est Dei sapientia, de qua dicitur, Sap. VII, quod *nihil inquinatum in illam incurrit*. Ergo non videtur quod debuerit carnem assumpsisse de femina.]]
 ![[CERF IIIa, q. 31, a. 4#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 31, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 31, a. 4#ad 3|Ad tertium dicendum quod in conceptione viri ex femina non est aliquid immundum inquantum est opus Dei, unde dicitur [[Ac 10]], *quod Deus creavit, tu ne commune dixeris*, idest immundum. Est tamen aliqua ibi immunditia ex peccato proveniens, prout cum libidine aliquis concipitur ex commixtione maris et feminae. Quod tamen in Christo non fuit, ut supra ostensum est. Si tamen aliqua ibi esset immunditia, ex ea non inquinaretur Dei verbum, quod nullo modo est mutabile. Unde Augustinus dicit, in libro contra quinque haereses, *dicit Deus, creator hominis, quid est quod te permovet in mea nativitate? Non sum libidinis conceptus cupiditate. Ego matrem de qua nascerer, feci. Si solis radius cloacarum sordes siccare novit, eis inquinari non novit multo magis splendor lucis aeternae quocumque radiaverit mundare potest, ipse pollui non potest*.]]
+![[LEO IIIa, q. 31, a. 4#ad 3|Ad tertium dicendum quod in conceptione viri ex femina non est aliquid immundum inquantum est opus Dei, unde dicitur Act. X, *quod Deus creavit, tu ne commune dixeris*, idest immundum. Est tamen aliqua ibi immunditia ex peccato proveniens, prout cum libidine aliquis concipitur ex commixtione maris et feminae. Quod tamen in Christo non fuit, ut supra ostensum est. Si tamen aliqua ibi esset immunditia, ex ea non inquinaretur Dei verbum, quod nullo modo est mutabile. Unde Augustinus dicit, in libro contra quinque haereses, *dicit Deus, creator hominis, quid est quod te permovet in mea nativitate? Non sum libidinis conceptus cupiditate. Ego matrem de qua nascerer, feci. Si solis radius cloacarum sordes siccare novit, eis inquinari non novit multo magis splendor lucis aeternae quocumque radiaverit mundare potest, ipse pollui non potest*.]]
 ![[CERF IIIa, q. 31, a. 4#ad 3]]
 

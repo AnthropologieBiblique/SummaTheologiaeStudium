@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 145, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 145, a. 1#arg. 4|Praeterea, honestas videtur consistere in exterioribus divitiis, secundum illud [[Si 11]], *bona et mala, vita et mors, utraque a Deo sunt*. Sed in exterioribus divitiis non consistit virtus. Ergo honestas non est idem virtuti.]]
+![[LEO IIa-IIæ, q. 145, a. 1#arg. 4|Praeterea, honestas videtur consistere in exterioribus divitiis, secundum illud Eccli. XI, *bona et mala, vita et mors, utraque a Deo sunt*. Sed in exterioribus divitiis non consistit virtus. Ergo honestas non est idem virtuti.]]
 ![[CERF IIa-IIæ, q. 145, a. 1#arg. 4]]
 
 ###### s.c.

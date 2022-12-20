@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 160, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 160, a. 1#arg. 3|Praeterea, modestia videtur consistere circa proximorum correctionem, secundum illud [[2 Tm 2]], *servum Dei non oportet litigare, sed mansuetum esse ad omnes, cum modestia corripientem eos qui resistunt veritati*. Sed correctio delinquentium est actus iustitiae vel caritatis, ut supra habitum est. Ergo videtur quod modestia magis sit pars iustitiae quam temperantiae.]]
+![[LEO IIa-IIæ, q. 160, a. 1#arg. 3|Praeterea, modestia videtur consistere circa proximorum correctionem, secundum illud II ad Tim. II, *servum Dei non oportet litigare, sed mansuetum esse ad omnes, cum modestia corripientem eos qui resistunt veritati*. Sed correctio delinquentium est actus iustitiae vel caritatis, ut supra habitum est. Ergo videtur quod modestia magis sit pars iustitiae quam temperantiae.]]
 ![[CERF IIa-IIæ, q. 160, a. 1#arg. 3]]
 
 ###### s.c.

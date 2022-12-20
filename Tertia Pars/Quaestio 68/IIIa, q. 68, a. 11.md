@@ -6,7 +6,7 @@ tags :
 ### Articulus 11
 
 ###### arg. 1
-![[LEO IIIa, q. 68, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod in maternis uteris existentes possint baptizari. Efficacius est enim donum Christi ad salutem quam peccatum Adae ad damnationem, ut apostolus dicit, [[Rm 5]]. Sed pueri in maternis uteris existentes damnantur propter peccatum Adae. Ergo multo magis salvari possunt per donum Christi. Quod quidem fit per Baptismum. Ergo pueri in maternis uteris existentes possunt baptizari.]]
+![[LEO IIIa, q. 68, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod in maternis uteris existentes possint baptizari. Efficacius est enim donum Christi ad salutem quam peccatum Adae ad damnationem, ut apostolus dicit, Rom. V. Sed pueri in maternis uteris existentes damnantur propter peccatum Adae. Ergo multo magis salvari possunt per donum Christi. Quod quidem fit per Baptismum. Ergo pueri in maternis uteris existentes possunt baptizari.]]
 ![[CERF IIIa, q. 68, a. 11#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 68, a. 11#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 68, a. 11#arg. 4|Praeterea, contingit quandoque quod aliqua pars pueri prius egreditur, sicut legitur [[Gn 38]] quod, pariente Thamar, *in ipsa effusione infantium, unus protulit manum, in qua obstetrix ligavit coccinum, dicens, iste egredietur prior. Illo vero manum retrahente, egressus est alter*. Quandoque autem in tali casu imminet periculum mortis. Ergo videtur quod illa pars debeat baptizari, puero adhuc in materno utero existente.]]
+![[LEO IIIa, q. 68, a. 11#arg. 4|Praeterea, contingit quandoque quod aliqua pars pueri prius egreditur, sicut legitur Gen. XXXVIII quod, pariente Thamar, *in ipsa effusione infantium, unus protulit manum, in qua obstetrix ligavit coccinum, dicens, iste egredietur prior. Illo vero manum retrahente, egressus est alter*. Quandoque autem in tali casu imminet periculum mortis. Ergo videtur quod illa pars debeat baptizari, puero adhuc in materno utero existente.]]
 ![[CERF IIIa, q. 68, a. 11#arg. 4]]
 
 ###### s.c.
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIIa, q. 68, a. 11#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 68, a. 11#ad 3|Ad tertium dicendum quod *non sunt facienda mala ut veniant bona*, ut dicitur [[Rm 3]]. Et ideo non debet homo occidere matrem ut baptizet puerum. Si tamen mater mortua fuerit vivente puero in utero, aperiri debet, ut puer baptizetur.]]
+![[LEO IIIa, q. 68, a. 11#ad 3|Ad tertium dicendum quod *non sunt facienda mala ut veniant bona*, ut dicitur Rom. III. Et ideo non debet homo occidere matrem ut baptizet puerum. Si tamen mater mortua fuerit vivente puero in utero, aperiri debet, ut puer baptizetur.]]
 ![[CERF IIIa, q. 68, a. 11#ad 3]]
 
 ###### ad 4

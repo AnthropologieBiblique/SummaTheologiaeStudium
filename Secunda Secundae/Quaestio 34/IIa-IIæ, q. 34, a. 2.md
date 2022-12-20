@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 34, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod odium Dei non sit maximum peccatorum. Gravissimum enim peccatum est peccatum in spiritum sanctum, quod est irremissibile, ut dicitur [[Mt 12]]. Sed odium Dei non computatur inter species peccati in spiritum sanctum; ut ex supradictis patet. Ergo odium Dei non est gravissimum peccatorum.]]
+![[LEO IIa-IIæ, q. 34, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod odium Dei non sit maximum peccatorum. Gravissimum enim peccatum est peccatum in spiritum sanctum, quod est irremissibile, ut dicitur Matth. XII. Sed odium Dei non computatur inter species peccati in spiritum sanctum; ut ex supradictis patet. Ergo odium Dei non est gravissimum peccatorum.]]
 ![[CERF IIa-IIæ, q. 34, a. 2#arg. 1]]
 
 ###### arg. 2

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 73, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 73, a. 1#s.c.|Sed contra est quod dicitur [[Qo 10]], *si mordeat serpens in silentio, nihil eo minus habet qui occulte detrahit*. Ergo occulte mordere famam alicuius est detrahere.]]
+![[LEO IIa-IIæ, q. 73, a. 1#s.c.|Sed contra est quod dicitur Eccle. X, *si mordeat serpens in silentio, nihil eo minus habet qui occulte detrahit*. Ergo occulte mordere famam alicuius est detrahere.]]
 ![[CERF IIa-IIæ, q. 73, a. 1#s.c.]]
 
 ###### resp.

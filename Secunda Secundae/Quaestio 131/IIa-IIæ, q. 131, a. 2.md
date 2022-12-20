@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 131, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 131, a. 2#arg. 2|Praeterea, magnanimitas est circa honores. Sed ambitio videtur pertinere ad dignitates, dicitur enim [[2 M 4]], quod *Iason ambiebat summum sacerdotium*. Ergo ambitio non opponitur magnanimitati.]]
+![[LEO IIa-IIæ, q. 131, a. 2#arg. 2|Praeterea, magnanimitas est circa honores. Sed ambitio videtur pertinere ad dignitates, dicitur enim II Machab. IV, quod *Iason ambiebat summum sacerdotium*. Ergo ambitio non opponitur magnanimitati.]]
 ![[CERF IIa-IIæ, q. 131, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 131, a. 2#arg. 3|Praeterea, ambitio videtur ad exteriorem apparatum pertinere, dicitur enim [[Ac 25]], quod Agrippa et Berenice cum multa ambitione introierunt praetorium; et [[2 Ch 16]], quod super corpus Asa mortui combusserunt aromata et unguenta ambitione nimia. Sed magnanimitas non est circa exteriorem apparatum. Ergo ambitio non opponitur magnanimitati.]]
+![[LEO IIa-IIæ, q. 131, a. 2#arg. 3|Praeterea, ambitio videtur ad exteriorem apparatum pertinere, dicitur enim Act. XXV, quod Agrippa et Berenice cum multa ambitione introierunt praetorium; et II Paralip. XVI, quod super corpus Asa mortui combusserunt aromata et unguenta ambitione nimia. Sed magnanimitas non est circa exteriorem apparatum. Ergo ambitio non opponitur magnanimitati.]]
 ![[CERF IIa-IIæ, q. 131, a. 2#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 131, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 131, a. 2#ad 3|Ad tertium dicendum quod ipsa solemnitas exterioris cultus ad quendam honorem pertinet, unde et talibus consuevit honor exhiberi. Quod significatur [[Jc 2]], *si introierit in conventum vestrum vir anulum habens aureum, in veste candida, et dixeritis ei, tu sede hic bene,* et cetera. Unde ambitio non est circa exteriorem cultum nisi secundum quod pertinet ad honorem.]]
+![[LEO IIa-IIæ, q. 131, a. 2#ad 3|Ad tertium dicendum quod ipsa solemnitas exterioris cultus ad quendam honorem pertinet, unde et talibus consuevit honor exhiberi. Quod significatur Iac. II, *si introierit in conventum vestrum vir anulum habens aureum, in veste candida, et dixeritis ei, tu sede hic bene,* et cetera. Unde ambitio non est circa exteriorem cultum nisi secundum quod pertinet ad honorem.]]
 ![[CERF IIa-IIæ, q. 131, a. 2#ad 3]]
 

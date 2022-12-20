@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIIa, q. 15, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod in Christo non fuerit tristitia. Dicitur enim de Christo, [[Is 42]], *non erit tristis neque turbulentus*.]]
+![[LEO IIIa, q. 15, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod in Christo non fuerit tristitia. Dicitur enim de Christo, Isaiae XLII, *non erit tristis neque turbulentus*.]]
 ![[CERF IIIa, q. 15, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 15, a. 6#arg. 2|Praeterea, Proverb. XII dicitur, *non contristabit iustum quidquid ei acciderit*. Et huius rationem Stoici assignabant, quia nullus tristatur nisi de amissione bonorum suorum, iustus autem non reputat bona sua nisi iustitiam et virtutem, quas non potest amittere. Alioquin, subiaceret iustus fortunae, si pro amissione bonorum fortunae tristaretur. Sed Christus fuit maxime iustus, secundum illud [[Jr 23]]. *Hoc est nomen quod vocabunt eum, dominus iustus noster*. Ergo in eo non fuit tristitia.]]
+![[LEO IIIa, q. 15, a. 6#arg. 2|Praeterea, Proverb. XII dicitur, *non contristabit iustum quidquid ei acciderit*. Et huius rationem Stoici assignabant, quia nullus tristatur nisi de amissione bonorum suorum, iustus autem non reputat bona sua nisi iustitiam et virtutem, quas non potest amittere. Alioquin, subiaceret iustus fortunae, si pro amissione bonorum fortunae tristaretur. Sed Christus fuit maxime iustus, secundum illud Ierem. XXIII. *Hoc est nomen quod vocabunt eum, dominus iustus noster*. Ergo in eo non fuit tristitia.]]
 ![[CERF IIIa, q. 15, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 15, a. 6#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 15, a. 6#arg. 4|Praeterea, sicut Augustinus dicit, XIV de Civ. Dei, *tristitia est de his quae nobis nolentibus accidunt*. Sed nihil passus est Christus contra suam voluntatem, dicitur enim [[Is 53]], *oblatus est quia ipse voluit*. Ergo in Christo non fuit tristitia.]]
+![[LEO IIIa, q. 15, a. 6#arg. 4|Praeterea, sicut Augustinus dicit, XIV de Civ. Dei, *tristitia est de his quae nobis nolentibus accidunt*. Sed nihil passus est Christus contra suam voluntatem, dicitur enim Isaiae LIII, *oblatus est quia ipse voluit*. Ergo in Christo non fuit tristitia.]]
 ![[CERF IIIa, q. 15, a. 6#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 15, a. 6#s.c.|Sed contra est quod dicit dominus, [[Mt 26]], *tristis est anima mea usque ad mortem*. Et Ambrosius dicit, II de Trin., *ut homo, tristitiam habuit, suscepit enim tristitiam meam. Confidenter tristitiam nomino, qui crucem praedico*.]]
+![[LEO IIIa, q. 15, a. 6#s.c.|Sed contra est quod dicit dominus, Matth. XXVI, *tristis est anima mea usque ad mortem*. Et Ambrosius dicit, II de Trin., *ut homo, tristitiam habuit, suscepit enim tristitiam meam. Confidenter tristitiam nomino, qui crucem praedico*.]]
 ![[CERF IIIa, q. 15, a. 6#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 15, a. 6#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 15, a. 6#ad 1|Ad primum ergo dicendum quod tristitia removetur a Christo secundum passionem perfectam, fuit tamen in eo initiata, secundum propassionem. Unde dicitur [[Mt 26]], *coepit contristari et moestus esse. Aliud enim est contristari, aliud incipere contristari*, ut Hieronymus ibidem dicit.]]
+![[LEO IIIa, q. 15, a. 6#ad 1|Ad primum ergo dicendum quod tristitia removetur a Christo secundum passionem perfectam, fuit tamen in eo initiata, secundum propassionem. Unde dicitur Matth. XXVI, *coepit contristari et moestus esse. Aliud enim est contristari, aliud incipere contristari*, ut Hieronymus ibidem dicit.]]
 ![[CERF IIIa, q. 15, a. 6#ad 1]]
 
 ###### ad 2

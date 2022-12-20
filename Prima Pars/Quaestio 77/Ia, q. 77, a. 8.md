@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 77, a. 8#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 77, a. 8#arg. 4|Praeterea, memoria est potentia animae sensitivae, ut philosophus probat. Sed memoria manet in anima separata, dicitur enim, [[Lc 16]], diviti epuloni in Inferno secundum animam existenti, *recordare quia recepisti bona in vita tua*. Ergo memoria manet in anima separata; et per consequens aliae potentiae sensitivae partis.]]
+![[LEO Ia, q. 77, a. 8#arg. 4|Praeterea, memoria est potentia animae sensitivae, ut philosophus probat. Sed memoria manet in anima separata, dicitur enim, Luc. XVI, diviti epuloni in Inferno secundum animam existenti, *recordare quia recepisti bona in vita tua*. Ergo memoria manet in anima separata; et per consequens aliae potentiae sensitivae partis.]]
 ![[CERF Ia, q. 77, a. 8#arg. 4]]
 
 ###### arg. 5

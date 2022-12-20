@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 46, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 46, a. 1#arg. 3|Praeterea, unum oppositorum non est causa alterius. Sapientia autem est causa stultitiae, dicitur enim [[Jr 10]], *stultus factus est omnis homo a scientia sua*; sapientia autem quaedam scientia est. Et [[Is 47]] dicitur, *sapientia tua et scientia tua, haec decepit te*, decipi autem ad stultitiam pertinet. Ergo sapientiae non opponitur stultitia.]]
+![[LEO IIa-IIæ, q. 46, a. 1#arg. 3|Praeterea, unum oppositorum non est causa alterius. Sapientia autem est causa stultitiae, dicitur enim Ierem. X, *stultus factus est omnis homo a scientia sua*; sapientia autem quaedam scientia est. Et Isaiae XLVII dicitur, *sapientia tua et scientia tua, haec decepit te*, decipi autem ad stultitiam pertinet. Ergo sapientiae non opponitur stultitia.]]
 ![[CERF IIa-IIæ, q. 46, a. 1#arg. 3]]
 
 ###### arg. 4

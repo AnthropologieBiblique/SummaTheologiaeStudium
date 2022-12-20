@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 3, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 3, a. 3#s.c.|Sed contra est quod in divinis personalitas dicitur proprietas personalis, quae est triplex, scilicet paternitas, processio et filiatio, ut in prima parte dictum est. Sed, remotis his per intellectum, adhuc remanet Dei omnipotentia, per quam est facta incarnatio, sicut Angelus dixit, [[Lc 1]], *non erit impossibile apud Deum omne verbum*. Ergo videtur quod, etiam remota personalitate, natura divina possit assumere.]]
+![[LEO IIIa, q. 3, a. 3#s.c.|Sed contra est quod in divinis personalitas dicitur proprietas personalis, quae est triplex, scilicet paternitas, processio et filiatio, ut in prima parte dictum est. Sed, remotis his per intellectum, adhuc remanet Dei omnipotentia, per quam est facta incarnatio, sicut Angelus dixit, Luc. I, *non erit impossibile apud Deum omne verbum*. Ergo videtur quod, etiam remota personalitate, natura divina possit assumere.]]
 ![[CERF IIIa, q. 3, a. 3#s.c.]]
 
 ###### resp.

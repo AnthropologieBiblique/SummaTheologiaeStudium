@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 79, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 79, a. 3#arg. 3|Praeterea, per hoc sacramentum gratia confertur, ut dictum est. Sed per gratiam iustificatur homo a peccatis mortalibus, secundum illud [[Rm 3]], *iustificati gratis per gratiam ipsius*. Ergo per hoc sacramentum remittuntur peccata mortalia.]]
+![[LEO IIIa, q. 79, a. 3#arg. 3|Praeterea, per hoc sacramentum gratia confertur, ut dictum est. Sed per gratiam iustificatur homo a peccatis mortalibus, secundum illud Rom. III, *iustificati gratis per gratiam ipsius*. Ergo per hoc sacramentum remittuntur peccata mortalia.]]
 ![[CERF IIIa, q. 79, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 79, a. 3#s.c.|Sed contra est quod dicitur [[1 Co 11]], *qui manducat et bibit indigne, iudicium sibi manducat et bibit*. Dicit autem Glossa ibidem quod *ille manducat et bibit indigne qui in crimine est, vel irreverenter tractat, et talis manducat et bibit sibi iudicium, idest damnationem*. Ergo ille qui est in peccato mortali, per hoc quod accipit hoc sacramentum, magis accumulat sibi peccatum, quam remissionem sui peccati consequatur.]]
+![[LEO IIIa, q. 79, a. 3#s.c.|Sed contra est quod dicitur I Cor. XI, *qui manducat et bibit indigne, iudicium sibi manducat et bibit*. Dicit autem Glossa ibidem quod *ille manducat et bibit indigne qui in crimine est, vel irreverenter tractat, et talis manducat et bibit sibi iudicium, idest damnationem*. Ergo ille qui est in peccato mortali, per hoc quod accipit hoc sacramentum, magis accumulat sibi peccatum, quam remissionem sui peccati consequatur.]]
 ![[CERF IIIa, q. 79, a. 3#s.c.]]
 
 ###### resp.

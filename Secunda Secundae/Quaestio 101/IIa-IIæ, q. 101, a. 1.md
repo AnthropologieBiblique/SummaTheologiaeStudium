@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 101, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 101, a. 1#arg. 3|Praeterea, multae sunt aliae in humanis rebus communicationes praeter consanguinitatem et concivium communicationem, ut patet per philosophum, in VIII Ethic., et super quamlibet earum aliqua amicitia fundatur, quae videtur esse pietatis virtus, ut dicit Glossa, [[2 Tm 3]], super illud. *Habentes quidem speciem pietatis*. Ergo non solum ad consanguineos et concives pietas se extendit.]]
+![[LEO IIa-IIæ, q. 101, a. 1#arg. 3|Praeterea, multae sunt aliae in humanis rebus communicationes praeter consanguinitatem et concivium communicationem, ut patet per philosophum, in VIII Ethic., et super quamlibet earum aliqua amicitia fundatur, quae videtur esse pietatis virtus, ut dicit Glossa, II ad Tim. III, super illud. *Habentes quidem speciem pietatis*. Ergo non solum ad consanguineos et concives pietas se extendit.]]
 ![[CERF IIa-IIæ, q. 101, a. 1#arg. 3]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 101, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 101, a. 1#ad 1|Ad primum ergo dicendum quod in maiori includitur minus. Et ideo cultus qui Deo debetur includit in se, sicut aliquid particulare, cultum qui debetur parentibus. Unde dicitur [[Ml 1]], *si ego pater, ubi honor meus?* Et ideo nomen pietatis etiam ad divinum cultum refertur.]]
+![[LEO IIa-IIæ, q. 101, a. 1#ad 1|Ad primum ergo dicendum quod in maiori includitur minus. Et ideo cultus qui Deo debetur includit in se, sicut aliquid particulare, cultum qui debetur parentibus. Unde dicitur Malach. I, *si ego pater, ubi honor meus?* Et ideo nomen pietatis etiam ad divinum cultum refertur.]]
 ![[CERF IIa-IIæ, q. 101, a. 1#ad 1]]
 
 ###### ad 2

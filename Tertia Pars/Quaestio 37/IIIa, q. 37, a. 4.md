@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 37, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 37, a. 4#arg. 2|Praeterea, [[Lv 12]] dicitur, *mulier quae, suscepto semine, peperit masculum, immunda erit septem diebus*, et ideo ei praecipitur quod non ingrediatur sanctuarium, donec impleantur dies purgationis eius. Sed beata virgo peperit masculum sine virili semine. Non ergo debuit venire ad templum purganda.]]
+![[LEO IIIa, q. 37, a. 4#arg. 2|Praeterea, Levit. XII dicitur, *mulier quae, suscepto semine, peperit masculum, immunda erit septem diebus*, et ideo ei praecipitur quod non ingrediatur sanctuarium, donec impleantur dies purgationis eius. Sed beata virgo peperit masculum sine virili semine. Non ergo debuit venire ad templum purganda.]]
 ![[CERF IIIa, q. 37, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 37, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 37, a. 4#s.c.|Sed contra est auctoritas Scripturae, qua dicitur, [[Lc 2]], quod *impleti sunt dies purgationis Mariae secundum legem Moysi*.]]
+![[LEO IIIa, q. 37, a. 4#s.c.|Sed contra est auctoritas Scripturae, qua dicitur, Luc. II, quod *impleti sunt dies purgationis Mariae secundum legem Moysi*.]]
 ![[CERF IIIa, q. 37, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 37, a. 4#resp.|Respondeo dicendum quod, sicut plenitudo gratiae a Christo derivatur in matrem, ita decuit ut mater humilitati filii conformaretur, humilibus enim Deus dat gratiam, ut dicitur [[Jc 4]]. Et ideo, sicut Christus, licet legi non esset obnoxius, voluit tamen circumcisionem et alia legis onera subire, ad demonstrandum humilitatis et obedientiae exemplum, et ut approbaret legem, et ut calumniae occasionem Iudaeis tolleret; propter easdem rationes voluit et matrem suam implere legis observantias, quibus tamen non erat obnoxia.]]
+![[LEO IIIa, q. 37, a. 4#resp.|Respondeo dicendum quod, sicut plenitudo gratiae a Christo derivatur in matrem, ita decuit ut mater humilitati filii conformaretur, humilibus enim Deus dat gratiam, ut dicitur Iac. IV. Et ideo, sicut Christus, licet legi non esset obnoxius, voluit tamen circumcisionem et alia legis onera subire, ad demonstrandum humilitatis et obedientiae exemplum, et ut approbaret legem, et ut calumniae occasionem Iudaeis tolleret; propter easdem rationes voluit et matrem suam implere legis observantias, quibus tamen non erat obnoxia.]]
 ![[CERF IIIa, q. 37, a. 4#resp.]]
 
 ###### ad 1

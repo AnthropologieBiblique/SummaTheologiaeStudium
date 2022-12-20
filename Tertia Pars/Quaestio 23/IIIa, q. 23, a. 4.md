@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 23, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 23, a. 4#ad 2|Ad secundum dicendum quod similitudo illa Augustini est intelligenda quantum ad principium, quia scilicet, sicut sine meritis habet quilibet homo ut sit Christianus, ita ille homo sine meritis habuit ut esset Christus. Est tamen differentia quantum ad terminum, quia scilicet Christus per gratiam unionis est filius naturalis; alius autem per gratiam habitualem est filius adoptivus. Gratia autem habitualis in Christo non facit de nonfilio filium adoptivum, sed est quidam effectus filiationis in anima Christi, secundum illud [[Jn 1]], *vidimus gloriam eius quasi unigeniti a patre, plenum gratiae et veritatis*.]]
+![[LEO IIIa, q. 23, a. 4#ad 2|Ad secundum dicendum quod similitudo illa Augustini est intelligenda quantum ad principium, quia scilicet, sicut sine meritis habet quilibet homo ut sit Christianus, ita ille homo sine meritis habuit ut esset Christus. Est tamen differentia quantum ad terminum, quia scilicet Christus per gratiam unionis est filius naturalis; alius autem per gratiam habitualem est filius adoptivus. Gratia autem habitualis in Christo non facit de nonfilio filium adoptivum, sed est quidam effectus filiationis in anima Christi, secundum illud Ioan. I, *vidimus gloriam eius quasi unigeniti a patre, plenum gratiae et veritatis*.]]
 ![[CERF IIIa, q. 23, a. 4#ad 2]]
 
 ###### ad 3

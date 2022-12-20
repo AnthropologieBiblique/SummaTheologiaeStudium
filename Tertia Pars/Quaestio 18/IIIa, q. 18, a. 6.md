@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 18, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 18, a. 6#arg. 2|Praeterea, Galat. V dicitur quod *caro concupiscit adversus spiritum, et spiritus adversus carnem*. Est igitur contrarietas voluntatum quando spiritus concupiscit unum, et caro aliud. Sed hoc fuit in Christo, nam per voluntatem caritatis, quam spiritus sanctus in eius mente faciebat, volebat passionem, secundum illud [[Is 53]], *oblatus est quia ipse voluit*; secundum autem carnem, passionem refugiebat. Ergo erat in eo contrarietas voluntatum.]]
+![[LEO IIIa, q. 18, a. 6#arg. 2|Praeterea, Galat. V dicitur quod *caro concupiscit adversus spiritum, et spiritus adversus carnem*. Est igitur contrarietas voluntatum quando spiritus concupiscit unum, et caro aliud. Sed hoc fuit in Christo, nam per voluntatem caritatis, quam spiritus sanctus in eius mente faciebat, volebat passionem, secundum illud Isaiae LIII, *oblatus est quia ipse voluit*; secundum autem carnem, passionem refugiebat. Ergo erat in eo contrarietas voluntatum.]]
 ![[CERF IIIa, q. 18, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 18, a. 6#arg. 3|Praeterea, [[Lc 22]] dicitur quod, *factus in agonia, prolixius orabat*. Sed agonia videtur importare quandam impugnationem animi in contraria tendentis. Ergo videtur quod in Christo fuerit contrarietas voluntatis.]]
+![[LEO IIIa, q. 18, a. 6#arg. 3|Praeterea, Luc. XXII dicitur quod, *factus in agonia, prolixius orabat*. Sed agonia videtur importare quandam impugnationem animi in contraria tendentis. Ergo videtur quod in Christo fuerit contrarietas voluntatis.]]
 ![[CERF IIIa, q. 18, a. 6#arg. 3]]
 
 ###### s.c.

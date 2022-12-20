@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 70, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 70, a. 1#arg. 2|Praeterea, apostolus dicit, [[1 Co 10]], de antiquis patribus loquens, *quod omnes in nube et in mari baptizati sunt*, non autem dicit quod in circumcisione baptizati sint. Ergo protectio columnae nubis, et transitus maris rubri, magis fuerunt praeparatoria ad Baptismum et figurativa ipsius quam circumcisio.]]
+![[LEO IIIa, q. 70, a. 1#arg. 2|Praeterea, apostolus dicit, I Cor. X, de antiquis patribus loquens, *quod omnes in nube et in mari baptizati sunt*, non autem dicit quod in circumcisione baptizati sint. Ergo protectio columnae nubis, et transitus maris rubri, magis fuerunt praeparatoria ad Baptismum et figurativa ipsius quam circumcisio.]]
 ![[CERF IIIa, q. 70, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 70, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 70, a. 1#s.c.|Sed contra est quod apostolus dicit, [[Col 2]], *circumcisi estis circumcisione non manu facta in exspoliatione corporis carnis, sed circumcisione Iesu Christi, consepulti ei in Baptismo*.]]
+![[LEO IIIa, q. 70, a. 1#s.c.|Sed contra est quod apostolus dicit, Coloss. II, *circumcisi estis circumcisione non manu facta in exspoliatione corporis carnis, sed circumcisione Iesu Christi, consepulti ei in Baptismo*.]]
 ![[CERF IIIa, q. 70, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 70, a. 1#resp.|Respondeo dicendum quod Baptismus dicitur sacramentum fidei, inquantum scilicet in Baptismo fit quaedam fidei professio, et per Baptismum aggregatur homo congregationi fidelium. Eadem autem est fides nostra et antiquorum patrum, secundum illud apostoli, [[2 Co 4]], *habentes eundem spiritum fidei credimus*. Circumcisio autem erat quaedam protestatio fidei, unde et per circumcisionem antiqui congregabantur collegio fidelium. Unde manifestum est quod circumcisio fuerit praeparatoria ad Baptismum et praefigurativa ipsius, secundum quod antiquis patribus omnia in figura futuri contingebant, ut dicitur [[1 Co 10]], sicut et fides eorum erat de futuro.]]
+![[LEO IIIa, q. 70, a. 1#resp.|Respondeo dicendum quod Baptismus dicitur sacramentum fidei, inquantum scilicet in Baptismo fit quaedam fidei professio, et per Baptismum aggregatur homo congregationi fidelium. Eadem autem est fides nostra et antiquorum patrum, secundum illud apostoli, II Cor. IV, *habentes eundem spiritum fidei credimus*. Circumcisio autem erat quaedam protestatio fidei, unde et per circumcisionem antiqui congregabantur collegio fidelium. Unde manifestum est quod circumcisio fuerit praeparatoria ad Baptismum et praefigurativa ipsius, secundum quod antiquis patribus omnia in figura futuri contingebant, ut dicitur I Cor. X, sicut et fides eorum erat de futuro.]]
 ![[CERF IIIa, q. 70, a. 1#resp.]]
 
 ###### ad 1

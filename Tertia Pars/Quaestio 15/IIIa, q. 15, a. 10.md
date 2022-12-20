@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 15, a. 10#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 15, a. 10#s.c.|Sed contra est quod dicitur [[Jr 14]], *quasi colonus futurus es in terra, et quasi viator declinans ad manendum*.]]
+![[LEO IIIa, q. 15, a. 10#s.c.|Sed contra est quod dicitur Ierem. XIV, *quasi colonus futurus es in terra, et quasi viator declinans ad manendum*.]]
 ![[CERF IIIa, q. 15, a. 10#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 15, a. 10#resp.|Respondeo dicendum quod aliquis dicitur viator ex eo quod tendit in beatitudinem, comprehensor autem dicitur ex hoc quod iam beatitudinem obtinet, secundum illud [[1 Co 9]], *sic currite ut comprehendatis*; et [[Ph 3]], *sequor autem, si quo modo comprehendam*. Hominis autem beatitudo perfecta consistit in anima et corpore, ut in secunda parte habitum est, in anima quidem, quantum ad id quod est ei proprium, secundum quod mens videt et fruitur Deo; in corpore vero, secundum quod corpus *resurget spirituale, et in virtute et in gloria et in incorruptione*, ut dicitur [[1 Co 9]]. Christus autem, ante passionem, secundum mentem plene videbat Deum, et sic habebat beatitudinem quantum ad id quod est proprium animae. Sed quantum ad alia deerat ei beatitudo, quia et anima eius erat passibilis, et corpus passibile et mortale, ut ex supra dictis patet. Et ideo simul erat comprehensor, inquantum habebat beatitudinem animae propriam, et simul viator, inquantum tendebat in beatitudinem secundum id quod ei de beatitudine deerat.]]
+![[LEO IIIa, q. 15, a. 10#resp.|Respondeo dicendum quod aliquis dicitur viator ex eo quod tendit in beatitudinem, comprehensor autem dicitur ex hoc quod iam beatitudinem obtinet, secundum illud I Cor. IX, *sic currite ut comprehendatis*; et Philipp. III, *sequor autem, si quo modo comprehendam*. Hominis autem beatitudo perfecta consistit in anima et corpore, ut in secunda parte habitum est, in anima quidem, quantum ad id quod est ei proprium, secundum quod mens videt et fruitur Deo; in corpore vero, secundum quod corpus *resurget spirituale, et in virtute et in gloria et in incorruptione*, ut dicitur I Cor. XV. Christus autem, ante passionem, secundum mentem plene videbat Deum, et sic habebat beatitudinem quantum ad id quod est proprium animae. Sed quantum ad alia deerat ei beatitudo, quia et anima eius erat passibilis, et corpus passibile et mortale, ut ex supra dictis patet. Et ideo simul erat comprehensor, inquantum habebat beatitudinem animae propriam, et simul viator, inquantum tendebat in beatitudinem secundum id quod ei de beatitudine deerat.]]
 ![[CERF IIIa, q. 15, a. 10#resp.]]
 
 ###### ad 1

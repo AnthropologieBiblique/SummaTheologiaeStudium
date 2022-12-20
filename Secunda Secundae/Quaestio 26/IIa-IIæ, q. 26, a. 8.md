@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 26, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 26, a. 8#s.c.|Sed contra est quod in praeceptis Decalogi specialiter mandatur de honoratione parentum; ut patet [[Ex 20]]. Ergo illi qui sunt nobis coniuncti secundum carnis originem sunt a nobis specialius diligendi.]]
+![[LEO IIa-IIæ, q. 26, a. 8#s.c.|Sed contra est quod in praeceptis Decalogi specialiter mandatur de honoratione parentum; ut patet Exod. XX. Ergo illi qui sunt nobis coniuncti secundum carnis originem sunt a nobis specialius diligendi.]]
 ![[CERF IIa-IIæ, q. 26, a. 8#s.c.]]
 
 ###### resp.

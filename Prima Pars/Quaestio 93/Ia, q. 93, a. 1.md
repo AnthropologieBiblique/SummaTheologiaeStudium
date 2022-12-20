@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 93, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod imago Dei non sit in homine. Dicitur enim [[Is 40]], *cui similem fecistis Deum; aut quam imaginem ponetis ei?*]]
+![[LEO Ia, q. 93, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod imago Dei non sit in homine. Dicitur enim Isaiae XL, *cui similem fecistis Deum; aut quam imaginem ponetis ei?*]]
 ![[CERF Ia, q. 93, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 93, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 93, a. 1#s.c.|Sed contra est quod dicitur [[Gn 1]], *faciamus hominem ad imaginem et similitudinem nostram*.]]
+![[LEO Ia, q. 93, a. 1#s.c.|Sed contra est quod dicitur Gen. I, *faciamus hominem ad imaginem et similitudinem nostram*.]]
 ![[CERF Ia, q. 93, a. 1#s.c.]]
 
 ###### resp.

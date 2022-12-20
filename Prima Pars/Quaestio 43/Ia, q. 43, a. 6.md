@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia, q. 43, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod missio invisibilis non fiat ad omnes qui sunt participes gratiae. Patres enim veteris testamenti gratiae participes fuerunt. Sed ad illos non videtur fuisse facta missio invisibilis, dicitur enim [[Jn 7]], *nondum erat spiritus datus, quia nondum erat Iesus glorificatus*. Ergo missio invisibilis non fit ad omnes qui sunt participes gratiae.]]
+![[LEO Ia, q. 43, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod missio invisibilis non fiat ad omnes qui sunt participes gratiae. Patres enim veteris testamenti gratiae participes fuerunt. Sed ad illos non videtur fuisse facta missio invisibilis, dicitur enim Ioan. VII, *nondum erat spiritus datus, quia nondum erat Iesus glorificatus*. Ergo missio invisibilis non fit ad omnes qui sunt participes gratiae.]]
 ![[CERF Ia, q. 43, a. 6#arg. 1]]
 
 ###### arg. 2

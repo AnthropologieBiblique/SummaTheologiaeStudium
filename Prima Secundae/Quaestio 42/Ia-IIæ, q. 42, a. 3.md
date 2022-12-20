@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 42, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod timor possit esse de malo culpae. Dicit enim Augustinus, super canonicam Ioan., quod *timore casto timet homo separationem a Deo*. Sed nihil separat nos a Deo nisi culpa; secundum illud [[Is 59]]. *Peccata vestra diviserunt inter vos et Deum vestrum*. Ergo timor potest esse de malo culpae.]]
+![[LEO Ia-IIæ, q. 42, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod timor possit esse de malo culpae. Dicit enim Augustinus, super canonicam Ioan., quod *timore casto timet homo separationem a Deo*. Sed nihil separat nos a Deo nisi culpa; secundum illud Isaiae LIX. *Peccata vestra diviserunt inter vos et Deum vestrum*. Ergo timor potest esse de malo culpae.]]
 ![[CERF Ia-IIæ, q. 42, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 42, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 42, a. 3#arg. 3|Praeterea, spes timori opponitur. Sed spes potest esse de bono virtutis, ut patet per philosophum in IX Ethic. Et apostolus dicit, ad [[Ga 5]], *confido de vobis in domino, quod nihil aliud sapietis*. Ergo etiam timor potest esse de malo culpae.]]
+![[LEO Ia-IIæ, q. 42, a. 3#arg. 3|Praeterea, spes timori opponitur. Sed spes potest esse de bono virtutis, ut patet per philosophum in IX Ethic. Et apostolus dicit, ad Gal. V, *confido de vobis in domino, quod nihil aliud sapietis*. Ergo etiam timor potest esse de malo culpae.]]
 ![[CERF Ia-IIæ, q. 42, a. 3#arg. 3]]
 
 ###### arg. 4

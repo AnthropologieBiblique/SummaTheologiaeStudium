@@ -6,23 +6,23 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 103, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod caeremoniae legis fuerint ante legem. Sacrificia enim et holocausta pertinent ad caeremonias veteris legis, ut supra dictum est. Sed sacrificia et holocausta fuerunt ante legem. Dicitur enim [[Gn 4]], quod *Cain obtulit de fructibus terrae munera domino; Abel autem obtulit de primogenitis gregis sui, et de adipibus eorum*. Noe etiam obtulit holocausta domino, ut dicitur [[Gn 4]]; et Abraham similiter, ut dicitur [[Gn 4]]. Ergo caeremoniae veteris legis fuerunt ante legem.]]
+![[LEO Ia-IIæ, q. 103, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod caeremoniae legis fuerint ante legem. Sacrificia enim et holocausta pertinent ad caeremonias veteris legis, ut supra dictum est. Sed sacrificia et holocausta fuerunt ante legem. Dicitur enim Gen. IV, quod *Cain obtulit de fructibus terrae munera domino; Abel autem obtulit de primogenitis gregis sui, et de adipibus eorum*. Noe etiam obtulit holocausta domino, ut dicitur Gen. VIII; et Abraham similiter, ut dicitur Gen. XXII. Ergo caeremoniae veteris legis fuerunt ante legem.]]
 ![[CERF Ia-IIæ, q. 103, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 103, a. 1#arg. 2|Praeterea, ad caeremonias sacrorum pertinet constructio altaris, et eius inunctio. Sed ista fuerunt ante legem. Legitur enim [[Gn 13]], quod Abraham aedificavit altare domino; et de Iacob dicitur [[Gn 13]], quod *tulit lapidem et erexit in titulum fundens oleum desuper*. Ergo caeremoniae legales fuerunt ante legem.]]
+![[LEO Ia-IIæ, q. 103, a. 1#arg. 2|Praeterea, ad caeremonias sacrorum pertinet constructio altaris, et eius inunctio. Sed ista fuerunt ante legem. Legitur enim Gen. XIII, quod Abraham aedificavit altare domino; et de Iacob dicitur Gen. XXVIII, quod *tulit lapidem et erexit in titulum fundens oleum desuper*. Ergo caeremoniae legales fuerunt ante legem.]]
 ![[CERF Ia-IIæ, q. 103, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 103, a. 1#arg. 3|Praeterea, inter sacramenta legalia primum videtur fuisse circumcisio. Sed circumcisio fuit ante legem, ut patet [[Gn 17]]. Similiter etiam sacerdotium fuit ante legem, dicitur enim [[Gn 17]], quod Melchisedech erat sacerdos Dei summi. Ergo caeremoniae sacramentorum fuerunt ante legem.]]
+![[LEO Ia-IIæ, q. 103, a. 1#arg. 3|Praeterea, inter sacramenta legalia primum videtur fuisse circumcisio. Sed circumcisio fuit ante legem, ut patet Gen. XVII. Similiter etiam sacerdotium fuit ante legem, dicitur enim Gen. XIV, quod Melchisedech erat sacerdos Dei summi. Ergo caeremoniae sacramentorum fuerunt ante legem.]]
 ![[CERF Ia-IIæ, q. 103, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia-IIæ, q. 103, a. 1#arg. 4|Praeterea, discretio mundorum animalium ab immundis pertinet ad caeremonias observantiarum, ut supra dictum est. Sed talis discretio fuit ante legem, dicitur enim [[Gn 7]], *ex omnibus mundis animalibus tolle septena et septena; de animantibus vero immundis, duo et duo*. Ergo caeremoniae legales fuerunt ante legem.]]
+![[LEO Ia-IIæ, q. 103, a. 1#arg. 4|Praeterea, discretio mundorum animalium ab immundis pertinet ad caeremonias observantiarum, ut supra dictum est. Sed talis discretio fuit ante legem, dicitur enim Gen. VII, *ex omnibus mundis animalibus tolle septena et septena; de animantibus vero immundis, duo et duo*. Ergo caeremoniae legales fuerunt ante legem.]]
 ![[CERF Ia-IIæ, q. 103, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 103, a. 1#s.c.|Sed contra est quod dicitur [[Dt 6]], *haec sunt praecepta et caeremoniae quae mandavit dominus Deus vester ut docerem vos*. Non autem indiguissent super his doceri, si prius praedictae caeremoniae fuissent. Ergo caeremoniae legis non fuerunt ante legem.]]
+![[LEO Ia-IIæ, q. 103, a. 1#s.c.|Sed contra est quod dicitur Deut. VI, *haec sunt praecepta et caeremoniae quae mandavit dominus Deus vester ut docerem vos*. Non autem indiguissent super his doceri, si prius praedictae caeremoniae fuissent. Ergo caeremoniae legis non fuerunt ante legem.]]
 ![[CERF Ia-IIæ, q. 103, a. 1#s.c.]]
 
 ###### resp.
@@ -38,10 +38,10 @@ tags :
 ![[CERF Ia-IIæ, q. 103, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO Ia-IIæ, q. 103, a. 1#ad 3|Ad tertium dicendum quod sacramentum circumcisionis praecepto divino fuit statutum ante legem. Unde non potest dici sacramentum legis quasi in lege institutum, sed solum quasi in lege observatum. Et hoc est quod dominus dicit, [[Jn 7]], *circumcisio non ex Moyse est, sed ex patribus eius*. Sacerdotium etiam erat ante legem apud colentes Deum, secundum humanam determinationem, quia hanc dignitatem primogenitis attribuebant.]]
+![[LEO Ia-IIæ, q. 103, a. 1#ad 3|Ad tertium dicendum quod sacramentum circumcisionis praecepto divino fuit statutum ante legem. Unde non potest dici sacramentum legis quasi in lege institutum, sed solum quasi in lege observatum. Et hoc est quod dominus dicit, Ioan. VII, *circumcisio non ex Moyse est, sed ex patribus eius*. Sacerdotium etiam erat ante legem apud colentes Deum, secundum humanam determinationem, quia hanc dignitatem primogenitis attribuebant.]]
 ![[CERF Ia-IIæ, q. 103, a. 1#ad 3]]
 
 ###### ad 4
-![[LEO Ia-IIæ, q. 103, a. 1#ad 4|Ad quartum dicendum quod distinctio mundorum animalium et immundorum non fuit ante legem quantum ad esum, cum dictum sit [[Gn 9]], *omne quod movetur et vivit, erit vobis in cibum*, sed solum quantum ad sacrificiorum oblationem, quia de quibusdam determinatis animalibus sacrificia offerebant. Si tamen quantum ad esum erat aliqua discretio animalium, hoc non erat quia esus illorum reputaretur illicitus, cum nulla lege esset prohibitus, sed propter abominationem vel consuetudinem, sicut et nunc videmus quod aliqua cibaria sunt in aliquibus terris abominabilia, quae in aliis comeduntur.]]
+![[LEO Ia-IIæ, q. 103, a. 1#ad 4|Ad quartum dicendum quod distinctio mundorum animalium et immundorum non fuit ante legem quantum ad esum, cum dictum sit Gen. IX, *omne quod movetur et vivit, erit vobis in cibum*, sed solum quantum ad sacrificiorum oblationem, quia de quibusdam determinatis animalibus sacrificia offerebant. Si tamen quantum ad esum erat aliqua discretio animalium, hoc non erat quia esus illorum reputaretur illicitus, cum nulla lege esset prohibitus, sed propter abominationem vel consuetudinem, sicut et nunc videmus quod aliqua cibaria sunt in aliquibus terris abominabilia, quae in aliis comeduntur.]]
 ![[CERF Ia-IIæ, q. 103, a. 1#ad 4]]
 

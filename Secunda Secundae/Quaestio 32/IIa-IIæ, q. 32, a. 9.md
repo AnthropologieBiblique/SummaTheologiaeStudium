@@ -6,11 +6,11 @@ tags :
 ### Articulus 9
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 32, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod non sit magis propinquioribus eleemosyna facienda. Dicitur enim [[Si 12]], *da misericordi, et ne suscipias peccatorem, benefac humili, et non des impio*. Sed quandoque contingit quod propinqui nostri sunt peccatores et impii. Ergo non sunt eis magis eleemosynae faciendae.]]
+![[LEO IIa-IIæ, q. 32, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod non sit magis propinquioribus eleemosyna facienda. Dicitur enim Eccli. XII, *da misericordi, et ne suscipias peccatorem, benefac humili, et non des impio*. Sed quandoque contingit quod propinqui nostri sunt peccatores et impii. Ergo non sunt eis magis eleemosynae faciendae.]]
 ![[CERF IIa-IIæ, q. 32, a. 9#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 32, a. 9#arg. 2|Praeterea, eleemosynae sunt faciendae propter retributionem mercedis aeternae, secundum illud [[Mt 6]], *et pater tuus, qui videt in abscondito, reddet tibi*. Sed retributio aeterna maxime acquiritur ex eleemosynis quae sanctis erogantur, secundum illud [[Lc 16]], *facite vobis amicos de mammona iniquitatis, ut, cum defeceritis, recipiant vos in aeterna tabernacula*; quod exponens Augustinus, in libro de Verb. Dom., dicit, *qui sunt qui habebunt aeterna habitacula nisi sancti Dei? Et qui sunt qui ab eis accipiendi sunt in tabernacula nisi qui eorum indigentiae serviunt?* Ergo magis sunt eleemosynae dandae sanctioribus quam propinquioribus.]]
+![[LEO IIa-IIæ, q. 32, a. 9#arg. 2|Praeterea, eleemosynae sunt faciendae propter retributionem mercedis aeternae, secundum illud Matth. VI, *et pater tuus, qui videt in abscondito, reddet tibi*. Sed retributio aeterna maxime acquiritur ex eleemosynis quae sanctis erogantur, secundum illud Luc. XVI, *facite vobis amicos de mammona iniquitatis, ut, cum defeceritis, recipiant vos in aeterna tabernacula*; quod exponens Augustinus, in libro de Verb. Dom., dicit, *qui sunt qui habebunt aeterna habitacula nisi sancti Dei? Et qui sunt qui ab eis accipiendi sunt in tabernacula nisi qui eorum indigentiae serviunt?* Ergo magis sunt eleemosynae dandae sanctioribus quam propinquioribus.]]
 ![[CERF IIa-IIæ, q. 32, a. 9#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 32, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 32, a. 9#s.c.|Sed contra est quod apostolus dicit, [[1 Tm 5]], *si quis suorum, et maxime domesticorum curam non habet, fidem negavit et est infideli deterior*.]]
+![[LEO IIa-IIæ, q. 32, a. 9#s.c.|Sed contra est quod apostolus dicit, I ad Tim. V, *si quis suorum, et maxime domesticorum curam non habet, fidem negavit et est infideli deterior*.]]
 ![[CERF IIa-IIæ, q. 32, a. 9#s.c.]]
 
 ###### resp.

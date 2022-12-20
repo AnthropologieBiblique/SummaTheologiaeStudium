@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 64, a. 10#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 64, a. 10#arg. 3|Praeterea, perversa intentio facit totum opus vitiosum, secundum illud [[Lc 11]], *si oculus tuus fuerit nequam, totum corpus tuum tenebrosum erit*. Sed sacramenta Christi non possunt inquinari per malos homines, sicut Augustinus dicit, contra Petilianum. Ergo videtur quod, si sit perversa intentio ministri, non sit ibi verum sacramentum.]]
+![[LEO IIIa, q. 64, a. 10#arg. 3|Praeterea, perversa intentio facit totum opus vitiosum, secundum illud Luc. XI, *si oculus tuus fuerit nequam, totum corpus tuum tenebrosum erit*. Sed sacramenta Christi non possunt inquinari per malos homines, sicut Augustinus dicit, contra Petilianum. Ergo videtur quod, si sit perversa intentio ministri, non sit ibi verum sacramentum.]]
 ![[CERF IIIa, q. 64, a. 10#arg. 3]]
 
 ###### s.c.

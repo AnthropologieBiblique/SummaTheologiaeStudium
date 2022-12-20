@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 5, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 5, a. 4#s.c.|Sed contra, ubicumque invenitur parvum et magnum, ibi invenitur maius et minus. Sed in fide invenitur magnum et parvum, dicit enim dominus Petro, [[Mt 14]], *modicae fidei, quare dubitasti?* Et mulieri dixit, [[Mt 14]], *mulier, magna est fides tua*. Ergo fides potest esse maior in uno quam in alio.]]
+![[LEO IIa-IIæ, q. 5, a. 4#s.c.|Sed contra, ubicumque invenitur parvum et magnum, ibi invenitur maius et minus. Sed in fide invenitur magnum et parvum, dicit enim dominus Petro, Matth. XIV, *modicae fidei, quare dubitasti?* Et mulieri dixit, Matth. XV, *mulier, magna est fides tua*. Ergo fides potest esse maior in uno quam in alio.]]
 ![[CERF IIa-IIæ, q. 5, a. 4#s.c.]]
 
 ###### resp.

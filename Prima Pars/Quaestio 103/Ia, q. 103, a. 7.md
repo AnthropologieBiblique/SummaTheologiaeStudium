@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 103, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 103, a. 7#s.c.|Sed contra est quod dicitur [[Est 13]], *domine Deus, rex omnipotens, in ditione tua cuncta sunt posita, et non est qui possit resistere tuae voluntati*.]]
+![[LEO Ia, q. 103, a. 7#s.c.|Sed contra est quod dicitur Esther XIII, *domine Deus, rex omnipotens, in ditione tua cuncta sunt posita, et non est qui possit resistere tuae voluntati*.]]
 ![[CERF Ia, q. 103, a. 7#s.c.]]
 
 ###### resp.

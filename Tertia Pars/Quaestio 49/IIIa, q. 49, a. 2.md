@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 49, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod per passionem Christi non simus liberati a potestate Diaboli. Ille enim non habet potestatem super aliquos, in quibus nihil sine permissione alterius facere potest. Sed Diabolus nunquam potuit aliquid in nocumentum hominum facere nisi ex permissione divina, sicut patet [[Jb 1]] et II quod, potestate divinitus accepta, eum primo in rebus, et postea in corpore laesit. Et similiter [[Mt 8]] dicitur quod Daemones, nisi Christo concedente, non potuerunt porcos intrare. Ergo Diabolus nunquam habuit in hominibus potestatem. Et ita per passionem Christi non sumus a potestate Diaboli liberati.]]
+![[LEO IIIa, q. 49, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod per passionem Christi non simus liberati a potestate Diaboli. Ille enim non habet potestatem super aliquos, in quibus nihil sine permissione alterius facere potest. Sed Diabolus nunquam potuit aliquid in nocumentum hominum facere nisi ex permissione divina, sicut patet Iob I et II quod, potestate divinitus accepta, eum primo in rebus, et postea in corpore laesit. Et similiter Matth. VIII dicitur quod Daemones, nisi Christo concedente, non potuerunt porcos intrare. Ergo Diabolus nunquam habuit in hominibus potestatem. Et ita per passionem Christi non sumus a potestate Diaboli liberati.]]
 ![[CERF IIIa, q. 49, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 49, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 49, a. 2#arg. 3|Praeterea, virtus passionis Christi in perpetuum durat, secundum illud [[He 10]], *una oblatione consummavit sanctificatos in sempiternum*. Sed liberatio a potestate Diaboli nec est ubique, quia in multis partibus mundi adhuc sunt idololatrae, nec etiam erit semper, quia tempore Antichristi maxime suam potestatem exercebit in hominum nocumentum, de quo dicitur, II ad Thess. II, quod *eius adventus erit secundum operationem Satanae in omni virtute et signis et prodigiis mendacibus, et in omni seductione iniquitatis*. Ergo videtur quod passio Christi non sit causa liberationis humani generis a potestate Diaboli.]]
+![[LEO IIIa, q. 49, a. 2#arg. 3|Praeterea, virtus passionis Christi in perpetuum durat, secundum illud Heb. X, *una oblatione consummavit sanctificatos in sempiternum*. Sed liberatio a potestate Diaboli nec est ubique, quia in multis partibus mundi adhuc sunt idololatrae, nec etiam erit semper, quia tempore Antichristi maxime suam potestatem exercebit in hominum nocumentum, de quo dicitur, II ad Thess. II, quod *eius adventus erit secundum operationem Satanae in omni virtute et signis et prodigiis mendacibus, et in omni seductione iniquitatis*. Ergo videtur quod passio Christi non sit causa liberationis humani generis a potestate Diaboli.]]
 ![[CERF IIIa, q. 49, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 49, a. 2#s.c.|Sed contra est quod dominus dicit, [[Jn 12]], passione imminente, *nunc princeps huius mundi eiicietur foras, et ego, si exaltatus fuero a terra, omnia traham ad meipsum*. Est autem exaltatus a terra per crucis passionem. Ergo per eius passionem Diabolus est a potestate hominum eiectus.]]
+![[LEO IIIa, q. 49, a. 2#s.c.|Sed contra est quod dominus dicit, Ioan. XII, passione imminente, *nunc princeps huius mundi eiicietur foras, et ego, si exaltatus fuero a terra, omnia traham ad meipsum*. Est autem exaltatus a terra per crucis passionem. Ergo per eius passionem Diabolus est a potestate hominum eiectus.]]
 ![[CERF IIIa, q. 49, a. 2#s.c.]]
 
 ###### resp.

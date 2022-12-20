@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIIa, q. 85, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod poenitentia sit prima virtutum. Quia super illud [[Mt 3]], *poenitentiam agite*, dicit Glossa, *prima virtus est per poenitentiam punire veterem hominem et vitia odire*.]]
+![[LEO IIIa, q. 85, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod poenitentia sit prima virtutum. Quia super illud Matth. III, *poenitentiam agite*, dicit Glossa, *prima virtus est per poenitentiam punire veterem hominem et vitia odire*.]]
 ![[CERF IIIa, q. 85, a. 6#arg. 1]]
 
 ###### arg. 2

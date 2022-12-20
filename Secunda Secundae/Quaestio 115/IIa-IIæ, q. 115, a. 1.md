@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 115, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 115, a. 1#s.c.|Sed contra est quod super illud [[Ez 13]], *vae, qui consuunt pulvillos sub omni cubito manus*, dicit Glossa, idest, suavem adulationem. Ergo adulatio est peccatum.]]
+![[LEO IIa-IIæ, q. 115, a. 1#s.c.|Sed contra est quod super illud Ezech. XIII, *vae, qui consuunt pulvillos sub omni cubito manus*, dicit Glossa, idest, suavem adulationem. Ergo adulatio est peccatum.]]
 ![[CERF IIa-IIæ, q. 115, a. 1#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 115, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 115, a. 1#ad 1|Ad primum ergo dicendum quod laudare aliquem contingit et bene et male, prout scilicet debitae circumstantiae vel servantur vel praetermittuntur. Si enim aliquis aliquem velit delectare laudando ut ex hoc eum consoletur ne in tribulationibus deficiat, vel etiam ut in bono proficere studeat, aliis debitis circumstantiis observatis, pertinebit hoc ad praedictam virtutem amicitiae. Pertinet autem ad adulationem si aliquis velit aliquem laudare in quibus non est laudandus, quia forte mala sunt, secundum illud, *laudatur peccator in desideriis animae suae*; vel quia non sunt certa, secundum illud [[Si 27]], *ante sermonem ne laudes virum*, et iterum [[Si 27]], *non laudes virum in specie sua*; vel etiam si timeri possit ne humana laude ad inanem gloriam provocetur, unde dicitur [[Si 27]], *ante mortem ne laudes hominem*. Similiter etiam velle placere hominibus propter caritatem nutriendam, et ut in eis homo spiritualiter proficere possit, laudabile est. Quod autem aliquis velit placere hominibus propter inanem gloriam vel propter lucrum, vel etiam in malis, hoc esset peccatum, secundum illud Psalm., *Deus dissipavit ossa eorum qui hominibus placent*. Et apostolus dicit, ad Galat. I, *si adhuc hominibus placerem, Christi servus non essem*.]]
+![[LEO IIa-IIæ, q. 115, a. 1#ad 1|Ad primum ergo dicendum quod laudare aliquem contingit et bene et male, prout scilicet debitae circumstantiae vel servantur vel praetermittuntur. Si enim aliquis aliquem velit delectare laudando ut ex hoc eum consoletur ne in tribulationibus deficiat, vel etiam ut in bono proficere studeat, aliis debitis circumstantiis observatis, pertinebit hoc ad praedictam virtutem amicitiae. Pertinet autem ad adulationem si aliquis velit aliquem laudare in quibus non est laudandus, quia forte mala sunt, secundum illud, *laudatur peccator in desideriis animae suae*; vel quia non sunt certa, secundum illud Eccli. XXVII, *ante sermonem ne laudes virum*, et iterum Eccli. XI, *non laudes virum in specie sua*; vel etiam si timeri possit ne humana laude ad inanem gloriam provocetur, unde dicitur Eccli. XI, *ante mortem ne laudes hominem*. Similiter etiam velle placere hominibus propter caritatem nutriendam, et ut in eis homo spiritualiter proficere possit, laudabile est. Quod autem aliquis velit placere hominibus propter inanem gloriam vel propter lucrum, vel etiam in malis, hoc esset peccatum, secundum illud Psalm., *Deus dissipavit ossa eorum qui hominibus placent*. Et apostolus dicit, ad Galat. I, *si adhuc hominibus placerem, Christi servus non essem*.]]
 ![[CERF IIa-IIæ, q. 115, a. 1#ad 1]]
 
 ###### ad 2

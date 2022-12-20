@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 8, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod donum intellectus non simul habeatur cum fide. Dicit enim Augustinus, in libro octogintatrium quaest., *id quod intelligitur intelligentis comprehensione finitur*. Sed id quod creditur non comprehenditur, secundum illud apostoli, ad [[Ph 3]], *non quod iam comprehenderim aut perfectus sim*. Ergo videtur quod fides et intellectus non possint esse in eodem.]]
+![[LEO IIa-IIæ, q. 8, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod donum intellectus non simul habeatur cum fide. Dicit enim Augustinus, in libro octogintatrium quaest., *id quod intelligitur intelligentis comprehensione finitur*. Sed id quod creditur non comprehenditur, secundum illud apostoli, ad Philipp. III, *non quod iam comprehenderim aut perfectus sim*. Ergo videtur quod fides et intellectus non possint esse in eodem.]]
 ![[CERF IIa-IIæ, q. 8, a. 2#arg. 1]]
 
 ###### arg. 2

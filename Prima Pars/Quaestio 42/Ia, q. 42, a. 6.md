@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia, q. 42, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod filius non sit aequalis patri secundum potentiam. Dicitur enim [[Jn 5]], *non potest filius a se facere quidquam, nisi quod viderit patrem facientem*. Pater autem a se potest facere. Ergo pater maior est filio secundum potentiam.]]
+![[LEO Ia, q. 42, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod filius non sit aequalis patri secundum potentiam. Dicitur enim Ioan. V, *non potest filius a se facere quidquam, nisi quod viderit patrem facientem*. Pater autem a se potest facere. Ergo pater maior est filio secundum potentiam.]]
 ![[CERF Ia, q. 42, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 42, a. 6#arg. 2|Praeterea, maior est potentia eius qui praecipit et docet, quam eius qui obedit et audit. Sed pater mandat filio, secundum illud [[Jn 14]], *sicut mandatum dedit mihi pater, sic facio*. Pater etiam docet filium, secundum illud [[Jn 14]], *pater diligit filium, et omnia demonstrat ei quae ipse facit*. Similiter et filius audit, secundum illud [[Jn 14]], *sicut audio, iudico*. Ergo pater est maioris potentiae quam filius.]]
+![[LEO Ia, q. 42, a. 6#arg. 2|Praeterea, maior est potentia eius qui praecipit et docet, quam eius qui obedit et audit. Sed pater mandat filio, secundum illud Ioan. XIV, *sicut mandatum dedit mihi pater, sic facio*. Pater etiam docet filium, secundum illud Ioan. V, *pater diligit filium, et omnia demonstrat ei quae ipse facit*. Similiter et filius audit, secundum illud Ioan. V, *sicut audio, iudico*. Ergo pater est maioris potentiae quam filius.]]
 ![[CERF Ia, q. 42, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 42, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 42, a. 6#s.c.|Sed contra est quod dicitur [[Jn 5]], *quaecumque pater facit, haec et filius similiter facit*.]]
+![[LEO Ia, q. 42, a. 6#s.c.|Sed contra est quod dicitur Ioan. V, *quaecumque pater facit, haec et filius similiter facit*.]]
 ![[CERF Ia, q. 42, a. 6#s.c.]]
 
 ###### resp.

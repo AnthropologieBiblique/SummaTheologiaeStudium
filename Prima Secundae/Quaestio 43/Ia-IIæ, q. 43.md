@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 43#Prooemium|Deinde considerandum est de causa timoris. Et circa hoc quaeruntur duo. Primo, utrum causa timoris sit amor. Secundo, utrum causa timoris sit defectus.]]
-![[CERF Ia-IIæ, q. 43#Prooemium]]
+Deinde considerandum est de causa timoris. Et circa hoc quaeruntur duo. Primo, utrum causa timoris sit amor. Secundo, utrum causa timoris sit defectus.
 
 ![[Ia-IIæ, q. 43, a. 1#Articulus 1]]
 

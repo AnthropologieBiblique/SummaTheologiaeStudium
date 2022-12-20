@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 28, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 28, a. 4#arg. 3|Praeterea, praecepta legis dantur de actibus virtutum. Sed praecipitur nobis quod de Deo gaudeamus, secundum illud ad [[Ph 4]], *gaudete in domino semper*. Ergo gaudium est virtus.]]
+![[LEO IIa-IIæ, q. 28, a. 4#arg. 3|Praeterea, praecepta legis dantur de actibus virtutum. Sed praecipitur nobis quod de Deo gaudeamus, secundum illud ad Philipp. IV, *gaudete in domino semper*. Ergo gaudium est virtus.]]
 ![[CERF IIa-IIæ, q. 28, a. 4#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 28, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 28, a. 4#resp.|Respondeo dicendum quod virtus, sicut supra habitum est, est habitus quidam operativus; et ideo secundum propriam rationem habet inclinationem ad aliquem actum. Est autem contingens ex uno habitu plures actus eiusdem rationis ordinatos provenire, quorum unus sequatur ex altero. Et quia posteriores actus non procedunt ab habitu virtutis nisi per actum priorem, inde est quod virtus non definitur nec denominatur nisi ab actu priori, quamvis etiam alii actus ab ea consequantur. Manifestum est autem ex his quae supra de passionibus dicta sunt, quod amor est prima affectio appetitivae potentiae, ex qua sequitur et desiderium et gaudium. Et ideo habitus virtutis idem est qui inclinat ad diligendum, et ad desiderandum bonum dilectum, et ad gaudendum de eo. Sed quia dilectio inter hos actus est prior, inde est quod virtus non denominatur a gaudio nec a desiderio, sed a dilectione, et dicitur caritas. Sic ergo gaudium non est aliqua virtus a caritate distincta, sed est quidam caritatis actus sive effectus. Et propter hoc connumeratur inter fructus, ut patet [[Ga 5]].]]
+![[LEO IIa-IIæ, q. 28, a. 4#resp.|Respondeo dicendum quod virtus, sicut supra habitum est, est habitus quidam operativus; et ideo secundum propriam rationem habet inclinationem ad aliquem actum. Est autem contingens ex uno habitu plures actus eiusdem rationis ordinatos provenire, quorum unus sequatur ex altero. Et quia posteriores actus non procedunt ab habitu virtutis nisi per actum priorem, inde est quod virtus non definitur nec denominatur nisi ab actu priori, quamvis etiam alii actus ab ea consequantur. Manifestum est autem ex his quae supra de passionibus dicta sunt, quod amor est prima affectio appetitivae potentiae, ex qua sequitur et desiderium et gaudium. Et ideo habitus virtutis idem est qui inclinat ad diligendum, et ad desiderandum bonum dilectum, et ad gaudendum de eo. Sed quia dilectio inter hos actus est prior, inde est quod virtus non denominatur a gaudio nec a desiderio, sed a dilectione, et dicitur caritas. Sic ergo gaudium non est aliqua virtus a caritate distincta, sed est quidam caritatis actus sive effectus. Et propter hoc connumeratur inter fructus, ut patet Gal. V.]]
 ![[CERF IIa-IIæ, q. 28, a. 4#resp.]]
 
 ###### ad 1

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 4, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 4, a. 4#arg. 2|Praeterea, illud quod est mortuum non fit vivum. Sed fides informis est mortua, secundum illud [[Jc 2]], *fides sine operibus mortua est*. Ergo fides informis non potest fieri formata.]]
+![[LEO IIa-IIæ, q. 4, a. 4#arg. 2|Praeterea, illud quod est mortuum non fit vivum. Sed fides informis est mortua, secundum illud Iac. II, *fides sine operibus mortua est*. Ergo fides informis non potest fieri formata.]]
 ![[CERF IIa-IIæ, q. 4, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 4, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 4, a. 4#s.c.|Sed contra est quod [[Jc 2]], super illud, *fides sine operibus mortua est*, dicit Glossa, quibus reviviscit. Ergo fides quae erat prius mortua et informis fit formata et vivens.]]
+![[LEO IIa-IIæ, q. 4, a. 4#s.c.|Sed contra est quod Iac. II, super illud, *fides sine operibus mortua est*, dicit Glossa, quibus reviviscit. Ergo fides quae erat prius mortua et informis fit formata et vivens.]]
 ![[CERF IIa-IIæ, q. 4, a. 4#s.c.]]
 
 ###### resp.

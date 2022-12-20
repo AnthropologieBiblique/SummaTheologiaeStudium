@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 25, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 25, a. 6#arg. 2|Praeterea, probatio dilectionis exhibitio est operis; ut Gregorius dicit, in homilia Pentecostes. Sed peccatoribus iusti non exhibent opera dilectionis, sed magis opera quae videntur esse odii, secundum illud Psalm., *in matutino interficiebam omnes peccatores terrae*. Et dominus praecepit, [[Ex 22]], *maleficos non patieris vivere*. Ergo peccatores non sunt ex caritate diligendi.]]
+![[LEO IIa-IIæ, q. 25, a. 6#arg. 2|Praeterea, probatio dilectionis exhibitio est operis; ut Gregorius dicit, in homilia Pentecostes. Sed peccatoribus iusti non exhibent opera dilectionis, sed magis opera quae videntur esse odii, secundum illud Psalm., *in matutino interficiebam omnes peccatores terrae*. Et dominus praecepit, Exod. XXII, *maleficos non patieris vivere*. Ergo peccatores non sunt ex caritate diligendi.]]
 ![[CERF IIa-IIæ, q. 25, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 25, a. 6#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 25, a. 6#resp.|Respondeo dicendum quod in peccatoribus duo possunt considerari, scilicet natura, et culpa. Secundum naturam quidem, quam a Deo habent, capaces sunt beatitudinis, super cuius communicatione caritas fundatur, ut supra dictum est. Et ideo secundum naturam suam sunt ex caritate diligendi. Sed culpa eorum Deo contrariatur, et est beatitudinis impedimentum. Unde secundum culpam, qua Deo adversantur, sunt odiendi quicumque peccatores, etiam pater et mater et propinqui, ut habetur [[Lc 14]]. Debemus enim in peccatoribus odire quod peccatores sunt, et diligere quod homines sunt beatitudinis capaces. Et hoc est eos vere ex caritate diligere propter Deum.]]
+![[LEO IIa-IIæ, q. 25, a. 6#resp.|Respondeo dicendum quod in peccatoribus duo possunt considerari, scilicet natura, et culpa. Secundum naturam quidem, quam a Deo habent, capaces sunt beatitudinis, super cuius communicatione caritas fundatur, ut supra dictum est. Et ideo secundum naturam suam sunt ex caritate diligendi. Sed culpa eorum Deo contrariatur, et est beatitudinis impedimentum. Unde secundum culpam, qua Deo adversantur, sunt odiendi quicumque peccatores, etiam pater et mater et propinqui, ut habetur Luc. XIV. Debemus enim in peccatoribus odire quod peccatores sunt, et diligere quod homines sunt beatitudinis capaces. Et hoc est eos vere ex caritate diligere propter Deum.]]
 ![[CERF IIa-IIæ, q. 25, a. 6#resp.]]
 
 ###### ad 1
@@ -42,14 +42,14 @@ tags :
 ![[CERF IIa-IIæ, q. 25, a. 6#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 25, a. 6#ad 3|Ad tertium dicendum quod huiusmodi imprecationes quae in sacra Scriptura inveniuntur, tripliciter possunt intelligi. Uno modo, per modum praenuntiationis, non per modum optationis, ut sit sensus, convertantur peccatores in Infernum, idest convertentur. Alio modo, per modum optationis, ut tamen desiderium optantis non referatur ad poenam hominum, sed ad iustitiam punientis, secundum illud, *laetabitur iustus cum viderit vindictam*. Quia nec ipse Deus puniens laetatur in perditione impiorum, ut dicitur [[Sg 1]], sed in sua iustitia, quia iustus dominus, et iustitias dilexit. Tertio, ut desiderium referatur ad remotionem culpae, non ad ipsam poenam, ut scilicet peccata destruantur et homines remaneant.]]
+![[LEO IIa-IIæ, q. 25, a. 6#ad 3|Ad tertium dicendum quod huiusmodi imprecationes quae in sacra Scriptura inveniuntur, tripliciter possunt intelligi. Uno modo, per modum praenuntiationis, non per modum optationis, ut sit sensus, convertantur peccatores in Infernum, idest convertentur. Alio modo, per modum optationis, ut tamen desiderium optantis non referatur ad poenam hominum, sed ad iustitiam punientis, secundum illud, *laetabitur iustus cum viderit vindictam*. Quia nec ipse Deus puniens laetatur in perditione impiorum, ut dicitur Sap. I, sed in sua iustitia, quia iustus dominus, et iustitias dilexit. Tertio, ut desiderium referatur ad remotionem culpae, non ad ipsam poenam, ut scilicet peccata destruantur et homines remaneant.]]
 ![[CERF IIa-IIæ, q. 25, a. 6#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 25, a. 6#ad 4|Ad quartum dicendum quod ex caritate diligimus peccatores non quidem ut velimus quae ipsi volunt, vel gaudeamus de his de quibus ipsi gaudent, sed ut faciamus eos velle quod volumus, et gaudere de his de quibus gaudemus. Unde dicitur [[Jr 15]], *ipsi convertentur ad te, et tu non converteris ad eos*.]]
+![[LEO IIa-IIæ, q. 25, a. 6#ad 4|Ad quartum dicendum quod ex caritate diligimus peccatores non quidem ut velimus quae ipsi volunt, vel gaudeamus de his de quibus ipsi gaudent, sed ut faciamus eos velle quod volumus, et gaudere de his de quibus gaudemus. Unde dicitur Ierem. XV, *ipsi convertentur ad te, et tu non converteris ad eos*.]]
 ![[CERF IIa-IIæ, q. 25, a. 6#ad 4]]
 
 ###### ad 5
-![[LEO IIa-IIæ, q. 25, a. 6#ad 5|Ad quintum dicendum quod convivere peccatoribus infirmis quidem est vitandum, propter periculum quod eis imminet ne ab eis subvertantur. Perfectis autem, de quorum corruptione non timetur, laudabile est quod cum peccatoribus conversentur, ut eos convertant. Sic enim dominus cum peccatoribus manducabat et bibebat, ut habetur [[Mt 9]]. Convictus tamen peccatorum quantum ad consortium peccati vitandus est omnibus. Et sic dicitur II ad Cor. VI, *recedite de medio eorum, et immundum ne tetigeritis*, scilicet secundum peccati consensum.]]
+![[LEO IIa-IIæ, q. 25, a. 6#ad 5|Ad quintum dicendum quod convivere peccatoribus infirmis quidem est vitandum, propter periculum quod eis imminet ne ab eis subvertantur. Perfectis autem, de quorum corruptione non timetur, laudabile est quod cum peccatoribus conversentur, ut eos convertant. Sic enim dominus cum peccatoribus manducabat et bibebat, ut habetur Matth. IX. Convictus tamen peccatorum quantum ad consortium peccati vitandus est omnibus. Et sic dicitur II ad Cor. VI, *recedite de medio eorum, et immundum ne tetigeritis*, scilicet secundum peccati consensum.]]
 ![[CERF IIa-IIæ, q. 25, a. 6#ad 5]]
 

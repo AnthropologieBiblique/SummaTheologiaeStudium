@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 34, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 34, a. 3#s.c.|Sed contra beatitudo est optimum, cum sit finis humanae vitae. Sed beatitudo non est sine delectatione, dicitur enim in [[Ps 15]], *adimplebis me laetitia cum vultu tuo; delectationes in dextera tua usque in finem*.]]
+![[LEO Ia-IIæ, q. 34, a. 3#s.c.|Sed contra beatitudo est optimum, cum sit finis humanae vitae. Sed beatitudo non est sine delectatione, dicitur enim in Psalmo XV, *adimplebis me laetitia cum vultu tuo; delectationes in dextera tua usque in finem*.]]
 ![[CERF Ia-IIæ, q. 34, a. 3#s.c.]]
 
 ###### resp.

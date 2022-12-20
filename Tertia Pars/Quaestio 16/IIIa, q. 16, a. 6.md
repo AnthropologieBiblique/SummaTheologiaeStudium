@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 16, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 16, a. 6#arg. 2|Praeterea, fieri hominem est mutari. Sed Deus non potest esse subiectum mutationis, secundum illud [[Ml 3]], *ego dominus, et non mutor*. Ergo videtur quod haec sit falsa, Deus factus est homo.]]
+![[LEO IIIa, q. 16, a. 6#arg. 2|Praeterea, fieri hominem est mutari. Sed Deus non potest esse subiectum mutationis, secundum illud Malach. III, *ego dominus, et non mutor*. Ergo videtur quod haec sit falsa, Deus factus est homo.]]
 ![[CERF IIIa, q. 16, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 16, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 16, a. 6#s.c.|Sed contra est quod dicitur [[Jn 1]], *verbum caro factum est*. Et sicut Athanasius dicit, in epistola ad Epictetum, *quod dixit verbum caro factum est, simile est ac si diceretur, homo factus est*.]]
+![[LEO IIIa, q. 16, a. 6#s.c.|Sed contra est quod dicitur Ioan. I, *verbum caro factum est*. Et sicut Athanasius dicit, in epistola ad Epictetum, *quod dixit verbum caro factum est, simile est ac si diceretur, homo factus est*.]]
 ![[CERF IIIa, q. 16, a. 6#s.c.]]
 
 ###### resp.

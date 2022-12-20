@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 102, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 102, a. 4#s.c.|Sed contra est quod dicitur [[Gn 2]], *tulit Deus hominem, et posuit eum in Paradiso*.]]
+![[LEO Ia, q. 102, a. 4#s.c.|Sed contra est quod dicitur Gen. II, *tulit Deus hominem, et posuit eum in Paradiso*.]]
 ![[CERF Ia, q. 102, a. 4#s.c.]]
 
 ###### resp.

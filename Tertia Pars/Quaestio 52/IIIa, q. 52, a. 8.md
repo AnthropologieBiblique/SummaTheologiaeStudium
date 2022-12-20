@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 52, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 52, a. 8#arg. 3|Praeterea, Christus quoscumque curavit in hac vita, totaliter curavit, ut Augustinus dicit, in libro de poenitentia. Et [[Jn 7]] dominus dicit, *totum hominem salvum feci in sabbato*. Sed Christus eos qui in Purgatorio erant, liberavit a reatu poenae damni, quo excludebantur a gloria. Ergo etiam liberavit eos a reatu poenae Purgatorii.]]
+![[LEO IIIa, q. 52, a. 8#arg. 3|Praeterea, Christus quoscumque curavit in hac vita, totaliter curavit, ut Augustinus dicit, in libro de poenitentia. Et Ioan. VII dominus dicit, *totum hominem salvum feci in sabbato*. Sed Christus eos qui in Purgatorio erant, liberavit a reatu poenae damni, quo excludebantur a gloria. Ergo etiam liberavit eos a reatu poenae Purgatorii.]]
 ![[CERF IIIa, q. 52, a. 8#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 52, a. 8#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 52, a. 8#resp.|Respondeo dicendum quod, sicut saepe dictum est, descensus Christi ad Inferos liberatorius fuit in virtute passionis ipsius. Passio autem eius non habuit temporalem virtutem et transitoriam sed sempiternam, secundum illud [[He 10]], *una oblatione consummavit sanctificatos in sempiternum*. Et sic patet quod non habuit tunc maiorem efficaciam passio Christi quam habeat nunc. Et ideo illi qui fuerunt tales quales nunc sunt qui in Purgatorio detinentur, non fuerunt a Purgatorio liberati per descensum Christi ad Inferos. Si qui autem inventi sunt ibi tales quales etiam nunc virtute passionis Christi a Purgatorio liberantur, tales nihil prohibet per descensum Christi ad Inferos a Purgatorio esse liberatos.]]
+![[LEO IIIa, q. 52, a. 8#resp.|Respondeo dicendum quod, sicut saepe dictum est, descensus Christi ad Inferos liberatorius fuit in virtute passionis ipsius. Passio autem eius non habuit temporalem virtutem et transitoriam sed sempiternam, secundum illud Heb. X, *una oblatione consummavit sanctificatos in sempiternum*. Et sic patet quod non habuit tunc maiorem efficaciam passio Christi quam habeat nunc. Et ideo illi qui fuerunt tales quales nunc sunt qui in Purgatorio detinentur, non fuerunt a Purgatorio liberati per descensum Christi ad Inferos. Si qui autem inventi sunt ibi tales quales etiam nunc virtute passionis Christi a Purgatorio liberantur, tales nihil prohibet per descensum Christi ad Inferos a Purgatorio esse liberatos.]]
 ![[CERF IIIa, q. 52, a. 8#resp.]]
 
 ###### ad 1

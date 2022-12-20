@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 152, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 152, a. 5#arg. 2|Praeterea, maius praemium debetur maiori virtuti. Sed virginitati debetur maximum praemium, scilicet fructus centesimus, ut patet [[Mt 13]], in Glossa. Ergo virginitas est maxima virtutum.]]
+![[LEO IIa-IIæ, q. 152, a. 5#arg. 2|Praeterea, maius praemium debetur maiori virtuti. Sed virginitati debetur maximum praemium, scilicet fructus centesimus, ut patet Matth. XIII, in Glossa. Ergo virginitas est maxima virtutum.]]
 ![[CERF IIa-IIæ, q. 152, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 152, a. 5#arg. 3|Praeterea, tanto aliqua virtus est maior, quanto per eam magis aliquis Christo conformatur. Sed maxime aliquis conformatur Christo per virginitatem, dicitur enim [[Ap 14]] de virginibus, quod sequuntur agnum quocumque ierit, et quod *cantant canticum novum, quod nemo alius poterat dicere*. Ergo virginitas est maxima virtutum.]]
+![[LEO IIa-IIæ, q. 152, a. 5#arg. 3|Praeterea, tanto aliqua virtus est maior, quanto per eam magis aliquis Christo conformatur. Sed maxime aliquis conformatur Christo per virginitatem, dicitur enim Apoc. XIV de virginibus, quod sequuntur agnum quocumque ierit, et quod *cantant canticum novum, quod nemo alius poterat dicere*. Ergo virginitas est maxima virtutum.]]
 ![[CERF IIa-IIæ, q. 152, a. 5#arg. 3]]
 
 ###### s.c.

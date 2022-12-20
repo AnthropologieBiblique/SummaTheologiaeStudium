@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 88, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 88, a. 1#arg. 2|Praeterea, apostolus dicit, [[1 Co 10]], *sive manducatis, sive bibitis, sive aliquid aliud facitis, omnia in gloriam Dei facite*. Sed contra hoc praeceptum facit quicumque peccat, non enim peccatum fit propter gloriam Dei. Cum ergo facere contra praeceptum sit peccatum mortale, videtur quod quicumque peccat, mortaliter peccet.]]
+![[LEO Ia-IIæ, q. 88, a. 1#arg. 2|Praeterea, apostolus dicit, I Cor. X, *sive manducatis, sive bibitis, sive aliquid aliud facitis, omnia in gloriam Dei facite*. Sed contra hoc praeceptum facit quicumque peccat, non enim peccatum fit propter gloriam Dei. Cum ergo facere contra praeceptum sit peccatum mortale, videtur quod quicumque peccat, mortaliter peccet.]]
 ![[CERF Ia-IIæ, q. 88, a. 1#arg. 2]]
 
 ###### arg. 3

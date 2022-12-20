@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 46, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 46, a. 8#arg. 3|Praeterea, Gregorius, XXI Moral., ponit tres gradus irae, scilicet *iram sine voce, et iram cum voce, et iram cum verbo expresso*, secundum illa tria quae dominus ponit [[Mt 5]], qui irascitur fratri suo, ubi tangitur ira sine voce; et postea subdit, qui dixerit fratri suo, raca, ubi tangitur ira cum voce, sed necdum pleno verbo formata; et postea dicit, qui autem dixerit fratri suo, fatue, ubi expletur vox perfectione sermonis. Ergo insufficienter divisit Damascenus iram, nihil ponens ex parte vocis.]]
+![[LEO Ia-IIæ, q. 46, a. 8#arg. 3|Praeterea, Gregorius, XXI Moral., ponit tres gradus irae, scilicet *iram sine voce, et iram cum voce, et iram cum verbo expresso*, secundum illa tria quae dominus ponit Matth. V, qui irascitur fratri suo, ubi tangitur ira sine voce; et postea subdit, qui dixerit fratri suo, raca, ubi tangitur ira cum voce, sed necdum pleno verbo formata; et postea dicit, qui autem dixerit fratri suo, fatue, ubi expletur vox perfectione sermonis. Ergo insufficienter divisit Damascenus iram, nihil ponens ex parte vocis.]]
 ![[CERF Ia-IIæ, q. 46, a. 8#arg. 3]]
 
 ###### s.c.

@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 47, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 47, a. 4#arg. 2|Praeterea, virtutis non est virtus. Sed artis est virtus; ut philosophus dicit, in VI Ethic. Ergo ars non est virtus. Sed in arte est prudentia, dicitur enim [[2 Ch 2]] de Hiram quod *sciebat caelare omnem sculpturam, et adinvenire prudenter quodcumque in opere necessarium est*. Ergo prudentia non est virtus.]]
+![[LEO IIa-IIæ, q. 47, a. 4#arg. 2|Praeterea, virtutis non est virtus. Sed artis est virtus; ut philosophus dicit, in VI Ethic. Ergo ars non est virtus. Sed in arte est prudentia, dicitur enim II Paral. II de Hiram quod *sciebat caelare omnem sculpturam, et adinvenire prudenter quodcumque in opere necessarium est*. Ergo prudentia non est virtus.]]
 ![[CERF IIa-IIæ, q. 47, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 47, a. 4#arg. 3|Praeterea, nulla virtus potest esse immoderata. Sed prudentia est immoderata, alioquin frustra diceretur in [[Pr 23]], *prudentiae tuae pone modum*. Ergo prudentia non est virtus.]]
+![[LEO IIa-IIæ, q. 47, a. 4#arg. 3|Praeterea, nulla virtus potest esse immoderata. Sed prudentia est immoderata, alioquin frustra diceretur in Prov. XXIII, *prudentiae tuae pone modum*. Ergo prudentia non est virtus.]]
 ![[CERF IIa-IIæ, q. 47, a. 4#arg. 3]]
 
 ###### s.c.

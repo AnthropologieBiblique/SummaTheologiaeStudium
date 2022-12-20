@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 14, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 14, a. 1#arg. 2|Praeterea, inquirere intellectus discurrentis est; et sic Deo non convenit, cuius cognitio non est discursiva, ut in primo habitum est. Sed consilium Deo attribuitur, dicitur enim ad [[Ep 1]], quod *operatur omnia secundum consilium voluntatis suae*. Ergo consilium non est inquisitio.]]
+![[LEO Ia-IIæ, q. 14, a. 1#arg. 2|Praeterea, inquirere intellectus discurrentis est; et sic Deo non convenit, cuius cognitio non est discursiva, ut in primo habitum est. Sed consilium Deo attribuitur, dicitur enim ad Ephes. I, quod *operatur omnia secundum consilium voluntatis suae*. Ergo consilium non est inquisitio.]]
 ![[CERF Ia-IIæ, q. 14, a. 1#arg. 2]]
 
 ###### arg. 3

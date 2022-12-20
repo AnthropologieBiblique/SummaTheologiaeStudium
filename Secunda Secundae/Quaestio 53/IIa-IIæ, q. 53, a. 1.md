@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 53, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 53, a. 1#s.c.|Sed contra, spiritualis thesaurus gratiae non tollitur nisi per peccatum. Tollitur autem per imprudentiam, secundum illud [[Pr 21]], *thesaurus desiderabilis et oleum in habitaculo iusti, et homo imprudens dissipabit illud*.]]
+![[LEO IIa-IIæ, q. 53, a. 1#s.c.|Sed contra, spiritualis thesaurus gratiae non tollitur nisi per peccatum. Tollitur autem per imprudentiam, secundum illud Prov. XXI, *thesaurus desiderabilis et oleum in habitaculo iusti, et homo imprudens dissipabit illud*.]]
 ![[CERF IIa-IIæ, q. 53, a. 1#s.c.]]
 
 ###### resp.

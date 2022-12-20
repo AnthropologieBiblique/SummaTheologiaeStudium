@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 111, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod hypocrisis non opponatur virtuti veritatis. In simulatione enim sive hypocrisi est signum et signatum. Sed quantum ad utrumque, non videtur opponi alicui speciali virtuti, hypocrita enim simulat quamcumque virtutem; et etiam per quaecumque virtutis opera, puta per ieiunium, orationem et eleemosynam, ut habetur [[Mt 6]]. Ergo hypocrisis non opponitur specialiter virtuti veritatis.]]
+![[LEO IIa-IIæ, q. 111, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod hypocrisis non opponatur virtuti veritatis. In simulatione enim sive hypocrisi est signum et signatum. Sed quantum ad utrumque, non videtur opponi alicui speciali virtuti, hypocrita enim simulat quamcumque virtutem; et etiam per quaecumque virtutis opera, puta per ieiunium, orationem et eleemosynam, ut habetur Matth. VI. Ergo hypocrisis non opponitur specialiter virtuti veritatis.]]
 ![[CERF IIa-IIæ, q. 111, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 111, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 111, a. 3#arg. 3|Praeterea, species moralium considerantur ex fine. Sed finis hypocrisis est acquisitio lucri vel inanis gloriae, unde super illud [[Jb 27]], quae est spes hypocritae, si avare rapiat etc., dicit Glossa, *hypocrita, qui Latine dicitur simulator, avarus raptor est, qui dum inique agens desiderat de sanctitate venerari, laudem vitae rapit alienae*. Cum ergo avaritia, vel inanis gloria, non directe opponatur veritati, videtur quod nec simulatio sive hypocrisis.]]
+![[LEO IIa-IIæ, q. 111, a. 3#arg. 3|Praeterea, species moralium considerantur ex fine. Sed finis hypocrisis est acquisitio lucri vel inanis gloriae, unde super illud Iob XXVII, quae est spes hypocritae, si avare rapiat etc., dicit Glossa, *hypocrita, qui Latine dicitur simulator, avarus raptor est, qui dum inique agens desiderat de sanctitate venerari, laudem vitae rapit alienae*. Cum ergo avaritia, vel inanis gloria, non directe opponatur veritati, videtur quod nec simulatio sive hypocrisis.]]
 ![[CERF IIa-IIæ, q. 111, a. 3#arg. 3]]
 
 ###### s.c.

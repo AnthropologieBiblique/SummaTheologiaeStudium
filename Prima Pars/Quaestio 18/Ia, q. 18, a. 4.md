@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia, q. 18, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non omnia sint vita in Deo. Dicitur enim [[Ac 17]], *in ipso vivimus, movemur et sumus*. Sed non omnia in Deo sunt motus. Ergo non omnia in ipso sunt vita.]]
+![[LEO Ia, q. 18, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non omnia sint vita in Deo. Dicitur enim Act. XVII, *in ipso vivimus, movemur et sumus*. Sed non omnia in Deo sunt motus. Ergo non omnia in ipso sunt vita.]]
 ![[CERF Ia, q. 18, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 18, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 18, a. 4#s.c.|Sed contra est quod dicitur [[Jn 1]], *quod factum est, in ipso vita erat*. Sed omnia praeter Deum facta sunt. Ergo omnia in Deo sunt vita.]]
+![[LEO Ia, q. 18, a. 4#s.c.|Sed contra est quod dicitur Ioan. I, *quod factum est, in ipso vita erat*. Sed omnia praeter Deum facta sunt. Ergo omnia in Deo sunt vita.]]
 ![[CERF Ia, q. 18, a. 4#s.c.]]
 
 ###### resp.

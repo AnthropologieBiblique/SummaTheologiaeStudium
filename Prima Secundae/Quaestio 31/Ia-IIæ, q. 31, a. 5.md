@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 31, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 31, a. 5#s.c.|Sed contra est quod dicitur in [[Ps 118]], *quam dulcia faucibus meis eloquia tua, super mel ori meo*. Et philosophus dicit, in X Ethic., quod *maxima delectatio est quae est secundum operationem sapientiae*.]]
+![[LEO Ia-IIæ, q. 31, a. 5#s.c.|Sed contra est quod dicitur in Psalmo CXVIII, *quam dulcia faucibus meis eloquia tua, super mel ori meo*. Et philosophus dicit, in X Ethic., quod *maxima delectatio est quae est secundum operationem sapientiae*.]]
 ![[CERF Ia-IIæ, q. 31, a. 5#s.c.]]
 
 ###### resp.

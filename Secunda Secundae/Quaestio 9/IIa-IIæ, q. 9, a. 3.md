@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 9, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 9, a. 3#resp.|Respondeo dicendum quod, sicut supra dictum est, donum scientiae ordinatur, sicut et donum intellectus, ad certitudinem fidei. Fides autem primo et principaliter in speculatione consistit, inquantum scilicet inhaeret primae veritati. Sed quia prima veritas est etiam ultimus finis, propter quem operamur, inde etiam est quod fides ad operationem se extendit, secundum illud [[Ga 5]], *fides per dilectionem operatur*. Unde etiam oportet quod donum scientiae primo quidem et principaliter respiciat speculationem, inquantum scilicet homo scit quid fide tenere debeat. Secundario autem se extendit etiam ad operationem, secundum quod per scientiam credibilium, et eorum quae ad credibilia consequuntur, dirigimur in agendis.]]
+![[LEO IIa-IIæ, q. 9, a. 3#resp.|Respondeo dicendum quod, sicut supra dictum est, donum scientiae ordinatur, sicut et donum intellectus, ad certitudinem fidei. Fides autem primo et principaliter in speculatione consistit, inquantum scilicet inhaeret primae veritati. Sed quia prima veritas est etiam ultimus finis, propter quem operamur, inde etiam est quod fides ad operationem se extendit, secundum illud Gal. V, *fides per dilectionem operatur*. Unde etiam oportet quod donum scientiae primo quidem et principaliter respiciat speculationem, inquantum scilicet homo scit quid fide tenere debeat. Secundario autem se extendit etiam ad operationem, secundum quod per scientiam credibilium, et eorum quae ad credibilia consequuntur, dirigimur in agendis.]]
 ![[CERF IIa-IIæ, q. 9, a. 3#resp.]]
 
 ###### ad 1
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 9, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 9, a. 3#ad 3|Ad tertium dicendum quod, sicut dictum est de dono intellectus quod non quicumque intelligit habet donum intellectus, sed qui intelligit quasi ex habitu gratiae; ita etiam de dono scientiae est intelligendum quod illi soli donum scientiae habeant qui ex infusione gratiae certum iudicium habent circa credenda et agenda, quod in nullo deviat a rectitudine iustitiae. Et haec est scientia sanctorum, de qua dicitur [[Sg 10]], *iustum deduxit dominus per vias rectas et dedit illi scientiam sanctorum*.]]
+![[LEO IIa-IIæ, q. 9, a. 3#ad 3|Ad tertium dicendum quod, sicut dictum est de dono intellectus quod non quicumque intelligit habet donum intellectus, sed qui intelligit quasi ex habitu gratiae; ita etiam de dono scientiae est intelligendum quod illi soli donum scientiae habeant qui ex infusione gratiae certum iudicium habent circa credenda et agenda, quod in nullo deviat a rectitudine iustitiae. Et haec est scientia sanctorum, de qua dicitur Sap. X, *iustum deduxit dominus per vias rectas et dedit illi scientiam sanctorum*.]]
 ![[CERF IIa-IIæ, q. 9, a. 3#ad 3]]
 

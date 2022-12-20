@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 25, a. 10#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 25, a. 10#resp.|Respondeo dicendum quod amicitia caritatis, sicut supra dictum est, fundatur super communicatione beatitudinis aeternae, in cuius participatione communicant cum Angelis homines, dicitur enim [[Mt 22]] quod *in resurrectione erunt homines sicut Angeli in caelo*. Et ideo manifestum est quod amicitia caritatis etiam ad Angelos se extendit.]]
+![[LEO IIa-IIæ, q. 25, a. 10#resp.|Respondeo dicendum quod amicitia caritatis, sicut supra dictum est, fundatur super communicatione beatitudinis aeternae, in cuius participatione communicant cum Angelis homines, dicitur enim Matth. XXII quod *in resurrectione erunt homines sicut Angeli in caelo*. Et ideo manifestum est quod amicitia caritatis etiam ad Angelos se extendit.]]
 ![[CERF IIa-IIæ, q. 25, a. 10#resp.]]
 
 ###### ad 1

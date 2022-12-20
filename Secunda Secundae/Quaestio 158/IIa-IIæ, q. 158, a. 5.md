@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 158, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 158, a. 5#arg. 3|Praeterea, dominus, [[Mt 5]], ponit tres gradus irae, cum dicit, *qui irascitur fratri suo; et, qui dixerit fratri suo, raca; et, qui dixerit fratri suo, fatue* qui quidem gradus ad praedictas species non referuntur. Ergo videtur quod praedicta divisio irae non sit conveniens.]]
+![[LEO IIa-IIæ, q. 158, a. 5#arg. 3|Praeterea, dominus, Matth. V, ponit tres gradus irae, cum dicit, *qui irascitur fratri suo; et, qui dixerit fratri suo, raca; et, qui dixerit fratri suo, fatue* qui quidem gradus ad praedictas species non referuntur. Ergo videtur quod praedicta divisio irae non sit conveniens.]]
 ![[CERF IIa-IIæ, q. 158, a. 5#arg. 3]]
 
 ###### s.c.

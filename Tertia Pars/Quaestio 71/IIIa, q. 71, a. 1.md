@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 71, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 71, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, Baptismus est fidei sacramentum, cum sit quaedam professio fidei Christianae. Ad hoc autem quod aliquis fidem accipiat, requiritur quod de fide instruatur, secundum illud [[Rm 10]], *quomodo credent quem non audierunt? Quomodo autem audient sine praedicante?* Et ideo ante Baptismum convenienter praecedit catechismus. Unde et dominus, praeceptum baptizandi discipulis tradens, praemittit doctrinam Baptismo, dicens, *euntes, docete omnes gentes, baptizantes eos,* et cetera.]]
+![[LEO IIIa, q. 71, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, Baptismus est fidei sacramentum, cum sit quaedam professio fidei Christianae. Ad hoc autem quod aliquis fidem accipiat, requiritur quod de fide instruatur, secundum illud Rom. X, *quomodo credent quem non audierunt? Quomodo autem audient sine praedicante?* Et ideo ante Baptismum convenienter praecedit catechismus. Unde et dominus, praeceptum baptizandi discipulis tradens, praemittit doctrinam Baptismo, dicens, *euntes, docete omnes gentes, baptizantes eos,* et cetera.]]
 ![[CERF IIIa, q. 71, a. 1#resp.]]
 
 ###### ad 1

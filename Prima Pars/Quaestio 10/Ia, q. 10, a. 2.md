@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 10, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 10, a. 2#arg. 2|Praeterea, quod est ante aeternitatem et post aeternitatem, non mensuratur aeternitate. Sed Deus est ante aeternitatem, ut dicitur in libro de causis, et post aeternitatem; dicitur enim [[Ex 15]], quod *dominus regnabit in aeternum et ultra*. Ergo esse aeternum non convenit Deo.]]
+![[LEO Ia, q. 10, a. 2#arg. 2|Praeterea, quod est ante aeternitatem et post aeternitatem, non mensuratur aeternitate. Sed Deus est ante aeternitatem, ut dicitur in libro de causis, et post aeternitatem; dicitur enim Exod. XV, quod *dominus regnabit in aeternum et ultra*. Ergo esse aeternum non convenit Deo.]]
 ![[CERF Ia, q. 10, a. 2#arg. 2]]
 
 ###### arg. 3

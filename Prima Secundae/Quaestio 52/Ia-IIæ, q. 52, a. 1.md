@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 52, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 52, a. 1#s.c.|Sed contra est quod fides est quidam habitus, et tamen augetur, unde discipuli domino dicunt, domine, adauge nobis fidem, ut habetur [[Lc 17]]. Ergo habitus augentur.]]
+![[LEO Ia-IIæ, q. 52, a. 1#s.c.|Sed contra est quod fides est quidam habitus, et tamen augetur, unde discipuli domino dicunt, domine, adauge nobis fidem, ut habetur Luc. XVII. Ergo habitus augentur.]]
 ![[CERF Ia-IIæ, q. 52, a. 1#s.c.]]
 
 ###### resp.

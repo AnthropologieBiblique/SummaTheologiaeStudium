@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 47, a. 14#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 47, a. 14#ad 1|Ad primum ergo dicendum quod duplex est industria. Una quidem quae est sufficiens ad ea quae sunt de necessitate salutis. Et talis industria datur omnibus habentibus gratiam, quos unctio docet de omnibus, ut dicitur [[1 Jn 2]]. Est autem alia industria plenior, per quam aliquis sibi et aliis potest providere, non solum de his quae sunt necessaria ad salutem sed etiam de quibuscumque pertinentibus ad humanam vitam. Et talis industria non est in omnibus habentibus gratiam.]]
+![[LEO IIa-IIæ, q. 47, a. 14#ad 1|Ad primum ergo dicendum quod duplex est industria. Una quidem quae est sufficiens ad ea quae sunt de necessitate salutis. Et talis industria datur omnibus habentibus gratiam, quos unctio docet de omnibus, ut dicitur I Ioan. II. Est autem alia industria plenior, per quam aliquis sibi et aliis potest providere, non solum de his quae sunt necessaria ad salutem sed etiam de quibuscumque pertinentibus ad humanam vitam. Et talis industria non est in omnibus habentibus gratiam.]]
 ![[CERF IIa-IIæ, q. 47, a. 14#ad 1]]
 
 ###### ad 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 47, a. 14#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 47, a. 14#ad 3|Ad tertium dicendum quod prudentia acquisita causatur ex exercitio actuum, unde *indiget ad sui generationem experimento et tempore*, ut dicitur in II Ethic. Unde non potest esse in iuvenibus nec secundum habitum nec secundum actum. Sed prudentia gratuita causatur ex infusione divina. Unde in pueris baptizatis nondum habentibus usum rationis est prudentia secundum habitum, sed non secundum actum, sicut et in amentibus. In his autem qui iam habent usum rationis est etiam secundum actum quantum ad ea quae sunt de necessitate salutis, sed per exercitium meretur augmentum quousque perficiatur, sicut et ceterae virtutes. Unde et apostolus dicit, ad [[He 5]], quod *perfectorum est solidus cibus, qui pro consuetudine exercitatos habent sensus ad discretionem boni et mali*.]]
+![[LEO IIa-IIæ, q. 47, a. 14#ad 3|Ad tertium dicendum quod prudentia acquisita causatur ex exercitio actuum, unde *indiget ad sui generationem experimento et tempore*, ut dicitur in II Ethic. Unde non potest esse in iuvenibus nec secundum habitum nec secundum actum. Sed prudentia gratuita causatur ex infusione divina. Unde in pueris baptizatis nondum habentibus usum rationis est prudentia secundum habitum, sed non secundum actum, sicut et in amentibus. In his autem qui iam habent usum rationis est etiam secundum actum quantum ad ea quae sunt de necessitate salutis, sed per exercitium meretur augmentum quousque perficiatur, sicut et ceterae virtutes. Unde et apostolus dicit, ad Heb. V, quod *perfectorum est solidus cibus, qui pro consuetudine exercitatos habent sensus ad discretionem boni et mali*.]]
 ![[CERF IIa-IIæ, q. 47, a. 14#ad 3]]
 

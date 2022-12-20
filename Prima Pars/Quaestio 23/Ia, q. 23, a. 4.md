@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia, q. 23, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 23, a. 4#arg. 3|Praeterea, electio quandam discretionem importat. *Sed Deus vult omnes homines salvos fieri*, ut dicitur [[1 Tm 2]]. Ergo praedestinatio, quae praeordinat homines in salutem, est absque electione.]]
+![[LEO Ia, q. 23, a. 4#arg. 3|Praeterea, electio quandam discretionem importat. *Sed Deus vult omnes homines salvos fieri*, ut dicitur I Tim. II. Ergo praedestinatio, quae praeordinat homines in salutem, est absque electione.]]
 ![[CERF Ia, q. 23, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 23, a. 4#s.c.|Sed contra est quod dicitur [[Ep 1]], *elegit nos in ipso ante mundi constitutionem*.]]
+![[LEO Ia, q. 23, a. 4#s.c.|Sed contra est quod dicitur Ephes. I, *elegit nos in ipso ante mundi constitutionem*.]]
 ![[CERF Ia, q. 23, a. 4#s.c.]]
 
 ###### resp.

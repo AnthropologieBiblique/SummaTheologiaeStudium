@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 12, a. 12#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 12, a. 12#s.c.|Sed contra est quod dicitur [[Rm 1]], *quod notum est Dei, manifestum est in illis*, idest, quod cognoscibile est de Deo per rationem naturalem.]]
+![[LEO Ia, q. 12, a. 12#s.c.|Sed contra est quod dicitur Rom. I, *quod notum est Dei, manifestum est in illis*, idest, quod cognoscibile est de Deo per rationem naturalem.]]
 ![[CERF Ia, q. 12, a. 12#s.c.]]
 
 ###### resp.

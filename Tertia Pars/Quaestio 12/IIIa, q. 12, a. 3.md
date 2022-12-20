@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIIa, q. 12, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Christus aliquid ab hominibus didicerit. Dicitur enim [[Lc 2]] quod *invenerunt eum in templo in medio doctorum, interrogantem illos et respondentem*. Interrogare vero et respondere est addiscentis. Ergo Christus ab hominibus aliquid didicit.]]
+![[LEO IIIa, q. 12, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Christus aliquid ab hominibus didicerit. Dicitur enim Luc. II quod *invenerunt eum in templo in medio doctorum, interrogantem illos et respondentem*. Interrogare vero et respondere est addiscentis. Ergo Christus ab hominibus aliquid didicit.]]
 ![[CERF IIIa, q. 12, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 12, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 12, a. 3#s.c.|Sed contra est quod dicitur [[Is 55]], *ecce, testem populis dedi eum, ducem ac praeceptorem gentibus*. Praeceptoris autem non est doceri, sed docere. Ergo Christus non accepit aliquam scientiam per doctrinam alicuius hominis.]]
+![[LEO IIIa, q. 12, a. 3#s.c.|Sed contra est quod dicitur Isaiae LV, *ecce, testem populis dedi eum, ducem ac praeceptorem gentibus*. Praeceptoris autem non est doceri, sed docere. Ergo Christus non accepit aliquam scientiam per doctrinam alicuius hominis.]]
 ![[CERF IIIa, q. 12, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 12, a. 3#resp.|Respondeo dicendum quod in quolibet genere id quod est primum movens non movetur secundum illam speciem motus, sicut primum alterans non alteratur. Christus autem constitutus est caput Ecclesiae, quinimmo omnium hominum, ut supra dictum est, ut non solum omnes homines per ipsum gratiam acciperent, sed etiam ut omnes ab eo doctrinam veritatis reciperent. Unde ipse dicit, [[Jn 18]], *in hoc natus sum, et ad hoc veni in mundum, ut testimonium perhibeam veritati*. Et ideo non fuit conveniens eius dignitati ut a quocumque hominum doceretur.]]
+![[LEO IIIa, q. 12, a. 3#resp.|Respondeo dicendum quod in quolibet genere id quod est primum movens non movetur secundum illam speciem motus, sicut primum alterans non alteratur. Christus autem constitutus est caput Ecclesiae, quinimmo omnium hominum, ut supra dictum est, ut non solum omnes homines per ipsum gratiam acciperent, sed etiam ut omnes ab eo doctrinam veritatis reciperent. Unde ipse dicit, Ioan. XVIII, *in hoc natus sum, et ad hoc veni in mundum, ut testimonium perhibeam veritati*. Et ideo non fuit conveniens eius dignitati ut a quocumque hominum doceretur.]]
 ![[CERF IIIa, q. 12, a. 3#resp.]]
 
 ###### ad 1
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 12, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 12, a. 3#ad 2|Ad secundum dicendum quod ille qui addiscit ab homine non accipit inmediate scientiam a speciebus intelligibilibus quae sunt in mente ipsius, sed mediantibus sensibilibus vocibus, tanquam signis intellectualium conceptionum. Sicut autem voces ab homine formatae sunt signa intellectualis scientiae ipsius, ita creaturae a Deo conditae sunt signa sapientiae eius, unde [[Si 1]] dicitur quod *Deus effudit sapientiam suam super omnia opera sua*. Sicut igitur dignius est doceri a Deo quam ab homine, ita dignius est accipere scientiam per sensibiles creaturas quam per hominis doctrinam.]]
+![[LEO IIIa, q. 12, a. 3#ad 2|Ad secundum dicendum quod ille qui addiscit ab homine non accipit inmediate scientiam a speciebus intelligibilibus quae sunt in mente ipsius, sed mediantibus sensibilibus vocibus, tanquam signis intellectualium conceptionum. Sicut autem voces ab homine formatae sunt signa intellectualis scientiae ipsius, ita creaturae a Deo conditae sunt signa sapientiae eius, unde Eccli. I dicitur quod *Deus effudit sapientiam suam super omnia opera sua*. Sicut igitur dignius est doceri a Deo quam ab homine, ita dignius est accipere scientiam per sensibiles creaturas quam per hominis doctrinam.]]
 ![[CERF IIIa, q. 12, a. 3#ad 2]]
 
 ###### ad 3

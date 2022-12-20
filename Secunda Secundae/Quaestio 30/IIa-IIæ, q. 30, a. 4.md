@@ -6,19 +6,19 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 30, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod misericordia sit maxima virtutum. Maxime enim ad virtutem pertinere videtur cultus divinus. Sed misericordia cultui divino praefertur, secundum illud [[Os 6]] et [[Mt 12]], *misericordiam volo, et non sacrificium*. Ergo misericordia est maxima virtus.]]
+![[LEO IIa-IIæ, q. 30, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod misericordia sit maxima virtutum. Maxime enim ad virtutem pertinere videtur cultus divinus. Sed misericordia cultui divino praefertur, secundum illud Osee VI et Matth. XII, *misericordiam volo, et non sacrificium*. Ergo misericordia est maxima virtus.]]
 ![[CERF IIa-IIæ, q. 30, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 30, a. 4#arg. 2|Praeterea, super illud [[1 Tm 4]], *pietas ad omnia utilis est*, dicit Glossa Ambrosii, *omnis summa disciplinae Christianae in misericordia et pietate est*. Sed disciplina Christiana continet omnem virtutem. Ergo summa totius virtutis in misericordia consistit.]]
+![[LEO IIa-IIæ, q. 30, a. 4#arg. 2|Praeterea, super illud I ad Tim. IV, *pietas ad omnia utilis est*, dicit Glossa Ambrosii, *omnis summa disciplinae Christianae in misericordia et pietate est*. Sed disciplina Christiana continet omnem virtutem. Ergo summa totius virtutis in misericordia consistit.]]
 ![[CERF IIa-IIæ, q. 30, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 30, a. 4#arg. 3|Praeterea, virtus est quae bonum facit habentem. Ergo tanto aliqua virtus est melior quanto facit hominem Deo similiorem, quia per hoc melior est homo quod Deo est similior. Sed hoc maxime facit misericordia, quia de Deo dicitur in Psalm. quod *miserationes eius sunt super omnia opera eius*. Unde et [[Lc 6]] dominus dicit, *estote misericordes, sicut et pater vester misericors est*. Misericordia igitur est maxima virtutum.]]
+![[LEO IIa-IIæ, q. 30, a. 4#arg. 3|Praeterea, virtus est quae bonum facit habentem. Ergo tanto aliqua virtus est melior quanto facit hominem Deo similiorem, quia per hoc melior est homo quod Deo est similior. Sed hoc maxime facit misericordia, quia de Deo dicitur in Psalm. quod *miserationes eius sunt super omnia opera eius*. Unde et Luc. VI dominus dicit, *estote misericordes, sicut et pater vester misericors est*. Misericordia igitur est maxima virtutum.]]
 ![[CERF IIa-IIæ, q. 30, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 30, a. 4#s.c.|Sed contra est quod apostolus, ad [[Col 3]], cum dixisset, *induite vos, sicut dilecti Dei, viscera misericordiae* etc., postea subdit, *super omnia, caritatem habete*. Ergo misericordia non est maxima virtutum.]]
+![[LEO IIa-IIæ, q. 30, a. 4#s.c.|Sed contra est quod apostolus, ad Coloss. III, cum dixisset, *induite vos, sicut dilecti Dei, viscera misericordiae* etc., postea subdit, *super omnia, caritatem habete*. Ergo misericordia non est maxima virtutum.]]
 ![[CERF IIa-IIæ, q. 30, a. 4#s.c.]]
 
 ###### resp.

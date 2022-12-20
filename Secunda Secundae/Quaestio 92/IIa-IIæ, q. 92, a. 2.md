@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 92, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 92, a. 2#arg. 3|Praeterea, [[Col 2]], super illud, *quae sunt rationem habentia sapientiae in superstitione*, dicit Glossa, idest, in simulata religione. Ergo etiam simulatio debet poni species superstitionis.]]
+![[LEO IIa-IIæ, q. 92, a. 2#arg. 3|Praeterea, Coloss. II, super illud, *quae sunt rationem habentia sapientiae in superstitione*, dicit Glossa, idest, in simulata religione. Ergo etiam simulatio debet poni species superstitionis.]]
 ![[CERF IIa-IIæ, q. 92, a. 2#arg. 3]]
 
 ###### s.c.

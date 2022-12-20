@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 97, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 97, a. 4#s.c.|Sed contra est quod dicitur [[Gn 3]], *ne forte mittat manum suam et sumat de ligno vitae, et comedat et vivat in aeternum*.]]
+![[LEO Ia, q. 97, a. 4#s.c.|Sed contra est quod dicitur Gen. III, *ne forte mittat manum suam et sumat de ligno vitae, et comedat et vivat in aeternum*.]]
 ![[CERF Ia, q. 97, a. 4#s.c.]]
 
 ###### s.c.

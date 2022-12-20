@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 51, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 51, a. 1#s.c.|Sed contra est quod dominus dicit, [[Mt 26]], de muliere quae eum inunxit, *opus bonum operata est in me*, et postea subdit, *mittens unguentum hoc in corpus meum, ad sepeliendum me fecit*.]]
+![[LEO IIIa, q. 51, a. 1#s.c.|Sed contra est quod dominus dicit, Matth. XXVI, de muliere quae eum inunxit, *opus bonum operata est in me*, et postea subdit, *mittens unguentum hoc in corpus meum, ad sepeliendum me fecit*.]]
 ![[CERF IIIa, q. 51, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 51, a. 1#resp.|Respondeo dicendum quod conveniens fuit Christum sepeliri. Primo quidem, ad comprobandum veritatem mortis, non enim aliquis in sepulcro ponitur, nisi quando iam de veritate mortis constat. Unde et [[Mc 15]] legitur quod Pilatus, antequam concederet Christum sepeliri, diligenti inquisitione cognovit eum mortuum esse. Secundo, quia per hoc quod Christus de sepulcro resurrexit, datur spes resurgendi per ipsum his qui sunt in sepulcro, secundum illud [[Jn 5]], *omnes qui in monumentis sunt, audient vocem filii Dei, et qui audierint, vivent*. Tertio, ad exemplum eorum qui per mortem Christi spiritualiter moriuntur peccatis, qui scilicet absconduntur a conturbatione hominum. Unde dicitur [[Col 3]], *mortui estis, et vita vestra abscondita est cum Christo in Deo*. Unde et baptizati, qui per mortem Christi moriuntur peccatis, quasi consepeliuntur Christo per immersionem, secundum illud [[Rm 6]], *consepulti sumus cum Christo per Baptismum in mortem*.]]
+![[LEO IIIa, q. 51, a. 1#resp.|Respondeo dicendum quod conveniens fuit Christum sepeliri. Primo quidem, ad comprobandum veritatem mortis, non enim aliquis in sepulcro ponitur, nisi quando iam de veritate mortis constat. Unde et Marci XV legitur quod Pilatus, antequam concederet Christum sepeliri, diligenti inquisitione cognovit eum mortuum esse. Secundo, quia per hoc quod Christus de sepulcro resurrexit, datur spes resurgendi per ipsum his qui sunt in sepulcro, secundum illud Ioan. V, *omnes qui in monumentis sunt, audient vocem filii Dei, et qui audierint, vivent*. Tertio, ad exemplum eorum qui per mortem Christi spiritualiter moriuntur peccatis, qui scilicet absconduntur a conturbatione hominum. Unde dicitur Coloss. III, *mortui estis, et vita vestra abscondita est cum Christo in Deo*. Unde et baptizati, qui per mortem Christi moriuntur peccatis, quasi consepeliuntur Christo per immersionem, secundum illud Rom. VI, *consepulti sumus cum Christo per Baptismum in mortem*.]]
 ![[CERF IIIa, q. 51, a. 1#resp.]]
 
 ###### ad 1
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 51, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 51, a. 1#ad 2|Ad secundum dicendum quod, sicut Christi mors efficienter operata est nostram salutem, ita etiam et eius sepultura. Unde Hieronymus dicit, super Marc., *sepultura Christi resurgimus*. Et [[Is 53]], super illud, *dabit impios pro sepultura*, dicit Glossa, *idest, gentes, quae sine pietate erant, Deo patrique dabit, quia mortuus et sepultus eos acquisivit*.]]
+![[LEO IIIa, q. 51, a. 1#ad 2|Ad secundum dicendum quod, sicut Christi mors efficienter operata est nostram salutem, ita etiam et eius sepultura. Unde Hieronymus dicit, super Marc., *sepultura Christi resurgimus*. Et Isaiae LIII, super illud, *dabit impios pro sepultura*, dicit Glossa, *idest, gentes, quae sine pietate erant, Deo patrique dabit, quia mortuus et sepultus eos acquisivit*.]]
 ![[CERF IIIa, q. 51, a. 1#ad 2]]
 
 ###### ad 3

@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 119, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod prodigalitas sit gravius peccatum quam avaritia. Per avaritiam enim aliquis nocet proximo, cui bona sua non communicat. Per prodigalitatem autem aliquis sibi ipsi nocet, dicit enim philosophus, in IV Ethic., quod *corruptio divitiarum, per quas homo vivit, est quaedam ipsius esse perditio*. Gravius autem peccat qui sibi ipsi nocet, secundum illud [[Si 14]], *qui sibi nequam est, cui bonus erit?* Ergo prodigalitas erit gravius peccatum quam avaritia.]]
+![[LEO IIa-IIæ, q. 119, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod prodigalitas sit gravius peccatum quam avaritia. Per avaritiam enim aliquis nocet proximo, cui bona sua non communicat. Per prodigalitatem autem aliquis sibi ipsi nocet, dicit enim philosophus, in IV Ethic., quod *corruptio divitiarum, per quas homo vivit, est quaedam ipsius esse perditio*. Gravius autem peccat qui sibi ipsi nocet, secundum illud Eccli. XIV, *qui sibi nequam est, cui bonus erit?* Ergo prodigalitas erit gravius peccatum quam avaritia.]]
 ![[CERF IIa-IIæ, q. 119, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 119, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 119, a. 3#arg. 3|Praeterea, prudentia est praecipua inter morales virtutes, ut supra habitum est. Sed prodigalitas magis opponitur prudentiae quam avaritia, dicitur enim [[Pr 21]], *thesaurus desiderabilis et oleum in tabernaculo iusti, et imprudens homo dissipabit illud*; et philosophus dicit, in IV Ethic., quod *insipientis est superabundanter dare et non accipere*. Ergo prodigalitas est gravius peccatum quam avaritia.]]
+![[LEO IIa-IIæ, q. 119, a. 3#arg. 3|Praeterea, prudentia est praecipua inter morales virtutes, ut supra habitum est. Sed prodigalitas magis opponitur prudentiae quam avaritia, dicitur enim Prov. XXI, *thesaurus desiderabilis et oleum in tabernaculo iusti, et imprudens homo dissipabit illud*; et philosophus dicit, in IV Ethic., quod *insipientis est superabundanter dare et non accipere*. Ergo prodigalitas est gravius peccatum quam avaritia.]]
 ![[CERF IIa-IIæ, q. 119, a. 3#arg. 3]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 119, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 119, a. 3#ad 1|Ad primum ergo dicendum quod differentia prodigi et avari non attenditur secundum hoc quod est peccare in seipsum, et in alium. Nam prodigus peccat in seipsum, dum bona sua consumit, unde vivere debet, peccat etiam in alterum, consumendo bona ex quibus aliis deberet providere. Et praecipue hoc apparet in clericis, qui sunt dispensatores bonorum Ecclesiae, quae sunt pauperum, quos defraudant prodige expendendo. Similiter etiam avarus peccat in alios, inquantum deficit in dationibus, peccat etiam in seipsum, inquantum deficit in sumptibus; unde dicitur [[Qo 6]], *vir cui Deus dedit divitias, nec tribuit ei potestatem ut comedat ex eis*. Sed tamen in hoc superabundat prodigus, quia sic sibi et quibusdam aliis nocet quod tamen aliquibus prodest. Avarus autem nec sibi nec aliis prodest, quia non audet uti etiam ad suam utilitatem bonis suis.]]
+![[LEO IIa-IIæ, q. 119, a. 3#ad 1|Ad primum ergo dicendum quod differentia prodigi et avari non attenditur secundum hoc quod est peccare in seipsum, et in alium. Nam prodigus peccat in seipsum, dum bona sua consumit, unde vivere debet, peccat etiam in alterum, consumendo bona ex quibus aliis deberet providere. Et praecipue hoc apparet in clericis, qui sunt dispensatores bonorum Ecclesiae, quae sunt pauperum, quos defraudant prodige expendendo. Similiter etiam avarus peccat in alios, inquantum deficit in dationibus, peccat etiam in seipsum, inquantum deficit in sumptibus; unde dicitur Eccle. VI, *vir cui Deus dedit divitias, nec tribuit ei potestatem ut comedat ex eis*. Sed tamen in hoc superabundat prodigus, quia sic sibi et quibusdam aliis nocet quod tamen aliquibus prodest. Avarus autem nec sibi nec aliis prodest, quia non audet uti etiam ad suam utilitatem bonis suis.]]
 ![[CERF IIa-IIæ, q. 119, a. 3#ad 1]]
 
 ###### ad 2

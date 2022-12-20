@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIIa, q. 86#Prooemium|Deinde considerandum est de effectu poenitentiae. Et primo, quantum ad remissionem peccatorum mortalium; secundo, quantum ad remissionem peccatorum venialium; tertio, quantum ad reditum peccatorum dimissorum; quarto, quantum ad restitutionem virtutum. Circa primum quaeruntur sex. Primo, utrum peccata mortalia per poenitentiam auferantur. Secundo, utrum possint sine poenitentia tolli. Tertio, utrum possit remitti unum sine alio. Quarto, utrum poenitentia auferat culpam remanente reatu. Quinto, utrum remaneant reliquiae peccatorum. Sexto, utrum auferre peccatum sit effectus poenitentiae inquantum est virtus, vel inquantum est sacramentum.]]
-![[CERF IIIa, q. 86#Prooemium]]
+Deinde considerandum est de effectu poenitentiae. Et primo, quantum ad remissionem peccatorum mortalium; secundo, quantum ad remissionem peccatorum venialium; tertio, quantum ad reditum peccatorum dimissorum; quarto, quantum ad restitutionem virtutum. Circa primum quaeruntur sex. Primo, utrum peccata mortalia per poenitentiam auferantur. Secundo, utrum possint sine poenitentia tolli. Tertio, utrum possit remitti unum sine alio. Quarto, utrum poenitentia auferat culpam remanente reatu. Quinto, utrum remaneant reliquiae peccatorum. Sexto, utrum auferre peccatum sit effectus poenitentiae inquantum est virtus, vel inquantum est sacramentum.
 
 ![[IIIa, q. 86, a. 1#Articulus 1]]
 

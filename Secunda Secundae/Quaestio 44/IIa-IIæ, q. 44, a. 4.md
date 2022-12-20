@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 44, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 44, a. 4#s.c.|Sed contra est quod dicitur [[Dt 6]], *diliges dominum Deum tuum ex toto corde tuo*.]]
+![[LEO IIa-IIæ, q. 44, a. 4#s.c.|Sed contra est quod dicitur Deut. VI, *diliges dominum Deum tuum ex toto corde tuo*.]]
 ![[CERF IIa-IIæ, q. 44, a. 4#s.c.]]
 
 ###### resp.

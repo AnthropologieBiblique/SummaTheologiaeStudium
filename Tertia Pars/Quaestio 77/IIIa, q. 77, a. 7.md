@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 77, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 77, a. 7#arg. 3|Praeterea, eiusdem videtur esse frangi et masticari. Sed verum corpus Christi est quod manducatur, secundum illud [[Jn 6]], *qui manducat meam carnem et bibit meum sanguinem*. Ergo corpus Christi est quod frangitur et masticatur. Unde et in confessione Berengarii dicitur, *consentio sanctae Romanae Ecclesiae, et corde et ore profiteor panem et vinum quae in altari ponuntur, post consecrationem verum corpus et sanguinem Christi esse, et in veritate manibus sacerdotum tractari, frangi et fidelium dentibus atteri*. Non ergo fractio debet attribui sacramentalibus speciebus.]]
+![[LEO IIIa, q. 77, a. 7#arg. 3|Praeterea, eiusdem videtur esse frangi et masticari. Sed verum corpus Christi est quod manducatur, secundum illud Ioan. VI, *qui manducat meam carnem et bibit meum sanguinem*. Ergo corpus Christi est quod frangitur et masticatur. Unde et in confessione Berengarii dicitur, *consentio sanctae Romanae Ecclesiae, et corde et ore profiteor panem et vinum quae in altari ponuntur, post consecrationem verum corpus et sanguinem Christi esse, et in veritate manibus sacerdotum tractari, frangi et fidelium dentibus atteri*. Non ergo fractio debet attribui sacramentalibus speciebus.]]
 ![[CERF IIIa, q. 77, a. 7#arg. 3]]
 
 ###### s.c.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIIa, q. 9, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod in Christo non sit alia scientia indita, praeter scientiam beatam. Omnis enim alia scientia creata comparatur ad scientiam beatam sicut imperfectum ad perfectum. Sed, praesente perfecta cognitione, excluditur cognitio imperfecta, sicut manifesta visio faciei excludit aenigmaticam visionem fidei ut patet [[1 Co 13]]. Cum igitur in Christo fuerit scientia beata, ut dictum est, videtur quod non potuerit in eo alia esse scientia indita.]]
+![[LEO IIIa, q. 9, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod in Christo non sit alia scientia indita, praeter scientiam beatam. Omnis enim alia scientia creata comparatur ad scientiam beatam sicut imperfectum ad perfectum. Sed, praesente perfecta cognitione, excluditur cognitio imperfecta, sicut manifesta visio faciei excludit aenigmaticam visionem fidei ut patet I Cor. XIII. Cum igitur in Christo fuerit scientia beata, ut dictum est, videtur quod non potuerit in eo alia esse scientia indita.]]
 ![[CERF IIIa, q. 9, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 9, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 9, a. 3#s.c.|Sed contra est quod dicitur [[Col 2]], quod *in Christo sunt omnes thesauri sapientiae et scientiae absconditi*.]]
+![[LEO IIIa, q. 9, a. 3#s.c.|Sed contra est quod dicitur Coloss. II, quod *in Christo sunt omnes thesauri sapientiae et scientiae absconditi*.]]
 ![[CERF IIIa, q. 9, a. 3#s.c.]]
 
 ###### resp.

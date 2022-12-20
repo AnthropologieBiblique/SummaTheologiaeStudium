@@ -26,11 +26,11 @@ tags :
 ![[CERF IIa-IIæ, q. 99, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 99, a. 1#ad 1|Ad primum ergo dicendum quod, secundum philosophum, in I Ethic., bonum commune gentis est quoddam divinum. Et ideo antiquitus rectores reipublicae divini vocabantur, quasi divinae providentiae ministri, secundum illud [[Sg 6]], *cum essetis ministri regni illius, non recte iudicastis*. Et sic, per quandam nominis extensionem, illud quod pertinet ad reverentiam principis, scilicet disputare de eius iudicio, an oporteat ipsum sequi, secundum quandam similitudinem sacrilegium dicitur.]]
+![[LEO IIa-IIæ, q. 99, a. 1#ad 1|Ad primum ergo dicendum quod, secundum philosophum, in I Ethic., bonum commune gentis est quoddam divinum. Et ideo antiquitus rectores reipublicae divini vocabantur, quasi divinae providentiae ministri, secundum illud Sap. VI, *cum essetis ministri regni illius, non recte iudicastis*. Et sic, per quandam nominis extensionem, illud quod pertinet ad reverentiam principis, scilicet disputare de eius iudicio, an oporteat ipsum sequi, secundum quandam similitudinem sacrilegium dicitur.]]
 ![[CERF IIa-IIæ, q. 99, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 99, a. 1#ad 2|Ad secundum dicendum quod populus Christianus per fidem et sacramenta Christi sanctificatus est, secundum illud I ad Cor. VI, *sed abluti estis, sed sanctificati estis*. Et ideo [[1 P 2]] dicitur, *vos estis genus electum, regale sacerdotium, gens sancta, populus acquisitionis*. Et ita id quod fit in iniuriam populi Christiani, scilicet quod infideles ei praeficiantur, pertinet ad irreverentiam sacrae rei. Unde rationabiliter sacrilegium dicitur.]]
+![[LEO IIa-IIæ, q. 99, a. 1#ad 2|Ad secundum dicendum quod populus Christianus per fidem et sacramenta Christi sanctificatus est, secundum illud I ad Cor. VI, *sed abluti estis, sed sanctificati estis*. Et ideo I Pet. II dicitur, *vos estis genus electum, regale sacerdotium, gens sancta, populus acquisitionis*. Et ita id quod fit in iniuriam populi Christiani, scilicet quod infideles ei praeficiantur, pertinet ad irreverentiam sacrae rei. Unde rationabiliter sacrilegium dicitur.]]
 ![[CERF IIa-IIæ, q. 99, a. 1#ad 2]]
 
 ###### ad 3

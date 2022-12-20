@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 129, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 129, a. 7#arg. 2|Praeterea, Isidorus dicit, in libro Etymol., quod *securus dicitur quasi sine cura*. Sed hoc videtur esse contra virtutem, quae curam habet de rebus honestis, secundum illud apostoli, [[2 Tm 2]], *sollicite cura teipsum probabilem exhibere Deo*. Ergo securitas non pertinet ad magnanimitatem, quae operatur magnum in omnibus virtutibus.]]
+![[LEO IIa-IIæ, q. 129, a. 7#arg. 2|Praeterea, Isidorus dicit, in libro Etymol., quod *securus dicitur quasi sine cura*. Sed hoc videtur esse contra virtutem, quae curam habet de rebus honestis, secundum illud apostoli, II ad Tim. II, *sollicite cura teipsum probabilem exhibere Deo*. Ergo securitas non pertinet ad magnanimitatem, quae operatur magnum in omnibus virtutibus.]]
 ![[CERF IIa-IIæ, q. 129, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 129, a. 7#arg. 3|Praeterea, non est idem virtus et virtutis praemium. Sed securitas ponitur praemium virtutis, ut patet [[Jb 11]], *si iniquitatem quae est in manu tua abstuleris, defossus securus dormies*. Ergo securitas non pertinet ad magnanimitatem, neque ad aliam virtutem, sicut pars eius.]]
+![[LEO IIa-IIæ, q. 129, a. 7#arg. 3|Praeterea, non est idem virtus et virtutis praemium. Sed securitas ponitur praemium virtutis, ut patet Iob XI, *si iniquitatem quae est in manu tua abstuleris, defossus securus dormies*. Ergo securitas non pertinet ad magnanimitatem, neque ad aliam virtutem, sicut pars eius.]]
 ![[CERF IIa-IIæ, q. 129, a. 7#arg. 3]]
 
 ###### s.c.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 35, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod beata virgo non debeat dici mater Dei. Non enim est dicendum circa divina mysteria nisi quod ex sacra Scriptura habetur. Sed nunquam in sacra Scriptura legitur quod sit mater aut genitrix Dei, sed quod sit mater Christi, aut mater pueri, ut patet [[Mt 1]]. Ergo non est dicendum quod beata virgo sit mater Dei.]]
+![[LEO IIIa, q. 35, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod beata virgo non debeat dici mater Dei. Non enim est dicendum circa divina mysteria nisi quod ex sacra Scriptura habetur. Sed nunquam in sacra Scriptura legitur quod sit mater aut genitrix Dei, sed quod sit mater Christi, aut mater pueri, ut patet Matth. I. Ergo non est dicendum quod beata virgo sit mater Dei.]]
 ![[CERF IIIa, q. 35, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 35, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 35, a. 4#ad 1|Ad primum ergo dicendum quod haec fuit obiectio Nestorii. Quae quidem solvitur ex hoc quod, licet non inveniatur expresse in Scriptura dictum quod beata virgo sit mater Dei, invenitur tamen expresse in Scriptura quod Iesus Christus est verus Deus, ut patet I Ioan. ult.; et quod beata virgo est mater Iesu Christi, ut patet [[Mt 1]]. Unde sequitur ex necessitate ex verbis Scripturae quod sit mater Dei. Dicitur etiam [[Rm 9]], quod *ex Iudaeis est secundum carnem Christus, qui est super omnia Deus benedictus in saecula*. Non autem est ex Iudaeis nisi mediante beata virgine. Unde ille qui est super omnia Deus benedictus in saecula, est vere natus ex beata virgine sicut ex sua matre.]]
+![[LEO IIIa, q. 35, a. 4#ad 1|Ad primum ergo dicendum quod haec fuit obiectio Nestorii. Quae quidem solvitur ex hoc quod, licet non inveniatur expresse in Scriptura dictum quod beata virgo sit mater Dei, invenitur tamen expresse in Scriptura quod Iesus Christus est verus Deus, ut patet I Ioan. ult.; et quod beata virgo est mater Iesu Christi, ut patet Matth. I. Unde sequitur ex necessitate ex verbis Scripturae quod sit mater Dei. Dicitur etiam Rom. IX, quod *ex Iudaeis est secundum carnem Christus, qui est super omnia Deus benedictus in saecula*. Non autem est ex Iudaeis nisi mediante beata virgine. Unde ille qui est super omnia Deus benedictus in saecula, est vere natus ex beata virgine sicut ex sua matre.]]
 ![[CERF IIIa, q. 35, a. 4#ad 1]]
 
 ###### ad 2

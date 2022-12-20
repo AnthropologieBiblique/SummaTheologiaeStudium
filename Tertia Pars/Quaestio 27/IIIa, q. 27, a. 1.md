@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 27, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod beata virgo non fuerit sanctificata ante nativitatem ex utero. Dicit enim apostolus, [[1 Co 15]], *non prius quod spirituale est, sed quod animale, deinde quod est spirituale*. Sed per gratiam sanctificantem nascitur homo spiritualiter in filium Dei, secundum illud [[Jn 1]], *ex Deo nati sunt*. Nativitas autem ex utero est nativitas animalis. Non ergo beata virgo fuit prius sanctificata quam ex utero nasceretur.]]
+![[LEO IIIa, q. 27, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod beata virgo non fuerit sanctificata ante nativitatem ex utero. Dicit enim apostolus, I Cor. XV, *non prius quod spirituale est, sed quod animale, deinde quod est spirituale*. Sed per gratiam sanctificantem nascitur homo spiritualiter in filium Dei, secundum illud Ioan. I, *ex Deo nati sunt*. Nativitas autem ex utero est nativitas animalis. Non ergo beata virgo fuit prius sanctificata quam ex utero nasceretur.]]
 ![[CERF IIIa, q. 27, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 27, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 27, a. 1#arg. 3|Praeterea, quicumque est sanctificatus per gratiam, est mundatus a peccato originali et actuali. Si ergo beata virgo fuit sanctificata ante nativitatem ex utero, consequens est quod fuerit tunc emundata ab originali peccato. Sed solum originale peccatum poterat eam impedire ab introitu regni caelestis. Si ergo tunc mortua fuisset, videtur quod ianuam regni caelestis introisset. Quod tamen fieri non potuit ante passionem Christi, iuxta illud apostoli, *habemus enim fiduciam in introitum sanctorum per sanguinem eius*, ut dicitur [[He 10]]. Videtur ergo quod beata virgo non fuerit sanctificata antequam ex utero nasceretur.]]
+![[LEO IIIa, q. 27, a. 1#arg. 3|Praeterea, quicumque est sanctificatus per gratiam, est mundatus a peccato originali et actuali. Si ergo beata virgo fuit sanctificata ante nativitatem ex utero, consequens est quod fuerit tunc emundata ab originali peccato. Sed solum originale peccatum poterat eam impedire ab introitu regni caelestis. Si ergo tunc mortua fuisset, videtur quod ianuam regni caelestis introisset. Quod tamen fieri non potuit ante passionem Christi, iuxta illud apostoli, *habemus enim fiduciam in introitum sanctorum per sanguinem eius*, ut dicitur Heb. X. Videtur ergo quod beata virgo non fuerit sanctificata antequam ex utero nasceretur.]]
 ![[CERF IIIa, q. 27, a. 1#arg. 3]]
 
 ###### arg. 4
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 27, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 27, a. 1#resp.|Respondeo dicendum quod de sanctificatione beatae Mariae, quod scilicet fuerit sanctificata in utero, nihil in Scriptura canonica traditur, quae etiam nec de eius nativitate mentionem facit. Sed sicut Augustinus, de assumptione ipsius virginis, rationabiliter argumentatur quod cum corpore sit assumpta in caelum, quod tamen Scriptura non tradit; ita etiam rationabiliter argumentari possumus quod fuerit sanctificata in utero. Rationabiliter enim creditur quod illa quae genuit *unigenitum a patre, plenum gratiae et veritatis*, prae omnibus aliis maiora gratiae privilegia accepit, unde legitur, [[Lc 1]], quod Angelus ei dixit, ave, gratia plena. Invenimus autem quibusdam aliis hoc privilegialiter esse concessum ut in utero sanctificarentur, sicut Ieremias, cui dictum est, [[Jr 1]], *antequam exires de vulva, sanctificavi te*; et sicut Ioannes Baptista, de quo dictum est, [[Lc 1]], *spiritu sancto replebitur adhuc ex utero matris suae*. Unde rationabiliter creditur quod beata virgo sanctificata fuerit antequam ex utero nasceretur.]]
+![[LEO IIIa, q. 27, a. 1#resp.|Respondeo dicendum quod de sanctificatione beatae Mariae, quod scilicet fuerit sanctificata in utero, nihil in Scriptura canonica traditur, quae etiam nec de eius nativitate mentionem facit. Sed sicut Augustinus, de assumptione ipsius virginis, rationabiliter argumentatur quod cum corpore sit assumpta in caelum, quod tamen Scriptura non tradit; ita etiam rationabiliter argumentari possumus quod fuerit sanctificata in utero. Rationabiliter enim creditur quod illa quae genuit *unigenitum a patre, plenum gratiae et veritatis*, prae omnibus aliis maiora gratiae privilegia accepit, unde legitur, Luc. I, quod Angelus ei dixit, ave, gratia plena. Invenimus autem quibusdam aliis hoc privilegialiter esse concessum ut in utero sanctificarentur, sicut Ieremias, cui dictum est, Ierem. I, *antequam exires de vulva, sanctificavi te*; et sicut Ioannes Baptista, de quo dictum est, Luc. I, *spiritu sancto replebitur adhuc ex utero matris suae*. Unde rationabiliter creditur quod beata virgo sanctificata fuerit antequam ex utero nasceretur.]]
 ![[CERF IIIa, q. 27, a. 1#resp.]]
 
 ###### ad 1

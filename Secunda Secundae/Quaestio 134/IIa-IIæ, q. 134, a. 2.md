@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 134, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 134, a. 2#arg. 3|Praeterea, magnificentia videtur ad sanctitatem pertinere, dicitur enim [[Ex 15]], *magnificus in sanctitate*; et in Psalmo, *sanctitas et magnificentia in sanctificatione eius*. Sed sanctitas idem est religioni, ut supra habitum est. Ergo magnificentia videtur esse idem religioni. Non ergo est virtus specialis ab aliis distincta.]]
+![[LEO IIa-IIæ, q. 134, a. 2#arg. 3|Praeterea, magnificentia videtur ad sanctitatem pertinere, dicitur enim Exod. XV, *magnificus in sanctitate*; et in Psalmo, *sanctitas et magnificentia in sanctificatione eius*. Sed sanctitas idem est religioni, ut supra habitum est. Ergo magnificentia videtur esse idem religioni. Non ergo est virtus specialis ab aliis distincta.]]
 ![[CERF IIa-IIæ, q. 134, a. 2#arg. 3]]
 
 ###### s.c.

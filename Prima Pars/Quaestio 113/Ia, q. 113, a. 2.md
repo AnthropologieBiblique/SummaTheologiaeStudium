@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 113, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 113, a. 2#s.c.|Sed contra est quod Hieronymus, exponens illud [[Mt 18]], *Angeli eorum in caelis*, dicit, *magna est dignitas animarum, ut unaquaeque habeat, ab ortu nativitatis, in custodiam sui Angelum delegatum*.]]
+![[LEO Ia, q. 113, a. 2#s.c.|Sed contra est quod Hieronymus, exponens illud Matth. XVIII, *Angeli eorum in caelis*, dicit, *magna est dignitas animarum, ut unaquaeque habeat, ab ortu nativitatis, in custodiam sui Angelum delegatum*.]]
 ![[CERF Ia, q. 113, a. 2#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia, q. 113, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO Ia, q. 113, a. 2#ad 3|Ad tertium dicendum quod, quamvis homines natura sint pares, tamen inaequalitas in eis invenitur, secundum quod ex divina providentia quidam ordinantur ad maius, et quidam ad minus; secundum illud quod dicitur [[Si 33]], *in multitudine disciplinae domini separavit eos, ex ipsis benedixit et exaltavit, ex ipsis maledixit et humiliavit*. Et sic maius officium est custodire unum hominem quam alium.]]
+![[LEO Ia, q. 113, a. 2#ad 3|Ad tertium dicendum quod, quamvis homines natura sint pares, tamen inaequalitas in eis invenitur, secundum quod ex divina providentia quidam ordinantur ad maius, et quidam ad minus; secundum illud quod dicitur Eccli. XXXIII, *in multitudine disciplinae domini separavit eos, ex ipsis benedixit et exaltavit, ex ipsis maledixit et humiliavit*. Et sic maius officium est custodire unum hominem quam alium.]]
 ![[CERF Ia, q. 113, a. 2#ad 3]]
 

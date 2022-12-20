@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 108, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 108, a. 3#s.c.|Sed contra est quod [[Is 6]] dicitur, quod Seraphim clamabant alter ad alterum. Sunt ergo plures Angeli in uno ordine Seraphim.]]
+![[LEO Ia, q. 108, a. 3#s.c.|Sed contra est quod Isaiae VI dicitur, quod Seraphim clamabant alter ad alterum. Sunt ergo plures Angeli in uno ordine Seraphim.]]
 ![[CERF Ia, q. 108, a. 3#s.c.]]
 
 ###### resp.

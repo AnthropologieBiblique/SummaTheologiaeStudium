@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 30, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod concupiscentia non solum sit in appetitu sensitivo. Est enim quaedam concupiscentia sapientiae, ut dicitur [[Sg 6]], *concupiscentia sapientiae deducit ad regnum perpetuum*. Sed appetitus sensitivus non potest ferri in sapientiam. Ergo concupiscentia non est in solo appetitu sensitivo.]]
+![[LEO Ia-IIæ, q. 30, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod concupiscentia non solum sit in appetitu sensitivo. Est enim quaedam concupiscentia sapientiae, ut dicitur Sap. VI, *concupiscentia sapientiae deducit ad regnum perpetuum*. Sed appetitus sensitivus non potest ferri in sapientiam. Ergo concupiscentia non est in solo appetitu sensitivo.]]
 ![[CERF Ia-IIæ, q. 30, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 30, a. 1#arg. 2|Praeterea, desiderium mandatorum Dei non est in appetitu sensitivo, immo apostolus dicit, [[Rm 7]], *non habitat in me, hoc est in carne mea, bonum*. Sed desiderium mandatorum Dei sub concupiscentia cadit, secundum illud [[Ps 118]], *concupivit anima mea desiderare iustificationes tuas*. Ergo concupiscentia non est solum in appetitu sensitivo.]]
+![[LEO Ia-IIæ, q. 30, a. 1#arg. 2|Praeterea, desiderium mandatorum Dei non est in appetitu sensitivo, immo apostolus dicit, Rom. VII, *non habitat in me, hoc est in carne mea, bonum*. Sed desiderium mandatorum Dei sub concupiscentia cadit, secundum illud Psalmi CXVIII, *concupivit anima mea desiderare iustificationes tuas*. Ergo concupiscentia non est solum in appetitu sensitivo.]]
 ![[CERF Ia-IIæ, q. 30, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 30, a. 1#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 30, a. 1#ad 1|Ad primum ergo dicendum quod appetitus sapientiae, vel aliorum spiritualium bonorum, interdum concupiscentia nominatur, vel propter similitudinem quandam, vel propter intensionem appetitus superioris partis, ex quo fit redundantia in inferiorem appetitum, ut simul etiam ipse inferior appetitus suo modo tendat in spirituale bonum consequens appetitum superiorem, et etiam ipsum corpus spiritualibus deserviat; sicut in [[Ps 83]], dicitur, *cor meum et caro mea exultaverunt in Deum vivum*.]]
+![[LEO Ia-IIæ, q. 30, a. 1#ad 1|Ad primum ergo dicendum quod appetitus sapientiae, vel aliorum spiritualium bonorum, interdum concupiscentia nominatur, vel propter similitudinem quandam, vel propter intensionem appetitus superioris partis, ex quo fit redundantia in inferiorem appetitum, ut simul etiam ipse inferior appetitus suo modo tendat in spirituale bonum consequens appetitum superiorem, et etiam ipsum corpus spiritualibus deserviat; sicut in Psalmo LXXXIII, dicitur, *cor meum et caro mea exultaverunt in Deum vivum*.]]
 ![[CERF Ia-IIæ, q. 30, a. 1#ad 1]]
 
 ###### ad 2

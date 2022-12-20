@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 48, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 48, a. 5#arg. 3|Praeterea, non solum passio Christi, sed etiam aliorum sanctorum, proficua fuit ad nostram salutem, secundum illud [[Col 1]], *gaudeo in passionibus pro vobis, et adimpleo ea quae desunt passionum Christi in carne mea pro corpore eius*, quod est Ecclesia. Ergo non solum Christus debet dici redemptor, sed etiam alii sancti.]]
+![[LEO IIIa, q. 48, a. 5#arg. 3|Praeterea, non solum passio Christi, sed etiam aliorum sanctorum, proficua fuit ad nostram salutem, secundum illud Coloss. I, *gaudeo in passionibus pro vobis, et adimpleo ea quae desunt passionum Christi in carne mea pro corpore eius*, quod est Ecclesia. Ergo non solum Christus debet dici redemptor, sed etiam alii sancti.]]
 ![[CERF IIIa, q. 48, a. 5#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 48, a. 5#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 48, a. 5#ad 3|Ad tertium dicendum quod passiones sanctorum proficiunt Ecclesiae, non quidem per modum redemptionis, sed per modum exhortationis et exempli, secundum illud [[2 Co 1]], *sive tribulamur pro vestra exhortatione et salute*.]]
+![[LEO IIIa, q. 48, a. 5#ad 3|Ad tertium dicendum quod passiones sanctorum proficiunt Ecclesiae, non quidem per modum redemptionis, sed per modum exhortationis et exempli, secundum illud II Cor. I, *sive tribulamur pro vestra exhortatione et salute*.]]
 ![[CERF IIIa, q. 48, a. 5#ad 3]]
 

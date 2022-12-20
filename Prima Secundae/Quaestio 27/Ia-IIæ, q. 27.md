@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 27#Prooemium|Deinde considerandum est de causa amoris. Et circa hoc quaeruntur quatuor. Primo, utrum bonum sit sola causa amoris. Secundo, utrum cognitio sit causa amoris. Tertio, utrum similitudo. Quarto, utrum aliqua alia animae passionum.]]
-![[CERF Ia-IIæ, q. 27#Prooemium]]
+Deinde considerandum est de causa amoris. Et circa hoc quaeruntur quatuor. Primo, utrum bonum sit sola causa amoris. Secundo, utrum cognitio sit causa amoris. Tertio, utrum similitudo. Quarto, utrum aliqua alia animae passionum.
 
 ![[Ia-IIæ, q. 27, a. 1#Articulus 1]]
 

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 105, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 105, a. 1#s.c.|Sed contra est quod dicitur [[Gn 2]], *formavit Deus hominem de limo terrae*.]]
+![[LEO Ia, q. 105, a. 1#s.c.|Sed contra est quod dicitur Gen. II, *formavit Deus hominem de limo terrae*.]]
 ![[CERF Ia, q. 105, a. 1#s.c.]]
 
 ###### resp.

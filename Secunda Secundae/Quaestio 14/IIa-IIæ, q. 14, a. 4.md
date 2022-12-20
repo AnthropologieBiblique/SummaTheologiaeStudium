@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 14, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 14, a. 4#s.c.|Sed contra est quod *facile est in conspectu Dei subito honestare pauperem*, ut dicitur [[Si 11]]. Ergo e contrario possibile est, secundum malitiam Daemonis suggerentis, ut statim aliquis inducatur in gravissimum peccatum, quod est in spiritum sanctum.]]
+![[LEO IIa-IIæ, q. 14, a. 4#s.c.|Sed contra est quod *facile est in conspectu Dei subito honestare pauperem*, ut dicitur Eccli. XI. Ergo e contrario possibile est, secundum malitiam Daemonis suggerentis, ut statim aliquis inducatur in gravissimum peccatum, quod est in spiritum sanctum.]]
 ![[CERF IIa-IIæ, q. 14, a. 4#s.c.]]
 
 ###### resp.

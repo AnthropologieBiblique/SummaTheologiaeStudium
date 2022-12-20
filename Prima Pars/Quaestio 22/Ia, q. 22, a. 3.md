@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 22, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 22, a. 3#s.c.|Sed contra est quod dicitur [[Jb 34]], *quem constituit alium super terram? Aut quem posuit super orbem quem fabricatus est?* Super quo dicit Gregorius, *mundum per seipsum regit, quem per seipsum condidit*.]]
+![[LEO Ia, q. 22, a. 3#s.c.|Sed contra est quod dicitur Iob XXXIV, *quem constituit alium super terram? Aut quem posuit super orbem quem fabricatus est?* Super quo dicit Gregorius, *mundum per seipsum regit, quem per seipsum condidit*.]]
 ![[CERF Ia, q. 22, a. 3#s.c.]]
 
 ###### resp.

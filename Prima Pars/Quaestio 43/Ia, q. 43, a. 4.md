@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 43, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 43, a. 4#arg. 2|Praeterea, persona divina mittitur secundum inhabitationem gratiae. Sed per gratiam tota Trinitas inhabitat in nobis, secundum illud [[Jn 14]], *ad eum veniemus, et mansionem apud eum faciemus*. Ergo quaelibet divinarum personarum mittitur.]]
+![[LEO Ia, q. 43, a. 4#arg. 2|Praeterea, persona divina mittitur secundum inhabitationem gratiae. Sed per gratiam tota Trinitas inhabitat in nobis, secundum illud Ioan. XIV, *ad eum veniemus, et mansionem apud eum faciemus*. Ergo quaelibet divinarum personarum mittitur.]]
 ![[CERF Ia, q. 43, a. 4#arg. 2]]
 
 ###### arg. 3

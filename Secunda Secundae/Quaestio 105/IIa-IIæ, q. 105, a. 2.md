@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 105, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod inobedientia sit gravissimum peccatum. Dicitur enim [[1S 15]], *et quasi scelus idololatriae nolle acquiescere*. Sed idolatria est gravissimum peccatum, ut supra habitum est. Ergo inobedientia est gravissimum peccatum.]]
+![[LEO IIa-IIæ, q. 105, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod inobedientia sit gravissimum peccatum. Dicitur enim I Reg. XV, *et quasi scelus idololatriae nolle acquiescere*. Sed idolatria est gravissimum peccatum, ut supra habitum est. Ergo inobedientia est gravissimum peccatum.]]
 ![[CERF IIa-IIæ, q. 105, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 105, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 105, a. 2#arg. 3|Praeterea, apostolus dicit, [[Rm 5]], quod *per unius inobedientiam peccatores constituti sunt multi*. Sed causa videtur esse potior effectu. Ergo inobedientia videtur esse gravius peccatum quam alia quae ex ea causantur.]]
+![[LEO IIa-IIæ, q. 105, a. 2#arg. 3|Praeterea, apostolus dicit, Rom. V, quod *per unius inobedientiam peccatores constituti sunt multi*. Sed causa videtur esse potior effectu. Ergo inobedientia videtur esse gravius peccatum quam alia quae ex ea causantur.]]
 ![[CERF IIa-IIæ, q. 105, a. 2#arg. 3]]
 
 ###### s.c.

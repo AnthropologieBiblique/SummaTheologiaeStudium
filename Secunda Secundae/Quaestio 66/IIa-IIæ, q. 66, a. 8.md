@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 66, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 66, a. 8#s.c.|Sed contra est quod de quolibet licite accepto potest fieri Deo sacrificium vel oblatio. Non autem potest fieri de rapina, secundum illud [[Is 61]], *ego dominus diligens iudicium, et odio habens rapinam in holocaustum*. Ergo per rapinam aliquid accipere non est licitum.]]
+![[LEO IIa-IIæ, q. 66, a. 8#s.c.|Sed contra est quod de quolibet licite accepto potest fieri Deo sacrificium vel oblatio. Non autem potest fieri de rapina, secundum illud Isaiae LXI, *ego dominus diligens iudicium, et odio habens rapinam in holocaustum*. Ergo per rapinam aliquid accipere non est licitum.]]
 ![[CERF IIa-IIæ, q. 66, a. 8#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 66, a. 8#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 66, a. 8#ad 3|Ad tertium dicendum quod si principes a subditis exigant quod eis secundum iustitiam debetur propter bonum commune conservandum, etiam si violentia adhibeatur, non est rapina. Si vero aliquid principes indebite extorqueant per violentiam, rapina est, sicut et latrocinium. Unde dicit Augustinus, in IV de Civ. Dei, *remota iustitia, quid sunt regna nisi magna latrocinia? Quia et latrocinia quid sunt nisi parva regna?* Et [[Ez 22]] dicitur, *principes eius in medio eius quasi lupi rapientes praedam*. Unde et ad restitutionem tenentur, sicut et latrones. Et tanto gravius peccant quam latrones, quanto periculosius et communius contra publicam iustitiam agunt, cuius custodes sunt positi.]]
+![[LEO IIa-IIæ, q. 66, a. 8#ad 3|Ad tertium dicendum quod si principes a subditis exigant quod eis secundum iustitiam debetur propter bonum commune conservandum, etiam si violentia adhibeatur, non est rapina. Si vero aliquid principes indebite extorqueant per violentiam, rapina est, sicut et latrocinium. Unde dicit Augustinus, in IV de Civ. Dei, *remota iustitia, quid sunt regna nisi magna latrocinia? Quia et latrocinia quid sunt nisi parva regna?* Et Ezech. XXII dicitur, *principes eius in medio eius quasi lupi rapientes praedam*. Unde et ad restitutionem tenentur, sicut et latrones. Et tanto gravius peccant quam latrones, quanto periculosius et communius contra publicam iustitiam agunt, cuius custodes sunt positi.]]
 ![[CERF IIa-IIæ, q. 66, a. 8#ad 3]]
 

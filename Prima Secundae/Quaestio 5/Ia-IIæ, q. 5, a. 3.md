@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 5, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod beatitudo possit in hac vita haberi. Dicitur enim in [[Ps 118]], *beati immaculati in via, qui ambulant in lege domini*. Hoc autem in hac vita contingit. Ergo aliquis in hac vita potest esse beatus.]]
+![[LEO Ia-IIæ, q. 5, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod beatitudo possit in hac vita haberi. Dicitur enim in Psalmo CXVIII, *beati immaculati in via, qui ambulant in lege domini*. Hoc autem in hac vita contingit. Ergo aliquis in hac vita potest esse beatus.]]
 ![[CERF Ia-IIæ, q. 5, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia-IIæ, q. 5, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 5, a. 3#arg. 3|Praeterea, quod a pluribus dicitur, non potest totaliter falsum esse, videtur enim esse naturale quod in pluribus est; natura autem non totaliter deficit. Sed plures ponunt beatitudinem in hac vita, ut patet per illud [[Ps 143]], *beatum dixerunt populum cui haec sunt*, scilicet praesentis vitae bona. Ergo aliquis in hac vita potest esse beatus.]]
+![[LEO Ia-IIæ, q. 5, a. 3#arg. 3|Praeterea, quod a pluribus dicitur, non potest totaliter falsum esse, videtur enim esse naturale quod in pluribus est; natura autem non totaliter deficit. Sed plures ponunt beatitudinem in hac vita, ut patet per illud Psalmi CXLIII, *beatum dixerunt populum cui haec sunt*, scilicet praesentis vitae bona. Ergo aliquis in hac vita potest esse beatus.]]
 ![[CERF Ia-IIæ, q. 5, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 5, a. 3#s.c.|Sed contra est quod dicitur [[Jb 14]], *homo natus de muliere, brevi vivens tempore, repletur multis miseriis*. Sed beatitudo excludit miseriam. Ergo homo in hac vita non potest esse beatus.]]
+![[LEO Ia-IIæ, q. 5, a. 3#s.c.|Sed contra est quod dicitur Iob XIV, *homo natus de muliere, brevi vivens tempore, repletur multis miseriis*. Sed beatitudo excludit miseriam. Ergo homo in hac vita non potest esse beatus.]]
 ![[CERF Ia-IIæ, q. 5, a. 3#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 5, a. 3#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 5, a. 3#ad 1|Ad primum ergo dicendum quod beati dicuntur aliqui in hac vita, vel propter spem beatitudinis adipiscendae in futura vita, secundum illud [[Rm 8]], *spe salvi facti sumus*, vel propter aliquam participationem beatitudinis, secundum aliqualem summi boni fruitionem.]]
+![[LEO Ia-IIæ, q. 5, a. 3#ad 1|Ad primum ergo dicendum quod beati dicuntur aliqui in hac vita, vel propter spem beatitudinis adipiscendae in futura vita, secundum illud Rom. VIII, *spe salvi facti sumus*, vel propter aliquam participationem beatitudinis, secundum aliqualem summi boni fruitionem.]]
 ![[CERF Ia-IIæ, q. 5, a. 3#ad 1]]
 
 ###### ad 2

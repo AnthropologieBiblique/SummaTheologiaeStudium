@@ -14,15 +14,15 @@ tags :
 ![[CERF Ia, q. 63, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 63, a. 8#arg. 3|Praeterea, maius peccatum est velle subesse alteri contra Deum, quam contra Deum alteri velle praeesse, quia minus habet de motivo ad peccandum. Si ergo peccatum primi Angeli fuit aliis causa peccandi in hoc, quod eos ut sibi subiicerentur induxit, gravius peccassent inferiores Angeli quam supremus, quod est contra hoc quod super illud [[Ps 103]], *draco iste quem formasti*, dicit Glossa, *qui ceteris in esse erat excellentior, factus est in malitia maior*. Non ergo peccatum primi Angeli fuit aliis causa peccandi.]]
+![[LEO Ia, q. 63, a. 8#arg. 3|Praeterea, maius peccatum est velle subesse alteri contra Deum, quam contra Deum alteri velle praeesse, quia minus habet de motivo ad peccandum. Si ergo peccatum primi Angeli fuit aliis causa peccandi in hoc, quod eos ut sibi subiicerentur induxit, gravius peccassent inferiores Angeli quam supremus, quod est contra hoc quod super illud Psalmi CIII, *draco iste quem formasti*, dicit Glossa, *qui ceteris in esse erat excellentior, factus est in malitia maior*. Non ergo peccatum primi Angeli fuit aliis causa peccandi.]]
 ![[CERF Ia, q. 63, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 63, a. 8#s.c.|Sed contra est quod dicitur [[Ap 12]], quod draco traxit secum tertiam partem stellarum.]]
+![[LEO Ia, q. 63, a. 8#s.c.|Sed contra est quod dicitur Apoc. XII, quod draco traxit secum tertiam partem stellarum.]]
 ![[CERF Ia, q. 63, a. 8#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 63, a. 8#resp.|Respondeo dicendum quod peccatum primi Angeli fuit aliis causa peccandi, non quidem cogens, sed quadam quasi exhortatione inducens. Cuius signum ex hoc apparet, quod omnes Daemones illi supremo subduntur; ut manifeste apparet per illud quod dicit dominus, [[Mt 25]], *ite, maledicti, in ignem aeternum, qui paratus est Diabolo et Angelis eius*. Habet enim hoc ordo divinae iustitiae, ut cuius suggestioni aliquis consentit in culpa, eius potestati subdatur in poena; secundum illud [[2 P 2]], a quo quis superatus est, huic servus addictus est.]]
+![[LEO Ia, q. 63, a. 8#resp.|Respondeo dicendum quod peccatum primi Angeli fuit aliis causa peccandi, non quidem cogens, sed quadam quasi exhortatione inducens. Cuius signum ex hoc apparet, quod omnes Daemones illi supremo subduntur; ut manifeste apparet per illud quod dicit dominus, Matth. XXV, *ite, maledicti, in ignem aeternum, qui paratus est Diabolo et Angelis eius*. Habet enim hoc ordo divinae iustitiae, ut cuius suggestioni aliquis consentit in culpa, eius potestati subdatur in poena; secundum illud II Petr. II, a quo quis superatus est, huic servus addictus est.]]
 ![[CERF Ia, q. 63, a. 8#resp.]]
 
 ###### ad 1

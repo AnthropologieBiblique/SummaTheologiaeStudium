@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 86#Prooemium|Deinde considerandum est quid intellectus noster in rebus materialibus cognoscat. Et circa hoc quaeruntur quatuor. Primo, utrum cognoscat singularia. Secundo, utrum cognoscat infinita. Tertio, utrum cognoscat contingentia. Quarto, utrum cognoscat futura.]]
-![[CERF Ia, q. 86#Prooemium]]
+Deinde considerandum est quid intellectus noster in rebus materialibus cognoscat. Et circa hoc quaeruntur quatuor. Primo, utrum cognoscat singularia. Secundo, utrum cognoscat infinita. Tertio, utrum cognoscat contingentia. Quarto, utrum cognoscat futura.
 
 ![[Ia, q. 86, a. 1#Articulus 1]]
 

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 109, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 109, a. 2#s.c.|Sed contra est quod apostolus dicit, [[Rm 9]], non est volentis, scilicet velle, neque currentis, scilicet currere, sed miserentis Dei. Et Augustinus dicit, in libro de Corrept. et gratia, quod *sine gratia nullum prorsus, sive cogitando, sive volendo et amando, sive agendo, faciunt homines bonum*.]]
+![[LEO Ia-IIæ, q. 109, a. 2#s.c.|Sed contra est quod apostolus dicit, Rom. IX, non est volentis, scilicet velle, neque currentis, scilicet currere, sed miserentis Dei. Et Augustinus dicit, in libro de Corrept. et gratia, quod *sine gratia nullum prorsus, sive cogitando, sive volendo et amando, sive agendo, faciunt homines bonum*.]]
 ![[CERF Ia-IIæ, q. 109, a. 2#s.c.]]
 
 ###### resp.

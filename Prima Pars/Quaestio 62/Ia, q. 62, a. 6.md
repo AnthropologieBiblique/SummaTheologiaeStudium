@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 62, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 62, a. 6#arg. 2|Praeterea, magis propinquum videtur ad gratiam actus humanus quam natura, quia actus humanus praeparatorius est ad gratiam. Sed gratia non est ex operibus, ut dicitur [[Rm 11]]. Multo igitur minus quantitas gratiae in Angelis est secundum quantitatem naturalium.]]
+![[LEO Ia, q. 62, a. 6#arg. 2|Praeterea, magis propinquum videtur ad gratiam actus humanus quam natura, quia actus humanus praeparatorius est ad gratiam. Sed gratia non est ex operibus, ut dicitur Rom. XI. Multo igitur minus quantitas gratiae in Angelis est secundum quantitatem naturalium.]]
 ![[CERF Ia, q. 62, a. 6#arg. 2]]
 
 ###### arg. 3

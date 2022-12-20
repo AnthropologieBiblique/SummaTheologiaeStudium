@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 87, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 87, a. 5#arg. 2|Praeterea, peccatum originale est minimum peccatorum, unde et Augustinus dicit, in Enchirid., quod *mitissima poena est eorum qui pro solo peccato originali puniuntur*. Sed peccato originali debetur poena perpetua, nunquam enim videbunt regnum Dei pueri qui sine Baptismo decesserunt cum originali peccato; ut patet per id quod dominus dicit, [[Jn 3]], *nisi quis renatus fuerit denuo, non potest videre regnum Dei*. Ergo multo magis omnium aliorum peccatorum poena erit aeterna.]]
+![[LEO Ia-IIæ, q. 87, a. 5#arg. 2|Praeterea, peccatum originale est minimum peccatorum, unde et Augustinus dicit, in Enchirid., quod *mitissima poena est eorum qui pro solo peccato originali puniuntur*. Sed peccato originali debetur poena perpetua, nunquam enim videbunt regnum Dei pueri qui sine Baptismo decesserunt cum originali peccato; ut patet per id quod dominus dicit, Ioan. III, *nisi quis renatus fuerit denuo, non potest videre regnum Dei*. Ergo multo magis omnium aliorum peccatorum poena erit aeterna.]]
 ![[CERF Ia-IIæ, q. 87, a. 5#arg. 2]]
 
 ###### arg. 3

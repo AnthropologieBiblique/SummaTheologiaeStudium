@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 19, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 19, a. 1#s.c.|Sed contra est quod dicit apostolus, [[Rm 12]], *ut probetis quae sit voluntas Dei*.]]
+![[LEO Ia, q. 19, a. 1#s.c.|Sed contra est quod dicit apostolus, Rom. XII, *ut probetis quae sit voluntas Dei*.]]
 ![[CERF Ia, q. 19, a. 1#s.c.]]
 
 ###### resp.

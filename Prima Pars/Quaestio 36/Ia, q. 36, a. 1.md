@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 36, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 36, a. 1#arg. 3|Praeterea, quia filius est nomen alicuius divinae personae, non potest dici filius huius vel illius. Dicitur autem spiritus huius vel illius hominis. Ut enim habetur [[Nb 11]], *dixit dominus ad Moysen, auferam de spiritu tuo, tradamque eis*; et [[2R 2]], *requievit spiritus Eliae super Elisaeum*. Ergo spiritus sanctus non videtur esse proprium nomen alicuius divinae personae.]]
+![[LEO Ia, q. 36, a. 1#arg. 3|Praeterea, quia filius est nomen alicuius divinae personae, non potest dici filius huius vel illius. Dicitur autem spiritus huius vel illius hominis. Ut enim habetur Num. XI, *dixit dominus ad Moysen, auferam de spiritu tuo, tradamque eis*; et IV Reg. II, *requievit spiritus Eliae super Elisaeum*. Ergo spiritus sanctus non videtur esse proprium nomen alicuius divinae personae.]]
 ![[CERF Ia, q. 36, a. 1#arg. 3]]
 
 ###### s.c.

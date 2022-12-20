@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia-IIæ, q. 100, a. 8#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia-IIæ, q. 100, a. 8#arg. 4|Praeterea, observatio sabbati continetur inter praecepta Decalogi. Sed in hoc praecepto fuit dispensatum, dicitur enim [[1 M 2]], *et cogitaverunt in die illa dicentes, omnis homo quicumque venerit ad nos in bello die sabbatorum, pugnemus adversus eum*. Ergo praecepta Decalogi sunt dispensabilia.]]
+![[LEO Ia-IIæ, q. 100, a. 8#arg. 4|Praeterea, observatio sabbati continetur inter praecepta Decalogi. Sed in hoc praecepto fuit dispensatum, dicitur enim I Machab. II, *et cogitaverunt in die illa dicentes, omnis homo quicumque venerit ad nos in bello die sabbatorum, pugnemus adversus eum*. Ergo praecepta Decalogi sunt dispensabilia.]]
 ![[CERF Ia-IIæ, q. 100, a. 8#arg. 4]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 100, a. 8#s.c.|Sed contra est quod dicitur [[Is 24]], quidam reprehenduntur de hoc quod mutaverunt ius, dissipaverunt foedus sempiternum, quod maxime videtur intelligendum de praeceptis Decalogi. Ergo praecepta Decalogi mutari per dispensationem non possunt.]]
+![[LEO Ia-IIæ, q. 100, a. 8#s.c.|Sed contra est quod dicitur Isaiae XXIV, quidam reprehenduntur de hoc quod mutaverunt ius, dissipaverunt foedus sempiternum, quod maxime videtur intelligendum de praeceptis Decalogi. Ergo praecepta Decalogi mutari per dispensationem non possunt.]]
 ![[CERF Ia-IIæ, q. 100, a. 8#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF Ia-IIæ, q. 100, a. 8#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 100, a. 8#ad 2|Ad secundum dicendum quod, sicut apostolus dicit, [[2 Tm 2]], *Deus fidelis permanet, negare seipsum non potest*. Negaret autem seipsum, si ipsum ordinem suae iustitiae auferret, cum ipse sit ipsa iustitia. Et ideo in hoc Deus dispensare non potest, ut homini liceat non ordinate se habere ad Deum, vel non subdi ordini iustitiae eius, etiam in his secundum quae homines ad invicem ordinantur.]]
+![[LEO Ia-IIæ, q. 100, a. 8#ad 2|Ad secundum dicendum quod, sicut apostolus dicit, II ad Tim. II, *Deus fidelis permanet, negare seipsum non potest*. Negaret autem seipsum, si ipsum ordinem suae iustitiae auferret, cum ipse sit ipsa iustitia. Et ideo in hoc Deus dispensare non potest, ut homini liceat non ordinate se habere ad Deum, vel non subdi ordini iustitiae eius, etiam in his secundum quae homines ad invicem ordinantur.]]
 ![[CERF Ia-IIæ, q. 100, a. 8#ad 2]]
 
 ###### ad 3
@@ -42,6 +42,6 @@ tags :
 ![[CERF Ia-IIæ, q. 100, a. 8#ad 3]]
 
 ###### ad 4
-![[LEO Ia-IIæ, q. 100, a. 8#ad 4|Ad quartum dicendum quod illa excogitatio magis fuit interpretatio praecepti quam dispensatio. Non enim intelligitur violare sabbatum qui facit opus quod est necessarium ad salutem humanam; sicut dominus probat, [[Mt 12]].]]
+![[LEO Ia-IIæ, q. 100, a. 8#ad 4|Ad quartum dicendum quod illa excogitatio magis fuit interpretatio praecepti quam dispensatio. Non enim intelligitur violare sabbatum qui facit opus quod est necessarium ad salutem humanam; sicut dominus probat, Matth. XII.]]
 ![[CERF Ia-IIæ, q. 100, a. 8#ad 4]]
 

@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 180, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod inconvenienter operatio contemplationis distinguatur per tres motus, circularem rectum et obliquum, IV cap. de Div. Nom. Contemplatio enim ad quietem pertinet, secundum illud [[Sg 8]], *intrans in domum meam, conquiescam cum illa*. Sed motus quieti opponitur. Non ergo operationes contemplativae vitae per motus designari debent.]]
+![[LEO IIa-IIæ, q. 180, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod inconvenienter operatio contemplationis distinguatur per tres motus, circularem rectum et obliquum, IV cap. de Div. Nom. Contemplatio enim ad quietem pertinet, secundum illud Sap. VIII, *intrans in domum meam, conquiescam cum illa*. Sed motus quieti opponitur. Non ergo operationes contemplativae vitae per motus designari debent.]]
 ![[CERF IIa-IIæ, q. 180, a. 6#arg. 1]]
 
 ###### arg. 2

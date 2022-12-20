@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 129, a. 3#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 129, a. 3#s.c.|Sed contra est quod in laudem quorundam dicitur, [[2 M 14]], *Nicanor audiens virtutem comitum Iudae, et animi magnitudinem quam pro patriae certaminibus habebant,* et cetera. Laudabilia autem sunt solum virtutum opera. Ergo magnanimitas, ad quam pertinet magnum animum habere, est virtus.]]
+![[LEO IIa-IIæ, q. 129, a. 3#s.c.|Sed contra est quod in laudem quorundam dicitur, II Machab. XIV, *Nicanor audiens virtutem comitum Iudae, et animi magnitudinem quam pro patriae certaminibus habebant,* et cetera. Laudabilia autem sunt solum virtutum opera. Ergo magnanimitas, ad quam pertinet magnum animum habere, est virtus.]]
 ![[CERF IIa-IIæ, q. 129, a. 3#s.c.]]
 
 ###### resp.

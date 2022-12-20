@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 56, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 56, a. 1#arg. 2|Praeterea, in doctrina evangelica continetur lex maxime quantum ad praecepta Decalogi. Sed in doctrina evangelica datur praeceptum de prudentia, ut patet [[Mt 10]], *estote prudentes sicut serpentes*. Ergo inter praecepta Decalogi debuit praecipi actus prudentiae.]]
+![[LEO IIa-IIæ, q. 56, a. 1#arg. 2|Praeterea, in doctrina evangelica continetur lex maxime quantum ad praecepta Decalogi. Sed in doctrina evangelica datur praeceptum de prudentia, ut patet Matth. X, *estote prudentes sicut serpentes*. Ergo inter praecepta Decalogi debuit praecipi actus prudentiae.]]
 ![[CERF IIa-IIæ, q. 56, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 56, a. 1#arg. 3|Praeterea, alia documenta veteris testamenti ad praecepta Decalogi ordinantur, unde et Malach. ult. dicitur, *mementote legis Moysi, servi mei, quam mandavi ei in Horeb*. Sed in aliis documentis veteris testamenti dantur praecepta de prudentia, sicut [[Pr 3]], *ne innitaris prudentiae tuae*; et infra, IV cap., *palpebrae tuae praecedant gressus tuos*. Ergo et in lege debuit aliquod praeceptum de prudentia dari, et praecipue inter praecepta Decalogi.]]
+![[LEO IIa-IIæ, q. 56, a. 1#arg. 3|Praeterea, alia documenta veteris testamenti ad praecepta Decalogi ordinantur, unde et Malach. ult. dicitur, *mementote legis Moysi, servi mei, quam mandavi ei in Horeb*. Sed in aliis documentis veteris testamenti dantur praecepta de prudentia, sicut Prov. III, *ne innitaris prudentiae tuae*; et infra, IV cap., *palpebrae tuae praecedant gressus tuos*. Ergo et in lege debuit aliquod praeceptum de prudentia dari, et praecipue inter praecepta Decalogi.]]
 ![[CERF IIa-IIæ, q. 56, a. 1#arg. 3]]
 
 ###### s.c.

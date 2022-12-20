@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 36, a. 8#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 36, a. 8#s.c.|Sed contra est quod dicitur [[Is 60]], *ambulabunt gentes in lumine tuo, et reges in splendore ortus tui*. Sed qui divino lumine ducuntur, non errant. Ergo magi absque errore Christo reverentiam exhibuerunt.]]
+![[LEO IIIa, q. 36, a. 8#s.c.|Sed contra est quod dicitur Isaiae LX, *ambulabunt gentes in lumine tuo, et reges in splendore ortus tui*. Sed qui divino lumine ducuntur, non errant. Ergo magi absque errore Christo reverentiam exhibuerunt.]]
 ![[CERF IIIa, q. 36, a. 8#s.c.]]
 
 ###### resp.
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIIa, q. 36, a. 8#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 36, a. 8#ad 3|Ad tertium dicendum quod, sicut Augustinus dicit, in sermone Epiphaniae, *stella quae magos perduxit ad locum ubi erat cum matre virgine Deus infans, poterat eos ad ipsam perducere civitatem Bethlehem, in qua natus est Christus. Sed tamen subtraxit se, donec de civitate in qua Christus nasceretur, etiam Iudaei testimonium perhiberent*, ut sic, geminato testimonio confirmati, sicut Leo Papa dicit, *ardentiori fide expeterent quem et stellae claritas, et prophetiae manifestabat auctoritas*. Ita ipsi annuntiant Christi nativitatem, et interrogant locum, *credunt et quaerunt, tanquam significantes eos qui ambulant per fidem et desiderant speciem*, ut Augustinus dicit, in sermone Epiphaniae. Iudaei autem, indicantes eis locum nativitatis Christi, *similes facti sunt fabris arcae Noe, qui aliis ubi evaderent praestiterunt, et ipsi diluvio perierunt. Audierunt et abierunt inquisitores, dixerunt et remanserunt doctores, similes lapidibus miliariis, qui viam ostendunt, nec ambulant*. Divino etiam nutu factum est ut, aspectu stellae subtracto, magi humano sensu irent in Ierusalem, quaerentes in civitate regia regem natum, ut in Ierusalem primo nativitas Christi publice annuntiaretur, secundum illud [[Is 2]], *de Sion exibit lex, et verbum domini de Ierusalem, et ut etiam studio magorum de longe venientium damnaretur pigritia Iudaeorum prope existentium*.]]
+![[LEO IIIa, q. 36, a. 8#ad 3|Ad tertium dicendum quod, sicut Augustinus dicit, in sermone Epiphaniae, *stella quae magos perduxit ad locum ubi erat cum matre virgine Deus infans, poterat eos ad ipsam perducere civitatem Bethlehem, in qua natus est Christus. Sed tamen subtraxit se, donec de civitate in qua Christus nasceretur, etiam Iudaei testimonium perhiberent*, ut sic, geminato testimonio confirmati, sicut Leo Papa dicit, *ardentiori fide expeterent quem et stellae claritas, et prophetiae manifestabat auctoritas*. Ita ipsi annuntiant Christi nativitatem, et interrogant locum, *credunt et quaerunt, tanquam significantes eos qui ambulant per fidem et desiderant speciem*, ut Augustinus dicit, in sermone Epiphaniae. Iudaei autem, indicantes eis locum nativitatis Christi, *similes facti sunt fabris arcae Noe, qui aliis ubi evaderent praestiterunt, et ipsi diluvio perierunt. Audierunt et abierunt inquisitores, dixerunt et remanserunt doctores, similes lapidibus miliariis, qui viam ostendunt, nec ambulant*. Divino etiam nutu factum est ut, aspectu stellae subtracto, magi humano sensu irent in Ierusalem, quaerentes in civitate regia regem natum, ut in Ierusalem primo nativitas Christi publice annuntiaretur, secundum illud Isaiae II, *de Sion exibit lex, et verbum domini de Ierusalem, et ut etiam studio magorum de longe venientium damnaretur pigritia Iudaeorum prope existentium*.]]
 ![[CERF IIIa, q. 36, a. 8#ad 3]]
 
 ###### ad 4

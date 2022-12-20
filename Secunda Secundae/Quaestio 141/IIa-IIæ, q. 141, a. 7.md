@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 141, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 141, a. 7#arg. 2|Praeterea, quanto aliquid est magis impetuosum, tanto difficilius videtur esse ad refrenandum. Sed ira, quam refrenat mansuetudo, videtur esse impetuosior quam concupiscentia, quam refrenat temperantia, dicitur enim [[Pr 27]], *ira non habet misericordiam, nec erumpens furor, et impetum concitati spiritus ferre quis poterit?* Ergo mansuetudo est principalior virtus quam temperantia.]]
+![[LEO IIa-IIæ, q. 141, a. 7#arg. 2|Praeterea, quanto aliquid est magis impetuosum, tanto difficilius videtur esse ad refrenandum. Sed ira, quam refrenat mansuetudo, videtur esse impetuosior quam concupiscentia, quam refrenat temperantia, dicitur enim Prov. XXVII, *ira non habet misericordiam, nec erumpens furor, et impetum concitati spiritus ferre quis poterit?* Ergo mansuetudo est principalior virtus quam temperantia.]]
 ![[CERF IIa-IIæ, q. 141, a. 7#arg. 2]]
 
 ###### arg. 3

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 53#Prooemium|Deinde considerandum est de corruptione et diminutione habituum. Et circa hoc quaeruntur tria. Primo, utrum habitus corrumpi possit. Secundo, utrum possit diminui. Tertio, de modo corruptionis et diminutionis.]]
-![[CERF Ia-IIæ, q. 53#Prooemium]]
+Deinde considerandum est de corruptione et diminutione habituum. Et circa hoc quaeruntur tria. Primo, utrum habitus corrumpi possit. Secundo, utrum possit diminui. Tertio, de modo corruptionis et diminutionis.
 
 ![[Ia-IIæ, q. 53, a. 1#Articulus 1]]
 

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 152#Prooemium|Deinde considerandum est de virginitate. Et circa hoc quaeruntur quinque. Primo, in quo consistit virginitas. Secundo, utrum sit licita. Tertio, utrum sit virtus. Quarto, de excellentia eius respectu matrimonii. Quinto, de excellentia eius respectu aliarum virtutum.]]
-![[CERF IIa-IIæ, q. 152#Prooemium]]
+Deinde considerandum est de virginitate. Et circa hoc quaeruntur quinque. Primo, in quo consistit virginitas. Secundo, utrum sit licita. Tertio, utrum sit virtus. Quarto, de excellentia eius respectu matrimonii. Quinto, de excellentia eius respectu aliarum virtutum.
 
 ![[IIa-IIæ, q. 152, a. 1#Articulus 1]]
 

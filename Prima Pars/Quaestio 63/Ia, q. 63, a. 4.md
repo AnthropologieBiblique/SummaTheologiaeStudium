@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 63, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 63, a. 4#arg. 2|Praeterea, sicut Angeli sunt creati a Deo, ita et homines. Sed aliqui homines sunt naturaliter mali, de quibus dicitur [[Sg 12]], *erat eorum malitia naturalis*. Ergo et Angeli aliqui possunt esse naturaliter mali.]]
+![[LEO Ia, q. 63, a. 4#arg. 2|Praeterea, sicut Angeli sunt creati a Deo, ita et homines. Sed aliqui homines sunt naturaliter mali, de quibus dicitur Sap. XII, *erat eorum malitia naturalis*. Ergo et Angeli aliqui possunt esse naturaliter mali.]]
 ![[CERF Ia, q. 63, a. 4#arg. 2]]
 
 ###### arg. 3

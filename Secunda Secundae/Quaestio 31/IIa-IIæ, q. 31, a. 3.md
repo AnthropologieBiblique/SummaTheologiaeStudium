@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 31, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non sit magis benefaciendum his qui sunt nobis magis coniuncti. Dicitur enim [[Lc 14]], *cum facis prandium aut cenam, noli vocare amicos tuos neque fratres neque cognatos*. Sed isti sunt maxime coniuncti. Ergo non est magis benefaciendum coniunctis, sed potius extraneis indigentibus, sequitur enim, *sed cum facis convivium, voca pauperes et debiles,* et cetera.]]
+![[LEO IIa-IIæ, q. 31, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non sit magis benefaciendum his qui sunt nobis magis coniuncti. Dicitur enim Luc. XIV, *cum facis prandium aut cenam, noli vocare amicos tuos neque fratres neque cognatos*. Sed isti sunt maxime coniuncti. Ergo non est magis benefaciendum coniunctis, sed potius extraneis indigentibus, sequitur enim, *sed cum facis convivium, voca pauperes et debiles,* et cetera.]]
 ![[CERF IIa-IIæ, q. 31, a. 3#arg. 1]]
 
 ###### arg. 2

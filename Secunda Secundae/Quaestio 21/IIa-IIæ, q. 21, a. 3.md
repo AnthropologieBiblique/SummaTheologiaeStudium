@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 21, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod praesumptio magis opponatur timori quam spei. Inordinatio enim timoris opponitur recto timori. Sed praesumptio videtur ad inordinationem timoris pertinere, dicitur enim [[Sg 17]], *semper praesumit saeva perturbata conscientia*; et ibidem dicitur quod timor est praesumptionis adiutorium. Ergo praesumptio opponitur timori magis quam spei.]]
+![[LEO IIa-IIæ, q. 21, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod praesumptio magis opponatur timori quam spei. Inordinatio enim timoris opponitur recto timori. Sed praesumptio videtur ad inordinationem timoris pertinere, dicitur enim Sap. XVII, *semper praesumit saeva perturbata conscientia*; et ibidem dicitur quod timor est praesumptionis adiutorium. Ergo praesumptio opponitur timori magis quam spei.]]
 ![[CERF IIa-IIæ, q. 21, a. 3#arg. 1]]
 
 ###### arg. 2

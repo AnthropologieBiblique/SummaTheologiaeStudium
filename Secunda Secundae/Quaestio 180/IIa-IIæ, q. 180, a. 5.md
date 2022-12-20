@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 180, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod vita contemplativa, secundum statum huius vitae, possit pertingere ad visionem divinae essentiae. Quia, ut habetur [[Gn 32]], Iacob dixit, *vidi Deum facie ad faciem, et salva facta est anima mea*. Sed visio faciei est visio divinae essentiae. Ergo videtur quod aliquis per contemplationem in praesenti vita possit se extendere ad videndum Deum per essentiam.]]
+![[LEO IIa-IIæ, q. 180, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod vita contemplativa, secundum statum huius vitae, possit pertingere ad visionem divinae essentiae. Quia, ut habetur Gen. XXXII, Iacob dixit, *vidi Deum facie ad faciem, et salva facta est anima mea*. Sed visio faciei est visio divinae essentiae. Ergo videtur quod aliquis per contemplationem in praesenti vita possit se extendere ad videndum Deum per essentiam.]]
 ![[CERF IIa-IIæ, q. 180, a. 5#arg. 1]]
 
 ###### arg. 2

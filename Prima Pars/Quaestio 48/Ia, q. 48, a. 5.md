@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 48, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 48, a. 5#arg. 3|Praeterea, tentatio quoddam malum est. Nec tamen est culpa, quia tentatio cui non consentitur, *non est peccatum, sed materia exercendae virtutis*, ut dicitur in Glossa [[2 Co 12]]. Nec etiam poena, quia tentatio praecedit culpam, poena autem subsequitur. Insufficienter ergo malum dividitur per poenam et culpam.]]
+![[LEO Ia, q. 48, a. 5#arg. 3|Praeterea, tentatio quoddam malum est. Nec tamen est culpa, quia tentatio cui non consentitur, *non est peccatum, sed materia exercendae virtutis*, ut dicitur in Glossa II Cor. XII. Nec etiam poena, quia tentatio praecedit culpam, poena autem subsequitur. Insufficienter ergo malum dividitur per poenam et culpam.]]
 ![[CERF Ia, q. 48, a. 5#arg. 3]]
 
 ###### s.c.

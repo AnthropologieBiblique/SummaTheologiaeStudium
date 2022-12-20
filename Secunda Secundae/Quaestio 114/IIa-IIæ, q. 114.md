@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 114#Prooemium|Deinde considerandum est de amicitia quae affabilitas dicitur; et de vitiis oppositis, quae sunt adulatio et litigium. Circa amicitiam autem seu affabilitatem quaeruntur duo. Primo, utrum sit specialis virtus. Secundo, utrum sit pars iustitiae.]]
-![[CERF IIa-IIæ, q. 114#Prooemium]]
+Deinde considerandum est de amicitia quae affabilitas dicitur; et de vitiis oppositis, quae sunt adulatio et litigium. Circa amicitiam autem seu affabilitatem quaeruntur duo. Primo, utrum sit specialis virtus. Secundo, utrum sit pars iustitiae.
 
 ![[IIa-IIæ, q. 114, a. 1#Articulus 1]]
 

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 164, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 164, a. 1#arg. 2|Praeterea, mors et alii corporales defectus similiter inveniuntur in homine sicut et in aliis animalibus, secundum illud [[Qo 3]], *unus interitus est hominis et iumentorum, et aequa utriusque conditio*. Sed in animalibus brutis mors non est poena peccati. Ergo etiam neque in hominibus.]]
+![[LEO IIa-IIæ, q. 164, a. 1#arg. 2|Praeterea, mors et alii corporales defectus similiter inveniuntur in homine sicut et in aliis animalibus, secundum illud Eccle. III, *unus interitus est hominis et iumentorum, et aequa utriusque conditio*. Sed in animalibus brutis mors non est poena peccati. Ergo etiam neque in hominibus.]]
 ![[CERF IIa-IIæ, q. 164, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 164, a. 1#arg. 4]]
 
 ###### arg. 5
-![[LEO IIa-IIæ, q. 164, a. 1#arg. 5|Praeterea, malum poenae est a Deo, ut supra habitum est. Sed mors non videtur esse a Deo, dicitur enim [[Sg 1]], quod *Deus mortem non fecit*. Ergo mors non est poena primi peccati.]]
+![[LEO IIa-IIæ, q. 164, a. 1#arg. 5|Praeterea, malum poenae est a Deo, ut supra habitum est. Sed mors non videtur esse a Deo, dicitur enim Sap. I, quod *Deus mortem non fecit*. Ergo mors non est poena primi peccati.]]
 ![[CERF IIa-IIæ, q. 164, a. 1#arg. 5]]
 
 ###### arg. 6
@@ -34,11 +34,11 @@ tags :
 ![[CERF IIa-IIæ, q. 164, a. 1#arg. 7]]
 
 ###### arg. 8
-![[LEO IIa-IIæ, q. 164, a. 1#arg. 8|Praeterea, si mors esset poena peccati, statim fuisset ad peccatum consecuta. Sed hoc non est verum, nam primi parentes post peccatum diu vixerunt, ut patet [[Gn 4]]. Ergo mors non videtur esse poena peccati.]]
+![[LEO IIa-IIæ, q. 164, a. 1#arg. 8|Praeterea, si mors esset poena peccati, statim fuisset ad peccatum consecuta. Sed hoc non est verum, nam primi parentes post peccatum diu vixerunt, ut patet Gen. IV. Ergo mors non videtur esse poena peccati.]]
 ![[CERF IIa-IIæ, q. 164, a. 1#arg. 8]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 164, a. 1#s.c.|Sed contra est quod apostolus dicit, [[Rm 5]], *per unum hominem peccatum in hunc mundum intravit, et per peccatum mors*.]]
+![[LEO IIa-IIæ, q. 164, a. 1#s.c.|Sed contra est quod apostolus dicit, Rom. V, *per unum hominem peccatum in hunc mundum intravit, et per peccatum mors*.]]
 ![[CERF IIa-IIæ, q. 164, a. 1#s.c.]]
 
 ###### resp.
@@ -58,7 +58,7 @@ tags :
 ![[CERF IIa-IIæ, q. 164, a. 1#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 164, a. 1#ad 4|Ad quartum dicendum quod aliquis defectus ex peccato consequitur dupliciter. Uno modo, per modum poenae taxatae a iudice. Et talis defectus aequalis debet esse in his ad quos aequaliter pertinet peccatum. Alius autem defectus est qui ex huiusmodi poena per accidens consequitur, sicut quod aliquis pro sua culpa excaecatus, cadat in via. Et talis defectus culpae non proportionatur, nec ab homine iudice pensatur, qui non potest fortuitos eventus praecognoscere. Sic igitur poena taxata pro primo peccato, proportionaliter ei respondens, fuit subtractio divini beneficii quo rectitudo et integritas humanae naturae conservabatur. Defectus autem consequentes subtractionem huius beneficii, sunt mors et aliae poenalitates praesentis vitae. Et ideo non oportet huiusmodi poenas aequales esse in his ad quos aequaliter pertinet primum peccatum. Verum quia Deus praescius est omnium futurorum eventuum, ex dispensatione divinae providentiae huiusmodi poenalitates diversimode in diversis inveniuntur, non quidem propter aliqua merita praecedentia hanc vitam, ut Origenes posuit (hoc enim est contra id quod dicitur [[Rm 9]], *cum nondum aliquid boni aut mali egissent*; est etiam contra hoc quod in primo ostensum est, quod anima non est creata ante corpus); sed vel in poenam paternorum peccatorum, inquantum filius est quaedam res patris, unde frequenter parentes puniuntur in prole; vel etiam propter remedium salutis eius qui huiusmodi poenalitatibus subditur, ut scilicet per hoc a peccatis arceatur, vel etiam de virtutibus non superbiat, et per patientiam coronetur.]]
+![[LEO IIa-IIæ, q. 164, a. 1#ad 4|Ad quartum dicendum quod aliquis defectus ex peccato consequitur dupliciter. Uno modo, per modum poenae taxatae a iudice. Et talis defectus aequalis debet esse in his ad quos aequaliter pertinet peccatum. Alius autem defectus est qui ex huiusmodi poena per accidens consequitur, sicut quod aliquis pro sua culpa excaecatus, cadat in via. Et talis defectus culpae non proportionatur, nec ab homine iudice pensatur, qui non potest fortuitos eventus praecognoscere. Sic igitur poena taxata pro primo peccato, proportionaliter ei respondens, fuit subtractio divini beneficii quo rectitudo et integritas humanae naturae conservabatur. Defectus autem consequentes subtractionem huius beneficii, sunt mors et aliae poenalitates praesentis vitae. Et ideo non oportet huiusmodi poenas aequales esse in his ad quos aequaliter pertinet primum peccatum. Verum quia Deus praescius est omnium futurorum eventuum, ex dispensatione divinae providentiae huiusmodi poenalitates diversimode in diversis inveniuntur, non quidem propter aliqua merita praecedentia hanc vitam, ut Origenes posuit (hoc enim est contra id quod dicitur Rom. IX, *cum nondum aliquid boni aut mali egissent*; est etiam contra hoc quod in primo ostensum est, quod anima non est creata ante corpus); sed vel in poenam paternorum peccatorum, inquantum filius est quaedam res patris, unde frequenter parentes puniuntur in prole; vel etiam propter remedium salutis eius qui huiusmodi poenalitatibus subditur, ut scilicet per hoc a peccatis arceatur, vel etiam de virtutibus non superbiat, et per patientiam coronetur.]]
 ![[CERF IIa-IIæ, q. 164, a. 1#ad 4]]
 
 ###### ad 5

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 74, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 74, a. 3#s.c.|Sed contra est quod dicitur [[Rm 7]], *non enim quod volo bonum, hoc ago; sed quod odi malum, illud facio*, quod exponit Augustinus de malo concupiscentiae, quam constat esse motum quendam sensualitatis. Ergo in sensualitate est aliquod peccatum.]]
+![[LEO Ia-IIæ, q. 74, a. 3#s.c.|Sed contra est quod dicitur Rom. VII, *non enim quod volo bonum, hoc ago; sed quod odi malum, illud facio*, quod exponit Augustinus de malo concupiscentiae, quam constat esse motum quendam sensualitatis. Ergo in sensualitate est aliquod peccatum.]]
 ![[CERF Ia-IIæ, q. 74, a. 3#s.c.]]
 
 ###### resp.

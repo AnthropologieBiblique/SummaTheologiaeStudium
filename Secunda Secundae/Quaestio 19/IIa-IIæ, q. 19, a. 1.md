@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 19, a. 1#arg. 3|Praeterea, sicut philosophus dicit, in II Rhet., *illa timemus ex quibus nobis mala proveniunt*. Sed mala non proveniunt nobis a Deo, sed ex nobis ipsis, secundum illud [[Os 13]], *perditio tua, Israel, ex me auxilium tuum*. Ergo Deus timeri non debet.]]
+![[LEO IIa-IIæ, q. 19, a. 1#arg. 3|Praeterea, sicut philosophus dicit, in II Rhet., *illa timemus ex quibus nobis mala proveniunt*. Sed mala non proveniunt nobis a Deo, sed ex nobis ipsis, secundum illud Osee XIII, *perditio tua, Israel, ex me auxilium tuum*. Ergo Deus timeri non debet.]]
 ![[CERF IIa-IIæ, q. 19, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 19, a. 1#s.c.|Sed contra est quod dicitur [[Jr 10]], *quis non timebit te, o rex gentium?* Et [[Ml 1]], *si ego dominus, ubi timor meus?*]]
+![[LEO IIa-IIæ, q. 19, a. 1#s.c.|Sed contra est quod dicitur Ierem. X, *quis non timebit te, o rex gentium?* Et Malach. I, *si ego dominus, ubi timor meus?*]]
 ![[CERF IIa-IIæ, q. 19, a. 1#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 19, a. 1#ad 3|Ad tertium dicendum quod malum culpae non est a Deo sicut ab auctore, sed est a nobis ipsis, inquantum a Deo recedimus. Malum autem poenae est quidem a Deo auctore inquantum habet rationem boni, prout scilicet est iustum, sed quod iuste nobis poena infligatur, hoc primordialiter ex merito nostri peccati contingit. Secundum quem modum dicitur [[Sg 1]], quod *Deus mortem non fecit, sed impii manibus et verbis accersierunt illam*.]]
+![[LEO IIa-IIæ, q. 19, a. 1#ad 3|Ad tertium dicendum quod malum culpae non est a Deo sicut ab auctore, sed est a nobis ipsis, inquantum a Deo recedimus. Malum autem poenae est quidem a Deo auctore inquantum habet rationem boni, prout scilicet est iustum, sed quod iuste nobis poena infligatur, hoc primordialiter ex merito nostri peccati contingit. Secundum quem modum dicitur Sap. I, quod *Deus mortem non fecit, sed impii manibus et verbis accersierunt illam*.]]
 ![[CERF IIa-IIæ, q. 19, a. 1#ad 3]]
 

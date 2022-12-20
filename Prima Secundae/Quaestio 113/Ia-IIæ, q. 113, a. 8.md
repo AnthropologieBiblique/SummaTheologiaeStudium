@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 113, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod gratiae infusio non sit prima ordine naturae inter ea quae requiruntur ad iustificationem impii. Prius enim est recedere a malo quam accedere ad bonum; secundum illud [[Ps 36]], *declina a malo, et fac bonum*. Sed remissio culpae pertinet ad recessum a malo, infusio autem gratiae pertinet ad prosecutionem boni. Ergo naturaliter prius est remissio culpae quam infusio gratiae.]]
+![[LEO Ia-IIæ, q. 113, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod gratiae infusio non sit prima ordine naturae inter ea quae requiruntur ad iustificationem impii. Prius enim est recedere a malo quam accedere ad bonum; secundum illud Psalmi XXXVI, *declina a malo, et fac bonum*. Sed remissio culpae pertinet ad recessum a malo, infusio autem gratiae pertinet ad prosecutionem boni. Ergo naturaliter prius est remissio culpae quam infusio gratiae.]]
 ![[CERF Ia-IIæ, q. 113, a. 8#arg. 1]]
 
 ###### arg. 2

@@ -6,11 +6,11 @@ tags :
 ### Articulus 10
 
 ###### arg. 1
-![[LEO IIIa, q. 7, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod plenitudo gratiae non sit propria Christi. Quod enim est proprium alicui, sibi soli convenit. Sed esse plenum gratia quibusdam aliis attribuitur, dicitur enim, [[Lc 1]], beatae virgini, *ave, gratia plena, dominus tecum*; dicitur etiam, [[Ac 6]], *Stephanus autem plenus gratia et fortitudine*. Ergo plenitudo gratiae non est propria Christi.]]
+![[LEO IIIa, q. 7, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod plenitudo gratiae non sit propria Christi. Quod enim est proprium alicui, sibi soli convenit. Sed esse plenum gratia quibusdam aliis attribuitur, dicitur enim, Luc. I, beatae virgini, *ave, gratia plena, dominus tecum*; dicitur etiam, Act. VI, *Stephanus autem plenus gratia et fortitudine*. Ergo plenitudo gratiae non est propria Christi.]]
 ![[CERF IIIa, q. 7, a. 10#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 7, a. 10#arg. 2|Praeterea, id quod potest communicari aliis per Christum, non videtur proprium Christo. Sed plenitudo gratiae potest communicari per Christum aliis, dicit enim apostolus, [[Ep 3]], *ut impleamini in omnem plenitudinem Dei*. Ergo plenitudo gratiae non est propria Christo.]]
+![[LEO IIIa, q. 7, a. 10#arg. 2|Praeterea, id quod potest communicari aliis per Christum, non videtur proprium Christo. Sed plenitudo gratiae potest communicari per Christum aliis, dicit enim apostolus, Ephes. III, *ut impleamini in omnem plenitudinem Dei*. Ergo plenitudo gratiae non est propria Christo.]]
 ![[CERF IIIa, q. 7, a. 10#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 7, a. 10#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 7, a. 10#s.c.|Sed contra est quod plenitudo gratiae attribuitur Christo inquantum est unigenitus a patre, secundum illud [[Jn 1]], *vidimus eum, quasi unigenitum a patre, plenum gratiae et veritatis*. Sed esse unigenitum a patre est proprium Christo. Ergo et sibi proprium est esse plenum gratiae et veritatis.]]
+![[LEO IIIa, q. 7, a. 10#s.c.|Sed contra est quod plenitudo gratiae attribuitur Christo inquantum est unigenitus a patre, secundum illud Ioan. I, *vidimus eum, quasi unigenitum a patre, plenum gratiae et veritatis*. Sed esse unigenitum a patre est proprium Christo. Ergo et sibi proprium est esse plenum gratiae et veritatis.]]
 ![[CERF IIIa, q. 7, a. 10#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 7, a. 10#resp.|Respondeo dicendum quod plenitudo gratiae potest attendi dupliciter, uno modo, ex parte ipsius gratiae; alio modo, ex parte habentis gratiam. Ex parte quidem ipsius gratiae, dicitur esse plenitudo ex eo quod aliquis pertingit ad summum gratiae et quantum ad essentiam et quantum ad virtutem, quia scilicet habet gratiam et in maxima excellentia qua potest haberi, et in maxima extensione ad omnes gratiae effectus. Et talis gratiae plenitudo est propria Christo. Ex parte vero subiecti, dicitur gratiae plenitudo quando aliquis habet plene gratiam secundum suam conditionem, sive secundum intensionem, prout in eo est intensa gratia usque ad terminum praefixum ei a Deo, secundum illud [[Ep 4]], *unicuique nostrum data est gratia secundum mensuram donationis Christi*; sive etiam secundum virtutem, inquantum scilicet habet facultatem gratiae ad omnia quae pertinent ad suum statum sive officium, sicut apostolus dicebat, [[Ep 4]], *mihi autem, omnium sanctorum minimo, data est gratia haec, illuminare homines*, et cetera. Et talis gratiae plenitudo non est propria Christo, sed communicatur aliis per Christum.]]
+![[LEO IIIa, q. 7, a. 10#resp.|Respondeo dicendum quod plenitudo gratiae potest attendi dupliciter, uno modo, ex parte ipsius gratiae; alio modo, ex parte habentis gratiam. Ex parte quidem ipsius gratiae, dicitur esse plenitudo ex eo quod aliquis pertingit ad summum gratiae et quantum ad essentiam et quantum ad virtutem, quia scilicet habet gratiam et in maxima excellentia qua potest haberi, et in maxima extensione ad omnes gratiae effectus. Et talis gratiae plenitudo est propria Christo. Ex parte vero subiecti, dicitur gratiae plenitudo quando aliquis habet plene gratiam secundum suam conditionem, sive secundum intensionem, prout in eo est intensa gratia usque ad terminum praefixum ei a Deo, secundum illud Ephes. IV, *unicuique nostrum data est gratia secundum mensuram donationis Christi*; sive etiam secundum virtutem, inquantum scilicet habet facultatem gratiae ad omnia quae pertinent ad suum statum sive officium, sicut apostolus dicebat, Ephes. III, *mihi autem, omnium sanctorum minimo, data est gratia haec, illuminare homines*, et cetera. Et talis gratiae plenitudo non est propria Christo, sed communicatur aliis per Christum.]]
 ![[CERF IIIa, q. 7, a. 10#resp.]]
 
 ###### ad 1

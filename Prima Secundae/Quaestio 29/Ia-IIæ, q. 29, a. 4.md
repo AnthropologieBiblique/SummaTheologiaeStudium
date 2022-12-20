@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 29, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod aliquis possit seipsum odio habere. Dicitur enim in [[Ps 10]], *qui diligit iniquitatem, odit animam suam*. Sed multi diligunt iniquitatem. Ergo multi odiunt seipsos.]]
+![[LEO Ia-IIæ, q. 29, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod aliquis possit seipsum odio habere. Dicitur enim in Psalmo X, *qui diligit iniquitatem, odit animam suam*. Sed multi diligunt iniquitatem. Ergo multi odiunt seipsos.]]
 ![[CERF Ia-IIæ, q. 29, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 29, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 29, a. 4#s.c.|Sed contra est quod apostolus dicit, ad [[Ep 5]], quod *nemo unquam carnem suam odio habuit*.]]
+![[LEO Ia-IIæ, q. 29, a. 4#s.c.|Sed contra est quod apostolus dicit, ad Ephes. V, quod *nemo unquam carnem suam odio habuit*.]]
 ![[CERF Ia-IIæ, q. 29, a. 4#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia, q. 12, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod essentia Dei videri possit oculo corporali. Dicitur enim [[Jb 19]], *in carne mea videbo Deum,* etc.; et XLII, *auditu auris audivi te, nunc autem oculus meus videt te*.]]
+![[LEO Ia, q. 12, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod essentia Dei videri possit oculo corporali. Dicitur enim Iob XIX, *in carne mea videbo Deum,* etc.; et XLII, *auditu auris audivi te, nunc autem oculus meus videt te*.]]
 ![[CERF Ia, q. 12, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 12, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 12, a. 3#arg. 3|Praeterea, Deus potest videri ab homine visione imaginaria, dicitur enim [[Is 6]], *vidi dominum sedentem super solium,* et cetera. Sed visio imaginaria a sensu originem habet, *phantasia enim est motus factus a sensu secundum actum*, ut dicitur in III de anima. Ergo Deus sensibili visione videri potest.]]
+![[LEO Ia, q. 12, a. 3#arg. 3|Praeterea, Deus potest videri ab homine visione imaginaria, dicitur enim Isaiae VI, *vidi dominum sedentem super solium,* et cetera. Sed visio imaginaria a sensu originem habet, *phantasia enim est motus factus a sensu secundum actum*, ut dicitur in III de anima. Ergo Deus sensibili visione videri potest.]]
 ![[CERF Ia, q. 12, a. 3#arg. 3]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 12, a. 3#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 12, a. 3#ad 1|Ad primum ergo dicendum quod, cum dicitur *in carne mea videbo Deum, salvatorem meum*, non intelligitur quod oculo carnis sit Deum visurus, sed quod in carne existens, post resurrectionem, visurus sit Deum. Similiter quod dicitur, *nunc oculus meus videt te*, intelligitur de oculo mentis, sicut [[Ep 1]] dicit apostolus, *det vobis spiritum sapientiae in agnitione eius, illuminatos oculos cordis vestri*.]]
+![[LEO Ia, q. 12, a. 3#ad 1|Ad primum ergo dicendum quod, cum dicitur *in carne mea videbo Deum, salvatorem meum*, non intelligitur quod oculo carnis sit Deum visurus, sed quod in carne existens, post resurrectionem, visurus sit Deum. Similiter quod dicitur, *nunc oculus meus videt te*, intelligitur de oculo mentis, sicut Ephes. I dicit apostolus, *det vobis spiritum sapientiae in agnitione eius, illuminatos oculos cordis vestri*.]]
 ![[CERF Ia, q. 12, a. 3#ad 1]]
 
 ###### ad 2

@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 56, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 56, a. 4#arg. 2|Praeterea, appetitus sensitivus est vis utens organo corporali. Sed bonum virtutis non potest esse in corpore hominis, dicit enim apostolus, [[Rm 7]], *scio quod non habitat in carne mea bonum*. Ergo appetitus sensitivus non potest esse subiectum virtutis.]]
+![[LEO Ia-IIæ, q. 56, a. 4#arg. 2|Praeterea, appetitus sensitivus est vis utens organo corporali. Sed bonum virtutis non potest esse in corpore hominis, dicit enim apostolus, Rom. VII, *scio quod non habitat in carne mea bonum*. Ergo appetitus sensitivus non potest esse subiectum virtutis.]]
 ![[CERF Ia-IIæ, q. 56, a. 4#arg. 2]]
 
 ###### arg. 3

@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 33, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod fraterna correctio non sit actus caritatis. Dicit enim Glossa [[Mt 18]], super illud, *si peccaverit in te frater tuus*, quod frater est arguendus ex zelo iustitiae. Sed iustitia est virtus distincta a caritate. Ergo correctio fraterna non est actus caritatis, sed iustitiae.]]
+![[LEO IIa-IIæ, q. 33, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod fraterna correctio non sit actus caritatis. Dicit enim Glossa Matth. XVIII, super illud, *si peccaverit in te frater tuus*, quod frater est arguendus ex zelo iustitiae. Sed iustitia est virtus distincta a caritate. Ergo correctio fraterna non est actus caritatis, sed iustitiae.]]
 ![[CERF IIa-IIæ, q. 33, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 33, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 33, a. 1#arg. 3|Praeterea, contrarii actus non pertinent ad eandem virtutem. Sed supportare peccantem est actus caritatis, secundum illud ad [[Ga 6]], *alter alterius onera portate, et sic adimplebitis legem Christi*, quae est lex caritatis. Ergo videtur quod corrigere fratrem peccantem, quod est contrarium supportationi, non sit actus caritatis.]]
+![[LEO IIa-IIæ, q. 33, a. 1#arg. 3|Praeterea, contrarii actus non pertinent ad eandem virtutem. Sed supportare peccantem est actus caritatis, secundum illud ad Gal. VI, *alter alterius onera portate, et sic adimplebitis legem Christi*, quae est lex caritatis. Ergo videtur quod corrigere fratrem peccantem, quod est contrarium supportationi, non sit actus caritatis.]]
 ![[CERF IIa-IIæ, q. 33, a. 1#arg. 3]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 33, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 33, a. 1#ad 1|Ad primum ergo dicendum quod Glossa illa loquitur de secunda correctione, quae est actus iustitiae. Vel, si loquatur etiam de prima, iustitia ibi sumitur secundum quod est universalis virtus, ut infra dicetur, prout etiam omne peccatum est iniquitas, *ut dicitur [[1 Jn 3]]*, quasi contra iustitiam existens.]]
+![[LEO IIa-IIæ, q. 33, a. 1#ad 1|Ad primum ergo dicendum quod Glossa illa loquitur de secunda correctione, quae est actus iustitiae. Vel, si loquatur etiam de prima, iustitia ibi sumitur secundum quod est universalis virtus, ut infra dicetur, prout etiam omne peccatum est iniquitas, *ut dicitur I Ioan. III*, quasi contra iustitiam existens.]]
 ![[CERF IIa-IIæ, q. 33, a. 1#ad 1]]
 
 ###### ad 2

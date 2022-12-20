@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 81, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 81, a. 3#arg. 2|Praeterea, quod obedit alicui, non repugnat ei. Sed irascibilis et concupiscibilis repugnant rationi; secundum illud apostoli, ad [[Rm 7]], *video aliam legem in membris meis, repugnantem legi mentis meae*. Ergo irascibilis et concupiscibilis non obediunt rationi.]]
+![[LEO Ia, q. 81, a. 3#arg. 2|Praeterea, quod obedit alicui, non repugnat ei. Sed irascibilis et concupiscibilis repugnant rationi; secundum illud apostoli, ad Rom. VII, *video aliam legem in membris meis, repugnantem legi mentis meae*. Ergo irascibilis et concupiscibilis non obediunt rationi.]]
 ![[CERF Ia, q. 81, a. 3#arg. 2]]
 
 ###### arg. 3

@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia, q. 12, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod videntes Deum per essentiam ipsum comprehendant. Dicit enim apostolus, [[Ph 3]], *sequor autem si quo modo comprehendam*. Non autem frustra sequebatur, dicit enim ipse, [[1 Co 9]], *sic curro, non quasi in incertum*. Ergo ipse comprehendit, et eadem ratione alii, quos ad hoc invitat, dicens, *sic currite, ut comprehendatis*.]]
+![[LEO Ia, q. 12, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod videntes Deum per essentiam ipsum comprehendant. Dicit enim apostolus, Philipp. III, *sequor autem si quo modo comprehendam*. Non autem frustra sequebatur, dicit enim ipse, I Cor. IX, *sic curro, non quasi in incertum*. Ergo ipse comprehendit, et eadem ratione alii, quos ad hoc invitat, dicens, *sic currite, ut comprehendatis*.]]
 ![[CERF Ia, q. 12, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 12, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 12, a. 7#s.c.|Sed contra est quod dicitur [[Jr 32]], *fortissime, magne, potens, dominus exercituum nomen tibi; magnus consilio, et incomprehensibilis cogitatu*. Ergo comprehendi non potest.]]
+![[LEO Ia, q. 12, a. 7#s.c.|Sed contra est quod dicitur Ierem. XXXII, *fortissime, magne, potens, dominus exercituum nomen tibi; magnus consilio, et incomprehensibilis cogitatu*. Ergo comprehendi non potest.]]
 ![[CERF Ia, q. 12, a. 7#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 12, a. 7#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 12, a. 7#ad 1|Ad primum ergo dicendum quod comprehensio dicitur dupliciter. Uno modo, stricte et proprie, secundum quod aliquid includitur in comprehendente. Et sic nullo modo Deus comprehenditur, nec intellectu nec aliquo alio, quia, cum sit infinitus, nullo finito includi potest, ut aliquid finitum eum infinite capiat, sicut ipse infinite est. Et sic de comprehensione nunc quaeritur. Alio modo comprehensio largius sumitur, secundum quod comprehensio insecutioni opponitur. Qui enim attingit aliquem, quando iam tenet ipsum, comprehendere eum dicitur. Et sic Deus comprehenditur a beatis, secundum illud [[Ct 3]], *tenui eum, nec dimittam*. Et sic intelliguntur auctoritates apostoli de comprehensione. Et hoc modo comprehensio est una de tribus dotibus animae, quae respondet spei; sicut visio fidei, et fruitio caritati. Non enim, apud nos, omne quod videtur, iam tenetur vel habetur, quia videntur interdum distantia, vel quae non sunt in potestate nostra. Neque iterum omnibus quae habemus, fruimur, vel quia non delectamur in eis; vel quia non sunt ultimus finis desiderii nostri, ut desiderium nostrum impleant et quietent. Sed haec tria habent beati in Deo, quia et vident ipsum; et videndo, tenent sibi praesentem, in potestate habentes semper eum videre; et tenentes, fruuntur sicut ultimo fine desiderium implente.]]
+![[LEO Ia, q. 12, a. 7#ad 1|Ad primum ergo dicendum quod comprehensio dicitur dupliciter. Uno modo, stricte et proprie, secundum quod aliquid includitur in comprehendente. Et sic nullo modo Deus comprehenditur, nec intellectu nec aliquo alio, quia, cum sit infinitus, nullo finito includi potest, ut aliquid finitum eum infinite capiat, sicut ipse infinite est. Et sic de comprehensione nunc quaeritur. Alio modo comprehensio largius sumitur, secundum quod comprehensio insecutioni opponitur. Qui enim attingit aliquem, quando iam tenet ipsum, comprehendere eum dicitur. Et sic Deus comprehenditur a beatis, secundum illud Cant. III, *tenui eum, nec dimittam*. Et sic intelliguntur auctoritates apostoli de comprehensione. Et hoc modo comprehensio est una de tribus dotibus animae, quae respondet spei; sicut visio fidei, et fruitio caritati. Non enim, apud nos, omne quod videtur, iam tenetur vel habetur, quia videntur interdum distantia, vel quae non sunt in potestate nostra. Neque iterum omnibus quae habemus, fruimur, vel quia non delectamur in eis; vel quia non sunt ultimus finis desiderii nostri, ut desiderium nostrum impleant et quietent. Sed haec tria habent beati in Deo, quia et vident ipsum; et videndo, tenent sibi praesentem, in potestate habentes semper eum videre; et tenentes, fruuntur sicut ultimo fine desiderium implente.]]
 ![[CERF Ia, q. 12, a. 7#ad 1]]
 
 ###### ad 2

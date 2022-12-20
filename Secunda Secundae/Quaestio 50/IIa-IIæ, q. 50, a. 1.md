@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 50, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 50, a. 1#ad 1|Ad primum ergo dicendum quod omnia quae sunt virtutum moralium pertinent ad prudentiam sicut ad dirigentem, unde et ratio recta prudentiae ponitur in definitione virtutis moralis, ut supra dictum est. Et ideo etiam executio iustitiae, prout ordinatur ad bonum commune, quae pertinet ad officium regis, indiget directione prudentiae. Unde istae duae virtutes sunt maxime propriae regi, scilicet prudentia et iustitia, secundum illud [[Jr 23]], *regnabit rex, et sapiens erit et faciet iudicium et iustitiam in terra*. Quia tamen dirigere magis pertinet ad regem, exequi vero ad subditos, ideo regnativa magis ponitur species prudentiae, quae est directiva, quam iustitiae, quae est executiva.]]
+![[LEO IIa-IIæ, q. 50, a. 1#ad 1|Ad primum ergo dicendum quod omnia quae sunt virtutum moralium pertinent ad prudentiam sicut ad dirigentem, unde et ratio recta prudentiae ponitur in definitione virtutis moralis, ut supra dictum est. Et ideo etiam executio iustitiae, prout ordinatur ad bonum commune, quae pertinet ad officium regis, indiget directione prudentiae. Unde istae duae virtutes sunt maxime propriae regi, scilicet prudentia et iustitia, secundum illud Ierem. XXIII, *regnabit rex, et sapiens erit et faciet iudicium et iustitiam in terra*. Quia tamen dirigere magis pertinet ad regem, exequi vero ad subditos, ideo regnativa magis ponitur species prudentiae, quae est directiva, quam iustitiae, quae est executiva.]]
 ![[CERF IIa-IIæ, q. 50, a. 1#ad 1]]
 
 ###### ad 2

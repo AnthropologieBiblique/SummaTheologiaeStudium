@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 71, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 71, a. 5#s.c.|Sed contra est quod dicitur [[Jc 4]], *scienti bonum facere et non facienti, peccatum est illi*. Sed non facere non importat aliquem actum. Ergo peccatum potest esse absque actu.]]
+![[LEO Ia-IIæ, q. 71, a. 5#s.c.|Sed contra est quod dicitur Iac. IV, *scienti bonum facere et non facienti, peccatum est illi*. Sed non facere non importat aliquem actum. Ergo peccatum potest esse absque actu.]]
 ![[CERF Ia-IIæ, q. 71, a. 5#s.c.]]
 
 ###### resp.

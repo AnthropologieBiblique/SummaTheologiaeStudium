@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 104, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod unus homo non teneatur alii obedire. Non enim est aliquid faciendum contra institutionem divinam. Sed hoc habet divina institutio, ut homo suo consilio regatur, secundum illud [[Si 15]], *Deus ab initio constituit hominem, et reliquit illum in manu consilii sui*. Ergo non tenetur unus homo alteri obedire.]]
+![[LEO IIa-IIæ, q. 104, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod unus homo non teneatur alii obedire. Non enim est aliquid faciendum contra institutionem divinam. Sed hoc habet divina institutio, ut homo suo consilio regatur, secundum illud Eccli. XV, *Deus ab initio constituit hominem, et reliquit illum in manu consilii sui*. Ergo non tenetur unus homo alteri obedire.]]
 ![[CERF IIa-IIæ, q. 104, a. 1#arg. 1]]
 
 ###### arg. 2

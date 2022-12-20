@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 80, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 80, a. 4#arg. 2|Praeterea, quicumque peccat mortaliter, efficitur servus Diaboli; secundum illud [[Jn 8]], *qui facit peccatum, servus est peccati. Sed ei aliquis in servitutem addicitur, a quo superatus est*, ut dicitur [[2 P 2]]. Ergo quicumque facit peccatum, superatus est a Diabolo.]]
+![[LEO Ia-IIæ, q. 80, a. 4#arg. 2|Praeterea, quicumque peccat mortaliter, efficitur servus Diaboli; secundum illud Ioan. VIII, *qui facit peccatum, servus est peccati. Sed ei aliquis in servitutem addicitur, a quo superatus est*, ut dicitur II Petr. II. Ergo quicumque facit peccatum, superatus est a Diabolo.]]
 ![[CERF Ia-IIæ, q. 80, a. 4#arg. 2]]
 
 ###### arg. 3

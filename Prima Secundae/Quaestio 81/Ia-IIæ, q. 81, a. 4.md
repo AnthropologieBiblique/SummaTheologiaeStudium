@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 81, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod, si aliquis formaretur ex carne humana miraculose, contraheret originale peccatum. Dicit enim quaedam Glossa [[Gn 4]], quod *in lumbis Adae fuit tota posteritas corrupta, quia non est separata prius in loco vitae, sed postea in loco exilii*. Sed si aliquis homo sic formaretur sicut dictum est, caro eius separaretur in loco exilii. Ergo contraheret originale peccatum.]]
+![[LEO Ia-IIæ, q. 81, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod, si aliquis formaretur ex carne humana miraculose, contraheret originale peccatum. Dicit enim quaedam Glossa Gen. IV, quod *in lumbis Adae fuit tota posteritas corrupta, quia non est separata prius in loco vitae, sed postea in loco exilii*. Sed si aliquis homo sic formaretur sicut dictum est, caro eius separaretur in loco exilii. Ergo contraheret originale peccatum.]]
 ![[CERF Ia-IIæ, q. 81, a. 4#arg. 1]]
 
 ###### arg. 2

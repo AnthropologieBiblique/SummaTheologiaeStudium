@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 119, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 119, a. 2#arg. 3|Praeterea, ad prodigalitatem pertinet superabundare in datione et deficere in sollicitudine divitiarum. Sed hoc maxime convenit viris perfectis implentibus quod dominus dicit, [[Mt 6]], *nolite solliciti esse in crastinum*; et XIX, *vende omnia quae habes, et da pauperibus*. Ergo prodigalitas non est peccatum.]]
+![[LEO IIa-IIæ, q. 119, a. 2#arg. 3|Praeterea, ad prodigalitatem pertinet superabundare in datione et deficere in sollicitudine divitiarum. Sed hoc maxime convenit viris perfectis implentibus quod dominus dicit, Matth. VI, *nolite solliciti esse in crastinum*; et XIX, *vende omnia quae habes, et da pauperibus*. Ergo prodigalitas non est peccatum.]]
 ![[CERF IIa-IIæ, q. 119, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 119, a. 2#s.c.|Sed contra est quod filius prodigus vituperatur de sua prodigalitate, [[Lc 15]].]]
+![[LEO IIa-IIæ, q. 119, a. 2#s.c.|Sed contra est quod filius prodigus vituperatur de sua prodigalitate, Luc. XV.]]
 ![[CERF IIa-IIæ, q. 119, a. 2#s.c.]]
 
 ###### resp.

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 9, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 9, a. 1#s.c.|Sed contra est quod [[Is 11]] computatur inter septem dona.]]
+![[LEO IIa-IIæ, q. 9, a. 1#s.c.|Sed contra est quod Isaiae XI computatur inter septem dona.]]
 ![[CERF IIa-IIæ, q. 9, a. 1#s.c.]]
 
 ###### resp.

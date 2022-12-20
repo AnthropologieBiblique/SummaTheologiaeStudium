@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 17, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 17, a. 2#arg. 2|Praeterea, petitio est spei interpretativa, dicitur enim in Psalm., *revela domino viam tuam et spera in eo, et ipse faciet*. Sed homo petit a Deo licite non solum beatitudinem aeternam, sed etiam bona praesentis vitae tam spiritualia quam temporalia, et etiam liberationem a malis, quae in beatitudine aeterna non erunt, ut patet in oratione dominica, [[Mt 6]]. Ergo beatitudo aeterna non est proprium obiectum spei.]]
+![[LEO IIa-IIæ, q. 17, a. 2#arg. 2|Praeterea, petitio est spei interpretativa, dicitur enim in Psalm., *revela domino viam tuam et spera in eo, et ipse faciet*. Sed homo petit a Deo licite non solum beatitudinem aeternam, sed etiam bona praesentis vitae tam spiritualia quam temporalia, et etiam liberationem a malis, quae in beatitudine aeterna non erunt, ut patet in oratione dominica, Matth. VI. Ergo beatitudo aeterna non est proprium obiectum spei.]]
 ![[CERF IIa-IIæ, q. 17, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 17, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 17, a. 2#s.c.|Sed contra est quod apostolus dicit, ad [[He 6]], *habemus spem incedentem, idest incedere facientem, ad interiora velaminis, idest ad beatitudinem caelestem*; ut Glossa ibidem exponit. Ergo obiectum spei est beatitudo aeterna.]]
+![[LEO IIa-IIæ, q. 17, a. 2#s.c.|Sed contra est quod apostolus dicit, ad Heb. VI, *habemus spem incedentem, idest incedere facientem, ad interiora velaminis, idest ad beatitudinem caelestem*; ut Glossa ibidem exponit. Ergo obiectum spei est beatitudo aeterna.]]
 ![[CERF IIa-IIæ, q. 17, a. 2#s.c.]]
 
 ###### resp.

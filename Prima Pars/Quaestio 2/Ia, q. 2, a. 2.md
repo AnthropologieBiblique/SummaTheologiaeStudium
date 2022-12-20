@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 2, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Deum esse non sit demonstrabile. Deum enim esse est articulus fidei. Sed ea quae sunt fidei, non sunt demonstrabilia, quia demonstratio facit scire, fides autem de non apparentibus est, ut patet per apostolum, ad [[He 11]]. Ergo Deum esse non est demonstrabile.]]
+![[LEO Ia, q. 2, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Deum esse non sit demonstrabile. Deum enim esse est articulus fidei. Sed ea quae sunt fidei, non sunt demonstrabilia, quia demonstratio facit scire, fides autem de non apparentibus est, ut patet per apostolum, ad Hebr. XI. Ergo Deum esse non est demonstrabile.]]
 ![[CERF Ia, q. 2, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 2, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 2, a. 2#s.c.|Sed contra est quod apostolus dicit, ad [[Rm 1]], *invisibilia Dei per ea quae facta sunt, intellecta, conspiciuntur*. Sed hoc non esset, nisi per ea quae facta sunt, posset demonstrari Deum esse, primum enim quod oportet intelligi de aliquo, est an sit.]]
+![[LEO Ia, q. 2, a. 2#s.c.|Sed contra est quod apostolus dicit, ad Rom. I, *invisibilia Dei per ea quae facta sunt, intellecta, conspiciuntur*. Sed hoc non esset, nisi per ea quae facta sunt, posset demonstrari Deum esse, primum enim quod oportet intelligi de aliquo, est an sit.]]
 ![[CERF Ia, q. 2, a. 2#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 2, a. 2#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 2, a. 2#ad 1|Ad primum ergo dicendum quod Deum esse, et alia huiusmodi quae per rationem naturalem nota possunt esse de Deo, ut dicitur [[Rm 1]] non sunt articuli fidei, sed praeambula ad articulos, sic enim fides praesupponit cognitionem naturalem, sicut gratia naturam, et ut perfectio perfectibile. Nihil tamen prohibet illud quod secundum se demonstrabile est et scibile, ab aliquo accipi ut credibile, qui demonstrationem non capit.]]
+![[LEO Ia, q. 2, a. 2#ad 1|Ad primum ergo dicendum quod Deum esse, et alia huiusmodi quae per rationem naturalem nota possunt esse de Deo, ut dicitur Rom. I non sunt articuli fidei, sed praeambula ad articulos, sic enim fides praesupponit cognitionem naturalem, sicut gratia naturam, et ut perfectio perfectibile. Nihil tamen prohibet illud quod secundum se demonstrabile est et scibile, ab aliquo accipi ut credibile, qui demonstrationem non capit.]]
 ![[CERF Ia, q. 2, a. 2#ad 1]]
 
 ###### ad 2

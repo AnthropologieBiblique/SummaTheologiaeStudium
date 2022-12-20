@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIIa, q. 74, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod debeat aqua in magna quantitate apponi. Sicut enim sanguis de latere Christi sensibiliter fluxit, ita et aqua, unde dicitur [[Jn 19]], *qui vidit, testimonium perhibuit*. Sed aqua non posset sensibiliter esse in hoc sacramento nisi in magna quantitate poneretur. Ergo videtur quod aqua debeat apponi in magna quantitate.]]
+![[LEO IIIa, q. 74, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod debeat aqua in magna quantitate apponi. Sicut enim sanguis de latere Christi sensibiliter fluxit, ita et aqua, unde dicitur Ioan. XIX, *qui vidit, testimonium perhibuit*. Sed aqua non posset sensibiliter esse in hoc sacramento nisi in magna quantitate poneretur. Ergo videtur quod aqua debeat apponi in magna quantitate.]]
 ![[CERF IIIa, q. 74, a. 8#arg. 1]]
 
 ###### arg. 2

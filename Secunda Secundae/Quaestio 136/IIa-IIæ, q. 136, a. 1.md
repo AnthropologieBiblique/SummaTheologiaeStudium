@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 136, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod patientia non sit virtus. Virtutes enim perfectissime sunt in patria, ut dicit Augustinus, XIV de Trin. Sed ibi non est patientia, quia nulla sunt ibi mala toleranda, secundum illud [[Is 49]] et [[Ap 21]], *non esurient neque sitient, et non percutiet eos aestus neque sol*. Ergo patientia non est virtus.]]
+![[LEO IIa-IIæ, q. 136, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod patientia non sit virtus. Virtutes enim perfectissime sunt in patria, ut dicit Augustinus, XIV de Trin. Sed ibi non est patientia, quia nulla sunt ibi mala toleranda, secundum illud Isaiae XLIX et Apocalyps. XXI, *non esurient neque sitient, et non percutiet eos aestus neque sol*. Ergo patientia non est virtus.]]
 ![[CERF IIa-IIæ, q. 136, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 136, a. 1#arg. 2|Praeterea, nulla virtus in malis potest inveniri, quia virtus est quae bonum facit habentem. Sed patientia quandoque in malis hominibus invenitur, sicut patet in avaris, qui multa mala patienter tolerant ut pecunias congregent, secundum illud [[Qo 5]] *cunctis diebus vitae suae comedit in tenebris, et in curis multis, et in aerumna atque tristitia*. Ergo patientia non est virtus.]]
+![[LEO IIa-IIæ, q. 136, a. 1#arg. 2|Praeterea, nulla virtus in malis potest inveniri, quia virtus est quae bonum facit habentem. Sed patientia quandoque in malis hominibus invenitur, sicut patet in avaris, qui multa mala patienter tolerant ut pecunias congregent, secundum illud Eccle. V *cunctis diebus vitae suae comedit in tenebris, et in curis multis, et in aerumna atque tristitia*. Ergo patientia non est virtus.]]
 ![[CERF IIa-IIæ, q. 136, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 136, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 136, a. 1#resp.|Respondeo dicendum quod, sicut dictum est supra, virtutes morales ordinantur ad bonum inquantum conservant bonum rationis contra impetus passionum. Inter alias autem passiones, tristitia efficax est ad impediendum bonum rationis, secundum illud II ad Cor. VII, *saeculi tristitia mortem operatur*; et [[Si 30]], *multos occidit tristitia, et non est utilitas in illa*. Unde necesse est habere aliquam virtutem per quam bonum rationis conservetur contra tristitiam, ne scilicet ratio tristitiae succumbat. Hoc autem facit patientia. Unde Augustinus dicit, in libro de patientia, quod *patientia hominis est qua mala aequo animo toleramus*, idest sine perturbatione tristitiae, *ne animo iniquo bona deseramus per quae ad meliora perveniamus*. Unde manifestum est patientiam esse virtutem.]]
+![[LEO IIa-IIæ, q. 136, a. 1#resp.|Respondeo dicendum quod, sicut dictum est supra, virtutes morales ordinantur ad bonum inquantum conservant bonum rationis contra impetus passionum. Inter alias autem passiones, tristitia efficax est ad impediendum bonum rationis, secundum illud II ad Cor. VII, *saeculi tristitia mortem operatur*; et Eccli. XXX, *multos occidit tristitia, et non est utilitas in illa*. Unde necesse est habere aliquam virtutem per quam bonum rationis conservetur contra tristitiam, ne scilicet ratio tristitiae succumbat. Hoc autem facit patientia. Unde Augustinus dicit, in libro de patientia, quod *patientia hominis est qua mala aequo animo toleramus*, idest sine perturbatione tristitiae, *ne animo iniquo bona deseramus per quae ad meliora perveniamus*. Unde manifestum est patientiam esse virtutem.]]
 ![[CERF IIa-IIæ, q. 136, a. 1#resp.]]
 
 ###### ad 1

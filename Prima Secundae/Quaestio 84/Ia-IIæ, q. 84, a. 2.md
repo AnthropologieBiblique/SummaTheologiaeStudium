@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 84, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 84, a. 2#arg. 2|Praeterea, [[Si 10]] dicitur, *initium superbiae hominis apostatare a Deo*. Sed apostasia a Deo est quoddam peccatum. Ergo aliquod peccatum est initium superbiae, et ipsa non est initium omnis peccati.]]
+![[LEO Ia-IIæ, q. 84, a. 2#arg. 2|Praeterea, Eccli. X dicitur, *initium superbiae hominis apostatare a Deo*. Sed apostasia a Deo est quoddam peccatum. Ergo aliquod peccatum est initium superbiae, et ipsa non est initium omnis peccati.]]
 ![[CERF Ia-IIæ, q. 84, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 84, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 84, a. 2#s.c.|Sed contra est quod dicitur [[Si 10]], *initium omnis peccati superbia*.]]
+![[LEO Ia-IIæ, q. 84, a. 2#s.c.|Sed contra est quod dicitur Eccli. X, *initium omnis peccati superbia*.]]
 ![[CERF Ia-IIæ, q. 84, a. 2#s.c.]]
 
 ###### resp.

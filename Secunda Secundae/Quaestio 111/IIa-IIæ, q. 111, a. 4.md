@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 111, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod hypocrisis semper sit peccatum mortale. Dicit enim Hieronymus, [[Is 16]], in Glossa, quod *in comparatione duorum malorum, levius est aperte peccare quam sanctitatem simulare*. Et super illud [[Jb 1]], sicut autem domino placuit etc., dicit Glossa *quod simulata aequitas non est aequitas, sed duplicatum peccatum*. Et super illud Thren. IV, *maior effecta est iniquitas populi mei peccato Sodomorum*, dicit Glossa, *scelera animae planguntur quae in hypocrisim labitur, cuius maior est iniquitas peccato Sodomorum*. Peccata autem Sodomorum sunt peccata mortalia. Ergo et hypocrisis semper est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 111, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod hypocrisis semper sit peccatum mortale. Dicit enim Hieronymus, Isaiae XVI, in Glossa, quod *in comparatione duorum malorum, levius est aperte peccare quam sanctitatem simulare*. Et super illud Iob I, sicut autem domino placuit etc., dicit Glossa *quod simulata aequitas non est aequitas, sed duplicatum peccatum*. Et super illud Thren. IV, *maior effecta est iniquitas populi mei peccato Sodomorum*, dicit Glossa, *scelera animae planguntur quae in hypocrisim labitur, cuius maior est iniquitas peccato Sodomorum*. Peccata autem Sodomorum sunt peccata mortalia. Ergo et hypocrisis semper est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 111, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 111, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 111, a. 4#arg. 3|Praeterea, nullus meretur iram Dei et exclusionem a Dei visione nisi propter peccatum mortale. Sed per hypocrisim aliquis meretur iram Dei, secundum illud [[Jb 36]], *simulatores et callidi provocant iram Dei*. Excluditur etiam hypocrita a visione Dei, secundum illud [[Jb 36]], *non veniet in conspectu eius omnis hypocrita*. Ergo hypocrisis semper est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 111, a. 4#arg. 3|Praeterea, nullus meretur iram Dei et exclusionem a Dei visione nisi propter peccatum mortale. Sed per hypocrisim aliquis meretur iram Dei, secundum illud Iob XXXVI, *simulatores et callidi provocant iram Dei*. Excluditur etiam hypocrita a visione Dei, secundum illud Iob XIII, *non veniet in conspectu eius omnis hypocrita*. Ergo hypocrisis semper est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 111, a. 4#arg. 3]]
 
 ###### s.c.

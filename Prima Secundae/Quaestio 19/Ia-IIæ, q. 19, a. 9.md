@@ -6,7 +6,7 @@ tags :
 ### Articulus 9
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 19, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod bonitas voluntatis humanae non dependeat ex conformitate voluntatis divinae. Impossibile est enim voluntatem hominis conformari voluntati divinae, ut patet per id quod dicitur [[Is 55]], *sicut exaltantur caeli a terra, ita exaltatae sunt viae meae a viis vestris, et cogitationes meae a cogitationibus vestris*. Si ergo ad bonitatem voluntatis requireretur conformitas ad divinam voluntatem, sequeretur quod impossibile esset hominis voluntatem esse bonam. Quod est inconveniens.]]
+![[LEO Ia-IIæ, q. 19, a. 9#arg. 1|Ad nonum sic proceditur. Videtur quod bonitas voluntatis humanae non dependeat ex conformitate voluntatis divinae. Impossibile est enim voluntatem hominis conformari voluntati divinae, ut patet per id quod dicitur Isaiae LV, *sicut exaltantur caeli a terra, ita exaltatae sunt viae meae a viis vestris, et cogitationes meae a cogitationibus vestris*. Si ergo ad bonitatem voluntatis requireretur conformitas ad divinam voluntatem, sequeretur quod impossibile esset hominis voluntatem esse bonam. Quod est inconveniens.]]
 ![[CERF Ia-IIæ, q. 19, a. 9#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 19, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 19, a. 9#s.c.|Sed contra est quod dicitur [[Mt 26]], *non sicut ego volo, sed sicut tu vis*, quod dicit quia rectum vult esse hominem, et ad Deum dirigi, ut Augustinus exponit in Enchirid. Rectitudo autem voluntatis est bonitas eius. Ergo bonitas voluntatis dependet ex conformitate ad voluntatem divinam.]]
+![[LEO Ia-IIæ, q. 19, a. 9#s.c.|Sed contra est quod dicitur Matth. XXVI, *non sicut ego volo, sed sicut tu vis*, quod dicit quia rectum vult esse hominem, et ad Deum dirigi, ut Augustinus exponit in Enchirid. Rectitudo autem voluntatis est bonitas eius. Ergo bonitas voluntatis dependet ex conformitate ad voluntatem divinam.]]
 ![[CERF Ia-IIæ, q. 19, a. 9#s.c.]]
 
 ###### resp.

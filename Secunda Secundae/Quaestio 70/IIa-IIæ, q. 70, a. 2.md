@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 70, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non sufficiat duorum vel trium testimonium. Iudicium enim certitudinem requirit. Sed non habetur certitudo veritatis per dictum duorum testium, legitur enim [[1R 21]] quod Naboth ad dictum duorum testium falso condemnatus est. Ergo duorum vel trium testimonium non sufficit.]]
+![[LEO IIa-IIæ, q. 70, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non sufficiat duorum vel trium testimonium. Iudicium enim certitudinem requirit. Sed non habetur certitudo veritatis per dictum duorum testium, legitur enim III Reg. XXI quod Naboth ad dictum duorum testium falso condemnatus est. Ergo duorum vel trium testimonium non sufficit.]]
 ![[CERF IIa-IIæ, q. 70, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,15 +18,15 @@ tags :
 ![[CERF IIa-IIæ, q. 70, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 70, a. 2#s.c.|Sed contra est quod dicitur [[Dt 17]], *in ore duorum vel trium testium peribit qui interficietur*; et infra, XIX, *in ore duorum vel trium testium stabit omne verbum*.]]
+![[LEO IIa-IIæ, q. 70, a. 2#s.c.|Sed contra est quod dicitur Deut. XVII, *in ore duorum vel trium testium peribit qui interficietur*; et infra, XIX, *in ore duorum vel trium testium stabit omne verbum*.]]
 ![[CERF IIa-IIæ, q. 70, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 70, a. 2#resp.|Respondeo dicendum quod, secundum philosophum, in I Ethic., *certitudo non est similiter quaerenda in omni materia*. In actibus enim humanis, super quibus constituuntur iudicia et exiguntur testimonia, non potest haberi certitudo demonstrativa, eo quod sunt circa contingentia et variabilia. Et ideo sufficit probabilis certitudo, quae ut in pluribus veritatem attingat, etsi in paucioribus a veritate deficiat. Est autem probabile quod magis veritatem contineat dictum multorum quam dictum unius. Et ideo, cum reus sit unus qui negat, sed multi testes asserunt idem cum actore, rationabiliter institutum est, iure divino et humano, quod dicto testium stetur. Omnis autem multitudo in tribus comprehenditur, scilicet principio, medio et fine, unde secundum philosophum, in I de coelo, omne et totum in tribus ponimus. Ternarius quidem constituitur asserentium, cum duo testes conveniunt cum actore. Et ideo requiritur binarius testium, vel, ad maiorem certitudinem, ut sit ternarius, qui est multitudo perfecta, in ipsis testibus. Unde et [[Qo 4]] dicitur, *funiculus triplex difficile rumpitur*. Augustinus autem, super illud [[Jn 8]], *duorum hominum testimonium verum est*, dicit quod *in hoc est Trinitas secundum mysterium commendata*, in qua est perpetua firmitas veritatis.]]
+![[LEO IIa-IIæ, q. 70, a. 2#resp.|Respondeo dicendum quod, secundum philosophum, in I Ethic., *certitudo non est similiter quaerenda in omni materia*. In actibus enim humanis, super quibus constituuntur iudicia et exiguntur testimonia, non potest haberi certitudo demonstrativa, eo quod sunt circa contingentia et variabilia. Et ideo sufficit probabilis certitudo, quae ut in pluribus veritatem attingat, etsi in paucioribus a veritate deficiat. Est autem probabile quod magis veritatem contineat dictum multorum quam dictum unius. Et ideo, cum reus sit unus qui negat, sed multi testes asserunt idem cum actore, rationabiliter institutum est, iure divino et humano, quod dicto testium stetur. Omnis autem multitudo in tribus comprehenditur, scilicet principio, medio et fine, unde secundum philosophum, in I de coelo, omne et totum in tribus ponimus. Ternarius quidem constituitur asserentium, cum duo testes conveniunt cum actore. Et ideo requiritur binarius testium, vel, ad maiorem certitudinem, ut sit ternarius, qui est multitudo perfecta, in ipsis testibus. Unde et Eccle. IV dicitur, *funiculus triplex difficile rumpitur*. Augustinus autem, super illud Ioan. VIII, *duorum hominum testimonium verum est*, dicit quod *in hoc est Trinitas secundum mysterium commendata*, in qua est perpetua firmitas veritatis.]]
 ![[CERF IIa-IIæ, q. 70, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 70, a. 2#ad 1|Ad primum ergo dicendum quod, quantacumque multitudo testium determinaretur, posset quandoque testimonium esse iniquum, cum scriptum sit [[Ex 23]], *ne sequaris turbam ad faciendum malum*. Nec tamen, quia non potest in talibus infallibilis certitudo haberi, debet negligi certitudo quae probabiliter haberi potest per duos vel tres testes, ut dictum est.]]
+![[LEO IIa-IIæ, q. 70, a. 2#ad 1|Ad primum ergo dicendum quod, quantacumque multitudo testium determinaretur, posset quandoque testimonium esse iniquum, cum scriptum sit Exod. XXIII, *ne sequaris turbam ad faciendum malum*. Nec tamen, quia non potest in talibus infallibilis certitudo haberi, debet negligi certitudo quae probabiliter haberi potest per duos vel tres testes, ut dictum est.]]
 ![[CERF IIa-IIæ, q. 70, a. 2#ad 1]]
 
 ###### ad 2

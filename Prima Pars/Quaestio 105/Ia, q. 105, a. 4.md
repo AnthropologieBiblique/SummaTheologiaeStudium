@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 105, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 105, a. 4#s.c.|Sed contra est quod dicitur ad [[Ph 2]], *Deus est qui operatur in nobis velle et perficere*.]]
+![[LEO Ia, q. 105, a. 4#s.c.|Sed contra est quod dicitur ad Philipp. II, *Deus est qui operatur in nobis velle et perficere*.]]
 ![[CERF Ia, q. 105, a. 4#s.c.]]
 
 ###### resp.

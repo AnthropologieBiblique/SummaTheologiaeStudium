@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia, q. 23, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 23, a. 1#arg. 4|Praeterea, beneficia hominibus a Deo collata, per spiritum sanctum viris sanctis revelantur, secundum illud apostoli, [[1 Co 2]], *nos autem non spiritum huius mundi accepimus, sed spiritum qui ex Deo est, ut sciamus quae a Deo donata sunt nobis*. Si ergo homines praedestinarentur a Deo, cum praedestinatio sit Dei beneficium, esset praedestinatis nota sua praedestinatio. Quod patet esse falsum.]]
+![[LEO Ia, q. 23, a. 1#arg. 4|Praeterea, beneficia hominibus a Deo collata, per spiritum sanctum viris sanctis revelantur, secundum illud apostoli, I Cor. II, *nos autem non spiritum huius mundi accepimus, sed spiritum qui ex Deo est, ut sciamus quae a Deo donata sunt nobis*. Si ergo homines praedestinarentur a Deo, cum praedestinatio sit Dei beneficium, esset praedestinatis nota sua praedestinatio. Quod patet esse falsum.]]
 ![[CERF Ia, q. 23, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 23, a. 1#s.c.|Sed contra est quod dicitur [[Rm 8]], *quos praedestinavit, hos et vocavit*.]]
+![[LEO Ia, q. 23, a. 1#s.c.|Sed contra est quod dicitur Rom. VIII, *quos praedestinavit, hos et vocavit*.]]
 ![[CERF Ia, q. 23, a. 1#s.c.]]
 
 ###### resp.

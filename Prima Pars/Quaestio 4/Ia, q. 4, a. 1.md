@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 4, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 4, a. 1#s.c.|Sed contra est quod dicitur [[Mt 5]], *estote perfecti, sicut et pater vester caelestis perfectus est*.]]
+![[LEO Ia, q. 4, a. 1#s.c.|Sed contra est quod dicitur Matt. V, *estote perfecti, sicut et pater vester caelestis perfectus est*.]]
 ![[CERF Ia, q. 4, a. 1#s.c.]]
 
 ###### resp.

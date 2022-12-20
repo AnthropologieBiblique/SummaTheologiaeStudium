@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 21, a. 2#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 21, a. 2#s.c.|Sed contra est quod in [[Ps 84]] dicitur, *misericordia et veritas obviaverunt sibi*; et ponitur ibi veritas pro iustitia.]]
+![[LEO Ia, q. 21, a. 2#s.c.|Sed contra est quod in Psalmo LXXXIV dicitur, *misericordia et veritas obviaverunt sibi*; et ponitur ibi veritas pro iustitia.]]
 ![[CERF Ia, q. 21, a. 2#s.c.]]
 
 ###### resp.

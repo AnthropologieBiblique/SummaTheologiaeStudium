@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 137, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 137, a. 2#ad 3|Ad tertium dicendum quod Augustinus ibi loquitur de perseverantia non secundum quod nominat habitum virtutis, sed secundum quod nominat actum virtutis continuatum usque in finem, secundum illud [[Mt 24]] *qui perseveraverit usque in finem, hic salvus erit*. Et ideo contra rationem perseverantiae sic acceptae esset quod amitteretur, quia iam non duraret usque in finem.]]
+![[LEO IIa-IIæ, q. 137, a. 2#ad 3|Ad tertium dicendum quod Augustinus ibi loquitur de perseverantia non secundum quod nominat habitum virtutis, sed secundum quod nominat actum virtutis continuatum usque in finem, secundum illud Matth. XXIV *qui perseveraverit usque in finem, hic salvus erit*. Et ideo contra rationem perseverantiae sic acceptae esset quod amitteretur, quia iam non duraret usque in finem.]]
 ![[CERF IIa-IIæ, q. 137, a. 2#ad 3]]
 

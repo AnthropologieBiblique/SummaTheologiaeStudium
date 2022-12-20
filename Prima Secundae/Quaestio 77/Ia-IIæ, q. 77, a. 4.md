@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 77, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod amor sui non sit principium omnis peccati. Id enim quod est secundum se bonum et debitum, non est propria causa peccati. Sed amor sui est secundum se bonum et debitum, unde et praecipitur homini ut diligat proximum sicut seipsum, [[Lv 19]]. Ergo amor sui non potest esse propria causa peccati.]]
+![[LEO Ia-IIæ, q. 77, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod amor sui non sit principium omnis peccati. Id enim quod est secundum se bonum et debitum, non est propria causa peccati. Sed amor sui est secundum se bonum et debitum, unde et praecipitur homini ut diligat proximum sicut seipsum, Levit. XIX. Ergo amor sui non potest esse propria causa peccati.]]
 ![[CERF Ia-IIæ, q. 77, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 77, a. 4#arg. 2|Praeterea, apostolus dicit, [[Rm 7]], *occasione accepta, peccatum per mandatum operatum est in me omnem concupiscentiam*, ubi Glossa dicit quod *bona est lex, quae, dum concupiscentiam prohibet, omne malum prohibet*, quod dicitur propter hoc, quia concupiscentia est causa omnis peccati. Sed concupiscentia est alia passio ab amore, ut supra habitum est. Ergo amor sui non est causa omnis peccati.]]
+![[LEO Ia-IIæ, q. 77, a. 4#arg. 2|Praeterea, apostolus dicit, Rom. VII, *occasione accepta, peccatum per mandatum operatum est in me omnem concupiscentiam*, ubi Glossa dicit quod *bona est lex, quae, dum concupiscentiam prohibet, omne malum prohibet*, quod dicitur propter hoc, quia concupiscentia est causa omnis peccati. Sed concupiscentia est alia passio ab amore, ut supra habitum est. Ergo amor sui non est causa omnis peccati.]]
 ![[CERF Ia-IIæ, q. 77, a. 4#arg. 2]]
 
 ###### arg. 3

@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 1, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod obiectum fidei sit aliquid visum. Dicit enim dominus Thomae, [[Jn 20]], *quia vidisti me, credidisti*. Ergo et de eodem est visio et fides.]]
+![[LEO IIa-IIæ, q. 1, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod obiectum fidei sit aliquid visum. Dicit enim dominus Thomae, Ioan. XX, *quia vidisti me, credidisti*. Ergo et de eodem est visio et fides.]]
 ![[CERF IIa-IIæ, q. 1, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 1, a. 4#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 1, a. 4#arg. 4|Praeterea, quilibet sensus visus nominatur, ut Augustinus dicit, in libro de Verb. Dom. Sed fides est de auditis, secundum illud ad [[Rm 10]], fides ex auditu. Ergo fides est de rebus visis.]]
+![[LEO IIa-IIæ, q. 1, a. 4#arg. 4|Praeterea, quilibet sensus visus nominatur, ut Augustinus dicit, in libro de Verb. Dom. Sed fides est de auditis, secundum illud ad Rom. X, fides ex auditu. Ergo fides est de rebus visis.]]
 ![[CERF IIa-IIæ, q. 1, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 1, a. 4#s.c.|Sed contra est quod apostolus dicit, ad [[He 11]], quod *fides est argumentum non apparentium*.]]
+![[LEO IIa-IIæ, q. 1, a. 4#s.c.|Sed contra est quod apostolus dicit, ad Heb. XI, quod *fides est argumentum non apparentium*.]]
 ![[CERF IIa-IIæ, q. 1, a. 4#s.c.]]
 
 ###### resp.

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 64, a. 9#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 64, a. 9#arg. 3|Praeterea, illi qui non habent veram fidem, videntur esse per excommunicationem ab Ecclesia separati, dicitur enim in secunda canonica Ioannis, *si quis venit ad vos et hanc doctrinam non affert, nolite recipere eum in domum, nec ave dixeritis ei*; et [[Tt 3]], *haereticum hominem, post primam et secundam correctionem, devita*. Sed excommunicatus non videtur conferre posse Ecclesiae sacramentum, cum sit ab Ecclesia separatus, ad cuius ministerium pertinet sacramentorum dispensatio. Ergo videtur quod vera fides ministri sit de necessitate sacramenti.]]
+![[LEO IIIa, q. 64, a. 9#arg. 3|Praeterea, illi qui non habent veram fidem, videntur esse per excommunicationem ab Ecclesia separati, dicitur enim in secunda canonica Ioannis, *si quis venit ad vos et hanc doctrinam non affert, nolite recipere eum in domum, nec ave dixeritis ei*; et Tit. III, *haereticum hominem, post primam et secundam correctionem, devita*. Sed excommunicatus non videtur conferre posse Ecclesiae sacramentum, cum sit ab Ecclesia separatus, ad cuius ministerium pertinet sacramentorum dispensatio. Ergo videtur quod vera fides ministri sit de necessitate sacramenti.]]
 ![[CERF IIIa, q. 64, a. 9#arg. 3]]
 
 ###### s.c.

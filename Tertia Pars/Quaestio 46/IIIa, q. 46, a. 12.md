@@ -6,7 +6,7 @@ tags :
 ### Articulus 12
 
 ###### arg. 1
-![[LEO IIIa, q. 46, a. 12#arg. 1|Ad duodecimum sic proceditur. Videtur quod passio Christi sit eius divinitati attribuenda. Dicitur enim [[1 Co 2]], *si cognovissent, nunquam dominum gloriae crucifixissent*. Sed dominus gloriae est Christus secundum divinitatem. Ergo passio Christi competit ei secundum divinitatem.]]
+![[LEO IIIa, q. 46, a. 12#arg. 1|Ad duodecimum sic proceditur. Videtur quod passio Christi sit eius divinitati attribuenda. Dicitur enim I Cor. II, *si cognovissent, nunquam dominum gloriae crucifixissent*. Sed dominus gloriae est Christus secundum divinitatem. Ergo passio Christi competit ei secundum divinitatem.]]
 ![[CERF IIIa, q. 46, a. 12#arg. 1]]
 
 ###### arg. 2

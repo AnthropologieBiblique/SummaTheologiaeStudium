@@ -6,11 +6,11 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 93, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non omnis lex a lege aeterna derivetur. Est enim quaedam lex fomitis, ut supra dictum est. Ipsa autem non derivatur a lege divina, quae est lex aeterna, ad ipsam enim pertinet prudentia carnis, de qua apostolus dicit, ad [[Rm 8]], quod *legi Dei non potest esse subiecta*. Ergo non omnis lex procedit a lege aeterna.]]
+![[LEO Ia-IIæ, q. 93, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod non omnis lex a lege aeterna derivetur. Est enim quaedam lex fomitis, ut supra dictum est. Ipsa autem non derivatur a lege divina, quae est lex aeterna, ad ipsam enim pertinet prudentia carnis, de qua apostolus dicit, ad Rom. VIII, quod *legi Dei non potest esse subiecta*. Ergo non omnis lex procedit a lege aeterna.]]
 ![[CERF Ia-IIæ, q. 93, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 93, a. 3#arg. 2|Praeterea, a lege aeterna nihil iniquum procedere potest, quia sicut dictum est, lex aeterna est secundum quam iustum est ut omnia sint ordinatissima. Sed quaedam leges sunt iniquae; secundum illud [[Is 10]], *vae qui condunt leges iniquas*. Ergo non omnis lex procedit a lege aeterna.]]
+![[LEO Ia-IIæ, q. 93, a. 3#arg. 2|Praeterea, a lege aeterna nihil iniquum procedere potest, quia sicut dictum est, lex aeterna est secundum quam iustum est ut omnia sint ordinatissima. Sed quaedam leges sunt iniquae; secundum illud Isaiae X, *vae qui condunt leges iniquas*. Ergo non omnis lex procedit a lege aeterna.]]
 ![[CERF Ia-IIæ, q. 93, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 93, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 93, a. 3#s.c.|Sed contra est quod, [[Pr 8]], divina sapientia dicit, *per me reges regnant, et legum conditores iusta decernunt*. Ratio autem divinae sapientiae est lex aeterna, ut supra dictum est. Ergo omnes leges a lege aeterna procedunt.]]
+![[LEO Ia-IIæ, q. 93, a. 3#s.c.|Sed contra est quod, Prov. VIII, divina sapientia dicit, *per me reges regnant, et legum conditores iusta decernunt*. Ratio autem divinae sapientiae est lex aeterna, ut supra dictum est. Ergo omnes leges a lege aeterna procedunt.]]
 ![[CERF Ia-IIæ, q. 93, a. 3#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 93, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 93, a. 3#ad 2|Ad secundum dicendum quod lex humana intantum habet rationem legis, inquantum est secundum rationem rectam, et secundum hoc manifestum est quod a lege aeterna derivatur. Inquantum vero a ratione recedit, sic dicitur lex iniqua, et sic non habet rationem legis, sed magis violentiae cuiusdam. Et tamen in ipsa lege iniqua inquantum servatur aliquid de similitudine legis propter ordinem potestatis eius qui legem fert, secundum hoc etiam derivatur a lege aeterna, omnis enim potestas a domino Deo est, ut dicitur [[Rm 13]].]]
+![[LEO Ia-IIæ, q. 93, a. 3#ad 2|Ad secundum dicendum quod lex humana intantum habet rationem legis, inquantum est secundum rationem rectam, et secundum hoc manifestum est quod a lege aeterna derivatur. Inquantum vero a ratione recedit, sic dicitur lex iniqua, et sic non habet rationem legis, sed magis violentiae cuiusdam. Et tamen in ipsa lege iniqua inquantum servatur aliquid de similitudine legis propter ordinem potestatis eius qui legem fert, secundum hoc etiam derivatur a lege aeterna, omnis enim potestas a domino Deo est, ut dicitur Rom. XIII.]]
 ![[CERF Ia-IIæ, q. 93, a. 3#ad 2]]
 
 ###### ad 3

@@ -6,11 +6,11 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 19, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod timor mundanus non semper sit malus. Ad timorem enim humanum pertinere videtur quod homines reveremur. Sed quidam vituperantur de hoc quod homines non reverentur, ut patet [[Lc 18]] de illo iudice iniquo, *qui nec Deum timebat nec homines reverebatur*. Ergo videtur quod timor mundanus non semper sit malus.]]
+![[LEO IIa-IIæ, q. 19, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod timor mundanus non semper sit malus. Ad timorem enim humanum pertinere videtur quod homines reveremur. Sed quidam vituperantur de hoc quod homines non reverentur, ut patet Luc. XVIII de illo iudice iniquo, *qui nec Deum timebat nec homines reverebatur*. Ergo videtur quod timor mundanus non semper sit malus.]]
 ![[CERF IIa-IIæ, q. 19, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 19, a. 3#arg. 2|Praeterea, ad timorem mundanum videntur pertinere poenae quae per potestates saeculares infliguntur. Sed per huiusmodi poenas provocamur ad bene agendum, secundum illud [[Rm 13]], *vis non timere potestatem? Bonum fac, et habebis laudem ex illa*. Ergo timor mundanus non semper est malus.]]
+![[LEO IIa-IIæ, q. 19, a. 3#arg. 2|Praeterea, ad timorem mundanum videntur pertinere poenae quae per potestates saeculares infliguntur. Sed per huiusmodi poenas provocamur ad bene agendum, secundum illud Rom. XIII, *vis non timere potestatem? Bonum fac, et habebis laudem ex illa*. Ergo timor mundanus non semper est malus.]]
 ![[CERF IIa-IIæ, q. 19, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 19, a. 3#s.c.|Sed contra est quod dominus dicit, [[Mt 10]], *nolite timere eos qui corpus occidunt*, ubi timor mundanus prohibetur. Nihil autem divinitus prohibetur nisi malum. Ergo timor mundanus est malus.]]
+![[LEO IIa-IIæ, q. 19, a. 3#s.c.|Sed contra est quod dominus dicit, Matth. X, *nolite timere eos qui corpus occidunt*, ubi timor mundanus prohibetur. Nihil autem divinitus prohibetur nisi malum. Ergo timor mundanus est malus.]]
 ![[CERF IIa-IIæ, q. 19, a. 3#s.c.]]
 
 ###### resp.
@@ -26,11 +26,11 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 19, a. 3#ad 1|Ad primum ergo dicendum quod aliquis potest revereri homines dupliciter. Uno modo, inquantum est in eis aliquod divinum, puta bonum gratiae aut virtutis, vel saltem naturalis Dei imaginis, et hoc modo vituperantur qui homines non reverentur. Alio modo potest aliquis homines revereri inquantum Deo contrariantur. Et sic laudantur qui homines non reverentur, secundum illud [[Si 48]], de Elia vel Elisaeo, *in diebus suis non pertimuit principem*.]]
+![[LEO IIa-IIæ, q. 19, a. 3#ad 1|Ad primum ergo dicendum quod aliquis potest revereri homines dupliciter. Uno modo, inquantum est in eis aliquod divinum, puta bonum gratiae aut virtutis, vel saltem naturalis Dei imaginis, et hoc modo vituperantur qui homines non reverentur. Alio modo potest aliquis homines revereri inquantum Deo contrariantur. Et sic laudantur qui homines non reverentur, secundum illud Eccli. XLVIII, de Elia vel Elisaeo, *in diebus suis non pertimuit principem*.]]
 ![[CERF IIa-IIæ, q. 19, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 19, a. 3#ad 2|Ad secundum dicendum quod potestates saeculares, quando inferunt poenas ad retrahendum a peccato, in hoc sunt Dei ministri, secundum illud [[Rm 13]], *minister enim Dei est, vindex in iram ei qui male agit*. Et secundum hoc timere potestatem saecularem non pertinet ad timorem mundanum, sed ad timorem servilem vel initialem.]]
+![[LEO IIa-IIæ, q. 19, a. 3#ad 2|Ad secundum dicendum quod potestates saeculares, quando inferunt poenas ad retrahendum a peccato, in hoc sunt Dei ministri, secundum illud Rom. XIII, *minister enim Dei est, vindex in iram ei qui male agit*. Et secundum hoc timere potestatem saecularem non pertinet ad timorem mundanum, sed ad timorem servilem vel initialem.]]
 ![[CERF IIa-IIæ, q. 19, a. 3#ad 2]]
 
 ###### ad 3

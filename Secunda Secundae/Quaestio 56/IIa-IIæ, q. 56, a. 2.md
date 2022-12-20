@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 56, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod in veteri lege fuerint inconvenienter praecepta prohibitiva proposita de vitiis oppositis prudentiae. Opponuntur enim prudentiae non minus illa quae habent directam oppositionem ad ipsam, sicut imprudentia et partes eius, quam illa quae cum ipsa similitudinem habent, sicut astutia et quae ad ipsam pertinent. Sed haec vitia prohibentur in lege, dicitur enim Lev. XIX, *non facies calumniam proximo tuo*; et [[Dt 25]], *non habebis in sacculo tuo diversa pondera, maius et minus*. Ergo et de illis vitiis quae directe opponuntur prudentiae aliqua praecepta prohibitiva dari debuerunt.]]
+![[LEO IIa-IIæ, q. 56, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod in veteri lege fuerint inconvenienter praecepta prohibitiva proposita de vitiis oppositis prudentiae. Opponuntur enim prudentiae non minus illa quae habent directam oppositionem ad ipsam, sicut imprudentia et partes eius, quam illa quae cum ipsa similitudinem habent, sicut astutia et quae ad ipsam pertinent. Sed haec vitia prohibentur in lege, dicitur enim Lev. XIX, *non facies calumniam proximo tuo*; et Deut. XXV, *non habebis in sacculo tuo diversa pondera, maius et minus*. Ergo et de illis vitiis quae directe opponuntur prudentiae aliqua praecepta prohibitiva dari debuerunt.]]
 ![[CERF IIa-IIæ, q. 56, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 56, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 56, a. 2#ad 2|Ad secundum dicendum quod omnis fraus vel dolus commissa in his quae ad iustitiam pertinent potest intelligi esse prohibita, Lev. XIX, in prohibitione calumniae. Praecipue autem solet fraus exerceri et dolus in emptione et venditione, secundum illud [[Si 26]], *non iustificabitur caupo a peccato labiorum*. Propter hoc specialiter praeceptum prohibitivum datur in lege de fraude circa emptiones et venditiones commissa.]]
+![[LEO IIa-IIæ, q. 56, a. 2#ad 2|Ad secundum dicendum quod omnis fraus vel dolus commissa in his quae ad iustitiam pertinent potest intelligi esse prohibita, Lev. XIX, in prohibitione calumniae. Praecipue autem solet fraus exerceri et dolus in emptione et venditione, secundum illud Eccli. XXVI, *non iustificabitur caupo a peccato labiorum*. Propter hoc specialiter praeceptum prohibitivum datur in lege de fraude circa emptiones et venditiones commissa.]]
 ![[CERF IIa-IIæ, q. 56, a. 2#ad 2]]
 
 ###### ad 3

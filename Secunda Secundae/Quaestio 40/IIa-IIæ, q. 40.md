@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 40#Prooemium|Deinde considerandum est de bello. Et circa hoc quaeruntur quatuor. Primo, utrum aliquod bellum sit licitum. Secundo, utrum clericis sit licitum bellare. Tertio, utrum liceat bellantibus uti insidiis. Quarto, utrum liceat in diebus festis bellare.]]
-![[CERF IIa-IIæ, q. 40#Prooemium]]
+Deinde considerandum est de bello. Et circa hoc quaeruntur quatuor. Primo, utrum aliquod bellum sit licitum. Secundo, utrum clericis sit licitum bellare. Tertio, utrum liceat bellantibus uti insidiis. Quarto, utrum liceat in diebus festis bellare.
 
 ![[IIa-IIæ, q. 40, a. 1#Articulus 1]]
 

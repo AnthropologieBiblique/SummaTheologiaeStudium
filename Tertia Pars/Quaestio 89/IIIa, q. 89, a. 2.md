@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 89, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod post poenitentiam resurgat homo in aequali virtute. Dicit enim apostolus, [[Rm 8]], *diligentibus Deum omnia cooperantur in bonum*, ubi dicit Glossa Augustini quod hoc adeo verum est *ut, si qui horum devient et exorbitent, hoc ipsum Deus faciat eis in bonum proficere*. Sed hoc non esset si homo resurgeret in minori virtute.]]
+![[LEO IIIa, q. 89, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod post poenitentiam resurgat homo in aequali virtute. Dicit enim apostolus, Rom. VIII, *diligentibus Deum omnia cooperantur in bonum*, ubi dicit Glossa Augustini quod hoc adeo verum est *ut, si qui horum devient et exorbitent, hoc ipsum Deus faciat eis in bonum proficere*. Sed hoc non esset si homo resurgeret in minori virtute.]]
 ![[CERF IIIa, q. 89, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 89, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 89, a. 2#arg. 3|Praeterea, super illud Genes. I, *factum est vespere et mane dies unus*, dicit Glossa, *vespertina lux est a qua quis cecidit, matutina in qua resurgit*. Sed lux matutina est maior quam vespertina. Ergo aliquis resurgit in maiori gratia vel caritate quam prius habuerat. Quod etiam videtur per id quod apostolus dicit, [[Rm 5]], *ubi abundavit delictum, superabundavit et gratia*.]]
+![[LEO IIIa, q. 89, a. 2#arg. 3|Praeterea, super illud Genes. I, *factum est vespere et mane dies unus*, dicit Glossa, *vespertina lux est a qua quis cecidit, matutina in qua resurgit*. Sed lux matutina est maior quam vespertina. Ergo aliquis resurgit in maiori gratia vel caritate quam prius habuerat. Quod etiam videtur per id quod apostolus dicit, Rom. V, *ubi abundavit delictum, superabundavit et gratia*.]]
 ![[CERF IIIa, q. 89, a. 2#arg. 3]]
 
 ###### s.c.

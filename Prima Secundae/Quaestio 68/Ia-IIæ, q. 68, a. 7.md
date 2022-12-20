@@ -6,11 +6,11 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 68, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod dignitas donorum non attenditur secundum enumerationem qua enumerantur [[Is 11]]. Illud enim videtur esse potissimum in donis, quod maxime Deus ab homine requirit. Sed maxime requirit Deus ab homine timorem, dicitur enim [[Dt 10]], *et nunc, Israel, quid dominus Deus tuus petit a te, nisi ut timeas dominum Deum tuum?* Et [[Ml 1]], dicitur, *si ego dominus, ubi timor meus?* Ergo videtur quod timor, qui enumeratur ultimo, non sit infimum donorum, sed maximum.]]
+![[LEO Ia-IIæ, q. 68, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod dignitas donorum non attenditur secundum enumerationem qua enumerantur Isaiae XI. Illud enim videtur esse potissimum in donis, quod maxime Deus ab homine requirit. Sed maxime requirit Deus ab homine timorem, dicitur enim Deut. X, *et nunc, Israel, quid dominus Deus tuus petit a te, nisi ut timeas dominum Deum tuum?* Et Malach. I, dicitur, *si ego dominus, ubi timor meus?* Ergo videtur quod timor, qui enumeratur ultimo, non sit infimum donorum, sed maximum.]]
 ![[CERF Ia-IIæ, q. 68, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 68, a. 7#arg. 2|Praeterea, pietas videtur esse quoddam bonum universale, dicit enim apostolus, [[1 Tm 4]], quod *pietas ad omnia utilis est*. Sed bonum universale praefertur particularibus bonis. Ergo pietas, quae penultimo enumeratur, videtur esse potissimum donorum.]]
+![[LEO Ia-IIæ, q. 68, a. 7#arg. 2|Praeterea, pietas videtur esse quoddam bonum universale, dicit enim apostolus, I ad Tim. IV, quod *pietas ad omnia utilis est*. Sed bonum universale praefertur particularibus bonis. Ergo pietas, quae penultimo enumeratur, videtur esse potissimum donorum.]]
 ![[CERF Ia-IIæ, q. 68, a. 7#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 68, a. 7#arg. 4]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 68, a. 7#s.c.|Sed contra est quod Augustinus dicit, in libro de Serm. Dom. in monte, *videtur mihi septiformis operatio spiritus sancti, de qua Isaias loquitur, his gradibus sententiisque congruere* (de quibus fit mentio [[Mt 5]]); sed interest ordinis. Nam ibi (scilicet in Isaia) *enumeratio ab excellentioribus coepit, hic vero, ab inferioribus*.]]
+![[LEO Ia-IIæ, q. 68, a. 7#s.c.|Sed contra est quod Augustinus dicit, in libro de Serm. Dom. in monte, *videtur mihi septiformis operatio spiritus sancti, de qua Isaias loquitur, his gradibus sententiisque congruere* (de quibus fit mentio Matth. V); sed interest ordinis. Nam ibi (scilicet in Isaia) *enumeratio ab excellentioribus coepit, hic vero, ab inferioribus*.]]
 ![[CERF Ia-IIæ, q. 68, a. 7#s.c.]]
 
 ###### resp.

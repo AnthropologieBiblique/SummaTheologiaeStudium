@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 8, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 8, a. 1#s.c.|Sed contra est quod dicitur [[Is 11]], *requiescet super eum spiritus domini, spiritus sapientiae et intellectus*.]]
+![[LEO IIa-IIæ, q. 8, a. 1#s.c.|Sed contra est quod dicitur Isaiae XI, *requiescet super eum spiritus domini, spiritus sapientiae et intellectus*.]]
 ![[CERF IIa-IIæ, q. 8, a. 1#s.c.]]
 
 ###### resp.

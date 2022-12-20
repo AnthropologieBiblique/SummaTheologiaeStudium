@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 78, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 78, a. 1#arg. 3|Praeterea, ad illud quod est commune omnibus potentiis, non debet deputari aliquod speciale animae genus. Sed appetere convenit cuilibet potentiae animae. Visus enim appetit visibile conveniens, unde dicitur [[Si 40]], *gratiam et speciem desiderabit oculus, et super hoc virides sationes*. Et eadem ratione, quaelibet alia potentia desiderat obiectum sibi conveniens. Ergo non debet poni appetitivum unum speciale genus potentiarum animae.]]
+![[LEO Ia, q. 78, a. 1#arg. 3|Praeterea, ad illud quod est commune omnibus potentiis, non debet deputari aliquod speciale animae genus. Sed appetere convenit cuilibet potentiae animae. Visus enim appetit visibile conveniens, unde dicitur Eccli. XL, *gratiam et speciem desiderabit oculus, et super hoc virides sationes*. Et eadem ratione, quaelibet alia potentia desiderat obiectum sibi conveniens. Ergo non debet poni appetitivum unum speciale genus potentiarum animae.]]
 ![[CERF Ia, q. 78, a. 1#arg. 3]]
 
 ###### arg. 4

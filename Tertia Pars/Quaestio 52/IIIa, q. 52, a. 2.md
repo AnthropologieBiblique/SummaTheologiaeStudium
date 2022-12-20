@@ -6,15 +6,15 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 52, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Christus descenderit etiam ad Infernum damnatorum. Dicitur enim ex ore divinae sapientiae, [[Si 24]], *penetrabo omnes inferiores partes terrae*. Sed inter partes inferiores terrae computatur etiam Infernus damnatorum, secundum illud Psalmi, *introibunt in inferiora terrae*. Ergo Christus, qui est Dei sapientia, etiam usque ad Infernum damnatorum descendit.]]
+![[LEO IIIa, q. 52, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Christus descenderit etiam ad Infernum damnatorum. Dicitur enim ex ore divinae sapientiae, Eccli. XXIV, *penetrabo omnes inferiores partes terrae*. Sed inter partes inferiores terrae computatur etiam Infernus damnatorum, secundum illud Psalmi, *introibunt in inferiora terrae*. Ergo Christus, qui est Dei sapientia, etiam usque ad Infernum damnatorum descendit.]]
 ![[CERF IIIa, q. 52, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 52, a. 2#arg. 2|Praeterea, [[Ac 2]] dicit Petrus quod *Deus Christum suscitavit, solutis doloribus Inferni, iuxta quod impossibile erat teneri illum ab eo*. Sed dolores non sunt in Inferno patrum, neque etiam in Inferno puerorum, qui non puniuntur poena sensus propter peccatum actuale, sed solum poena damni propter peccatum originale. Ergo Christus descendit in Infernum damnatorum, vel etiam in Purgatorium, ubi homines puniuntur poena sensus pro peccatis actualibus.]]
+![[LEO IIIa, q. 52, a. 2#arg. 2|Praeterea, Act. II dicit Petrus quod *Deus Christum suscitavit, solutis doloribus Inferni, iuxta quod impossibile erat teneri illum ab eo*. Sed dolores non sunt in Inferno patrum, neque etiam in Inferno puerorum, qui non puniuntur poena sensus propter peccatum actuale, sed solum poena damni propter peccatum originale. Ergo Christus descendit in Infernum damnatorum, vel etiam in Purgatorium, ubi homines puniuntur poena sensus pro peccatis actualibus.]]
 ![[CERF IIIa, q. 52, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 52, a. 2#arg. 3|Praeterea, [[1 P 3]] dicitur quod *Christus his qui in carcere conclusi erant, spiritu veniens praedicavit, qui increduli fuerant aliquando*, quod, sicut Athanasius dicit, in epistola ad Epictetum, intelligitur de descensu Christi ad Inferos. Dicit enim quod *corpus Christi fuit in sepulcro positum, quando ipse perrexit praedicare his qui in custodia erant spiritibus, sicut dixit Petrus*. Constat autem quod increduli erant in Inferno damnatorum. Ergo Christus ad Infernum damnatorum descendit.]]
+![[LEO IIIa, q. 52, a. 2#arg. 3|Praeterea, I Pet. III dicitur quod *Christus his qui in carcere conclusi erant, spiritu veniens praedicavit, qui increduli fuerant aliquando*, quod, sicut Athanasius dicit, in epistola ad Epictetum, intelligitur de descensu Christi ad Inferos. Dicit enim quod *corpus Christi fuit in sepulcro positum, quando ipse perrexit praedicare his qui in custodia erant spiritibus, sicut dixit Petrus*. Constat autem quod increduli erant in Inferno damnatorum. Ergo Christus ad Infernum damnatorum descendit.]]
 ![[CERF IIIa, q. 52, a. 2#arg. 3]]
 
 ###### arg. 4
@@ -22,11 +22,11 @@ tags :
 ![[CERF IIIa, q. 52, a. 2#arg. 4]]
 
 ###### arg. 5
-![[LEO IIIa, q. 52, a. 2#arg. 5|Praeterea, sicut Augustinus dicit, in quodam sermone de passione, Christus ad Infernum descendens *omnes iustos qui originali peccato adstricti tenebantur, absolvit*. Sed inter illos erat etiam Iob, qui de seipso dicit, [[Jb 17]], *in profundissima Inferni descendent omnia mea*. Ergo Christus etiam usque ad profundissimum Inferni descendit.]]
+![[LEO IIIa, q. 52, a. 2#arg. 5|Praeterea, sicut Augustinus dicit, in quodam sermone de passione, Christus ad Infernum descendens *omnes iustos qui originali peccato adstricti tenebantur, absolvit*. Sed inter illos erat etiam Iob, qui de seipso dicit, Iob XVII, *in profundissima Inferni descendent omnia mea*. Ergo Christus etiam usque ad profundissimum Inferni descendit.]]
 ![[CERF IIIa, q. 52, a. 2#arg. 5]]
 
 ###### s.c.
-![[LEO IIIa, q. 52, a. 2#s.c.|Sed contra est quod de Inferno damnatorum dicitur, [[Jb 10]], *antequam vadam, et non revertar, ad terram tenebrosam et opertam mortis caligine,* et cetera. Nulla autem est conventio lucis ad tenebras, ut dicitur [[2 Co 6]]. Ergo Christus, qui est lux, ad illum Infernum damnatorum non descendit.]]
+![[LEO IIIa, q. 52, a. 2#s.c.|Sed contra est quod de Inferno damnatorum dicitur, Iob X, *antequam vadam, et non revertar, ad terram tenebrosam et opertam mortis caligine,* et cetera. Nulla autem est conventio lucis ad tenebras, ut dicitur II Cor. VI. Ergo Christus, qui est lux, ad illum Infernum damnatorum non descendit.]]
 ![[CERF IIIa, q. 52, a. 2#s.c.]]
 
 ###### resp.

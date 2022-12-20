@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 9#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 19, a. 9#s.c.|Sed contra est quod [[Is 11]] timor domini enumeratur inter septem dona spiritus sancti.]]
+![[LEO IIa-IIæ, q. 19, a. 9#s.c.|Sed contra est quod Isaiae XI timor domini enumeratur inter septem dona spiritus sancti.]]
 ![[CERF IIa-IIæ, q. 19, a. 9#s.c.]]
 
 ###### resp.
@@ -46,7 +46,7 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 9#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 19, a. 9#ad 4|Ad quartum dicendum quod, sicut dicitur [[Si 10]], *initium superbiae hominis apostatare a Deo*, hoc est nolle subdi Deo, quod opponitur timori filiali, qui Deum reveretur. Et sic timor excludit principium superbiae, propter quod datur contra superbiam. Nec tamen sequitur quod sit idem cum virtute humilitatis, sed quod sit principium eius, dona enim spiritus sancti sunt principia virtutum intellectualium et moralium, ut supra dictum est. Sed virtutes theologicae sunt principia donorum, ut supra habitum est.]]
+![[LEO IIa-IIæ, q. 19, a. 9#ad 4|Ad quartum dicendum quod, sicut dicitur Eccli. X, *initium superbiae hominis apostatare a Deo*, hoc est nolle subdi Deo, quod opponitur timori filiali, qui Deum reveretur. Et sic timor excludit principium superbiae, propter quod datur contra superbiam. Nec tamen sequitur quod sit idem cum virtute humilitatis, sed quod sit principium eius, dona enim spiritus sancti sunt principia virtutum intellectualium et moralium, ut supra dictum est. Sed virtutes theologicae sunt principia donorum, ut supra habitum est.]]
 ![[CERF IIa-IIæ, q. 19, a. 9#ad 4]]
 
 ###### ad 5

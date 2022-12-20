@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 111, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Angeli possint immutare voluntatem hominis. Quia super illud [[He 1]], *qui facit Angelos suos spiritus, et ministros suos flammam ignis*, dicit Glossa quod *ignis sunt, dum spiritu fervent, et vitia nostra urunt*. Sed hoc non esset, nisi voluntatem immutarent. Ergo Angeli possunt immutare voluntatem.]]
+![[LEO Ia, q. 111, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Angeli possint immutare voluntatem hominis. Quia super illud Heb. I, *qui facit Angelos suos spiritus, et ministros suos flammam ignis*, dicit Glossa quod *ignis sunt, dum spiritu fervent, et vitia nostra urunt*. Sed hoc non esset, nisi voluntatem immutarent. Ergo Angeli possunt immutare voluntatem.]]
 ![[CERF Ia, q. 111, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 111, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 111, a. 2#s.c.|Sed contra est quod immutare voluntatem est proprium Dei; secundum illud [[Pr 21]], *cor regis in manu domini; quocumque voluerit, vertet illud*.]]
+![[LEO Ia, q. 111, a. 2#s.c.|Sed contra est quod immutare voluntatem est proprium Dei; secundum illud Prov. XXI, *cor regis in manu domini; quocumque voluerit, vertet illud*.]]
 ![[CERF Ia, q. 111, a. 2#s.c.]]
 
 ###### resp.

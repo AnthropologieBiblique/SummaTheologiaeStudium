@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 67, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 67, a. 2#s.c.|Sed contra est quod firmior est cognitio universalium et necessariorum, quam particularium et contingentium. Sed in homine remanet post hanc vitam cognitio particularium contingentium, puta eorum quae quis fecit vel passus est; secundum illud [[Lc 16]], *recordare quia recepisti bona in vita tua, et Lazarus similiter mala*. Ergo multo magis remanet cognitio universalium et necessariorum, quae pertinent ad scientiam et ad alias virtutes intellectuales.]]
+![[LEO Ia-IIæ, q. 67, a. 2#s.c.|Sed contra est quod firmior est cognitio universalium et necessariorum, quam particularium et contingentium. Sed in homine remanet post hanc vitam cognitio particularium contingentium, puta eorum quae quis fecit vel passus est; secundum illud Luc. XVI, *recordare quia recepisti bona in vita tua, et Lazarus similiter mala*. Ergo multo magis remanet cognitio universalium et necessariorum, quae pertinent ad scientiam et ad alias virtutes intellectuales.]]
 ![[CERF Ia-IIæ, q. 67, a. 2#s.c.]]
 
 ###### resp.

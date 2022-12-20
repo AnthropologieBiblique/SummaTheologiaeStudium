@@ -34,7 +34,7 @@ tags :
 ![[CERF IIIa, q. 82, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 82, a. 1#ad 2|Ad secundum dicendum quod laicus iustus unitus est Christo unione spirituali per fidem et caritatem, non autem per sacramentalem potestatem. Et ideo habet spirituale sacerdotium ad offerendum spirituales hostias, de quibus dicitur in Psalmo, *sacrificium Deo spiritus contribulatus*, et [[Rm 12]], *exhibeatis corpora vestra hostiam viventem*. Unde et I Petri II dicitur, *sacerdotium sanctum offerre spirituales hostias*.]]
+![[LEO IIIa, q. 82, a. 1#ad 2|Ad secundum dicendum quod laicus iustus unitus est Christo unione spirituali per fidem et caritatem, non autem per sacramentalem potestatem. Et ideo habet spirituale sacerdotium ad offerendum spirituales hostias, de quibus dicitur in Psalmo, *sacrificium Deo spiritus contribulatus*, et Rom. XII, *exhibeatis corpora vestra hostiam viventem*. Unde et I Petri II dicitur, *sacerdotium sanctum offerre spirituales hostias*.]]
 ![[CERF IIIa, q. 82, a. 1#ad 2]]
 
 ###### ad 3

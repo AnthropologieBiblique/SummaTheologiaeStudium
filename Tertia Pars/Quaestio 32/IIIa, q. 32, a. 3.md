@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 32, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 32, a. 3#arg. 3|Praeterea, Deus dicitur pater noster secundum hoc quod nos fecit, secundum illud [[Dt 32]], *nonne ipse est pater tuus, qui possedit et fecit et creavit te?* Sed spiritus sanctus fecit corpus Christi, ut dictum est. Ergo spiritus sanctus debet dici pater Christi secundum corpus ab ipso formatum.]]
+![[LEO IIIa, q. 32, a. 3#arg. 3|Praeterea, Deus dicitur pater noster secundum hoc quod nos fecit, secundum illud Deut. XXXII, *nonne ipse est pater tuus, qui possedit et fecit et creavit te?* Sed spiritus sanctus fecit corpus Christi, ut dictum est. Ergo spiritus sanctus debet dici pater Christi secundum corpus ab ipso formatum.]]
 ![[CERF IIIa, q. 32, a. 3#arg. 3]]
 
 ###### s.c.

@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 66, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod furtum non sit peccatum mortale. Dicitur enim [[Pr 6]], *non grandis est culpae cum quis furatus fuerit*. Sed omne peccatum mortale est grandis culpae. Ergo furtum non est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 66, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod furtum non sit peccatum mortale. Dicitur enim Prov. VI, *non grandis est culpae cum quis furatus fuerit*. Sed omne peccatum mortale est grandis culpae. Ergo furtum non est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 66, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 66, a. 6#arg. 2|Praeterea, peccato mortali mortis poena debetur. Sed pro furto non infligitur in lege poena mortis, sed solum poena damni, secundum illud [[Ex 22]], *si quis furatus fuerit bovem aut ovem, quinque boves pro uno bove restituet, et quatuor oves pro una ove*. Ergo furtum non est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 66, a. 6#arg. 2|Praeterea, peccato mortali mortis poena debetur. Sed pro furto non infligitur in lege poena mortis, sed solum poena damni, secundum illud Exod. XXII, *si quis furatus fuerit bovem aut ovem, quinque boves pro uno bove restituet, et quatuor oves pro una ove*. Ergo furtum non est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 66, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 66, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 66, a. 6#s.c.|Sed contra est quod nullus damnatur secundum divinum iudicium nisi pro peccato mortali. Condemnatur autem aliquis pro furto, secundum illud [[Za 5]], *haec est maledictio quae egreditur super faciem omnis terrae, quia omnis fur sicut ibi scriptum est condemnatur*. Ergo furtum est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 66, a. 6#s.c.|Sed contra est quod nullus damnatur secundum divinum iudicium nisi pro peccato mortali. Condemnatur autem aliquis pro furto, secundum illud Zach. V, *haec est maledictio quae egreditur super faciem omnis terrae, quia omnis fur sicut ibi scriptum est condemnatur*. Ergo furtum est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 66, a. 6#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 66, a. 6#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 66, a. 6#ad 2|Ad secundum dicendum quod poenae praesentis vitae magis sunt medicinales quam retributivae, retributio enim reservatur divino iudicio, quod est secundum veritatem in peccantes. Et ideo secundum iudicium praesentis vitae non pro quolibet peccato mortali infligitur poena mortis, sed solum pro illis quae inferunt irreparabile nocumentum, vel etiam pro illis quae habent aliquam horribilem deformitatem. Et ideo pro furto, quod reparabile damnum infert, non infligitur secundum praesens iudicium poena mortis, nisi furtum aggravetur per aliquam gravem circumstantiam, sicut patet de sacrilegio, quod est furtum rei sacrae, et de peculatu, quod est furtum rei communis, ut patet per Augustinum, super Ioan.; et de plagio, quod est furtum hominis, pro quo quis morte punitur, ut patet [[Ex 21]].]]
+![[LEO IIa-IIæ, q. 66, a. 6#ad 2|Ad secundum dicendum quod poenae praesentis vitae magis sunt medicinales quam retributivae, retributio enim reservatur divino iudicio, quod est secundum veritatem in peccantes. Et ideo secundum iudicium praesentis vitae non pro quolibet peccato mortali infligitur poena mortis, sed solum pro illis quae inferunt irreparabile nocumentum, vel etiam pro illis quae habent aliquam horribilem deformitatem. Et ideo pro furto, quod reparabile damnum infert, non infligitur secundum praesens iudicium poena mortis, nisi furtum aggravetur per aliquam gravem circumstantiam, sicut patet de sacrilegio, quod est furtum rei sacrae, et de peculatu, quod est furtum rei communis, ut patet per Augustinum, super Ioan.; et de plagio, quod est furtum hominis, pro quo quis morte punitur, ut patet Exod. XXI.]]
 ![[CERF IIa-IIæ, q. 66, a. 6#ad 2]]
 
 ###### ad 3

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 21#Prooemium|Deinde considerandum est de praesumptione. Et circa hoc quaeruntur quatuor. Primo, quid sit obiectum praesumptionis cui innititur. Secundo, utrum sit peccatum. Tertio, cui opponatur. Quarto, ex quo vitio oriatur.]]
-![[CERF IIa-IIæ, q. 21#Prooemium]]
+Deinde considerandum est de praesumptione. Et circa hoc quaeruntur quatuor. Primo, quid sit obiectum praesumptionis cui innititur. Secundo, utrum sit peccatum. Tertio, cui opponatur. Quarto, ex quo vitio oriatur.
 
 ![[IIa-IIæ, q. 21, a. 1#Articulus 1]]
 

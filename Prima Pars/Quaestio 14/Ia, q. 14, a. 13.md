@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 14, a. 13#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 14, a. 13#s.c.|Sed contra est quod dicitur in [[Ps 32]], *qui finxit singillatim corda eorum, qui intelligit omnia opera eorum*, scilicet hominum. Sed opera hominum sunt contingentia, utpote libero arbitrio subiecta. Ergo Deus scit futura contingentia.]]
+![[LEO Ia, q. 14, a. 13#s.c.|Sed contra est quod dicitur in Psalmo XXXII, *qui finxit singillatim corda eorum, qui intelligit omnia opera eorum*, scilicet hominum. Sed opera hominum sunt contingentia, utpote libero arbitrio subiecta. Ergo Deus scit futura contingentia.]]
 ![[CERF Ia, q. 14, a. 13#s.c.]]
 
 ###### resp.

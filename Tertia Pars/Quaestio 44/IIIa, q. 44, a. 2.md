@@ -10,15 +10,15 @@ tags :
 ![[CERF IIIa, q. 44, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 44, a. 2#arg. 2|Praeterea, secundum motum caelestium corporum temporum cursus designatur, secundum illud [[Gn 1]], *fiant luminaria in firmamento caeli, et sint in signa et tempora et dies et annos*. Sic ergo, mutato cursu caelestium corporum, mutatur temporum distinctio et ordo. Sed non legitur hoc esse perceptum ab astrologis, *qui contemplantur sidera et computant menses*, ut dicitur [[Is 47]]. Ergo videtur quod per Christum non fuerit aliqua mutatio facta circa cursum caelestium corporum.]]
+![[LEO IIIa, q. 44, a. 2#arg. 2|Praeterea, secundum motum caelestium corporum temporum cursus designatur, secundum illud Gen. I, *fiant luminaria in firmamento caeli, et sint in signa et tempora et dies et annos*. Sic ergo, mutato cursu caelestium corporum, mutatur temporum distinctio et ordo. Sed non legitur hoc esse perceptum ab astrologis, *qui contemplantur sidera et computant menses*, ut dicitur Isaiae XLVII. Ergo videtur quod per Christum non fuerit aliqua mutatio facta circa cursum caelestium corporum.]]
 ![[CERF IIIa, q. 44, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 44, a. 2#arg. 3|Praeterea, magis competebat Christo facere miracula vivens et docens quam moriens, tum quia, ut dicitur II ad Cor. ult., *crucifixus est ex infirmitate, sed vivit ex virtute Dei*, secundum quam miracula faciebat; tum etiam quia eius miracula confirmativa erant doctrinae ipsius. Sed in vita sua non legitur Christus aliquod miraculum circa caelestia corpora fecisse, quinimmo Pharisaeis petentibus ab eo signum de caelo, dare renuit, ut habetur [[Mt 12]] et XVI. Ergo videtur quod nec in morte circa caelestia corpora aliquod miraculum facere debuit.]]
+![[LEO IIIa, q. 44, a. 2#arg. 3|Praeterea, magis competebat Christo facere miracula vivens et docens quam moriens, tum quia, ut dicitur II ad Cor. ult., *crucifixus est ex infirmitate, sed vivit ex virtute Dei*, secundum quam miracula faciebat; tum etiam quia eius miracula confirmativa erant doctrinae ipsius. Sed in vita sua non legitur Christus aliquod miraculum circa caelestia corpora fecisse, quinimmo Pharisaeis petentibus ab eo signum de caelo, dare renuit, ut habetur Matth. XII et XVI. Ergo videtur quod nec in morte circa caelestia corpora aliquod miraculum facere debuit.]]
 ![[CERF IIIa, q. 44, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 44, a. 2#s.c.|Sed contra est quod dicitur [[Lc 23]], *tenebrae factae sunt in universa terra usque ad horam nonam, et obscuratus est sol*.]]
+![[LEO IIIa, q. 44, a. 2#s.c.|Sed contra est quod dicitur Luc. XXIII, *tenebrae factae sunt in universa terra usque ad horam nonam, et obscuratus est sol*.]]
 ![[CERF IIIa, q. 44, a. 2#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 44, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 44, a. 2#ad 1|Ad primum ergo dicendum quod, sicut corporibus inferioribus naturale est moveri a caelestibus corporibus, quae sunt superiora secundum naturae ordinem; ita etiam naturale est cuilibet creaturae ut transmutetur a Deo secundum eius voluntatem. Unde Augustinus dicit, XXVI contra Faustum, et habetur in Glossa [[Rm 11]], super illud, *contra naturam insertus es etc., Deus, creator et conditor omnium naturarum, nihil contra naturam facit, quia id est cuique rei natura, quod facit*. Et ita non corrumpitur natura caelestium corporum cum eorum cursus immutatur a Deo, corrumperetur autem si ab aliqua alia causa immutaretur.]]
+![[LEO IIIa, q. 44, a. 2#ad 1|Ad primum ergo dicendum quod, sicut corporibus inferioribus naturale est moveri a caelestibus corporibus, quae sunt superiora secundum naturae ordinem; ita etiam naturale est cuilibet creaturae ut transmutetur a Deo secundum eius voluntatem. Unde Augustinus dicit, XXVI contra Faustum, et habetur in Glossa Rom. XI, super illud, *contra naturam insertus es etc., Deus, creator et conditor omnium naturarum, nihil contra naturam facit, quia id est cuique rei natura, quod facit*. Et ita non corrumpitur natura caelestium corporum cum eorum cursus immutatur a Deo, corrumperetur autem si ab aliqua alia causa immutaretur.]]
 ![[CERF IIIa, q. 44, a. 2#ad 1]]
 
 ###### ad 2

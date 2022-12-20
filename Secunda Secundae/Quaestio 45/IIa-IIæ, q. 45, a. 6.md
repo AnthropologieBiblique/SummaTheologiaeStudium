@@ -6,15 +6,15 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 45, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod septima beatitudo non respondeat dono sapientiae. Septima enim beatitudo est, *beati pacifici, quoniam filii Dei vocabuntur*. Utrumque autem horum pertinet immediate ad caritatem. Nam de pace dicitur in Psalm., *pax multa diligentibus legem tuam*. Et ut apostolus dicit, [[Rm 5]], *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*; qui quidem est spiritus adoptionis filiorum, in quo clamamus, abba, pater, ut dicitur [[Rm 5]]. Ergo septima beatitudo magis debet attribui caritati quam sapientiae.]]
+![[LEO IIa-IIæ, q. 45, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod septima beatitudo non respondeat dono sapientiae. Septima enim beatitudo est, *beati pacifici, quoniam filii Dei vocabuntur*. Utrumque autem horum pertinet immediate ad caritatem. Nam de pace dicitur in Psalm., *pax multa diligentibus legem tuam*. Et ut apostolus dicit, Rom. V, *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*; qui quidem est spiritus adoptionis filiorum, in quo clamamus, abba, pater, ut dicitur Rom. VIII. Ergo septima beatitudo magis debet attribui caritati quam sapientiae.]]
 ![[CERF IIa-IIæ, q. 45, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 45, a. 6#arg. 2|Praeterea, unumquodque magis manifestatur per proximum effectum quam per remotum. Sed proximus effectus sapientiae videtur esse caritas, secundum illud [[Sg 7]], *per nationes in animas sanctas se transfert, amicos Dei et prophetas constituit*, pax autem et adoptio filiorum videntur esse remoti effectus, cum procedant ex caritate, ut dictum est. Ergo beatitudo sapientiae respondens deberet magis determinari secundum dilectionem caritatis quam secundum pacem.]]
+![[LEO IIa-IIæ, q. 45, a. 6#arg. 2|Praeterea, unumquodque magis manifestatur per proximum effectum quam per remotum. Sed proximus effectus sapientiae videtur esse caritas, secundum illud Sap. VII, *per nationes in animas sanctas se transfert, amicos Dei et prophetas constituit*, pax autem et adoptio filiorum videntur esse remoti effectus, cum procedant ex caritate, ut dictum est. Ergo beatitudo sapientiae respondens deberet magis determinari secundum dilectionem caritatis quam secundum pacem.]]
 ![[CERF IIa-IIæ, q. 45, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 45, a. 6#arg. 3|Praeterea, [[Jc 3]] dicitur, *quae desursum est sapientia primo quidem pudica est, deinde autem pacifica, modesta, suadibilis, bonis consentiens, plena misericordia et fructibus bonis, iudicans sine simulatione*. Beatitudo ergo correspondens sapientiae non magis debuit accipi secundum pacem quam secundum alios effectus caelestis sapientiae.]]
+![[LEO IIa-IIæ, q. 45, a. 6#arg. 3|Praeterea, Iac. III dicitur, *quae desursum est sapientia primo quidem pudica est, deinde autem pacifica, modesta, suadibilis, bonis consentiens, plena misericordia et fructibus bonis, iudicans sine simulatione*. Beatitudo ergo correspondens sapientiae non magis debuit accipi secundum pacem quam secundum alios effectus caelestis sapientiae.]]
 ![[CERF IIa-IIæ, q. 45, a. 6#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 45, a. 6#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 45, a. 6#resp.|Respondeo dicendum quod septima beatitudo congrue adaptatur dono sapientiae et quantum ad meritum et quantum ad praemium. Ad meritum quidem pertinet quod dicitur, beati pacifici. Pacifici autem dicuntur quasi pacem facientes vel in seipsis vel etiam in aliis. Quorum utrumque contingit per hoc quod ea in quibus pax constituitur ad debitum ordinem rediguntur, nam pax est tranquillitas ordinis, ut Augustinus dicit, XIX de Civ. Dei. Ordinare autem pertinet ad sapientiam; ut patet per philosophum, in principio Metaphys. Et ideo esse pacificum convenienter attribuitur sapientiae. Ad praemium autem pertinet quod dicitur, filii Dei vocabuntur. Dicuntur autem aliqui filii Dei inquantum participant similitudinem filii unigeniti et naturalis, secundum illud [[Rm 8]], *quos praescivit conformes fieri imaginis filii sui*, qui quidem est sapientia genita. Et ideo percipiendo donum sapientiae, ad Dei filiationem homo pertingit.]]
+![[LEO IIa-IIæ, q. 45, a. 6#resp.|Respondeo dicendum quod septima beatitudo congrue adaptatur dono sapientiae et quantum ad meritum et quantum ad praemium. Ad meritum quidem pertinet quod dicitur, beati pacifici. Pacifici autem dicuntur quasi pacem facientes vel in seipsis vel etiam in aliis. Quorum utrumque contingit per hoc quod ea in quibus pax constituitur ad debitum ordinem rediguntur, nam pax est tranquillitas ordinis, ut Augustinus dicit, XIX de Civ. Dei. Ordinare autem pertinet ad sapientiam; ut patet per philosophum, in principio Metaphys. Et ideo esse pacificum convenienter attribuitur sapientiae. Ad praemium autem pertinet quod dicitur, filii Dei vocabuntur. Dicuntur autem aliqui filii Dei inquantum participant similitudinem filii unigeniti et naturalis, secundum illud Rom. VIII, *quos praescivit conformes fieri imaginis filii sui*, qui quidem est sapientia genita. Et ideo percipiendo donum sapientiae, ad Dei filiationem homo pertingit.]]
 ![[CERF IIa-IIæ, q. 45, a. 6#resp.]]
 
 ###### ad 1

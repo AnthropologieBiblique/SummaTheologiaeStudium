@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 31, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod caro Christi non fuerit sumpta ex Adam. Dicit enim apostolus, [[1 Co 15]], *primus homo de terra, terrenus, secundus homo de caelo, caelestis*. Primus autem homo est Adam, secundus homo est Christus. Ergo Christus non est ex Adam, sed habet ab eo distinctam originem.]]
+![[LEO IIIa, q. 31, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod caro Christi non fuerit sumpta ex Adam. Dicit enim apostolus, I Cor. XV, *primus homo de terra, terrenus, secundus homo de caelo, caelestis*. Primus autem homo est Adam, secundus homo est Christus. Ergo Christus non est ex Adam, sed habet ab eo distinctam originem.]]
 ![[CERF IIIa, q. 31, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 31, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 31, a. 1#arg. 3|*Praeterea, peccatum in hunc mundum intravit per hominem unum*, scilicet Adam, quia omnes in eo gentes originaliter peccaverunt, ut patet [[Rm 5]]. Sed si corpus Christi fuisset ab Adam sumptum, ipse etiam in Adam originaliter fuisset quando peccavit. Ergo peccatum originale contraxisset. Quod non decebat Christi puritatem. Non ergo corpus Christi est formatum de materia sumpta ab Adam.]]
+![[LEO IIIa, q. 31, a. 1#arg. 3|*Praeterea, peccatum in hunc mundum intravit per hominem unum*, scilicet Adam, quia omnes in eo gentes originaliter peccaverunt, ut patet Rom. V. Sed si corpus Christi fuisset ab Adam sumptum, ipse etiam in Adam originaliter fuisset quando peccavit. Ergo peccatum originale contraxisset. Quod non decebat Christi puritatem. Non ergo corpus Christi est formatum de materia sumpta ab Adam.]]
 ![[CERF IIIa, q. 31, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 31, a. 1#s.c.|Sed contra est quod apostolus dicit, ad [[He 2]], *nusquam Angelos apprehendit*, scilicet filius Dei, *sed semen Abrahae apprehendit*. Semen autem Abrahae sumptum est ab Adam. Ergo corpus Christi fuit formatum de materia ex Adam sumpta.]]
+![[LEO IIIa, q. 31, a. 1#s.c.|Sed contra est quod apostolus dicit, ad Heb. II, *nusquam Angelos apprehendit*, scilicet filius Dei, *sed semen Abrahae apprehendit*. Semen autem Abrahae sumptum est ab Adam. Ergo corpus Christi fuit formatum de materia ex Adam sumpta.]]
 ![[CERF IIIa, q. 31, a. 1#s.c.]]
 
 ###### resp.

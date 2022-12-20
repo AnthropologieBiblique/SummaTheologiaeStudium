@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 6, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 6, a. 2#resp.|Respondeo dicendum quod, sicut dictum est, filius Dei dicitur assumpsisse carnem anima mediante, tum propter ordinem dignitatis, tum etiam propter congruitatem assumptionis. Utrumque autem horum invenitur si comparemus intellectum, qui spiritus dicitur, ad ceteras animae partes. Non enim anima est assumptibilis secundum congruitatem nisi per hoc quod est capax Dei, ad imaginem eius existens, quod est secundum mentem, quae spiritus dicitur, secundum illud [[Ep 4]], *renovamini spiritu mentis vestrae*. Similiter etiam intellectus, inter ceteras partes animae, est superior et dignior et Deo similior. Et ideo, ut Damascenus dicit, in III libro, *unitum est carni per medium intellectum verbum Dei, intellectus enim est quod est animae purissimum; sed et Deus est intellectus*.]]
+![[LEO IIIa, q. 6, a. 2#resp.|Respondeo dicendum quod, sicut dictum est, filius Dei dicitur assumpsisse carnem anima mediante, tum propter ordinem dignitatis, tum etiam propter congruitatem assumptionis. Utrumque autem horum invenitur si comparemus intellectum, qui spiritus dicitur, ad ceteras animae partes. Non enim anima est assumptibilis secundum congruitatem nisi per hoc quod est capax Dei, ad imaginem eius existens, quod est secundum mentem, quae spiritus dicitur, secundum illud Ephes. IV, *renovamini spiritu mentis vestrae*. Similiter etiam intellectus, inter ceteras partes animae, est superior et dignior et Deo similior. Et ideo, ut Damascenus dicit, in III libro, *unitum est carni per medium intellectum verbum Dei, intellectus enim est quod est animae purissimum; sed et Deus est intellectus*.]]
 ![[CERF IIIa, q. 6, a. 2#resp.]]
 
 ###### ad 1

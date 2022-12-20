@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 4, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 4, a. 8#s.c.|Sed contra est quod dicitur [[Sg 7]], *venerunt mihi omnia bona pariter cum illa*, scilicet cum divina sapientia, quae consistit in contemplatione Dei. Et sic ad beatitudinem nihil aliud requiritur.]]
+![[LEO Ia-IIæ, q. 4, a. 8#s.c.|Sed contra est quod dicitur Sap. VII, *venerunt mihi omnia bona pariter cum illa*, scilicet cum divina sapientia, quae consistit in contemplatione Dei. Et sic ad beatitudinem nihil aliud requiritur.]]
 ![[CERF Ia-IIæ, q. 4, a. 8#s.c.]]
 
 ###### resp.

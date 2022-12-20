@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 109, a. 10#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 109, a. 10#arg. 3|Praeterea, sicut apostolus dicit, ad [[Rm 5]], plus restitutum est homini per donum Christi, quam amiserit per peccatum Adae. Sed Adam accepit unde posset perseverare. Ergo multo magis nobis restituitur per gratiam Christi ut perseverare possimus. Et ita homo non indiget gratia ad perseverandum.]]
+![[LEO Ia-IIæ, q. 109, a. 10#arg. 3|Praeterea, sicut apostolus dicit, ad Rom. V, plus restitutum est homini per donum Christi, quam amiserit per peccatum Adae. Sed Adam accepit unde posset perseverare. Ergo multo magis nobis restituitur per gratiam Christi ut perseverare possimus. Et ita homo non indiget gratia ad perseverandum.]]
 ![[CERF Ia-IIæ, q. 109, a. 10#arg. 3]]
 
 ###### s.c.

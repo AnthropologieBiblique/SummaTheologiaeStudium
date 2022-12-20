@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 30#Prooemium|Deinde quaeritur de pluralitate personarum. Et circa hoc quaeruntur quatuor. Primo, utrum sint plures personae in divinis. Secundo, quot sunt. Tertio, quid significent termini numerales in divinis. Quarto, de communitate huius nominis persona.]]
-![[CERF Ia, q. 30#Prooemium]]
+Deinde quaeritur de pluralitate personarum. Et circa hoc quaeruntur quatuor. Primo, utrum sint plures personae in divinis. Secundo, quot sunt. Tertio, quid significent termini numerales in divinis. Quarto, de communitate huius nominis persona.
 
 ![[Ia, q. 30, a. 1#Articulus 1]]
 

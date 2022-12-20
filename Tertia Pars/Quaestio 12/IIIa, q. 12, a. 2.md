@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 12, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 12, a. 2#s.c.|Sed contra est quod habetur [[Lc 2]], quod *Iesus proficiebat sapientia et aetate et gratia, apud Deum et homines*. Et Ambrosius dicit quod *proficiebat secundum sapientiam humanam*. Humana autem sapientia est quae humano modo acquiritur, scilicet per lumen intellectus agentis. Ergo Christus secundum hanc scientiam profecit.]]
+![[LEO IIIa, q. 12, a. 2#s.c.|Sed contra est quod habetur Luc. II, quod *Iesus proficiebat sapientia et aetate et gratia, apud Deum et homines*. Et Ambrosius dicit quod *proficiebat secundum sapientiam humanam*. Humana autem sapientia est quae humano modo acquiritur, scilicet per lumen intellectus agentis. Ergo Christus secundum hanc scientiam profecit.]]
 ![[CERF IIIa, q. 12, a. 2#s.c.]]
 
 ###### resp.

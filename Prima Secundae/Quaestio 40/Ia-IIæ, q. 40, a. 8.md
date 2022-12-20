@@ -10,11 +10,11 @@ tags :
 ![[CERF Ia-IIæ, q. 40, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 40, a. 8#arg. 2|Praeterea, tristitia impedit operationem, ut supra dictum est. Sed spes quandoque causat tristitiam, dicitur enim [[Pr 13]], *spes quae differtur, affligit animam*. Ergo spes impedit operationem.]]
+![[LEO Ia-IIæ, q. 40, a. 8#arg. 2|Praeterea, tristitia impedit operationem, ut supra dictum est. Sed spes quandoque causat tristitiam, dicitur enim Prov. XIII, *spes quae differtur, affligit animam*. Ergo spes impedit operationem.]]
 ![[CERF Ia-IIæ, q. 40, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 40, a. 8#arg. 3|Praeterea, desperatio contrariatur spei, ut dictum est. Sed desperatio, maxime in rebus bellicis, adiuvat operationem, dicitur enim [[2S 2]], quod *periculosa res est desperatio*. Ergo spes facit contrarium effectum, impediendo scilicet operationem.]]
+![[LEO Ia-IIæ, q. 40, a. 8#arg. 3|Praeterea, desperatio contrariatur spei, ut dictum est. Sed desperatio, maxime in rebus bellicis, adiuvat operationem, dicitur enim II Reg. II, quod *periculosa res est desperatio*. Ergo spes facit contrarium effectum, impediendo scilicet operationem.]]
 ![[CERF Ia-IIæ, q. 40, a. 8#arg. 3]]
 
 ###### s.c.

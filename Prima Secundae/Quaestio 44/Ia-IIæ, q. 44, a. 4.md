@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 44, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 44, a. 4#s.c.|Sed contra est quod apostolus dicit, ad [[Ph 2]], *cum metu et tremore vestram salutem operamini*, quod non diceret, si timor bonam operationem impediret. Timor ergo non impedit bonam operationem.]]
+![[LEO Ia-IIæ, q. 44, a. 4#s.c.|Sed contra est quod apostolus dicit, ad Philipp. II, *cum metu et tremore vestram salutem operamini*, quod non diceret, si timor bonam operationem impediret. Timor ergo non impedit bonam operationem.]]
 ![[CERF Ia-IIæ, q. 44, a. 4#s.c.]]
 
 ###### resp.

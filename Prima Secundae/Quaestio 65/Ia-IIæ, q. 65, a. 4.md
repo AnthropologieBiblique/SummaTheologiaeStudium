@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 65, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 65, a. 4#s.c.|Sed contra est quod [[Mt 1]], dicitur in Glossa quod *fides generat spem, spes vero caritatem*. Sed generans est prius generato, et potest esse sine eo. Ergo fides potest esse sine spe; et spes sine caritate.]]
+![[LEO Ia-IIæ, q. 65, a. 4#s.c.|Sed contra est quod Matth. I, dicitur in Glossa quod *fides generat spem, spes vero caritatem*. Sed generans est prius generato, et potest esse sine eo. Ergo fides potest esse sine spe; et spes sine caritate.]]
 ![[CERF Ia-IIæ, q. 65, a. 4#s.c.]]
 
 ###### resp.

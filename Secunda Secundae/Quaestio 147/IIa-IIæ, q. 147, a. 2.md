@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 147, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod ieiunium non sit actus abstinentiae. Quia super illud [[Mt 17]], *hoc genus Daemoniorum* etc., dicit Hieronymus, *ieiunium est non solum ab escis, sed a cunctis illecebris abstinere*. Sed hoc pertinet ad omnem virtutem. Ergo ieiunium non est actus specialiter abstinentiae.]]
+![[LEO IIa-IIæ, q. 147, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod ieiunium non sit actus abstinentiae. Quia super illud Matth. XVII, *hoc genus Daemoniorum* etc., dicit Hieronymus, *ieiunium est non solum ab escis, sed a cunctis illecebris abstinere*. Sed hoc pertinet ad omnem virtutem. Ergo ieiunium non est actus specialiter abstinentiae.]]
 ![[CERF IIa-IIæ, q. 147, a. 2#arg. 1]]
 
 ###### arg. 2

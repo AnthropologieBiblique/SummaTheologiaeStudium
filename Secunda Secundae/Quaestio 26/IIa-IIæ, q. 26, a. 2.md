@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 26, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Deus non sit magis diligendus quam proximus. Dicitur enim [[1 Jn 4]], *qui non diligit fratrem suum, quem videt, Deum, quem non videt, quomodo potest diligere?* Ex quo videtur quod illud sit magis diligibile quod est magis visibile, nam et visio est principium amoris, ut dicitur IX Ethic. Sed Deus est minus visibilis quam proximus. Ergo etiam est minus ex caritate diligibilis.]]
+![[LEO IIa-IIæ, q. 26, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Deus non sit magis diligendus quam proximus. Dicitur enim I Ioan. IV, *qui non diligit fratrem suum, quem videt, Deum, quem non videt, quomodo potest diligere?* Ex quo videtur quod illud sit magis diligibile quod est magis visibile, nam et visio est principium amoris, ut dicitur IX Ethic. Sed Deus est minus visibilis quam proximus. Ergo etiam est minus ex caritate diligibilis.]]
 ![[CERF IIa-IIæ, q. 26, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 26, a. 2#arg. 2|Praeterea, similitudo est causa dilectionis, secundum illud [[Si 13]], *omne animal diligit simile sibi*. Sed maior est similitudo hominis ad proximum suum quam ad Deum. Ergo homo ex caritate magis diligit proximum quam Deum.]]
+![[LEO IIa-IIæ, q. 26, a. 2#arg. 2|Praeterea, similitudo est causa dilectionis, secundum illud Eccli. XIII, *omne animal diligit simile sibi*. Sed maior est similitudo hominis ad proximum suum quam ad Deum. Ergo homo ex caritate magis diligit proximum quam Deum.]]
 ![[CERF IIa-IIæ, q. 26, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 26, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 26, a. 2#s.c.|Sed contra, illud magis est diligendum propter quod aliqua odio sunt habenda. Sed proximi sunt odio habendi propter Deum, si scilicet a Deo abducunt, secundum illud [[Lc 14]], *si quis venit ad me et non odit patrem et matrem et uxorem et filios et fratres et sorores, non potest meus esse discipulus*. Ergo Deus est magis ex caritate diligendus quam proximus.]]
+![[LEO IIa-IIæ, q. 26, a. 2#s.c.|Sed contra, illud magis est diligendum propter quod aliqua odio sunt habenda. Sed proximi sunt odio habendi propter Deum, si scilicet a Deo abducunt, secundum illud Luc. XIV, *si quis venit ad me et non odit patrem et matrem et uxorem et filios et fratres et sorores, non potest meus esse discipulus*. Ergo Deus est magis ex caritate diligendus quam proximus.]]
 ![[CERF IIa-IIæ, q. 26, a. 2#s.c.]]
 
 ###### resp.

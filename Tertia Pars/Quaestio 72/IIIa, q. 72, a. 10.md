@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 72, a. 10#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 72, a. 10#resp.|Respondeo dicendum quod, sicut dictum est, hoc sacramentum exhibetur homini ad robur pugnae spiritualis. Sicut autem aliquis de novo natus indiget instructore in his quae pertinent ad conversationem vitae, secundum illud [[He 12]], *patres quidem carnis nostrae habuimus eruditores, et obtemperabamus eis*; ita illi qui assumuntur ad pugnam, indigent eruditoribus a quibus instruantur de his quae pertinent ad modum certaminis; et ideo in bellis materialibus constituuntur duces et centuriones, per quos alii gubernentur. Et propter hoc etiam ille qui accipit hoc sacramentum, ab alio tenetur, quasi per alium in pugna erudiendus. Similiter etiam, quia per hoc sacramentum confertur homini perfectio spiritualis aetatis, sicut dictum est; ideo ille qui ad hoc sacramentum accedit, sustentatur, quasi adhuc spiritualiter imbecillis et puer.]]
+![[LEO IIIa, q. 72, a. 10#resp.|Respondeo dicendum quod, sicut dictum est, hoc sacramentum exhibetur homini ad robur pugnae spiritualis. Sicut autem aliquis de novo natus indiget instructore in his quae pertinent ad conversationem vitae, secundum illud Heb. XII, *patres quidem carnis nostrae habuimus eruditores, et obtemperabamus eis*; ita illi qui assumuntur ad pugnam, indigent eruditoribus a quibus instruantur de his quae pertinent ad modum certaminis; et ideo in bellis materialibus constituuntur duces et centuriones, per quos alii gubernentur. Et propter hoc etiam ille qui accipit hoc sacramentum, ab alio tenetur, quasi per alium in pugna erudiendus. Similiter etiam, quia per hoc sacramentum confertur homini perfectio spiritualis aetatis, sicut dictum est; ideo ille qui ad hoc sacramentum accedit, sustentatur, quasi adhuc spiritualiter imbecillis et puer.]]
 ![[CERF IIIa, q. 72, a. 10#resp.]]
 
 ###### ad 1
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 72, a. 10#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 72, a. 10#ad 3|Ad tertium dicendum quod, sicut dicitur [[Col 3]], *in Christo Iesu non est masculus neque femina*. Et ideo non differt utrum masculus vel femina teneat aliquem in confirmatione.]]
+![[LEO IIIa, q. 72, a. 10#ad 3|Ad tertium dicendum quod, sicut dicitur Coloss. III, *in Christo Iesu non est masculus neque femina*. Et ideo non differt utrum masculus vel femina teneat aliquem in confirmatione.]]
 ![[CERF IIIa, q. 72, a. 10#ad 3]]
 

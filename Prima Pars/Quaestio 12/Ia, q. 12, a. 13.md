@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 12, a. 13#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 12, a. 13#s.c.|Sed contra est quod dicit apostolus, [[1 Co 2]], *nobis revelavit Deus per spiritum suum*, illa scilicet quae nemo principum huius saeculi novit, idest philosophorum, ut exponit Glossa.]]
+![[LEO Ia, q. 12, a. 13#s.c.|Sed contra est quod dicit apostolus, I Cor. II, *nobis revelavit Deus per spiritum suum*, illa scilicet quae nemo principum huius saeculi novit, idest philosophorum, ut exponit Glossa.]]
 ![[CERF Ia, q. 12, a. 13#s.c.]]
 
 ###### resp.

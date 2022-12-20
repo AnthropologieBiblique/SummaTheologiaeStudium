@@ -10,11 +10,11 @@ tags :
 ![[CERF Ia-IIæ, q. 69, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 69, a. 2#arg. 2|Praeterea, [[Lc 6]], ponuntur quaedam poenae per oppositum ad beatitudines, cum dicitur, *vae vobis qui saturati estis, quia esurietis. Vae vobis qui ridetis nunc, quia lugebitis et flebitis*. Sed istae poenae non intelliguntur in hac vita, quia frequenter homines in hac vita non puniuntur, secundum illud [[Jb 21]], *ducunt in bonis dies suos*. Ergo nec praemia beatitudinum pertinent ad hanc vitam.]]
+![[LEO Ia-IIæ, q. 69, a. 2#arg. 2|Praeterea, Luc. VI, ponuntur quaedam poenae per oppositum ad beatitudines, cum dicitur, *vae vobis qui saturati estis, quia esurietis. Vae vobis qui ridetis nunc, quia lugebitis et flebitis*. Sed istae poenae non intelliguntur in hac vita, quia frequenter homines in hac vita non puniuntur, secundum illud Iob XXI, *ducunt in bonis dies suos*. Ergo nec praemia beatitudinum pertinent ad hanc vitam.]]
 ![[CERF Ia-IIæ, q. 69, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 69, a. 2#arg. 3|Praeterea, regnum caelorum, quod ponitur praemium paupertatis, est beatitudo caelestis; ut Augustinus dicit, XIX de Civ. Dei. Plena etiam saturitas non nisi in futura vita habetur; secundum illud [[Ps 16]], *satiabor cum apparuerit gloria tua*. Visio etiam Dei, et manifestatio filiationis divinae, ad vitam futuram pertinent; secundum illud [[1 Jn 3]], *nunc filii Dei sumus, et nondum apparuit quid erimus. Scimus quoniam cum apparuerit, similes ei erimus, quoniam videbimus eum sicuti est*. Ergo praemia illa pertinent ad vitam futuram.]]
+![[LEO Ia-IIæ, q. 69, a. 2#arg. 3|Praeterea, regnum caelorum, quod ponitur praemium paupertatis, est beatitudo caelestis; ut Augustinus dicit, XIX de Civ. Dei. Plena etiam saturitas non nisi in futura vita habetur; secundum illud Psalmi XVI, *satiabor cum apparuerit gloria tua*. Visio etiam Dei, et manifestatio filiationis divinae, ad vitam futuram pertinent; secundum illud I Ioan. III, *nunc filii Dei sumus, et nondum apparuit quid erimus. Scimus quoniam cum apparuerit, similes ei erimus, quoniam videbimus eum sicuti est*. Ergo praemia illa pertinent ad vitam futuram.]]
 ![[CERF Ia-IIæ, q. 69, a. 2#arg. 3]]
 
 ###### s.c.
@@ -26,11 +26,11 @@ tags :
 ![[CERF Ia-IIæ, q. 69, a. 2#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 69, a. 2#ad 1|Ad primum ergo dicendum quod spes est de futura beatitudine sicut de ultimo fine, potest etiam esse et de auxilio gratiae, sicut de eo quod ducit ad finem, secundum illud [[Ps 27]], *in Deo speravit cor meum, et adiutus sum*.]]
+![[LEO Ia-IIæ, q. 69, a. 2#ad 1|Ad primum ergo dicendum quod spes est de futura beatitudine sicut de ultimo fine, potest etiam esse et de auxilio gratiae, sicut de eo quod ducit ad finem, secundum illud Psalmi XXVII, *in Deo speravit cor meum, et adiutus sum*.]]
 ![[CERF Ia-IIæ, q. 69, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 69, a. 2#ad 2|Ad secundum dicendum quod mali, etsi interdum in hac vita temporales poenas non patiantur, patiuntur tamen spirituales. Unde Augustinus dicit, in I Confess., *iussisti, domine, et sic est, ut poena sibi sit inordinatus animus*. Et philosophus dicit, in IX Ethic., de malis, quod *contendit ipsorum anima, et hoc quidem huc trahit, illud autem illuc*; et postea concludit, *si autem sic miserum est malum esse, fugiendum est malitiam intense*. Et similiter e converso boni, etsi in hac vita quandoque non habeant corporalia praemia, nunquam tamen deficiunt a spiritualibus, etiam in hac vita; secundum illud [[Mt 19]], et [[Mc 10]], *centuplum accipietis etiam in hoc saeculo*.]]
+![[LEO Ia-IIæ, q. 69, a. 2#ad 2|Ad secundum dicendum quod mali, etsi interdum in hac vita temporales poenas non patiantur, patiuntur tamen spirituales. Unde Augustinus dicit, in I Confess., *iussisti, domine, et sic est, ut poena sibi sit inordinatus animus*. Et philosophus dicit, in IX Ethic., de malis, quod *contendit ipsorum anima, et hoc quidem huc trahit, illud autem illuc*; et postea concludit, *si autem sic miserum est malum esse, fugiendum est malitiam intense*. Et similiter e converso boni, etsi in hac vita quandoque non habeant corporalia praemia, nunquam tamen deficiunt a spiritualibus, etiam in hac vita; secundum illud Matth. XIX, et Marc. X, *centuplum accipietis etiam in hoc saeculo*.]]
 ![[CERF Ia-IIæ, q. 69, a. 2#ad 2]]
 
 ###### ad 3

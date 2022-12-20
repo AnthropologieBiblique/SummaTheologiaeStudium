@@ -6,11 +6,11 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 83, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod non debeamus pro inimicis orare. Quia, ut dicitur [[Rm 15]], *quaecumque scripta sunt, ad nostram doctrinam scripta sunt*. Sed in sacra Scriptura inducuntur multae imprecationes contra inimicos, dicitur enim in Psalm., *erubescant et conturbentur omnes inimici mei, erubescant et conturbentur valde velociter*. Ergo et nos debemus orare contra inimicos, magis quam pro eis.]]
+![[LEO IIa-IIæ, q. 83, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod non debeamus pro inimicis orare. Quia, ut dicitur Rom. XV, *quaecumque scripta sunt, ad nostram doctrinam scripta sunt*. Sed in sacra Scriptura inducuntur multae imprecationes contra inimicos, dicitur enim in Psalm., *erubescant et conturbentur omnes inimici mei, erubescant et conturbentur valde velociter*. Ergo et nos debemus orare contra inimicos, magis quam pro eis.]]
 ![[CERF IIa-IIæ, q. 83, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 83, a. 8#arg. 2|Praeterea, vindicari de inimicis in malum inimicorum cedit. Sed sancti vindictam de inimicis petunt, secundum illud [[Ap 6]], *usquequo non vindicas sanguinem nostrum de his qui habitant in terra?* Unde et de vindicta impiorum laetantur, secundum illud Psalm., *laetabitur iustus cum viderit vindictam*. Ergo non est orandum pro inimicis, sed magis contra eos.]]
+![[LEO IIa-IIæ, q. 83, a. 8#arg. 2|Praeterea, vindicari de inimicis in malum inimicorum cedit. Sed sancti vindictam de inimicis petunt, secundum illud Apoc. VI, *usquequo non vindicas sanguinem nostrum de his qui habitant in terra?* Unde et de vindicta impiorum laetantur, secundum illud Psalm., *laetabitur iustus cum viderit vindictam*. Ergo non est orandum pro inimicis, sed magis contra eos.]]
 ![[CERF IIa-IIæ, q. 83, a. 8#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 83, a. 8#s.c.|Sed contra est quod dicitur [[Mt 5]], *orate pro persequentibus et calumniantibus vos*.]]
+![[LEO IIa-IIæ, q. 83, a. 8#s.c.|Sed contra est quod dicitur Matth. V, *orate pro persequentibus et calumniantibus vos*.]]
 ![[CERF IIa-IIæ, q. 83, a. 8#s.c.]]
 
 ###### resp.

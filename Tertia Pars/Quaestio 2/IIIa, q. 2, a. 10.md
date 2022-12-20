@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 2, a. 10#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 2, a. 10#arg. 2|Praeterea, gratiae subiectum est anima. Sed sicut dicitur [[Col 2]], *in Christo habitavit plenitudo divinitatis corporaliter*. Ergo videtur quod illa unio non sit facta per gratiam.]]
+![[LEO IIIa, q. 2, a. 10#arg. 2|Praeterea, gratiae subiectum est anima. Sed sicut dicitur Coloss. II, *in Christo habitavit plenitudo divinitatis corporaliter*. Ergo videtur quod illa unio non sit facta per gratiam.]]
 ![[CERF IIIa, q. 2, a. 10#arg. 2]]
 
 ###### arg. 3

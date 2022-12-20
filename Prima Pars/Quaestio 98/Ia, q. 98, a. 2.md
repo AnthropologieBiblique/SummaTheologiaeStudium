@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 98, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod in statu innocentiae non fuisset generatio per coitum. Quia, ut Damascenus dicit, primus homo erat in Paradiso terrestri sicut Angelus quidam. Sed in futuro resurrectionis statu, quando erunt homines Angelis similes, neque nubent neque nubentur, ut dicitur [[Mt 22]]. Ergo neque in Paradiso fuisset generatio per coitum.]]
+![[LEO Ia, q. 98, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod in statu innocentiae non fuisset generatio per coitum. Quia, ut Damascenus dicit, primus homo erat in Paradiso terrestri sicut Angelus quidam. Sed in futuro resurrectionis statu, quando erunt homines Angelis similes, neque nubent neque nubentur, ut dicitur Matth. XXII. Ergo neque in Paradiso fuisset generatio per coitum.]]
 ![[CERF Ia, q. 98, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 98, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 98, a. 2#arg. 3|Praeterea, in coniunctione carnali maxime efficitur homo similis bestiis, propter vehementiam delectationis, unde etiam continentia laudatur, per quam homines ab huiusmodi delectationibus abstinent. Sed bestiis homo comparatur propter peccatum, secundum illud [[Ps 48]], *homo cum in honore esset, non intellexit, comparatus est iumentis insipientibus, et similis factus est illis*. Ergo ante peccatum non fuisset maris et feminae carnalis coniunctio.]]
+![[LEO Ia, q. 98, a. 2#arg. 3|Praeterea, in coniunctione carnali maxime efficitur homo similis bestiis, propter vehementiam delectationis, unde etiam continentia laudatur, per quam homines ab huiusmodi delectationibus abstinent. Sed bestiis homo comparatur propter peccatum, secundum illud Psalmi XLVIII, *homo cum in honore esset, non intellexit, comparatus est iumentis insipientibus, et similis factus est illis*. Ergo ante peccatum non fuisset maris et feminae carnalis coniunctio.]]
 ![[CERF Ia, q. 98, a. 2#arg. 3]]
 
 ###### arg. 4
@@ -22,11 +22,11 @@ tags :
 ![[CERF Ia, q. 98, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 98, a. 2#s.c.|Sed contra est quod Deus ante peccatum masculum et feminam fecit, ut dicitur [[Gn 1]] et II. Nihil autem est frustra in operibus Dei. Ergo etiam si homo non peccasset, fuisset coitus, ad quem distinctio sexuum ordinatur.]]
+![[LEO Ia, q. 98, a. 2#s.c.|Sed contra est quod Deus ante peccatum masculum et feminam fecit, ut dicitur Gen. I et II. Nihil autem est frustra in operibus Dei. Ergo etiam si homo non peccasset, fuisset coitus, ad quem distinctio sexuum ordinatur.]]
 ![[CERF Ia, q. 98, a. 2#s.c.]]
 
 ###### s.c.
-![[LEO Ia, q. 98, a. 2#s.c.|Praeterea, [[Gn 2]], dicitur mulier esse facta in adiutorium viri. Sed non ad aliud nisi ad generationem quae fit per coitum, quia ad quodlibet aliud opus, convenientius adiuvari posset vir per virum quam per feminam. Ergo etiam in statu innocentiae fuisset generatio per coitum.]]
+![[LEO Ia, q. 98, a. 2#s.c.|Praeterea, Gen. II, dicitur mulier esse facta in adiutorium viri. Sed non ad aliud nisi ad generationem quae fit per coitum, quia ad quodlibet aliud opus, convenientius adiuvari posset vir per virum quam per feminam. Ergo etiam in statu innocentiae fuisset generatio per coitum.]]
 ![[CERF Ia, q. 98, a. 2#s.c.]]
 
 ###### resp.

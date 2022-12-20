@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 66, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 66, a. 3#arg. 3|Praeterea, sacramenta Ecclesiae fluxerunt de latere Christi pendentis in cruce, ut supra dictum est. Sed inde fluxit non solum aqua, sed etiam sanguis. Ergo videtur quod etiam in sanguine possit fieri Baptismus. Quod etiam magis videtur convenire cum effectu Baptismi, quia dicitur [[Ap 1]], *lavit nos a peccatis nostris in sanguine suo*.]]
+![[LEO IIIa, q. 66, a. 3#arg. 3|Praeterea, sacramenta Ecclesiae fluxerunt de latere Christi pendentis in cruce, ut supra dictum est. Sed inde fluxit non solum aqua, sed etiam sanguis. Ergo videtur quod etiam in sanguine possit fieri Baptismus. Quod etiam magis videtur convenire cum effectu Baptismi, quia dicitur Apoc. I, *lavit nos a peccatis nostris in sanguine suo*.]]
 ![[CERF IIIa, q. 66, a. 3#arg. 3]]
 
 ###### arg. 4
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 66, a. 3#arg. 5]]
 
 ###### s.c.
-![[LEO IIIa, q. 66, a. 3#s.c.|Sed contra est quod dominus dicit, [[Jn 3]], *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*.]]
+![[LEO IIIa, q. 66, a. 3#s.c.|Sed contra est quod dominus dicit, Ioan. III, *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*.]]
 ![[CERF IIIa, q. 66, a. 3#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIIa, q. 66, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 66, a. 3#ad 1|Ad primum ergo dicendum quod illuminatio pertinet ad ignem active. Ille autem qui baptizatur, non efficitur illuminans, sed illuminatus per fidem, quae est ex auditu, ut dicitur [[Rm 10]]. Et ideo magis competit aqua Baptismo quam ignis. Quod autem dicitur, baptizabit vos in spiritu sancto et igni, potest per ignem, ut Hieronymus dicit, intelligi spiritus sanctus, qui super discipulos in igneis linguis apparuit, ut dicitur [[Ac 2]]. Vel per ignem potest intelligi tribulatio, ut Chrysostomus dicit, super Matth., quia tribulatio peccata purgat, et concupiscentiam diminuit. Vel quia, ut Hilarius dicit, super Matth., *baptizatis in spiritu sancto reliquum est consummari igne iudicii*.]]
+![[LEO IIIa, q. 66, a. 3#ad 1|Ad primum ergo dicendum quod illuminatio pertinet ad ignem active. Ille autem qui baptizatur, non efficitur illuminans, sed illuminatus per fidem, quae est ex auditu, ut dicitur Rom. X. Et ideo magis competit aqua Baptismo quam ignis. Quod autem dicitur, baptizabit vos in spiritu sancto et igni, potest per ignem, ut Hieronymus dicit, intelligi spiritus sanctus, qui super discipulos in igneis linguis apparuit, ut dicitur Act. II. Vel per ignem potest intelligi tribulatio, ut Chrysostomus dicit, super Matth., quia tribulatio peccata purgat, et concupiscentiam diminuit. Vel quia, ut Hilarius dicit, super Matth., *baptizatis in spiritu sancto reliquum est consummari igne iudicii*.]]
 ![[CERF IIIa, q. 66, a. 3#ad 1]]
 
 ###### ad 2

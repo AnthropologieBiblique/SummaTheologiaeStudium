@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 64, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 64, a. 7#arg. 2|Praeterea, homines sancti assimilantur Angelis in caelo, ut dicitur [[Mt 22]]. Sed aliqui sancti in caelo existentes possunt ministrare in sacramentis, quia character sacramentalis est indelebilis, ut dictum est. Ergo videtur quod etiam Angeli in sacris possint ministrare.]]
+![[LEO IIIa, q. 64, a. 7#arg. 2|Praeterea, homines sancti assimilantur Angelis in caelo, ut dicitur Matth. XXII. Sed aliqui sancti in caelo existentes possunt ministrare in sacramentis, quia character sacramentalis est indelebilis, ut dictum est. Ergo videtur quod etiam Angeli in sacris possint ministrare.]]
 ![[CERF IIIa, q. 64, a. 7#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 64, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 64, a. 7#s.c.|Sed contra est quod dicitur [[He 5]], *omnis pontifex, ex hominibus assumptus, pro hominibus constituitur in his quae sunt ad Deum*. Sed Angeli boni vel mali non sunt ex hominibus. Ergo ipsi non constituuntur ministri in his quae sunt ad Deum, idest in sacramentis.]]
+![[LEO IIIa, q. 64, a. 7#s.c.|Sed contra est quod dicitur Heb. V, *omnis pontifex, ex hominibus assumptus, pro hominibus constituitur in his quae sunt ad Deum*. Sed Angeli boni vel mali non sunt ex hominibus. Ergo ipsi non constituuntur ministri in his quae sunt ad Deum, idest in sacramentis.]]
 ![[CERF IIIa, q. 64, a. 7#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 64, a. 7#resp.|Respondeo dicendum quod, sicut supra dictum est, tota virtus sacramentorum a passione Christi derivatur, quae est Christi secundum quod homo. Cui in natura conformantur homines, non autem Angeli, sed potius secundum passionem dicitur modico ab Angelis minoratus, ut patet [[He 2]]. Et ideo ad homines pertinet dispensare sacramenta et in eis ministrare, non autem ad Angelos. Sciendum tamen quod, sicut Deus virtutem suam non alligavit sacramentis quin possit sine sacramentis effectum sacramentorum conferre, ita etiam virtutem suam non alligavit Ecclesiae ministris, quin etiam Angelis possit virtutem tribuere ministrandi in sacramentis. Et quia boni Angeli sunt nuntii veritatis, si aliquod sacramentale ministerium a bonis Angelis perficeretur, esset ratum habendum, quia deberet constare hoc fieri voluntate divina, sicut quaedam templa dicuntur angelico ministerio consecrata. Si vero Daemones, qui sunt spiritus mendacii, aliquod sacramentale ministerium exhiberent, non esset ratum habendum.]]
+![[LEO IIIa, q. 64, a. 7#resp.|Respondeo dicendum quod, sicut supra dictum est, tota virtus sacramentorum a passione Christi derivatur, quae est Christi secundum quod homo. Cui in natura conformantur homines, non autem Angeli, sed potius secundum passionem dicitur modico ab Angelis minoratus, ut patet Heb. II. Et ideo ad homines pertinet dispensare sacramenta et in eis ministrare, non autem ad Angelos. Sciendum tamen quod, sicut Deus virtutem suam non alligavit sacramentis quin possit sine sacramentis effectum sacramentorum conferre, ita etiam virtutem suam non alligavit Ecclesiae ministris, quin etiam Angelis possit virtutem tribuere ministrandi in sacramentis. Et quia boni Angeli sunt nuntii veritatis, si aliquod sacramentale ministerium a bonis Angelis perficeretur, esset ratum habendum, quia deberet constare hoc fieri voluntate divina, sicut quaedam templa dicuntur angelico ministerio consecrata. Si vero Daemones, qui sunt spiritus mendacii, aliquod sacramentale ministerium exhiberent, non esset ratum habendum.]]
 ![[CERF IIIa, q. 64, a. 7#resp.]]
 
 ###### ad 1

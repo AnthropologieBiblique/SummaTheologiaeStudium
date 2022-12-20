@@ -10,15 +10,15 @@ tags :
 ![[CERF Ia, q. 9, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 9, a. 1#arg. 2|Praeterea, [[Sg 7]] dicitur de sapientia quod est *mobilior omnibus mobilibus*. Sed Deus est ipsa sapientia. Ergo Deus est mobilis.]]
+![[LEO Ia, q. 9, a. 1#arg. 2|Praeterea, Sap. VII dicitur de sapientia quod est *mobilior omnibus mobilibus*. Sed Deus est ipsa sapientia. Ergo Deus est mobilis.]]
 ![[CERF Ia, q. 9, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 9, a. 1#arg. 3|Praeterea, appropinquari et elongari motum significant. Huiusmodi autem dicuntur de Deo in Scriptura, [[Jc 4]], *appropinquate Deo, et appropinquabit vobis*. Ergo Deus est mutabilis.]]
+![[LEO Ia, q. 9, a. 1#arg. 3|Praeterea, appropinquari et elongari motum significant. Huiusmodi autem dicuntur de Deo in Scriptura, Iac. IV, *appropinquate Deo, et appropinquabit vobis*. Ergo Deus est mutabilis.]]
 ![[CERF Ia, q. 9, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 9, a. 1#s.c.|Sed contra est quod dicitur [[Ml 3]], *ego Deus, et non mutor*.]]
+![[LEO Ia, q. 9, a. 1#s.c.|Sed contra est quod dicitur Malach. III, *ego Deus, et non mutor*.]]
 ![[CERF Ia, q. 9, a. 1#s.c.]]
 
 ###### resp.

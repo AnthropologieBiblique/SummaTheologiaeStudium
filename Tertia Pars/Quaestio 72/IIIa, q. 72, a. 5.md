@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 72, a. 5#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 72, a. 5#ad 1|Ad primum ergo dicendum quod pugna spiritualis contra hostes invisibiles omnibus competit. Sed contra hostes visibiles, idest contra persecutores fidei pugnare, nomen Christi confitendo, est confirmatorum, qui iam sunt perducti spiritualiter ad virilem aetatem, secundum quod dicitur [[1 Jn 2]], *scribo vobis, iuvenes, quoniam fortes estis, et verbum Dei in vobis manet, et vicistis malignum*. Et ideo character confirmationis est signum distinctivum, non infidelium a fidelibus, sed spiritualiter provectorum ab his quibus dicitur, *sicut modo geniti infantes*.]]
+![[LEO IIIa, q. 72, a. 5#ad 1|Ad primum ergo dicendum quod pugna spiritualis contra hostes invisibiles omnibus competit. Sed contra hostes visibiles, idest contra persecutores fidei pugnare, nomen Christi confitendo, est confirmatorum, qui iam sunt perducti spiritualiter ad virilem aetatem, secundum quod dicitur I Ioan. II, *scribo vobis, iuvenes, quoniam fortes estis, et verbum Dei in vobis manet, et vicistis malignum*. Et ideo character confirmationis est signum distinctivum, non infidelium a fidelibus, sed spiritualiter provectorum ab his quibus dicitur, *sicut modo geniti infantes*.]]
 ![[CERF IIIa, q. 72, a. 5#ad 1]]
 
 ###### ad 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 72, a. 5#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 72, a. 5#ad 3|Ad tertium dicendum quod sacramenta veteris legis dicuntur iustitia carnis, ut patet [[He 9]], quia scilicet interius nihil efficiebant. Et ideo in circumcisione imprimebatur character solum in corpore, non autem in anima. Sed in confirmatione cum charactere corporali imprimitur simul character spiritualis, eo quod est sacramentum novae legis.]]
+![[LEO IIIa, q. 72, a. 5#ad 3|Ad tertium dicendum quod sacramenta veteris legis dicuntur iustitia carnis, ut patet Heb. IX, quia scilicet interius nihil efficiebant. Et ideo in circumcisione imprimebatur character solum in corpore, non autem in anima. Sed in confirmatione cum charactere corporali imprimitur simul character spiritualis, eo quod est sacramentum novae legis.]]
 ![[CERF IIIa, q. 72, a. 5#ad 3]]
 

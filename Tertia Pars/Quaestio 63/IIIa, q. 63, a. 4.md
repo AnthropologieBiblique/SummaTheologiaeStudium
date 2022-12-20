@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 63, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 63, a. 4#ad 1|Ad primum ergo dicendum quod subiectum alicui accidenti attribuitur secundum rationem eius ad quod propinque disponit, non autem secundum rationem eius ad quod disponit remote vel indirecte. Character autem directe quidem et propinque disponit animam ad ea quae sunt divini cultus exequenda, et quia haec idonee non fiunt sine auxilio gratiae, quia, ut dicitur [[Jn 4]], *eos qui adorant Deum, in spiritu et veritate adorare oportet*, ex consequenti divina largitas recipientibus characterem gratiam largitur, per quam digne impleant ea ad quae deputantur. Et ideo characteri magis est attribuendum subiectum secundum rationem actuum ad divinum cultum pertinentium, quam secundum rationem gratiae.]]
+![[LEO IIIa, q. 63, a. 4#ad 1|Ad primum ergo dicendum quod subiectum alicui accidenti attribuitur secundum rationem eius ad quod propinque disponit, non autem secundum rationem eius ad quod disponit remote vel indirecte. Character autem directe quidem et propinque disponit animam ad ea quae sunt divini cultus exequenda, et quia haec idonee non fiunt sine auxilio gratiae, quia, ut dicitur Ioan. IV, *eos qui adorant Deum, in spiritu et veritate adorare oportet*, ex consequenti divina largitas recipientibus characterem gratiam largitur, per quam digne impleant ea ad quae deputantur. Et ideo characteri magis est attribuendum subiectum secundum rationem actuum ad divinum cultum pertinentium, quam secundum rationem gratiae.]]
 ![[CERF IIIa, q. 63, a. 4#ad 1]]
 
 ###### ad 2

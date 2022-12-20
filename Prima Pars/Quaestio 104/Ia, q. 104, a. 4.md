@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 104, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 104, a. 4#s.c.|Sed contra est quod dicitur [[Qo 3]]. *Didici quod omnia opera quae fecit Deus, perseverant in aeternum*.]]
+![[LEO Ia, q. 104, a. 4#s.c.|Sed contra est quod dicitur Eccle. III. *Didici quod omnia opera quae fecit Deus, perseverant in aeternum*.]]
 ![[CERF Ia, q. 104, a. 4#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 104, a. 4#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 104, a. 4#ad 1|Ad primum ergo dicendum quod hoc quod res in esse productae sunt, postquam non fuerunt, declarat potentiam producentis. Sed quod in nihilum redigerentur, huiusmodi manifestationem impediret, cum Dei potentia in hoc maxime ostendatur, quod res in esse conservat, secundum illud apostoli [[He 1]], *portans omnia verbo virtutis suae*.]]
+![[LEO Ia, q. 104, a. 4#ad 1|Ad primum ergo dicendum quod hoc quod res in esse productae sunt, postquam non fuerunt, declarat potentiam producentis. Sed quod in nihilum redigerentur, huiusmodi manifestationem impediret, cum Dei potentia in hoc maxime ostendatur, quod res in esse conservat, secundum illud apostoli Heb. I, *portans omnia verbo virtutis suae*.]]
 ![[CERF Ia, q. 104, a. 4#ad 1]]
 
 ###### ad 2

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 103, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 103, a. 2#s.c.|Sed contra est quod dicitur [[Pr 16]], *universa propter se operatus est dominus*. Ipse autem est extra totum ordinem universi. Ergo finis rerum est quoddam bonum extrinsecum.]]
+![[LEO Ia, q. 103, a. 2#s.c.|Sed contra est quod dicitur Prov. XVI, *universa propter se operatus est dominus*. Ipse autem est extra totum ordinem universi. Ergo finis rerum est quoddam bonum extrinsecum.]]
 ![[CERF Ia, q. 103, a. 2#s.c.]]
 
 ###### resp.

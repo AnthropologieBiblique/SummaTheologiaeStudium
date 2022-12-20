@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 108, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 108, a. 2#ad 3|Ad tertium dicendum quod vindicationi opponuntur duo vitia. Unum quidem per excessum, scilicet peccatum crudelitatis vel saevitiae, quae excedit mensuram in puniendo. Aliud autem est vitium quod consistit in defectu, sicut cum aliquis est nimis remissus in puniendo, unde dicitur [[Pr 13]], *qui parcit virgae, odit filium suum*. Virtus autem vindicationis consistit ut homo secundum omnes circumstantias debitam mensuram in vindicando conservet.]]
+![[LEO IIa-IIæ, q. 108, a. 2#ad 3|Ad tertium dicendum quod vindicationi opponuntur duo vitia. Unum quidem per excessum, scilicet peccatum crudelitatis vel saevitiae, quae excedit mensuram in puniendo. Aliud autem est vitium quod consistit in defectu, sicut cum aliquis est nimis remissus in puniendo, unde dicitur Prov. XIII, *qui parcit virgae, odit filium suum*. Virtus autem vindicationis consistit ut homo secundum omnes circumstantias debitam mensuram in vindicando conservet.]]
 ![[CERF IIa-IIæ, q. 108, a. 2#ad 3]]
 

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 13, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 13, a. 1#arg. 2|Praeterea, ad [[Ep 4]], super illud, *blasphemia tollatur a vobis*, dicit Glossa, quae fit in Deum vel in sanctos. Sed confessio fidei non videtur esse nisi de his quae pertinent ad Deum, qui est fidei obiectum. Ergo blasphemia non semper opponitur confessioni fidei.]]
+![[LEO IIa-IIæ, q. 13, a. 1#arg. 2|Praeterea, ad Ephes. IV, super illud, *blasphemia tollatur a vobis*, dicit Glossa, quae fit in Deum vel in sanctos. Sed confessio fidei non videtur esse nisi de his quae pertinent ad Deum, qui est fidei obiectum. Ergo blasphemia non semper opponitur confessioni fidei.]]
 ![[CERF IIa-IIæ, q. 13, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 13, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 13, a. 1#s.c.|Sed contra est quod apostolus dicit, [[1 Tm 1]], *prius fui blasphemus et persecutor*; et postea subdit, *ignorans feci in incredulitate*. Ex quo videtur quod blasphemia ad infidelitatem pertineat.]]
+![[LEO IIa-IIæ, q. 13, a. 1#s.c.|Sed contra est quod apostolus dicit, I ad Tim. I, *prius fui blasphemus et persecutor*; et postea subdit, *ignorans feci in incredulitate*. Ex quo videtur quod blasphemia ad infidelitatem pertineat.]]
 ![[CERF IIa-IIæ, q. 13, a. 1#s.c.]]
 
 ###### resp.

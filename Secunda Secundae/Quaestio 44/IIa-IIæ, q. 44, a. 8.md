@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 44, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 44, a. 8#s.c.|Sed contra est quod illud quod Deus in nobis facit per gratiam, instruit per legis praecepta, secundum illud [[Jr 31]], *dabo legem meam in cordibus eorum*. Sed Deus causat in nobis ordinem caritatis, secundum illud [[Ct 2]], *ordinavit in me caritatem*. Ergo ordo caritatis sub praecepto legis cadit.]]
+![[LEO IIa-IIæ, q. 44, a. 8#s.c.|Sed contra est quod illud quod Deus in nobis facit per gratiam, instruit per legis praecepta, secundum illud Ierem. XXXI, *dabo legem meam in cordibus eorum*. Sed Deus causat in nobis ordinem caritatis, secundum illud Cant. II, *ordinavit in me caritatem*. Ergo ordo caritatis sub praecepto legis cadit.]]
 ![[CERF IIa-IIæ, q. 44, a. 8#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 44, a. 8#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 44, a. 8#ad 2|Ad secundum dicendum quod ordo quatuor diligendorum ex caritate in sacra Scriptura exprimitur. Nam cum mandatur quod Deum ex toto corde diligamus, datur intelligi quod Deum super omnia debemus diligere. Cum autem mandatur quod aliquis diligat proximum sicut seipsum, praefertur dilectio sui ipsius dilectioni proximi. Similiter etiam cum mandatur, [[1 Jn 3]], quod debemus pro fratribus animam ponere, idest vitam corporalem, datur intelligi quod proximum plus debemus diligere quam corpus proprium. Similiter etiam cum mandatur, ad Gal. ult., quod maxime operemur bonum ad domesticos fidei; et [[1 Tm 5]] vituperatur *qui non habet curam suorum, et maxime domesticorum*; datur intelligi quod inter proximos, meliores et magis propinquos magis debemus diligere.]]
+![[LEO IIa-IIæ, q. 44, a. 8#ad 2|Ad secundum dicendum quod ordo quatuor diligendorum ex caritate in sacra Scriptura exprimitur. Nam cum mandatur quod Deum ex toto corde diligamus, datur intelligi quod Deum super omnia debemus diligere. Cum autem mandatur quod aliquis diligat proximum sicut seipsum, praefertur dilectio sui ipsius dilectioni proximi. Similiter etiam cum mandatur, I Ioan. III, quod debemus pro fratribus animam ponere, idest vitam corporalem, datur intelligi quod proximum plus debemus diligere quam corpus proprium. Similiter etiam cum mandatur, ad Gal. ult., quod maxime operemur bonum ad domesticos fidei; et I ad Tim. V vituperatur *qui non habet curam suorum, et maxime domesticorum*; datur intelligi quod inter proximos, meliores et magis propinquos magis debemus diligere.]]
 ![[CERF IIa-IIæ, q. 44, a. 8#ad 2]]
 
 ###### ad 3

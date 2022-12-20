@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 95, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 95, a. 4#arg. 2|Praeterea, ad meritum requiritur pugna quaedam et difficultas. Dicitur enim [[2 Tm 2]], *non coronabitur nisi qui legitime certaverit*. Et philosophus dicit, in II Ethic., quod *virtus est circa difficile et bonum*. Sed nunc est maior pugna et difficultas. Ergo et maior efficacia ad merendum.]]
+![[LEO Ia, q. 95, a. 4#arg. 2|Praeterea, ad meritum requiritur pugna quaedam et difficultas. Dicitur enim II ad Tim. II, *non coronabitur nisi qui legitime certaverit*. Et philosophus dicit, in II Ethic., quod *virtus est circa difficile et bonum*. Sed nunc est maior pugna et difficultas. Ergo et maior efficacia ad merendum.]]
 ![[CERF Ia, q. 95, a. 4#arg. 2]]
 
 ###### arg. 3

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 26, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 26, a. 6#s.c.|Sed contra est quod tanto unusquisque magis debet diligi, quanto gravius peccat qui contra eius dilectionem operatur. Sed gravius peccat qui agit contra dilectionem aliquorum proximorum quam qui agit contra dilectionem aliorum, unde [[Lv 20]] praecipitur quod *qui maledixerit patri aut matri, morte moriatur*, quod non praecipitur de his qui alios homines maledicunt. Ergo quosdam proximorum magis debemus diligere quam alios.]]
+![[LEO IIa-IIæ, q. 26, a. 6#s.c.|Sed contra est quod tanto unusquisque magis debet diligi, quanto gravius peccat qui contra eius dilectionem operatur. Sed gravius peccat qui agit contra dilectionem aliquorum proximorum quam qui agit contra dilectionem aliorum, unde Levit. XX praecipitur quod *qui maledixerit patri aut matri, morte moriatur*, quod non praecipitur de his qui alios homines maledicunt. Ergo quosdam proximorum magis debemus diligere quam alios.]]
 ![[CERF IIa-IIæ, q. 26, a. 6#s.c.]]
 
 ###### resp.

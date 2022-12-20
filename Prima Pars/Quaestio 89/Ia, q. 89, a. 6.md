@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 89, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 89, a. 6#s.c.|Sed contra est quod [[Lc 16]], dicitur ad divitem in Inferno positum, *recordare quia recepisti bona in vita tua*.]]
+![[LEO Ia, q. 89, a. 6#s.c.|Sed contra est quod Luc. XVI, dicitur ad divitem in Inferno positum, *recordare quia recepisti bona in vita tua*.]]
 ![[CERF Ia, q. 89, a. 6#s.c.]]
 
 ###### resp.

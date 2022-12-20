@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 72, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod divisio peccatorum quae est secundum reatum, diversificet speciem, puta cum dividitur secundum veniale et mortale. Ea enim quae in infinitum differunt, non possunt esse unius speciei, nec etiam unius generis. Sed veniale et mortale peccatum differunt in infinitum, veniali enim debetur poena temporalis, mortali poena aeterna; mensura autem poenae respondet quantitati culpae, secundum illud [[Dt 25]], *pro mensura delicti erit et plagarum modus*. Ergo veniale et mortale non sunt unius generis, nedum quod sint unius speciei.]]
+![[LEO Ia-IIæ, q. 72, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod divisio peccatorum quae est secundum reatum, diversificet speciem, puta cum dividitur secundum veniale et mortale. Ea enim quae in infinitum differunt, non possunt esse unius speciei, nec etiam unius generis. Sed veniale et mortale peccatum differunt in infinitum, veniali enim debetur poena temporalis, mortali poena aeterna; mensura autem poenae respondet quantitati culpae, secundum illud Deut. XXV, *pro mensura delicti erit et plagarum modus*. Ergo veniale et mortale non sunt unius generis, nedum quod sint unius speciei.]]
 ![[CERF Ia-IIæ, q. 72, a. 5#arg. 1]]
 
 ###### arg. 2

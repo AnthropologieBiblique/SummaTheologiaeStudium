@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 16, a. 8#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 16, a. 8#s.c.|Sed contra est quod dicitur in [[Ps 11]], *diminutae sunt veritates a filiis hominum*.]]
+![[LEO Ia, q. 16, a. 8#s.c.|Sed contra est quod dicitur in Psalmo XI, *diminutae sunt veritates a filiis hominum*.]]
 ![[CERF Ia, q. 16, a. 8#s.c.]]
 
 ###### resp.

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 26, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 26, a. 5#arg. 3|Praeterea, unusquisque exponit id quod minus amat pro eo quod magis amat. Sed non omnis homo tenetur exponere corpus proprium pro salute proximi, sed hoc est perfectorum, secundum illud [[Jn 15]], *maiorem caritatem nemo habet quam ut animam suam ponat quis pro amicis suis*. Ergo homo non tenetur ex caritate plus diligere proximum quam corpus proprium.]]
+![[LEO IIa-IIæ, q. 26, a. 5#arg. 3|Praeterea, unusquisque exponit id quod minus amat pro eo quod magis amat. Sed non omnis homo tenetur exponere corpus proprium pro salute proximi, sed hoc est perfectorum, secundum illud Ioan. XV, *maiorem caritatem nemo habet quam ut animam suam ponat quis pro amicis suis*. Ergo homo non tenetur ex caritate plus diligere proximum quam corpus proprium.]]
 ![[CERF IIa-IIæ, q. 26, a. 5#arg. 3]]
 
 ###### s.c.

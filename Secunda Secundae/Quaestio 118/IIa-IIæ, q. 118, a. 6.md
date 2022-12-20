@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 118, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 118, a. 6#arg. 3|Praeterea, peccatum carnale est per quod etiam corpus hominis deordinatur, secundum illud apostoli, I ad Cor. VI, qui fornicatur in corpus suum peccat. Sed avaritia etiam hominem corporaliter vexat, unde et Chrysostomus, [[Mc 5]], comparat avarum daemoniaco, qui in corpore vexatur. Ergo avaritia non videtur esse peccatum spirituale.]]
+![[LEO IIa-IIæ, q. 118, a. 6#arg. 3|Praeterea, peccatum carnale est per quod etiam corpus hominis deordinatur, secundum illud apostoli, I ad Cor. VI, qui fornicatur in corpus suum peccat. Sed avaritia etiam hominem corporaliter vexat, unde et Chrysostomus, Marc. V, comparat avarum daemoniaco, qui in corpore vexatur. Ergo avaritia non videtur esse peccatum spirituale.]]
 ![[CERF IIa-IIæ, q. 118, a. 6#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 118, a. 6#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 118, a. 6#ad 3|Ad tertium dicendum quod Chrysostomus comparat avarum daemoniaco, non quia vexetur in carne sicut daemoniacus, sed per oppositum, quia sicut daemoniacus ille de quo legitur [[Mc 5]], se denudabat, ita avarus se superfluis divitiis onerat.]]
+![[LEO IIa-IIæ, q. 118, a. 6#ad 3|Ad tertium dicendum quod Chrysostomus comparat avarum daemoniaco, non quia vexetur in carne sicut daemoniacus, sed per oppositum, quia sicut daemoniacus ille de quo legitur Marc. V, se denudabat, ita avarus se superfluis divitiis onerat.]]
 ![[CERF IIa-IIæ, q. 118, a. 6#ad 3]]
 

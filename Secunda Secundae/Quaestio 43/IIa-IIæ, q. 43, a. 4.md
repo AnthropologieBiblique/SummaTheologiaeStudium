@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 43, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 43, a. 4#arg. 2|Praeterea, nulli peccato debetur poena damnationis aeternae nisi mortali. Sed scandalo debetur poena damnationis aeternae, secundum illud [[Mt 18]], *qui scandalizaverit unum de pusillis istis qui in me credunt, expedit ei ut suspendatur mola asinaria in collo eius et demergatur in profundum maris*. Quia, ut dicit Hieronymus, *multo melius est pro culpa brevem recipere poenam quam aeternis servari cruciatibus*. Ergo scandalum est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 43, a. 4#arg. 2|Praeterea, nulli peccato debetur poena damnationis aeternae nisi mortali. Sed scandalo debetur poena damnationis aeternae, secundum illud Matth. XVIII, *qui scandalizaverit unum de pusillis istis qui in me credunt, expedit ei ut suspendatur mola asinaria in collo eius et demergatur in profundum maris*. Quia, ut dicit Hieronymus, *multo melius est pro culpa brevem recipere poenam quam aeternis servari cruciatibus*. Ergo scandalum est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 43, a. 4#arg. 2]]
 
 ###### arg. 3

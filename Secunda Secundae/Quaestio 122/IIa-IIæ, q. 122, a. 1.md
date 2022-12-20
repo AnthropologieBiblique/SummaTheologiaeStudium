@@ -42,6 +42,6 @@ tags :
 ![[CERF IIa-IIæ, q. 122, a. 1#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 122, a. 1#ad 4|Ad quartum dicendum quod praecepta Decalogi pertinent ad caritatem sicut ad finem, secundum illud [[1 Tm 1]], *finis praecepti caritas est*. Sed ad iustitiam pertinent inquantum immediate sunt de actibus iustitiae.]]
+![[LEO IIa-IIæ, q. 122, a. 1#ad 4|Ad quartum dicendum quod praecepta Decalogi pertinent ad caritatem sicut ad finem, secundum illud I ad Tim. I, *finis praecepti caritas est*. Sed ad iustitiam pertinent inquantum immediate sunt de actibus iustitiae.]]
 ![[CERF IIa-IIæ, q. 122, a. 1#ad 4]]
 

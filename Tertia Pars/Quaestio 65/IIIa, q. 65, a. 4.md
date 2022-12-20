@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 65, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 65, a. 4#arg. 2|Praeterea, sicut de Baptismo dicitur, *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*, ita de Eucharistia dicitur, [[Jn 6]], *nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis*. Ergo, sicut Baptismus est sacramentum necessitatis, ita et Eucharistia.]]
+![[LEO IIIa, q. 65, a. 4#arg. 2|Praeterea, sicut de Baptismo dicitur, *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*, ita de Eucharistia dicitur, Ioan. VI, *nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis*. Ergo, sicut Baptismus est sacramentum necessitatis, ita et Eucharistia.]]
 ![[CERF IIIa, q. 65, a. 4#arg. 2]]
 
 ###### arg. 3

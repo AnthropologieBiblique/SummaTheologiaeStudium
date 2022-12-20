@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 19, a. 2#arg. 2|Praeterea, quilibet horum timorum vel est bonus vel malus. Sed est aliquis timor, scilicet naturalis, qui neque bonus est moraliter, cum sit in Daemonibus, secundum illud [[Jc 2]], *Daemones credunt et contremiscunt*; neque etiam est malus, cum sit in Christo, secundum illud [[Mc 14]] *coepit Iesus pavere et taedere*. Ergo timor insufficienter dividitur secundum praedicta.]]
+![[LEO IIa-IIæ, q. 19, a. 2#arg. 2|Praeterea, quilibet horum timorum vel est bonus vel malus. Sed est aliquis timor, scilicet naturalis, qui neque bonus est moraliter, cum sit in Daemonibus, secundum illud Iac. II, *Daemones credunt et contremiscunt*; neque etiam est malus, cum sit in Christo, secundum illud Marc. XIV *coepit Iesus pavere et taedere*. Ergo timor insufficienter dividitur secundum praedicta.]]
 ![[CERF IIa-IIæ, q. 19, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -42,7 +42,7 @@ tags :
 ![[CERF IIa-IIæ, q. 19, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 19, a. 2#ad 3|Ad tertium dicendum quod habitudo servi ad dominum est per potestatem domini servum sibi subiicientis, sed habitudo filii ad patrem, vel uxoris ad virum, est e converso per affectum filii se subdentis patri vel uxoris se coniungentis viro unione amoris. Unde timor filialis et castus ad idem pertinent, quia per caritatis amorem Deus pater noster efficitur, secundum illud [[Rm 8]], *accepistis spiritum adoptionis filiorum, in quo clamamus, abba, pater*; et secundum eandem caritatem dicitur etiam sponsus noster, secundum illud II ad Cor. XI, *despondi vos uni viro, virginem castam exhibere Christo*. Timor autem servilis ad aliud pertinet, quia caritatem in sua ratione non includit.]]
+![[LEO IIa-IIæ, q. 19, a. 2#ad 3|Ad tertium dicendum quod habitudo servi ad dominum est per potestatem domini servum sibi subiicientis, sed habitudo filii ad patrem, vel uxoris ad virum, est e converso per affectum filii se subdentis patri vel uxoris se coniungentis viro unione amoris. Unde timor filialis et castus ad idem pertinent, quia per caritatis amorem Deus pater noster efficitur, secundum illud Rom. VIII, *accepistis spiritum adoptionis filiorum, in quo clamamus, abba, pater*; et secundum eandem caritatem dicitur etiam sponsus noster, secundum illud II ad Cor. XI, *despondi vos uni viro, virginem castam exhibere Christo*. Timor autem servilis ad aliud pertinet, quia caritatem in sua ratione non includit.]]
 ![[CERF IIa-IIæ, q. 19, a. 2#ad 3]]
 
 ###### ad 4

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 7#Prooemium|Deinde considerandum est de effectibus fidei. Et circa hoc quaeruntur duo. Primo, utrum timor sit effectus fidei. Secundo, utrum purificatio cordis sit effectus fidei.]]
-![[CERF IIa-IIæ, q. 7#Prooemium]]
+Deinde considerandum est de effectibus fidei. Et circa hoc quaeruntur duo. Primo, utrum timor sit effectus fidei. Secundo, utrum purificatio cordis sit effectus fidei.
 
 ![[IIa-IIæ, q. 7, a. 1#Articulus 1]]
 

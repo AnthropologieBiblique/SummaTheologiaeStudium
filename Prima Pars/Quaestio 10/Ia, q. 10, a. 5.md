@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 10, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 10, a. 5#arg. 2|Praeterea, de ratione temporis est quod habeat prius et posterius, de ratione vero aeternitatis est quod sit tota simul, ut dictum est. Sed aevum non est aeternitas, dicitur enim [[Si 1]], quod sapientia aeterna est ante aevum. Ergo non est totum simul, sed habet prius et posterius, et ita est tempus.]]
+![[LEO Ia, q. 10, a. 5#arg. 2|Praeterea, de ratione temporis est quod habeat prius et posterius, de ratione vero aeternitatis est quod sit tota simul, ut dictum est. Sed aevum non est aeternitas, dicitur enim Eccli. I, quod sapientia aeterna est ante aevum. Ergo non est totum simul, sed habet prius et posterius, et ita est tempus.]]
 ![[CERF Ia, q. 10, a. 5#arg. 2]]
 
 ###### arg. 3

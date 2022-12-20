@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 5, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 5, a. 1#s.c.|Sed contra est quod dicitur in [[Ps 93]], *beatus homo quem tu erudieris, domine*.]]
+![[LEO Ia-IIæ, q. 5, a. 1#s.c.|Sed contra est quod dicitur in Psalmo XCIII, *beatus homo quem tu erudieris, domine*.]]
 ![[CERF Ia-IIæ, q. 5, a. 1#s.c.]]
 
 ###### resp.

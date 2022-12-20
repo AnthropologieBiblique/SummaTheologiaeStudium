@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 116, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod litigium sit minus peccatum quam contrarium vitium, scilicet placiditatis vel adulationis. Quanto enim aliquod peccatum plus nocet, tanto peius esse videtur. Sed adulatio plus nocet quam litigium, dicitur enim [[Is 3]], *popule meus, qui beatum te dicunt, ipsi te decipiunt, et viam gressuum tuorum dissipant*. Ergo adulatio est gravius peccatum quam litigium.]]
+![[LEO IIa-IIæ, q. 116, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod litigium sit minus peccatum quam contrarium vitium, scilicet placiditatis vel adulationis. Quanto enim aliquod peccatum plus nocet, tanto peius esse videtur. Sed adulatio plus nocet quam litigium, dicitur enim Isaiae III, *popule meus, qui beatum te dicunt, ipsi te decipiunt, et viam gressuum tuorum dissipant*. Ergo adulatio est gravius peccatum quam litigium.]]
 ![[CERF IIa-IIæ, q. 116, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 116, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 116, a. 2#s.c.|Sed contra est quod tanto aliquod peccatum videtur esse gravius quanto spirituali statui magis repugnat. Sed litigium magis repugnare videtur spirituali, dicitur enim [[1 Tm 3]], quod *oportet episcopum non litigiosum esse*; et [[2 Tm 2]], *servum domini non oportet litigare*. Ergo litigium videtur esse gravius peccatum.]]
+![[LEO IIa-IIæ, q. 116, a. 2#s.c.|Sed contra est quod tanto aliquod peccatum videtur esse gravius quanto spirituali statui magis repugnat. Sed litigium magis repugnare videtur spirituali, dicitur enim I ad Tim. III, quod *oportet episcopum non litigiosum esse*; et II ad Tim. II, *servum domini non oportet litigare*. Ergo litigium videtur esse gravius peccatum.]]
 ![[CERF IIa-IIæ, q. 116, a. 2#s.c.]]
 
 ###### resp.

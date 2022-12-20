@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 80, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 80, a. 3#s.c.|Sed contra est quod super illud [[Jn 6]], *ut si quis manducaverit non moriatur*, dicit Augustinus, *multi de altari accipiunt, et accipiendo moriuntur, unde dicit apostolus, iudicium sibi manducat et bibit*. Sed non moriuntur sumendo nisi peccatores. Ergo peccatores corpus Christi sacramentaliter manducant, et non solum iusti.]]
+![[LEO IIIa, q. 80, a. 3#s.c.|Sed contra est quod super illud Ioan. VI, *ut si quis manducaverit non moriatur*, dicit Augustinus, *multi de altari accipiunt, et accipiendo moriuntur, unde dicit apostolus, iudicium sibi manducat et bibit*. Sed non moriuntur sumendo nisi peccatores. Ergo peccatores corpus Christi sacramentaliter manducant, et non solum iusti.]]
 ![[CERF IIIa, q. 80, a. 3#s.c.]]
 
 ###### resp.

@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 108, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 108, a. 4#arg. 2|Praeterea, Seraphim dicuntur ardentes, vel incendentes, ut Dionysius dicit VII cap. Cael. Hier. Hoc autem videtur ad caritatem pertinere, quae non est a natura, sed a gratia, *diffunditur enim in cordibus nostris per spiritum sanctum, qui datus est nobis*, ut dicitur ad [[Rm 5]]. *Quod non solum ad sanctos homines pertinet, sed etiam de sanctis Angelis dici potest*, ut Augustinus dicit XII de Civ. Dei. Ergo ordines in Angelis non sunt a natura, sed a gratia.]]
+![[LEO Ia, q. 108, a. 4#arg. 2|Praeterea, Seraphim dicuntur ardentes, vel incendentes, ut Dionysius dicit VII cap. Cael. Hier. Hoc autem videtur ad caritatem pertinere, quae non est a natura, sed a gratia, *diffunditur enim in cordibus nostris per spiritum sanctum, qui datus est nobis*, ut dicitur ad Rom. V. *Quod non solum ad sanctos homines pertinet, sed etiam de sanctis Angelis dici potest*, ut Augustinus dicit XII de Civ. Dei. Ergo ordines in Angelis non sunt a natura, sed a gratia.]]
 ![[CERF Ia, q. 108, a. 4#arg. 2]]
 
 ###### arg. 3

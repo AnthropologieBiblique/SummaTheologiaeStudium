@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 78, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 78, a. 4#s.c.|Sed contra est quod peccatum quod ex industria committitur, ex hoc ipso graviorem poenam meretur, secundum illud [[Jb 34]], *quasi impios percussit eos in loco videntium, qui quasi de industria recesserunt ab eo*. Sed poena non augetur nisi propter gravitatem culpae. Ergo peccatum ex hoc aggravatur, quod est ex industria, seu certa malitia.]]
+![[LEO Ia-IIæ, q. 78, a. 4#s.c.|Sed contra est quod peccatum quod ex industria committitur, ex hoc ipso graviorem poenam meretur, secundum illud Iob XXXIV, *quasi impios percussit eos in loco videntium, qui quasi de industria recesserunt ab eo*. Sed poena non augetur nisi propter gravitatem culpae. Ergo peccatum ex hoc aggravatur, quod est ex industria, seu certa malitia.]]
 ![[CERF Ia-IIæ, q. 78, a. 4#s.c.]]
 
 ###### resp.

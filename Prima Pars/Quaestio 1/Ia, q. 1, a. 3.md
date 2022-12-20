@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 1, a. 3#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 1, a. 3#s.c.|Sed contra est quod sacra Scriptura de ea loquitur sicut de una scientia, dicitur enim [[Sg 10]], *dedit illi scientiam sanctorum*.]]
+![[LEO Ia, q. 1, a. 3#s.c.|Sed contra est quod sacra Scriptura de ea loquitur sicut de una scientia, dicitur enim Sap. X, *dedit illi scientiam sanctorum*.]]
 ![[CERF Ia, q. 1, a. 3#s.c.]]
 
 ###### resp.

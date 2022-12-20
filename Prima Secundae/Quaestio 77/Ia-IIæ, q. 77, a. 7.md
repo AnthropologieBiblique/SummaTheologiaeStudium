@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 77, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod passio totaliter excuset a peccato. Quidquid enim causat involuntarium, excusat totaliter a peccato. Sed concupiscentia carnis, quae est quaedam passio, causat involuntarium, secundum illud [[Ga 5]], *caro concupiscit adversus spiritum, ut non quaecumque vultis, illa faciatis*. Ergo passio totaliter excusat a peccato.]]
+![[LEO Ia-IIæ, q. 77, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod passio totaliter excuset a peccato. Quidquid enim causat involuntarium, excusat totaliter a peccato. Sed concupiscentia carnis, quae est quaedam passio, causat involuntarium, secundum illud Gal. V, *caro concupiscit adversus spiritum, ut non quaecumque vultis, illa faciatis*. Ergo passio totaliter excusat a peccato.]]
 ![[CERF Ia-IIæ, q. 77, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 77, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 77, a. 7#s.c.|Sed contra est quod apostolus, [[Rm 7]], vocat passiones peccatorum, non nisi quia peccata causant. Quod non esset, si a peccato totaliter excusarent. Ergo passiones non totaliter a peccato excusant.]]
+![[LEO Ia-IIæ, q. 77, a. 7#s.c.|Sed contra est quod apostolus, Rom. VII, vocat passiones peccatorum, non nisi quia peccata causant. Quod non esset, si a peccato totaliter excusarent. Ergo passiones non totaliter a peccato excusant.]]
 ![[CERF Ia-IIæ, q. 77, a. 7#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 77, a. 7#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 77, a. 7#ad 1|Ad primum ergo dicendum quod hoc quod dicitur, *ut non quaecumque vultis, illa faciatis*, non est referendum ad ea quae fiunt per exteriorem actum, sed ad interiorem concupiscentiae motum, vellet enim homo nunquam concupiscere malum. Sicut etiam exponitur id quod dicitur [[Rm 7]], quod *odi malum, illud facio*. Vel potest referri ad voluntatem praecedentem passionem, ut patet in continentibus qui contra suum propositum agunt propter suam concupiscentiam.]]
+![[LEO Ia-IIæ, q. 77, a. 7#ad 1|Ad primum ergo dicendum quod hoc quod dicitur, *ut non quaecumque vultis, illa faciatis*, non est referendum ad ea quae fiunt per exteriorem actum, sed ad interiorem concupiscentiae motum, vellet enim homo nunquam concupiscere malum. Sicut etiam exponitur id quod dicitur Rom. VII, quod *odi malum, illud facio*. Vel potest referri ad voluntatem praecedentem passionem, ut patet in continentibus qui contra suum propositum agunt propter suam concupiscentiam.]]
 ![[CERF Ia-IIæ, q. 77, a. 7#ad 1]]
 
 ###### ad 2

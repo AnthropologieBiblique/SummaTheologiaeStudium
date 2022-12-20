@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 21, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 21, a. 1#arg. 2|Praeterea, quicumque facit omnia pro libito suae voluntatis, non secundum iustitiam operatur. Sed, sicut dicit apostolus, ad [[Ep 1]], Deus *operatur omnia secundum consilium suae voluntatis*. Non ergo ei iustitia debet attribui.]]
+![[LEO Ia, q. 21, a. 1#arg. 2|Praeterea, quicumque facit omnia pro libito suae voluntatis, non secundum iustitiam operatur. Sed, sicut dicit apostolus, ad Ephes. I, Deus *operatur omnia secundum consilium suae voluntatis*. Non ergo ei iustitia debet attribui.]]
 ![[CERF Ia, q. 21, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -22,11 +22,11 @@ tags :
 ![[CERF Ia, q. 21, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 21, a. 1#s.c.|Sed contra est quod dicitur in [[Ps 10]], *iustus dominus, et iustitias dilexit*.]]
+![[LEO Ia, q. 21, a. 1#s.c.|Sed contra est quod dicitur in Psalmo X, *iustus dominus, et iustitias dilexit*.]]
 ![[CERF Ia, q. 21, a. 1#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 21, a. 1#resp.|Respondeo dicendum quod duplex est species iustitiae. Una, quae consistit in mutua datione et acceptione, ut puta quae consistit in emptione et venditione, et aliis huiusmodi communicationibus vel commutationibus. Et haec dicitur a philosopho, in V Ethic., iustitia commutativa, vel directiva commutationum sive communicationum. Et haec non competit Deo, quia, ut dicit apostolus, [[Rm 11]], *quis prior dedit illi, et retribuetur ei?* Alia, quae consistit in distribuendo, et dicitur distributiva iustitia, secundum quam aliquis gubernator vel dispensator dat unicuique secundum suam dignitatem. Sicut igitur ordo congruus familiae, vel cuiuscumque multitudinis gubernatae, demonstrat huiusmodi iustitiam in gubernante; ita ordo universi, qui apparet tam in rebus naturalibus quam in rebus voluntariis, demonstrat Dei iustitiam. Unde dicit Dionysius, VIII cap. de Div. Nom., *oportet videre in hoc veram Dei esse iustitiam, quod omnibus tribuit propria, secundum uniuscuiusque existentium dignitatem; et uniuscuiusque naturam in proprio salvat ordine et virtute*.]]
+![[LEO Ia, q. 21, a. 1#resp.|Respondeo dicendum quod duplex est species iustitiae. Una, quae consistit in mutua datione et acceptione, ut puta quae consistit in emptione et venditione, et aliis huiusmodi communicationibus vel commutationibus. Et haec dicitur a philosopho, in V Ethic., iustitia commutativa, vel directiva commutationum sive communicationum. Et haec non competit Deo, quia, ut dicit apostolus, Rom. XI, *quis prior dedit illi, et retribuetur ei?* Alia, quae consistit in distribuendo, et dicitur distributiva iustitia, secundum quam aliquis gubernator vel dispensator dat unicuique secundum suam dignitatem. Sicut igitur ordo congruus familiae, vel cuiuscumque multitudinis gubernatae, demonstrat huiusmodi iustitiam in gubernante; ita ordo universi, qui apparet tam in rebus naturalibus quam in rebus voluntariis, demonstrat Dei iustitiam. Unde dicit Dionysius, VIII cap. de Div. Nom., *oportet videre in hoc veram Dei esse iustitiam, quod omnibus tribuit propria, secundum uniuscuiusque existentium dignitatem; et uniuscuiusque naturam in proprio salvat ordine et virtute*.]]
 ![[CERF Ia, q. 21, a. 1#resp.]]
 
 ###### ad 1

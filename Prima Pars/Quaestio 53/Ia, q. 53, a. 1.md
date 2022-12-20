@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia, q. 53, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO Ia, q. 53, a. 1#ad 3|Ad tertium dicendum quod motus existentis in potentia, est propter indigentiam suam, sed motus existentis in actu, non est propter indigentiam suam, sed propter indigentiam alterius. Et hoc modo Angelus, propter indigentiam nostram, localiter movetur, secundum illud [[He 1]], *omnes sunt administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*.]]
+![[LEO Ia, q. 53, a. 1#ad 3|Ad tertium dicendum quod motus existentis in potentia, est propter indigentiam suam, sed motus existentis in actu, non est propter indigentiam suam, sed propter indigentiam alterius. Et hoc modo Angelus, propter indigentiam nostram, localiter movetur, secundum illud Heb. I, *omnes sunt administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*.]]
 ![[CERF Ia, q. 53, a. 1#ad 3]]
 

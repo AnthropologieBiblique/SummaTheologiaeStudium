@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 87, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod veniale peccatum possit remitti sine mortali. Quia super illud [[Jn 8]], *qui sine peccato est vestrum, primus in illam lapidem mittat*, dicit quaedam Glossa quod *omnes illi erant in peccato mortali, venialia enim eis dimittebantur per caeremonias*. Ergo veniale peccatum potest remitti sine mortali.]]
+![[LEO IIIa, q. 87, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod veniale peccatum possit remitti sine mortali. Quia super illud Ioan. VIII, *qui sine peccato est vestrum, primus in illam lapidem mittat*, dicit quaedam Glossa quod *omnes illi erant in peccato mortali, venialia enim eis dimittebantur per caeremonias*. Ergo veniale peccatum potest remitti sine mortali.]]
 ![[CERF IIIa, q. 87, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 87, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 87, a. 4#s.c.|Sed contra est quod dicitur [[Mt 5]], non exibis inde, scilicet de carcere, in quem introducitur homo pro peccato mortali, donec reddas novissimum quadrantem, per quem significatur veniale peccatum. Ergo veniale peccatum non remittitur sine mortali.]]
+![[LEO IIIa, q. 87, a. 4#s.c.|Sed contra est quod dicitur Matth. V, non exibis inde, scilicet de carcere, in quem introducitur homo pro peccato mortali, donec reddas novissimum quadrantem, per quem significatur veniale peccatum. Ergo veniale peccatum non remittitur sine mortali.]]
 ![[CERF IIIa, q. 87, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 87, a. 4#resp.|Respondeo dicendum quod, sicut supra dictum est, remissio culpae cuiuscumque nunquam fit nisi per virtutem gratiae, quia, ut apostolus dicit, [[Rm 4]], ad gratiam Dei pertinet quod Deus alicui non imputat peccatum, quod Glossa ibi exponit de veniali. Ille autem qui est in peccato mortali, caret gratia Dei. Unde nullum peccatum veniale sibi remittitur.]]
+![[LEO IIIa, q. 87, a. 4#resp.|Respondeo dicendum quod, sicut supra dictum est, remissio culpae cuiuscumque nunquam fit nisi per virtutem gratiae, quia, ut apostolus dicit, Rom. IV, ad gratiam Dei pertinet quod Deus alicui non imputat peccatum, quod Glossa ibi exponit de veniali. Ille autem qui est in peccato mortali, caret gratia Dei. Unde nullum peccatum veniale sibi remittitur.]]
 ![[CERF IIIa, q. 87, a. 4#resp.]]
 
 ###### ad 1

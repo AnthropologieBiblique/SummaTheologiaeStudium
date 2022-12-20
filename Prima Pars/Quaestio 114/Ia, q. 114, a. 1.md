@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 114, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 114, a. 1#s.c.|Sed contra est quod apostolus dicit, ad [[Ep 6]], quod *non est nobis colluctatio adversus carnem et sanguinem, sed adversus principes et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiae in caelestibus*.]]
+![[LEO Ia, q. 114, a. 1#s.c.|Sed contra est quod apostolus dicit, ad Ephes. VI, quod *non est nobis colluctatio adversus carnem et sanguinem, sed adversus principes et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiae in caelestibus*.]]
 ![[CERF Ia, q. 114, a. 1#s.c.]]
 
 ###### resp.

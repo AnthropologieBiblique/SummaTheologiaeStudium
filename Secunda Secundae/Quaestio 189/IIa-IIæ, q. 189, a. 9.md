@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 189, a. 9#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 189, a. 9#arg. 2|Praeterea, [[Mt 23]], dominus dicit, *vae vobis. Qui circuitis mare et aridam ut faciatis unum proselytum, et, cum factus fuerit, facitis eum filium Gehennae duplo quam vos*. Sed hoc videntur facere qui homines ad religionem inducunt. Ergo videtur hoc esse vituperabile.]]
+![[LEO IIa-IIæ, q. 189, a. 9#arg. 2|Praeterea, Matth. XXIII, dominus dicit, *vae vobis. Qui circuitis mare et aridam ut faciatis unum proselytum, et, cum factus fuerit, facitis eum filium Gehennae duplo quam vos*. Sed hoc videntur facere qui homines ad religionem inducunt. Ergo videtur hoc esse vituperabile.]]
 ![[CERF IIa-IIæ, q. 189, a. 9#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 189, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 189, a. 9#s.c.|Sed contra est quod dicitur [[Ex 26]], cortina cortinam trahat. Debet ergo unus homo alium trahere ad Dei obsequium.]]
+![[LEO IIa-IIæ, q. 189, a. 9#s.c.|Sed contra est quod dicitur Exod. XXVI, cortina cortinam trahat. Debet ergo unus homo alium trahere ad Dei obsequium.]]
 ![[CERF IIa-IIæ, q. 189, a. 9#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 189, a. 9#resp.|Respondeo dicendum quod inducentes alios ad religionem non solum non peccant, sed magnum praemium merentur, dicitur enim Iac. ult., *qui converti fecerit peccatorem ab errore viae suae, liberat animam eius a morte, et operit multitudinem peccatorum*; et Dan. XII dicitur, *qui ad iustitiam erudiunt plurimos, quasi stellae in perpetuas aeternitates*. Posset tamen contingere circa huiusmodi inductionem triplex inordinatio. Primo quidem, si violenter aliquis alium ad religionem cogeret, quod prohibetur, in decretis, XX, qu. III. Secundo, si aliquis simoniace alium ad religionem trahat, muneribus datis, ut prohibetur in decretis, qu. II, cap. quam pio. Nec tamen ad hoc pertinet si aliquis alicui pauperi necessaria ministret in saeculo, nutriens eum ad religionem, vel si, sine pacto, aliqua munuscula tribuat ad familiaritatem captandam. Tertio, si mendaciis eum alliciat. Imminet enim sic inducto periculum ne, cum se deceptum invenerit, retrocedat; et sic fiant novissima hominis illius peiora prioribus, ut dicitur [[Mt 12]].]]
+![[LEO IIa-IIæ, q. 189, a. 9#resp.|Respondeo dicendum quod inducentes alios ad religionem non solum non peccant, sed magnum praemium merentur, dicitur enim Iac. ult., *qui converti fecerit peccatorem ab errore viae suae, liberat animam eius a morte, et operit multitudinem peccatorum*; et Dan. XII dicitur, *qui ad iustitiam erudiunt plurimos, quasi stellae in perpetuas aeternitates*. Posset tamen contingere circa huiusmodi inductionem triplex inordinatio. Primo quidem, si violenter aliquis alium ad religionem cogeret, quod prohibetur, in decretis, XX, qu. III. Secundo, si aliquis simoniace alium ad religionem trahat, muneribus datis, ut prohibetur in decretis, qu. II, cap. quam pio. Nec tamen ad hoc pertinet si aliquis alicui pauperi necessaria ministret in saeculo, nutriens eum ad religionem, vel si, sine pacto, aliqua munuscula tribuat ad familiaritatem captandam. Tertio, si mendaciis eum alliciat. Imminet enim sic inducto periculum ne, cum se deceptum invenerit, retrocedat; et sic fiant novissima hominis illius peiora prioribus, ut dicitur Matth. XII.]]
 ![[CERF IIa-IIæ, q. 189, a. 9#resp.]]
 
 ###### ad 1

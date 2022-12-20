@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 38#Prooemium|Consequenter quaeritur de dono. Et circa hoc quaeruntur duo. Primo, utrum donum possit esse nomen personale. Secundo, utrum sit proprium spiritus sancti.]]
-![[CERF Ia, q. 38#Prooemium]]
+Consequenter quaeritur de dono. Et circa hoc quaeruntur duo. Primo, utrum donum possit esse nomen personale. Secundo, utrum sit proprium spiritus sancti.
 
 ![[Ia, q. 38, a. 1#Articulus 1]]
 

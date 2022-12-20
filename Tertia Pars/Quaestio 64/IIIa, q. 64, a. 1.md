@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 64, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 64, a. 1#arg. 2|Praeterea, in collatione sacramentorum quaedam orationum suffragia proponuntur. Sed orationes iustorum sunt magis apud Deum exaudibiles quam quorumcumque, secundum illud [[Jn 9]], *si quis Dei cultor est, et voluntatem Dei facit, hunc Deus exaudit*. Ergo videtur quod maiorem effectum sacramenti consequitur ille qui recipit illum a bono ministro. Sic ergo minister operatur aliquid ad interiorem effectum, et non solus Deus.]]
+![[LEO IIIa, q. 64, a. 1#arg. 2|Praeterea, in collatione sacramentorum quaedam orationum suffragia proponuntur. Sed orationes iustorum sunt magis apud Deum exaudibiles quam quorumcumque, secundum illud Ioan. IX, *si quis Dei cultor est, et voluntatem Dei facit, hunc Deus exaudit*. Ergo videtur quod maiorem effectum sacramenti consequitur ille qui recipit illum a bono ministro. Sic ergo minister operatur aliquid ad interiorem effectum, et non solus Deus.]]
 ![[CERF IIIa, q. 64, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 64, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 64, a. 1#s.c.|Sed contra est quod dicitur [[Rm 8]], *Deus qui iustificat*. Cum igitur interior effectus omnium sacramentorum sit iustificatio, videtur quod solus Deus operetur interiorem effectum sacramenti.]]
+![[LEO IIIa, q. 64, a. 1#s.c.|Sed contra est quod dicitur Rom. VIII, *Deus qui iustificat*. Cum igitur interior effectus omnium sacramentorum sit iustificatio, videtur quod solus Deus operetur interiorem effectum sacramenti.]]
 ![[CERF IIIa, q. 64, a. 1#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 64, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 64, a. 1#ad 2|Ad secundum dicendum quod orationes quae dicuntur in sacramentorum collatione, proponuntur Deo non ex parte singularis personae, sed ex parte totius Ecclesiae, cuius preces sunt apud Deum exaudibiles, secundum illud [[Mt 18]], *si duo ex vobis consenserint super terram de omni re quamcumque petierint, fiet eis a patre meo*. Nihil tamen prohibet quin devotio viri iusti ad hoc aliquid operetur. Illud tamen quod est sacramenti effectus, non impetratur oratione Ecclesiae vel ministri, sed ex merito passionis Christi, cuius virtus operatur in sacramentis, ut dictum est. Unde effectus sacramenti non datur melior per meliorem ministrum. Aliquid tamen annexum impetrari potest recipienti sacramentum per devotionem ministri, nec tamen minister operatur illud, sed impetrat operandum a Deo.]]
+![[LEO IIIa, q. 64, a. 1#ad 2|Ad secundum dicendum quod orationes quae dicuntur in sacramentorum collatione, proponuntur Deo non ex parte singularis personae, sed ex parte totius Ecclesiae, cuius preces sunt apud Deum exaudibiles, secundum illud Matth. XVIII, *si duo ex vobis consenserint super terram de omni re quamcumque petierint, fiet eis a patre meo*. Nihil tamen prohibet quin devotio viri iusti ad hoc aliquid operetur. Illud tamen quod est sacramenti effectus, non impetratur oratione Ecclesiae vel ministri, sed ex merito passionis Christi, cuius virtus operatur in sacramentis, ut dictum est. Unde effectus sacramenti non datur melior per meliorem ministrum. Aliquid tamen annexum impetrari potest recipienti sacramentum per devotionem ministri, nec tamen minister operatur illud, sed impetrat operandum a Deo.]]
 ![[CERF IIIa, q. 64, a. 1#ad 2]]
 
 ###### ad 3

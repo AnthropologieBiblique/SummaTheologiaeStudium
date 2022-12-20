@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 172, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 172, a. 1#arg. 4|Praeterea, [[Pr 29]] dicitur, *cum prophetia defecerit, dissipabitur populus*, et sic patet quod prophetia necessaria est ad hominum conservationem. Sed natura non deficit in necessariis. Ergo videtur quod prophetia sit a natura.]]
+![[LEO IIa-IIæ, q. 172, a. 1#arg. 4|Praeterea, Prov. XXIX dicitur, *cum prophetia defecerit, dissipabitur populus*, et sic patet quod prophetia necessaria est ad hominum conservationem. Sed natura non deficit in necessariis. Ergo videtur quod prophetia sit a natura.]]
 ![[CERF IIa-IIæ, q. 172, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 172, a. 1#s.c.|Sed contra est quod dicitur [[2 P 1]], *non enim voluntate humana allata est aliquando prophetia, sed spiritu sancto inspirante, locuti sunt sancti Dei homines*. Ergo prophetia non est a natura, sed ex dono spiritus sancti.]]
+![[LEO IIa-IIæ, q. 172, a. 1#s.c.|Sed contra est quod dicitur II Pet. I, *non enim voluntate humana allata est aliquando prophetia, sed spiritu sancto inspirante, locuti sunt sancti Dei homines*. Ergo prophetia non est a natura, sed ex dono spiritus sancti.]]
 ![[CERF IIa-IIæ, q. 172, a. 1#s.c.]]
 
 ###### resp.

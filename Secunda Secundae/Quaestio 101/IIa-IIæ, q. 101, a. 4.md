@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 101, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod occasione religionis sint praetermittenda pietatis officia in parentes. Dicit enim dominus, [[Lc 14]], *si quis venit ad me, et non odit patrem suum et matrem et uxorem, fratres, filios et sorores, adhuc autem et animam suam, non potest meus esse discipulus*. Unde et in laudem Iacobi et Ioannis, [[Mt 4]], dicitur quod, *relictis retibus et patre, secuti sunt Christum*. Et in laudem Levitarum dicitur, [[Dt 33]], *qui dixit patri suo et matri suae, nescio vos; et fratribus suis, ignoro illos; et nescierunt filios suos, hi custodierunt eloquium tuum*. Sed ignorando parentes et alios consanguineos, vel etiam eos odiendo, necesse est quod praetermittantur pietatis officia. Ergo propter religionem officia pietatis sunt praetermittenda.]]
+![[LEO IIa-IIæ, q. 101, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod occasione religionis sint praetermittenda pietatis officia in parentes. Dicit enim dominus, Luc. XIV, *si quis venit ad me, et non odit patrem suum et matrem et uxorem, fratres, filios et sorores, adhuc autem et animam suam, non potest meus esse discipulus*. Unde et in laudem Iacobi et Ioannis, Matth. IV, dicitur quod, *relictis retibus et patre, secuti sunt Christum*. Et in laudem Levitarum dicitur, Deut. XXXIII, *qui dixit patri suo et matri suae, nescio vos; et fratribus suis, ignoro illos; et nescierunt filios suos, hi custodierunt eloquium tuum*. Sed ignorando parentes et alios consanguineos, vel etiam eos odiendo, necesse est quod praetermittantur pietatis officia. Ergo propter religionem officia pietatis sunt praetermittenda.]]
 ![[CERF IIa-IIæ, q. 101, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 101, a. 4#arg. 2|Praeterea, [[Mt 8]] et [[Lc 9]] dicitur quod dominus dicenti sibi, permitte mihi primum ire et sepelire patrem meum, respondit, sine ut mortui sepeliant mortuos suos. Tu autem vade et annuntia regnum Dei, quod pertinet ad religionem. Sepultura autem patris pertinet ad pietatis officium. Ergo pietatis officium est praetermittendum propter religionem.]]
+![[LEO IIa-IIæ, q. 101, a. 4#arg. 2|Praeterea, Matth. VIII et Luc. IX dicitur quod dominus dicenti sibi, permitte mihi primum ire et sepelire patrem meum, respondit, sine ut mortui sepeliant mortuos suos. Tu autem vade et annuntia regnum Dei, quod pertinet ad religionem. Sepultura autem patris pertinet ad pietatis officium. Ergo pietatis officium est praetermittendum propter religionem.]]
 ![[CERF IIa-IIæ, q. 101, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 101, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 101, a. 4#s.c.|Sed contra est quod dominus, [[Mt 15]], redarguit Pharisaeos, qui intuitu religionis honorem parentibus debitum subtrahere docebant.]]
+![[LEO IIa-IIæ, q. 101, a. 4#s.c.|Sed contra est quod dominus, Matth. XV, redarguit Pharisaeos, qui intuitu religionis honorem parentibus debitum subtrahere docebant.]]
 ![[CERF IIa-IIæ, q. 101, a. 4#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 101, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 101, a. 4#ad 1|Ad primum ergo dicendum quod Gregorius, exponens illud verbum domini, dicit quod parentes quos adversarios *in via Dei patimur, odiendo et fugiendo nescire debemus*. Si enim parentes nostri nos provocent ad peccandum, et abstrahant nos a cultu divino, debemus quantum ad hoc eos deserere et odire. Et hoc modo dicuntur Levitae suos consanguineos ignorasse, quia idololatris, secundum mandatum domini, non pepercerunt, ut habetur [[Ex 32]]. Iacobus autem et Ioannes laudantur ex hoc quod secuti sunt dominum dimisso parente, non quia eorum pater eos provocaret ad malum, sed quia aliter aestimabant ipsum posse vitam transigere, eis sequentibus Christum.]]
+![[LEO IIa-IIæ, q. 101, a. 4#ad 1|Ad primum ergo dicendum quod Gregorius, exponens illud verbum domini, dicit quod parentes quos adversarios *in via Dei patimur, odiendo et fugiendo nescire debemus*. Si enim parentes nostri nos provocent ad peccandum, et abstrahant nos a cultu divino, debemus quantum ad hoc eos deserere et odire. Et hoc modo dicuntur Levitae suos consanguineos ignorasse, quia idololatris, secundum mandatum domini, non pepercerunt, ut habetur Exod. XXXII. Iacobus autem et Ioannes laudantur ex hoc quod secuti sunt dominum dimisso parente, non quia eorum pater eos provocaret ad malum, sed quia aliter aestimabant ipsum posse vitam transigere, eis sequentibus Christum.]]
 ![[CERF IIa-IIæ, q. 101, a. 4#ad 1]]
 
 ###### ad 2
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIa-IIæ, q. 101, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 101, a. 4#ad 3|Ad tertium dicendum quod hoc ipsum quod parentibus carnalibus ex pietate exhibemus, in Deum referimus, sicut et alia misericordiae opera quae quibuscumque proximis impendimus, Deo exhibita videntur secundum illud [[Mt 25]], *quod uni ex minimis meis fecistis, mihi fecistis*. Et ideo si carnalibus parentibus nostra obsequia sunt necessaria, ut sine his sustentari non possint; nec nos ad aliquid contra Deum inducant, non debemus intuitu religionis eos deserere. Si autem sine peccato eorum obsequiis vacare non possumus; vel etiam si absque nostro obsequio possunt sustentari, licitum est eorum obsequia praetermittere ad hoc quod amplius religioni vacemus.]]
+![[LEO IIa-IIæ, q. 101, a. 4#ad 3|Ad tertium dicendum quod hoc ipsum quod parentibus carnalibus ex pietate exhibemus, in Deum referimus, sicut et alia misericordiae opera quae quibuscumque proximis impendimus, Deo exhibita videntur secundum illud Matth. XXV, *quod uni ex minimis meis fecistis, mihi fecistis*. Et ideo si carnalibus parentibus nostra obsequia sunt necessaria, ut sine his sustentari non possint; nec nos ad aliquid contra Deum inducant, non debemus intuitu religionis eos deserere. Si autem sine peccato eorum obsequiis vacare non possumus; vel etiam si absque nostro obsequio possunt sustentari, licitum est eorum obsequia praetermittere ad hoc quod amplius religioni vacemus.]]
 ![[CERF IIa-IIæ, q. 101, a. 4#ad 3]]
 
 ###### ad 4

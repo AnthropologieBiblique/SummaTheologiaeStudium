@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 7, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 7, a. 4#arg. 3|Praeterea, unusquisque potest sperare id quod ad eius perfectionem pertinet, si sit futurum. Sed aliquid erat futurum quod ad perfectionem Christi pertinet, secundum illud [[Ep 4]], *ad consummationem sanctorum, in opus ministerii, in aedificationem corporis Christi*. Ergo videtur quod Christo competebat habere spem.]]
+![[LEO IIIa, q. 7, a. 4#arg. 3|Praeterea, unusquisque potest sperare id quod ad eius perfectionem pertinet, si sit futurum. Sed aliquid erat futurum quod ad perfectionem Christi pertinet, secundum illud Ephes. IV, *ad consummationem sanctorum, in opus ministerii, in aedificationem corporis Christi*. Ergo videtur quod Christo competebat habere spem.]]
 ![[CERF IIIa, q. 7, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 7, a. 4#s.c.|Sed contra est quod dicitur [[Rm 8]], *quod videt quis, quid sperat?* Et sic patet quod, sicut fides est de non visis, ita et spes. Sed fides non fuit in Christo, sicut dictum est. Ergo nec spes.]]
+![[LEO IIIa, q. 7, a. 4#s.c.|Sed contra est quod dicitur Rom. VIII, *quod videt quis, quid sperat?* Et sic patet quod, sicut fides est de non visis, ita et spes. Sed fides non fuit in Christo, sicut dictum est. Ergo nec spes.]]
 ![[CERF IIIa, q. 7, a. 4#s.c.]]
 
 ###### resp.

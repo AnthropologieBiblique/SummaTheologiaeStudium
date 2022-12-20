@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 87, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 87, a. 1#s.c.|Sed contra est quod dicitur [[Rm 2]], *tribulatio et angustia in animam omnem operantis malum*. Sed operari malum est peccare. Ergo peccatum inducit poenam, quae nomine tribulationis et angustiae designatur.]]
+![[LEO Ia-IIæ, q. 87, a. 1#s.c.|Sed contra est quod dicitur Rom. II, *tribulatio et angustia in animam omnem operantis malum*. Sed operari malum est peccare. Ergo peccatum inducit poenam, quae nomine tribulationis et angustiae designatur.]]
 ![[CERF Ia-IIæ, q. 87, a. 1#s.c.]]
 
 ###### resp.

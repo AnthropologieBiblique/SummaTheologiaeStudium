@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 24, a. 12#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 24, a. 12#s.c.|Sed contra, per peccatum mortale fit homo dignus morte aeterna, secundum illud [[Rm 6]], *stipendia peccati mors*. Sed quilibet habens caritatem habet meritum vitae aeternae, dicitur enim [[Jn 14]], *si quis diligit me, diligetur a patre meo, et ego diligam eum, et manifestabo ei meipsum*; in qua quidem manifestatione vita aeterna consistit, secundum illud [[Jn 14]], *haec est vita aeterna, ut cognoscant te, verum Deum, et quem misisti, Iesum Christum*. Nullus autem potest esse simul dignus vita aeterna et morte aeterna. Ergo impossibile est quod aliquis habeat caritatem cum peccato mortali. Tollitur ergo caritas per unum actum peccati mortalis.]]
+![[LEO IIa-IIæ, q. 24, a. 12#s.c.|Sed contra, per peccatum mortale fit homo dignus morte aeterna, secundum illud Rom. VI, *stipendia peccati mors*. Sed quilibet habens caritatem habet meritum vitae aeternae, dicitur enim Ioan. XIV, *si quis diligit me, diligetur a patre meo, et ego diligam eum, et manifestabo ei meipsum*; in qua quidem manifestatione vita aeterna consistit, secundum illud Ioan. XVII, *haec est vita aeterna, ut cognoscant te, verum Deum, et quem misisti, Iesum Christum*. Nullus autem potest esse simul dignus vita aeterna et morte aeterna. Ergo impossibile est quod aliquis habeat caritatem cum peccato mortali. Tollitur ergo caritas per unum actum peccati mortalis.]]
 ![[CERF IIa-IIæ, q. 24, a. 12#s.c.]]
 
 ###### resp.

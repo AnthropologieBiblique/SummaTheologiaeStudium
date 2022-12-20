@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 18, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 18, a. 3#s.c.|Sed contra est quod dicitur in [[Ps 83]], *cor meum et caro mea exultaverunt in Deum vivum*.]]
+![[LEO Ia, q. 18, a. 3#s.c.|Sed contra est quod dicitur in Psalmo LXXXIII, *cor meum et caro mea exultaverunt in Deum vivum*.]]
 ![[CERF Ia, q. 18, a. 3#s.c.]]
 
 ###### resp.

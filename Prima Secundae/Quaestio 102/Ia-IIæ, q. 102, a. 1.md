@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 102, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod caeremonialia praecepta non habeant causam. Quia super illud [[Ep 2]], legem mandatorum decretis evacuans, dicit Glossa, *idest, evacuans legem veterem quantum ad carnales observantias, decretis, idest praeceptis evangelicis, quae ex ratione sunt*. Sed si observantiae veteris legis ex ratione erant, frustra evacuarentur per rationabilia decreta novae legis. Non ergo caeremoniales observantiae veteris legis habebant aliquam rationem.]]
+![[LEO Ia-IIæ, q. 102, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod caeremonialia praecepta non habeant causam. Quia super illud Ephes. II, legem mandatorum decretis evacuans, dicit Glossa, *idest, evacuans legem veterem quantum ad carnales observantias, decretis, idest praeceptis evangelicis, quae ex ratione sunt*. Sed si observantiae veteris legis ex ratione erant, frustra evacuarentur per rationabilia decreta novae legis. Non ergo caeremoniales observantiae veteris legis habebant aliquam rationem.]]
 ![[CERF Ia-IIæ, q. 102, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia-IIæ, q. 102, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 102, a. 1#s.c.|Sed contra est quod dicitur in [[Ps 18]], *praeceptum domini lucidum, illuminans oculos*. Sed caeremonialia sunt praecepta Dei. Ergo sunt lucida. Quod non esset nisi haberent rationabilem causam. Ergo praecepta caeremonialia habent rationabilem causam.]]
+![[LEO Ia-IIæ, q. 102, a. 1#s.c.|Sed contra est quod dicitur in Psalmo XVIII, *praeceptum domini lucidum, illuminans oculos*. Sed caeremonialia sunt praecepta Dei. Ergo sunt lucida. Quod non esset nisi haberent rationabilem causam. Ergo praecepta caeremonialia habent rationabilem causam.]]
 ![[CERF Ia-IIæ, q. 102, a. 1#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 102, a. 1#resp.|Respondeo dicendum quod, cum sapientis sit ordinare, secundum philosophum, in I Metaphys., ea quae ex divina sapientia procedunt, oportet esse ordinata, ut apostolus dicit, ad [[Rm 13]]. Ad hoc autem quod aliqua sint ordinata, duo requiruntur. Primo quidem, quod aliqua ordinentur ad debitum finem, qui est principium totius ordinis in rebus agendis, ea enim quae casu eveniunt praeter intentionem finis, vel quae non serio fiunt sed ludo, dicimus esse inordinata. Secundo oportet quod id quod est ad finem, sit proportionatum fini. Et ex hoc sequitur quod ratio eorum quae sunt ad finem, sumitur ex fine, sicut ratio dispositionis serrae sumitur ex sectione, quae est finis eius, ut dicitur in II Physic. Manifestum est autem quod praecepta caeremonialia, sicut et omnia alia praecepta legis, sunt ex divina sapientia instituta, unde dicitur [[Dt 4]], *haec est sapientia vestra et intellectus coram populis*. Unde necesse est dicere quod praecepta caeremonialia sint ordinata ad aliquem finem, ex quo eorum rationabiles causae assignari possunt.]]
+![[LEO Ia-IIæ, q. 102, a. 1#resp.|Respondeo dicendum quod, cum sapientis sit ordinare, secundum philosophum, in I Metaphys., ea quae ex divina sapientia procedunt, oportet esse ordinata, ut apostolus dicit, ad Rom. XIII. Ad hoc autem quod aliqua sint ordinata, duo requiruntur. Primo quidem, quod aliqua ordinentur ad debitum finem, qui est principium totius ordinis in rebus agendis, ea enim quae casu eveniunt praeter intentionem finis, vel quae non serio fiunt sed ludo, dicimus esse inordinata. Secundo oportet quod id quod est ad finem, sit proportionatum fini. Et ex hoc sequitur quod ratio eorum quae sunt ad finem, sumitur ex fine, sicut ratio dispositionis serrae sumitur ex sectione, quae est finis eius, ut dicitur in II Physic. Manifestum est autem quod praecepta caeremonialia, sicut et omnia alia praecepta legis, sunt ex divina sapientia instituta, unde dicitur Deut. IV, *haec est sapientia vestra et intellectus coram populis*. Unde necesse est dicere quod praecepta caeremonialia sint ordinata ad aliquem finem, ex quo eorum rationabiles causae assignari possunt.]]
 ![[CERF Ia-IIæ, q. 102, a. 1#resp.]]
 
 ###### ad 1

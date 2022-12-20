@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 36, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod spiritus sanctus non procedat a filio. Quia secundum Dionysium, *non est audendum dicere aliquid de substantiali divinitate, praeter ea quae divinitus nobis ex sacris eloquiis sunt expressa*. Sed in Scriptura sacra non exprimitur quod spiritus sanctus a filio procedat, sed solum quod procedat a patre; ut patet [[Jn 15]], *spiritum veritatis, qui a patre procedit*. Ergo spiritus sanctus non procedit a filio.]]
+![[LEO Ia, q. 36, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod spiritus sanctus non procedat a filio. Quia secundum Dionysium, *non est audendum dicere aliquid de substantiali divinitate, praeter ea quae divinitus nobis ex sacris eloquiis sunt expressa*. Sed in Scriptura sacra non exprimitur quod spiritus sanctus a filio procedat, sed solum quod procedat a patre; ut patet Ioann. XV, *spiritum veritatis, qui a patre procedit*. Ergo spiritus sanctus non procedit a filio.]]
 ![[CERF Ia, q. 36, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -42,7 +42,7 @@ tags :
 ![[CERF Ia, q. 36, a. 2#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 36, a. 2#ad 1|Ad primum ergo dicendum quod de Deo dicere non debemus quod in sacra Scriptura non invenitur vel per verba, vel per sensum. Licet autem per verba non inveniatur in sacra Scriptura quod spiritus sanctus procedit a filio, invenitur tamen quantum ad sensum; et praecipue ubi dicit filius, [[Jn 16]], de spiritu sancto loquens, *ille me clarificabit, quia de meo accipiet*. Regulariter etiam in sacra Scriptura tenendum est, quod id quod de patre dicitur, oportet de filio intelligi, etiam si dictio exclusiva addatur, nisi solum in illis in quibus pater et filius secundum oppositas relationes distinguuntur. Cum enim dominus, [[Mt 11]], dicit, *nemo novit filium nisi pater*, non excluditur quin filius seipsum cognoscat. Sic igitur cum dicitur quod spiritus sanctus a patre procedit, etiam si adderetur quod a solo patre procedit, non excluderetur inde filius, quia quantum ad hoc quod est esse principium spiritus sancti, non opponuntur pater et filius; sed solum quantum ad hoc, quod hic est pater et ille filius.]]
+![[LEO Ia, q. 36, a. 2#ad 1|Ad primum ergo dicendum quod de Deo dicere non debemus quod in sacra Scriptura non invenitur vel per verba, vel per sensum. Licet autem per verba non inveniatur in sacra Scriptura quod spiritus sanctus procedit a filio, invenitur tamen quantum ad sensum; et praecipue ubi dicit filius, Ioan. XVI, de spiritu sancto loquens, *ille me clarificabit, quia de meo accipiet*. Regulariter etiam in sacra Scriptura tenendum est, quod id quod de patre dicitur, oportet de filio intelligi, etiam si dictio exclusiva addatur, nisi solum in illis in quibus pater et filius secundum oppositas relationes distinguuntur. Cum enim dominus, Matth. XI, dicit, *nemo novit filium nisi pater*, non excluditur quin filius seipsum cognoscat. Sic igitur cum dicitur quod spiritus sanctus a patre procedit, etiam si adderetur quod a solo patre procedit, non excluderetur inde filius, quia quantum ad hoc quod est esse principium spiritus sancti, non opponuntur pater et filius; sed solum quantum ad hoc, quod hic est pater et ille filius.]]
 ![[CERF Ia, q. 36, a. 2#ad 1]]
 
 ###### ad 2
@@ -54,7 +54,7 @@ tags :
 ![[CERF Ia, q. 36, a. 2#ad 3]]
 
 ###### ad 4
-![[LEO Ia, q. 36, a. 2#ad 4|Ad quartum dicendum quod per hoc quod spiritus sanctus dicitur quiescere vel manere in filio, non excluditur quin ab eo procedat, quia et filius in patre manere dicitur, cum tamen a patre procedat. Dicitur etiam spiritus sanctus in filio quiescere, vel sicut amor amantis quiescit in amato; vel quantum ad humanam naturam Christi, propter id quod scriptum est, [[Jn 1]], *super quem videris spiritum descendentem, et manentem super eum, hic est qui baptizat*.]]
+![[LEO Ia, q. 36, a. 2#ad 4|Ad quartum dicendum quod per hoc quod spiritus sanctus dicitur quiescere vel manere in filio, non excluditur quin ab eo procedat, quia et filius in patre manere dicitur, cum tamen a patre procedat. Dicitur etiam spiritus sanctus in filio quiescere, vel sicut amor amantis quiescit in amato; vel quantum ad humanam naturam Christi, propter id quod scriptum est, Ioan. I, *super quem videris spiritum descendentem, et manentem super eum, hic est qui baptizat*.]]
 ![[CERF Ia, q. 36, a. 2#ad 4]]
 
 ###### ad 5

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 13, a. 11#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 13, a. 11#s.c.|Sed contra est quod dicitur [[Ex 3]], quod Moysi quaerenti, *si dixerint mihi, quod est nomen eius? Quid dicam eis?* Et respondit ei dominus, *sic dices eis, qui est misit me ad vos*. Ergo hoc nomen qui est est maxime proprium nomen Dei.]]
+![[LEO Ia, q. 13, a. 11#s.c.|Sed contra est quod dicitur Exod. III, quod Moysi quaerenti, *si dixerint mihi, quod est nomen eius? Quid dicam eis?* Et respondit ei dominus, *sic dices eis, qui est misit me ad vos*. Ergo hoc nomen qui est est maxime proprium nomen Dei.]]
 ![[CERF Ia, q. 13, a. 11#s.c.]]
 
 ###### resp.

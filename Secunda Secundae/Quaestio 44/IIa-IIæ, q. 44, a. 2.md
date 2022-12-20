@@ -14,15 +14,15 @@ tags :
 ![[CERF IIa-IIæ, q. 44, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 44, a. 2#arg. 3|Praeterea, diversa peccata diversis praeceptis opponuntur. Sed non peccat aliquis praetermittens dilectionem proximi, si non praetermittat dilectionem Dei, quinimmo dicitur [[Lc 14]], *si quis venit ad me et non odit patrem suum et matrem suam, non potest meus esse discipulus*. Ergo non est aliud praeceptum de dilectione Dei et de dilectione proximi.]]
+![[LEO IIa-IIæ, q. 44, a. 2#arg. 3|Praeterea, diversa peccata diversis praeceptis opponuntur. Sed non peccat aliquis praetermittens dilectionem proximi, si non praetermittat dilectionem Dei, quinimmo dicitur Luc. XIV, *si quis venit ad me et non odit patrem suum et matrem suam, non potest meus esse discipulus*. Ergo non est aliud praeceptum de dilectione Dei et de dilectione proximi.]]
 ![[CERF IIa-IIæ, q. 44, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 44, a. 2#arg. 4|Praeterea, apostolus dicit, ad [[Rm 13]], *qui diligit proximum legem implevit*. Sed non impletur lex nisi per observantiam omnium praeceptorum. Ergo omnia praecepta includuntur in dilectione proximi. Sufficit ergo hoc unum praeceptum de dilectione proximi. Non ergo debent esse duo praecepta caritatis.]]
+![[LEO IIa-IIæ, q. 44, a. 2#arg. 4|Praeterea, apostolus dicit, ad Rom. XIII, *qui diligit proximum legem implevit*. Sed non impletur lex nisi per observantiam omnium praeceptorum. Ergo omnia praecepta includuntur in dilectione proximi. Sufficit ergo hoc unum praeceptum de dilectione proximi. Non ergo debent esse duo praecepta caritatis.]]
 ![[CERF IIa-IIæ, q. 44, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 44, a. 2#s.c.|Sed contra est quod dicitur [[1 Jn 4]], *hoc mandatum habemus a Deo, ut qui diligit Deum diligat et fratrem suum*.]]
+![[LEO IIa-IIæ, q. 44, a. 2#s.c.|Sed contra est quod dicitur I Ioan. IV, *hoc mandatum habemus a Deo, ut qui diligit Deum diligat et fratrem suum*.]]
 ![[CERF IIa-IIæ, q. 44, a. 2#s.c.]]
 
 ###### resp.

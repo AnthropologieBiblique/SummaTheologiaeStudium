@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 47, a. 15#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 47, a. 15#arg. 2|Praeterea, aetatum variatio est secundum naturam. Sed prudentia consequitur aetates, secundum illud [[Jb 12]], *in antiquis est sapientia, et in multo tempore prudentia*. Ergo prudentia est naturalis.]]
+![[LEO IIa-IIæ, q. 47, a. 15#arg. 2|Praeterea, aetatum variatio est secundum naturam. Sed prudentia consequitur aetates, secundum illud Iob XII, *in antiquis est sapientia, et in multo tempore prudentia*. Ergo prudentia est naturalis.]]
 ![[CERF IIa-IIæ, q. 47, a. 15#arg. 2]]
 
 ###### arg. 3

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 136#Prooemium|Deinde considerandum est de patientia. Et circa hoc quaeruntur quinque. Primo, utrum patientia sit virtus. Secundo, utrum sit maxima virtutum. Tertio, utrum possit haberi sine gratia. Quarto, utrum sit pars fortitudinis. Quinto, utrum sit idem cum longanimitate.]]
-![[CERF IIa-IIæ, q. 136#Prooemium]]
+Deinde considerandum est de patientia. Et circa hoc quaeruntur quinque. Primo, utrum patientia sit virtus. Secundo, utrum sit maxima virtutum. Tertio, utrum possit haberi sine gratia. Quarto, utrum sit pars fortitudinis. Quinto, utrum sit idem cum longanimitate.
 
 ![[IIa-IIæ, q. 136, a. 1#Articulus 1]]
 

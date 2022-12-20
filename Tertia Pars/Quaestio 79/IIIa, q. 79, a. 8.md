@@ -6,11 +6,11 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIIa, q. 79, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod per veniale peccatum non impediatur effectus huius sacramenti. Dicit enim Augustinus, super illud [[Jn 6]], *si quis ex ipso manducaverit etc., panem caelestem spiritualiter manducate; innocentiam ad altare portate; peccata, etsi sint quotidiana, non sint mortifera*. Ex quo patet quod quotidiana peccata, quae dicuntur venialia, spiritualem manducationem non impediunt. Sed spiritualiter manducantes effectum huius sacramenti percipiunt. Ergo peccata venialia non impediunt effectum huius sacramenti.]]
+![[LEO IIIa, q. 79, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod per veniale peccatum non impediatur effectus huius sacramenti. Dicit enim Augustinus, super illud Ioan. VI, *si quis ex ipso manducaverit etc., panem caelestem spiritualiter manducate; innocentiam ad altare portate; peccata, etsi sint quotidiana, non sint mortifera*. Ex quo patet quod quotidiana peccata, quae dicuntur venialia, spiritualem manducationem non impediunt. Sed spiritualiter manducantes effectum huius sacramenti percipiunt. Ergo peccata venialia non impediunt effectum huius sacramenti.]]
 ![[CERF IIIa, q. 79, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 79, a. 8#arg. 2|Praeterea, hoc sacramentum non est minoris virtutis quam Baptismus. Sed effectum Baptismi, sicut supra dictum est, impedit sola fictio, ad quam non pertinent peccata venialia, quia, sicut [[Sg 1]] dicitur, *spiritus sanctus disciplinae effugiet fictum*, qui tamen per peccata venialia non fugatur. Ergo neque effectum huius sacramenti impediunt peccata venialia.]]
+![[LEO IIIa, q. 79, a. 8#arg. 2|Praeterea, hoc sacramentum non est minoris virtutis quam Baptismus. Sed effectum Baptismi, sicut supra dictum est, impedit sola fictio, ad quam non pertinent peccata venialia, quia, sicut Sap. I dicitur, *spiritus sanctus disciplinae effugiet fictum*, qui tamen per peccata venialia non fugatur. Ergo neque effectum huius sacramenti impediunt peccata venialia.]]
 ![[CERF IIIa, q. 79, a. 8#arg. 2]]
 
 ###### arg. 3

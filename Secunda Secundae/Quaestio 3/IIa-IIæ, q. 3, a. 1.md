@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 3, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 3, a. 1#arg. 3|Praeterea, sicut per fidei fervorem inducitur aliquis ad confitendum fidem exterius, ita etiam inducitur ad alia exteriora bona opera facienda, dicitur enim [[Ga 5]] quod *fides per dilectionem operatur*. Sed alia exteriora opera non ponuntur actus fidei. Ergo etiam neque confessio.]]
+![[LEO IIa-IIæ, q. 3, a. 1#arg. 3|Praeterea, sicut per fidei fervorem inducitur aliquis ad confitendum fidem exterius, ita etiam inducitur ad alia exteriora bona opera facienda, dicitur enim Gal. V quod *fides per dilectionem operatur*. Sed alia exteriora opera non ponuntur actus fidei. Ergo etiam neque confessio.]]
 ![[CERF IIa-IIæ, q. 3, a. 1#arg. 3]]
 
 ###### s.c.

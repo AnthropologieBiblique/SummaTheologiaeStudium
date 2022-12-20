@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 82, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 82, a. 3#arg. 2|Praeterea, per peccatum originale sunt in nobis passiones peccatorum; ut patet per apostolum, [[Rm 7]]. Sed multae aliae sunt passiones praeter concupiscentiam, ut supra habitum est. Ergo peccatum originale non magis est concupiscentia quam aliqua alia passio.]]
+![[LEO Ia-IIæ, q. 82, a. 3#arg. 2|Praeterea, per peccatum originale sunt in nobis passiones peccatorum; ut patet per apostolum, Rom. VII. Sed multae aliae sunt passiones praeter concupiscentiam, ut supra habitum est. Ergo peccatum originale non magis est concupiscentia quam aliqua alia passio.]]
 ![[CERF Ia-IIæ, q. 82, a. 3#arg. 2]]
 
 ###### arg. 3

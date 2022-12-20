@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 29, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 29, a. 1#arg. 3|Praeterea, Ignatius martyr, ut dicit Hieronymus, super Matth., hanc causam assignat desponsationis matris Dei, *ut partus eius celaretur Diabolo, dum eum putat non de virgine, sed de uxore generatum*. Quae quidem causa nulla esse videtur. Tum quia Diabolus ea quae corporaliter fiunt perspicacitate sensus cognoscit. Tum quia per multa evidentia signa postmodum Daemones aliqualiter Christum cognoverunt, unde dicitur [[Mc 1]], quod *homo in spiritu immundo exclamavit, dicens, quid nobis et tibi, Iesu Nazarene? Venisti perdere nos? Scio quia sis sanctus Dei*. Non ergo videtur conveniens fuisse quod mater Dei fuisset desponsata.]]
+![[LEO IIIa, q. 29, a. 1#arg. 3|Praeterea, Ignatius martyr, ut dicit Hieronymus, super Matth., hanc causam assignat desponsationis matris Dei, *ut partus eius celaretur Diabolo, dum eum putat non de virgine, sed de uxore generatum*. Quae quidem causa nulla esse videtur. Tum quia Diabolus ea quae corporaliter fiunt perspicacitate sensus cognoscit. Tum quia per multa evidentia signa postmodum Daemones aliqualiter Christum cognoverunt, unde dicitur Marc. I, quod *homo in spiritu immundo exclamavit, dicens, quid nobis et tibi, Iesu Nazarene? Venisti perdere nos? Scio quia sis sanctus Dei*. Non ergo videtur conveniens fuisse quod mater Dei fuisset desponsata.]]
 ![[CERF IIIa, q. 29, a. 1#arg. 3]]
 
 ###### arg. 4
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 29, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 29, a. 1#s.c.|Sed contra est quod dicitur [[Mt 1]], *cum esset desponsata mater eius Maria Ioseph*; et [[Lc 1]], *missus est Gabriel Angelus ad Mariam, virginem desponsatam viro cui nomen erat Ioseph*.]]
+![[LEO IIIa, q. 29, a. 1#s.c.|Sed contra est quod dicitur Matth. I, *cum esset desponsata mater eius Maria Ioseph*; et Luc. I, *missus est Gabriel Angelus ad Mariam, virginem desponsatam viro cui nomen erat Ioseph*.]]
 ![[CERF IIIa, q. 29, a. 1#s.c.]]
 
 ###### resp.
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIIa, q. 29, a. 1#ad 3]]
 
 ###### ad 4
-![[LEO IIIa, q. 29, a. 1#ad 4|Ad quartum dicendum quod iudicio adulterorum lapidabatur secundum legem non solum illa quae iam erat desponsata vel nupta, sed etiam illa quae in domo patris custodiebatur ut virgo quandoque nuptura. Unde dicitur [[Dt 22]], *si non est in puella inventa virginitas, lapidibus obruent eam viri civitatis illius, et morietur, quia fecit nefas in Israel, ut fornicaretur in domo patris sui*. Vel potest dici, secundum quosdam, quod beata virgo erat de stirpe sive parentela Aaron, unde erat cognata Elisabeth, ut dicitur [[Lc 1]]. Virgo autem de genere sacerdotali propter stuprum occidebatur, legitur enim [[Lv 21]], *sacerdotis filia si deprehensa fuerit in stupro, et violaverit nomen patris sui, flammis exuretur*. Quidam referunt verbum Hieronymi ad lapidationem infamiae.]]
+![[LEO IIIa, q. 29, a. 1#ad 4|Ad quartum dicendum quod iudicio adulterorum lapidabatur secundum legem non solum illa quae iam erat desponsata vel nupta, sed etiam illa quae in domo patris custodiebatur ut virgo quandoque nuptura. Unde dicitur Deut. XXII, *si non est in puella inventa virginitas, lapidibus obruent eam viri civitatis illius, et morietur, quia fecit nefas in Israel, ut fornicaretur in domo patris sui*. Vel potest dici, secundum quosdam, quod beata virgo erat de stirpe sive parentela Aaron, unde erat cognata Elisabeth, ut dicitur Luc. I. Virgo autem de genere sacerdotali propter stuprum occidebatur, legitur enim Levit. XXI, *sacerdotis filia si deprehensa fuerit in stupro, et violaverit nomen patris sui, flammis exuretur*. Quidam referunt verbum Hieronymi ad lapidationem infamiae.]]
 ![[CERF IIIa, q. 29, a. 1#ad 4]]
 

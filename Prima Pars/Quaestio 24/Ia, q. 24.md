@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 24#Prooemium|Deinde considerandum est de libro vitae. Et circa hoc quaeruntur tria. Primo, quid sit liber vitae. Secundo, cuius vitae sit liber. Tertio, utrum aliquis possit deleri de libro vitae.]]
-![[CERF Ia, q. 24#Prooemium]]
+Deinde considerandum est de libro vitae. Et circa hoc quaeruntur tria. Primo, quid sit liber vitae. Secundo, cuius vitae sit liber. Tertio, utrum aliquis possit deleri de libro vitae.
 
 ![[Ia, q. 24, a. 1#Articulus 1]]
 

@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia, q. 23, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod praedestinatio non sit certa. Quia super illud [[Ap 3]], *tene quod habes, ne alius accipiat coronam tuam*, dicit Augustinus, quod *alius non est accepturus, nisi iste perdiderit*. Potest ergo et acquiri et perdi corona, quae est praedestinationis effectus. Non est igitur praedestinatio certa.]]
+![[LEO Ia, q. 23, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod praedestinatio non sit certa. Quia super illud Apoc. III, *tene quod habes, ne alius accipiat coronam tuam*, dicit Augustinus, quod *alius non est accepturus, nisi iste perdiderit*. Potest ergo et acquiri et perdi corona, quae est praedestinationis effectus. Non est igitur praedestinatio certa.]]
 ![[CERF Ia, q. 23, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 23, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 23, a. 6#s.c.|Sed contra est quod super illud [[Rm 8]], *quos praescivit, et praedestinavit* etc., dicit Glossa, *praedestinatio est praescientia et praeparatio beneficiorum Dei, qua certissime liberantur quicumque liberantur*.]]
+![[LEO Ia, q. 23, a. 6#s.c.|Sed contra est quod super illud Rom. VIII, *quos praescivit, et praedestinavit* etc., dicit Glossa, *praedestinatio est praescientia et praeparatio beneficiorum Dei, qua certissime liberantur quicumque liberantur*.]]
 ![[CERF Ia, q. 23, a. 6#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 23, a. 6#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 23, a. 6#ad 1|Ad primum ergo dicendum quod corona dicitur esse alicuius, dupliciter. Uno modo, ex praedestinatione divina, et sic nullus coronam suam amittit. Alio modo, ex merito gratiae, quod enim meremur, quodammodo nostrum est. Et sic suam coronam aliquis amittere potest per peccatum mortale sequens. Alius autem illam coronam amissam accipit, inquantum loco eius subrogatur. Non enim permittit Deus aliquos cadere, quin alios erigat, secundum illud [[Jb 34]], *conteret multos et innumerabiles, et stare faciet alios pro eis*. Sic enim in locum Angelorum cadentium substituti sunt homines; et in locum Iudaeorum, gentiles. Substitutus autem in statum gratiae, etiam quantum ad hoc coronam cadentis accipit, quod de bonis quae alius fecit, in aeterna vita gaudebit, in qua unusquisque gaudebit de bonis tam a se quam ab aliis factis.]]
+![[LEO Ia, q. 23, a. 6#ad 1|Ad primum ergo dicendum quod corona dicitur esse alicuius, dupliciter. Uno modo, ex praedestinatione divina, et sic nullus coronam suam amittit. Alio modo, ex merito gratiae, quod enim meremur, quodammodo nostrum est. Et sic suam coronam aliquis amittere potest per peccatum mortale sequens. Alius autem illam coronam amissam accipit, inquantum loco eius subrogatur. Non enim permittit Deus aliquos cadere, quin alios erigat, secundum illud Iob XXXIV, *conteret multos et innumerabiles, et stare faciet alios pro eis*. Sic enim in locum Angelorum cadentium substituti sunt homines; et in locum Iudaeorum, gentiles. Substitutus autem in statum gratiae, etiam quantum ad hoc coronam cadentis accipit, quod de bonis quae alius fecit, in aeterna vita gaudebit, in qua unusquisque gaudebit de bonis tam a se quam ab aliis factis.]]
 ![[CERF Ia, q. 23, a. 6#ad 1]]
 
 ###### ad 2

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 23, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 23, a. 7#arg. 2|Praeterea, caritas non potest esse sine fide, procedit enim ex fide non ficta, ut apostolus dicit, [[1 Tm 1]]. Sed in infidelibus potest esse vera castitas, dum concupiscentias cohibent; et vera iustitia, dum recte iudicant. Ergo vera virtus potest esse sine caritate.]]
+![[LEO IIa-IIæ, q. 23, a. 7#arg. 2|Praeterea, caritas non potest esse sine fide, procedit enim ex fide non ficta, ut apostolus dicit, I Tim. I. Sed in infidelibus potest esse vera castitas, dum concupiscentias cohibent; et vera iustitia, dum recte iudicant. Ergo vera virtus potest esse sine caritate.]]
 ![[CERF IIa-IIæ, q. 23, a. 7#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 23, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 23, a. 7#s.c.|Sed contra est quod apostolus dicit, I ad Cor. XIII, *si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, caritatem autem non habeam, nihil mihi prodest*. Sed virtus vera multum prodest, secundum illud [[Sg 8]], *sobrietatem et iustitiam docet, prudentiam et virtutem, quibus in vita nihil est utilius hominibus*. Ergo sine caritate vera virtus esse non potest.]]
+![[LEO IIa-IIæ, q. 23, a. 7#s.c.|Sed contra est quod apostolus dicit, I ad Cor. XIII, *si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, caritatem autem non habeam, nihil mihi prodest*. Sed virtus vera multum prodest, secundum illud Sap. VIII, *sobrietatem et iustitiam docet, prudentiam et virtutem, quibus in vita nihil est utilius hominibus*. Ergo sine caritate vera virtus esse non potest.]]
 ![[CERF IIa-IIæ, q. 23, a. 7#s.c.]]
 
 ###### resp.

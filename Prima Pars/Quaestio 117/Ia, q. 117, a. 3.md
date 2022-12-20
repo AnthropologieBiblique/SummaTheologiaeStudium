@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 117, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 117, a. 3#arg. 2|Praeterea, super illud ad [[Ga 3]], *quis vos fascinavit veritati non obedire?* Dicit Glossa quod *quidam habent* oculos urentes, qui solo aspectu inficiunt alios, et maxime pueros. Sed hoc non esset, nisi virtus animae posset materiam corporalem immutare. Ergo homo per virtutem suae animae potest materiam corporalem immutare.]]
+![[LEO Ia, q. 117, a. 3#arg. 2|Praeterea, super illud ad Gal. III, *quis vos fascinavit veritati non obedire?* Dicit Glossa quod *quidam habent* oculos urentes, qui solo aspectu inficiunt alios, et maxime pueros. Sed hoc non esset, nisi virtus animae posset materiam corporalem immutare. Ergo homo per virtutem suae animae potest materiam corporalem immutare.]]
 ![[CERF Ia, q. 117, a. 3#arg. 2]]
 
 ###### arg. 3

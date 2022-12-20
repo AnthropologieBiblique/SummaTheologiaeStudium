@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 58, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod iustitia non sit virtus generalis. Iustitia enim condividitur aliis virtutibus, ut patet [[Sg 8]], *sobrietatem et iustitiam docet, prudentiam et virtutem*. Sed generale non condividitur seu connumeratur speciebus sub illo generali contentis. Ergo iustitia non est virtus generalis.]]
+![[LEO IIa-IIæ, q. 58, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod iustitia non sit virtus generalis. Iustitia enim condividitur aliis virtutibus, ut patet Sap. VIII, *sobrietatem et iustitiam docet, prudentiam et virtutem*. Sed generale non condividitur seu connumeratur speciebus sub illo generali contentis. Ergo iustitia non est virtus generalis.]]
 ![[CERF IIa-IIæ, q. 58, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 58, a. 5#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 58, a. 5#ad 3|Ad tertium dicendum quod illa quae sunt ad seipsum sunt ordinabilia ad alterum, praecipue quantum ad bonum commune. Unde et iustitia legalis, secundum quod ordinat ad bonum commune, potest dici virtus generalis; et eadem ratione iniustitia potest dici peccatum commune, unde dicitur [[1 Jn 3]] quod omne peccatum est iniquitas.]]
+![[LEO IIa-IIæ, q. 58, a. 5#ad 3|Ad tertium dicendum quod illa quae sunt ad seipsum sunt ordinabilia ad alterum, praecipue quantum ad bonum commune. Unde et iustitia legalis, secundum quod ordinat ad bonum commune, potest dici virtus generalis; et eadem ratione iniustitia potest dici peccatum commune, unde dicitur I Ioan. III quod omne peccatum est iniquitas.]]
 ![[CERF IIa-IIæ, q. 58, a. 5#ad 3]]
 

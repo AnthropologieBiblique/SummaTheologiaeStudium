@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 33, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod corpus Christi non fuerit formatum in primo instanti conceptionis. Dicitur enim [[Jn 2]], *quadraginta et sex annis aedificatum est templum hoc*, quod exponens Augustinus, in IV de Trin., dicit, *hic numerus perfectioni dominici corporis aperte congruit*. Et in libro octoginta trium quaest. dicit, *non absurde quadraginta sex annis dicitur fabricatum esse templum, quod corpus eius figurabat, ut, quot anni fuerunt in fabricatione templi, tot dies fuerint in corporis dominici perfectione*. Non ergo in primo instanti conceptionis corpus Christi fuit perfecte formatum.]]
+![[LEO IIIa, q. 33, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod corpus Christi non fuerit formatum in primo instanti conceptionis. Dicitur enim Ioan. II, *quadraginta et sex annis aedificatum est templum hoc*, quod exponens Augustinus, in IV de Trin., dicit, *hic numerus perfectioni dominici corporis aperte congruit*. Et in libro octoginta trium quaest. dicit, *non absurde quadraginta sex annis dicitur fabricatum esse templum, quod corpus eius figurabat, ut, quot anni fuerunt in fabricatione templi, tot dies fuerint in corporis dominici perfectione*. Non ergo in primo instanti conceptionis corpus Christi fuit perfecte formatum.]]
 ![[CERF IIIa, q. 33, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 33, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 33, a. 1#arg. 4|Praeterea, sicut potentia augmentativa requirit determinatum tempus in suo actu, ita etiam virtus generativa, utraque enim est potentia naturalis ad vegetabilem animam pertinens. Sed corpus Christi fuit determinato tempore augmentatum, sicut et aliorum hominum corpora, dicitur enim [[Lc 2]], quod *proficiebat aetate et sapientia*. Ergo videtur quod, pari ratione, formatio corporis eius, quae pertinet ad vim generativam, non fuerit in instanti, sed determinato tempore quo aliorum hominum corpora formantur.]]
+![[LEO IIIa, q. 33, a. 1#arg. 4|Praeterea, sicut potentia augmentativa requirit determinatum tempus in suo actu, ita etiam virtus generativa, utraque enim est potentia naturalis ad vegetabilem animam pertinens. Sed corpus Christi fuit determinato tempore augmentatum, sicut et aliorum hominum corpora, dicitur enim Luc. II, quod *proficiebat aetate et sapientia*. Ergo videtur quod, pari ratione, formatio corporis eius, quae pertinet ad vim generativam, non fuerit in instanti, sed determinato tempore quo aliorum hominum corpora formantur.]]
 ![[CERF IIIa, q. 33, a. 1#arg. 4]]
 
 ###### s.c.

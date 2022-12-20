@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 16, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 16, a. 5#s.c.|Sed contra est quod dicit dominus, [[Jn 14]], *ego sum via, veritas et vita*.]]
+![[LEO Ia, q. 16, a. 5#s.c.|Sed contra est quod dicit dominus, Ioan. XIV, *ego sum via, veritas et vita*.]]
 ![[CERF Ia, q. 16, a. 5#s.c.]]
 
 ###### resp.

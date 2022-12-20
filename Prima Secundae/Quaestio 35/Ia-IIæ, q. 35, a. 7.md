@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 35, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 35, a. 7#s.c.|Sed contra est quod dicitur [[Si 25]], *omnis plaga tristitia cordis est, et omnis malitia nequitia mulieris*. Ergo, sicut nequitia mulieris alias nequitias superat, ut ibi intenditur; ita tristitia cordis omnem plagam exteriorem excedit.]]
+![[LEO Ia-IIæ, q. 35, a. 7#s.c.|Sed contra est quod dicitur Eccli. XXV, *omnis plaga tristitia cordis est, et omnis malitia nequitia mulieris*. Ergo, sicut nequitia mulieris alias nequitias superat, ut ibi intenditur; ita tristitia cordis omnem plagam exteriorem excedit.]]
 ![[CERF Ia-IIæ, q. 35, a. 7#s.c.]]
 
 ###### resp.

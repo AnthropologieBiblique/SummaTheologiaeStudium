@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 102, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 102, a. 1#arg. 3|Praeterea, hominibus in dignitate constitutis multa debentur ad quae solvenda lex cogit, secundum illud [[Rm 13]], *reddite omnibus debita, cui tributum, tributum,* et cetera. Ea vero ad quae per legem compellimur, pertinent ad iustitiam legalem, seu etiam ad iustitiam specialem. Ergo observantia non est per se specialis virtus ab aliis distincta.]]
+![[LEO IIa-IIæ, q. 102, a. 1#arg. 3|Praeterea, hominibus in dignitate constitutis multa debentur ad quae solvenda lex cogit, secundum illud Rom. XIII, *reddite omnibus debita, cui tributum, tributum,* et cetera. Ea vero ad quae per legem compellimur, pertinent ad iustitiam legalem, seu etiam ad iustitiam specialem. Ergo observantia non est per se specialis virtus ab aliis distincta.]]
 ![[CERF IIa-IIæ, q. 102, a. 1#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 102, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 102, a. 1#resp.|Respondeo dicendum quod, sicut ex dictis patet, necesse est ut eo modo per quendam ordinatum descensum distinguantur virtutes, sicut et excellentia personarum quibus est aliquid reddendum. Sicut autem carnalis pater particulariter participat rationem principii, quae universaliter invenitur in Deo; ita etiam persona quae quantum ad aliquid providentiam circa nos gerit, particulariter participat proprietatem patris, quia pater est principium et generationis et educationis et disciplinae, et omnium quae ad perfectionem humanae vitae pertinent. Persona autem in dignitate constituta est sicut principium gubernationis respectu aliquarum rerum, sicut princeps civitatis in rebus civilibus, dux autem exercitus in rebus bellicis, magister autem in disciplinis, et simile est in aliis. Et inde est quod omnes tales personae patres appellantur, propter similitudinem curae, sicut [[2R 5]], servi Naaman dixerunt ad eum, *pater, etsi rem grandem dixisset tibi propheta,* et cetera. Et ideo sicut sub religione, per quam cultus tribuitur Deo, quodam ordine invenitur pietas, per quam coluntur parentes; ita sub pietate invenitur observantia, per quam cultus et honor exhibetur personis in dignitate constitutis.]]
+![[LEO IIa-IIæ, q. 102, a. 1#resp.|Respondeo dicendum quod, sicut ex dictis patet, necesse est ut eo modo per quendam ordinatum descensum distinguantur virtutes, sicut et excellentia personarum quibus est aliquid reddendum. Sicut autem carnalis pater particulariter participat rationem principii, quae universaliter invenitur in Deo; ita etiam persona quae quantum ad aliquid providentiam circa nos gerit, particulariter participat proprietatem patris, quia pater est principium et generationis et educationis et disciplinae, et omnium quae ad perfectionem humanae vitae pertinent. Persona autem in dignitate constituta est sicut principium gubernationis respectu aliquarum rerum, sicut princeps civitatis in rebus civilibus, dux autem exercitus in rebus bellicis, magister autem in disciplinis, et simile est in aliis. Et inde est quod omnes tales personae patres appellantur, propter similitudinem curae, sicut IV Reg. V, servi Naaman dixerunt ad eum, *pater, etsi rem grandem dixisset tibi propheta,* et cetera. Et ideo sicut sub religione, per quam cultus tribuitur Deo, quodam ordine invenitur pietas, per quam coluntur parentes; ita sub pietate invenitur observantia, per quam cultus et honor exhibetur personis in dignitate constitutis.]]
 ![[CERF IIa-IIæ, q. 102, a. 1#resp.]]
 
 ###### ad 1

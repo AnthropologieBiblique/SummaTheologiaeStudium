@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 12#Prooemium|Deinde considerandum est de intentione. Et circa hoc quaeruntur quinque. Primo, utrum intentio sit actus intellectus, vel voluntatis secundo, utrum sit tantum finis ultimi. Tertio, utrum aliquis possit simul duo intendere. Quarto, utrum intentio finis sit idem actus cum voluntate eius quod est ad finem. Quinto, utrum intentio conveniat brutis animalibus.]]
-![[CERF Ia-IIæ, q. 12#Prooemium]]
+Deinde considerandum est de intentione. Et circa hoc quaeruntur quinque. Primo, utrum intentio sit actus intellectus, vel voluntatis secundo, utrum sit tantum finis ultimi. Tertio, utrum aliquis possit simul duo intendere. Quarto, utrum intentio finis sit idem actus cum voluntate eius quod est ad finem. Quinto, utrum intentio conveniat brutis animalibus.
 
 ![[Ia-IIæ, q. 12, a. 1#Articulus 1]]
 

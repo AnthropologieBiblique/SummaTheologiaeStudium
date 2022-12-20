@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 10, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 10, a. 1#arg. 2|Praeterea, nullus peccat in eo quod vitare non potest, quia omne peccatum est voluntarium. Sed non est in potestate hominis quod infidelitatem vitet, quam vitare non potest nisi fidem habendo, dicit enim apostolus, ad [[Rm 10]], *quomodo credent ei quem non audierunt? Quomodo autem audient sine praedicante?* Ergo infidelitas non videtur esse peccatum.]]
+![[LEO IIa-IIæ, q. 10, a. 1#arg. 2|Praeterea, nullus peccat in eo quod vitare non potest, quia omne peccatum est voluntarium. Sed non est in potestate hominis quod infidelitatem vitet, quam vitare non potest nisi fidem habendo, dicit enim apostolus, ad Rom. X, *quomodo credent ei quem non audierunt? Quomodo autem audient sine praedicante?* Ergo infidelitas non videtur esse peccatum.]]
 ![[CERF IIa-IIæ, q. 10, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 10, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 10, a. 1#resp.|Respondeo dicendum quod infidelitas dupliciter accipi potest. Uno modo, secundum puram negationem, ut dicatur infidelis ex hoc solo quod non habet fidem. Alio modo potest intelligi infidelitas secundum contrarietatem ad fidem, quia scilicet aliquis repugnat auditui fidei, vel etiam contemnit ipsam, secundum illud [[Is 53]], *quis credidit auditui nostro?* Et in hoc proprie perficitur ratio infidelitatis. Et secundum hoc infidelitas est peccatum. Si autem accipiatur infidelitas secundum negationem puram, sicut in illis qui nihil audierunt de fide, non habet rationem peccati, sed magis poenae, quia talis ignorantia divinorum ex peccato primi parentis est consecuta. Qui autem sic sunt infideles damnantur quidem propter alia peccata, quae sine fide remitti non possunt, non autem damnantur propter infidelitatis peccatum. Unde dominus dicit, [[Jn 15]], *si non venissem, et locutus eis non fuissem, peccatum non haberent*, quod exponens Augustinus dicit quod *loquitur de illo peccato quo non crediderunt in Christum*.]]
+![[LEO IIa-IIæ, q. 10, a. 1#resp.|Respondeo dicendum quod infidelitas dupliciter accipi potest. Uno modo, secundum puram negationem, ut dicatur infidelis ex hoc solo quod non habet fidem. Alio modo potest intelligi infidelitas secundum contrarietatem ad fidem, quia scilicet aliquis repugnat auditui fidei, vel etiam contemnit ipsam, secundum illud Isaiae LIII, *quis credidit auditui nostro?* Et in hoc proprie perficitur ratio infidelitatis. Et secundum hoc infidelitas est peccatum. Si autem accipiatur infidelitas secundum negationem puram, sicut in illis qui nihil audierunt de fide, non habet rationem peccati, sed magis poenae, quia talis ignorantia divinorum ex peccato primi parentis est consecuta. Qui autem sic sunt infideles damnantur quidem propter alia peccata, quae sine fide remitti non possunt, non autem damnantur propter infidelitatis peccatum. Unde dominus dicit, Ioan. XV, *si non venissem, et locutus eis non fuissem, peccatum non haberent*, quod exponens Augustinus dicit quod *loquitur de illo peccato quo non crediderunt in Christum*.]]
 ![[CERF IIa-IIæ, q. 10, a. 1#resp.]]
 
 ###### ad 1

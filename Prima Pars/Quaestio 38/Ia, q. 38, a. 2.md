@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 38, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod donum non sit proprium nomen spiritus sancti. Donum enim dicitur ex eo quod datur. Sed, sicut dicitur [[Is 9]], *filius datus est nobis*. Ergo esse donum convenit filio, sicut spiritui sancto.]]
+![[LEO Ia, q. 38, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod donum non sit proprium nomen spiritus sancti. Donum enim dicitur ex eo quod datur. Sed, sicut dicitur Isa. IX, *filius datus est nobis*. Ergo esse donum convenit filio, sicut spiritui sancto.]]
 ![[CERF Ia, q. 38, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 38, a. 2#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 38, a. 2#ad 1|Ad primum ergo dicendum quod, sicut filius, quia procedit per modum verbi, quod de ratione sua habet quod sit similitudo sui principii dicitur proprie imago, licet etiam spiritus sanctus sit similis patri; ita etiam spiritus sanctus, quia a patre procedit ut amor, dicitur proprie donum, licet etiam filius detur. Hoc enim ipsum quod filius datur, est ex patris amore, secundum illud [[Jn 3]], *sic Deus dilexit mundum, ut filium suum unigenitum daret*.]]
+![[LEO Ia, q. 38, a. 2#ad 1|Ad primum ergo dicendum quod, sicut filius, quia procedit per modum verbi, quod de ratione sua habet quod sit similitudo sui principii dicitur proprie imago, licet etiam spiritus sanctus sit similis patri; ita etiam spiritus sanctus, quia a patre procedit ut amor, dicitur proprie donum, licet etiam filius detur. Hoc enim ipsum quod filius datur, est ex patris amore, secundum illud Ioan. III, *sic Deus dilexit mundum, ut filium suum unigenitum daret*.]]
 ![[CERF Ia, q. 38, a. 2#ad 1]]
 
 ###### ad 2

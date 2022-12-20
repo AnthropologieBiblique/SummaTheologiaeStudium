@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 90, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 90, a. 1#s.c.|Sed contra est quod etiam Deum obsecramus per aliqua sacra eum obtestantes. Apostolus etiam fideles obsecrat per misericordia Dei, ut patet [[Rm 12]], quod videtur ad quandam adiurationem pertinere. Ergo licitum est alios adiurare.]]
+![[LEO IIa-IIæ, q. 90, a. 1#s.c.|Sed contra est quod etiam Deum obsecramus per aliqua sacra eum obtestantes. Apostolus etiam fideles obsecrat per misericordia Dei, ut patet Rom. XII, quod videtur ad quandam adiurationem pertinere. Ergo licitum est alios adiurare.]]
 ![[CERF IIa-IIæ, q. 90, a. 1#s.c.]]
 
 ###### resp.

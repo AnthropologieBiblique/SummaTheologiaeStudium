@@ -6,11 +6,11 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 109, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod homo possit mereri vitam aeternam sine gratia. Dicit enim dominus, [[Mt 19]], *si vis ad vitam ingredi, serva mandata*, ex quo videtur quod ingredi in vitam aeternam sit constitutum in hominis voluntate. Sed id quod in nostra voluntate constitutum est, per nos ipsos possumus. Ergo videtur quod homo per seipsum possit vitam aeternam mereri.]]
+![[LEO Ia-IIæ, q. 109, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod homo possit mereri vitam aeternam sine gratia. Dicit enim dominus, Matth. XIX, *si vis ad vitam ingredi, serva mandata*, ex quo videtur quod ingredi in vitam aeternam sit constitutum in hominis voluntate. Sed id quod in nostra voluntate constitutum est, per nos ipsos possumus. Ergo videtur quod homo per seipsum possit vitam aeternam mereri.]]
 ![[CERF Ia-IIæ, q. 109, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 109, a. 5#arg. 2|Praeterea, vita aeterna est praemium vel merces quae hominibus redditur a Deo; secundum illud [[Mt 5]], *merces vestra multa est in caelis*. Sed merces vel praemium redditur a Deo homini secundum opera eius; secundum illud [[Ps 61]], *tu reddes unicuique secundum opera eius*. Cum igitur homo sit dominus suorum operum, videtur quod in eius potestate constitutum sit ad vitam aeternam pervenire.]]
+![[LEO Ia-IIæ, q. 109, a. 5#arg. 2|Praeterea, vita aeterna est praemium vel merces quae hominibus redditur a Deo; secundum illud Matth. V, *merces vestra multa est in caelis*. Sed merces vel praemium redditur a Deo homini secundum opera eius; secundum illud Psalmi LXI, *tu reddes unicuique secundum opera eius*. Cum igitur homo sit dominus suorum operum, videtur quod in eius potestate constitutum sit ad vitam aeternam pervenire.]]
 ![[CERF Ia-IIæ, q. 109, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 109, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 109, a. 5#s.c.|Sed contra est quod apostolus dicit, ad [[Rm 6]], *gratia Dei vita aeterna*. Quod ideo dicitur, sicut Glossa ibidem dicit, *ut intelligeremus Deum ad aeternam vitam pro sua miseratione nos perducere*.]]
+![[LEO Ia-IIæ, q. 109, a. 5#s.c.|Sed contra est quod apostolus dicit, ad Rom. VI, *gratia Dei vita aeterna*. Quod ideo dicitur, sicut Glossa ibidem dicit, *ut intelligeremus Deum ad aeternam vitam pro sua miseratione nos perducere*.]]
 ![[CERF Ia-IIæ, q. 109, a. 5#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 109, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 109, a. 5#ad 2|Ad secundum dicendum quod, sicut Glossa dicit [[Rm 6]], super illud, *gratia Dei vita aeterna, certum est vitam aeternam bonis operibus reddi, sed ipsa opera quibus redditur, ad Dei gratiam pertinent*, cum etiam supra dictum sit quod ad implendum mandata legis secundum debitum modum, per quem eorum impletio est meritoria, requiritur gratia.]]
+![[LEO Ia-IIæ, q. 109, a. 5#ad 2|Ad secundum dicendum quod, sicut Glossa dicit Rom. VI, super illud, *gratia Dei vita aeterna, certum est vitam aeternam bonis operibus reddi, sed ipsa opera quibus redditur, ad Dei gratiam pertinent*, cum etiam supra dictum sit quod ad implendum mandata legis secundum debitum modum, per quem eorum impletio est meritoria, requiritur gratia.]]
 ![[CERF Ia-IIæ, q. 109, a. 5#ad 2]]
 
 ###### ad 3

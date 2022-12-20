@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia, q. 63, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod aliqua mora fuerit inter creationem et lapsum Angeli. Dicitur enim [[Ez 28]], *ambulasti perfectus in viis tuis a die conceptionis tuae, donec inventa est iniquitas in te*. Sed ambulatio, cum sit motus continuus, requirit aliquam moram. Ergo aliqua mora fuit inter creationem Diaboli et eius lapsum.]]
+![[LEO Ia, q. 63, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod aliqua mora fuerit inter creationem et lapsum Angeli. Dicitur enim Ezech. XXVIII, *ambulasti perfectus in viis tuis a die conceptionis tuae, donec inventa est iniquitas in te*. Sed ambulatio, cum sit motus continuus, requirit aliquam moram. Ergo aliqua mora fuit inter creationem Diaboli et eius lapsum.]]
 ![[CERF Ia, q. 63, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 63, a. 6#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 63, a. 6#s.c.|Sed contra est quod dicitur [[Jn 8]], de Diabolo, quod *in veritate non stetit*. Et sicut Augustinus dicit, XI de Civ. Dei, *oportet ut hoc sic accipiamus, quod in veritate fuerit, sed non permanserit*.]]
+![[LEO Ia, q. 63, a. 6#s.c.|Sed contra est quod dicitur Ioan. VIII, de Diabolo, quod *in veritate non stetit*. Et sicut Augustinus dicit, XI de Civ. Dei, *oportet ut hoc sic accipiamus, quod in veritate fuerit, sed non permanserit*.]]
 ![[CERF Ia, q. 63, a. 6#s.c.]]
 
 ###### resp.

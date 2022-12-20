@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 47, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non fuerit conveniens Christum pati a gentilibus. Quia enim per mortem Christi homines erant a peccato liberandi, conveniens videretur ut paucissimi in morte eius peccarent. Peccaverunt autem in morte eius Iudaei, ex quorum persona dicitur, [[Mt 21]], *hic est heres; venite, occidamus eum*. Ergo videtur conveniens fuisse quod in peccato occisionis Christi gentiles non implicarentur.]]
+![[LEO IIIa, q. 47, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non fuerit conveniens Christum pati a gentilibus. Quia enim per mortem Christi homines erant a peccato liberandi, conveniens videretur ut paucissimi in morte eius peccarent. Peccaverunt autem in morte eius Iudaei, ex quorum persona dicitur, Matth. XXI, *hic est heres; venite, occidamus eum*. Ergo videtur conveniens fuisse quod in peccato occisionis Christi gentiles non implicarentur.]]
 ![[CERF IIIa, q. 47, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -14,15 +14,15 @@ tags :
 ![[CERF IIIa, q. 47, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 47, a. 4#arg. 3|Praeterea, sicut dicitur [[Jn 5]], *Iudaei quaerebant Christum interficere, non solum quia solvebat sabbatum, sed etiam quia patrem suum dicebat Deum, aequalem se Deo faciens*. Sed haec videbantur esse solum contra legem Iudaeorum, unde et ipsi dicunt, [[Jn 5]], *secundum legem debet mori, quia filium Dei se fecit*. Videtur ergo conveniens fuisse quod Christus non a gentilibus, sed a Iudaeis pateretur, et falsum esse quod dixerunt, *nobis non licet interficere quemquam*, cum multa peccata secundum legem morte puniantur, ut patet [[Lv 20]].]]
+![[LEO IIIa, q. 47, a. 4#arg. 3|Praeterea, sicut dicitur Ioan. V, *Iudaei quaerebant Christum interficere, non solum quia solvebat sabbatum, sed etiam quia patrem suum dicebat Deum, aequalem se Deo faciens*. Sed haec videbantur esse solum contra legem Iudaeorum, unde et ipsi dicunt, Ioan. XIX, *secundum legem debet mori, quia filium Dei se fecit*. Videtur ergo conveniens fuisse quod Christus non a gentilibus, sed a Iudaeis pateretur, et falsum esse quod dixerunt, *nobis non licet interficere quemquam*, cum multa peccata secundum legem morte puniantur, ut patet Levit. XX.]]
 ![[CERF IIIa, q. 47, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 47, a. 4#s.c.|Sed contra est quod ipse dominus dicit, [[Mt 20]], *tradent eum gentibus ad illudendum et flagellandum et crucifigendum*.]]
+![[LEO IIIa, q. 47, a. 4#s.c.|Sed contra est quod ipse dominus dicit, Matth. XX, *tradent eum gentibus ad illudendum et flagellandum et crucifigendum*.]]
 ![[CERF IIIa, q. 47, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 47, a. 4#resp.|Respondeo dicendum quod in ipso modo passionis Christi praefiguratus est effectus ipsius. Primo enim passio Christi effectum salutis habuit in Iudaeis, quorum plurimi in morte Christi baptizati sunt, ut patet [[Ac 2]] et IV. Secundo vero, Iudaeis praedicantibus, effectus passionis Christi transivit ad gentes. Et ideo conveniens fuit ut Christus a Iudaeis pati inciperet, et postea, Iudaeis tradentibus, per manus gentilium eius passio finiretur.]]
+![[LEO IIIa, q. 47, a. 4#resp.|Respondeo dicendum quod in ipso modo passionis Christi praefiguratus est effectus ipsius. Primo enim passio Christi effectum salutis habuit in Iudaeis, quorum plurimi in morte Christi baptizati sunt, ut patet Act. II et IV. Secundo vero, Iudaeis praedicantibus, effectus passionis Christi transivit ad gentes. Et ideo conveniens fuit ut Christus a Iudaeis pati inciperet, et postea, Iudaeis tradentibus, per manus gentilium eius passio finiretur.]]
 ![[CERF IIIa, q. 47, a. 4#resp.]]
 
 ###### ad 1

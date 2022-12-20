@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 89, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 89, a. 4#s.c.|Sed contra est quod dives in Inferno positus dixit, habeo quinque fratres, ut habetur [[Lc 16]].]]
+![[LEO Ia, q. 89, a. 4#s.c.|Sed contra est quod dives in Inferno positus dixit, habeo quinque fratres, ut habetur Luc. XVI.]]
 ![[CERF Ia, q. 89, a. 4#s.c.]]
 
 ###### resp.

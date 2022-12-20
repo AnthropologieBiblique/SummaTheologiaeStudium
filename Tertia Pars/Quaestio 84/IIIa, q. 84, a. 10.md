@@ -6,7 +6,7 @@ tags :
 ### Articulus 10
 
 ###### arg. 1
-![[LEO IIIa, q. 84, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod sacramentum poenitentiae non debeat iterari. Dicit enim apostolus, [[He 6]], *impossibile est eos qui semel illuminati sunt, et gustaverunt donum caeleste, et participes facti sunt spiritus sancti, et prolapsi sunt, rursus renovari ad poenitentiam*. Sed quicumque poenituerunt, sunt illuminati, et acceperunt donum spiritus sancti. Ergo quicumque peccat post poenitentiam, non potest iterato poenitere.]]
+![[LEO IIIa, q. 84, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod sacramentum poenitentiae non debeat iterari. Dicit enim apostolus, Heb. VI, *impossibile est eos qui semel illuminati sunt, et gustaverunt donum caeleste, et participes facti sunt spiritus sancti, et prolapsi sunt, rursus renovari ad poenitentiam*. Sed quicumque poenituerunt, sunt illuminati, et acceperunt donum spiritus sancti. Ergo quicumque peccat post poenitentiam, non potest iterato poenitere.]]
 ![[CERF IIIa, q. 84, a. 10#arg. 1]]
 
 ###### arg. 2
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 84, a. 10#arg. 6]]
 
 ###### s.c.
-![[LEO IIIa, q. 84, a. 10#s.c.|Sed contra est quod homo inducitur ad misericordiam exemplo divinae misericordiae, secundum illud [[Lc 6]], *estote misericordes, sicut et pater vester misericors est*. Sed dominus hanc misericordiam discipulis imponit, ut saepius remittant fratribus contra se peccantibus, unde, sicut dicitur [[Mt 18]], Petro quaerenti, *quoties peccaverit in me frater meus, dimittam ei usque septies?* Respondit Iesus, *non dico tibi usque septies, sed usque septuagesies septies*. Ergo etiam Deus saepius per poenitentiam veniam peccantibus praebet, praesertim cum doceat nos petere, *dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris*.]]
+![[LEO IIIa, q. 84, a. 10#s.c.|Sed contra est quod homo inducitur ad misericordiam exemplo divinae misericordiae, secundum illud Luc. VI, *estote misericordes, sicut et pater vester misericors est*. Sed dominus hanc misericordiam discipulis imponit, ut saepius remittant fratribus contra se peccantibus, unde, sicut dicitur Matth. XVIII, Petro quaerenti, *quoties peccaverit in me frater meus, dimittam ei usque septies?* Respondit Iesus, *non dico tibi usque septies, sed usque septuagesies septies*. Ergo etiam Deus saepius per poenitentiam veniam peccantibus praebet, praesertim cum doceat nos petere, *dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris*.]]
 ![[CERF IIIa, q. 84, a. 10#s.c.]]
 
 ###### resp.
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIIa, q. 84, a. 10#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 84, a. 10#ad 1|Ad primum ergo dicendum quod, quia apud Iudaeos erant secundum legem quaedam lavacra instituta, quibus pluries se ab immunditiis purgabant, credebant aliqui Iudaeorum quod etiam per lavacrum Baptismi aliquis pluries purificari possit. Ad quod excludendum, apostolus scribit Hebraeis quod impossibile est eos qui semel sunt illuminati, scilicet per Baptismum, rursum renovari ad poenitentiam, scilicet per Baptismum, qui est *lavacrum regenerationis et renovationis spiritus sancti*, ut dicitur ad [[Tt 3]]. Et rationem assignat ex hoc quod per Baptismum homo Christo commoritur, unde sequitur, *rursum crucifigentes in semetipsis filium Dei*.]]
+![[LEO IIIa, q. 84, a. 10#ad 1|Ad primum ergo dicendum quod, quia apud Iudaeos erant secundum legem quaedam lavacra instituta, quibus pluries se ab immunditiis purgabant, credebant aliqui Iudaeorum quod etiam per lavacrum Baptismi aliquis pluries purificari possit. Ad quod excludendum, apostolus scribit Hebraeis quod impossibile est eos qui semel sunt illuminati, scilicet per Baptismum, rursum renovari ad poenitentiam, scilicet per Baptismum, qui est *lavacrum regenerationis et renovationis spiritus sancti*, ut dicitur ad Tit. III. Et rationem assignat ex hoc quod per Baptismum homo Christo commoritur, unde sequitur, *rursum crucifigentes in semetipsis filium Dei*.]]
 ![[CERF IIIa, q. 84, a. 10#ad 1]]
 
 ###### ad 2

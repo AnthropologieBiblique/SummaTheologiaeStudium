@@ -10,15 +10,15 @@ tags :
 ![[CERF IIa-IIæ, q. 133, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 133, a. 2#arg. 2|Praeterea, [[Mt 25]], servum qui propter pusillanimitatem pecunia uti recusavit, vocat dominus malum et pigrum. Philosophus etiam dicit, in IV Ethic., quod pusillanimi videntur pigri. Sed pigritia opponitur sollicitudini, quae est actus prudentiae, ut supra habitum est. Ergo pusillanimitas non opponitur magnanimitati.]]
+![[LEO IIa-IIæ, q. 133, a. 2#arg. 2|Praeterea, Matth. XXV, servum qui propter pusillanimitatem pecunia uti recusavit, vocat dominus malum et pigrum. Philosophus etiam dicit, in IV Ethic., quod pusillanimi videntur pigri. Sed pigritia opponitur sollicitudini, quae est actus prudentiae, ut supra habitum est. Ergo pusillanimitas non opponitur magnanimitati.]]
 ![[CERF IIa-IIæ, q. 133, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 133, a. 2#arg. 3|Praeterea, pusillanimitas videtur ex inordinato timore procedere, unde dicitur [[Is 35]], *dicite, pusillanimes, confortamini et nolite timere*. Videtur etiam procedere ex inordinata ira, secundum illud [[Col 3]], *patres, nolite ad indignationem provocare filios vestros, ut non pusillo animo fiant*. Sed inordinatio timoris opponitur fortitudini, inordinatio autem irae mansuetudini. Ergo pusillanimitas non opponitur magnanimitati.]]
+![[LEO IIa-IIæ, q. 133, a. 2#arg. 3|Praeterea, pusillanimitas videtur ex inordinato timore procedere, unde dicitur Isaiae XXXV, *dicite, pusillanimes, confortamini et nolite timere*. Videtur etiam procedere ex inordinata ira, secundum illud Coloss. III, *patres, nolite ad indignationem provocare filios vestros, ut non pusillo animo fiant*. Sed inordinatio timoris opponitur fortitudini, inordinatio autem irae mansuetudini. Ergo pusillanimitas non opponitur magnanimitati.]]
 ![[CERF IIa-IIæ, q. 133, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 133, a. 2#arg. 4|Praeterea, vitium quod opponitur alicui virtuti, tanto gravius est quanto magis est virtuti dissimile. Sed pusillanimitas magis est dissimilis magnanimitati quam praesumptio. Ergo, si pusillanimitas opponeretur magnanimitati, sequeretur quod esset gravius peccatum quam praesumptio. Quod est contra id quod dicitur [[Si 37]], *o praesumptio nequissima, unde creata es?* Non ergo pusillanimitas magnanimitati opponitur.]]
+![[LEO IIa-IIæ, q. 133, a. 2#arg. 4|Praeterea, vitium quod opponitur alicui virtuti, tanto gravius est quanto magis est virtuti dissimile. Sed pusillanimitas magis est dissimilis magnanimitati quam praesumptio. Ergo, si pusillanimitas opponeretur magnanimitati, sequeretur quod esset gravius peccatum quam praesumptio. Quod est contra id quod dicitur Eccli. XXXVII, *o praesumptio nequissima, unde creata es?* Non ergo pusillanimitas magnanimitati opponitur.]]
 ![[CERF IIa-IIæ, q. 133, a. 2#arg. 4]]
 
 ###### s.c.

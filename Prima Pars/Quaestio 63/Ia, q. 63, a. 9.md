@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 63, a. 9#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 63, a. 9#arg. 2|Praeterea, iustitia et peccatum eadem ratione inveniuntur in Angelis et hominibus. Sed in hominibus plures inveniuntur mali quam boni; secundum illud [[Qo 1]], *stultorum infinitus est numerus*. Ergo pari ratione in Angelis.]]
+![[LEO Ia, q. 63, a. 9#arg. 2|Praeterea, iustitia et peccatum eadem ratione inveniuntur in Angelis et hominibus. Sed in hominibus plures inveniuntur mali quam boni; secundum illud Eccle. I, *stultorum infinitus est numerus*. Ergo pari ratione in Angelis.]]
 ![[CERF Ia, q. 63, a. 9#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 63, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 63, a. 9#s.c.|Sed contra est quod dicitur [[2R 6]], *plures nobiscum sunt quam cum illis*; quod exponitur de bonis Angelis qui sunt nobiscum in auxilium, et de malis qui nobis adversantur.]]
+![[LEO Ia, q. 63, a. 9#s.c.|Sed contra est quod dicitur IV Reg. VI, *plures nobiscum sunt quam cum illis*; quod exponitur de bonis Angelis qui sunt nobiscum in auxilium, et de malis qui nobis adversantur.]]
 ![[CERF Ia, q. 63, a. 9#s.c.]]
 
 ###### resp.

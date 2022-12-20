@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 69, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod reo non liceat iudicium declinare per appellationem. Dicit enim apostolus, [[Rm 13]], *omnis anima potestatibus sublimioribus subdita sit*. Sed reus appellando recusat subiici potestati superiori, scilicet iudici. Ergo peccat.]]
+![[LEO IIa-IIæ, q. 69, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod reo non liceat iudicium declinare per appellationem. Dicit enim apostolus, Rom. XIII, *omnis anima potestatibus sublimioribus subdita sit*. Sed reus appellando recusat subiici potestati superiori, scilicet iudici. Ergo peccat.]]
 ![[CERF IIa-IIæ, q. 69, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 69, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 69, a. 3#s.c.|Sed contra est quod Paulus Caesarem appellavit, ut habetur [[Ac 25]].]]
+![[LEO IIa-IIæ, q. 69, a. 3#s.c.|Sed contra est quod Paulus Caesarem appellavit, ut habetur Act. XXV.]]
 ![[CERF IIa-IIæ, q. 69, a. 3#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 69, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 69, a. 3#ad 1|Ad primum ergo dicendum quod potestati inferiori intantum aliquis subiici debet inquantum ordinem superioris servat, a quo si exorbitaverit, ei subiici non oportet, puta si aliud iusserit proconsul, et aliud imperator, ut patet per Glossam [[Rm 13]]. Cum autem iudex iniuste aliquem gravat, quantum ad hoc relinquit ordinem superioris potestatis, secundum quam necessitas sibi iuste iudicandi imponitur. Et ideo licitum est ei qui contra iustitiam gravatur, ad directionem superioris potestatis recurrere appellando, vel ante sententiam vel post. Et quia non praesumitur esse rectitudo ubi vera fides non est, ideo non licet Catholico ad infidelem iudicem appellare, secundum illud II, qu. VI, *Catholicus qui causam suam, sive iustam sive iniustam, ad iudicium alterius fidei iudicis provocaverit, excommunicetur*. Nam et apostolus arguit eos qui iudicio contendebant apud infideles.]]
+![[LEO IIa-IIæ, q. 69, a. 3#ad 1|Ad primum ergo dicendum quod potestati inferiori intantum aliquis subiici debet inquantum ordinem superioris servat, a quo si exorbitaverit, ei subiici non oportet, puta si aliud iusserit proconsul, et aliud imperator, ut patet per Glossam Rom. XIII. Cum autem iudex iniuste aliquem gravat, quantum ad hoc relinquit ordinem superioris potestatis, secundum quam necessitas sibi iuste iudicandi imponitur. Et ideo licitum est ei qui contra iustitiam gravatur, ad directionem superioris potestatis recurrere appellando, vel ante sententiam vel post. Et quia non praesumitur esse rectitudo ubi vera fides non est, ideo non licet Catholico ad infidelem iudicem appellare, secundum illud II, qu. VI, *Catholicus qui causam suam, sive iustam sive iniustam, ad iudicium alterius fidei iudicis provocaverit, excommunicetur*. Nam et apostolus arguit eos qui iudicio contendebant apud infideles.]]
 ![[CERF IIa-IIæ, q. 69, a. 3#ad 1]]
 
 ###### ad 2

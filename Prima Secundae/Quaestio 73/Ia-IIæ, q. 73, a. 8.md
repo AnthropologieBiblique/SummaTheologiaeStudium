@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 73, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 73, a. 8#arg. 2|Praeterea, nocumentum maxime invenitur in peccatis quae sunt contra proximum, quia sibi ipsi nemo vult nocere; Deo autem nemo potest nocere, secundum illud [[Jb 35]], *si multiplicatae fuerint iniquitates tuae, quid facies contra illum? Homini, qui similis tibi est, nocebit impietas tua*. Si ergo peccatum aggravaretur propter maius nocumentum, sequeretur quod peccatum quo quis peccat in proximum, esset gravius peccato quo quis peccat in Deum vel in seipsum.]]
+![[LEO Ia-IIæ, q. 73, a. 8#arg. 2|Praeterea, nocumentum maxime invenitur in peccatis quae sunt contra proximum, quia sibi ipsi nemo vult nocere; Deo autem nemo potest nocere, secundum illud Iob XXXV, *si multiplicatae fuerint iniquitates tuae, quid facies contra illum? Homini, qui similis tibi est, nocebit impietas tua*. Si ergo peccatum aggravaretur propter maius nocumentum, sequeretur quod peccatum quo quis peccat in proximum, esset gravius peccato quo quis peccat in Deum vel in seipsum.]]
 ![[CERF Ia-IIæ, q. 73, a. 8#arg. 2]]
 
 ###### arg. 3

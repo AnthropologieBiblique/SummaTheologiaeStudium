@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 44#Prooemium|Deinde considerandum est de effectibus timoris. Et circa hoc quaeruntur quatuor. Primo, utrum timor faciat contractionem. Secundo, utrum faciat consiliativos. Tertio, utrum faciat tremorem. Quarto, utrum impediat operationem.]]
-![[CERF Ia-IIæ, q. 44#Prooemium]]
+Deinde considerandum est de effectibus timoris. Et circa hoc quaeruntur quatuor. Primo, utrum timor faciat contractionem. Secundo, utrum faciat consiliativos. Tertio, utrum faciat tremorem. Quarto, utrum impediat operationem.
 
 ![[Ia-IIæ, q. 44, a. 1#Articulus 1]]
 

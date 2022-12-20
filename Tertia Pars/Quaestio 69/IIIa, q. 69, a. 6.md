@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 69, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 69, a. 6#arg. 2|Praeterea, super illud [[Jn 14]], *maiora horum faciet*, dicit Augustinus quod ut ex impio iustus fiat, *in illo, sed non sine illo Christus operatur*. Sed puer, cum non habeat usum liberi arbitrii, non cooperatur Christo ad suam iustificationem, immo quandoque pro posse renititur. Ergo non iustificatur per gratiam et virtutes.]]
+![[LEO IIIa, q. 69, a. 6#arg. 2|Praeterea, super illud Ioan. XIV, *maiora horum faciet*, dicit Augustinus quod ut ex impio iustus fiat, *in illo, sed non sine illo Christus operatur*. Sed puer, cum non habeat usum liberi arbitrii, non cooperatur Christo ad suam iustificationem, immo quandoque pro posse renititur. Ergo non iustificatur per gratiam et virtutes.]]
 ![[CERF IIIa, q. 69, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 69, a. 6#arg. 3|Praeterea, [[Rm 4]] dicitur, *ei qui non operatur, credenti autem in eum qui iustificat impium, reputabitur fides eius ad iustitiam, secundum propositum gratiae Dei*. Sed puer non est credens in eum qui iustificat impium. Ergo non consequitur gratiam iustificantem neque virtutes.]]
+![[LEO IIIa, q. 69, a. 6#arg. 3|Praeterea, Rom. IV dicitur, *ei qui non operatur, credenti autem in eum qui iustificat impium, reputabitur fides eius ad iustitiam, secundum propositum gratiae Dei*. Sed puer non est credens in eum qui iustificat impium. Ergo non consequitur gratiam iustificantem neque virtutes.]]
 ![[CERF IIIa, q. 69, a. 6#arg. 3]]
 
 ###### arg. 4
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 69, a. 6#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 69, a. 6#resp.|Respondeo dicendum quod quidam antiqui posuerunt quod pueris in Baptismo non dantur gratia et virtutes, sed imprimitur eis character Christi, cuius virtute, cum ad perfectam aetatem venerint, consequuntur gratiam et virtutes. Sed hoc patet esse falsum dupliciter. Primo quidem, quia pueri, sicut et adulti, in Baptismo efficiuntur membra Christi. Unde necesse est quod a capite recipiant influxum gratiae et virtutis. Secundo, quia secundum hoc pueri decedentes post Baptismum non pervenirent ad vitam aeternam, quia, ut dicitur [[Rm 6]], *gratia Dei est vita aeterna*. Et ita nihil profuisset eis ad salutem baptizatos fuisse. Causa autem erroris fuit quia nescierunt distinguere inter habitum et actum. Et sic, videntes pueros inhabiles ad actus virtutum, crediderunt eos post Baptismum nullatenus virtutem habere. Sed ista impotentia operandi non accidit pueris ex defectu habituum, sed ex impedimento corporali, sicut etiam dormientes, quamvis habeant habitus virtutum, impediuntur tamen ab actibus propter somnum.]]
+![[LEO IIIa, q. 69, a. 6#resp.|Respondeo dicendum quod quidam antiqui posuerunt quod pueris in Baptismo non dantur gratia et virtutes, sed imprimitur eis character Christi, cuius virtute, cum ad perfectam aetatem venerint, consequuntur gratiam et virtutes. Sed hoc patet esse falsum dupliciter. Primo quidem, quia pueri, sicut et adulti, in Baptismo efficiuntur membra Christi. Unde necesse est quod a capite recipiant influxum gratiae et virtutis. Secundo, quia secundum hoc pueri decedentes post Baptismum non pervenirent ad vitam aeternam, quia, ut dicitur Rom. VI, *gratia Dei est vita aeterna*. Et ita nihil profuisset eis ad salutem baptizatos fuisse. Causa autem erroris fuit quia nescierunt distinguere inter habitum et actum. Et sic, videntes pueros inhabiles ad actus virtutum, crediderunt eos post Baptismum nullatenus virtutem habere. Sed ista impotentia operandi non accidit pueris ex defectu habituum, sed ex impedimento corporali, sicut etiam dormientes, quamvis habeant habitus virtutum, impediuntur tamen ab actibus propter somnum.]]
 ![[CERF IIIa, q. 69, a. 6#resp.]]
 
 ###### ad 1

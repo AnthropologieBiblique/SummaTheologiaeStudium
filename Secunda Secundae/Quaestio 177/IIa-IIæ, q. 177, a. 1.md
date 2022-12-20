@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 177, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 177, a. 1#arg. 3|Praeterea, nulla gratia datur ex meritis, quia si ex operibus, iam non est gratia, ut dicitur [[Rm 11]]. Sed sermo datur alicui ex meritis, dicit enim Gregorius, exponens illud Psalmi, *ne auferas de ore meo verbum veritatis, quod verbum veritatis omnipotens Deus facientibus tribuit, et non facientibus tollit*. Ergo videtur quod donum sermonis non sit gratia gratis data.]]
+![[LEO IIa-IIæ, q. 177, a. 1#arg. 3|Praeterea, nulla gratia datur ex meritis, quia si ex operibus, iam non est gratia, ut dicitur Rom. XI. Sed sermo datur alicui ex meritis, dicit enim Gregorius, exponens illud Psalmi, *ne auferas de ore meo verbum veritatis, quod verbum veritatis omnipotens Deus facientibus tribuit, et non facientibus tollit*. Ergo videtur quod donum sermonis non sit gratia gratis data.]]
 ![[CERF IIa-IIæ, q. 177, a. 1#arg. 3]]
 
 ###### arg. 4
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 177, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 177, a. 1#s.c.|Sed in contrarium est quod dicitur [[Si 6]], lingua eucharis, idest gratiosa, in bono homine abundabit. Sed bonitas hominis est ex gratia. Ergo etiam et gratiositas sermonis.]]
+![[LEO IIa-IIæ, q. 177, a. 1#s.c.|Sed in contrarium est quod dicitur Eccli. VI, lingua eucharis, idest gratiosa, in bono homine abundabit. Sed bonitas hominis est ex gratia. Ergo etiam et gratiositas sermonis.]]
 ![[CERF IIa-IIæ, q. 177, a. 1#s.c.]]
 
 ###### resp.

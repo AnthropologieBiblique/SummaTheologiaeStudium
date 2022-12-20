@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 81#Prooemium|Deinde considerandum est de sensualitate. Circa quam quaeruntur tria. Primo, utrum sensualitas sit vis appetitiva tantum. Secundo, utrum dividatur sensualitas in irascibilem et concupiscibilem, sicut in diversas potentias. Tertio, utrum irascibilis et concupiscibilis obediant rationi.]]
-![[CERF Ia, q. 81#Prooemium]]
+Deinde considerandum est de sensualitate. Circa quam quaeruntur tria. Primo, utrum sensualitas sit vis appetitiva tantum. Secundo, utrum dividatur sensualitas in irascibilem et concupiscibilem, sicut in diversas potentias. Tertio, utrum irascibilis et concupiscibilis obediant rationi.
 
 ![[Ia, q. 81, a. 1#Articulus 1]]
 

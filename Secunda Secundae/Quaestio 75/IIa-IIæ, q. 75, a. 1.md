@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 75, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 75, a. 1#ad 3|Ad tertium dicendum quod securitas conscientiae et quies illius magnum bonum est, secundum illud [[Pr 15]], *secura mens quasi iuge convivium*. Et ideo qui conscientiam alicuius inquietat confundendo ipsum, aliquod speciale nocumentum ei infert. Unde derisio est peccatum speciale.]]
+![[LEO IIa-IIæ, q. 75, a. 1#ad 3|Ad tertium dicendum quod securitas conscientiae et quies illius magnum bonum est, secundum illud Prov. XV, *secura mens quasi iuge convivium*. Et ideo qui conscientiam alicuius inquietat confundendo ipsum, aliquod speciale nocumentum ei infert. Unde derisio est peccatum speciale.]]
 ![[CERF IIa-IIæ, q. 75, a. 1#ad 3]]
 

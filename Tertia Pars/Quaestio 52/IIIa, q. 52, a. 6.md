@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIIa, q. 52, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod Christus aliquos damnatos ab Inferno liberavit. Dicitur enim [[Is 24]], *congregabuntur congregatione unius fascis in lacum, et claudentur in carcerem, et post multos dies visitabuntur*. Loquitur autem ibi de damnatis, qui militiam caeli adoraverant. Ergo videtur quod etiam damnati, Christo descendente ad Inferos, sunt visitati. Quod ad eorum liberationem videtur pertinere.]]
+![[LEO IIIa, q. 52, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod Christus aliquos damnatos ab Inferno liberavit. Dicitur enim Isaiae XXIV, *congregabuntur congregatione unius fascis in lacum, et claudentur in carcerem, et post multos dies visitabuntur*. Loquitur autem ibi de damnatis, qui militiam caeli adoraverant. Ergo videtur quod etiam damnati, Christo descendente ad Inferos, sunt visitati. Quod ad eorum liberationem videtur pertinere.]]
 ![[CERF IIIa, q. 52, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 52, a. 6#arg. 2|Praeterea, super illud [[Za 9]], *tu autem in sanguine testamenti tui eduxisti vinctos de lacu in quo non erat aqua*, dicit Glossa, *tu eos liberasti qui tenebantur vincti carceribus, ubi nulla misericordia eos refrigerabat, quam dives ille petebat*. Sed soli damnati includuntur carceribus absque misericordia. Ergo Christus liberavit aliquos de Inferno damnatorum.]]
+![[LEO IIIa, q. 52, a. 6#arg. 2|Praeterea, super illud Zach. IX, *tu autem in sanguine testamenti tui eduxisti vinctos de lacu in quo non erat aqua*, dicit Glossa, *tu eos liberasti qui tenebantur vincti carceribus, ubi nulla misericordia eos refrigerabat, quam dives ille petebat*. Sed soli damnati includuntur carceribus absque misericordia. Ergo Christus liberavit aliquos de Inferno damnatorum.]]
 ![[CERF IIIa, q. 52, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 52, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 52, a. 6#s.c.|Sed contra est quod dicitur [[Os 13]], *ero mors tua, o mors. Morsus tuus, Inferne*. Glossa, *electos educendo, reprobos vero ibidem relinquendo*. Sed soli reprobi sunt in Inferno damnatorum. Ergo per descensum Christi ad Inferos non sunt aliqui de Inferno damnatorum liberati.]]
+![[LEO IIIa, q. 52, a. 6#s.c.|Sed contra est quod dicitur Osee XIII, *ero mors tua, o mors. Morsus tuus, Inferne*. Glossa, *electos educendo, reprobos vero ibidem relinquendo*. Sed soli reprobi sunt in Inferno damnatorum. Ergo per descensum Christi ad Inferos non sunt aliqui de Inferno damnatorum liberati.]]
 ![[CERF IIIa, q. 52, a. 6#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 52, a. 6#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 52, a. 6#ad 1|Ad primum ergo dicendum quod, Christo descendente ad Inferos, omnes qui erant in quacumque parte Inferni, sunt aliqualiter visitati, sed quidam ad suam consolationem et liberationem; quidam autem ad suam confutationem et confusionem, scilicet damnati. Unde ibidem subditur, *et erubescet luna, et confundetur sol,* et cetera. Potest etiam hoc referri ad visitationem qua visitabuntur in die iudicii, non ut liberentur, sed ut condemnentur amplius, secundum illud [[So 1]], *visitabo super viros defixos in faecibus suis*.]]
+![[LEO IIIa, q. 52, a. 6#ad 1|Ad primum ergo dicendum quod, Christo descendente ad Inferos, omnes qui erant in quacumque parte Inferni, sunt aliqualiter visitati, sed quidam ad suam consolationem et liberationem; quidam autem ad suam confutationem et confusionem, scilicet damnati. Unde ibidem subditur, *et erubescet luna, et confundetur sol,* et cetera. Potest etiam hoc referri ad visitationem qua visitabuntur in die iudicii, non ut liberentur, sed ut condemnentur amplius, secundum illud Sophon. I, *visitabo super viros defixos in faecibus suis*.]]
 ![[CERF IIIa, q. 52, a. 6#ad 1]]
 
 ###### ad 2

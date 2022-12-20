@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIIa, q. 73, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod hoc sacramentum sit de necessitate salutis. Dicit enim dominus, [[Jn 6]], *nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis*. Sed in hoc sacramento manducatur caro Christi et bibitur sanguis eius. Ergo sine hoc sacramento non potest homo habere salutem spiritualis vitae.]]
+![[LEO IIIa, q. 73, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod hoc sacramentum sit de necessitate salutis. Dicit enim dominus, Ioan. VI, *nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis*. Sed in hoc sacramento manducatur caro Christi et bibitur sanguis eius. Ergo sine hoc sacramento non potest homo habere salutem spiritualis vitae.]]
 ![[CERF IIIa, q. 73, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 73, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 73, a. 3#arg. 3|Praeterea, sicut Baptismus est sacramentum dominicae passionis, sine qua non est salus, ita et Eucharistia, dicit enim apostolus, [[1 Co 11]], *quotiescumque manducaveritis panem hunc et calicem biberitis, mortem domini annuntiabitis, donec veniat*. Ergo, sicut Baptismus est de necessitate salutis, ita hoc sacramentum.]]
+![[LEO IIIa, q. 73, a. 3#arg. 3|Praeterea, sicut Baptismus est sacramentum dominicae passionis, sine qua non est salus, ita et Eucharistia, dicit enim apostolus, I Cor. XI, *quotiescumque manducaveritis panem hunc et calicem biberitis, mortem domini annuntiabitis, donec veniat*. Ergo, sicut Baptismus est de necessitate salutis, ita hoc sacramentum.]]
 ![[CERF IIIa, q. 73, a. 3#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 73, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 73, a. 3#ad 3|Ad tertium dicendum quod Baptismus est sacramentum mortis et passionis Christi prout homo regeneratur in Christo virtute passionis eius. Sed Eucharistia est sacramentum passionis Christi prout homo perficitur in unione ad Christum passum. Unde, sicut Baptismus dicitur sacramentum fidei, quae est fundamentum spiritualis vitae; ita Eucharistia dicitur sacramentum caritatis, quae est vinculum perfectionis, ut dicitur [[Col 3]].]]
+![[LEO IIIa, q. 73, a. 3#ad 3|Ad tertium dicendum quod Baptismus est sacramentum mortis et passionis Christi prout homo regeneratur in Christo virtute passionis eius. Sed Eucharistia est sacramentum passionis Christi prout homo perficitur in unione ad Christum passum. Unde, sicut Baptismus dicitur sacramentum fidei, quae est fundamentum spiritualis vitae; ita Eucharistia dicitur sacramentum caritatis, quae est vinculum perfectionis, ut dicitur Coloss. III.]]
 ![[CERF IIIa, q. 73, a. 3#ad 3]]
 

@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia, q. 5, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod ratio boni non consistat in modo, specie et ordine. Bonum enim et ens ratione differunt, ut supra dictum est. Sed modus, species et ordo pertinere ad rationem entis videntur, quia, sicut dicitur [[Sg 11]], *omnia in numero, pondere et mensura disposuisti*, ad quae tria reducuntur species, modus et ordo, quia, ut dicit Augustinus, IV super Gen. ad litteram, *mensura omni rei modum praefigit, et numerus omni rei speciem praebet, et pondus omnem rem ad quietem et stabilitatem trahit*. Ergo ratio boni non consistit in modo, specie et ordine.]]
+![[LEO Ia, q. 5, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod ratio boni non consistat in modo, specie et ordine. Bonum enim et ens ratione differunt, ut supra dictum est. Sed modus, species et ordo pertinere ad rationem entis videntur, quia, sicut dicitur Sap. XI, *omnia in numero, pondere et mensura disposuisti*, ad quae tria reducuntur species, modus et ordo, quia, ut dicit Augustinus, IV super Gen. ad litteram, *mensura omni rei modum praefigit, et numerus omni rei speciem praebet, et pondus omnem rem ad quietem et stabilitatem trahit*. Ergo ratio boni non consistit in modo, specie et ordine.]]
 ![[CERF Ia, q. 5, a. 5#arg. 1]]
 
 ###### arg. 2

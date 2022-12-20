@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 102#Prooemium|Deinde considerandum est de loco hominis, qui est Paradisus. Et circa hoc quaeruntur quatuor. Primo, utrum Paradisus sit locus corporeus. Secundo, utrum sit conveniens locus habitationis humanae. Tertio, ad quid homo in Paradiso positus fuit. Quarto, utrum in Paradiso debuit fieri.]]
-![[CERF Ia, q. 102#Prooemium]]
+Deinde considerandum est de loco hominis, qui est Paradisus. Et circa hoc quaeruntur quatuor. Primo, utrum Paradisus sit locus corporeus. Secundo, utrum sit conveniens locus habitationis humanae. Tertio, ad quid homo in Paradiso positus fuit. Quarto, utrum in Paradiso debuit fieri.
 
 ![[Ia, q. 102, a. 1#Articulus 1]]
 

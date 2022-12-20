@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 47, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 47, a. 6#arg. 2|Praeterea, dominus dixit Pilato, [[Jn 19]], *qui tradidit me tibi, maius peccatum habet*. Ipse autem Pilatus fecit Christum crucifigi per suos ministros. Ergo videtur fuisse maius peccatum Iudae proditoris peccato crucifigentium Christum.]]
+![[LEO IIIa, q. 47, a. 6#arg. 2|Praeterea, dominus dixit Pilato, Ioan. XIX, *qui tradidit me tibi, maius peccatum habet*. Ipse autem Pilatus fecit Christum crucifigi per suos ministros. Ergo videtur fuisse maius peccatum Iudae proditoris peccato crucifigentium Christum.]]
 ![[CERF IIIa, q. 47, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 47, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 47, a. 6#s.c.|Sed contra est quod super illud [[Mt 23]], *et vos implete mensuram patrum vestrorum*, dicit Chrysostomus, *quantum ad veritatem, excesserunt mensuram patrum suorum. Illi enim homines occiderunt, isti Deum crucifixerunt*.]]
+![[LEO IIIa, q. 47, a. 6#s.c.|Sed contra est quod super illud Matth. XXIII, *et vos implete mensuram patrum vestrorum*, dicit Chrysostomus, *quantum ad veritatem, excesserunt mensuram patrum suorum. Illi enim homines occiderunt, isti Deum crucifixerunt*.]]
 ![[CERF IIIa, q. 47, a. 6#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 47, a. 6#resp.|Respondeo dicendum quod, sicut dictum est, principes Iudaeorum cognoverunt Christum, et si aliqua ignorantia fuit in eis, fuit ignorantia affectata, quae eos non poterat excusare. Et ideo peccatum eorum fuit gravissimum, tum ex genere peccati; tum ex malitia voluntatis. Minores autem Iudaei gravissime peccaverunt quantum ad genus peccati, in aliquo tamen diminuebatur eorum peccatum propter eorum ignorantiam. Unde super illud [[Lc 23]], nesciunt quid faciunt, dicit Beda, *pro illis rogat qui nescierunt quod fecerunt, zelum Dei habentes, sed non secundum scientiam*. Multo autem magis fuit excusabile peccatum gentilium per quorum manus Christus crucifixus est, qui legis scientiam non habebant.]]
+![[LEO IIIa, q. 47, a. 6#resp.|Respondeo dicendum quod, sicut dictum est, principes Iudaeorum cognoverunt Christum, et si aliqua ignorantia fuit in eis, fuit ignorantia affectata, quae eos non poterat excusare. Et ideo peccatum eorum fuit gravissimum, tum ex genere peccati; tum ex malitia voluntatis. Minores autem Iudaei gravissime peccaverunt quantum ad genus peccati, in aliquo tamen diminuebatur eorum peccatum propter eorum ignorantiam. Unde super illud Luc. XXIII, nesciunt quid faciunt, dicit Beda, *pro illis rogat qui nescierunt quod fecerunt, zelum Dei habentes, sed non secundum scientiam*. Multo autem magis fuit excusabile peccatum gentilium per quorum manus Christus crucifixus est, qui legis scientiam non habebant.]]
 ![[CERF IIIa, q. 47, a. 6#resp.]]
 
 ###### ad 1
@@ -30,10 +30,10 @@ tags :
 ![[CERF IIIa, q. 47, a. 6#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 47, a. 6#ad 2|Ad secundum dicendum quod Iudas tradidit Christum, non Pilato, sed principibus sacerdotum, qui tradiderunt eum Pilato, secundum illud [[Jn 18]], *gens tua et pontifices tui tradiderunt te mihi*. Horum tamen omnium peccatum fuit maius quam Pilati, qui timore Caesaris Christum occidit; et etiam quam peccatum militum, qui mandato praesidis Christum crucifixerunt; non ex cupiditate, sicut Iudas, nec ex invidia et odio, sicut principes sacerdotum.]]
+![[LEO IIIa, q. 47, a. 6#ad 2|Ad secundum dicendum quod Iudas tradidit Christum, non Pilato, sed principibus sacerdotum, qui tradiderunt eum Pilato, secundum illud Ioan. XVIII, *gens tua et pontifices tui tradiderunt te mihi*. Horum tamen omnium peccatum fuit maius quam Pilati, qui timore Caesaris Christum occidit; et etiam quam peccatum militum, qui mandato praesidis Christum crucifixerunt; non ex cupiditate, sicut Iudas, nec ex invidia et odio, sicut principes sacerdotum.]]
 ![[CERF IIIa, q. 47, a. 6#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 47, a. 6#ad 3|Ad tertium dicendum quod Christus voluit quidem suam passionem, sicut et Deus eam voluit, iniquam tamen actionem Iudaeorum noluit. Et ideo occisores Christi ab iniustitia non excusantur. Et tamen ille qui occidit hominem, iniuriam facit non solum homini, sed etiam Deo et reipublicae, sicut etiam et ille qui occidit seipsum, ut philosophus dicit, in V Ethic. Unde David damnavit illum ad mortem qui *non timuerat mittere manum ut occideret Christum domini*, quamvis eo petente, ut legitur [[2S 1]].]]
+![[LEO IIIa, q. 47, a. 6#ad 3|Ad tertium dicendum quod Christus voluit quidem suam passionem, sicut et Deus eam voluit, iniquam tamen actionem Iudaeorum noluit. Et ideo occisores Christi ab iniustitia non excusantur. Et tamen ille qui occidit hominem, iniuriam facit non solum homini, sed etiam Deo et reipublicae, sicut etiam et ille qui occidit seipsum, ut philosophus dicit, in V Ethic. Unde David damnavit illum ad mortem qui *non timuerat mittere manum ut occideret Christum domini*, quamvis eo petente, ut legitur II Reg. I.]]
 ![[CERF IIIa, q. 47, a. 6#ad 3]]
 

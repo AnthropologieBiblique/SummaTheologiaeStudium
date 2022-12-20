@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 25, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 25, a. 5#s.c.|Sed contra est quod dicitur [[Mt 26]], *an non possum rogare patrem meum, et exhibebit mihi modo plus quam duodecim legiones Angelorum?* Neque autem ipse rogabat, neque pater exhibebat ad repugnandum Iudaeis. Ergo Deus potest facere quod non facit.]]
+![[LEO Ia, q. 25, a. 5#s.c.|Sed contra est quod dicitur Matt. XXVI, *an non possum rogare patrem meum, et exhibebit mihi modo plus quam duodecim legiones Angelorum?* Neque autem ipse rogabat, neque pater exhibebat ad repugnandum Iudaeis. Ergo Deus potest facere quod non facit.]]
 ![[CERF Ia, q. 25, a. 5#s.c.]]
 
 ###### resp.

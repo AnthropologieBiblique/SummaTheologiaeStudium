@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 153, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod luxuria non sit vitium capitale. Luxuria enim videtur idem esse immunditiae, ut patet per Glossam, [[Ep 5]]. Sed immunditia est filia gulae, ut patet per Gregorium, XXXI Moral. Ergo luxuria non est vitium capitale.]]
+![[LEO IIa-IIæ, q. 153, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod luxuria non sit vitium capitale. Luxuria enim videtur idem esse immunditiae, ut patet per Glossam, Ephes. V. Sed immunditia est filia gulae, ut patet per Gregorium, XXXI Moral. Ergo luxuria non est vitium capitale.]]
 ![[CERF IIa-IIæ, q. 153, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 153, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 153, a. 4#arg. 3|Praeterea, luxuria causatur ex desperatione, secundum illud [[Ep 4]], *qui, desperantes, seipsos tradiderunt impudicitiae*. Sed desperatio non est vitium capitale, quinimmo ponitur filia acediae, ut supra habitum est. Ergo multo minus luxuria est vitium capitale.]]
+![[LEO IIa-IIæ, q. 153, a. 4#arg. 3|Praeterea, luxuria causatur ex desperatione, secundum illud Ephes. IV, *qui, desperantes, seipsos tradiderunt impudicitiae*. Sed desperatio non est vitium capitale, quinimmo ponitur filia acediae, ut supra habitum est. Ergo multo minus luxuria est vitium capitale.]]
 ![[CERF IIa-IIæ, q. 153, a. 4#arg. 3]]
 
 ###### s.c.

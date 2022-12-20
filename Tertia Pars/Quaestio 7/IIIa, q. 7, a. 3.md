@@ -10,15 +10,15 @@ tags :
 ![[CERF IIIa, q. 7, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 7, a. 3#arg. 2|Praeterea, Christus non docuit virtutes quas ipse non habuit, secundum illud [[Ac 1]], *coepit Iesus facere et docere*. Sed de Christo dicitur, [[He 12]], quod est *auctor et consummator fidei*. Ergo in eo maxime fuit fides.]]
+![[LEO IIIa, q. 7, a. 3#arg. 2|Praeterea, Christus non docuit virtutes quas ipse non habuit, secundum illud Act. I, *coepit Iesus facere et docere*. Sed de Christo dicitur, Heb. XII, quod est *auctor et consummator fidei*. Ergo in eo maxime fuit fides.]]
 ![[CERF IIIa, q. 7, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 7, a. 3#arg. 3|Praeterea, quidquid est imperfectionis excluditur a beatis. Sed in beatis est fides, nam super illud [[Rm 1]], *iustitia Dei revelatur in eo ex fide in fidem*, dicit Glossa, *de fide verborum et spei in fidem rerum et speciei*. Ergo videtur quod etiam in Christo fuerit fides, cum nihil imperfectionis importet.]]
+![[LEO IIIa, q. 7, a. 3#arg. 3|Praeterea, quidquid est imperfectionis excluditur a beatis. Sed in beatis est fides, nam super illud Rom. I, *iustitia Dei revelatur in eo ex fide in fidem*, dicit Glossa, *de fide verborum et spei in fidem rerum et speciei*. Ergo videtur quod etiam in Christo fuerit fides, cum nihil imperfectionis importet.]]
 ![[CERF IIIa, q. 7, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 7, a. 3#s.c.|Sed contra est quod dicitur [[He 11]], quod *fides est argumentum non apparentium*. Sed Christo nihil fuit non apparens, secundum illud quod dixit ei Petrus, Ioan. ult., *tu omnia nosti*. Ergo in Christo non fuit fides.]]
+![[LEO IIIa, q. 7, a. 3#s.c.|Sed contra est quod dicitur Heb. XI, quod *fides est argumentum non apparentium*. Sed Christo nihil fuit non apparens, secundum illud quod dixit ei Petrus, Ioan. ult., *tu omnia nosti*. Ergo in Christo non fuit fides.]]
 ![[CERF IIIa, q. 7, a. 3#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 7, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 7, a. 3#ad 2|Ad secundum dicendum quod meritum fidei consistit in hoc quod homo, ex obedientia Dei, assentit istis quae non videt, secundum illud [[Rm 1]], *ad obediendum fidei in omnibus gentibus pro nomine eius*. Obedientiam autem ad Deum plenissime habuit Christus, secundum illud [[Ph 2]], *factus est obediens usque ad mortem*. Et sic nihil ad meritum pertinens docuit quod ipse excellentius non impleret.]]
+![[LEO IIIa, q. 7, a. 3#ad 2|Ad secundum dicendum quod meritum fidei consistit in hoc quod homo, ex obedientia Dei, assentit istis quae non videt, secundum illud Rom. I, *ad obediendum fidei in omnibus gentibus pro nomine eius*. Obedientiam autem ad Deum plenissime habuit Christus, secundum illud Philipp. II, *factus est obediens usque ad mortem*. Et sic nihil ad meritum pertinens docuit quod ipse excellentius non impleret.]]
 ![[CERF IIIa, q. 7, a. 3#ad 2]]
 
 ###### ad 3

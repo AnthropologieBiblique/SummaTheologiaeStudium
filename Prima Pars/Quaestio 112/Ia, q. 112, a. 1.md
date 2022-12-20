@@ -14,15 +14,15 @@ tags :
 ![[CERF Ia, q. 112, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 112, a. 1#arg. 3|Praeterea, exterior occupatio impedit sapientiae contemplationem, unde dicitur [[Si 38]], *qui minoratur actu, percipiet sapientiam*. Si igitur Angeli aliqui mittuntur ad exteriora ministeria, videtur quod retardentur a contemplatione. Sed tota eorum beatitudo in contemplatione Dei consistit. Si ergo mitterentur, eorum beatitudo minueretur. Quod est inconveniens.]]
+![[LEO Ia, q. 112, a. 1#arg. 3|Praeterea, exterior occupatio impedit sapientiae contemplationem, unde dicitur Eccli. XXXVIII, *qui minoratur actu, percipiet sapientiam*. Si igitur Angeli aliqui mittuntur ad exteriora ministeria, videtur quod retardentur a contemplatione. Sed tota eorum beatitudo in contemplatione Dei consistit. Si ergo mitterentur, eorum beatitudo minueretur. Quod est inconveniens.]]
 ![[CERF Ia, q. 112, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 112, a. 1#arg. 4|Praeterea, ministrare est inferioris, unde dicitur [[Lc 22]], *quis maior est, qui recumbit, an ille qui ministrat? Nonne qui recumbit?* Sed Angeli sunt maiores nobis ordine naturae. Ergo non mittuntur in ministerium nostrum.]]
+![[LEO Ia, q. 112, a. 1#arg. 4|Praeterea, ministrare est inferioris, unde dicitur Lucae XXII, *quis maior est, qui recumbit, an ille qui ministrat? Nonne qui recumbit?* Sed Angeli sunt maiores nobis ordine naturae. Ergo non mittuntur in ministerium nostrum.]]
 ![[CERF Ia, q. 112, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 112, a. 1#s.c.|Sed contra est quod dicitur [[Ex 23]], *ecce ego mittam Angelum meum, qui praecedat te*.]]
+![[LEO Ia, q. 112, a. 1#s.c.|Sed contra est quod dicitur Exod. XXIII, *ecce ego mittam Angelum meum, qui praecedat te*.]]
 ![[CERF Ia, q. 112, a. 1#s.c.]]
 
 ###### resp.
@@ -42,6 +42,6 @@ tags :
 ![[CERF Ia, q. 112, a. 1#ad 3]]
 
 ###### ad 4
-![[LEO Ia, q. 112, a. 1#ad 4|Ad quartum dicendum quod Angeli in suis actionibus exterioribus ministrant principaliter Deo, et secundario nobis. Non quia nos sumus superiores eis, simpliciter loquendo, sed quilibet homo vel Angelus, inquantum adhaerendo Deo fit unus spiritus cum Deo, est superior omni creatura. Unde apostolus, ad [[Ph 2]], dicit, *superiores sibi invicem arbitrantes*.]]
+![[LEO Ia, q. 112, a. 1#ad 4|Ad quartum dicendum quod Angeli in suis actionibus exterioribus ministrant principaliter Deo, et secundario nobis. Non quia nos sumus superiores eis, simpliciter loquendo, sed quilibet homo vel Angelus, inquantum adhaerendo Deo fit unus spiritus cum Deo, est superior omni creatura. Unde apostolus, ad Philipp. II, dicit, *superiores sibi invicem arbitrantes*.]]
 ![[CERF Ia, q. 112, a. 1#ad 4]]
 

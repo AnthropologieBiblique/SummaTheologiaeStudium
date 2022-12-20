@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 85, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 85, a. 6#s.c.|Sed contra, quidquid est homini naturale, Deus in homine fecit. Sed Deus mortem non fecit, ut dicitur [[Sg 1]]. Ergo mors non est homini naturalis.]]
+![[LEO Ia-IIæ, q. 85, a. 6#s.c.|Sed contra, quidquid est homini naturale, Deus in homine fecit. Sed Deus mortem non fecit, ut dicitur Sap. I. Ergo mors non est homini naturalis.]]
 ![[CERF Ia-IIæ, q. 85, a. 6#s.c.]]
 
 ###### s.c.

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 106, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 106, a. 2#s.c.|Sed contra est quod dicitur [[Lc 7]], *cui plus dimittitur, plus diligit*. Ergo, eadem ratione, plus tenetur ad gratiarum actiones.]]
+![[LEO IIa-IIæ, q. 106, a. 2#s.c.|Sed contra est quod dicitur Luc. VII, *cui plus dimittitur, plus diligit*. Ergo, eadem ratione, plus tenetur ad gratiarum actiones.]]
 ![[CERF IIa-IIæ, q. 106, a. 2#s.c.]]
 
 ###### resp.

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 84, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 84, a. 4#arg. 2|Praeterea, in sacramento poenitentiae recuperat homo spiritum sanctum amissum, unde ex persona poenitentis dicitur in Psalmo, *redde mihi laetitiam salutaris tui, et spiritu principali confirma me*. Sed spiritus sanctus datur per impositionem manuum, legitur enim [[Ac 8]], quod *apostoli imponebant manus super illos, et accipiebant spiritum sanctum*; et [[Mt 19]] dicitur quod *oblati sunt domino parvuli ut eis manus imponeret*. Ergo in hoc sacramento est manus impositio facienda.]]
+![[LEO IIIa, q. 84, a. 4#arg. 2|Praeterea, in sacramento poenitentiae recuperat homo spiritum sanctum amissum, unde ex persona poenitentis dicitur in Psalmo, *redde mihi laetitiam salutaris tui, et spiritu principali confirma me*. Sed spiritus sanctus datur per impositionem manuum, legitur enim Act. VIII, quod *apostoli imponebant manus super illos, et accipiebant spiritum sanctum*; et Matth. XIX dicitur quod *oblati sunt domino parvuli ut eis manus imponeret*. Ergo in hoc sacramento est manus impositio facienda.]]
 ![[CERF IIIa, q. 84, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,11 +22,11 @@ tags :
 ![[CERF IIIa, q. 84, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 84, a. 4#resp.|Respondeo dicendum quod impositio manuum in sacramentis Ecclesiae fit ad designandum aliquem copiosum effectum gratiae, quo illi quibus manus imponitur, quodammodo continuantur per quandam similitudinem ministris, in quibus copia esse debet. Et ideo manus impositio fit in sacramento confirmationis, in quo confertur plenitudo spiritus sancti; et in sacramento ordinis, in quo confertur quaedam excellentia potestatis in divinis ministeriis; unde et [[2 Tm 1]] dicitur, *resuscites gratiam Dei quae est in te per impositionem manuum mearum*. Sacramentum autem poenitentiae non ordinatur ad consequendum aliquam excellentiam gratiae, sed ad remissionem peccatorum. Et ideo ad hoc sacramentum non requiritur impositio, sicut etiam nec ad Baptismum, in quo tamen fit plenior remissio peccatorum.]]
+![[LEO IIIa, q. 84, a. 4#resp.|Respondeo dicendum quod impositio manuum in sacramentis Ecclesiae fit ad designandum aliquem copiosum effectum gratiae, quo illi quibus manus imponitur, quodammodo continuantur per quandam similitudinem ministris, in quibus copia esse debet. Et ideo manus impositio fit in sacramento confirmationis, in quo confertur plenitudo spiritus sancti; et in sacramento ordinis, in quo confertur quaedam excellentia potestatis in divinis ministeriis; unde et II Tim. I dicitur, *resuscites gratiam Dei quae est in te per impositionem manuum mearum*. Sacramentum autem poenitentiae non ordinatur ad consequendum aliquam excellentiam gratiae, sed ad remissionem peccatorum. Et ideo ad hoc sacramentum non requiritur impositio, sicut etiam nec ad Baptismum, in quo tamen fit plenior remissio peccatorum.]]
 ![[CERF IIIa, q. 84, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 84, a. 4#ad 1|Ad primum ergo dicendum quod illa manus impositio non est sacramentalis, sed ordinatur ad miracula facienda, ut scilicet per contactum manus hominis sanctificati etiam corporalis infirmitas tollatur. Sicut etiam legitur de domino, [[Mc 6]], quod *infirmos impositis manibus curavit*; et [[Mt 8]] legitur quod per contactum leprosum mundavit.]]
+![[LEO IIIa, q. 84, a. 4#ad 1|Ad primum ergo dicendum quod illa manus impositio non est sacramentalis, sed ordinatur ad miracula facienda, ut scilicet per contactum manus hominis sanctificati etiam corporalis infirmitas tollatur. Sicut etiam legitur de domino, Marci VI, quod *infirmos impositis manibus curavit*; et Matth. VIII legitur quod per contactum leprosum mundavit.]]
 ![[CERF IIIa, q. 84, a. 4#ad 1]]
 
 ###### ad 2

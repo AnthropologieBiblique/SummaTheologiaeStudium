@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 31, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod beneficentia non sit actus caritatis. Caritas enim maxime habetur ad Deum. Sed ad eum non possumus esse benefici, secundum illud [[Jb 35]], *quid dabis ei? Aut quid de manu tua accipiet?* Ergo beneficentia non est actus caritatis.]]
+![[LEO IIa-IIæ, q. 31, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod beneficentia non sit actus caritatis. Caritas enim maxime habetur ad Deum. Sed ad eum non possumus esse benefici, secundum illud Iob XXXV, *quid dabis ei? Aut quid de manu tua accipiet?* Ergo beneficentia non est actus caritatis.]]
 ![[CERF IIa-IIæ, q. 31, a. 1#arg. 1]]
 
 ###### arg. 2

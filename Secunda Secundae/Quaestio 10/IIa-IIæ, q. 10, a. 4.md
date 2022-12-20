@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 10, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod quaelibet actio infidelis sit peccatum. Quia super illud [[Rm 14]], *omne quod non est ex fide peccatum est*, dicit Glossa, *omnis infidelium vita est peccatum*. Sed ad vitam infidelium pertinet omne quod agunt. Ergo omnis actio infidelis est peccatum.]]
+![[LEO IIa-IIæ, q. 10, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod quaelibet actio infidelis sit peccatum. Quia super illud Rom. XIV, *omne quod non est ex fide peccatum est*, dicit Glossa, *omnis infidelium vita est peccatum*. Sed ad vitam infidelium pertinet omne quod agunt. Ergo omnis actio infidelis est peccatum.]]
 ![[CERF IIa-IIæ, q. 10, a. 4#arg. 1]]
 
 ###### arg. 2

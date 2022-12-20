@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 3, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 3, a. 7#s.c.|Sed contra est quod dicitur [[Jr 9]], *in hoc glorietur qui gloriatur, scire et nosse me*. Ergo ultima hominis gloria, vel beatitudo, non consistit nisi in cognitione Dei.]]
+![[LEO Ia-IIæ, q. 3, a. 7#s.c.|Sed contra est quod dicitur Ierem. IX, *in hoc glorietur qui gloriatur, scire et nosse me*. Ergo ultima hominis gloria, vel beatitudo, non consistit nisi in cognitione Dei.]]
 ![[CERF Ia-IIæ, q. 3, a. 7#s.c.]]
 
 ###### resp.

@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 64, a. 5#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 64, a. 5#arg. 4|Praeterea, Samson seipsum interfecit, ut habetur [[Jg 16]], qui tamen connumeratur inter sanctos, ut patet [[He 11]]. Ergo licitum est alicui occidere seipsum.]]
+![[LEO IIa-IIæ, q. 64, a. 5#arg. 4|Praeterea, Samson seipsum interfecit, ut habetur Iudic. XVI, qui tamen connumeratur inter sanctos, ut patet Heb. XI. Ergo licitum est alicui occidere seipsum.]]
 ![[CERF IIa-IIæ, q. 64, a. 5#arg. 4]]
 
 ###### arg. 5
-![[LEO IIa-IIæ, q. 64, a. 5#arg. 5|Praeterea, [[2 M 14]] dicitur quod Razias quidam seipsum interfecit, eligens nobiliter mori potius quam *subditus fieri peccatoribus et contra natales suos iniuriis agi*. Sed nihil quod nobiliter fit et fortiter, est illicitum. Ergo occidere seipsum non est illicitum.]]
+![[LEO IIa-IIæ, q. 64, a. 5#arg. 5|Praeterea, II Machab. XIV dicitur quod Razias quidam seipsum interfecit, eligens nobiliter mori potius quam *subditus fieri peccatoribus et contra natales suos iniuriis agi*. Sed nihil quod nobiliter fit et fortiter, est illicitum. Ergo occidere seipsum non est illicitum.]]
 ![[CERF IIa-IIæ, q. 64, a. 5#arg. 5]]
 
 ###### s.c.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 64, a. 5#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 64, a. 5#resp.|Respondeo dicendum quod seipsum occidere est omnino illicitum triplici ratione. Primo quidem, quia naturaliter quaelibet res seipsam amat, et ad hoc pertinet quod quaelibet res naturaliter conservat se in esse et corrumpentibus resistit quantum potest. Et ideo quod aliquis seipsum occidat est contra inclinationem naturalem, et contra caritatem, qua quilibet debet seipsum diligere. Et ideo occisio sui ipsius semper est peccatum mortale, utpote contra naturalem legem et contra caritatem existens. Secundo, quia quaelibet pars id quod est, est totius. Quilibet autem homo est pars communitatis, et ita id quod est, est communitatis. Unde in hoc quod seipsum interficit, iniuriam communitati facit, ut patet per philosophum, in V Ethic. Tertio, quia vita est quoddam donum divinitus homini attributum, et eius potestati subiectum qui occidit et vivere facit. Et ideo qui seipsum vita privat in Deum peccat, sicut qui alienum servum interficit peccat in dominum cuius est servus; et sicut peccat ille qui usurpat sibi iudicium de re sibi non commissa. Ad solum enim Deum pertinet iudicium mortis et vitae, secundum illud [[Dt 32]], *ego occidam, et vivere faciam*.]]
+![[LEO IIa-IIæ, q. 64, a. 5#resp.|Respondeo dicendum quod seipsum occidere est omnino illicitum triplici ratione. Primo quidem, quia naturaliter quaelibet res seipsam amat, et ad hoc pertinet quod quaelibet res naturaliter conservat se in esse et corrumpentibus resistit quantum potest. Et ideo quod aliquis seipsum occidat est contra inclinationem naturalem, et contra caritatem, qua quilibet debet seipsum diligere. Et ideo occisio sui ipsius semper est peccatum mortale, utpote contra naturalem legem et contra caritatem existens. Secundo, quia quaelibet pars id quod est, est totius. Quilibet autem homo est pars communitatis, et ita id quod est, est communitatis. Unde in hoc quod seipsum interficit, iniuriam communitati facit, ut patet per philosophum, in V Ethic. Tertio, quia vita est quoddam donum divinitus homini attributum, et eius potestati subiectum qui occidit et vivere facit. Et ideo qui seipsum vita privat in Deum peccat, sicut qui alienum servum interficit peccat in dominum cuius est servus; et sicut peccat ille qui usurpat sibi iudicium de re sibi non commissa. Ad solum enim Deum pertinet iudicium mortis et vitae, secundum illud Deut. XXXII, *ego occidam, et vivere faciam*.]]
 ![[CERF IIa-IIæ, q. 64, a. 5#resp.]]
 
 ###### ad 1

@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 39, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 39, a. 3#arg. 2|Praeterea, [[Gn 1]], ubi dicitur, *in principio creavit Deus caelum et terram*, Hebraica veritas habet Elohim, quod potest interpretari dii, sive iudices. Et hoc dicitur propter pluralitatem personarum. Ergo tres personae sunt plures dii, et non unus Deus.]]
+![[LEO Ia, q. 39, a. 3#arg. 2|Praeterea, Gen. I, ubi dicitur, *in principio creavit Deus caelum et terram*, Hebraica veritas habet Elohim, quod potest interpretari dii, sive iudices. Et hoc dicitur propter pluralitatem personarum. Ergo tres personae sunt plures dii, et non unus Deus.]]
 ![[CERF Ia, q. 39, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 39, a. 3#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 39, a. 3#s.c.|Sed contra est quod dicitur [[Dt 6]], *audi, Israel, dominus Deus tuus, Deus unus est*.]]
+![[LEO Ia, q. 39, a. 3#s.c.|Sed contra est quod dicitur Deut. VI, *audi, Israel, dominus Deus tuus, Deus unus est*.]]
 ![[CERF Ia, q. 39, a. 3#s.c.]]
 
 ###### resp.

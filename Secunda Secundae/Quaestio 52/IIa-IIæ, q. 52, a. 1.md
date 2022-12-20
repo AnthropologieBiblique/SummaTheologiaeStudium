@@ -10,15 +10,15 @@ tags :
 ![[CERF IIa-IIæ, q. 52, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 52, a. 1#arg. 2|Praeterea, haec videtur esse differentia inter septem dona spiritus sancti et gratias gratis datas, quod gratiae gratis datae non dantur omnibus, sed distribuuntur diversis; dona autem spiritus sancti dantur omnibus habentibus spiritum sanctum. Sed consilium videtur esse de his quae specialiter aliquibus a spiritu sancto dantur, secundum illud [[1 M 2]], *ecce Simon, frater vester, ipse vir consilii est*. Ergo consilium magis debet poni inter gratias gratis datas quam inter septem dona spiritus sancti.]]
+![[LEO IIa-IIæ, q. 52, a. 1#arg. 2|Praeterea, haec videtur esse differentia inter septem dona spiritus sancti et gratias gratis datas, quod gratiae gratis datae non dantur omnibus, sed distribuuntur diversis; dona autem spiritus sancti dantur omnibus habentibus spiritum sanctum. Sed consilium videtur esse de his quae specialiter aliquibus a spiritu sancto dantur, secundum illud I Machab. II, *ecce Simon, frater vester, ipse vir consilii est*. Ergo consilium magis debet poni inter gratias gratis datas quam inter septem dona spiritus sancti.]]
 ![[CERF IIa-IIæ, q. 52, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 52, a. 1#arg. 3|Praeterea, [[Rm 8]] dicitur, *qui spiritu Dei aguntur, hi filii Dei sunt*. Sed his qui ab alio aguntur non competit consilium. Cum igitur dona spiritus sancti maxime competant filiis Dei, qui acceperunt spiritum adoptionis filiorum, videtur quod consilium inter dona spiritus sancti poni non debeat.]]
+![[LEO IIa-IIæ, q. 52, a. 1#arg. 3|Praeterea, Rom. VIII dicitur, *qui spiritu Dei aguntur, hi filii Dei sunt*. Sed his qui ab alio aguntur non competit consilium. Cum igitur dona spiritus sancti maxime competant filiis Dei, qui acceperunt spiritum adoptionis filiorum, videtur quod consilium inter dona spiritus sancti poni non debeat.]]
 ![[CERF IIa-IIæ, q. 52, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 52, a. 1#s.c.|Sed contra est quod [[Is 11]] dicitur, *requiescet super eum spiritus consilii et fortitudinis*.]]
+![[LEO IIa-IIæ, q. 52, a. 1#s.c.|Sed contra est quod Isaiae XI dicitur, *requiescet super eum spiritus consilii et fortitudinis*.]]
 ![[CERF IIa-IIæ, q. 52, a. 1#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 52, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 52, a. 1#ad 1|Ad primum ergo dicendum quod prudentia vel eubulia, sive sit acquisita sive infusa, dirigit hominem in inquisitione consilii secundum ea quae ratio comprehendere potest, unde homo per prudentiam vel eubuliam fit bene consilians vel sibi vel alii. Sed quia humana ratio non potest comprehendere singularia et contingentia quae occurrere possunt, fit quod *cogitationes mortalium sunt timidae, et incertae providentiae nostrae*, ut dicitur [[Sg 9]]. Et ideo indiget homo in inquisitione consilii dirigi a Deo, qui omnia comprehendit. Quod fit per donum consilii, per quod homo dirigitur quasi consilio a Deo accepto. Sicut etiam in rebus humanis qui sibi ipsis non sufficiunt in inquisitione consilii a sapientioribus consilium requirunt.]]
+![[LEO IIa-IIæ, q. 52, a. 1#ad 1|Ad primum ergo dicendum quod prudentia vel eubulia, sive sit acquisita sive infusa, dirigit hominem in inquisitione consilii secundum ea quae ratio comprehendere potest, unde homo per prudentiam vel eubuliam fit bene consilians vel sibi vel alii. Sed quia humana ratio non potest comprehendere singularia et contingentia quae occurrere possunt, fit quod *cogitationes mortalium sunt timidae, et incertae providentiae nostrae*, ut dicitur Sap. IX. Et ideo indiget homo in inquisitione consilii dirigi a Deo, qui omnia comprehendit. Quod fit per donum consilii, per quod homo dirigitur quasi consilio a Deo accepto. Sicut etiam in rebus humanis qui sibi ipsis non sufficiunt in inquisitione consilii a sapientioribus consilium requirunt.]]
 ![[CERF IIa-IIæ, q. 52, a. 1#ad 1]]
 
 ###### ad 2

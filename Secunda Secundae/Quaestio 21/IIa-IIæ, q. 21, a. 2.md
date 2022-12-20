@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 21, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod praesumptio non sit peccatum. Nullum enim peccatum est ratio quod homo exaudiatur a Deo. Sed per praesumptionem aliqui exaudiuntur a Deo, dicitur enim [[Jdt 9]], *exaudi me miseram deprecantem et de tua misericordia praesumentem*. Ergo praesumptio de divina misericordia non est peccatum.]]
+![[LEO IIa-IIæ, q. 21, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod praesumptio non sit peccatum. Nullum enim peccatum est ratio quod homo exaudiatur a Deo. Sed per praesumptionem aliqui exaudiuntur a Deo, dicitur enim Iudith IX, *exaudi me miseram deprecantem et de tua misericordia praesumentem*. Ergo praesumptio de divina misericordia non est peccatum.]]
 ![[CERF IIa-IIæ, q. 21, a. 2#arg. 1]]
 
 ###### arg. 2

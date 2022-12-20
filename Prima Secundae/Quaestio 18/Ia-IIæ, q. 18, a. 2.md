@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 18, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 18, a. 2#s.c.|Sed contra est quod dicitur [[Os 9]], *facti sunt abominabiles, sicut ea quae dilexerunt*. Fit autem homo Deo abominabilis propter malitiam suae operationis. Ergo malitia operationis est secundum obiecta mala quae homo diligit. Et eadem ratio est de bonitate actionis.]]
+![[LEO Ia-IIæ, q. 18, a. 2#s.c.|Sed contra est quod dicitur Osee IX, *facti sunt abominabiles, sicut ea quae dilexerunt*. Fit autem homo Deo abominabilis propter malitiam suae operationis. Ergo malitia operationis est secundum obiecta mala quae homo diligit. Et eadem ratio est de bonitate actionis.]]
 ![[CERF Ia-IIæ, q. 18, a. 2#s.c.]]
 
 ###### resp.

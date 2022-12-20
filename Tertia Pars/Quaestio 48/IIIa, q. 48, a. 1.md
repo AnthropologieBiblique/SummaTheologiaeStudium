@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 48, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 48, a. 1#s.c.|Sed contra est quod, super illud [[Ph 2]], *propter quod et Deus exaltavit illum* etc., dicit Augustinus, *humilitas passionis claritatis est meritum, claritas humilitatis est praemium*. Sed ipse clarificatus est non solum in seipso, sed etiam in suis fidelibus, ut ipse dicit, [[Jn 17]]. Ergo videtur quod ipse meruit salutem suorum fidelium.]]
+![[LEO IIIa, q. 48, a. 1#s.c.|Sed contra est quod, super illud Philipp. II, *propter quod et Deus exaltavit illum* etc., dicit Augustinus, *humilitas passionis claritatis est meritum, claritas humilitatis est praemium*. Sed ipse clarificatus est non solum in seipso, sed etiam in suis fidelibus, ut ipse dicit, Ioan. XVII. Ergo videtur quod ipse meruit salutem suorum fidelium.]]
 ![[CERF IIIa, q. 48, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 48, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, Christo data est gratia non solum sicut singulari personae, sed inquantum est caput Ecclesiae, ut scilicet ab ipso redundaret ad membra. Et ideo opera Christi hoc modo se habent tam ad se quam ad sua membra, sicut se habent opera alterius hominis in gratia constituti ad ipsum. Manifestum est autem quod quicumque in gratia constitutus propter iustitiam patitur, ex hoc ipso meretur sibi salutem, secundum illud [[Mt 5]], *beati qui persecutionem patiuntur propter iustitiam*. Unde Christus non solum per suam passionem sibi, sed etiam omnibus suis membris meruit salutem.]]
+![[LEO IIIa, q. 48, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, Christo data est gratia non solum sicut singulari personae, sed inquantum est caput Ecclesiae, ut scilicet ab ipso redundaret ad membra. Et ideo opera Christi hoc modo se habent tam ad se quam ad sua membra, sicut se habent opera alterius hominis in gratia constituti ad ipsum. Manifestum est autem quod quicumque in gratia constitutus propter iustitiam patitur, ex hoc ipso meretur sibi salutem, secundum illud Matth. V, *beati qui persecutionem patiuntur propter iustitiam*. Unde Christus non solum per suam passionem sibi, sed etiam omnibus suis membris meruit salutem.]]
 ![[CERF IIIa, q. 48, a. 1#resp.]]
 
 ###### ad 1

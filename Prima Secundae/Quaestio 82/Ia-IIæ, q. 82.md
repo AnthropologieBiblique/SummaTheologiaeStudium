@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 82#Prooemium|Deinde considerandum est de peccato originali quantum ad suam essentiam. Et circa hoc quaeruntur quatuor. Primo, utrum originale peccatum sit habitus. Secundo, utrum sit unum tantum in uno homine. Tertio, utrum sit concupiscentia. Quarto, utrum sit aequaliter in omnibus.]]
-![[CERF Ia-IIæ, q. 82#Prooemium]]
+Deinde considerandum est de peccato originali quantum ad suam essentiam. Et circa hoc quaeruntur quatuor. Primo, utrum originale peccatum sit habitus. Secundo, utrum sit unum tantum in uno homine. Tertio, utrum sit concupiscentia. Quarto, utrum sit aequaliter in omnibus.
 
 ![[Ia-IIæ, q. 82, a. 1#Articulus 1]]
 

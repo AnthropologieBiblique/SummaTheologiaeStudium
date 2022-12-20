@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 99, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 99, a. 2#s.c.|Sed contra est quod sic natura processisset in generando, sicut eam Deus instituit. Sed Deus instituit marem et feminam in natura humana, ut dicitur [[Gn 1]] et II. Ergo etiam in statu illo fuissent mares et feminae generati.]]
+![[LEO Ia, q. 99, a. 2#s.c.|Sed contra est quod sic natura processisset in generando, sicut eam Deus instituit. Sed Deus instituit marem et feminam in natura humana, ut dicitur Gen. I et II. Ergo etiam in statu illo fuissent mares et feminae generati.]]
 ![[CERF Ia, q. 99, a. 2#s.c.]]
 
 ###### resp.

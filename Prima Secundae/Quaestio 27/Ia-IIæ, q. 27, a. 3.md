@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 27, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod similitudo non sit causa amoris. Idem enim non est causa contrariorum. Sed similitudo est causa odii, dicitur enim [[Pr 13]], quod *inter superbos semper sunt iurgia*; et philosophus dicit, in VIII Ethic., quod figuli corrixantur ad invicem. Ergo similitudo non est causa amoris.]]
+![[LEO Ia-IIæ, q. 27, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod similitudo non sit causa amoris. Idem enim non est causa contrariorum. Sed similitudo est causa odii, dicitur enim Prov. XIII, quod *inter superbos semper sunt iurgia*; et philosophus dicit, in VIII Ethic., quod figuli corrixantur ad invicem. Ergo similitudo non est causa amoris.]]
 ![[CERF Ia-IIæ, q. 27, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 27, a. 3#arg. 4]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 27, a. 3#s.c.|Sed contra est quod dicitur [[Si 13]], *omne animal diligit simile sibi*.]]
+![[LEO Ia-IIæ, q. 27, a. 3#s.c.|Sed contra est quod dicitur Eccli. XIII, *omne animal diligit simile sibi*.]]
 ![[CERF Ia-IIæ, q. 27, a. 3#s.c.]]
 
 ###### resp.

@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 172, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 172, a. 6#arg. 3|Praeterea, [[Jn 8]] dicitur de Diabolo quod, *cum loquitur mendacium, ex propriis loquitur, quia Diabolus est mendax, et pater eius*, idest mendacii. Sed inspirando prophetas suos Diabolus non loquitur nisi ex propriis, non enim instituitur minister Dei ad veritatem enuntiandam, quia non est conventio lucis ad tenebras, ut dicitur II ad Cor. VI. Ergo prophetae Daemonum nunquam vera praedicunt.]]
+![[LEO IIa-IIæ, q. 172, a. 6#arg. 3|Praeterea, Ioan. VIII dicitur de Diabolo quod, *cum loquitur mendacium, ex propriis loquitur, quia Diabolus est mendax, et pater eius*, idest mendacii. Sed inspirando prophetas suos Diabolus non loquitur nisi ex propriis, non enim instituitur minister Dei ad veritatem enuntiandam, quia non est conventio lucis ad tenebras, ut dicitur II ad Cor. VI. Ergo prophetae Daemonum nunquam vera praedicunt.]]
 ![[CERF IIa-IIæ, q. 172, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 172, a. 6#s.c.|Sed contra est quod, [[Nb 22]], dicit quaedam Glossa quod *Balaam divinus erat, Daemonum scilicet ministerio, et arte magica, nonnunquam futura praenoscebat*. Sed ipse multa praenuntiavit vera, sicut est id quod habetur [[Nb 22]], *orietur stella ex Iacob, et consurget virga de Israel*. Ergo etiam prophetae Daemonum praenuntiant vera.]]
+![[LEO IIa-IIæ, q. 172, a. 6#s.c.|Sed contra est quod, Num. XXII, dicit quaedam Glossa quod *Balaam divinus erat, Daemonum scilicet ministerio, et arte magica, nonnunquam futura praenoscebat*. Sed ipse multa praenuntiavit vera, sicut est id quod habetur Num. XXIV, *orietur stella ex Iacob, et consurget virga de Israel*. Ergo etiam prophetae Daemonum praenuntiant vera.]]
 ![[CERF IIa-IIæ, q. 172, a. 6#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 172, a. 6#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 172, a. 6#ad 1|Ad primum ergo dicendum quod prophetae Daemonum non semper loquuntur ex Daemonum revelatione, sed interdum ex inspiratione divina, sicut manifeste legitur de Balaam, cui dicitur dominus esse locutus, [[Nb 22]], licet esset propheta Daemonum. Quia Deus utitur etiam malis ad utilitatem bonorum. Unde et per prophetas Daemonum aliqua vera praenuntiat, tum ut credibilior fiat veritas, quae etiam ex adversariis testimonium habet; tum etiam quia, dum homines talibus credunt, per eorum dicta magis ad veritatem inducuntur. Unde etiam Sibyllae multa vera praedixerunt de Christo. Sed et quando prophetae Daemonum a Daemonibus instruuntur, aliqua vera praedicunt, quandoque quidem virtute propriae naturae, cuius auctor est spiritus sanctus; quandoque etiam revelatione bonorum spirituum, ut patet per Augustinum, XII super Gen. ad Litt. Et sic etiam illud verum quod Daemones enuntiant, a spiritu sancto est.]]
+![[LEO IIa-IIæ, q. 172, a. 6#ad 1|Ad primum ergo dicendum quod prophetae Daemonum non semper loquuntur ex Daemonum revelatione, sed interdum ex inspiratione divina, sicut manifeste legitur de Balaam, cui dicitur dominus esse locutus, Num. XXII, licet esset propheta Daemonum. Quia Deus utitur etiam malis ad utilitatem bonorum. Unde et per prophetas Daemonum aliqua vera praenuntiat, tum ut credibilior fiat veritas, quae etiam ex adversariis testimonium habet; tum etiam quia, dum homines talibus credunt, per eorum dicta magis ad veritatem inducuntur. Unde etiam Sibyllae multa vera praedixerunt de Christo. Sed et quando prophetae Daemonum a Daemonibus instruuntur, aliqua vera praedicunt, quandoque quidem virtute propriae naturae, cuius auctor est spiritus sanctus; quandoque etiam revelatione bonorum spirituum, ut patet per Augustinum, XII super Gen. ad Litt. Et sic etiam illud verum quod Daemones enuntiant, a spiritu sancto est.]]
 ![[CERF IIa-IIæ, q. 172, a. 6#ad 1]]
 
 ###### ad 2

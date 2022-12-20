@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 34, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 34, a. 2#s.c.|Sed contra est quod dicitur [[Pr 2]], *qui laetantur cum malefecerint, et exultant in rebus pessimis*.]]
+![[LEO Ia-IIæ, q. 34, a. 2#s.c.|Sed contra est quod dicitur Prov. II, *qui laetantur cum malefecerint, et exultant in rebus pessimis*.]]
 ![[CERF Ia-IIæ, q. 34, a. 2#s.c.]]
 
 ###### resp.

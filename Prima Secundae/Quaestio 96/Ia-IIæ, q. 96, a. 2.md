@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 96, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 96, a. 2#ad 2|Ad secundum dicendum quod lex humana intendit homines inducere ad virtutem, non subito, sed gradatim. Et ideo non statim multitudini imperfectorum imponit ea quae sunt iam virtuosorum, ut scilicet ab omnibus malis abstineant. Alioquin imperfecti, huiusmodi praecepta ferre non valentes, in deteriora mala prorumperent, sicut dicitur [[Pr 30]], *qui nimis emungit, elicit sanguinem*; et [[Mt 9]] dicitur quod, si vinum novum, idest praecepta perfectae vitae, mittatur in utres veteres, idest in homines imperfectos, utres rumpuntur, et vinum effunditur, idest, praecepta contemnuntur, et homines ex contemptu ad peiora mala prorumpunt.]]
+![[LEO Ia-IIæ, q. 96, a. 2#ad 2|Ad secundum dicendum quod lex humana intendit homines inducere ad virtutem, non subito, sed gradatim. Et ideo non statim multitudini imperfectorum imponit ea quae sunt iam virtuosorum, ut scilicet ab omnibus malis abstineant. Alioquin imperfecti, huiusmodi praecepta ferre non valentes, in deteriora mala prorumperent, sicut dicitur Prov. XXX, *qui nimis emungit, elicit sanguinem*; et Matth. IX dicitur quod, si vinum novum, idest praecepta perfectae vitae, mittatur in utres veteres, idest in homines imperfectos, utres rumpuntur, et vinum effunditur, idest, praecepta contemnuntur, et homines ex contemptu ad peiora mala prorumpunt.]]
 ![[CERF Ia-IIæ, q. 96, a. 2#ad 2]]
 
 ###### ad 3

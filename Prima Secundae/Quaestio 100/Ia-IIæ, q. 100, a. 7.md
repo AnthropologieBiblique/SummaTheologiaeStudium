@@ -22,15 +22,15 @@ tags :
 ![[CERF Ia-IIæ, q. 100, a. 7#arg. 4]]
 
 ###### arg. 5
-![[LEO Ia-IIæ, q. 100, a. 7#arg. 5|Praeterea, omnia praecepta Dei sunt in memoria retinenda, dicitur enim [[Pr 3]], *describe ea in tabulis cordis tui*. Inconvenienter ergo in solo tertio praecepto fit mentio de memoria. Et ita videntur praecepta Decalogi inconvenienter tradita esse.]]
+![[LEO Ia-IIæ, q. 100, a. 7#arg. 5|Praeterea, omnia praecepta Dei sunt in memoria retinenda, dicitur enim Prov. III, *describe ea in tabulis cordis tui*. Inconvenienter ergo in solo tertio praecepto fit mentio de memoria. Et ita videntur praecepta Decalogi inconvenienter tradita esse.]]
 ![[CERF Ia-IIæ, q. 100, a. 7#arg. 5]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 100, a. 7#s.c.|Sed contra est quod dicitur [[Sg 11]], quod *Deus omnia fecit in numero, pondere et mensura*. Multo magis ergo in praeceptis suae legis congruum modum tradendi servavit.]]
+![[LEO Ia-IIæ, q. 100, a. 7#s.c.|Sed contra est quod dicitur Sap. XI, quod *Deus omnia fecit in numero, pondere et mensura*. Multo magis ergo in praeceptis suae legis congruum modum tradendi servavit.]]
 ![[CERF Ia-IIæ, q. 100, a. 7#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 100, a. 7#resp.|Respondeo dicendum quod in praeceptis divinae legis maxima sapientia continetur, unde dicitur [[Dt 4]], *haec est vestra sapientia et intellectus coram populis*. Sapientis autem est omnia debito modo et ordine disponere. Et ideo manifestum esse debet quod praecepta legis convenienti modo sunt tradita.]]
+![[LEO Ia-IIæ, q. 100, a. 7#resp.|Respondeo dicendum quod in praeceptis divinae legis maxima sapientia continetur, unde dicitur Deut. IV, *haec est vestra sapientia et intellectus coram populis*. Sapientis autem est omnia debito modo et ordine disponere. Et ideo manifestum esse debet quod praecepta legis convenienti modo sunt tradita.]]
 ![[CERF Ia-IIæ, q. 100, a. 7#resp.]]
 
 ###### ad 1

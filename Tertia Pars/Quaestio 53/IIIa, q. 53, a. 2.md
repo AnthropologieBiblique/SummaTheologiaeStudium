@@ -10,15 +10,15 @@ tags :
 ![[CERF IIIa, q. 53, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 53, a. 2#arg. 2|Praeterea, [[Ac 2]] dicit Petrus quod *impossibile erat Christum detineri ab Inferno et morte*. Sed quandiu aliquis est mortuus, detinetur a morte. Ergo videtur quod Christi resurrectio non debuerit differri usque ad tertiam diem, sed statim eodem die resurgere, praecipue cum Glossa super inducta dicat *nullam esse utilitatem in effusione sanguinis Christi si non statim resurgeret*.]]
+![[LEO IIIa, q. 53, a. 2#arg. 2|Praeterea, Act. II dicit Petrus quod *impossibile erat Christum detineri ab Inferno et morte*. Sed quandiu aliquis est mortuus, detinetur a morte. Ergo videtur quod Christi resurrectio non debuerit differri usque ad tertiam diem, sed statim eodem die resurgere, praecipue cum Glossa super inducta dicat *nullam esse utilitatem in effusione sanguinis Christi si non statim resurgeret*.]]
 ![[CERF IIIa, q. 53, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 53, a. 2#arg. 3|Praeterea, dies incipere videtur ab ortu solis, qui sua praesentia diem causat. Sed ante ortum solis Christus resurrexit, dicitur enim [[Jn 20]], quod *una sabbati Maria Magdalene venit mane, cum adhuc tenebrae essent, ad monumentum*, et tunc Christus iam resurrexerat, quia sequitur, *et vidit revolutum lapidem a monumento*. Ergo non resurrexit Christus tertia die.]]
+![[LEO IIIa, q. 53, a. 2#arg. 3|Praeterea, dies incipere videtur ab ortu solis, qui sua praesentia diem causat. Sed ante ortum solis Christus resurrexit, dicitur enim Ioan. XX, quod *una sabbati Maria Magdalene venit mane, cum adhuc tenebrae essent, ad monumentum*, et tunc Christus iam resurrexerat, quia sequitur, *et vidit revolutum lapidem a monumento*. Ergo non resurrexit Christus tertia die.]]
 ![[CERF IIIa, q. 53, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 53, a. 2#s.c.|Sed contra est quod dicitur [[Mt 20]], *tradent eum gentibus ad illudendum et flagellandum et crucifigendum, et tertia die resurget*.]]
+![[LEO IIIa, q. 53, a. 2#s.c.|Sed contra est quod dicitur Matth. XX, *tradent eum gentibus ad illudendum et flagellandum et crucifigendum, et tertia die resurget*.]]
 ![[CERF IIIa, q. 53, a. 2#s.c.]]
 
 ###### resp.

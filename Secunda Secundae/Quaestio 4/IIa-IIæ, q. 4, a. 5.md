@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 4, a. 5#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 4, a. 5#arg. 4|Praeterea, gratiae gratis datae et fructus distinguuntur a virtutibus. Sed fides enumeratur inter gratias gratis datas, I ad Cor. XII, et similiter inter fructus, ad [[Ga 5]]. Ergo fides non est virtus.]]
+![[LEO IIa-IIæ, q. 4, a. 5#arg. 4|Praeterea, gratiae gratis datae et fructus distinguuntur a virtutibus. Sed fides enumeratur inter gratias gratis datas, I ad Cor. XII, et similiter inter fructus, ad Gal. V. Ergo fides non est virtus.]]
 ![[CERF IIa-IIæ, q. 4, a. 5#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 4, a. 5#s.c.|Sed contra est quod homo per virtutes iustificatur, nam iustitia est tota virtus, ut dicitur in V Ethic. Sed per fidem homo iustificatur, secundum illud ad [[Rm 5]], *iustificati ergo ex fide pacem habemus* et cetera. Ergo fides est virtus.]]
+![[LEO IIa-IIæ, q. 4, a. 5#s.c.|Sed contra est quod homo per virtutes iustificatur, nam iustitia est tota virtus, ut dicitur in V Ethic. Sed per fidem homo iustificatur, secundum illud ad Rom. V, *iustificati ergo ex fide pacem habemus* et cetera. Ergo fides est virtus.]]
 ![[CERF IIa-IIæ, q. 4, a. 5#s.c.]]
 
 ###### resp.
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIa-IIæ, q. 4, a. 5#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 4, a. 5#ad 4|Ad quartum dicendum quod quidam ponunt quod fides quae connumeratur inter gratias gratis datas est fides informis. Sed hoc non convenienter dicitur. Quia gratiae gratis datae, quae ibi enumerantur, non sunt communes omnibus membris Ecclesiae, unde apostolus ibi dicit, divisiones gratiarum sunt; et iterum, alii datur hoc, alii datur illud. Fides autem informis est communis omnibus membris Ecclesiae, quia informitas non est de substantia eius, secundum quod est donum gratuitum. Unde dicendum est quod fides ibi sumitur pro aliqua fidei excellentia, sicut pro constantia fidei, ut dicit Glossa, vel pro sermone fidei. Fides autem ponitur fructus secundum quod habet aliquam delectationem in suo actu, ratione certitudinis. Unde ad [[Ga 5]], ubi enumerantur fructus, exponitur fides de invisibilibus certitudo.]]
+![[LEO IIa-IIæ, q. 4, a. 5#ad 4|Ad quartum dicendum quod quidam ponunt quod fides quae connumeratur inter gratias gratis datas est fides informis. Sed hoc non convenienter dicitur. Quia gratiae gratis datae, quae ibi enumerantur, non sunt communes omnibus membris Ecclesiae, unde apostolus ibi dicit, divisiones gratiarum sunt; et iterum, alii datur hoc, alii datur illud. Fides autem informis est communis omnibus membris Ecclesiae, quia informitas non est de substantia eius, secundum quod est donum gratuitum. Unde dicendum est quod fides ibi sumitur pro aliqua fidei excellentia, sicut pro constantia fidei, ut dicit Glossa, vel pro sermone fidei. Fides autem ponitur fructus secundum quod habet aliquam delectationem in suo actu, ratione certitudinis. Unde ad Gal. V, ubi enumerantur fructus, exponitur fides de invisibilibus certitudo.]]
 ![[CERF IIa-IIæ, q. 4, a. 5#ad 4]]
 

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 184, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 184, a. 2#arg. 2|*Praeterea, perfectum est cui nihil deest*, ut dicitur in III Physic. Sed nullus est in hac vita cui non desit aliquid, dicitur enim [[Jc 3]], in multis offendimus omnes; et in Psalmo dicitur, imperfectum meum viderunt oculi tui. Ergo nullus est in hac vita perfectus.]]
+![[LEO IIa-IIæ, q. 184, a. 2#arg. 2|*Praeterea, perfectum est cui nihil deest*, ut dicitur in III Physic. Sed nullus est in hac vita cui non desit aliquid, dicitur enim Iac. III, in multis offendimus omnes; et in Psalmo dicitur, imperfectum meum viderunt oculi tui. Ergo nullus est in hac vita perfectus.]]
 ![[CERF IIa-IIæ, q. 184, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 184, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 184, a. 2#s.c.|Sed contra est quia lex divina non inducit ad impossibile. Inducit autem ad perfectionem secundum illud [[Mt 5]], *estote perfecti, sicut et pater vester caelestis perfectus est*. Ergo videtur quod aliquis in hac vita possit esse perfectus.]]
+![[LEO IIa-IIæ, q. 184, a. 2#s.c.|Sed contra est quia lex divina non inducit ad impossibile. Inducit autem ad perfectionem secundum illud Matth. V, *estote perfecti, sicut et pater vester caelestis perfectus est*. Ergo videtur quod aliquis in hac vita possit esse perfectus.]]
 ![[CERF IIa-IIæ, q. 184, a. 2#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 184, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 184, a. 2#ad 3|Ad tertium dicendum quod sicut modus praesentis vitae non patitur ut homo semper actu feratur in Deum, ita etiam non patitur quod actu feratur in omnes proximos singillatim, sed sufficit quod feratur communiter in omnes in universali, et in singulos habitualiter et secundum animi praeparationem. Potest autem etiam circa dilectionem proximi duplex perfectio attendi sicut et circa dilectionem Dei. Una quidem, sine qua caritas esse non potest, ut scilicet homo nihil habeat in affectu quod sit contrarium dilectioni proximi. Alia autem, sine qua caritas inveniri potest, quae quidem attenditur tripliciter. Primo quidem, secundum extensionem dilectionis, ut scilicet aliquis non solum diligat amicos et notos, sed etiam extraneos, et ulterius inimicos. Hoc enim, ut Augustinus dicit, in Enchirid., est perfectorum filiorum Dei. Secundo, secundum intensionem, quae ostenditur ex his quae homo propter proximum contemnit; ut scilicet homo non solum contemnat exteriora bona propter proximum, sed etiam afflictiones corporales, et ulterius mortem, secundum illud [[Jn 15]], *maiorem dilectionem nemo habet quam ut animam suam ponat quis pro amicis suis*. Tertio, quantum ad effectum dilectionis, ut scilicet homo proximis impendat non solum temporalia beneficia, sed etiam spiritualia, et ulterius seipsum, secundum illud apostoli, II ad Cor. XII, *ego autem libentissime impendam, et superimpendar ipse pro animabus vestris*.]]
+![[LEO IIa-IIæ, q. 184, a. 2#ad 3|Ad tertium dicendum quod sicut modus praesentis vitae non patitur ut homo semper actu feratur in Deum, ita etiam non patitur quod actu feratur in omnes proximos singillatim, sed sufficit quod feratur communiter in omnes in universali, et in singulos habitualiter et secundum animi praeparationem. Potest autem etiam circa dilectionem proximi duplex perfectio attendi sicut et circa dilectionem Dei. Una quidem, sine qua caritas esse non potest, ut scilicet homo nihil habeat in affectu quod sit contrarium dilectioni proximi. Alia autem, sine qua caritas inveniri potest, quae quidem attenditur tripliciter. Primo quidem, secundum extensionem dilectionis, ut scilicet aliquis non solum diligat amicos et notos, sed etiam extraneos, et ulterius inimicos. Hoc enim, ut Augustinus dicit, in Enchirid., est perfectorum filiorum Dei. Secundo, secundum intensionem, quae ostenditur ex his quae homo propter proximum contemnit; ut scilicet homo non solum contemnat exteriora bona propter proximum, sed etiam afflictiones corporales, et ulterius mortem, secundum illud Ioan. XV, *maiorem dilectionem nemo habet quam ut animam suam ponat quis pro amicis suis*. Tertio, quantum ad effectum dilectionis, ut scilicet homo proximis impendat non solum temporalia beneficia, sed etiam spiritualia, et ulterius seipsum, secundum illud apostoli, II ad Cor. XII, *ego autem libentissime impendam, et superimpendar ipse pro animabus vestris*.]]
 ![[CERF IIa-IIæ, q. 184, a. 2#ad 3]]
 

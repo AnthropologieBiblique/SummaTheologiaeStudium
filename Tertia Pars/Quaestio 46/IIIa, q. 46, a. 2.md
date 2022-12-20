@@ -6,15 +6,15 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 46, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non fuit possibilis alius modus liberationis humanae naturae quam per passionem Christi. Dixit enim dominus, [[Jn 12]], *nisi granum frumenti cadens in terram mortuum fuerit, ipsum solum manet, si autem mortuum fuerit, multum fructum affert*, ubi dicit Augustinus quod *seipsum granum dicebat*. Nisi ergo mortem passus esset, aliter fructum nostrae liberationis non fecisset.]]
+![[LEO IIIa, q. 46, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non fuit possibilis alius modus liberationis humanae naturae quam per passionem Christi. Dixit enim dominus, Ioan. XII, *nisi granum frumenti cadens in terram mortuum fuerit, ipsum solum manet, si autem mortuum fuerit, multum fructum affert*, ubi dicit Augustinus quod *seipsum granum dicebat*. Nisi ergo mortem passus esset, aliter fructum nostrae liberationis non fecisset.]]
 ![[CERF IIIa, q. 46, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 46, a. 2#arg. 2|Praeterea, [[Mt 26]] dominus dicit ad patrem, *pater mi, si non potest iste calix transire nisi bibam illum, fiat voluntas tua*. Loquitur autem ibi de calice passionis. Ergo passio Christi praeterire non poterat. Unde et Hilarius dicit, *ideo calix transire non potest nisi illum bibat, quia reparari nisi ex eius passione non possumus*.]]
+![[LEO IIIa, q. 46, a. 2#arg. 2|Praeterea, Matth. XXVI dominus dicit ad patrem, *pater mi, si non potest iste calix transire nisi bibam illum, fiat voluntas tua*. Loquitur autem ibi de calice passionis. Ergo passio Christi praeterire non poterat. Unde et Hilarius dicit, *ideo calix transire non potest nisi illum bibat, quia reparari nisi ex eius passione non possumus*.]]
 ![[CERF IIIa, q. 46, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 46, a. 2#arg. 3|Praeterea, iustitia Dei exigebat ut homo a peccato liberaretur, Christo per passionem suam satisfaciente. Sed Christus suam iustitiam praeterire non potest. Dicitur enim [[2 Tm 2]], *si non credimus, ille fidelis permanet, negare seipsum non potest*. Seipsum autem negaret si iustitiam suam negaret, cum ipse sit iustitia. Ergo videtur quod non fuerit possibile alio modo hominem liberari quam per passionem Christi.]]
+![[LEO IIIa, q. 46, a. 2#arg. 3|Praeterea, iustitia Dei exigebat ut homo a peccato liberaretur, Christo per passionem suam satisfaciente. Sed Christus suam iustitiam praeterire non potest. Dicitur enim II ad Tim. II, *si non credimus, ille fidelis permanet, negare seipsum non potest*. Seipsum autem negaret si iustitiam suam negaret, cum ipse sit iustitia. Ergo videtur quod non fuerit possibile alio modo hominem liberari quam per passionem Christi.]]
 ![[CERF IIIa, q. 46, a. 2#arg. 3]]
 
 ###### arg. 4
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 46, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 46, a. 2#resp.|Respondeo dicendum quod aliquid potest dici possibile vel impossibile dupliciter, uno modo, simpliciter et absolute; alio modo, ex suppositione. Simpliciter igitur et absolute loquendo, possibile fuit Deo alio modo hominem liberare quam per passionem Christi, *quia non est impossibile apud Deum omne verbum*, ut dicitur [[Lc 1]]. Sed ex aliqua suppositione facta, fuit impossibile. Quia enim impossibile est Dei praescientiam falli et eius voluntatem sive dispositionem cassari, supposita praescientia et praeordinatione Dei de passione Christi, non erat simul possibile Christum non pati, et hominem alio modo quam per eius passionem liberari. Et est eadem ratio de omnibus his quae sunt praescita et praeordinata a Deo, ut in prima parte habitum est.]]
+![[LEO IIIa, q. 46, a. 2#resp.|Respondeo dicendum quod aliquid potest dici possibile vel impossibile dupliciter, uno modo, simpliciter et absolute; alio modo, ex suppositione. Simpliciter igitur et absolute loquendo, possibile fuit Deo alio modo hominem liberare quam per passionem Christi, *quia non est impossibile apud Deum omne verbum*, ut dicitur Luc. I. Sed ex aliqua suppositione facta, fuit impossibile. Quia enim impossibile est Dei praescientiam falli et eius voluntatem sive dispositionem cassari, supposita praescientia et praeordinatione Dei de passione Christi, non erat simul possibile Christum non pati, et hominem alio modo quam per eius passionem liberari. Et est eadem ratio de omnibus his quae sunt praescita et praeordinata a Deo, ut in prima parte habitum est.]]
 ![[CERF IIIa, q. 46, a. 2#resp.]]
 
 ###### ad 1

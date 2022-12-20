@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 24, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Christo non conveniat praedestinatum esse. Terminus enim cuiuslibet praedestinationis videtur esse adoptio filiorum, secundum illud [[Ep 1]], *praedestinavit nos in adoptionem filiorum*. Sed Christo non convenit esse filium adoptivum, ut dictum est. Ergo Christo non convenit praedestinatum esse.]]
+![[LEO IIIa, q. 24, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Christo non conveniat praedestinatum esse. Terminus enim cuiuslibet praedestinationis videtur esse adoptio filiorum, secundum illud Ephes. I, *praedestinavit nos in adoptionem filiorum*. Sed Christo non convenit esse filium adoptivum, ut dictum est. Ergo Christo non convenit praedestinatum esse.]]
 ![[CERF IIIa, q. 24, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 24, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 24, a. 1#s.c.|Sed contra est quod apostolus dicit, [[Rm 1]], de Christo loquens, *qui praedestinatus est filius Dei in virtute*.]]
+![[LEO IIIa, q. 24, a. 1#s.c.|Sed contra est quod apostolus dicit, Rom. I, de Christo loquens, *qui praedestinatus est filius Dei in virtute*.]]
 ![[CERF IIIa, q. 24, a. 1#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 24, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 24, a. 1#ad 2|Ad secundum dicendum quod, sicut dicit Glossa [[Rm 1]], quidam dixerunt praedestinationem illam intelligendam esse de natura, non de persona, quia scilicet humanae naturae facta est haec gratia ut uniretur filio Dei in unitate personae. Sed secundum hoc locutio apostoli est impropria, propter duo. Primo quidem, ratione communi. Non enim dicimus naturam alicuius praedestinari, sed personam, quia praedestinari est dirigi in salutem, quod quidem est suppositi agentis propter beatitudinis finem. Secundo, ratione speciali. Quia esse filium Dei non convenit humanae naturae, est enim haec falsa, natura humana est filius Dei. Nisi forte quis velit sic exponere, extorta expositione, qui praedestinatus est filius Dei in virtute, idest, praedestinatum est ut humana natura uniretur filio Dei in persona. Relinquitur ergo quod praedestinatio attribuatur personae Christi, non quidem secundum se, vel secundum quod subsistit in divina natura; sed secundum quod subsistit in humana natura. Unde, cum praedixisset apostolus, *qui factus est ei ex semine David secundum carnem*, subiunxit, *qui praedestinatus est filius Dei in virtute*, ut daret intelligere quod, secundum hoc quod est factus ex semine David secundum carnem, est praedestinatus filius Dei in virtute. Quamvis enim sit naturale illi personae secundum se consideratae quod sit filius Dei in virtute, non tamen est ei naturale secundum naturam humanam, secundum quam hoc sibi competit per gratiam unionis.]]
+![[LEO IIIa, q. 24, a. 1#ad 2|Ad secundum dicendum quod, sicut dicit Glossa Rom. I, quidam dixerunt praedestinationem illam intelligendam esse de natura, non de persona, quia scilicet humanae naturae facta est haec gratia ut uniretur filio Dei in unitate personae. Sed secundum hoc locutio apostoli est impropria, propter duo. Primo quidem, ratione communi. Non enim dicimus naturam alicuius praedestinari, sed personam, quia praedestinari est dirigi in salutem, quod quidem est suppositi agentis propter beatitudinis finem. Secundo, ratione speciali. Quia esse filium Dei non convenit humanae naturae, est enim haec falsa, natura humana est filius Dei. Nisi forte quis velit sic exponere, extorta expositione, qui praedestinatus est filius Dei in virtute, idest, praedestinatum est ut humana natura uniretur filio Dei in persona. Relinquitur ergo quod praedestinatio attribuatur personae Christi, non quidem secundum se, vel secundum quod subsistit in divina natura; sed secundum quod subsistit in humana natura. Unde, cum praedixisset apostolus, *qui factus est ei ex semine David secundum carnem*, subiunxit, *qui praedestinatus est filius Dei in virtute*, ut daret intelligere quod, secundum hoc quod est factus ex semine David secundum carnem, est praedestinatus filius Dei in virtute. Quamvis enim sit naturale illi personae secundum se consideratae quod sit filius Dei in virtute, non tamen est ei naturale secundum naturam humanam, secundum quam hoc sibi competit per gratiam unionis.]]
 ![[CERF IIIa, q. 24, a. 1#ad 2]]
 
 ###### ad 3

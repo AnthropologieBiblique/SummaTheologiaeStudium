@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 122, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod alia sex praecepta Decalogi inconvenienter tradantur. Non enim sufficit ad salutem quod aliquis proximo suo non noceat, sed requiritur quod ei debitum reddat, secundum illud [[Rm 13]], *reddite omnibus debita*. Sed in sex ultimis praeceptis solum prohibetur nocumentum proximo inferendum. Ergo inconvenienter praedicta praecepta traduntur.]]
+![[LEO IIa-IIæ, q. 122, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod alia sex praecepta Decalogi inconvenienter tradantur. Non enim sufficit ad salutem quod aliquis proximo suo non noceat, sed requiritur quod ei debitum reddat, secundum illud Rom. XIII, *reddite omnibus debita*. Sed in sex ultimis praeceptis solum prohibetur nocumentum proximo inferendum. Ergo inconvenienter praedicta praecepta traduntur.]]
 ![[CERF IIa-IIæ, q. 122, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 122, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 122, a. 6#arg. 3|Praeterea, concupiscentia dupliciter accipi potest, uno modo, secundum quod est actus voluntatis, ut dicitur [[Sg 6]], *concupiscentia sapientiae perducit ad regnum perpetuum*; alio modo, secundum quod est actus sensualitatis, sicut dicitur [[Jc 4]], *unde bella et lites in vobis? Nonne ex concupiscentiis quae militant in membris vestris?* Sed per praeceptum Decalogi non prohibetur concupiscentia sensualitatis, quia secundum hoc, primi motus essent peccata mortalia, utpote contra praeceptum Decalogi existentes. Similiter etiam non prohibetur concupiscentia voluntatis, quia haec includitur in quolibet peccato. Inconvenienter ergo inter praecepta Decalogi ponuntur quaedam concupiscentiae prohibitiva.]]
+![[LEO IIa-IIæ, q. 122, a. 6#arg. 3|Praeterea, concupiscentia dupliciter accipi potest, uno modo, secundum quod est actus voluntatis, ut dicitur Sap. VI, *concupiscentia sapientiae perducit ad regnum perpetuum*; alio modo, secundum quod est actus sensualitatis, sicut dicitur Iac. IV, *unde bella et lites in vobis? Nonne ex concupiscentiis quae militant in membris vestris?* Sed per praeceptum Decalogi non prohibetur concupiscentia sensualitatis, quia secundum hoc, primi motus essent peccata mortalia, utpote contra praeceptum Decalogi existentes. Similiter etiam non prohibetur concupiscentia voluntatis, quia haec includitur in quolibet peccato. Inconvenienter ergo inter praecepta Decalogi ponuntur quaedam concupiscentiae prohibitiva.]]
 ![[CERF IIa-IIæ, q. 122, a. 6#arg. 3]]
 
 ###### arg. 4

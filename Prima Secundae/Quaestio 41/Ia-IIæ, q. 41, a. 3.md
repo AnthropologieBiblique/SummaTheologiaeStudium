@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 41, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 41, a. 3#arg. 3|Praeterea, timor opponitur spei, ut supra dictum est. Sed est aliqua spes naturae, ut patet per id quod dicitur [[Rm 4]], de Abraham, quod contra spem naturae, in spem gratiae credidit. Ergo etiam est aliquis timor naturae.]]
+![[LEO Ia-IIæ, q. 41, a. 3#arg. 3|Praeterea, timor opponitur spei, ut supra dictum est. Sed est aliqua spes naturae, ut patet per id quod dicitur Rom. IV, de Abraham, quod contra spem naturae, in spem gratiae credidit. Ergo etiam est aliquis timor naturae.]]
 ![[CERF Ia-IIæ, q. 41, a. 3#arg. 3]]
 
 ###### s.c.

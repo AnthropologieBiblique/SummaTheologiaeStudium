@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 3, a. 3#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 3, a. 3#s.c.|Contra, de Deo dicitur quod est vita, et non solum quod est vivens, ut patet [[Jn 14]], *ego sum via, veritas et vita*. Sicut autem se habet vita ad viventem, ita deitas ad Deum. Ergo Deus est ipsa deitas.]]
+![[LEO Ia, q. 3, a. 3#s.c.|Contra, de Deo dicitur quod est vita, et non solum quod est vivens, ut patet Ioan. XIV, *ego sum via, veritas et vita*. Sicut autem se habet vita ad viventem, ita deitas ad Deum. Ergo Deus est ipsa deitas.]]
 ![[CERF Ia, q. 3, a. 3#s.c.]]
 
 ###### resp.

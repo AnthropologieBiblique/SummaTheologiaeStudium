@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 57#Prooemium|Deinde quaeritur de his materialibus quae ab Angelis cognoscuntur. Et circa hoc quaeruntur quinque. Primo, utrum Angeli cognoscant naturas rerum materialium. Secundo, utrum cognoscant singularia. Tertio, utrum cognoscant futura. Quarto, utrum cognoscant cogitationes cordium. Quinto, utrum cognoscant omnia mysteria gratiae.]]
-![[CERF Ia, q. 57#Prooemium]]
+Deinde quaeritur de his materialibus quae ab Angelis cognoscuntur. Et circa hoc quaeruntur quinque. Primo, utrum Angeli cognoscant naturas rerum materialium. Secundo, utrum cognoscant singularia. Tertio, utrum cognoscant futura. Quarto, utrum cognoscant cogitationes cordium. Quinto, utrum cognoscant omnia mysteria gratiae.
 
 ![[Ia, q. 57, a. 1#Articulus 1]]
 

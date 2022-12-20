@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 180, a. 3#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 180, a. 3#arg. 4|Praeterea, ad vitam contemplativam pertinere dicuntur oratio, lectio et meditatio. Pertinet etiam ad vitam contemplativam auditus, nam de Maria, per quam vita contemplativa significatur, dicitur, [[Lc 10]], quod *sedens secus pedes domini, audiebat verba illius*. Ergo videtur quod plures actus ad vitam contemplativam requirantur.]]
+![[LEO IIa-IIæ, q. 180, a. 3#arg. 4|Praeterea, ad vitam contemplativam pertinere dicuntur oratio, lectio et meditatio. Pertinet etiam ad vitam contemplativam auditus, nam de Maria, per quam vita contemplativa significatur, dicitur, Luc. X, quod *sedens secus pedes domini, audiebat verba illius*. Ergo videtur quod plures actus ad vitam contemplativam requirantur.]]
 ![[CERF IIa-IIæ, q. 180, a. 3#arg. 4]]
 
 ###### s.c.
@@ -42,6 +42,6 @@ tags :
 ![[CERF IIa-IIæ, q. 180, a. 3#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 180, a. 3#ad 4|Ad quartum dicendum quod homo ad cognitionem veritatis pertingit dupliciter. Uno modo, per ea quae ab alio accipit. Et sic quidem, quantum ad ea quae homo a Deo accipit, necessaria est oratio, secundum illud [[Sg 7]], *invocavi, et venit in me spiritus sapientiae*. Quantum vero ad ea quae accipit ab homine, necessarius est auditus, secundum quod accipit ex voce loquentis; et lectio, secundum quod accipit ex eo quod per Scripturam est traditum. Alio modo, necessarium est quod adhibeat proprium studium. Et sic requiritur meditatio.]]
+![[LEO IIa-IIæ, q. 180, a. 3#ad 4|Ad quartum dicendum quod homo ad cognitionem veritatis pertingit dupliciter. Uno modo, per ea quae ab alio accipit. Et sic quidem, quantum ad ea quae homo a Deo accipit, necessaria est oratio, secundum illud Sap. VII, *invocavi, et venit in me spiritus sapientiae*. Quantum vero ad ea quae accipit ab homine, necessarius est auditus, secundum quod accipit ex voce loquentis; et lectio, secundum quod accipit ex eo quod per Scripturam est traditum. Alio modo, necessarium est quod adhibeat proprium studium. Et sic requiritur meditatio.]]
 ![[CERF IIa-IIæ, q. 180, a. 3#ad 4]]
 

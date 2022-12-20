@@ -6,19 +6,19 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 60, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non sit licitum iudicare. Non enim infligitur poena nisi pro illicito. Sed iudicantibus imminet poena, quam non iudicantes effugiunt, secundum illud [[Mt 7]], *nolite iudicare, ut non iudicemini*. Ergo iudicare est illicitum.]]
+![[LEO IIa-IIæ, q. 60, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod non sit licitum iudicare. Non enim infligitur poena nisi pro illicito. Sed iudicantibus imminet poena, quam non iudicantes effugiunt, secundum illud Matth. VII, *nolite iudicare, ut non iudicemini*. Ergo iudicare est illicitum.]]
 ![[CERF IIa-IIæ, q. 60, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 60, a. 2#arg. 2|Praeterea, [[Rm 14]] dicitur, *tu quis es, qui iudicas alienum servum? Suo domino stat aut cadit*. Dominus autem omnium Deus est. Ergo nulli homini licet iudicare.]]
+![[LEO IIa-IIæ, q. 60, a. 2#arg. 2|Praeterea, Rom. XIV dicitur, *tu quis es, qui iudicas alienum servum? Suo domino stat aut cadit*. Dominus autem omnium Deus est. Ergo nulli homini licet iudicare.]]
 ![[CERF IIa-IIæ, q. 60, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 60, a. 2#arg. 3|Praeterea, nullus homo est sine peccato, secundum illud [[1 Jn 1]], *si dixerimus quia peccatum non habemus, nosipsos seducimus*. Sed peccanti non licet iudicare, secundum illud [[Rm 2]], *inexcusabilis es, o homo omnis qui iudicas, in quo enim alterum iudicas, teipsum condemnas; eadem enim agis quae iudicas*. Ergo nulli est licitum iudicare.]]
+![[LEO IIa-IIæ, q. 60, a. 2#arg. 3|Praeterea, nullus homo est sine peccato, secundum illud I Ioan. I, *si dixerimus quia peccatum non habemus, nosipsos seducimus*. Sed peccanti non licet iudicare, secundum illud Rom. II, *inexcusabilis es, o homo omnis qui iudicas, in quo enim alterum iudicas, teipsum condemnas; eadem enim agis quae iudicas*. Ergo nulli est licitum iudicare.]]
 ![[CERF IIa-IIæ, q. 60, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 60, a. 2#s.c.|Sed contra est quod dicitur [[Dt 16]], *iudices et magistros constitues in omnibus portis tuis, ut iudicent populum iusto iudicio*.]]
+![[LEO IIa-IIæ, q. 60, a. 2#s.c.|Sed contra est quod dicitur Deut. XVI, *iudices et magistros constitues in omnibus portis tuis, ut iudicent populum iusto iudicio*.]]
 ![[CERF IIa-IIæ, q. 60, a. 2#s.c.]]
 
 ###### resp.
@@ -26,14 +26,14 @@ tags :
 ![[CERF IIa-IIæ, q. 60, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 60, a. 2#ad 1|Ad primum ergo dicendum quod dominus ibi prohibet iudicium temerarium, quod est de intentione cordis vel de aliis incertis, ut Augustinus dicit, in libro de Serm. Dom. in monte. Vel prohibet ibi iudicium de rebus divinis, de quibus, cum sint supra nos, non debemus iudicare, sed simpliciter ea credere, ut Hilarius dicit, super [[Mt 5]]el prohibet iudicium quod non sit ex benevolentia, sed ex animi amaritudine, ut Chrysostomus dicit.]]
+![[LEO IIa-IIæ, q. 60, a. 2#ad 1|Ad primum ergo dicendum quod dominus ibi prohibet iudicium temerarium, quod est de intentione cordis vel de aliis incertis, ut Augustinus dicit, in libro de Serm. Dom. in monte. Vel prohibet ibi iudicium de rebus divinis, de quibus, cum sint supra nos, non debemus iudicare, sed simpliciter ea credere, ut Hilarius dicit, super Matth. Vel prohibet iudicium quod non sit ex benevolentia, sed ex animi amaritudine, ut Chrysostomus dicit.]]
 ![[CERF IIa-IIæ, q. 60, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 60, a. 2#ad 2|Ad secundum dicendum quod iudex constituitur ut minister Dei. Unde dicitur [[Dt 1]], *quod iustum est iudicate*; et postea subdit, *quia Dei est iudicium*.]]
+![[LEO IIa-IIæ, q. 60, a. 2#ad 2|Ad secundum dicendum quod iudex constituitur ut minister Dei. Unde dicitur Deut. I, *quod iustum est iudicate*; et postea subdit, *quia Dei est iudicium*.]]
 ![[CERF IIa-IIæ, q. 60, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 60, a. 2#ad 3|Ad tertium dicendum quod illi qui sunt in gravibus peccatis non debent iudicare eos qui sunt in eisdem peccatis vel minoribus, ut Chrysostomus dicit, super illud [[Mt 7]], *nolite iudicare*. Et praecipue est hoc intelligendum quando illa peccata sunt publica, quia ex hoc generatur scandalum in cordibus aliorum. Si autem non sunt publica, sed occulta, et necessitas iudicandi immineat propter officium, potest cum humilitate et timore vel arguere vel iudicare. Unde Augustinus dicit, in libro de Serm. Dom. in monte, *si invenerimus nos in eodem vitio esse, congemiscamus, et ad pariter conandum invitemus*. Nec tamen propter hoc homo sic seipsum condemnat ut novum condemnationis meritum sibi acquirat, sed quia, condemnans alium, ostendit se similiter condemnabilem esse, propter idem peccatum vel simile.]]
+![[LEO IIa-IIæ, q. 60, a. 2#ad 3|Ad tertium dicendum quod illi qui sunt in gravibus peccatis non debent iudicare eos qui sunt in eisdem peccatis vel minoribus, ut Chrysostomus dicit, super illud Matth. VII, *nolite iudicare*. Et praecipue est hoc intelligendum quando illa peccata sunt publica, quia ex hoc generatur scandalum in cordibus aliorum. Si autem non sunt publica, sed occulta, et necessitas iudicandi immineat propter officium, potest cum humilitate et timore vel arguere vel iudicare. Unde Augustinus dicit, in libro de Serm. Dom. in monte, *si invenerimus nos in eodem vitio esse, congemiscamus, et ad pariter conandum invitemus*. Nec tamen propter hoc homo sic seipsum condemnat ut novum condemnationis meritum sibi acquirat, sed quia, condemnans alium, ostendit se similiter condemnabilem esse, propter idem peccatum vel simile.]]
 ![[CERF IIa-IIæ, q. 60, a. 2#ad 3]]
 

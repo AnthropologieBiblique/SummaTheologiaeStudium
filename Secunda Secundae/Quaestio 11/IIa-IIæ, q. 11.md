@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 11#Prooemium|Deinde considerandum est de haeresi. Circa quam quaeruntur quatuor. Primo, utrum haeresis sit infidelitatis species. Secundo, de materia eius circa quam est. Tertio, utrum haeretici sint tolerandi. Quarto, utrum revertentes sint recipiendi.]]
-![[CERF IIa-IIæ, q. 11#Prooemium]]
+Deinde considerandum est de haeresi. Circa quam quaeruntur quatuor. Primo, utrum haeresis sit infidelitatis species. Secundo, de materia eius circa quam est. Tertio, utrum haeretici sint tolerandi. Quarto, utrum revertentes sint recipiendi.
 
 ![[IIa-IIæ, q. 11, a. 1#Articulus 1]]
 

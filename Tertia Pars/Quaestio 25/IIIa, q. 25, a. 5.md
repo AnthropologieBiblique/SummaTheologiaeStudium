@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIIa, q. 25, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod mater Dei sit adoranda adoratione latriae. Videtur enim idem honor exhibendus esse matri regis et regi, unde dicitur [[1R 2]] quod *positus est thronus matri regis, quae sedit ad dexteram eius*. Et Augustinus dicit, in sermone de Assumpt., *thronum Dei, thalamum domini caeli, atque tabernaculum Christi, dignum est ibi esse ubi est ipse*. Sed Christus adoratur adoratione latriae. Ergo et mater eius.]]
+![[LEO IIIa, q. 25, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod mater Dei sit adoranda adoratione latriae. Videtur enim idem honor exhibendus esse matri regis et regi, unde dicitur III Reg. II quod *positus est thronus matri regis, quae sedit ad dexteram eius*. Et Augustinus dicit, in sermone de Assumpt., *thronum Dei, thalamum domini caeli, atque tabernaculum Christi, dignum est ibi esse ubi est ipse*. Sed Christus adoratur adoratione latriae. Ergo et mater eius.]]
 ![[CERF IIIa, q. 25, a. 5#arg. 1]]
 
 ###### arg. 2

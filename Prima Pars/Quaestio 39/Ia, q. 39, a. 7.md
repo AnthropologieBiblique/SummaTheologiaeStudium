@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 39, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 39, a. 7#s.c.|Sed contra est quod apostolus dicit, [[1 Co 1]], *Christum, Dei virtutem et Dei sapientiam*.]]
+![[LEO Ia, q. 39, a. 7#s.c.|Sed contra est quod apostolus dicit, I Cor. I, *Christum, Dei virtutem et Dei sapientiam*.]]
 ![[CERF Ia, q. 39, a. 7#s.c.]]
 
 ###### resp.

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 23#Prooemium|Post considerationem divinae providentiae, agendum est de praedestinatione, et de libro vitae. Et circa praedestinationem quaeruntur octo. Primo, utrum Deo conveniat praedestinatio. Secundo, quid sit praedestinatio; et utrum ponat aliquid in praedestinato. Tertio, utrum Deo competat reprobatio aliquorum hominum. Quarto, de comparatione praedestinationis ad electionem; utrum scilicet praedestinati eligantur. Quinto, utrum merita sint causa vel ratio praedestinationis, vel reprobationis, aut electionis. Sexto, de certitudine praedestinationis; utrum scilicet praedestinati infallibiliter salventur. Septimo, utrum numerus praedestinatorum sit certus. Octavo, utrum praedestinatio possit iuvari precibus sanctorum.]]
-![[CERF Ia, q. 23#Prooemium]]
+Post considerationem divinae providentiae, agendum est de praedestinatione, et de libro vitae. Et circa praedestinationem quaeruntur octo. Primo, utrum Deo conveniat praedestinatio. Secundo, quid sit praedestinatio; et utrum ponat aliquid in praedestinato. Tertio, utrum Deo competat reprobatio aliquorum hominum. Quarto, de comparatione praedestinationis ad electionem; utrum scilicet praedestinati eligantur. Quinto, utrum merita sint causa vel ratio praedestinationis, vel reprobationis, aut electionis. Sexto, de certitudine praedestinationis; utrum scilicet praedestinati infallibiliter salventur. Septimo, utrum numerus praedestinatorum sit certus. Octavo, utrum praedestinatio possit iuvari precibus sanctorum.
 
 ![[Ia, q. 23, a. 1#Articulus 1]]
 

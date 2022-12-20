@@ -14,15 +14,15 @@ tags :
 ![[CERF Ia, q. 97, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 97, a. 1#arg. 3|Praeterea, si homo in statu innocentiae fuit immortalis, aut hoc habuit per naturam, aut per gratiam. Sed non per naturam, quia, cum natura eadem maneat secundum speciem, nunc quoque esset immortalis. Similiter nec per gratiam, quia primus homo gratiam per poenitentiam recuperavit, secundum illud [[Sg 10]], *eduxit illum a delicto suo*; ergo immortalitatem recuperasset; quod patet esse falsum. Non ergo homo erat immortalis in statu innocentiae.]]
+![[LEO Ia, q. 97, a. 1#arg. 3|Praeterea, si homo in statu innocentiae fuit immortalis, aut hoc habuit per naturam, aut per gratiam. Sed non per naturam, quia, cum natura eadem maneat secundum speciem, nunc quoque esset immortalis. Similiter nec per gratiam, quia primus homo gratiam per poenitentiam recuperavit, secundum illud Sap. X, *eduxit illum a delicto suo*; ergo immortalitatem recuperasset; quod patet esse falsum. Non ergo homo erat immortalis in statu innocentiae.]]
 ![[CERF Ia, q. 97, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 97, a. 1#arg. 4|Praeterea, immortalitas promittitur homini in praemium; secundum illud [[Ap 21]], *mors ultra non erit*. Sed homo non fuit conditus in statu praemii, sed ut praemium mereretur. Ergo homo in statu innocentiae non fuit immortalis.]]
+![[LEO Ia, q. 97, a. 1#arg. 4|Praeterea, immortalitas promittitur homini in praemium; secundum illud Apoc. XXI, *mors ultra non erit*. Sed homo non fuit conditus in statu praemii, sed ut praemium mereretur. Ergo homo in statu innocentiae non fuit immortalis.]]
 ![[CERF Ia, q. 97, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 97, a. 1#s.c.|Sed contra est quod dicitur ad [[Rm 5]], quod *per peccatum intravit mors in mundum*. Ergo ante peccatum homo erat immortalis.]]
+![[LEO Ia, q. 97, a. 1#s.c.|Sed contra est quod dicitur ad Rom. V, quod *per peccatum intravit mors in mundum*. Ergo ante peccatum homo erat immortalis.]]
 ![[CERF Ia, q. 97, a. 1#s.c.]]
 
 ###### resp.

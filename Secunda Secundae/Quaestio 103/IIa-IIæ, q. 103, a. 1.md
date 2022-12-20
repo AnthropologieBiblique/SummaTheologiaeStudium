@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 103, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 103, a. 1#s.c.|Sed contra est quod Hieronymus, exponens illud [[1 Tm 5]], qui bene praesunt presbyteri duplici honore etc., dicit, honor *in praesentiarum vel pro eleemosyna, vel pro munere accipitur*. Utrumque autem horum ad corporalia pertinet. Ergo honor in corporalibus consistit.]]
+![[LEO IIa-IIæ, q. 103, a. 1#s.c.|Sed contra est quod Hieronymus, exponens illud I ad Tim. V, qui bene praesunt presbyteri duplici honore etc., dicit, honor *in praesentiarum vel pro eleemosyna, vel pro munere accipitur*. Utrumque autem horum ad corporalia pertinet. Ergo honor in corporalibus consistit.]]
 ![[CERF IIa-IIæ, q. 103, a. 1#s.c.]]
 
 ###### resp.
@@ -30,10 +30,10 @@ tags :
 ![[CERF IIa-IIæ, q. 103, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 103, a. 1#ad 2|Ad secundum dicendum quod, sicut philosophus ibidem dicit, honor non est sufficiens virtutis praemium, sed nihil potest esse in humanis rebus et corporalibus maius honore, inquantum scilicet ipsae corporales res sunt signa demonstrativa excellentis virtutis. Est autem debitum bono et pulchro ut manifestetur, secundum illud [[Mt 5]], *neque accendunt lucernam et ponunt eam sub modio, sed super candelabrum, ut luceat omnibus qui in domo sunt*, et pro tanto praemium virtutis dicitur honor.]]
+![[LEO IIa-IIæ, q. 103, a. 1#ad 2|Ad secundum dicendum quod, sicut philosophus ibidem dicit, honor non est sufficiens virtutis praemium, sed nihil potest esse in humanis rebus et corporalibus maius honore, inquantum scilicet ipsae corporales res sunt signa demonstrativa excellentis virtutis. Est autem debitum bono et pulchro ut manifestetur, secundum illud Matth. V, *neque accendunt lucernam et ponunt eam sub modio, sed super candelabrum, ut luceat omnibus qui in domo sunt*, et pro tanto praemium virtutis dicitur honor.]]
 ![[CERF IIa-IIæ, q. 103, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 103, a. 1#ad 3|Ad tertium dicendum quod laus distinguitur ab honore dupliciter. Uno modo, quia laus consistit in solis signis verborum, honor autem in quibuscumque exterioribus signis. Et secundum hoc, laus in honore includitur. Alio modo, quia per exhibitionem honoris testimonium reddimus de excellentia bonitatis alicuius absolute, sed per laudem testificamur de bonitate alicuius in ordine ad finem, sicut laudamus bene operantem propter finem; honor autem est etiam optimorum, quae non ordinantur ad finem, sed iam sunt in fine; ut patet per philosophum, in I Ethic. Gloria autem est effectus honoris et laudis. Quia ex hoc quod testificamur de bonitate alicuius, clarescit eius bonitas in notitia plurimorum. Et hoc importat nomen gloriae, nam gloria dicitur quasi claria. Unde [[Rm 1]], dicit quaedam Glossa Ambrosii quod gloria est clara cum laude notitia.]]
+![[LEO IIa-IIæ, q. 103, a. 1#ad 3|Ad tertium dicendum quod laus distinguitur ab honore dupliciter. Uno modo, quia laus consistit in solis signis verborum, honor autem in quibuscumque exterioribus signis. Et secundum hoc, laus in honore includitur. Alio modo, quia per exhibitionem honoris testimonium reddimus de excellentia bonitatis alicuius absolute, sed per laudem testificamur de bonitate alicuius in ordine ad finem, sicut laudamus bene operantem propter finem; honor autem est etiam optimorum, quae non ordinantur ad finem, sed iam sunt in fine; ut patet per philosophum, in I Ethic. Gloria autem est effectus honoris et laudis. Quia ex hoc quod testificamur de bonitate alicuius, clarescit eius bonitas in notitia plurimorum. Et hoc importat nomen gloriae, nam gloria dicitur quasi claria. Unde Rom. I, dicit quaedam Glossa Ambrosii quod gloria est clara cum laude notitia.]]
 ![[CERF IIa-IIæ, q. 103, a. 1#ad 3]]
 

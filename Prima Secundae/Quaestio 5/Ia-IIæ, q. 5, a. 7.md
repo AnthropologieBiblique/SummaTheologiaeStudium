@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia-IIæ, q. 5, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 5, a. 7#arg. 3|Praeterea, apostolus dicit, [[Rm 4]], beatitudinem hominis esse cui Deus confert iustitiam sine operibus. Non ergo requiruntur aliqua opera hominis ad beatitudinem consequendam.]]
+![[LEO Ia-IIæ, q. 5, a. 7#arg. 3|Praeterea, apostolus dicit, Rom. IV, beatitudinem hominis esse cui Deus confert iustitiam sine operibus. Non ergo requiruntur aliqua opera hominis ad beatitudinem consequendam.]]
 ![[CERF Ia-IIæ, q. 5, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 5, a. 7#s.c.|Sed contra est quod dicitur [[Jn 13]], *si haec scitis, beati eritis si feceritis ea*. Ergo per actionem ad beatitudinem pervenitur.]]
+![[LEO Ia-IIæ, q. 5, a. 7#s.c.|Sed contra est quod dicitur Ioan. XIII, *si haec scitis, beati eritis si feceritis ea*. Ergo per actionem ad beatitudinem pervenitur.]]
 ![[CERF Ia-IIæ, q. 5, a. 7#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 5, a. 7#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 5, a. 7#ad 2|Ad secundum dicendum quod primas creaturas statim Deus perfectas produxit, absque aliqua dispositione vel operatione creaturae praecedente, quia sic instituit prima individua specierum, ut per ea natura propagaretur ad posteros. Et similiter, quia per Christum, qui est Deus et homo, beatitudo erat ad alios derivanda, secundum illud apostoli ad [[He 2]], *qui multos filios in gloriam adduxerat*; statim a principio suae conceptionis, absque aliqua operatione meritoria praecedente, anima eius fuit beata. Sed hoc est singulare in ipso, nam pueris baptizatis subvenit meritum Christi ad beatitudinem consequendam, licet desint eis merita propria, eo quod per Baptismum sunt Christi membra effecti.]]
+![[LEO Ia-IIæ, q. 5, a. 7#ad 2|Ad secundum dicendum quod primas creaturas statim Deus perfectas produxit, absque aliqua dispositione vel operatione creaturae praecedente, quia sic instituit prima individua specierum, ut per ea natura propagaretur ad posteros. Et similiter, quia per Christum, qui est Deus et homo, beatitudo erat ad alios derivanda, secundum illud apostoli ad Heb. II, *qui multos filios in gloriam adduxerat*; statim a principio suae conceptionis, absque aliqua operatione meritoria praecedente, anima eius fuit beata. Sed hoc est singulare in ipso, nam pueris baptizatis subvenit meritum Christi ad beatitudinem consequendam, licet desint eis merita propria, eo quod per Baptismum sunt Christi membra effecti.]]
 ![[CERF Ia-IIæ, q. 5, a. 7#ad 2]]
 
 ###### ad 3

@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIIa, q. 16, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod haec sit vera, homo factus est Deus. Dicitur enim [[Rm 1]], *quod ante promiserat per prophetas suos in Scripturis sanctis de filio suo, qui factus est ei ex semine David secundum carnem*. Sed Christus secundum quod homo est ex semine David secundum carnem. Ergo homo factus est filius Dei.]]
+![[LEO IIIa, q. 16, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod haec sit vera, homo factus est Deus. Dicitur enim Rom. I, *quod ante promiserat per prophetas suos in Scripturis sanctis de filio suo, qui factus est ei ex semine David secundum carnem*. Sed Christus secundum quod homo est ex semine David secundum carnem. Ergo homo factus est filius Dei.]]
 ![[CERF IIIa, q. 16, a. 7#arg. 1]]
 
 ###### arg. 2

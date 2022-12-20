@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 111, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod hypocrisis non sit idem quod simulatio. Simulatio enim consistit in quodam factorum mendacio. Sed hypocrisis potest esse etiam si aliquis ostendat exterius quae interius agit, secundum illud [[Mt 6]], *cum facis eleemosynam, noli tuba canere ante te, sicut hypocritae faciunt*. Ergo hypocrisis non est idem simulationi.]]
+![[LEO IIa-IIæ, q. 111, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod hypocrisis non sit idem quod simulatio. Simulatio enim consistit in quodam factorum mendacio. Sed hypocrisis potest esse etiam si aliquis ostendat exterius quae interius agit, secundum illud Matth. VI, *cum facis eleemosynam, noli tuba canere ante te, sicut hypocritae faciunt*. Ergo hypocrisis non est idem simulationi.]]
 ![[CERF IIa-IIæ, q. 111, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 111, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 111, a. 2#arg. 3|Praeterea, hypocrisis in sola intentione consistit, dicit enim dominus de hypocritis, [[Mt 23]], quod *omnia opera sua faciunt ut ab hominibus videantur*; et Gregorius dicit, XXXI Moral., quod *nunquam quid agant, sed quomodo de actione qualibet hominibus possint placere, considerant*. Sed simulatio non consistit in sola intentione, sed in exteriori operatione, unde super illud [[Jb 36]], simulatores et callidi provocant iram Dei, dicit Glossa quod *simulator aliud simulat, aliud agit, castitatem praefert, et lasciviam sequitur; ostentat paupertatem, et marsupium replet*. Ergo hypocrisis non est idem quod simulatio.]]
+![[LEO IIa-IIæ, q. 111, a. 2#arg. 3|Praeterea, hypocrisis in sola intentione consistit, dicit enim dominus de hypocritis, Matth. XXIII, quod *omnia opera sua faciunt ut ab hominibus videantur*; et Gregorius dicit, XXXI Moral., quod *nunquam quid agant, sed quomodo de actione qualibet hominibus possint placere, considerant*. Sed simulatio non consistit in sola intentione, sed in exteriori operatione, unde super illud Iob XXXVI, simulatores et callidi provocant iram Dei, dicit Glossa quod *simulator aliud simulat, aliud agit, castitatem praefert, et lasciviam sequitur; ostentat paupertatem, et marsupium replet*. Ergo hypocrisis non est idem quod simulatio.]]
 ![[CERF IIa-IIæ, q. 111, a. 2#arg. 3]]
 
 ###### s.c.

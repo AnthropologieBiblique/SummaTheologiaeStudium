@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIIa, q. 28, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod mater Christi non permanserit virgo post partum. Dicitur enim [[Mt 1]], *antequam convenirent Ioseph et Maria, inventa est in utero habens de spiritu sancto. Non autem Evangelista hoc diceret, antequam convenirent, nisi certus esset de conventuris, quia nemo dicit de non pransuro, antequam pranderet*. Ergo videtur quod beata virgo quandoque convenit carnali copula cum Ioseph. Et ita non permansit virgo post partum.]]
+![[LEO IIIa, q. 28, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod mater Christi non permanserit virgo post partum. Dicitur enim Matth. I, *antequam convenirent Ioseph et Maria, inventa est in utero habens de spiritu sancto. Non autem Evangelista hoc diceret, antequam convenirent, nisi certus esset de conventuris, quia nemo dicit de non pransuro, antequam pranderet*. Ergo videtur quod beata virgo quandoque convenit carnali copula cum Ioseph. Et ita non permansit virgo post partum.]]
 ![[CERF IIIa, q. 28, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,23 +14,23 @@ tags :
 ![[CERF IIIa, q. 28, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 28, a. 3#arg. 3|Praeterea, ibidem post pauca subditur, *et accepit coniugem suam, et non cognoscebat eam donec peperit filium suum primogenitum*. Hoc autem adverbium donec consuevit determinatum tempus signare, quo completo, fiat id quod usque ad illud tempus non fiebat. Verbum autem cognoscendi ibi ad coitum refertur, sicut et [[Gn 4]] dicitur quod *Adam cognovit uxorem suam*. Ergo videtur quod post partum beata virgo fuit a Ioseph cognita. Ergo videtur quod non permanserit virgo post partum.]]
+![[LEO IIIa, q. 28, a. 3#arg. 3|Praeterea, ibidem post pauca subditur, *et accepit coniugem suam, et non cognoscebat eam donec peperit filium suum primogenitum*. Hoc autem adverbium donec consuevit determinatum tempus signare, quo completo, fiat id quod usque ad illud tempus non fiebat. Verbum autem cognoscendi ibi ad coitum refertur, sicut et Gen. IV dicitur quod *Adam cognovit uxorem suam*. Ergo videtur quod post partum beata virgo fuit a Ioseph cognita. Ergo videtur quod non permanserit virgo post partum.]]
 ![[CERF IIIa, q. 28, a. 3#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 28, a. 3#arg. 4|Praeterea, primogenitus non potest dici nisi qui habeat fratres subsequentes, unde [[Rm 8]], *quos praescivit, et praedestinavit conformes fieri imaginis filii sui, ut sit ipse primogenitus in multis fratribus*. Sed Evangelista nominat Christum primogenitum matris eius. Ergo alios filios habuit post Christum. Et ita videtur quod mater Christi non fuerit virgo post partum.]]
+![[LEO IIIa, q. 28, a. 3#arg. 4|Praeterea, primogenitus non potest dici nisi qui habeat fratres subsequentes, unde Rom. VIII, *quos praescivit, et praedestinavit conformes fieri imaginis filii sui, ut sit ipse primogenitus in multis fratribus*. Sed Evangelista nominat Christum primogenitum matris eius. Ergo alios filios habuit post Christum. Et ita videtur quod mater Christi non fuerit virgo post partum.]]
 ![[CERF IIIa, q. 28, a. 3#arg. 4]]
 
 ###### arg. 5
-![[LEO IIIa, q. 28, a. 3#arg. 5|Praeterea, [[Jn 2]] dicitur, post haec descendit Capharnaum ipse, scilicet Christus, et mater et fratres eius. Sed fratres dicuntur qui ex eodem parente geniti sunt. Ergo videtur quod beata virgo habuerit alios filios post Christum.]]
+![[LEO IIIa, q. 28, a. 3#arg. 5|Praeterea, Ioan. II dicitur, post haec descendit Capharnaum ipse, scilicet Christus, et mater et fratres eius. Sed fratres dicuntur qui ex eodem parente geniti sunt. Ergo videtur quod beata virgo habuerit alios filios post Christum.]]
 ![[CERF IIIa, q. 28, a. 3#arg. 5]]
 
 ###### arg. 6
-![[LEO IIIa, q. 28, a. 3#arg. 6|Praeterea, [[Mt 27]] dicitur, erant ibi, scilicet iuxta crucem Christi, mulieres multae a longe, *quae secutae erant Iesum a Galilaea, ministrantes ei, inter quas erat Maria Magdalene, et Maria Iacobi et Ioseph mater, et mater filiorum Zebedaei*. Videtur autem haec Maria quae hic dicitur Iacobi et Ioseph mater, esse etiam mater Christi, dicitur enim [[Jn 19]] quod *stabat iuxta crucem Iesu Maria, mater eius*. Ergo videtur quod mater Christi non permanserit virgo post partum.]]
+![[LEO IIIa, q. 28, a. 3#arg. 6|Praeterea, Matth. XXVII dicitur, erant ibi, scilicet iuxta crucem Christi, mulieres multae a longe, *quae secutae erant Iesum a Galilaea, ministrantes ei, inter quas erat Maria Magdalene, et Maria Iacobi et Ioseph mater, et mater filiorum Zebedaei*. Videtur autem haec Maria quae hic dicitur Iacobi et Ioseph mater, esse etiam mater Christi, dicitur enim Ioan. XIX quod *stabat iuxta crucem Iesu Maria, mater eius*. Ergo videtur quod mater Christi non permanserit virgo post partum.]]
 ![[CERF IIIa, q. 28, a. 3#arg. 6]]
 
 ###### s.c.
-![[LEO IIIa, q. 28, a. 3#s.c.|Sed contra est quod dicitur [[Ez 44]], *porta haec clausa erit, et non aperietur, et vir non transibit per eam, quoniam dominus Deus Israel ingressus est per eam*. Quod exponens Augustinus, in quodam sermone, dicit, *quid est porta in domo domini clausa, nisi quod Maria semper erit intacta? Et quid est, homo non transibit per eam, nisi quod Ioseph non cognoscet eam? Et quid est, dominus solus intrat et egreditur per eam, nisi quod spiritus sanctus impraegnabit eam, et Angelorum dominus nascetur per eam? Et quid est, clausa erit in aeternum, nisi quod Maria virgo est ante partum, et virgo in partu, et virgo post partum?*]]
+![[LEO IIIa, q. 28, a. 3#s.c.|Sed contra est quod dicitur Ezech. XLIV, *porta haec clausa erit, et non aperietur, et vir non transibit per eam, quoniam dominus Deus Israel ingressus est per eam*. Quod exponens Augustinus, in quodam sermone, dicit, *quid est porta in domo domini clausa, nisi quod Maria semper erit intacta? Et quid est, homo non transibit per eam, nisi quod Ioseph non cognoscet eam? Et quid est, dominus solus intrat et egreditur per eam, nisi quod spiritus sanctus impraegnabit eam, et Angelorum dominus nascetur per eam? Et quid est, clausa erit in aeternum, nisi quod Maria virgo est ante partum, et virgo in partu, et virgo post partum?*]]
 ![[CERF IIIa, q. 28, a. 3#s.c.]]
 
 ###### resp.

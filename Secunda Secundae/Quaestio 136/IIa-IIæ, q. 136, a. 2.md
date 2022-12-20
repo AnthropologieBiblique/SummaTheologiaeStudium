@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 136, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod patientia sit potissima virtutum. Id enim quod est perfectum est potissimum in unoquoque genere. Sed patentia habet opus perfectum, ut dicitur [[Jc 1]]. Ergo patientia est potissima virtutum.]]
+![[LEO IIa-IIæ, q. 136, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod patientia sit potissima virtutum. Id enim quod est perfectum est potissimum in unoquoque genere. Sed patentia habet opus perfectum, ut dicitur Iac. I. Ergo patientia est potissima virtutum.]]
 ![[CERF IIa-IIæ, q. 136, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 136, a. 2#arg. 2|Praeterea, omnes virtutes ad bonum animae ordinantur. Sed hoc praecipue videtur pertinere ad patientiam, dicitur enim [[Lc 21]], *in patientia vestra possidebitis animas vestras*. Ergo patientia est maxima virtutum.]]
+![[LEO IIa-IIæ, q. 136, a. 2#arg. 2|Praeterea, omnes virtutes ad bonum animae ordinantur. Sed hoc praecipue videtur pertinere ad patientiam, dicitur enim Luc. XXI, *in patientia vestra possidebitis animas vestras*. Ergo patientia est maxima virtutum.]]
 ![[CERF IIa-IIæ, q. 136, a. 2#arg. 2]]
 
 ###### arg. 3

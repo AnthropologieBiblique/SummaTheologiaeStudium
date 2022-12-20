@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 10, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod non sit cum infidelibus publice disputandum. Dicit enim apostolus, [[2 Tm 2]], *noli verbis contendere, ad nihilum enim utile est nisi ad subversionem audientium*. Sed disputatio publica cum infidelibus fieri non potest sine contentione verborum. Ergo non est publice disputandum cum infidelibus.]]
+![[LEO IIa-IIæ, q. 10, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod non sit cum infidelibus publice disputandum. Dicit enim apostolus, II ad Tim. II, *noli verbis contendere, ad nihilum enim utile est nisi ad subversionem audientium*. Sed disputatio publica cum infidelibus fieri non potest sine contentione verborum. Ergo non est publice disputandum cum infidelibus.]]
 ![[CERF IIa-IIæ, q. 10, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 10, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 10, a. 7#s.c.|Sed contra est quod [[Ac 9]] dicitur quod *Saulus invalescebat et confundebat Iudaeos; et quod loquebatur gentibus et disputabat cum Graecis*.]]
+![[LEO IIa-IIæ, q. 10, a. 7#s.c.|Sed contra est quod Act. IX dicitur quod *Saulus invalescebat et confundebat Iudaeos; et quod loquebatur gentibus et disputabat cum Graecis*.]]
 ![[CERF IIa-IIæ, q. 10, a. 7#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 10, a. 7#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 10, a. 7#ad 3|Ad tertium dicendum quod non debet disputari de his quae sunt fidei quasi de eis dubitando, sed propter veritatem manifestandam et errores confutandos. Oportet enim ad fidei confirmationem aliquando cum infidelibus disputare, quandoque quidem defendendo fidem, secundum illud [[1 P 3]], *parati semper ad satisfactionem omni poscenti vos rationem de ea quae est in vobis spe et fide*; quandoque autem ad convincendos errantes, secundum illud ad [[Tt 1]], *ut sit potens exhortari in doctrina sana, et eos qui contradicunt arguere*.]]
+![[LEO IIa-IIæ, q. 10, a. 7#ad 3|Ad tertium dicendum quod non debet disputari de his quae sunt fidei quasi de eis dubitando, sed propter veritatem manifestandam et errores confutandos. Oportet enim ad fidei confirmationem aliquando cum infidelibus disputare, quandoque quidem defendendo fidem, secundum illud I Pet. III, *parati semper ad satisfactionem omni poscenti vos rationem de ea quae est in vobis spe et fide*; quandoque autem ad convincendos errantes, secundum illud ad Tit. I, *ut sit potens exhortari in doctrina sana, et eos qui contradicunt arguere*.]]
 ![[CERF IIa-IIæ, q. 10, a. 7#ad 3]]
 

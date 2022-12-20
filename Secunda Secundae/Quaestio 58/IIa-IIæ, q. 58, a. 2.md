@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 58, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod iustitia non semper sit ad alterum. Dicit enim apostolus, ad [[Rm 3]], quod *iustitia Dei est per fidem Iesu Christi*. Sed fides non dicitur per comparationem unius hominis ad alterum. Ergo neque iustitia.]]
+![[LEO IIa-IIæ, q. 58, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod iustitia non semper sit ad alterum. Dicit enim apostolus, ad Rom. III, quod *iustitia Dei est per fidem Iesu Christi*. Sed fides non dicitur per comparationem unius hominis ad alterum. Ergo neque iustitia.]]
 ![[CERF IIa-IIæ, q. 58, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 58, a. 2#arg. 2|Praeterea, secundum Augustinum, in libro de moribus Eccles., ad iustitiam pertinet, ob hoc quod servit Deo, *bene imperare ceteris, quae homini sunt subiecta*. Sed appetitus sensitivus est homini subiectus, ut patet [[Gn 4]], ubi dicitur, subter te erit appetitus eius, scilicet peccati, et tu dominaberis illius. Ergo ad iustitiam pertinet dominari proprio appetitui. Et sic erit iustitia ad seipsum.]]
+![[LEO IIa-IIæ, q. 58, a. 2#arg. 2|Praeterea, secundum Augustinum, in libro de moribus Eccles., ad iustitiam pertinet, ob hoc quod servit Deo, *bene imperare ceteris, quae homini sunt subiecta*. Sed appetitus sensitivus est homini subiectus, ut patet Gen. IV, ubi dicitur, subter te erit appetitus eius, scilicet peccati, et tu dominaberis illius. Ergo ad iustitiam pertinet dominari proprio appetitui. Et sic erit iustitia ad seipsum.]]
 ![[CERF IIa-IIæ, q. 58, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 58, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 58, a. 2#arg. 4|Praeterea, sicut operationes quae sunt ad alterum indigent rectificari, ita etiam operationes quae sunt ad seipsum. Sed per iustitiam rectificantur operationes, secundum illud [[Pr 11]], *iustitia simplicis dirigit viam eius*. Ergo iustitia non solum est circa ea quae sunt ad alterum, sed etiam circa ea quae sunt ad seipsum.]]
+![[LEO IIa-IIæ, q. 58, a. 2#arg. 4|Praeterea, sicut operationes quae sunt ad alterum indigent rectificari, ita etiam operationes quae sunt ad seipsum. Sed per iustitiam rectificantur operationes, secundum illud Prov. XI, *iustitia simplicis dirigit viam eius*. Ergo iustitia non solum est circa ea quae sunt ad alterum, sed etiam circa ea quae sunt ad seipsum.]]
 ![[CERF IIa-IIæ, q. 58, a. 2#arg. 4]]
 
 ###### s.c.

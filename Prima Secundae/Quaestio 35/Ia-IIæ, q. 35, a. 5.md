@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 35, a. 5#arg. 5]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 35, a. 5#s.c.|Sed contra est quod dicitur [[Sg 8]], *non habet amaritudinem conversatio illius* scilicet sapientiae, *nec taedium convictus eius; sed laetitiam et gaudium*. Conversatio autem et convictus sapientiae est per contemplationem. Ergo nulla tristitia est quae sit contraria delectationi contemplationis.]]
+![[LEO Ia-IIæ, q. 35, a. 5#s.c.|Sed contra est quod dicitur Sap. VIII, *non habet amaritudinem conversatio illius* scilicet sapientiae, *nec taedium convictus eius; sed laetitiam et gaudium*. Conversatio autem et convictus sapientiae est per contemplationem. Ergo nulla tristitia est quae sit contraria delectationi contemplationis.]]
 ![[CERF Ia-IIæ, q. 35, a. 5#s.c.]]
 
 ###### resp.

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 119, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 119, a. 1#arg. 3|Praeterea, peccatum principaliter recipit speciem a fine, ut supra habitum est. Sed prodigalitas semper videtur ordinari ad aliquem finem illicitum, propter quem bona sua expendit, et praecipue propter voluptates, unde et [[Lc 15]] dicitur de filio prodigo quod *dissipavit substantiam suam luxuriose vivendo*. Ergo videtur quod prodigalitas opponatur magis temperantiae et insensibilitati quam avaritiae et liberalitati.]]
+![[LEO IIa-IIæ, q. 119, a. 1#arg. 3|Praeterea, peccatum principaliter recipit speciem a fine, ut supra habitum est. Sed prodigalitas semper videtur ordinari ad aliquem finem illicitum, propter quem bona sua expendit, et praecipue propter voluptates, unde et Luc. XV dicitur de filio prodigo quod *dissipavit substantiam suam luxuriose vivendo*. Ergo videtur quod prodigalitas opponatur magis temperantiae et insensibilitati quam avaritiae et liberalitati.]]
 ![[CERF IIa-IIæ, q. 119, a. 1#arg. 3]]
 
 ###### s.c.

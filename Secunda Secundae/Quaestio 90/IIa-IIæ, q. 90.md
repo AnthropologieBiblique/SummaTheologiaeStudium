@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 90#Prooemium|Deinde considerandum est de assumptione divini nominis per modum adiurationis. Et circa hoc quaeruntur tria. Primo, utrum liceat adiurare homines. Secundo, utrum liceat adiurare Daemones. Tertio, utrum liceat adiurare irrationales creaturas.]]
-![[CERF IIa-IIæ, q. 90#Prooemium]]
+Deinde considerandum est de assumptione divini nominis per modum adiurationis. Et circa hoc quaeruntur tria. Primo, utrum liceat adiurare homines. Secundo, utrum liceat adiurare Daemones. Tertio, utrum liceat adiurare irrationales creaturas.
 
 ![[IIa-IIæ, q. 90, a. 1#Articulus 1]]
 

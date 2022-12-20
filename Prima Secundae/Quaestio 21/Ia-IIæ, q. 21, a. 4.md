@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 21, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod actus hominis bonus vel malus non habeat rationem meriti vel demeriti per comparationem ad Deum. Quia, ut dictum est, meritum et demeritum importat ordinem ad recompensationem profectus vel damni ad alterum illati. Sed actus hominis bonus vel malus non cedit in aliquem profectum vel damnum ipsius Dei, dicitur enim [[Jb 35]], *si peccaveris quid ei nocebis? Porro si iuste egeris, quid donabis ei?* Ergo actus hominis bonus vel malus non habet rationem meriti vel demeriti apud Deum.]]
+![[LEO Ia-IIæ, q. 21, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod actus hominis bonus vel malus non habeat rationem meriti vel demeriti per comparationem ad Deum. Quia, ut dictum est, meritum et demeritum importat ordinem ad recompensationem profectus vel damni ad alterum illati. Sed actus hominis bonus vel malus non cedit in aliquem profectum vel damnum ipsius Dei, dicitur enim Iob XXXV, *si peccaveris quid ei nocebis? Porro si iuste egeris, quid donabis ei?* Ergo actus hominis bonus vel malus non habet rationem meriti vel demeriti apud Deum.]]
 ![[CERF Ia-IIæ, q. 21, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 21, a. 4#arg. 2|Praeterea, instrumentum nihil meretur vel demeretur apud eum qui utitur instrumento, quia tota actio instrumenti est utentis ipso. Sed homo in agendo est instrumentum divinae virtutis principaliter ipsum moventis, unde dicitur [[Is 10]], *numquid gloriabitur securis contra eum qui secat in ea? Aut exaltabitur serra contra eum a quo trahitur?* Ubi manifeste hominem agentem comparat instrumento. Ergo homo, bene agendo vel male, nihil meretur vel demeretur apud Deum.]]
+![[LEO Ia-IIæ, q. 21, a. 4#arg. 2|Praeterea, instrumentum nihil meretur vel demeretur apud eum qui utitur instrumento, quia tota actio instrumenti est utentis ipso. Sed homo in agendo est instrumentum divinae virtutis principaliter ipsum moventis, unde dicitur Isaiae X, *numquid gloriabitur securis contra eum qui secat in ea? Aut exaltabitur serra contra eum a quo trahitur?* Ubi manifeste hominem agentem comparat instrumento. Ergo homo, bene agendo vel male, nihil meretur vel demeretur apud Deum.]]
 ![[CERF Ia-IIæ, q. 21, a. 4#arg. 2]]
 
 ###### arg. 3

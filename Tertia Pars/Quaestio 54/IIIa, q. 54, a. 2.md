@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 54, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod corpus Christi non resurrexerit gloriosum. Corpora enim gloriosa sunt fulgentia, secundum illud [[Mt 13]], *fulgebunt iusti sicut sol in regno patris eorum*. Sed corpora fulgida videntur secundum rationem lucis, non autem secundum rationem coloris. Cum ergo corpus Christi visum fuerit sub coloris specie, sicut et prius videbatur, videtur quod non fuerit gloriosum.]]
+![[LEO IIIa, q. 54, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod corpus Christi non resurrexerit gloriosum. Corpora enim gloriosa sunt fulgentia, secundum illud Matth. XIII, *fulgebunt iusti sicut sol in regno patris eorum*. Sed corpora fulgida videntur secundum rationem lucis, non autem secundum rationem coloris. Cum ergo corpus Christi visum fuerit sub coloris specie, sicut et prius videbatur, videtur quod non fuerit gloriosum.]]
 ![[CERF IIIa, q. 54, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,15 +14,15 @@ tags :
 ![[CERF IIIa, q. 54, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 54, a. 2#arg. 3|Praeterea, corpus gloriosum non est animale, sed spirituale, ut patet [[1 Co 15]]. Sed corpus Christi videtur animale fuisse post resurrectionem, quia cum discipulis manducavit et bibit, ut legitur Luc. ult., et Ioan. ult. Ergo videtur quod corpus Christi non fuerit gloriosum.]]
+![[LEO IIIa, q. 54, a. 2#arg. 3|Praeterea, corpus gloriosum non est animale, sed spirituale, ut patet I Cor. XV. Sed corpus Christi videtur animale fuisse post resurrectionem, quia cum discipulis manducavit et bibit, ut legitur Luc. ult., et Ioan. ult. Ergo videtur quod corpus Christi non fuerit gloriosum.]]
 ![[CERF IIIa, q. 54, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 54, a. 2#s.c.|Sed contra est quod apostolus dicit, [[Ph 3]], *reformabit corpus humilitatis nostrae, configuratum corpori claritatis suae*.]]
+![[LEO IIIa, q. 54, a. 2#s.c.|Sed contra est quod apostolus dicit, Philipp. III, *reformabit corpus humilitatis nostrae, configuratum corpori claritatis suae*.]]
 ![[CERF IIIa, q. 54, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 54, a. 2#resp.|Respondeo dicendum quod corpus Christi in resurrectione fuit gloriosum. Et hoc apparet triplici ratione. Primo quidem, quia resurrectio Christi fuit exemplar et causa nostrae resurrectionis, ut habetur [[1 Co 15]]. Sancti autem in resurrectione habebunt corpora gloriosa, sicut dicitur ibidem, *seminatur in ignobilitate, surget in gloria*. Unde, cum causa sit potior causato et exemplar exemplato, multo magis corpus Christi resurgentis fuit gloriosum. Secundo, quia per humilitatem passionis meruit gloriam resurrectionis. Unde et ipse dicebat, *nunc anima mea turbata est*, quod pertinet ad passionem, et postea subdit, *pater, clarifica nomen tuum*, in quo petit gloriam resurrectionis. Tertio quia, sicut supra habitum est, anima Christi a principio suae conceptionis fuit gloriosa per fruitionem divinitatis perfectam. Est autem dispensative factum, sicut supra dictum est, ut ab anima gloria non redundaret in corpus, ad hoc quod mysterium nostrae redemptionis sua passione impleret. Et ideo, peracto hoc mysterio passionis et mortis Christi, anima Christi statim in corpus, in resurrectione resumptum, suam gloriam derivavit. Et ita factum est corpus illud gloriosum.]]
+![[LEO IIIa, q. 54, a. 2#resp.|Respondeo dicendum quod corpus Christi in resurrectione fuit gloriosum. Et hoc apparet triplici ratione. Primo quidem, quia resurrectio Christi fuit exemplar et causa nostrae resurrectionis, ut habetur I Cor. XV. Sancti autem in resurrectione habebunt corpora gloriosa, sicut dicitur ibidem, *seminatur in ignobilitate, surget in gloria*. Unde, cum causa sit potior causato et exemplar exemplato, multo magis corpus Christi resurgentis fuit gloriosum. Secundo, quia per humilitatem passionis meruit gloriam resurrectionis. Unde et ipse dicebat, *nunc anima mea turbata est*, quod pertinet ad passionem, et postea subdit, *pater, clarifica nomen tuum*, in quo petit gloriam resurrectionis. Tertio quia, sicut supra habitum est, anima Christi a principio suae conceptionis fuit gloriosa per fruitionem divinitatis perfectam. Est autem dispensative factum, sicut supra dictum est, ut ab anima gloria non redundaret in corpus, ad hoc quod mysterium nostrae redemptionis sua passione impleret. Et ideo, peracto hoc mysterio passionis et mortis Christi, anima Christi statim in corpus, in resurrectione resumptum, suam gloriam derivavit. Et ita factum est corpus illud gloriosum.]]
 ![[CERF IIIa, q. 54, a. 2#resp.]]
 
 ###### ad 1

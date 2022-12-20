@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 80, a. 7#arg. 5]]
 
 ###### s.c.
-![[LEO IIIa, q. 80, a. 7#s.c.|Sed contra est quod [[Lv 15]] dicitur, *vir a quocumque egreditur semen coitus, immundus erit usque ad vesperam*. Sed immundis non patet aditus ad sacramenta. Ergo videtur quod propter pollutionem nocturnam aliquis impeditur a sumptione huius sacramenti, quod est maximum sacramentum.]]
+![[LEO IIIa, q. 80, a. 7#s.c.|Sed contra est quod Levit. XV dicitur, *vir a quocumque egreditur semen coitus, immundus erit usque ad vesperam*. Sed immundis non patet aditus ad sacramenta. Ergo videtur quod propter pollutionem nocturnam aliquis impeditur a sumptione huius sacramenti, quod est maximum sacramentum.]]
 ![[CERF IIIa, q. 80, a. 7#s.c.]]
 
 ###### resp.
@@ -42,7 +42,7 @@ tags :
 ![[CERF IIIa, q. 80, a. 7#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 80, a. 7#ad 3|Ad tertium dicendum quod, sicut Gregorius dicit, in epistola supra dicta ad Augustinum Anglorum episcopum, in veteri testamento aliqui polluti dicebantur figuraliter, quod populus novae legis spiritualiter intelligit. Unde huiusmodi corporales immunditiae, si sint perpetuae vel diuturnae, non impediunt sumptionem huius sacramenti salutaris sicut impediebant accessum ad sacramenta figuralia. Si vero cito transeunt, sicut immunditia pollutionis nocturnae, ex quadam congruentia impedit sumptionem huius sacramenti per illum diem quo hoc accidit. Unde et [[Dt 23]] dicitur, *si fuerit inter vos homo qui nocturno pollutus sit somnio, egredietur extra castra, et non revertetur priusquam ad vesperam lavetur aqua*.]]
+![[LEO IIIa, q. 80, a. 7#ad 3|Ad tertium dicendum quod, sicut Gregorius dicit, in epistola supra dicta ad Augustinum Anglorum episcopum, in veteri testamento aliqui polluti dicebantur figuraliter, quod populus novae legis spiritualiter intelligit. Unde huiusmodi corporales immunditiae, si sint perpetuae vel diuturnae, non impediunt sumptionem huius sacramenti salutaris sicut impediebant accessum ad sacramenta figuralia. Si vero cito transeunt, sicut immunditia pollutionis nocturnae, ex quadam congruentia impedit sumptionem huius sacramenti per illum diem quo hoc accidit. Unde et Deut. XXIII dicitur, *si fuerit inter vos homo qui nocturno pollutus sit somnio, egredietur extra castra, et non revertetur priusquam ad vesperam lavetur aqua*.]]
 ![[CERF IIIa, q. 80, a. 7#ad 3]]
 
 ###### ad 4

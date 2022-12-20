@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 4, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod ad beatitudinem requirantur etiam exteriora bona. Quod enim in praemium sanctis promittitur, ad beatitudinem pertinet. Sed sanctis repromittuntur exteriora bona, sicut cibus et potus, divitiae et regnum, dicitur enim [[Lc 22]], *ut edatis et bibatis super mensam meam in regno meo*; et [[Mt 6]], *thesaurizate vobis thesauros in caelo*; et [[Mt 6]], *venite, benedicti patris mei, possidete regnum*. Ergo ad beatitudinem requiruntur exteriora bona.]]
+![[LEO Ia-IIæ, q. 4, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod ad beatitudinem requirantur etiam exteriora bona. Quod enim in praemium sanctis promittitur, ad beatitudinem pertinet. Sed sanctis repromittuntur exteriora bona, sicut cibus et potus, divitiae et regnum, dicitur enim Luc. XXII, *ut edatis et bibatis super mensam meam in regno meo*; et Matth. VI, *thesaurizate vobis thesauros in caelo*; et Matth. XXV, *venite, benedicti patris mei, possidete regnum*. Ergo ad beatitudinem requiruntur exteriora bona.]]
 ![[CERF Ia-IIæ, q. 4, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia-IIæ, q. 4, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 4, a. 7#arg. 3|Praeterea, dominus, [[Mt 5]], dicit, *merces vestra multa est in caelis*. Sed esse in caelis significat esse in loco. Ergo saltem locus exterior requiritur ad beatitudinem.]]
+![[LEO Ia-IIæ, q. 4, a. 7#arg. 3|Praeterea, dominus, Matth. V, dicit, *merces vestra multa est in caelis*. Sed esse in caelis significat esse in loco. Ergo saltem locus exterior requiritur ad beatitudinem.]]
 ![[CERF Ia-IIæ, q. 4, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 4, a. 7#s.c.|Sed contra est quod dicitur in [[Ps 72]], *quid enim mihi est in caelo? Et a te quid volui super terram?* Quasi dicat, nihil aliud volo nisi hoc quod sequitur, *mihi adhaerere Deo bonum est*. Ergo nihil aliud exterius ad beatitudinem requiritur.]]
+![[LEO Ia-IIæ, q. 4, a. 7#s.c.|Sed contra est quod dicitur in Psalmo LXXII, *quid enim mihi est in caelo? Et a te quid volui super terram?* Quasi dicat, nihil aliud volo nisi hoc quod sequitur, *mihi adhaerere Deo bonum est*. Ergo nihil aliud exterius ad beatitudinem requiritur.]]
 ![[CERF Ia-IIæ, q. 4, a. 7#s.c.]]
 
 ###### resp.

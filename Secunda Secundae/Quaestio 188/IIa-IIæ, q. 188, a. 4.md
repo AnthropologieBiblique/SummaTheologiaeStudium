@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 188, a. 4#arg. 4]]
 
 ###### arg. 5
-![[LEO IIa-IIæ, q. 188, a. 4#arg. 5|Praeterea, institutio Ecclesiae debet sequi institutionem Christi. Sed Christus primo misit ad praedicandum duodecim apostolos, ut habetur [[Lc 9]]; et postea misit septuagintaduos discipulos, ut habetur [[Lc 9]]; et sicut Glossa ibidem dicit, *apostolorum formam tenent episcopi, septuagintaduorum discipulorum minores presbyteri*, scilicet curati. Ergo, praeter episcopos et presbyteros parochiales, non debet aliqua religio institui ad praedicandum vel ad confessiones audiendum.]]
+![[LEO IIa-IIæ, q. 188, a. 4#arg. 5|Praeterea, institutio Ecclesiae debet sequi institutionem Christi. Sed Christus primo misit ad praedicandum duodecim apostolos, ut habetur Luc. IX; et postea misit septuagintaduos discipulos, ut habetur Luc. X; et sicut Glossa ibidem dicit, *apostolorum formam tenent episcopi, septuagintaduorum discipulorum minores presbyteri*, scilicet curati. Ergo, praeter episcopos et presbyteros parochiales, non debet aliqua religio institui ad praedicandum vel ad confessiones audiendum.]]
 ![[CERF IIa-IIæ, q. 188, a. 4#arg. 5]]
 
 ###### s.c.

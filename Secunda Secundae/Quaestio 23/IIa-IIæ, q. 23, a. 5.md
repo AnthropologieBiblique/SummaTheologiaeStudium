@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 23, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 23, a. 5#s.c.|Sed contra, sicut obiectum fidei est Deus, ita et caritatis. Sed fides est una virtus, propter unitatem divinae veritatis, secundum illud ad [[Ep 4]], *una fides*. Ergo etiam caritas est una virtus, propter unitatem divinae bonitatis.]]
+![[LEO IIa-IIæ, q. 23, a. 5#s.c.|Sed contra, sicut obiectum fidei est Deus, ita et caritatis. Sed fides est una virtus, propter unitatem divinae veritatis, secundum illud ad Ephes. IV, *una fides*. Ergo etiam caritas est una virtus, propter unitatem divinae bonitatis.]]
 ![[CERF IIa-IIæ, q. 23, a. 5#s.c.]]
 
 ###### resp.

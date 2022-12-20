@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 1, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod sacra doctrina non sit scientia. Omnis enim scientia procedit ex principiis per se notis. Sed sacra doctrina procedit ex articulis fidei, qui non sunt per se noti, cum non ab omnibus concedantur, *non enim omnium est fides*, ut dicitur [[2 Th 3]]. Non igitur sacra doctrina est scientia.]]
+![[LEO Ia, q. 1, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod sacra doctrina non sit scientia. Omnis enim scientia procedit ex principiis per se notis. Sed sacra doctrina procedit ex articulis fidei, qui non sunt per se noti, cum non ab omnibus concedantur, *non enim omnium est fides*, ut dicitur II Thessalon. III. Non igitur sacra doctrina est scientia.]]
 ![[CERF Ia, q. 1, a. 2#arg. 1]]
 
 ###### arg. 2

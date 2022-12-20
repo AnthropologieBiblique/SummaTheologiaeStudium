@@ -6,11 +6,11 @@ tags :
 ### Articulus 11
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 10, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod ritus infidelium non sint tolerandi. Manifestum est enim quod infideles in suis ritibus peccant eos servando. Sed peccato consentire videtur qui non prohibet cum prohibere possit, ut habetur in Glossa [[Rm 1]], super illud, *non solum qui faciunt, sed etiam qui consentiunt facientibus*. Ergo peccant qui eorum ritus tolerant.]]
+![[LEO IIa-IIæ, q. 10, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod ritus infidelium non sint tolerandi. Manifestum est enim quod infideles in suis ritibus peccant eos servando. Sed peccato consentire videtur qui non prohibet cum prohibere possit, ut habetur in Glossa Rom. I, super illud, *non solum qui faciunt, sed etiam qui consentiunt facientibus*. Ergo peccant qui eorum ritus tolerant.]]
 ![[CERF IIa-IIæ, q. 10, a. 11#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 10, a. 11#arg. 2|Praeterea, ritus Iudaeorum idololatriae comparantur, quia super illud [[Ga 5]], *nolite iterum iugo servitutis contineri*, dicit Glossa, *non est levior haec legis servitus quam idololatriae*. Sed non sustineretur quod idololatriae ritum aliqui exercerent, quinimmo Christiani principes templa idolorum primo claudi, et postea dirui fecerunt, ut Augustinus narrat, XVIII de Civ. Dei. Ergo etiam ritus Iudaeorum tolerari non debent.]]
+![[LEO IIa-IIæ, q. 10, a. 11#arg. 2|Praeterea, ritus Iudaeorum idololatriae comparantur, quia super illud Gal. V, *nolite iterum iugo servitutis contineri*, dicit Glossa, *non est levior haec legis servitus quam idololatriae*. Sed non sustineretur quod idololatriae ritum aliqui exercerent, quinimmo Christiani principes templa idolorum primo claudi, et postea dirui fecerunt, ut Augustinus narrat, XVIII de Civ. Dei. Ergo etiam ritus Iudaeorum tolerari non debent.]]
 ![[CERF IIa-IIæ, q. 10, a. 11#arg. 2]]
 
 ###### arg. 3

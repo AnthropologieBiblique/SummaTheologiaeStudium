@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO Ia, q. 113, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod Angeli doleant de malis eorum quos custodiunt. Dicitur enim [[Is 33]], *Angeli pacis amare flebunt*. Sed fletus est signum doloris et tristitiae. Ergo Angeli tristantur de malis hominum quos custodiunt.]]
+![[LEO Ia, q. 113, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod Angeli doleant de malis eorum quos custodiunt. Dicitur enim Isaiae XXXIII, *Angeli pacis amare flebunt*. Sed fletus est signum doloris et tristitiae. Ergo Angeli tristantur de malis hominum quos custodiunt.]]
 ![[CERF Ia, q. 113, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -14,15 +14,15 @@ tags :
 ![[CERF Ia, q. 113, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 113, a. 7#arg. 3|Praeterea, sicut gaudio contrariatur tristitia, ita poenitentiae contrariatur peccatum. Sed Angeli gaudent de peccatore poenitentiam agente, ut habetur [[Lc 15]]. Ergo tristantur de iusto in peccatum cadente.]]
+![[LEO Ia, q. 113, a. 7#arg. 3|Praeterea, sicut gaudio contrariatur tristitia, ita poenitentiae contrariatur peccatum. Sed Angeli gaudent de peccatore poenitentiam agente, ut habetur Lucae XV. Ergo tristantur de iusto in peccatum cadente.]]
 ![[CERF Ia, q. 113, a. 7#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 113, a. 7#arg. 4|Praeterea, super illud [[Nb 18]]; quidquid offerunt primitiarum etc., dicit Glossa Origenis; *trahuntur Angeli in iudicium, utrum ex ipsorum negligentia, an hominum ignavia lapsi sint*. Sed quilibet rationabiliter dolet de malis propter quae in iudicium tractus est. Ergo Angeli dolent de peccatis hominum.]]
+![[LEO Ia, q. 113, a. 7#arg. 4|Praeterea, super illud Num. XVIII; quidquid offerunt primitiarum etc., dicit Glossa Origenis; *trahuntur Angeli in iudicium, utrum ex ipsorum negligentia, an hominum ignavia lapsi sint*. Sed quilibet rationabiliter dolet de malis propter quae in iudicium tractus est. Ergo Angeli dolent de peccatis hominum.]]
 ![[CERF Ia, q. 113, a. 7#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 113, a. 7#s.c.|Sed contra, ubi est tristitia et dolor, non est perfecta felicitas, unde dicitur [[Ap 21]], *mors ultra non erit, neque luctus, neque clamor, neque ullus dolor*. Sed Angeli sunt perfecte beati. Ergo de nullo dolent.]]
+![[LEO Ia, q. 113, a. 7#s.c.|Sed contra, ubi est tristitia et dolor, non est perfecta felicitas, unde dicitur Apoc. XXI, *mors ultra non erit, neque luctus, neque clamor, neque ullus dolor*. Sed Angeli sunt perfecte beati. Ergo de nullo dolent.]]
 ![[CERF Ia, q. 113, a. 7#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia, q. 113, a. 7#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 113, a. 7#ad 1|Ad primum ergo dicendum quod verbum illud Isaiae potest intelligi de Angelis, idest nuntiis, Ezechiae, qui fleverunt propter verba Rabsacis; de quibus habetur [[Is 37]]. Et hoc secundum litteralem sensum. Secundum vero allegoricum, Angeli pacis sunt apostoli et alii praedicatores, qui flent pro peccatis hominum. Si vero secundum sensum anagogicum exponatur de Angelis beatis, tunc metaphorica erit locutio, ad designandum quod Angeli volunt in universali hominum salutem. Sic enim Deo et Angelis huiusmodi passiones attribuuntur.]]
+![[LEO Ia, q. 113, a. 7#ad 1|Ad primum ergo dicendum quod verbum illud Isaiae potest intelligi de Angelis, idest nuntiis, Ezechiae, qui fleverunt propter verba Rabsacis; de quibus habetur Isaiae XXXVII. Et hoc secundum litteralem sensum. Secundum vero allegoricum, Angeli pacis sunt apostoli et alii praedicatores, qui flent pro peccatis hominum. Si vero secundum sensum anagogicum exponatur de Angelis beatis, tunc metaphorica erit locutio, ad designandum quod Angeli volunt in universali hominum salutem. Sic enim Deo et Angelis huiusmodi passiones attribuuntur.]]
 ![[CERF Ia, q. 113, a. 7#ad 1]]
 
 ###### ad 2

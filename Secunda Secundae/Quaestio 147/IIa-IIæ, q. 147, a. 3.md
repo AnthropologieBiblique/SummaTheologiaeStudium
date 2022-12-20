@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 147, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 147, a. 3#ad 1|Ad primum ergo dicendum quod ieiunium, secundum se consideratum, non nominat aliquid eligibile, sed quiddam poenale. Redditur autem eligibile secundum quod est utile ad finem aliquem. Et ideo, absolute consideratum, non est de necessitate praecepti, sed est de necessitate praecepti unicuique tali remedio indigenti. Et quia multitudo hominum ut plurimum indiget tali remedio, tum quia in multis omnes offendimus, ut dicitur [[Jc 3]]; tum etiam quia caro concupiscit adversus spiritum, ut dicitur Galat. V, conveniens fuit ut Ecclesia aliqua ieiunia statueret communiter ab omnibus observanda, non quasi praecepto subiiciens id quod simpliciter ad supererogationem pertinet, sed quasi in speciali determinans id quod est necessarium in communi.]]
+![[LEO IIa-IIæ, q. 147, a. 3#ad 1|Ad primum ergo dicendum quod ieiunium, secundum se consideratum, non nominat aliquid eligibile, sed quiddam poenale. Redditur autem eligibile secundum quod est utile ad finem aliquem. Et ideo, absolute consideratum, non est de necessitate praecepti, sed est de necessitate praecepti unicuique tali remedio indigenti. Et quia multitudo hominum ut plurimum indiget tali remedio, tum quia in multis omnes offendimus, ut dicitur Iac. III; tum etiam quia caro concupiscit adversus spiritum, ut dicitur Galat. V, conveniens fuit ut Ecclesia aliqua ieiunia statueret communiter ab omnibus observanda, non quasi praecepto subiiciens id quod simpliciter ad supererogationem pertinet, sed quasi in speciali determinans id quod est necessarium in communi.]]
 ![[CERF IIa-IIæ, q. 147, a. 3#ad 1]]
 
 ###### ad 2

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 1, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 1, a. 5#s.c.|Sed contra, illud in quo quiescit aliquis sicut in ultimo fine, hominis affectui dominatur, quia ex eo totius vitae suae regulas accipit. Unde de gulosis dicitur [[Ph 3]], *quorum Deus venter est*, quia scilicet constituunt ultimum finem in deliciis ventris. Sed sicut dicitur [[Mt 6]], *nemo potest duobus dominis servire*, ad invicem scilicet non ordinatis. Ergo impossibile est esse plures ultimos fines unius hominis ad invicem non ordinatos.]]
+![[LEO Ia-IIæ, q. 1, a. 5#s.c.|Sed contra, illud in quo quiescit aliquis sicut in ultimo fine, hominis affectui dominatur, quia ex eo totius vitae suae regulas accipit. Unde de gulosis dicitur Philipp. III, *quorum Deus venter est*, quia scilicet constituunt ultimum finem in deliciis ventris. Sed sicut dicitur Matth. VI, *nemo potest duobus dominis servire*, ad invicem scilicet non ordinatis. Ergo impossibile est esse plures ultimos fines unius hominis ad invicem non ordinatos.]]
 ![[CERF Ia-IIæ, q. 1, a. 5#s.c.]]
 
 ###### resp.

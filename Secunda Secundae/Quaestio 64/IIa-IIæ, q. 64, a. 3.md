@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 64, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod occidere hominem peccatorem liceat privatae personae. In lege enim divina nihil illicitum mandatur. Sed [[Ex 32]] praecepit Moyses, *occidat unusquisque proximum suum, fratrem et amicum suum*, pro peccato vituli conflatilis. Ergo etiam privatis personis licet peccatorem occidere.]]
+![[LEO IIa-IIæ, q. 64, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod occidere hominem peccatorem liceat privatae personae. In lege enim divina nihil illicitum mandatur. Sed Exod. XXXII praecepit Moyses, *occidat unusquisque proximum suum, fratrem et amicum suum*, pro peccato vituli conflatilis. Ergo etiam privatis personis licet peccatorem occidere.]]
 ![[CERF IIa-IIæ, q. 64, a. 3#arg. 1]]
 
 ###### arg. 2

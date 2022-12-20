@@ -6,11 +6,11 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIIa, q. 27, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod beata virgo per sanctificationem in utero non obtinuerit gratiae plenitudinem, sive perfectionem. Hoc enim videtur pertinere ad privilegium Christi, secundum illud [[Jn 1]], *vidimus eum, quasi unigenitum a patre, plenum gratiae et veritatis*. Sed ea quae sunt propria Christi, non sunt alteri attribuenda. Ergo beata virgo plenitudinem gratiarum non accepit in sanctificatione.]]
+![[LEO IIIa, q. 27, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod beata virgo per sanctificationem in utero non obtinuerit gratiae plenitudinem, sive perfectionem. Hoc enim videtur pertinere ad privilegium Christi, secundum illud Ioan. I, *vidimus eum, quasi unigenitum a patre, plenum gratiae et veritatis*. Sed ea quae sunt propria Christi, non sunt alteri attribuenda. Ergo beata virgo plenitudinem gratiarum non accepit in sanctificatione.]]
 ![[CERF IIIa, q. 27, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 27, a. 5#arg. 2|Praeterea, ei quod est plenum et perfectum, non restat aliquid addendum, quia *perfectum est cui nihil deest*, ut dicitur in III Physic. Sed beata virgo postmodum additionem gratiae suscepit, quando Christum concepit, dictum est enim ei, [[Lc 1]], *spiritus sanctus superveniet in te*. Et iterum, quando in gloriam est assumpta. Ergo videtur quod non habuerit in sua prima sanctificatione plenitudinem gratiarum.]]
+![[LEO IIIa, q. 27, a. 5#arg. 2|Praeterea, ei quod est plenum et perfectum, non restat aliquid addendum, quia *perfectum est cui nihil deest*, ut dicitur in III Physic. Sed beata virgo postmodum additionem gratiae suscepit, quando Christum concepit, dictum est enim ei, Luc. I, *spiritus sanctus superveniet in te*. Et iterum, quando in gloriam est assumpta. Ergo videtur quod non habuerit in sua prima sanctificatione plenitudinem gratiarum.]]
 ![[CERF IIIa, q. 27, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -22,11 +22,11 @@ tags :
 ![[CERF IIIa, q. 27, a. 5#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 27, a. 5#resp.|Respondeo dicendum quod, quanto aliquid magis appropinquat principio in quolibet genere, tanto magis participat effectum illius principii, unde dicit Dionysius, IV cap. Cael. Hier., quod Angeli, qui sunt Deo propinquiores, magis participant de bonitatibus divinis quam homines. Christus autem est principium gratiae, secundum divinitatem quidem auctoritative, secundum humanitatem vero instrumentaliter, unde et [[Jn 1]] dicitur, *gratia et veritas per Iesum Christum facta est*. Beata autem virgo Maria propinquissima Christo fuit secundum humanitatem, quia ex ea accepit humanam naturam. Et ideo prae ceteris maiorem debuit a Christo plenitudinem gratiae obtinere.]]
+![[LEO IIIa, q. 27, a. 5#resp.|Respondeo dicendum quod, quanto aliquid magis appropinquat principio in quolibet genere, tanto magis participat effectum illius principii, unde dicit Dionysius, IV cap. Cael. Hier., quod Angeli, qui sunt Deo propinquiores, magis participant de bonitatibus divinis quam homines. Christus autem est principium gratiae, secundum divinitatem quidem auctoritative, secundum humanitatem vero instrumentaliter, unde et Ioan. I dicitur, *gratia et veritas per Iesum Christum facta est*. Beata autem virgo Maria propinquissima Christo fuit secundum humanitatem, quia ex ea accepit humanam naturam. Et ideo prae ceteris maiorem debuit a Christo plenitudinem gratiae obtinere.]]
 ![[CERF IIIa, q. 27, a. 5#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 27, a. 5#ad 1|Ad primum ergo dicendum quod unicuique a Deo datur gratia secundum hoc ad quod eligitur. Et quia Christus, inquantum est homo, ad hoc fuit praedestinatus et electus ut esset *praedestinatus filius Dei in virtute sanctificationis*, hoc fuit proprium sibi, ut haberet talem plenitudinem gratiae quod redundaret in omnes, secundum quod dicitur [[Jn 1]], *de plenitudine eius nos omnes accepimus*. Sed beata virgo Maria tantam gratiae obtinuit plenitudinem ut esset propinquissima auctori gratiae, ita quod eum qui est plenus omni gratia, in se reciperet; et, eum pariendo, quodammodo gratiam ad omnes derivaret.]]
+![[LEO IIIa, q. 27, a. 5#ad 1|Ad primum ergo dicendum quod unicuique a Deo datur gratia secundum hoc ad quod eligitur. Et quia Christus, inquantum est homo, ad hoc fuit praedestinatus et electus ut esset *praedestinatus filius Dei in virtute sanctificationis*, hoc fuit proprium sibi, ut haberet talem plenitudinem gratiae quod redundaret in omnes, secundum quod dicitur Ioan. I, *de plenitudine eius nos omnes accepimus*. Sed beata virgo Maria tantam gratiae obtinuit plenitudinem ut esset propinquissima auctori gratiae, ita quod eum qui est plenus omni gratia, in se reciperet; et, eum pariendo, quodammodo gratiam ad omnes derivaret.]]
 ![[CERF IIIa, q. 27, a. 5#ad 1]]
 
 ###### ad 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 27, a. 5#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 27, a. 5#ad 3|Ad tertium dicendum quod non est dubitandum quin beata virgo acceperit excellenter et donum sapientiae, et gratiam virtutum, et etiam gratiam prophetiae, sicut habuit Christus. Non tamen accepit ut haberet omnes usus harum et similium gratiarum, sicut habuit Christus, sed secundum quod conveniebat conditioni ipsius. Habuit enim usum sapientiae in contemplando, secundum illud [[Lc 2]], *Maria autem conservabat omnia verba haec, conferens in corde suo*. Non autem habuit usum sapientiae quantum ad docendum, eo quod hoc non conveniebat sexui muliebri, secundum illud [[1 Tm 2]], *docere autem mulieri non permitto*. Miraculorum autem usus sibi non competebat dum viveret, quia tunc temporis confirmanda erat doctrina Christi miraculis; et ideo soli Christo et eius discipulis, qui erant baiuli doctrinae Christi, conveniebat miracula facere. Propter quod etiam de Ioanne Baptista dicitur, [[Jn 10]], quod *signum fecit nullum*, ut scilicet omnes in Christo intenderent. Usum autem prophetiae habuit, ut patet in cantico quod fecit, *magnificat anima mea dominum*.]]
+![[LEO IIIa, q. 27, a. 5#ad 3|Ad tertium dicendum quod non est dubitandum quin beata virgo acceperit excellenter et donum sapientiae, et gratiam virtutum, et etiam gratiam prophetiae, sicut habuit Christus. Non tamen accepit ut haberet omnes usus harum et similium gratiarum, sicut habuit Christus, sed secundum quod conveniebat conditioni ipsius. Habuit enim usum sapientiae in contemplando, secundum illud Luc. II, *Maria autem conservabat omnia verba haec, conferens in corde suo*. Non autem habuit usum sapientiae quantum ad docendum, eo quod hoc non conveniebat sexui muliebri, secundum illud I Tim. II, *docere autem mulieri non permitto*. Miraculorum autem usus sibi non competebat dum viveret, quia tunc temporis confirmanda erat doctrina Christi miraculis; et ideo soli Christo et eius discipulis, qui erant baiuli doctrinae Christi, conveniebat miracula facere. Propter quod etiam de Ioanne Baptista dicitur, Ioan. X, quod *signum fecit nullum*, ut scilicet omnes in Christo intenderent. Usum autem prophetiae habuit, ut patet in cantico quod fecit, *magnificat anima mea dominum*.]]
 ![[CERF IIIa, q. 27, a. 5#ad 3]]
 

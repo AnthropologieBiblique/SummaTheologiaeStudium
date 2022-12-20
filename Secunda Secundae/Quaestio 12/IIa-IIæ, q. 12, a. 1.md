@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 12, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod apostasia non pertineat ad infidelitatem. Illud enim quod est omnis peccati principium non videtur ad infidelitatem pertinere, quia multa peccata sine infidelitate existunt. Sed apostasia videtur esse omnis peccati principium, dicitur enim [[Si 10]], *initium superbiae hominis apostatare a Deo*; et postea subditur, *initium omnis peccati superbia*. Ergo apostasia non pertinet ad infidelitatem.]]
+![[LEO IIa-IIæ, q. 12, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod apostasia non pertineat ad infidelitatem. Illud enim quod est omnis peccati principium non videtur ad infidelitatem pertinere, quia multa peccata sine infidelitate existunt. Sed apostasia videtur esse omnis peccati principium, dicitur enim Eccli. X, *initium superbiae hominis apostatare a Deo*; et postea subditur, *initium omnis peccati superbia*. Ergo apostasia non pertinet ad infidelitatem.]]
 ![[CERF IIa-IIæ, q. 12, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 12, a. 1#arg. 2|Praeterea, infidelitas in intellectu consistit. Sed apostasia magis videtur consistere in exteriori opere vel sermone, aut etiam in interiori voluntate, dicitur enim [[Pr 6]], *homo apostata vir inutilis, gradiens ore perverso, annuit oculis, terit pede, digito loquitur, pravo corde machinatur malum, et in omni tempore iurgia seminat*. Si quis etiam se circumcideret, vel sepulcrum Mahumeti adoraret, apostata reputaretur. Ergo apostasia non pertinet directe ad infidelitatem.]]
+![[LEO IIa-IIæ, q. 12, a. 1#arg. 2|Praeterea, infidelitas in intellectu consistit. Sed apostasia magis videtur consistere in exteriori opere vel sermone, aut etiam in interiori voluntate, dicitur enim Prov. VI, *homo apostata vir inutilis, gradiens ore perverso, annuit oculis, terit pede, digito loquitur, pravo corde machinatur malum, et in omni tempore iurgia seminat*. Si quis etiam se circumcideret, vel sepulcrum Mahumeti adoraret, apostata reputaretur. Ergo apostasia non pertinet directe ad infidelitatem.]]
 ![[CERF IIa-IIæ, q. 12, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 12, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 12, a. 1#s.c.|Sed contra est quod dicitur [[Jn 6]], multi ex discipulis eius abierunt retro, quod est apostatare, de quibus supra dixerat dominus, sunt quidam ex vobis qui non credunt. Ergo apostasia pertinet ad infidelitatem.]]
+![[LEO IIa-IIæ, q. 12, a. 1#s.c.|Sed contra est quod dicitur Ioan. VI, multi ex discipulis eius abierunt retro, quod est apostatare, de quibus supra dixerat dominus, sunt quidam ex vobis qui non credunt. Ergo apostasia pertinet ad infidelitatem.]]
 ![[CERF IIa-IIæ, q. 12, a. 1#s.c.]]
 
 ###### resp.
@@ -30,10 +30,10 @@ tags :
 ![[CERF IIa-IIæ, q. 12, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 12, a. 1#ad 2|Ad secundum dicendum quod ad fidem pertinet non solum credulitas cordis, sed etiam protestatio interioris fidei per exteriora verba et facta, nam confessio est actus fidei. Et per hunc etiam modum quaedam exteriora verba vel opera ad infidelitatem pertinent, inquantum sunt infidelitatis signa, per modum quo signum sanitatis sanum dicitur. Auctoritas autem inducta, etsi possit intelligi de omni apostasia, verissime tamen convenit in apostasia a fide. Quia enim fides est primum fundamentum sperandarum rerum, et sine fide impossibile est placere Deo; sublata fide, nihil remanet in homine quod possit esse utile ad salutem aeternam; et propter hoc primo dicitur, homo apostata vir inutilis. Fides etiam est vita animae, secundum illud [[Rm 1]], *iustus ex fide vivit*. Sicut ergo, sublata vita corporali, omnia membra et partes hominis a debita dispositione recedunt; ita, sublata vita iustitiae, quae est per fidem, apparet inordinatio in omnibus membris. Et primo quidem in ore, per quod maxime manifestatur cor; secundo, in oculis; tertio, in instrumentis motus; quarto, in voluntate, quae ad malum tendit. Et ex his sequitur quod iurgia seminet, alios intendens separare a fide, sicut et ipse recessit.]]
+![[LEO IIa-IIæ, q. 12, a. 1#ad 2|Ad secundum dicendum quod ad fidem pertinet non solum credulitas cordis, sed etiam protestatio interioris fidei per exteriora verba et facta, nam confessio est actus fidei. Et per hunc etiam modum quaedam exteriora verba vel opera ad infidelitatem pertinent, inquantum sunt infidelitatis signa, per modum quo signum sanitatis sanum dicitur. Auctoritas autem inducta, etsi possit intelligi de omni apostasia, verissime tamen convenit in apostasia a fide. Quia enim fides est primum fundamentum sperandarum rerum, et sine fide impossibile est placere Deo; sublata fide, nihil remanet in homine quod possit esse utile ad salutem aeternam; et propter hoc primo dicitur, homo apostata vir inutilis. Fides etiam est vita animae, secundum illud Rom. I, *iustus ex fide vivit*. Sicut ergo, sublata vita corporali, omnia membra et partes hominis a debita dispositione recedunt; ita, sublata vita iustitiae, quae est per fidem, apparet inordinatio in omnibus membris. Et primo quidem in ore, per quod maxime manifestatur cor; secundo, in oculis; tertio, in instrumentis motus; quarto, in voluntate, quae ad malum tendit. Et ex his sequitur quod iurgia seminet, alios intendens separare a fide, sicut et ipse recessit.]]
 ![[CERF IIa-IIæ, q. 12, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 12, a. 1#ad 3|Ad tertium dicendum quod species alicuius qualitatis vel formae non diversificatur per hoc quod est terminus motus a quo vel ad quem, sed potius e converso secundum terminos motuum species attenduntur. Apostasia autem respicit infidelitatem ut terminum ad quem est motus recedentis a fide. Unde apostasia non importat determinatam speciem infidelitatis, sed quandam circumstantiam aggravantem, secundum illud [[2 P 2]], *melius erat eis veritatem non cognoscere quam post agnitam retroire*.]]
+![[LEO IIa-IIæ, q. 12, a. 1#ad 3|Ad tertium dicendum quod species alicuius qualitatis vel formae non diversificatur per hoc quod est terminus motus a quo vel ad quem, sed potius e converso secundum terminos motuum species attenduntur. Apostasia autem respicit infidelitatem ut terminum ad quem est motus recedentis a fide. Unde apostasia non importat determinatam speciem infidelitatis, sed quandam circumstantiam aggravantem, secundum illud II Pet. II, *melius erat eis veritatem non cognoscere quam post agnitam retroire*.]]
 ![[CERF IIa-IIæ, q. 12, a. 1#ad 3]]
 

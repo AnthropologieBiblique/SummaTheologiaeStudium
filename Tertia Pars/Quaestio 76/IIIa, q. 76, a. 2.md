@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 76, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 76, a. 2#s.c.|Sed contra est quod, [[1 Co 11]], super illud, calicem, dicit Glossa quod sub utraque specie, scilicet panis et vini, idem sumitur. Et ita videtur quod sub utraque specie totus Christus sit.]]
+![[LEO IIIa, q. 76, a. 2#s.c.|Sed contra est quod, I Cor. XI, super illud, calicem, dicit Glossa quod sub utraque specie, scilicet panis et vini, idem sumitur. Et ita videtur quod sub utraque specie totus Christus sit.]]
 ![[CERF IIIa, q. 76, a. 2#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 76, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 76, a. 2#ad 2|Ad secundum dicendum quod in passione Christi, cuius hoc sacramentum est memoriale, non fuerunt aliae partes corporis ab invicem separatae, sicut sanguis, sed corpus indissolutum permansit, secundum quod legitur [[Ex 12]], *os non comminuetis ex eo*. Et ideo in hoc sacramento seorsum consecratur sanguis a corpore, non autem alia pars ab alia.]]
+![[LEO IIIa, q. 76, a. 2#ad 2|Ad secundum dicendum quod in passione Christi, cuius hoc sacramentum est memoriale, non fuerunt aliae partes corporis ab invicem separatae, sicut sanguis, sed corpus indissolutum permansit, secundum quod legitur Exod. XII, *os non comminuetis ex eo*. Et ideo in hoc sacramento seorsum consecratur sanguis a corpore, non autem alia pars ab alia.]]
 ![[CERF IIIa, q. 76, a. 2#ad 2]]
 
 ###### ad 3

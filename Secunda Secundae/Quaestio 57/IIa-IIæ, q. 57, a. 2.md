@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 57, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 57, a. 2#ad 2|Ad secundum dicendum quod voluntas humana ex communi condicto potest aliquid facere iustum in his quae secundum se non habent aliquam repugnantiam ad naturalem iustitiam. Et in his habet locum ius positivum. Unde philosophus dicit, in V Ethic., quod legale iustum est *quod ex principio quidem nihil differt sic vel aliter, quando autem ponitur, differt*. Sed si aliquid de se repugnantiam habeat ad ius naturale, non potest voluntate humana fieri iustum, puta si statuatur quod liceat furari vel adulterium committere. Unde dicitur [[Is 10]], *vae qui condunt leges iniquas*.]]
+![[LEO IIa-IIæ, q. 57, a. 2#ad 2|Ad secundum dicendum quod voluntas humana ex communi condicto potest aliquid facere iustum in his quae secundum se non habent aliquam repugnantiam ad naturalem iustitiam. Et in his habet locum ius positivum. Unde philosophus dicit, in V Ethic., quod legale iustum est *quod ex principio quidem nihil differt sic vel aliter, quando autem ponitur, differt*. Sed si aliquid de se repugnantiam habeat ad ius naturale, non potest voluntate humana fieri iustum, puta si statuatur quod liceat furari vel adulterium committere. Unde dicitur Isaiae X, *vae qui condunt leges iniquas*.]]
 ![[CERF IIa-IIæ, q. 57, a. 2#ad 2]]
 
 ###### ad 3

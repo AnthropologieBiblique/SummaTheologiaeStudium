@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 14, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 14, a. 9#s.c.|Sed contra est quod dicit apostolus ad [[Rm 4]], *qui vocat ea quae non sunt, tanquam ea quae sunt*.]]
+![[LEO Ia, q. 14, a. 9#s.c.|Sed contra est quod dicit apostolus ad Rom. IV, *qui vocat ea quae non sunt, tanquam ea quae sunt*.]]
 ![[CERF Ia, q. 14, a. 9#s.c.]]
 
 ###### resp.

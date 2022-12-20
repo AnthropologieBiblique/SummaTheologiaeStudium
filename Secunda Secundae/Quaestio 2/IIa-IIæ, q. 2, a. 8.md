@@ -6,11 +6,11 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 2, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod credere Trinitatem explicite non fuerit de necessitate salutis. Dicit enim apostolus, ad [[He 11]], *credere oportet accedentem ad Deum quia est, et quia inquirentibus se remunerator est*. Sed hoc potest credi absque fide Trinitatis. Ergo non oportebat explicite fidem de Trinitate habere.]]
+![[LEO IIa-IIæ, q. 2, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod credere Trinitatem explicite non fuerit de necessitate salutis. Dicit enim apostolus, ad Heb. XI, *credere oportet accedentem ad Deum quia est, et quia inquirentibus se remunerator est*. Sed hoc potest credi absque fide Trinitatis. Ergo non oportebat explicite fidem de Trinitate habere.]]
 ![[CERF IIa-IIæ, q. 2, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 2, a. 8#arg. 2|Praeterea, dominus dicit, [[Jn 17]], *pater, manifestavi nomen tuum hominibus*, quod exponens Augustinus dicit, *non illud nomen tuum quo vocaris Deus, sed illud quo vocaris pater meus*. Et postea subdit etiam, *in hoc quod Deus fecit hunc mundum, notus in omnibus gentibus; in hoc quod non est cum diis falsis colendus, notus in Iudaea Deus; in hoc vero quod pater est huius Christi per quem tollit peccatum mundi, hoc nomen eius, prius occultum, nunc manifestavit eis*. Ergo ante Christi adventum non erat cognitum quod in deitate esset paternitas et filiatio. Non ergo Trinitas explicite credebatur.]]
+![[LEO IIa-IIæ, q. 2, a. 8#arg. 2|Praeterea, dominus dicit, Ioan. XVII, *pater, manifestavi nomen tuum hominibus*, quod exponens Augustinus dicit, *non illud nomen tuum quo vocaris Deus, sed illud quo vocaris pater meus*. Et postea subdit etiam, *in hoc quod Deus fecit hunc mundum, notus in omnibus gentibus; in hoc quod non est cum diis falsis colendus, notus in Iudaea Deus; in hoc vero quod pater est huius Christi per quem tollit peccatum mundi, hoc nomen eius, prius occultum, nunc manifestavit eis*. Ergo ante Christi adventum non erat cognitum quod in deitate esset paternitas et filiatio. Non ergo Trinitas explicite credebatur.]]
 ![[CERF IIa-IIæ, q. 2, a. 8#arg. 2]]
 
 ###### arg. 3

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 24, a. 10#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 24, a. 10#s.c.|Sed contra est quod caritas in Scriptura igni comparatur, secundum illud [[Ct 8]], lampades eius, scilicet caritatis, lampades ignis atque flammarum. Sed ignis, quandiu manet, semper ascendit. Ergo caritas, quandiu manet, ascendere potest; sed descendere, idest diminui, non potest.]]
+![[LEO IIa-IIæ, q. 24, a. 10#s.c.|Sed contra est quod caritas in Scriptura igni comparatur, secundum illud Cant. VIII, lampades eius, scilicet caritatis, lampades ignis atque flammarum. Sed ignis, quandiu manet, semper ascendit. Ergo caritas, quandiu manet, ascendere potest; sed descendere, idest diminui, non potest.]]
 ![[CERF IIa-IIæ, q. 24, a. 10#s.c.]]
 
 ###### resp.

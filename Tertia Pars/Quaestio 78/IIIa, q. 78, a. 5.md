@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 78, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 78, a. 5#s.c.|Sed contra est quod haec verba proferuntur ex persona Christi, qui de se dicit, [[Jn 14]], ego sum veritas.]]
+![[LEO IIIa, q. 78, a. 5#s.c.|Sed contra est quod haec verba proferuntur ex persona Christi, qui de se dicit, Ioan. XIV, ego sum veritas.]]
 ![[CERF IIIa, q. 78, a. 5#s.c.]]
 
 ###### resp.

@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 97, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 97, a. 2#arg. 2|Praeterea, somnus passio quaedam est. Sed homo in statu innocentiae dormivisset; secundum illud [[Gn 2]], *immisit Deus soporem in Adam*. Ergo fuisset passibilis.]]
+![[LEO Ia, q. 97, a. 2#arg. 2|Praeterea, somnus passio quaedam est. Sed homo in statu innocentiae dormivisset; secundum illud Gen. II, *immisit Deus soporem in Adam*. Ergo fuisset passibilis.]]
 ![[CERF Ia, q. 97, a. 2#arg. 2]]
 
 ###### arg. 3

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 39, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 39, a. 1#s.c.|Sed contra, tristitia de malo contrariatur delectationi de malo. Sed delectatio de malo est mala, unde in detestationem quorundam dicitur [[Pr 2]], quod *laetantur cum malefecerint*. Ergo tristitia de malo est bona.]]
+![[LEO Ia-IIæ, q. 39, a. 1#s.c.|Sed contra, tristitia de malo contrariatur delectationi de malo. Sed delectatio de malo est mala, unde in detestationem quorundam dicitur Prov. II, quod *laetantur cum malefecerint*. Ergo tristitia de malo est bona.]]
 ![[CERF Ia-IIæ, q. 39, a. 1#s.c.]]
 
 ###### resp.

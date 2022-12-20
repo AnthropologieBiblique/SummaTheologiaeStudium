@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 12, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christus ab Angelis scientiam acceperit. Dicitur enim [[Lc 22]] quod *apparuit Christo Angelus de caelo confortans eum*. Sed confortatio fit per verba exhortatoria docentis, secundum illud [[Jb 4]], *ecce, docuisti plurimos, et manus lassas roborasti, vacillantes confirmaverunt sermones tui*. Ergo Christus ab Angelis doctus est.]]
+![[LEO IIIa, q. 12, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christus ab Angelis scientiam acceperit. Dicitur enim Luc. XXII quod *apparuit Christo Angelus de caelo confortans eum*. Sed confortatio fit per verba exhortatoria docentis, secundum illud Iob IV, *ecce, docuisti plurimos, et manus lassas roborasti, vacillantes confirmaverunt sermones tui*. Ergo Christus ab Angelis doctus est.]]
 ![[CERF IIIa, q. 12, a. 4#arg. 1]]
 
 ###### arg. 2

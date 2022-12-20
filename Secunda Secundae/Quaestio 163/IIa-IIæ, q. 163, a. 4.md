@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 163, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod peccatum Adae fuit gravius quam peccatum Evae. Dicitur enim [[1 Tm 2]], quod *Adam non est seductus, mulier autem seducta in praevaricatione fuit*, et sic videtur quod peccatum mulieris fuerit ex ignorantia, peccatum autem viri ex certa scientia. Sed huiusmodi peccatum est gravius, secundum illud [[Lc 12]], *ille servus qui cognovit voluntatem domini sui et non fecit secundum voluntatem eius, vapulabit multis, qui autem non cognovit et fecit digna plagis, vapulabit paucis*. Ergo Adam gravius peccavit quam Eva.]]
+![[LEO IIa-IIæ, q. 163, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod peccatum Adae fuit gravius quam peccatum Evae. Dicitur enim I ad Tim. II, quod *Adam non est seductus, mulier autem seducta in praevaricatione fuit*, et sic videtur quod peccatum mulieris fuerit ex ignorantia, peccatum autem viri ex certa scientia. Sed huiusmodi peccatum est gravius, secundum illud Luc. XII, *ille servus qui cognovit voluntatem domini sui et non fecit secundum voluntatem eius, vapulabit multis, qui autem non cognovit et fecit digna plagis, vapulabit paucis*. Ergo Adam gravius peccavit quam Eva.]]
 ![[CERF IIa-IIæ, q. 163, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 163, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 163, a. 4#s.c.|Sed contra est quod poena respondet culpae. Sed mulier gravius est punita quam vir, ut patet [[Gn 3]]. Ergo gravius peccavit quam vir.]]
+![[LEO IIa-IIæ, q. 163, a. 4#s.c.|Sed contra est quod poena respondet culpae. Sed mulier gravius est punita quam vir, ut patet Gen. III. Ergo gravius peccavit quam vir.]]
 ![[CERF IIa-IIæ, q. 163, a. 4#s.c.]]
 
 ###### resp.

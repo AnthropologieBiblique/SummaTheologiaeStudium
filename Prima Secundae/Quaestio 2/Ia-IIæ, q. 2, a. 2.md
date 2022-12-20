@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 2, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 2, a. 2#arg. 2|Praeterea, illud quod convenit Deo et excellentissimis, maxime videtur esse beatitudo, quae est bonum perfectum. Sed huiusmodi est honor, ut philosophus dicit in IV Ethic. Et etiam [[1 Tm 1]], dicit apostolus, *soli Deo honor et gloria*. Ergo in honore consistit beatitudo.]]
+![[LEO Ia-IIæ, q. 2, a. 2#arg. 2|Praeterea, illud quod convenit Deo et excellentissimis, maxime videtur esse beatitudo, quae est bonum perfectum. Sed huiusmodi est honor, ut philosophus dicit in IV Ethic. Et etiam I Tim. I, dicit apostolus, *soli Deo honor et gloria*. Ergo in honore consistit beatitudo.]]
 ![[CERF Ia-IIæ, q. 2, a. 2#arg. 2]]
 
 ###### arg. 3

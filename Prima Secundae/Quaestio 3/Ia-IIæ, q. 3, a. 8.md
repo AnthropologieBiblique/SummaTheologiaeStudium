@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 3, a. 8#arg. 2]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 3, a. 8#s.c.|Sed contra est quod dicitur [[1 Jn 3]], *cum apparuerit, similes ei erimus, et videbimus eum sicuti ipse est*.]]
+![[LEO Ia-IIæ, q. 3, a. 8#s.c.|Sed contra est quod dicitur I Ioan. III, *cum apparuerit, similes ei erimus, et videbimus eum sicuti ipse est*.]]
 ![[CERF Ia-IIæ, q. 3, a. 8#s.c.]]
 
 ###### resp.

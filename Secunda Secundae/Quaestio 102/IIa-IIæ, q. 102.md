@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 102#Prooemium|Deinde considerandum est de observantia, et partibus eius. Per quae de oppositis vitiis erit manifestum. Circa observantiam autem quaeruntur tria. Primo, utrum observantia sit specialis virtus ab aliis distincta. Secundo, quid observantia exhibeat. Tertio, de comparatione eius ad pietatem.]]
-![[CERF IIa-IIæ, q. 102#Prooemium]]
+Deinde considerandum est de observantia, et partibus eius. Per quae de oppositis vitiis erit manifestum. Circa observantiam autem quaeruntur tria. Primo, utrum observantia sit specialis virtus ab aliis distincta. Secundo, quid observantia exhibeat. Tertio, de comparatione eius ad pietatem.
 
 ![[IIa-IIæ, q. 102, a. 1#Articulus 1]]
 

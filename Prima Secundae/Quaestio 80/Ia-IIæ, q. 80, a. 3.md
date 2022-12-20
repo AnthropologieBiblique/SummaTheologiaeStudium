@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 80, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Diabolus possit necessitatem inferre ad peccandum. Potestas enim maior potest necessitatem inferre minori. Sed de Diabolo dicitur [[Jb 41]], *non est potestas super terram quae ei valeat comparari*. Ergo potest homini terreno necessitatem inferre ad peccandum.]]
+![[LEO Ia-IIæ, q. 80, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Diabolus possit necessitatem inferre ad peccandum. Potestas enim maior potest necessitatem inferre minori. Sed de Diabolo dicitur Iob XLI, *non est potestas super terram quae ei valeat comparari*. Ergo potest homini terreno necessitatem inferre ad peccandum.]]
 ![[CERF Ia-IIæ, q. 80, a. 3#arg. 1]]
 
 ###### arg. 2

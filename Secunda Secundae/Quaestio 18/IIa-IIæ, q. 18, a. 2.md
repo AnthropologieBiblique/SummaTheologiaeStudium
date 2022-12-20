@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 18, a. 2#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 18, a. 2#arg. 4|Praeterea, ad beatitudinem sanctorum pertinet non solum gloria animae sed etiam gloria corporis. Sed animae sanctorum qui sunt in patria expectant adhuc gloriam corporis, ut patet [[Ap 6]], et XII super Gen. ad Litt. Ergo spes potest esse in beatis.]]
+![[LEO IIa-IIæ, q. 18, a. 2#arg. 4|Praeterea, ad beatitudinem sanctorum pertinet non solum gloria animae sed etiam gloria corporis. Sed animae sanctorum qui sunt in patria expectant adhuc gloriam corporis, ut patet Apoc. VI, et XII super Gen. ad Litt. Ergo spes potest esse in beatis.]]
 ![[CERF IIa-IIæ, q. 18, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 18, a. 2#s.c.|Sed contra est quod apostolus dicit, ad [[Rm 8]], *quod videt quis, quid sperat?* Sed beati fruuntur Dei visione. Ergo in eis spes locum non habet.]]
+![[LEO IIa-IIæ, q. 18, a. 2#s.c.|Sed contra est quod apostolus dicit, ad Rom. VIII, *quod videt quis, quid sperat?* Sed beati fruuntur Dei visione. Ergo in eis spes locum non habet.]]
 ![[CERF IIa-IIæ, q. 18, a. 2#s.c.]]
 
 ###### resp.

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 85, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 85, a. 5#s.c.|Sed contra est quod apostolus dicit, [[Rm 5]], *per unum hominem peccatum in hunc mundum intravit, et per peccatum mors*.]]
+![[LEO Ia-IIæ, q. 85, a. 5#s.c.|Sed contra est quod apostolus dicit, Rom. V, *per unum hominem peccatum in hunc mundum intravit, et per peccatum mors*.]]
 ![[CERF Ia-IIæ, q. 85, a. 5#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 85, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 85, a. 5#ad 2|Ad secundum dicendum quod culpa originalis et actualis removetur ab eodem a quo etiam removentur et huiusmodi defectus, secundum illud apostoli, [[Rm 8]], *vivificabit mortalia corpora vestra per inhabitantem spiritum eius in vobis*, sed utrumque fit secundum ordinem divinae sapientiae, congruo tempore. Oportet enim quod ad immortalitatem et impassibilitatem gloriae, quae in Christo inchoata est, et per Christum nobis acquisita, perveniamus conformati prius passionibus eius. Unde oportet quod ad tempus passibilitas in nostris corporibus remaneat, ad impassibilitatem gloriae promerendam conformiter Christo.]]
+![[LEO Ia-IIæ, q. 85, a. 5#ad 2|Ad secundum dicendum quod culpa originalis et actualis removetur ab eodem a quo etiam removentur et huiusmodi defectus, secundum illud apostoli, Rom. VIII, *vivificabit mortalia corpora vestra per inhabitantem spiritum eius in vobis*, sed utrumque fit secundum ordinem divinae sapientiae, congruo tempore. Oportet enim quod ad immortalitatem et impassibilitatem gloriae, quae in Christo inchoata est, et per Christum nobis acquisita, perveniamus conformati prius passionibus eius. Unde oportet quod ad tempus passibilitas in nostris corporibus remaneat, ad impassibilitatem gloriae promerendam conformiter Christo.]]
 ![[CERF Ia-IIæ, q. 85, a. 5#ad 2]]
 
 ###### ad 3

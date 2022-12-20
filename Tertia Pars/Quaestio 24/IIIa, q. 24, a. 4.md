@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 24, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 24, a. 4#arg. 2|Praeterea, illud quod dependet ex simplici Dei voluntate, non habet aliam causam nisi Dei voluntatem. Sed praedestinatio nostra ex simplici voluntate Dei dependet, dicitur enim [[Ep 1]], *praedestinati secundum propositum eius, qui omnia operatur secundum consilium voluntatis suae*. Ergo praedestinatio Christi non est causa nostrae praedestinationis.]]
+![[LEO IIIa, q. 24, a. 4#arg. 2|Praeterea, illud quod dependet ex simplici Dei voluntate, non habet aliam causam nisi Dei voluntatem. Sed praedestinatio nostra ex simplici voluntate Dei dependet, dicitur enim Ephes. I, *praedestinati secundum propositum eius, qui omnia operatur secundum consilium voluntatis suae*. Ergo praedestinatio Christi non est causa nostrae praedestinationis.]]
 ![[CERF IIIa, q. 24, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 24, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 24, a. 4#s.c.|Sed contra est quod dicitur [[Ep 1]], *praedestinavit nos in adoptionem filiorum per Iesum Christum*.]]
+![[LEO IIIa, q. 24, a. 4#s.c.|Sed contra est quod dicitur Ephes. I, *praedestinavit nos in adoptionem filiorum per Iesum Christum*.]]
 ![[CERF IIIa, q. 24, a. 4#s.c.]]
 
 ###### resp.

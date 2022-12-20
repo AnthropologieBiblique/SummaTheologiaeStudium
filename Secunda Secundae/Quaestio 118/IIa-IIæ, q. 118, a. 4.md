@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 118, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod avaritia semper sit peccatum mortale. Nullus enim est dignus morte nisi pro peccato mortali. Sed propter avaritiam homines digni sunt morte, cum enim apostolus, ad [[Rm 1]], praemisisset, repletos omni iniquitate, fornicatione, avaritia, subdit, qui talia agunt digni sunt morte. Ergo avaritia est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 118, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod avaritia semper sit peccatum mortale. Nullus enim est dignus morte nisi pro peccato mortali. Sed propter avaritiam homines digni sunt morte, cum enim apostolus, ad Rom. I, praemisisset, repletos omni iniquitate, fornicatione, avaritia, subdit, qui talia agunt digni sunt morte. Ergo avaritia est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 118, a. 4#arg. 1]]
 
 ###### arg. 2

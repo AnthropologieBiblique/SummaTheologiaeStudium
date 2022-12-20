@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 170, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod inconvenienter tradantur in divina lege praecepta de virtutibus annexis temperantiae. Praecepta enim Decalogi, ut dictum est, sunt quaedam universalia principia totius legis divinae. Sed superbia est initium omnis peccati, ut dicitur [[Si 10]]. Ergo inter praecepta Decalogi debuit aliquod poni prohibitivum superbiae.]]
+![[LEO IIa-IIæ, q. 170, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod inconvenienter tradantur in divina lege praecepta de virtutibus annexis temperantiae. Praecepta enim Decalogi, ut dictum est, sunt quaedam universalia principia totius legis divinae. Sed superbia est initium omnis peccati, ut dicitur Eccli. X. Ergo inter praecepta Decalogi debuit aliquod poni prohibitivum superbiae.]]
 ![[CERF IIa-IIæ, q. 170, a. 2#arg. 1]]
 
 ###### arg. 2

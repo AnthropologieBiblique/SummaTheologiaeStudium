@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 64, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod occidere malefactores liceat clericis. Clerici enim praecipue debent implere quod apostolus dicit, I ad Cor. IV, *imitatores mei estote, sicut et ego Christi*, per quod nobis indicitur ut Deum et sanctos eius imitemur. Sed ipse Deus, quem colimus, occidit malefactores, secundum illud Psalm., *qui percussit Aegyptum cum primogenitis eorum*. Moyses etiam a Levitis fecit interfici viginti tria millia hominum propter adorationem vituli, ut habetur [[Ex 32]]. Et Phinees, sacerdos, interfecit Israelitem coeuntem cum Madianitide, ut habetur [[Nb 25]]. Samuel etiam interfecit Agag, regem Amalec; et Elias sacerdotes Baal; et Mathathias eum qui ad sacrificandum accesserat; et in novo testamento, Petrus Ananiam et Saphiram. Ergo videtur quod etiam clericis liceat occidere malefactores.]]
+![[LEO IIa-IIæ, q. 64, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod occidere malefactores liceat clericis. Clerici enim praecipue debent implere quod apostolus dicit, I ad Cor. IV, *imitatores mei estote, sicut et ego Christi*, per quod nobis indicitur ut Deum et sanctos eius imitemur. Sed ipse Deus, quem colimus, occidit malefactores, secundum illud Psalm., *qui percussit Aegyptum cum primogenitis eorum*. Moyses etiam a Levitis fecit interfici viginti tria millia hominum propter adorationem vituli, ut habetur Exod. XXXII. Et Phinees, sacerdos, interfecit Israelitem coeuntem cum Madianitide, ut habetur Num. XXV. Samuel etiam interfecit Agag, regem Amalec; et Elias sacerdotes Baal; et Mathathias eum qui ad sacrificandum accesserat; et in novo testamento, Petrus Ananiam et Saphiram. Ergo videtur quod etiam clericis liceat occidere malefactores.]]
 ![[CERF IIa-IIæ, q. 64, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 64, a. 4#arg. 2|Praeterea, potestas spiritualis est maior quam temporalis, et Deo coniunctior. Sed potestas temporalis licite malefactores occidit tanquam Dei minister, ut dicitur [[Rm 13]]. Ergo multo magis clerici, qui sunt Dei ministri spiritualem potestatem habentes, licite possunt malefactores occidere.]]
+![[LEO IIa-IIæ, q. 64, a. 4#arg. 2|Praeterea, potestas spiritualis est maior quam temporalis, et Deo coniunctior. Sed potestas temporalis licite malefactores occidit tanquam Dei minister, ut dicitur Rom. XIII. Ergo multo magis clerici, qui sunt Dei ministri spiritualem potestatem habentes, licite possunt malefactores occidere.]]
 ![[CERF IIa-IIæ, q. 64, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 64, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 64, a. 4#s.c.|Sed contra est quod dicitur [[1 Tm 3]], *oportet episcopum sine crimine esse, non vinolentum, non percussorem*.]]
+![[LEO IIa-IIæ, q. 64, a. 4#s.c.|Sed contra est quod dicitur I ad Tim. III, *oportet episcopum sine crimine esse, non vinolentum, non percussorem*.]]
 ![[CERF IIa-IIæ, q. 64, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 64, a. 4#resp.|Respondeo dicendum quod non licet clericis occidere, duplici ratione. Primo quidem, quia sunt electi ad altaris ministerium, in quo repraesentatur passio Christi occisi, *qui cum percuteretur, non repercutiebat*, ut dicitur [[1 P 2]]. Et ideo non competit ut clerici sint percussores aut occisores, debent enim ministri suum dominum imitari, secundum illud [[Si 10]], *secundum iudicem populi, sic et ministri eius*. Alia ratio est quia clericis committitur ministerium novae legis, in qua non determinatur poena occisionis vel mutilationis corporalis. Et ideo, ut sint idonei ministri novi testamenti, debent a talibus abstinere.]]
+![[LEO IIa-IIæ, q. 64, a. 4#resp.|Respondeo dicendum quod non licet clericis occidere, duplici ratione. Primo quidem, quia sunt electi ad altaris ministerium, in quo repraesentatur passio Christi occisi, *qui cum percuteretur, non repercutiebat*, ut dicitur I Pet. II. Et ideo non competit ut clerici sint percussores aut occisores, debent enim ministri suum dominum imitari, secundum illud Eccli. X, *secundum iudicem populi, sic et ministri eius*. Alia ratio est quia clericis committitur ministerium novae legis, in qua non determinatur poena occisionis vel mutilationis corporalis. Et ideo, ut sint idonei ministri novi testamenti, debent a talibus abstinere.]]
 ![[CERF IIa-IIæ, q. 64, a. 4#resp.]]
 
 ###### ad 1

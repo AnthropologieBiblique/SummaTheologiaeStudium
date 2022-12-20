@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 78, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod haec non sit forma huius sacramenti, *hoc est corpus meum, et, hic est calix sanguinis mei*. Illa enim verba videntur pertinere ad formam sacramenti quibus Christus corpus suum et sanguinem consecravit. Sed Christus ante benedixit panem acceptum, et postea dixit, *accipite et comedite, hoc est corpus meum*, ut habetur [[Mt 26]]; et similiter fecit de calice. Ergo praedicta verba non sunt forma huius sacramenti.]]
+![[LEO IIIa, q. 78, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod haec non sit forma huius sacramenti, *hoc est corpus meum, et, hic est calix sanguinis mei*. Illa enim verba videntur pertinere ad formam sacramenti quibus Christus corpus suum et sanguinem consecravit. Sed Christus ante benedixit panem acceptum, et postea dixit, *accipite et comedite, hoc est corpus meum*, ut habetur Matth. XXVI; et similiter fecit de calice. Ergo praedicta verba non sunt forma huius sacramenti.]]
 ![[CERF IIIa, q. 78, a. 1#arg. 1]]
 
 ###### arg. 2

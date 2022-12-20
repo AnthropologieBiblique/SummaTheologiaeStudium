@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 85, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 85, a. 1#s.c.|Sed contra est quod, sicut dicitur [[Lc 10]], *homo descendens a Ierusalem in Iericho, idest in defectum peccati, expoliatur gratuitis et vulneratur in naturalibus*, ut Beda exponit. Ergo peccatum diminuit bonum naturae.]]
+![[LEO Ia-IIæ, q. 85, a. 1#s.c.|Sed contra est quod, sicut dicitur Luc. X, *homo descendens a Ierusalem in Iericho, idest in defectum peccati, expoliatur gratuitis et vulneratur in naturalibus*, ut Beda exponit. Ergo peccatum diminuit bonum naturae.]]
 ![[CERF Ia-IIæ, q. 85, a. 1#s.c.]]
 
 ###### resp.

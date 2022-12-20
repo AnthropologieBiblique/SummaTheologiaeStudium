@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 13, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 13, a. 1#s.c.|Sed contra est, quod proprium est Dei, non potest alicui creaturae convenire. Sed proprium est Dei esse omnipotentem, secundum illud [[Ex 15]], *iste Deus meus, et glorificabo eum*; et postea subditur, *omnipotens nomen eius*. Ergo anima Christi, cum sit creatura, non habet omnipotentiam.]]
+![[LEO IIIa, q. 13, a. 1#s.c.|Sed contra est, quod proprium est Dei, non potest alicui creaturae convenire. Sed proprium est Dei esse omnipotentem, secundum illud Exodi XV, *iste Deus meus, et glorificabo eum*; et postea subditur, *omnipotens nomen eius*. Ergo anima Christi, cum sit creatura, non habet omnipotentiam.]]
 ![[CERF IIIa, q. 13, a. 1#s.c.]]
 
 ###### resp.

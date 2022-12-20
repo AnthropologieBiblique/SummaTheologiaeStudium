@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 1, a. 4#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 1, a. 4#ad 1|Ad primum ergo dicendum quod de ratione boni est quod aliquid ab ipso effluat, non tamen quod ipsum ab alio procedat. Et ideo, cum bonum habeat rationem finis, et primum bonum sit ultimus finis, ratio ista non probat quod non sit ultimus finis; sed quod a fine primo supposito procedatur in infinitum inferius versus ea quae sunt ad finem. Et hoc quidem competeret, si consideraretur sola virtus primi boni, quae est infinita. Sed quia primum bonum habet diffusionem secundum intellectum, cuius est secundum aliquam certam formam profluere in causata; aliquis certus modus adhibetur bonorum effluxui a primo bono, a quo omnia alia bona participant virtutem diffusivam. Et ideo diffusio bonorum non procedit in infinitum, sed, sicut dicitur [[Sg 11]], Deus omnia disposuit in numero, pondere et mensura.]]
+![[LEO Ia-IIæ, q. 1, a. 4#ad 1|Ad primum ergo dicendum quod de ratione boni est quod aliquid ab ipso effluat, non tamen quod ipsum ab alio procedat. Et ideo, cum bonum habeat rationem finis, et primum bonum sit ultimus finis, ratio ista non probat quod non sit ultimus finis; sed quod a fine primo supposito procedatur in infinitum inferius versus ea quae sunt ad finem. Et hoc quidem competeret, si consideraretur sola virtus primi boni, quae est infinita. Sed quia primum bonum habet diffusionem secundum intellectum, cuius est secundum aliquam certam formam profluere in causata; aliquis certus modus adhibetur bonorum effluxui a primo bono, a quo omnia alia bona participant virtutem diffusivam. Et ideo diffusio bonorum non procedit in infinitum, sed, sicut dicitur Sap. XI, Deus omnia disposuit in numero, pondere et mensura.]]
 ![[CERF Ia-IIæ, q. 1, a. 4#ad 1]]
 
 ###### ad 2

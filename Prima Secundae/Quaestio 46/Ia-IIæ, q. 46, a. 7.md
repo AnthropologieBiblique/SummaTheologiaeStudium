@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia-IIæ, q. 46, a. 7#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 46, a. 7#arg. 2|*Praeterea, non est iustitia hominis ad seipsum, nec ad ea quae sui ipsius sunt*, ut dicitur in V Ethic. Sed homo quandoque sibi ipsi irascitur, sicut poenitens propter peccatum, unde dicitur in [[Ps 4]], *irascimini, et nolite peccare*. Ergo ira non solum est ad quos est iustitia.]]
+![[LEO Ia-IIæ, q. 46, a. 7#arg. 2|*Praeterea, non est iustitia hominis ad seipsum, nec ad ea quae sui ipsius sunt*, ut dicitur in V Ethic. Sed homo quandoque sibi ipsi irascitur, sicut poenitens propter peccatum, unde dicitur in Psalmo IV, *irascimini, et nolite peccare*. Ergo ira non solum est ad quos est iustitia.]]
 ![[CERF Ia-IIæ, q. 46, a. 7#arg. 2]]
 
 ###### arg. 3

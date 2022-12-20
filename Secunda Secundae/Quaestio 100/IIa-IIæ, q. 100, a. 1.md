@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 100, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 100, a. 1#arg. 4|Praeterea, nomen simoniae a Simone mago acceptum est, de quo legitur [[Ac 8]], quod obtulit apostolis pecuniam ad spiritualem potestatem emendam, ut, scilicet, *quibuscumque manus imponeret, reciperent spiritum sanctum*. Non autem legitur quod aliquid voluit vendere. Ergo simonia non est voluntas vendendi aliquid spirituale.]]
+![[LEO IIa-IIæ, q. 100, a. 1#arg. 4|Praeterea, nomen simoniae a Simone mago acceptum est, de quo legitur Act. VIII, quod obtulit apostolis pecuniam ad spiritualem potestatem emendam, ut, scilicet, *quibuscumque manus imponeret, reciperent spiritum sanctum*. Non autem legitur quod aliquid voluit vendere. Ergo simonia non est voluntas vendendi aliquid spirituale.]]
 ![[CERF IIa-IIæ, q. 100, a. 1#arg. 4]]
 
 ###### arg. 5
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIa-IIæ, q. 100, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 100, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, actus aliquis est malus ex genere ex eo quod cadit super materiam indebitam. Emptionis autem et venditionis est materia indebita res spiritualis, triplici ratione. Primo quidem, quia res spiritualis non potest aliquo terreno pretio compensari, sicut de sapientia dicitur [[Pr 3]], *pretiosior est cunctis opibus, et omnia quae desiderantur huic non valent comparari*. Et ideo Petrus, in ipsa sui radice Simonis pravitatem condemnans, dixit, *pecunia tua tecum sit in perditionem, quoniam donum Dei existimasti pecunia possidere*. Secundo, quia illud potest esse debita venditionis materia cuius venditor est dominus, ut patet in auctoritate supra inducta. Praelatus autem Ecclesiae non est dominus spiritualium rerum, sed dispensator, secundum illud I ad Cor. IV. *Sic nos existimet homo ut ministros Christi, et dispensatores ministeriorum Dei*. Tertio, quia venditio repugnat spiritualium origini, quae ex gratuita Dei voluntate proveniunt. Unde et dominus dicit, [[Mt 10]], *gratis accepistis, gratis date*. Et ideo aliquis, vendendo vel emendo rem spiritualem, irreverentiam exhibet Deo et rebus divinis. Propter quod, peccat peccato irreligiositatis.]]
+![[LEO IIa-IIæ, q. 100, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, actus aliquis est malus ex genere ex eo quod cadit super materiam indebitam. Emptionis autem et venditionis est materia indebita res spiritualis, triplici ratione. Primo quidem, quia res spiritualis non potest aliquo terreno pretio compensari, sicut de sapientia dicitur Prov. III, *pretiosior est cunctis opibus, et omnia quae desiderantur huic non valent comparari*. Et ideo Petrus, in ipsa sui radice Simonis pravitatem condemnans, dixit, *pecunia tua tecum sit in perditionem, quoniam donum Dei existimasti pecunia possidere*. Secundo, quia illud potest esse debita venditionis materia cuius venditor est dominus, ut patet in auctoritate supra inducta. Praelatus autem Ecclesiae non est dominus spiritualium rerum, sed dispensator, secundum illud I ad Cor. IV. *Sic nos existimet homo ut ministros Christi, et dispensatores ministeriorum Dei*. Tertio, quia venditio repugnat spiritualium origini, quae ex gratuita Dei voluntate proveniunt. Unde et dominus dicit, Matth. X, *gratis accepistis, gratis date*. Et ideo aliquis, vendendo vel emendo rem spiritualem, irreverentiam exhibet Deo et rebus divinis. Propter quod, peccat peccato irreligiositatis.]]
 ![[CERF IIa-IIæ, q. 100, a. 1#resp.]]
 
 ###### ad 1
@@ -50,11 +50,11 @@ tags :
 ![[CERF IIa-IIæ, q. 100, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 100, a. 1#ad 3|Ad tertium dicendum quod regnum caelorum dicitur emi, dum quis dat quod habet propter Deum, large sumpto nomine emptionis, secundum quod accipitur pro merito. Quod tamen non pertingit ad perfectam rationem emptionis. Tum quia non sunt condignae passiones huius temporis, nec aliqua nostra dona vel opera, ad futuram gloriam quae revelabitur in nobis, ut dicitur [[Rm 8]]. Tum quia meritum non consistit principaliter in exteriori dono vel actu vel passione, sed in interiori affectu.]]
+![[LEO IIa-IIæ, q. 100, a. 1#ad 3|Ad tertium dicendum quod regnum caelorum dicitur emi, dum quis dat quod habet propter Deum, large sumpto nomine emptionis, secundum quod accipitur pro merito. Quod tamen non pertingit ad perfectam rationem emptionis. Tum quia non sunt condignae passiones huius temporis, nec aliqua nostra dona vel opera, ad futuram gloriam quae revelabitur in nobis, ut dicitur Rom. VIII. Tum quia meritum non consistit principaliter in exteriori dono vel actu vel passione, sed in interiori affectu.]]
 ![[CERF IIa-IIæ, q. 100, a. 1#ad 3]]
 
 ###### ad 4
-![[LEO IIa-IIæ, q. 100, a. 1#ad 4|Ad quartum dicendum quod Simon magus ad hoc emere voluit spiritualem potestatem ut eam postea venderet, dicitur enim I, qu. III, quod *Simon magus donum spiritus sancti emere voluit ut ex venditione signorum quae per eum fierent, multiplicatam pecuniam lucraretur*. Et sic illi qui spiritualia vendunt, conformantur Simoni mago in intentione, in actu vero, illi qui emere volunt. Illi autem qui vendunt, in actu imitantur Giezi, discipulum Elisaei, de quo legitur [[2R 5]], quod accepit pecuniam a leproso mundato. Unde venditores spiritualium possunt dici non solum simoniaci, sed etiam Giezitae.]]
+![[LEO IIa-IIæ, q. 100, a. 1#ad 4|Ad quartum dicendum quod Simon magus ad hoc emere voluit spiritualem potestatem ut eam postea venderet, dicitur enim I, qu. III, quod *Simon magus donum spiritus sancti emere voluit ut ex venditione signorum quae per eum fierent, multiplicatam pecuniam lucraretur*. Et sic illi qui spiritualia vendunt, conformantur Simoni mago in intentione, in actu vero, illi qui emere volunt. Illi autem qui vendunt, in actu imitantur Giezi, discipulum Elisaei, de quo legitur IV Reg. V, quod accepit pecuniam a leproso mundato. Unde venditores spiritualium possunt dici non solum simoniaci, sed etiam Giezitae.]]
 ![[CERF IIa-IIæ, q. 100, a. 1#ad 4]]
 
 ###### ad 5

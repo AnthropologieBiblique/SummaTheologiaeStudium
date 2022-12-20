@@ -18,15 +18,15 @@ tags :
 ![[CERF IIIa, q. 1, a. 3#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 1, a. 3#arg. 4|Praeterea, praedestinatio Dei est aeterna. Sed dicitur, [[Rm 1]], de Christo, quod *praedestinatus est filius Dei in virtute*. Ergo etiam ante peccatum necessarium erat filium Dei incarnari, ad hoc quod Dei praedestinatio impleretur.]]
+![[LEO IIIa, q. 1, a. 3#arg. 4|Praeterea, praedestinatio Dei est aeterna. Sed dicitur, Rom. I, de Christo, quod *praedestinatus est filius Dei in virtute*. Ergo etiam ante peccatum necessarium erat filium Dei incarnari, ad hoc quod Dei praedestinatio impleretur.]]
 ![[CERF IIIa, q. 1, a. 3#arg. 4]]
 
 ###### arg. 5
-![[LEO IIIa, q. 1, a. 3#arg. 5|Praeterea, incarnationis mysterium est primo homini revelatum, ut patet per hoc quod dixit, *hoc nunc os ex ossibus meis*, etc., quod apostolus dicit esse *magnum sacramentum in Christo et Ecclesia*, ut patet [[Ep 5]]. Sed homo non potuit esse praescius sui casus, eadem ratione qua nec Angelus, ut Augustinus probat, super Gen. ad Litt. Ergo, etiam si homo non peccasset, Deus incarnatus fuisset.]]
+![[LEO IIIa, q. 1, a. 3#arg. 5|Praeterea, incarnationis mysterium est primo homini revelatum, ut patet per hoc quod dixit, *hoc nunc os ex ossibus meis*, etc., quod apostolus dicit esse *magnum sacramentum in Christo et Ecclesia*, ut patet Ephes. V. Sed homo non potuit esse praescius sui casus, eadem ratione qua nec Angelus, ut Augustinus probat, super Gen. ad Litt. Ergo, etiam si homo non peccasset, Deus incarnatus fuisset.]]
 ![[CERF IIIa, q. 1, a. 3#arg. 5]]
 
 ###### s.c.
-![[LEO IIIa, q. 1, a. 3#s.c.|Sed contra est quod Augustinus dicit, in libro de verbis Dom., exponens illud quod habetur [[Lc 19]], *venit filius hominis quaerere et salvum facere quod perierat, si homo non peccasset, filius hominis non venisset*. Et [[1 Tm 1]], super illud verbum, *Christus venit in hunc mundum ut peccatores salvos faceret*, dicit Glossa, *nulla causa veniendi fuit Christo domino, nisi peccatores salvos facere. Tolle morbos, tolle vulnera, et nulla medicinae est causa*.]]
+![[LEO IIIa, q. 1, a. 3#s.c.|Sed contra est quod Augustinus dicit, in libro de verbis Dom., exponens illud quod habetur Luc. XIX, *venit filius hominis quaerere et salvum facere quod perierat, si homo non peccasset, filius hominis non venisset*. Et I ad Tim. I, super illud verbum, *Christus venit in hunc mundum ut peccatores salvos faceret*, dicit Glossa, *nulla causa veniendi fuit Christo domino, nisi peccatores salvos facere. Tolle morbos, tolle vulnera, et nulla medicinae est causa*.]]
 ![[CERF IIIa, q. 1, a. 3#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIIa, q. 1, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 1, a. 3#ad 1|Ad primum ergo dicendum quod omnes aliae causae quae sunt assignatae, pertinent ad remedium peccati. Si enim homo non peccasset, perfusus fuisset lumine divinae sapientiae, et iustitiae rectitudine perfectus a Deo, ad omnia necessaria cognoscenda. Sed quia homo, deserto Deo, ad corporalia collapsus erat, conveniens fuit ut Deus, carne assumpta, etiam per corporalia ei salutis remedium exhiberet. Unde dicit Augustinus, super illud [[Jn 1]] cap., *verbum caro factum est, caro te obcaecaverat, caro te sanat, quoniam sic venit Christus ut de carne vitia carnis exstingueret*.]]
+![[LEO IIIa, q. 1, a. 3#ad 1|Ad primum ergo dicendum quod omnes aliae causae quae sunt assignatae, pertinent ad remedium peccati. Si enim homo non peccasset, perfusus fuisset lumine divinae sapientiae, et iustitiae rectitudine perfectus a Deo, ad omnia necessaria cognoscenda. Sed quia homo, deserto Deo, ad corporalia collapsus erat, conveniens fuit ut Deus, carne assumpta, etiam per corporalia ei salutis remedium exhiberet. Unde dicit Augustinus, super illud Ioan. I cap., *verbum caro factum est, caro te obcaecaverat, caro te sanat, quoniam sic venit Christus ut de carne vitia carnis exstingueret*.]]
 ![[CERF IIIa, q. 1, a. 3#ad 1]]
 
 ###### ad 2
@@ -42,7 +42,7 @@ tags :
 ![[CERF IIIa, q. 1, a. 3#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 1, a. 3#ad 3|Ad tertium dicendum quod duplex capacitas attendi potest in humana natura. Una quidem secundum ordinem potentiae naturalis. Quae a Deo semper impletur, qui dat unicuique rei secundum suam capacitatem naturalem. Alia vero secundum ordinem divinae potentiae, cui omnis creatura obedit ad nutum. Et ad hoc pertinet ista capacitas. Non autem Deus omnem talem capacitatem naturae replet, alioquin, Deus non posset facere in creatura nisi quod facit; quod falsum est, ut in primo habitum est. Nihil autem prohibet ad aliquid maius humanam naturam productam esse post peccatum, Deus enim permittit mala fieri ut inde aliquid melius eliciat. Unde dicitur [[Rm 5]], *ubi abundavit iniquitas, superabundavit et gratia*. Unde et in benedictione cerei paschalis dicitur, *o felix culpa, quae talem ac tantum meruit habere redemptorem*.]]
+![[LEO IIIa, q. 1, a. 3#ad 3|Ad tertium dicendum quod duplex capacitas attendi potest in humana natura. Una quidem secundum ordinem potentiae naturalis. Quae a Deo semper impletur, qui dat unicuique rei secundum suam capacitatem naturalem. Alia vero secundum ordinem divinae potentiae, cui omnis creatura obedit ad nutum. Et ad hoc pertinet ista capacitas. Non autem Deus omnem talem capacitatem naturae replet, alioquin, Deus non posset facere in creatura nisi quod facit; quod falsum est, ut in primo habitum est. Nihil autem prohibet ad aliquid maius humanam naturam productam esse post peccatum, Deus enim permittit mala fieri ut inde aliquid melius eliciat. Unde dicitur Rom. V, *ubi abundavit iniquitas, superabundavit et gratia*. Unde et in benedictione cerei paschalis dicitur, *o felix culpa, quae talem ac tantum meruit habere redemptorem*.]]
 ![[CERF IIIa, q. 1, a. 3#ad 3]]
 
 ###### ad 4

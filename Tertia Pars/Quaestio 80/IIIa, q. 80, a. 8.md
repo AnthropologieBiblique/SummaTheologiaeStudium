@@ -6,11 +6,11 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIIa, q. 80, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod cibus vel potus praeassumptus non impediat sumptionem huius sacramenti. Hoc enim sacramentum est a domino institutum in cena. Sed dominus, postquam cenavit, hoc sacramentum discipulis tradidit, sicut patet [[Lc 22]] et [[1 Co 11]]. Ergo videtur quod etiam post alios cibos assumptos nos debeamus sumere hoc sacramentum.]]
+![[LEO IIIa, q. 80, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod cibus vel potus praeassumptus non impediat sumptionem huius sacramenti. Hoc enim sacramentum est a domino institutum in cena. Sed dominus, postquam cenavit, hoc sacramentum discipulis tradidit, sicut patet Luc. XXII et I Cor. XI. Ergo videtur quod etiam post alios cibos assumptos nos debeamus sumere hoc sacramentum.]]
 ![[CERF IIIa, q. 80, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 80, a. 8#arg. 2|Praeterea, [[1 Co 11]] dicitur, *cum convenitis ad manducandum*, scilicet corpus domini, *invicem expectate, si quis autem esurit, domi manducet*. Et ita videtur quod, postquam aliquis domi manducavit, possit in Ecclesia corpus Christi manducare.]]
+![[LEO IIIa, q. 80, a. 8#arg. 2|Praeterea, I Cor. XI dicitur, *cum convenitis ad manducandum*, scilicet corpus domini, *invicem expectate, si quis autem esurit, domi manducet*. Et ita videtur quod, postquam aliquis domi manducavit, possit in Ecclesia corpus Christi manducare.]]
 ![[CERF IIIa, q. 80, a. 8#arg. 2]]
 
 ###### arg. 3
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIIa, q. 80, a. 8#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 80, a. 8#resp.|Respondeo dicendum quod aliquid impedit sumptionem huius sacramenti dupliciter. Uno modo, secundum se, sicut peccatum mortale, quod habet repugnantiam ad significatum huius sacramenti, ut supra dictum est. Alio modo, propter prohibitionem Ecclesiae. Et sic impeditur aliquis a sumptione huius sacramenti post cibum vel potum assumptum, triplici ratione. Primo quidem, sicut Augustinus dicit, in honorem huius sacramenti, ut scilicet in os hominis intret nondum aliquo cibo vel potu infectum. Secundo, propter significationem, ut scilicet detur intelligi quod Christus, qui est res huius sacramenti, et caritas eius, debet primo fundari in cordibus nostris; secundum illud [[Mt 6]], *primo quaerite regnum Dei*. Tertio, propter periculum vomitus et ebrietatis, quae quandoque contingunt ex hoc quod homines inordinate cibis utuntur, sicut et apostolus dicit, [[1 Co 11]], *alius quidem esurit, alius vero ebrius est*. Ab hac tamen generali regula excipiuntur infirmi, qui statim communicandi sunt, etiam post cibum, si de eorum periculo dubitetur ne sine communione decedant, quia necessitas legem non habet. Unde dicitur de Consecr., dist. II, *presbyter infirmum statim communicet, ne sine communione moriatur*.]]
+![[LEO IIIa, q. 80, a. 8#resp.|Respondeo dicendum quod aliquid impedit sumptionem huius sacramenti dupliciter. Uno modo, secundum se, sicut peccatum mortale, quod habet repugnantiam ad significatum huius sacramenti, ut supra dictum est. Alio modo, propter prohibitionem Ecclesiae. Et sic impeditur aliquis a sumptione huius sacramenti post cibum vel potum assumptum, triplici ratione. Primo quidem, sicut Augustinus dicit, in honorem huius sacramenti, ut scilicet in os hominis intret nondum aliquo cibo vel potu infectum. Secundo, propter significationem, ut scilicet detur intelligi quod Christus, qui est res huius sacramenti, et caritas eius, debet primo fundari in cordibus nostris; secundum illud Matth. VI, *primo quaerite regnum Dei*. Tertio, propter periculum vomitus et ebrietatis, quae quandoque contingunt ex hoc quod homines inordinate cibis utuntur, sicut et apostolus dicit, I Cor. XI, *alius quidem esurit, alius vero ebrius est*. Ab hac tamen generali regula excipiuntur infirmi, qui statim communicandi sunt, etiam post cibum, si de eorum periculo dubitetur ne sine communione decedant, quia necessitas legem non habet. Unde dicitur de Consecr., dist. II, *presbyter infirmum statim communicet, ne sine communione moriatur*.]]
 ![[CERF IIIa, q. 80, a. 8#resp.]]
 
 ###### ad 1

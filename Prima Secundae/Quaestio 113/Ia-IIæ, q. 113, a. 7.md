@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 113, a. 7#arg. 5]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 113, a. 7#s.c.|Sed contra est quod iustificatio impii fit per gratiam spiritus sancti iustificantis. Sed spiritus sanctus subito advenit mentibus hominum; secundum illud [[Ac 2]], *factus est repente de caelo sonus tanquam advenientis spiritus vehementis*; ubi dicit Glossa quod *nescit tarda molimina spiritus sancti gratia*. Ergo iustificatio impii non est successiva, sed instantanea.]]
+![[LEO Ia-IIæ, q. 113, a. 7#s.c.|Sed contra est quod iustificatio impii fit per gratiam spiritus sancti iustificantis. Sed spiritus sanctus subito advenit mentibus hominum; secundum illud Act. II, *factus est repente de caelo sonus tanquam advenientis spiritus vehementis*; ubi dicit Glossa quod *nescit tarda molimina spiritus sancti gratia*. Ergo iustificatio impii non est successiva, sed instantanea.]]
 ![[CERF Ia-IIæ, q. 113, a. 7#s.c.]]
 
 ###### resp.

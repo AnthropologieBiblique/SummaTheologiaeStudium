@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 92, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 92, a. 3#s.c.|Sed contra est quod dicitur [[Gn 2]], *aedificavit dominus Deus costam quam tulerat de Adam, in mulierem*.]]
+![[LEO Ia, q. 92, a. 3#s.c.|Sed contra est quod dicitur Gen. II, *aedificavit dominus Deus costam quam tulerat de Adam, in mulierem*.]]
 ![[CERF Ia, q. 92, a. 3#s.c.]]
 
 ###### resp.

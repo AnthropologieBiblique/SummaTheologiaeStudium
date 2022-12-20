@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 109, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 109, a. 2#arg. 3|Praeterea, veritas vitae dicitur qua aliquis recte vivit, de qua dicitur [[Is 38]], memento, quaeso, *quomodo ambulaverim coram te in veritate et in corde perfecto*. Sed qualibet virtute recte vivitur, ut patet per definitionem virtutis supra positam. Ergo veritas non est specialis virtus.]]
+![[LEO IIa-IIæ, q. 109, a. 2#arg. 3|Praeterea, veritas vitae dicitur qua aliquis recte vivit, de qua dicitur Isaiae XXXVIII, memento, quaeso, *quomodo ambulaverim coram te in veritate et in corde perfecto*. Sed qualibet virtute recte vivitur, ut patet per definitionem virtutis supra positam. Ergo veritas non est specialis virtus.]]
 ![[CERF IIa-IIæ, q. 109, a. 2#arg. 3]]
 
 ###### arg. 4

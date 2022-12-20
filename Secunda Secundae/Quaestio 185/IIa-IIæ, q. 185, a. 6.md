@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 185, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod episcopo non liceat aliquid proprium possidere. Dominus enim dicit, [[Mt 19]], *si vis perfectus esse, vade et vende omnia quae habes et da pauperibus, et veni, sequere me*, ex quo videtur quod voluntaria paupertas ad perfectionem requiratur. Sed episcopi assumuntur ad statum perfectionis. Ergo videtur quod non liceat eis proprium possidere.]]
+![[LEO IIa-IIæ, q. 185, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod episcopo non liceat aliquid proprium possidere. Dominus enim dicit, Matth. XIX, *si vis perfectus esse, vade et vende omnia quae habes et da pauperibus, et veni, sequere me*, ex quo videtur quod voluntaria paupertas ad perfectionem requiratur. Sed episcopi assumuntur ad statum perfectionis. Ergo videtur quod non liceat eis proprium possidere.]]
 ![[CERF IIa-IIæ, q. 185, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 185, a. 6#arg. 2|Praeterea, episcopi in Ecclesia tenent locum apostolorum, ut dicit Glossa, [[Lc 10]]. Sed apostolis dominus praecepit ut nihil proprium possiderent, secundum illud [[Mt 10]], *nolite possidere aurum neque argentum, neque pecuniam in zonis vestris*. Unde et Petrus, pro se et pro aliis apostolis, dicit, *ecce, nos reliquimus omnia et secuti sumus te*, [[Mt 10]]. Ergo videtur quod episcopi teneantur ad huius mandati observantiam, ut nihil proprium possideant.]]
+![[LEO IIa-IIæ, q. 185, a. 6#arg. 2|Praeterea, episcopi in Ecclesia tenent locum apostolorum, ut dicit Glossa, Luc. X. Sed apostolis dominus praecepit ut nihil proprium possiderent, secundum illud Matth. X, *nolite possidere aurum neque argentum, neque pecuniam in zonis vestris*. Unde et Petrus, pro se et pro aliis apostolis, dicit, *ecce, nos reliquimus omnia et secuti sumus te*, Matth. XIX. Ergo videtur quod episcopi teneantur ad huius mandati observantiam, ut nihil proprium possideant.]]
 ![[CERF IIa-IIæ, q. 185, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -22,11 +22,11 @@ tags :
 ![[CERF IIa-IIæ, q. 185, a. 6#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 185, a. 6#resp.|Respondeo dicendum quod ad ea quae sunt supererogationis nullus tenetur, nisi se specialiter ad illud voto adstringat. Unde Augustinus dicit, in epistola ad Paulinam et Armentarium, *quia iam vovisti, iam te obstrinxisti, aliud tibi facere non licet. Priusquam esses voti reus, liberum fuit quod esses inferior*. Manifestum est autem quod vivere absque proprio supererogationis est, non enim cadit sub praecepto, sed sub consilio. Unde cum, [[Mt 19]], dixisset dominus adolescenti, *si vis ad vitam ingredi, serva mandata*, postea superaddendo subdidit, *si vis perfectus esse, vade et vende omnia quae habes et da pauperibus*. Non autem episcopi in sua ordinatione ad hoc se obligant ut absque proprio vivant, nec etiam vivere absque proprio ex necessitate requiritur ad pastorale officium, ad quod se obligant. Et ideo non tenentur episcopi ad hoc quod sine proprio vivant.]]
+![[LEO IIa-IIæ, q. 185, a. 6#resp.|Respondeo dicendum quod ad ea quae sunt supererogationis nullus tenetur, nisi se specialiter ad illud voto adstringat. Unde Augustinus dicit, in epistola ad Paulinam et Armentarium, *quia iam vovisti, iam te obstrinxisti, aliud tibi facere non licet. Priusquam esses voti reus, liberum fuit quod esses inferior*. Manifestum est autem quod vivere absque proprio supererogationis est, non enim cadit sub praecepto, sed sub consilio. Unde cum, Matth. XIX, dixisset dominus adolescenti, *si vis ad vitam ingredi, serva mandata*, postea superaddendo subdidit, *si vis perfectus esse, vade et vende omnia quae habes et da pauperibus*. Non autem episcopi in sua ordinatione ad hoc se obligant ut absque proprio vivant, nec etiam vivere absque proprio ex necessitate requiritur ad pastorale officium, ad quod se obligant. Et ideo non tenentur episcopi ad hoc quod sine proprio vivant.]]
 ![[CERF IIa-IIæ, q. 185, a. 6#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 185, a. 6#ad 1|Ad primum ergo dicendum quod, sicut supra habitum est, perfectio Christianae vitae non consistit essentialiter in voluntaria paupertate, sed voluntaria paupertas instrumentaliter operatur ad perfectionem vitae. Unde non oportet quod ubi est maior paupertas, ibi sit maior perfectio. Quinimmo potest esse summa perfectio cum magna opulentia, nam Abraham, cui dictum est, [[Gn 17]], ambula coram me et esto perfectus, legitur dives fuisse.]]
+![[LEO IIa-IIæ, q. 185, a. 6#ad 1|Ad primum ergo dicendum quod, sicut supra habitum est, perfectio Christianae vitae non consistit essentialiter in voluntaria paupertate, sed voluntaria paupertas instrumentaliter operatur ad perfectionem vitae. Unde non oportet quod ubi est maior paupertas, ibi sit maior perfectio. Quinimmo potest esse summa perfectio cum magna opulentia, nam Abraham, cui dictum est, Gen. XVII, ambula coram me et esto perfectus, legitur dives fuisse.]]
 ![[CERF IIa-IIæ, q. 185, a. 6#ad 1]]
 
 ###### ad 2

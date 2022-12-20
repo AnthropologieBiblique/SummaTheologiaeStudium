@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 81, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod, si Adam non peccasset, Eva peccante, filii originale peccatum contraherent. Peccatum enim originale a parentibus contrahimus, inquantum in eis fuimus, secundum illud apostoli, [[Rm 5]], *in quo omnes peccaverunt*. Sed sicut homo praeexistit in patre suo, ita in matre. Ergo ex peccato matris homo peccatum originale contraheret, sicut et ex peccato patris.]]
+![[LEO Ia-IIæ, q. 81, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod, si Adam non peccasset, Eva peccante, filii originale peccatum contraherent. Peccatum enim originale a parentibus contrahimus, inquantum in eis fuimus, secundum illud apostoli, Rom. V, *in quo omnes peccaverunt*. Sed sicut homo praeexistit in patre suo, ita in matre. Ergo ex peccato matris homo peccatum originale contraheret, sicut et ex peccato patris.]]
 ![[CERF Ia-IIæ, q. 81, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 81, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 81, a. 5#s.c.|Sed contra est quod apostolus dicit, [[Rm 5]], *per unum hominem peccatum in hunc mundum intravit*. Magis autem fuisset dicendum quod per duos intrasset, cum ambo peccaverint; vel potius per mulierem, quae primo peccavit; si femina peccatum originale in prolem transmitteret. Non ergo peccatum originale derivatur in filios a matre, sed a patre.]]
+![[LEO Ia-IIæ, q. 81, a. 5#s.c.|Sed contra est quod apostolus dicit, Rom. V, *per unum hominem peccatum in hunc mundum intravit*. Magis autem fuisset dicendum quod per duos intrasset, cum ambo peccaverint; vel potius per mulierem, quae primo peccavit; si femina peccatum originale in prolem transmitteret. Non ergo peccatum originale derivatur in filios a matre, sed a patre.]]
 ![[CERF Ia-IIæ, q. 81, a. 5#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia-IIæ, q. 81, a. 5#ad 2]]
 
 ###### ad 3
-![[LEO Ia-IIæ, q. 81, a. 5#ad 3|Ad tertium dicendum quod illa purgatio praeveniens in beata virgine, non requirebatur ad auferendum transfusionem originalis peccati, sed quia oportebat ut mater Dei maxima puritate niteret. Non enim est aliquid digne receptaculum Dei, nisi sit mundum; secundum illud [[Ps 92]], *domum tuam, domine, decet sanctitudo*.]]
+![[LEO Ia-IIæ, q. 81, a. 5#ad 3|Ad tertium dicendum quod illa purgatio praeveniens in beata virgine, non requirebatur ad auferendum transfusionem originalis peccati, sed quia oportebat ut mater Dei maxima puritate niteret. Non enim est aliquid digne receptaculum Dei, nisi sit mundum; secundum illud Psalmi XCII, *domum tuam, domine, decet sanctitudo*.]]
 ![[CERF Ia-IIæ, q. 81, a. 5#ad 3]]
 

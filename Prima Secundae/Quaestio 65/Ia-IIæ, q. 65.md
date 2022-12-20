@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 65#Prooemium|Deinde considerandum est de connexione virtutum. Et circa hoc quaeruntur quinque. Primo, utrum virtutes morales sint ad invicem connexae. Secundo, utrum virtutes morales possint esse sine caritate. Tertio, utrum caritas possit esse sine eis. Quarto, utrum fides et spes possint esse sine caritate. Quinto, utrum caritas possit esse sine eis.]]
-![[CERF Ia-IIæ, q. 65#Prooemium]]
+Deinde considerandum est de connexione virtutum. Et circa hoc quaeruntur quinque. Primo, utrum virtutes morales sint ad invicem connexae. Secundo, utrum virtutes morales possint esse sine caritate. Tertio, utrum caritas possit esse sine eis. Quarto, utrum fides et spes possint esse sine caritate. Quinto, utrum caritas possit esse sine eis.
 
 ![[Ia-IIæ, q. 65, a. 1#Articulus 1]]
 

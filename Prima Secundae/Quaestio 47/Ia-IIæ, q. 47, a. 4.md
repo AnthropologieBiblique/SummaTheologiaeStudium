@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 47, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 47, a. 4#arg. 3|Praeterea, nullus aestimat aliquem parvum ex hoc quod est sibi amicus. Sed ad amicos, si nos offenderint, vel si non iuverint, magis offendimur, unde dicitur in [[Ps 54]], *si inimicus meus maledixisset mihi, sustinuissem utique*. Ergo defectus alicuius non est causa ut contra ipsum facilius irascamur.]]
+![[LEO Ia-IIæ, q. 47, a. 4#arg. 3|Praeterea, nullus aestimat aliquem parvum ex hoc quod est sibi amicus. Sed ad amicos, si nos offenderint, vel si non iuverint, magis offendimur, unde dicitur in Psalmo LIV, *si inimicus meus maledixisset mihi, sustinuissem utique*. Ergo defectus alicuius non est causa ut contra ipsum facilius irascamur.]]
 ![[CERF Ia-IIæ, q. 47, a. 4#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 47, a. 4#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 47, a. 4#resp.|Respondeo dicendum quod, sicut supra dictum est, indigna despectio est maxime provocativa irae. Defectus igitur vel parvitas eius contra quem irascimur, facit ad augmentum irae, inquantum auget indignam despectionem. Sicut enim quanto aliquis est maior, tanto indignius despicitur; ita quanto aliquis est minor, tanto indignius despicit. Et ideo nobiles irascuntur si despiciantur a rusticis, vel sapientes ab insipientibus, vel domini a servis. Si vero parvitas vel defectus diminuat despectionem indignam, talis parvitas non auget, sed diminuit iram. Et hoc modo illi qui poenitent de iniuriis factis, et confitentur se male fecisse, et humiliantur et veniam petunt, mitigant iram, secundum illud [[Pr 15]], *responsio mollis frangit iram*, inquantum scilicet tales videntur non despicere, sed magis magnipendere eos quibus se humiliant.]]
+![[LEO Ia-IIæ, q. 47, a. 4#resp.|Respondeo dicendum quod, sicut supra dictum est, indigna despectio est maxime provocativa irae. Defectus igitur vel parvitas eius contra quem irascimur, facit ad augmentum irae, inquantum auget indignam despectionem. Sicut enim quanto aliquis est maior, tanto indignius despicitur; ita quanto aliquis est minor, tanto indignius despicit. Et ideo nobiles irascuntur si despiciantur a rusticis, vel sapientes ab insipientibus, vel domini a servis. Si vero parvitas vel defectus diminuat despectionem indignam, talis parvitas non auget, sed diminuit iram. Et hoc modo illi qui poenitent de iniuriis factis, et confitentur se male fecisse, et humiliantur et veniam petunt, mitigant iram, secundum illud Prov. XV, *responsio mollis frangit iram*, inquantum scilicet tales videntur non despicere, sed magis magnipendere eos quibus se humiliant.]]
 ![[CERF Ia-IIæ, q. 47, a. 4#resp.]]
 
 ###### ad 1

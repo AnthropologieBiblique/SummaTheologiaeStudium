@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 167, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 167, a. 2#arg. 3|Praeterea, ad curiositatem pertinere videtur actus proximorum perquirere, ut dicit Beda. Sed perquirere facta aliorum non videtur esse vitiosum, quia sicut dicitur [[Si 17]], *unicuique mandavit Deus de proximo suo*. Ergo vitium curiositatis non est in huiusmodi particularibus sensibilibus cognoscendis.]]
+![[LEO IIa-IIæ, q. 167, a. 2#arg. 3|Praeterea, ad curiositatem pertinere videtur actus proximorum perquirere, ut dicit Beda. Sed perquirere facta aliorum non videtur esse vitiosum, quia sicut dicitur Eccli. XVII, *unicuique mandavit Deus de proximo suo*. Ergo vitium curiositatis non est in huiusmodi particularibus sensibilibus cognoscendis.]]
 ![[CERF IIa-IIæ, q. 167, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 167, a. 2#s.c.|Sed contra est quod Augustinus dicit, in libro de vera Relig., quod *concupiscentia oculorum reddit homines curiosos*. Ut autem dicit Beda, concupiscentia oculorum est non solum in discendis magicis artibus, sed etiam in contemplandis spectaculis, et in dignoscendis et carpendis vitiis proximorum, quae sunt quaedam particularia sensibilia. Cum ergo concupiscentia oculorum sit quoddam vitium, sicut etiam superbia vitae et concupiscentia carnis, contra quae dividitur, [[1 Jn 2]]; videtur quod vitium curiositatis sit circa sensibilium cognitionem.]]
+![[LEO IIa-IIæ, q. 167, a. 2#s.c.|Sed contra est quod Augustinus dicit, in libro de vera Relig., quod *concupiscentia oculorum reddit homines curiosos*. Ut autem dicit Beda, concupiscentia oculorum est non solum in discendis magicis artibus, sed etiam in contemplandis spectaculis, et in dignoscendis et carpendis vitiis proximorum, quae sunt quaedam particularia sensibilia. Cum ergo concupiscentia oculorum sit quoddam vitium, sicut etiam superbia vitae et concupiscentia carnis, contra quae dividitur, I Ioan. II; videtur quod vitium curiositatis sit circa sensibilium cognitionem.]]
 ![[CERF IIa-IIæ, q. 167, a. 2#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 167, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 167, a. 2#ad 3|Ad tertium dicendum quod prospicere facta aliorum bono animo, vel ad utilitatem propriam, ut scilicet homo ex bonis operibus proximi provocetur ad melius, vel etiam ad utilitatem illius, ut scilicet corrigatur si quid ab eo agitur vitiose, secundum regulam caritatis et debitum officii, est laudabile, secundum illud [[He 10]], *considerate vos invicem in provocationem caritatis et bonorum operum*. Sed quod aliquis intendit ad consideranda vitia proximorum ad despiciendum vel detrahendum, vel saltem inutiliter inquietandum, est vitiosum. Unde dicitur [[Pr 24]], *ne insidieris et quaeras iniquitatem in domo iusti, neque vastes requiem eius*.]]
+![[LEO IIa-IIæ, q. 167, a. 2#ad 3|Ad tertium dicendum quod prospicere facta aliorum bono animo, vel ad utilitatem propriam, ut scilicet homo ex bonis operibus proximi provocetur ad melius, vel etiam ad utilitatem illius, ut scilicet corrigatur si quid ab eo agitur vitiose, secundum regulam caritatis et debitum officii, est laudabile, secundum illud Heb. X, *considerate vos invicem in provocationem caritatis et bonorum operum*. Sed quod aliquis intendit ad consideranda vitia proximorum ad despiciendum vel detrahendum, vel saltem inutiliter inquietandum, est vitiosum. Unde dicitur Prov. XXIV, *ne insidieris et quaeras iniquitatem in domo iusti, neque vastes requiem eius*.]]
 ![[CERF IIa-IIæ, q. 167, a. 2#ad 3]]
 

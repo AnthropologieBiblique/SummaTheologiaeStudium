@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 5, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 5, a. 6#s.c.|Sed contra est quod dicitur in [[Ps 83]], *gratiam et gloriam dabit dominus*.]]
+![[LEO Ia-IIæ, q. 5, a. 6#s.c.|Sed contra est quod dicitur in Psalmo LXXXIII, *gratiam et gloriam dabit dominus*.]]
 ![[CERF Ia-IIæ, q. 5, a. 6#s.c.]]
 
 ###### resp.

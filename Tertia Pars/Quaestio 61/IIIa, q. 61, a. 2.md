@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 61, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 61, a. 2#arg. 3|Praeterea, matrimonium est quoddam sacramentum, secundum illud [[Ep 5]], *sacramentum hoc magnum est, ego autem dico in Christo et Ecclesia*. Sed matrimonium fuit institutum ante peccatum, ut dicitur [[Gn 2]]. Ergo sacramenta erant necessaria homini ante peccatum.]]
+![[LEO IIIa, q. 61, a. 2#arg. 3|Praeterea, matrimonium est quoddam sacramentum, secundum illud Ephes. V, *sacramentum hoc magnum est, ego autem dico in Christo et Ecclesia*. Sed matrimonium fuit institutum ante peccatum, ut dicitur Gen. II. Ergo sacramenta erant necessaria homini ante peccatum.]]
 ![[CERF IIIa, q. 61, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 61, a. 2#s.c.|Sed contra est quod medicina non est necessaria nisi aegroto, secundum illud [[Mt 9]], *non est opus sanis medicus*. Sed sacramenta sunt quaedam spirituales medicinae, quae adhibentur contra vulnera peccati. Ergo non fuerunt necessaria ante peccatum.]]
+![[LEO IIIa, q. 61, a. 2#s.c.|Sed contra est quod medicina non est necessaria nisi aegroto, secundum illud Matth. IX, *non est opus sanis medicus*. Sed sacramenta sunt quaedam spirituales medicinae, quae adhibentur contra vulnera peccati. Ergo non fuerunt necessaria ante peccatum.]]
 ![[CERF IIIa, q. 61, a. 2#s.c.]]
 
 ###### resp.

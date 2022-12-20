@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 32, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Christus non debeat dici conceptus de spiritu sancto. Quia super illud [[Rm 11]], *ex ipso et per ipsum et in ipso sunt omnia*, dicit Glossa Augustini, *attendendum quod non ait de ipso, sed ex ipso. Ex ipso enim caelum sunt et terra, quia fecit ea. Non autem de ipso, quia non de substantia sua*. Sed spiritus sanctus non formavit corpus Christi de substantia sua. Ergo Christus non debet dici conceptus de spiritu sancto.]]
+![[LEO IIIa, q. 32, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Christus non debeat dici conceptus de spiritu sancto. Quia super illud Rom. XI, *ex ipso et per ipsum et in ipso sunt omnia*, dicit Glossa Augustini, *attendendum quod non ait de ipso, sed ex ipso. Ex ipso enim caelum sunt et terra, quia fecit ea. Non autem de ipso, quia non de substantia sua*. Sed spiritus sanctus non formavit corpus Christi de substantia sua. Ergo Christus non debet dici conceptus de spiritu sancto.]]
 ![[CERF IIIa, q. 32, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 32, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 32, a. 2#s.c.|Sed contra est quod dicitur [[Mt 1]], *antequam convenirent, inventa est in utero habens de spiritu sancto*.]]
+![[LEO IIIa, q. 32, a. 2#s.c.|Sed contra est quod dicitur Matth. I, *antequam convenirent, inventa est in utero habens de spiritu sancto*.]]
 ![[CERF IIIa, q. 32, a. 2#s.c.]]
 
 ###### resp.

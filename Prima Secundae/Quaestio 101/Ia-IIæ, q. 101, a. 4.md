@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 101, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod caeremoniae veteris legis inconvenienter dividantur in sacrificia, sacra, sacramenta et observantias. Caeremoniae enim veteris legis figurabant Christum. Sed hoc solum fiebat per sacrificia, per quae figurabatur sacrificium quo Christus se obtulit oblationem et hostiam Deo, ut dicitur ad [[Ep 5]]. Ergo sola sacrificia erant caeremonialia.]]
+![[LEO Ia-IIæ, q. 101, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod caeremoniae veteris legis inconvenienter dividantur in sacrificia, sacra, sacramenta et observantias. Caeremoniae enim veteris legis figurabant Christum. Sed hoc solum fiebat per sacrificia, per quae figurabatur sacrificium quo Christus se obtulit oblationem et hostiam Deo, ut dicitur ad Ephes. V. Ergo sola sacrificia erant caeremonialia.]]
 ![[CERF Ia-IIæ, q. 101, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,15 +18,15 @@ tags :
 ![[CERF Ia-IIæ, q. 101, a. 4#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia-IIæ, q. 101, a. 4#arg. 4|Praeterea, observantiae ab observando dicuntur. Sed omnia praecepta legis observari debebant, dicitur enim [[Dt 8]], *observa et cave ne quando obliviscaris domini Dei tui, et negligas mandata eius atque iudicia et caeremonias*. Non ergo observantiae debent poni una pars caeremonialium.]]
+![[LEO Ia-IIæ, q. 101, a. 4#arg. 4|Praeterea, observantiae ab observando dicuntur. Sed omnia praecepta legis observari debebant, dicitur enim Deut. VIII, *observa et cave ne quando obliviscaris domini Dei tui, et negligas mandata eius atque iudicia et caeremonias*. Non ergo observantiae debent poni una pars caeremonialium.]]
 ![[CERF Ia-IIæ, q. 101, a. 4#arg. 4]]
 
 ###### arg. 5
-![[LEO Ia-IIæ, q. 101, a. 4#arg. 5|Praeterea, solemnitates inter caeremonialia computantur, cum sint in umbram futuri, ut patet ad Colos. II. Similiter etiam oblationes et munera; ut patet per apostolum, ad [[He 9]]. Quae tamen sub nullo horum contineri videntur. Ergo inconveniens est praedicta distinctio caeremonialium.]]
+![[LEO Ia-IIæ, q. 101, a. 4#arg. 5|Praeterea, solemnitates inter caeremonialia computantur, cum sint in umbram futuri, ut patet ad Colos. II. Similiter etiam oblationes et munera; ut patet per apostolum, ad Heb. IX. Quae tamen sub nullo horum contineri videntur. Ergo inconveniens est praedicta distinctio caeremonialium.]]
 ![[CERF Ia-IIæ, q. 101, a. 4#arg. 5]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 101, a. 4#s.c.|Sed contra est quod in veteri lege singula praedicta caeremoniae vocantur. Sacrificia enim dicuntur caeremoniae [[Nb 15]], *offerat vitulum et sacrificia eius ac libamenta, ut caeremoniae eius postulant*. De sacramento etiam ordinis dicitur [[Lv 7]], *haec est unctio Aaron et filiorum eius in caeremoniis*. De sacris etiam dicitur [[Ex 38]], haec sunt *instrumenta tabernaculi testimonii in caeremoniis Levitarum*. De observantiis etiam dicitur [[1R 9]], *si aversi fueritis, non sequentes me, nec observantes caeremonias quas proposui vobis*.]]
+![[LEO Ia-IIæ, q. 101, a. 4#s.c.|Sed contra est quod in veteri lege singula praedicta caeremoniae vocantur. Sacrificia enim dicuntur caeremoniae Num. XV, *offerat vitulum et sacrificia eius ac libamenta, ut caeremoniae eius postulant*. De sacramento etiam ordinis dicitur Levit. VII, *haec est unctio Aaron et filiorum eius in caeremoniis*. De sacris etiam dicitur Exod. XXXVIII, haec sunt *instrumenta tabernaculi testimonii in caeremoniis Levitarum*. De observantiis etiam dicitur III Reg. IX, *si aversi fueritis, non sequentes me, nec observantes caeremonias quas proposui vobis*.]]
 ![[CERF Ia-IIæ, q. 101, a. 4#s.c.]]
 
 ###### resp.
@@ -50,6 +50,6 @@ tags :
 ![[CERF Ia-IIæ, q. 101, a. 4#ad 4]]
 
 ###### ad 5
-![[LEO Ia-IIæ, q. 101, a. 4#ad 5|Ad quintum dicendum quod, sicut sacrificia offerebantur in determinato loco ita etiam offerebantur in determinatis temporibus, unde etiam solemnitates inter sacra computari videntur. Oblationes autem et munera computantur cum sacrificiis, quia Deo offerebantur, unde apostolus dicit, ad [[He 5]], *omnis pontifex ex hominibus assumptus, pro hominibus constituitur in his quae sunt ad Deum, ut offerat dona et sacrificia*.]]
+![[LEO Ia-IIæ, q. 101, a. 4#ad 5|Ad quintum dicendum quod, sicut sacrificia offerebantur in determinato loco ita etiam offerebantur in determinatis temporibus, unde etiam solemnitates inter sacra computari videntur. Oblationes autem et munera computantur cum sacrificiis, quia Deo offerebantur, unde apostolus dicit, ad Heb. V, *omnis pontifex ex hominibus assumptus, pro hominibus constituitur in his quae sunt ad Deum, ut offerat dona et sacrificia*.]]
 ![[CERF Ia-IIæ, q. 101, a. 4#ad 5]]
 

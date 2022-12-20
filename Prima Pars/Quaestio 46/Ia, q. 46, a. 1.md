@@ -46,7 +46,7 @@ tags :
 ![[CERF Ia, q. 46, a. 1#arg. 10]]
 
 ###### s.c.
-![[LEO Ia, q. 46, a. 1#s.c.|Sed contra est quod dicitur [[Jn 17]], *clarifica me, pater, apud temetipsum, claritate quam habui priusquam mundus fieret*; et Proverb. VIII, *dominus possedit me in initio viarum suarum, antequam quidquam faceret a principio*.]]
+![[LEO Ia, q. 46, a. 1#s.c.|Sed contra est quod dicitur Ioan. XVII, *clarifica me, pater, apud temetipsum, claritate quam habui priusquam mundus fieret*; et Proverb. VIII, *dominus possedit me in initio viarum suarum, antequam quidquam faceret a principio*.]]
 ![[CERF Ia, q. 46, a. 1#s.c.]]
 
 ###### resp.

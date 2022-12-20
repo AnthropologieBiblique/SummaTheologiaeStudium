@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 88, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 88, a. 5#s.c.|Sed contra est quod dicitur [[Is 19]], *colent eum in hostiis et muneribus, et vota vovebunt domino et solvent*. Sed colere Deum est proprie religionis sive latriae. Ergo votum est actus latriae sive religionis.]]
+![[LEO IIa-IIæ, q. 88, a. 5#s.c.|Sed contra est quod dicitur Isaiae XIX, *colent eum in hostiis et muneribus, et vota vovebunt domino et solvent*. Sed colere Deum est proprie religionis sive latriae. Ergo votum est actus latriae sive religionis.]]
 ![[CERF IIa-IIæ, q. 88, a. 5#s.c.]]
 
 ###### resp.

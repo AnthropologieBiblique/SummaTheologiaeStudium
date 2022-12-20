@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIIa, q. 28#Prooemium|Deinde considerandum est de virginitate matris Dei. Et circa hoc quaeruntur quatuor. Primo, utrum fuerit virgo in concipiendo. Secundo, utrum fuerit virgo in partu. Tertio, utrum permanserit virgo post partum. Quarto, utrum votum virginitatis emiserit.]]
-![[CERF IIIa, q. 28#Prooemium]]
+Deinde considerandum est de virginitate matris Dei. Et circa hoc quaeruntur quatuor. Primo, utrum fuerit virgo in concipiendo. Secundo, utrum fuerit virgo in partu. Tertio, utrum permanserit virgo post partum. Quarto, utrum votum virginitatis emiserit.
 
 ![[IIIa, q. 28, a. 1#Articulus 1]]
 

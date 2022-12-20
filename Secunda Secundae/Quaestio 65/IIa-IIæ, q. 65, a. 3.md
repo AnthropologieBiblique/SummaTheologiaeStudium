@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 65, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 65, a. 3#arg. 2|Praeterea, humana iustitia regulari debet ex divina. Sed sicut dicitur [[Si 15]], *Deus reliquit hominem in manu consilii sui*. Ergo videtur quod non est aliquis coercendus vinculis vel carcere.]]
+![[LEO IIa-IIæ, q. 65, a. 3#arg. 2|Praeterea, humana iustitia regulari debet ex divina. Sed sicut dicitur Eccli. XV, *Deus reliquit hominem in manu consilii sui*. Ergo videtur quod non est aliquis coercendus vinculis vel carcere.]]
 ![[CERF IIa-IIæ, q. 65, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 65, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 65, a. 3#s.c.|Sed contra est quod [[Lv 24]] legitur quendam missum fuisse in carcerem propter peccatum blasphemiae.]]
+![[LEO IIa-IIæ, q. 65, a. 3#s.c.|Sed contra est quod Levit. XXIV legitur quendam missum fuisse in carcerem propter peccatum blasphemiae.]]
 ![[CERF IIa-IIæ, q. 65, a. 3#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 65, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 65, a. 3#ad 2|Ad secundum dicendum quod Deus quandoque, secundum ordinem suae sapientiae, peccatores cohibet ne possint peccata implere, secundum illud [[Jb 5]], *qui dissipat cogitationes malignorum, ne possint implere manus eorum quod coeperant*. Quandoque vero eos permittit quod volunt agere. Et similiter secundum humanam iustitiam non pro qualibet culpa homines incarcerantur, sed pro aliquibus.]]
+![[LEO IIa-IIæ, q. 65, a. 3#ad 2|Ad secundum dicendum quod Deus quandoque, secundum ordinem suae sapientiae, peccatores cohibet ne possint peccata implere, secundum illud Iob V, *qui dissipat cogitationes malignorum, ne possint implere manus eorum quod coeperant*. Quandoque vero eos permittit quod volunt agere. Et similiter secundum humanam iustitiam non pro qualibet culpa homines incarcerantur, sed pro aliquibus.]]
 ![[CERF IIa-IIæ, q. 65, a. 3#ad 2]]
 
 ###### ad 3

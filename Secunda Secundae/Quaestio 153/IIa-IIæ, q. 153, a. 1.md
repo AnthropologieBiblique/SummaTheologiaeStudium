@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 153, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 153, a. 1#arg. 2|Praeterea, [[Pr 20]] dicitur, *luxuriosa res est vinum*. Sed vinum pertinet ad delectationem cibi et potus. Ergo circa has maxime videtur esse luxuria.]]
+![[LEO IIa-IIæ, q. 153, a. 1#arg. 2|Praeterea, Prov. XX dicitur, *luxuriosa res est vinum*. Sed vinum pertinet ad delectationem cibi et potus. Ergo circa has maxime videtur esse luxuria.]]
 ![[CERF IIa-IIæ, q. 153, a. 1#arg. 2]]
 
 ###### arg. 3

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 58, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 58, a. 7#s.c.|Sed contra est quod Chrysostomus dicit, super illud [[Mt 5]], *beati qui esuriunt et sitiunt iustitiam, iustitiam autem dicit vel universalem virtutem, vel particularem avaritiae contrariam*.]]
+![[LEO IIa-IIæ, q. 58, a. 7#s.c.|Sed contra est quod Chrysostomus dicit, super illud Matth. V, *beati qui esuriunt et sitiunt iustitiam, iustitiam autem dicit vel universalem virtutem, vel particularem avaritiae contrariam*.]]
 ![[CERF IIa-IIæ, q. 58, a. 7#s.c.]]
 
 ###### resp.

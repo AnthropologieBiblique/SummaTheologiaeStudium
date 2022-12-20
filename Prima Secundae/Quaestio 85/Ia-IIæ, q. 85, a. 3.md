@@ -38,7 +38,7 @@ tags :
 ![[CERF Ia-IIæ, q. 85, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 85, a. 3#ad 2|Ad secundum dicendum quod malitia non sumitur hic pro peccato, sed pro quadam pronitate voluntatis ad malum; secundum quod dicitur [[Gn 8]], *proni sunt sensus hominis ad malum ab adolescentia sua*.]]
+![[LEO Ia-IIæ, q. 85, a. 3#ad 2|Ad secundum dicendum quod malitia non sumitur hic pro peccato, sed pro quadam pronitate voluntatis ad malum; secundum quod dicitur Gen. VIII, *proni sunt sensus hominis ad malum ab adolescentia sua*.]]
 ![[CERF Ia-IIæ, q. 85, a. 3#ad 2]]
 
 ###### ad 3

@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 112, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 112, a. 3#arg. 3|Praeterea, quilibet Angelus beatus propinquior est Deo quam Satan. Sed Satan assistit Deo; secundum quod dicitur [[Jb 1]], *cum assisterent filii Dei coram domino, affuit inter eos et Satan*. Ergo multo magis Angeli qui mittuntur in ministerium, assistunt.]]
+![[LEO Ia, q. 112, a. 3#arg. 3|Praeterea, quilibet Angelus beatus propinquior est Deo quam Satan. Sed Satan assistit Deo; secundum quod dicitur Iob I, *cum assisterent filii Dei coram domino, affuit inter eos et Satan*. Ergo multo magis Angeli qui mittuntur in ministerium, assistunt.]]
 ![[CERF Ia, q. 112, a. 3#arg. 3]]
 
 ###### arg. 4

@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 100, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod praecepta moralia legis non sint de omnibus actibus virtutum. Observatio enim praeceptorum veteris legis iustificatio nominatur, secundum illud [[Ps 118]], *iustificationes tuas custodiam*. Sed iustificatio est executio iustitiae. Ergo praecepta moralia non sunt nisi de actibus iustitiae.]]
+![[LEO Ia-IIæ, q. 100, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod praecepta moralia legis non sint de omnibus actibus virtutum. Observatio enim praeceptorum veteris legis iustificatio nominatur, secundum illud Psalmi CXVIII, *iustificationes tuas custodiam*. Sed iustificatio est executio iustitiae. Ergo praecepta moralia non sunt nisi de actibus iustitiae.]]
 ![[CERF Ia-IIæ, q. 100, a. 2#arg. 1]]
 
 ###### arg. 2

@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 153#Prooemium|Deinde considerandum est de vitio luxuriae, quod opponitur castitati. Et primo, de ipsa in generali; secundo, de speciebus eius. Circa primum quaeruntur quinque. Primo, quid sit materia luxuriae. Secundo, utrum omnis concubitus sit illicitus. Tertio, utrum luxuria sit peccatum mortale. Quarto, utrum luxuria sit vitium capitale. Quinto, de filiabus eius.]]
-![[CERF IIa-IIæ, q. 153#Prooemium]]
+Deinde considerandum est de vitio luxuriae, quod opponitur castitati. Et primo, de ipsa in generali; secundo, de speciebus eius. Circa primum quaeruntur quinque. Primo, quid sit materia luxuriae. Secundo, utrum omnis concubitus sit illicitus. Tertio, utrum luxuria sit peccatum mortale. Quarto, utrum luxuria sit vitium capitale. Quinto, de filiabus eius.
 
 ![[IIa-IIæ, q. 153, a. 1#Articulus 1]]
 

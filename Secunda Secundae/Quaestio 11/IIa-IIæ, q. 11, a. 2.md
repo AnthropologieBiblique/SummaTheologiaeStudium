@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 11, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 11, a. 2#s.c.|Sed contra est quod Augustinus dicit, contra Manichaeos, *qui in Ecclesia Christi morbidum aliquid pravumque quid sapiunt, si correcti ut sanum rectumque sapiant, resistant contumaciter, suaque pestifera et mortifera dogmata emendare nolunt, sed defendere persistunt, haeretici sunt*. Sed pestifera et mortifera dogmata non sunt nisi illa quae opponuntur dogmatibus fidei, per quam iustus vivit, ut dicitur [[Rm 1]]. Ergo haeresis est circa ea quae sunt fidei sicut circa propriam materiam.]]
+![[LEO IIa-IIæ, q. 11, a. 2#s.c.|Sed contra est quod Augustinus dicit, contra Manichaeos, *qui in Ecclesia Christi morbidum aliquid pravumque quid sapiunt, si correcti ut sanum rectumque sapiant, resistant contumaciter, suaque pestifera et mortifera dogmata emendare nolunt, sed defendere persistunt, haeretici sunt*. Sed pestifera et mortifera dogmata non sunt nisi illa quae opponuntur dogmatibus fidei, per quam iustus vivit, ut dicitur Rom. I. Ergo haeresis est circa ea quae sunt fidei sicut circa propriam materiam.]]
 ![[CERF IIa-IIæ, q. 11, a. 2#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 11, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 11, a. 2#ad 2|Ad secundum dicendum quod ille dicitur aliter exponere sacram Scripturam quam spiritus sanctus efflagitat qui ad hoc expositionem sacrae Scripturae intorquet quod contrariatur ei quod est per spiritum sanctum revelatum. Unde dicitur [[Ez 13]] de falsis prophetis quod perseveraverunt confirmare sermonem, scilicet per falsas expositiones Scripturae. Similiter etiam per verba quae quis loquitur suam fidem profitetur, est enim confessio actus fidei, ut supra dictum est. Et ideo si sit inordinata locutio circa ea quae sunt fidei, sequi potest ex hoc corruptio fidei. Unde Leo Papa in quadam epistola ad Proterium episcopum Alexandrinum, dicit, *quia inimici Christi crucis omnibus et verbis nostris insidiantur et syllabis, nullam illis vel tenuem occasionem demus qua nos Nestoriano sensui congruere mentiantur*.]]
+![[LEO IIa-IIæ, q. 11, a. 2#ad 2|Ad secundum dicendum quod ille dicitur aliter exponere sacram Scripturam quam spiritus sanctus efflagitat qui ad hoc expositionem sacrae Scripturae intorquet quod contrariatur ei quod est per spiritum sanctum revelatum. Unde dicitur Ezech. XIII de falsis prophetis quod perseveraverunt confirmare sermonem, scilicet per falsas expositiones Scripturae. Similiter etiam per verba quae quis loquitur suam fidem profitetur, est enim confessio actus fidei, ut supra dictum est. Et ideo si sit inordinata locutio circa ea quae sunt fidei, sequi potest ex hoc corruptio fidei. Unde Leo Papa in quadam epistola ad Proterium episcopum Alexandrinum, dicit, *quia inimici Christi crucis omnibus et verbis nostris insidiantur et syllabis, nullam illis vel tenuem occasionem demus qua nos Nestoriano sensui congruere mentiantur*.]]
 ![[CERF IIa-IIæ, q. 11, a. 2#ad 2]]
 
 ###### ad 3

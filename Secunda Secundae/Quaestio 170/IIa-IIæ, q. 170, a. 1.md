@@ -22,11 +22,11 @@ tags :
 ![[CERF IIa-IIæ, q. 170, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 170, a. 1#resp.|Respondeo dicendum quod, sicut apostolus dicit, [[1 Tm 1]], finis praecepti caritas est, ad quam duobus praeceptis inducimur pertinentibus ad dilectionem Dei et proximi. Et ideo illa praecepta in Decalogo ponuntur quae directius ordinantur ad dilectionem Dei et proximi. Inter vitia autem temperantiae opposita, maxime dilectioni proximi videtur opponi adulterium, per quod aliquis usurpat sibi rem alienam, abutendo scilicet uxore proximi. Et ideo inter praecepta Decalogi praecipue prohibetur adulterium, non solum secundum quod opere exercetur, sed etiam secundum quod corde concupiscitur.]]
+![[LEO IIa-IIæ, q. 170, a. 1#resp.|Respondeo dicendum quod, sicut apostolus dicit, I ad Tim. I, finis praecepti caritas est, ad quam duobus praeceptis inducimur pertinentibus ad dilectionem Dei et proximi. Et ideo illa praecepta in Decalogo ponuntur quae directius ordinantur ad dilectionem Dei et proximi. Inter vitia autem temperantiae opposita, maxime dilectioni proximi videtur opponi adulterium, per quod aliquis usurpat sibi rem alienam, abutendo scilicet uxore proximi. Et ideo inter praecepta Decalogi praecipue prohibetur adulterium, non solum secundum quod opere exercetur, sed etiam secundum quod corde concupiscitur.]]
 ![[CERF IIa-IIæ, q. 170, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 170, a. 1#ad 1|Ad primum ergo dicendum quod inter species vitiorum quae opponuntur fortitudini, nulla est quae ita directe contrarietur dilectioni proximi sicut adulterium, quod est species luxuriae, quae temperantiae contrariatur. Et tamen vitium audaciae, quod opponitur fortitudini, quandoque solet esse causa homicidii, quod inter praecepta Decalogi prohibetur, dicitur enim [[Si 8]], *cum audace non eas in via, ne forte gravet mala sua in te*.]]
+![[LEO IIa-IIæ, q. 170, a. 1#ad 1|Ad primum ergo dicendum quod inter species vitiorum quae opponuntur fortitudini, nulla est quae ita directe contrarietur dilectioni proximi sicut adulterium, quod est species luxuriae, quae temperantiae contrariatur. Et tamen vitium audaciae, quod opponitur fortitudini, quandoque solet esse causa homicidii, quod inter praecepta Decalogi prohibetur, dicitur enim Eccli. VIII, *cum audace non eas in via, ne forte gravet mala sua in te*.]]
 ![[CERF IIa-IIæ, q. 170, a. 1#ad 1]]
 
 ###### ad 2

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 34, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 34, a. 4#s.c.|Sed contra est quod Augustinus dicit, super illud [[Ps 7]], *scrutans corda et renes Deus, finis curae et cogitationis est delectatio ad quam quis nititur pervenire*. Et philosophus dicit, in VII Ethic., quod *delectatio est finis architecton*, idest principalis, *ad quem respicientes, unumquodque hoc quidem malum, hoc autem bonum simpliciter dicimus*.]]
+![[LEO Ia-IIæ, q. 34, a. 4#s.c.|Sed contra est quod Augustinus dicit, super illud Psalmi VII, *scrutans corda et renes Deus, finis curae et cogitationis est delectatio ad quam quis nititur pervenire*. Et philosophus dicit, in VII Ethic., quod *delectatio est finis architecton*, idest principalis, *ad quem respicientes, unumquodque hoc quidem malum, hoc autem bonum simpliciter dicimus*.]]
 ![[CERF Ia-IIæ, q. 34, a. 4#s.c.]]
 
 ###### resp.

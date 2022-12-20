@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIIa, q. 24#Prooemium|Deinde considerandum est de praedestinatione Christi. Et circa hoc quaeruntur quatuor. Primo, utrum sit praedestinatus. Secundo, utrum sit praedestinatus secundum quod homo. Tertio, utrum eius praedestinatio sit exemplar praedestinationis nostrae. Quarto, utrum sit causa praedestinationis nostrae.]]
-![[CERF IIIa, q. 24#Prooemium]]
+Deinde considerandum est de praedestinatione Christi. Et circa hoc quaeruntur quatuor. Primo, utrum sit praedestinatus. Secundo, utrum sit praedestinatus secundum quod homo. Tertio, utrum eius praedestinatio sit exemplar praedestinationis nostrae. Quarto, utrum sit causa praedestinationis nostrae.
 
 ![[IIIa, q. 24, a. 1#Articulus 1]]
 

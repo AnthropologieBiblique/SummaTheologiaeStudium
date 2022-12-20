@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 62, a. 9#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 62, a. 9#arg. 2|Praeterea, Augustinus dicit, in libro de Doctr. Christ., quod *Deus utitur nobis ad nostram utilitatem, et ad suam bonitatem*. Et similiter Angelis, quibus utitur in ministeriis spiritualibus; *cum sint administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*, ut dicitur [[He 1]]. Non autem hoc esset ad eorum utilitatem, si per hoc non mererentur nec in beatitudine proficerent. Relinquitur ergo quod Angeli beati et mereri, et in beatitudine proficere possunt.]]
+![[LEO Ia, q. 62, a. 9#arg. 2|Praeterea, Augustinus dicit, in libro de Doctr. Christ., quod *Deus utitur nobis ad nostram utilitatem, et ad suam bonitatem*. Et similiter Angelis, quibus utitur in ministeriis spiritualibus; *cum sint administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*, ut dicitur Heb. I. Non autem hoc esset ad eorum utilitatem, si per hoc non mererentur nec in beatitudine proficerent. Relinquitur ergo quod Angeli beati et mereri, et in beatitudine proficere possunt.]]
 ![[CERF Ia, q. 62, a. 9#arg. 2]]
 
 ###### arg. 3
@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia, q. 62, a. 9#ad 2]]
 
 ###### ad 3
-![[LEO Ia, q. 62, a. 9#ad 3|Ad tertium dicendum quod, licet Angelus beatus non sit in summo gradu beatitudinis simpliciter, est tamen in ultimo quantum ad seipsum, secundum praedestinationem divinam. Potest tamen augeri Angelorum gaudium de salute eorum qui per ipsorum ministerium salvantur; secundum illud [[Lc 15]], *gaudium est Angelis Dei super uno peccatore poenitentiam agente*. Sed hoc gaudium ad praemium accidentale pertinet, quod quidem augeri potest usque ad diem iudicii. Unde quidam dicunt quod, quantum ad praemium accidentale, etiam mereri possunt. Sed melius est ut dicatur quod nullo modo aliquis beatus mereri potest, nisi sit simul viator et comprehensor, ut Christus, qui solus fuit viator et comprehensor. Praedictum enim gaudium magis acquirunt ex virtute beatitudinis, quam illud mereantur.]]
+![[LEO Ia, q. 62, a. 9#ad 3|Ad tertium dicendum quod, licet Angelus beatus non sit in summo gradu beatitudinis simpliciter, est tamen in ultimo quantum ad seipsum, secundum praedestinationem divinam. Potest tamen augeri Angelorum gaudium de salute eorum qui per ipsorum ministerium salvantur; secundum illud Luc. XV, *gaudium est Angelis Dei super uno peccatore poenitentiam agente*. Sed hoc gaudium ad praemium accidentale pertinet, quod quidem augeri potest usque ad diem iudicii. Unde quidam dicunt quod, quantum ad praemium accidentale, etiam mereri possunt. Sed melius est ut dicatur quod nullo modo aliquis beatus mereri potest, nisi sit simul viator et comprehensor, ut Christus, qui solus fuit viator et comprehensor. Praedictum enim gaudium magis acquirunt ex virtute beatitudinis, quam illud mereantur.]]
 ![[CERF Ia, q. 62, a. 9#ad 3]]
 

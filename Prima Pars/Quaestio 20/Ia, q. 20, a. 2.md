@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 20, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 20, a. 2#s.c.|Sed contra est quod dicitur [[Sg 11]], *diligis omnia quae sunt, et nihil odisti eorum quae fecisti*.]]
+![[LEO Ia, q. 20, a. 2#s.c.|Sed contra est quod dicitur Sap. XI, *diligis omnia quae sunt, et nihil odisti eorum quae fecisti*.]]
 ![[CERF Ia, q. 20, a. 2#s.c.]]
 
 ###### resp.

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 34, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 34, a. 1#s.c.|Sed contra est quod in [[Ps 36]], dicitur, *delectare in domino*. Cum igitur ad nihil mali auctoritas divina inducat, videtur quod non omnis delectatio sit mala.]]
+![[LEO Ia-IIæ, q. 34, a. 1#s.c.|Sed contra est quod in Psalmo XXXVI, dicitur, *delectare in domino*. Cum igitur ad nihil mali auctoritas divina inducat, videtur quod non omnis delectatio sit mala.]]
 ![[CERF Ia-IIæ, q. 34, a. 1#s.c.]]
 
 ###### resp.

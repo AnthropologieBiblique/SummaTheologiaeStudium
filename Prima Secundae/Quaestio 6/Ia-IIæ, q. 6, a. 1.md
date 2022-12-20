@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 6, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 6, a. 1#arg. 3|Praeterea, qui voluntarie agit, per se agere potest. Sed hoc homini non convenit, dicitur enim [[Jn 15]], *sine me nihil potestis facere*. Ergo voluntarium in humanis actibus non invenitur.]]
+![[LEO Ia-IIæ, q. 6, a. 1#arg. 3|Praeterea, qui voluntarie agit, per se agere potest. Sed hoc homini non convenit, dicitur enim Ioan. XV, *sine me nihil potestis facere*. Ergo voluntarium in humanis actibus non invenitur.]]
 ![[CERF Ia-IIæ, q. 6, a. 1#arg. 3]]
 
 ###### s.c.

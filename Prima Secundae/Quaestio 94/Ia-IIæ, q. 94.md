@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 94#Prooemium|Deinde considerandum est de lege naturali. Et circa hoc quaeruntur sex. Primo, quid sit lex naturalis. Secundo, quae sint praecepta legis naturalis. Tertio, utrum omnes actus virtutum sint de lege naturali. Quarto, utrum lex naturalis sit una apud omnes. Quinto, utrum sit mutabilis. Sexto, utrum possit a mente hominis deleri.]]
-![[CERF Ia-IIæ, q. 94#Prooemium]]
+Deinde considerandum est de lege naturali. Et circa hoc quaeruntur sex. Primo, quid sit lex naturalis. Secundo, quae sint praecepta legis naturalis. Tertio, utrum omnes actus virtutum sint de lege naturali. Quarto, utrum lex naturalis sit una apud omnes. Quinto, utrum sit mutabilis. Sexto, utrum possit a mente hominis deleri.
 
 ![[Ia-IIæ, q. 94, a. 1#Articulus 1]]
 

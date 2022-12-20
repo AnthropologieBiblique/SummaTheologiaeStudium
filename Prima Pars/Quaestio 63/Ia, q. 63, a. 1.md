@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 63, a. 1#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 63, a. 1#s.c.|Sed contra est quod dicitur [[Jb 4]], *in Angelis suis reperit pravitatem*.]]
+![[LEO Ia, q. 63, a. 1#s.c.|Sed contra est quod dicitur Iob IV, *in Angelis suis reperit pravitatem*.]]
 ![[CERF Ia, q. 63, a. 1#s.c.]]
 
 ###### resp.

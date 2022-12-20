@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 105, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 105, a. 1#s.c.|Sed contra est quod [[Rm 1]], et [[2 Tm 3]], inter alia peccata mortalia computatur, parentibus non obedientes.]]
+![[LEO IIa-IIæ, q. 105, a. 1#s.c.|Sed contra est quod Rom. I, et II ad Tim. III, inter alia peccata mortalia computatur, parentibus non obedientes.]]
 ![[CERF IIa-IIæ, q. 105, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 105, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, peccatum mortale est quod contrariatur caritati, per quam est spiritualis vita. Caritate autem diligitur Deus et proximus. Exigit autem caritas Dei ut eius mandatis obediatur, sicut supra dictum est. Et ideo inobedientem esse divinis praeceptis peccatum mortale est, quasi divinae dilectioni contrarium. In praeceptis autem divinis continetur quod etiam superioribus obediatur. Et ideo etiam inobedientia qua quis inobediens est praeceptis superiorum, est peccatum mortale, quasi divinae dilectioni contrarium, secundum illud [[Rm 13]], *qui potestati resistit, Dei ordinationi resistit*. Contrariatur insuper dilectioni proximi, inquantum superiori proximo subtrahit obedientiam quam ei debet.]]
+![[LEO IIa-IIæ, q. 105, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, peccatum mortale est quod contrariatur caritati, per quam est spiritualis vita. Caritate autem diligitur Deus et proximus. Exigit autem caritas Dei ut eius mandatis obediatur, sicut supra dictum est. Et ideo inobedientem esse divinis praeceptis peccatum mortale est, quasi divinae dilectioni contrarium. In praeceptis autem divinis continetur quod etiam superioribus obediatur. Et ideo etiam inobedientia qua quis inobediens est praeceptis superiorum, est peccatum mortale, quasi divinae dilectioni contrarium, secundum illud Rom. XIII, *qui potestati resistit, Dei ordinationi resistit*. Contrariatur insuper dilectioni proximi, inquantum superiori proximo subtrahit obedientiam quam ei debet.]]
 ![[CERF IIa-IIæ, q. 105, a. 1#resp.]]
 
 ###### ad 1

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 26, a. 10#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 26, a. 10#arg. 3|Praeterea, ei debetur maior dilectionis affectus qui pro nobis amplius laboravit, secundum illud Rom. ult., *salutate Mariam, quae multum laboravit in vobis*. Sed mater plus laborat in generatione et educatione quam pater, unde dicitur [[Si 7]], *gemitum matris tuae ne obliviscaris*. Ergo plus debet homo diligere matrem quam patrem.]]
+![[LEO IIa-IIæ, q. 26, a. 10#arg. 3|Praeterea, ei debetur maior dilectionis affectus qui pro nobis amplius laboravit, secundum illud Rom. ult., *salutate Mariam, quae multum laboravit in vobis*. Sed mater plus laborat in generatione et educatione quam pater, unde dicitur Eccli. VII, *gemitum matris tuae ne obliviscaris*. Ergo plus debet homo diligere matrem quam patrem.]]
 ![[CERF IIa-IIæ, q. 26, a. 10#arg. 3]]
 
 ###### s.c.

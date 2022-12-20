@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 107, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 107, a. 1#arg. 3|Praeterea, non videtur peccare qui non vult aliquid debere, secundum illud apostoli, [[Rm 13]], *nemini quidquam debeatis*. Sed qui invitus debet ingratus est, ut Seneca dicit, in IV de Benefic. Ergo non semper ingratitudo est peccatum.]]
+![[LEO IIa-IIæ, q. 107, a. 1#arg. 3|Praeterea, non videtur peccare qui non vult aliquid debere, secundum illud apostoli, Rom. XIII, *nemini quidquam debeatis*. Sed qui invitus debet ingratus est, ut Seneca dicit, in IV de Benefic. Ergo non semper ingratitudo est peccatum.]]
 ![[CERF IIa-IIæ, q. 107, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 107, a. 1#s.c.|Sed contra est quod [[2 Tm 3]], ingratitudo connumeratur aliis peccatis, cum dicitur, *parentibus non obedientes, ingrati, scelesti*.]]
+![[LEO IIa-IIæ, q. 107, a. 1#s.c.|Sed contra est quod II ad Tim. III, ingratitudo connumeratur aliis peccatis, cum dicitur, *parentibus non obedientes, ingrati, scelesti*.]]
 ![[CERF IIa-IIæ, q. 107, a. 1#s.c.]]
 
 ###### resp.

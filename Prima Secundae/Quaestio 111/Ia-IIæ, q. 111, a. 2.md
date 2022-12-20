@@ -10,11 +10,11 @@ tags :
 ![[CERF Ia-IIæ, q. 111, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia-IIæ, q. 111, a. 2#arg. 2|Praeterea, si gratia aliquid operetur in nobis, maxime operatur iustificationem. Sed hoc non sola gratia operatur in nobis, dicit enim Augustinus, super illud [[Jn 14]], *opera quae ego facio, et ipse faciet, qui creavit te sine te, non iustificabit te sine te*. Ergo nulla gratia debet dici simpliciter operans.]]
+![[LEO Ia-IIæ, q. 111, a. 2#arg. 2|Praeterea, si gratia aliquid operetur in nobis, maxime operatur iustificationem. Sed hoc non sola gratia operatur in nobis, dicit enim Augustinus, super illud Ioan. XIV, *opera quae ego facio, et ipse faciet, qui creavit te sine te, non iustificabit te sine te*. Ergo nulla gratia debet dici simpliciter operans.]]
 ![[CERF Ia-IIæ, q. 111, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 111, a. 2#arg. 3|Praeterea, cooperari alicui videtur pertinere ad inferius agens, non autem ad principalius. Sed gratia principalius operatur in nobis quam liberum arbitrium; secundum illud [[Rm 9]], *non est volentis neque currentis, sed miserentis Dei*. Ergo gratia non debet dici cooperans.]]
+![[LEO Ia-IIæ, q. 111, a. 2#arg. 3|Praeterea, cooperari alicui videtur pertinere ad inferius agens, non autem ad principalius. Sed gratia principalius operatur in nobis quam liberum arbitrium; secundum illud Rom. IX, *non est volentis neque currentis, sed miserentis Dei*. Ergo gratia non debet dici cooperans.]]
 ![[CERF Ia-IIæ, q. 111, a. 2#arg. 3]]
 
 ###### arg. 4

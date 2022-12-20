@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 13, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod anima Christi habeat omnipotentiam respectu immutationis creaturarum. Dicit enim ipse Matth. ult., *data est mihi omnis potestas in caelo et in terra*. Sed nomine caeli et terrae intelligitur omnis creatura, ut patet cum dicitur, [[Gn 1]], *in principio creavit Deus caelum et terram*. Ergo videtur quod anima Christi habeat omnipotentiam respectu immutationis creaturarum.]]
+![[LEO IIIa, q. 13, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod anima Christi habeat omnipotentiam respectu immutationis creaturarum. Dicit enim ipse Matth. ult., *data est mihi omnis potestas in caelo et in terra*. Sed nomine caeli et terrae intelligitur omnis creatura, ut patet cum dicitur, Gen. I, *in principio creavit Deus caelum et terram*. Ergo videtur quod anima Christi habeat omnipotentiam respectu immutationis creaturarum.]]
 ![[CERF IIIa, q. 13, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 13, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 13, a. 2#s.c.|Sed contra est quod eiusdem est transmutare creaturas cuius est conservare eas. Sed hoc est solius Dei, secundum illud [[He 1]], *portans omnia verbo virtutis suae*. Ergo solius Dei est habere omnipotentiam respectu immutationis creaturarum. Non ergo hoc convenit animae Christi.]]
+![[LEO IIIa, q. 13, a. 2#s.c.|Sed contra est quod eiusdem est transmutare creaturas cuius est conservare eas. Sed hoc est solius Dei, secundum illud Heb. I, *portans omnia verbo virtutis suae*. Ergo solius Dei est habere omnipotentiam respectu immutationis creaturarum. Non ergo hoc convenit animae Christi.]]
 ![[CERF IIIa, q. 13, a. 2#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 13, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 13, a. 2#ad 3|Ad tertium dicendum quod, sicut dictum est in secunda parte, gratia virtutum, seu miraculorum, datur animae alicuius sancti, non ut propria virtute eius, sed ut per virtutem divinam huiusmodi miracula fiant. Et haec quidem gratia excellentissime data est animae Christi, ut scilicet non solum ipse miracula faceret, sed etiam hanc gratiam in alios transfunderet. Unde dicitur, [[Mt 10]], quod, *convocatis duodecim discipulis, dedit illis potestatem spirituum immundorum, ut eiicerent eos; et curarent omnem languorem et omnem infirmitatem*.]]
+![[LEO IIIa, q. 13, a. 2#ad 3|Ad tertium dicendum quod, sicut dictum est in secunda parte, gratia virtutum, seu miraculorum, datur animae alicuius sancti, non ut propria virtute eius, sed ut per virtutem divinam huiusmodi miracula fiant. Et haec quidem gratia excellentissime data est animae Christi, ut scilicet non solum ipse miracula faceret, sed etiam hanc gratiam in alios transfunderet. Unde dicitur, Matth. X, quod, *convocatis duodecim discipulis, dedit illis potestatem spirituum immundorum, ut eiicerent eos; et curarent omnem languorem et omnem infirmitatem*.]]
 ![[CERF IIIa, q. 13, a. 2#ad 3]]
 

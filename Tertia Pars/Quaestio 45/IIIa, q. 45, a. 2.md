@@ -6,11 +6,11 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 45, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod illa claritas non fuit claritas gloriosa. Dicit enim quaedam Glossa Bedae, super illud [[Mt 17]], *transfiguratus est coram eis, in corpore, inquit, mortali ostendit, non immortalitatem, sed claritatem similem futurae immortalitati*. Sed claritas gloriae est claritas immortalitatis. Non ergo illa claritas quam Christus discipulis ostendit, fuit claritas gloriae.]]
+![[LEO IIIa, q. 45, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod illa claritas non fuit claritas gloriosa. Dicit enim quaedam Glossa Bedae, super illud Matth. XVII, *transfiguratus est coram eis, in corpore, inquit, mortali ostendit, non immortalitatem, sed claritatem similem futurae immortalitati*. Sed claritas gloriae est claritas immortalitatis. Non ergo illa claritas quam Christus discipulis ostendit, fuit claritas gloriae.]]
 ![[CERF IIIa, q. 45, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 45, a. 2#arg. 2|Praeterea, super illud [[Lc 9]], *non gustabunt mortem nisi videant regnum Dei*, dicit Glossa Bedae, *idest, glorificationem corporis in imaginaria repraesentatione futurae beatitudinis*. Sed imago alicuius rei non est ipsa res. Ergo claritas illa non fuit claritas beatitudinis.]]
+![[LEO IIIa, q. 45, a. 2#arg. 2|Praeterea, super illud Luc. IX, *non gustabunt mortem nisi videant regnum Dei*, dicit Glossa Bedae, *idest, glorificationem corporis in imaginaria repraesentatione futurae beatitudinis*. Sed imago alicuius rei non est ipsa res. Ergo claritas illa non fuit claritas beatitudinis.]]
 ![[CERF IIIa, q. 45, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 45, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 45, a. 2#s.c.|Sed contra est quod, super illud [[Mt 17]], *transfiguratus est ante eos*, dicit Hieronymus, *qualis futurus est tempore iudicii, talis apostolis apparuit*. Et super illud [[Mt 17]], *donec videant filium hominis venientem in regno suo*, dicit Chrysostomus, *volens monstrare quid est illa gloria in qua postea venturus est, eis in praesenti vita revelavit, sicut possibile erat eos discere, ut neque in domini morte iam doleant*.]]
+![[LEO IIIa, q. 45, a. 2#s.c.|Sed contra est quod, super illud Matth. XVII, *transfiguratus est ante eos*, dicit Hieronymus, *qualis futurus est tempore iudicii, talis apostolis apparuit*. Et super illud Matth. XVI, *donec videant filium hominis venientem in regno suo*, dicit Chrysostomus, *volens monstrare quid est illa gloria in qua postea venturus est, eis in praesenti vita revelavit, sicut possibile erat eos discere, ut neque in domini morte iam doleant*.]]
 ![[CERF IIIa, q. 45, a. 2#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 45, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 45, a. 2#ad 3|Ad tertium dicendum quod, sicut claritas quae erat in corpore Christi repraesentabat futuram claritatem corporis eius, ita claritas vestimentorum eius designat futuram claritatem sanctorum, quae superabitur a claritate Christi, sicut candor nivis superatur a candore solis. Unde Gregorius dicit, XXXII Moral., quod *vestimenta Christi facta sunt splendentia, quia in supernae claritatis culmine sancti omnes ei luce iustitiae fulgentes adhaerebunt. Vestium enim nomine iustos, quos sibi adiunget, significat*, secundum illud [[Is 49]], *his omnibus velut ornamento vestieris*. Nubes autem lucida significat spiritus sancti gloriam, vel virtutem paternam, ut Origenes dicit, per quam sancti in futura gloria protegentur. Quamvis etiam convenienter significare posset claritatem mundi innovati, quae erit sanctorum tabernaculum. Unde, Petro disponente tabernacula facere, nubes lucida discipulos obumbravit.]]
+![[LEO IIIa, q. 45, a. 2#ad 3|Ad tertium dicendum quod, sicut claritas quae erat in corpore Christi repraesentabat futuram claritatem corporis eius, ita claritas vestimentorum eius designat futuram claritatem sanctorum, quae superabitur a claritate Christi, sicut candor nivis superatur a candore solis. Unde Gregorius dicit, XXXII Moral., quod *vestimenta Christi facta sunt splendentia, quia in supernae claritatis culmine sancti omnes ei luce iustitiae fulgentes adhaerebunt. Vestium enim nomine iustos, quos sibi adiunget, significat*, secundum illud Isaiae XLIX, *his omnibus velut ornamento vestieris*. Nubes autem lucida significat spiritus sancti gloriam, vel virtutem paternam, ut Origenes dicit, per quam sancti in futura gloria protegentur. Quamvis etiam convenienter significare posset claritatem mundi innovati, quae erit sanctorum tabernaculum. Unde, Petro disponente tabernacula facere, nubes lucida discipulos obumbravit.]]
 ![[CERF IIIa, q. 45, a. 2#ad 3]]
 

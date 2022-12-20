@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 8, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 8, a. 4#arg. 2|Praeterea, inter ea quae ad cognitionem pertinent sola fides videtur esse necessaria ad salutem, quia per fidem Christus habitat in cordibus nostris, ut dicitur ad [[Ep 3]]. Sed non omnes habentes fidem habent donum intellectus, immo qui credunt, debent orare ut intelligant, sicut Augustinus dicit, in libro de Trin. Ergo donum intellectus non est necessarium ad salutem. Non ergo est in omnibus habentibus gratiam.]]
+![[LEO IIa-IIæ, q. 8, a. 4#arg. 2|Praeterea, inter ea quae ad cognitionem pertinent sola fides videtur esse necessaria ad salutem, quia per fidem Christus habitat in cordibus nostris, ut dicitur ad Ephes. III. Sed non omnes habentes fidem habent donum intellectus, immo qui credunt, debent orare ut intelligant, sicut Augustinus dicit, in libro de Trin. Ergo donum intellectus non est necessarium ad salutem. Non ergo est in omnibus habentibus gratiam.]]
 ![[CERF IIa-IIæ, q. 8, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 8, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 8, a. 4#s.c.|Sed contra est quod dicitur in Psalm., *nescierunt neque intellexerunt, in tenebris ambulant*. Sed nullus habens gratiam ambulat in tenebris, secundum illud [[Jn 8]], *qui sequitur me non ambulat in tenebris*. Ergo nullus habens gratiam caret dono intellectus.]]
+![[LEO IIa-IIæ, q. 8, a. 4#s.c.|Sed contra est quod dicitur in Psalm., *nescierunt neque intellexerunt, in tenebris ambulant*. Sed nullus habens gratiam ambulat in tenebris, secundum illud Ioan. VIII, *qui sequitur me non ambulat in tenebris*. Ergo nullus habens gratiam caret dono intellectus.]]
 ![[CERF IIa-IIæ, q. 8, a. 4#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 8, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 8, a. 4#ad 1|Ad primum ergo dicendum quod aliqui habentes gratiam gratum facientem possunt pati hebetudinem circa aliqua quae sunt praeter necessitatem salutis. Sed circa ea quae sunt de necessitate salutis sufficienter instruuntur a spiritu sancto, secundum illud [[1 Jn 2]], *unctio docet vos de omnibus*.]]
+![[LEO IIa-IIæ, q. 8, a. 4#ad 1|Ad primum ergo dicendum quod aliqui habentes gratiam gratum facientem possunt pati hebetudinem circa aliqua quae sunt praeter necessitatem salutis. Sed circa ea quae sunt de necessitate salutis sufficienter instruuntur a spiritu sancto, secundum illud I Ioan. II, *unctio docet vos de omnibus*.]]
 ![[CERF IIa-IIæ, q. 8, a. 4#ad 1]]
 
 ###### ad 2

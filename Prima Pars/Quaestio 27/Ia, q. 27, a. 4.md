@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 27, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 27, a. 4#arg. 2|Praeterea, sicut similitudo est de ratione verbi, ita est etiam de ratione amoris, unde dicitur [[Si 13]], quod *omne animal diligit simile sibi*. Si igitur ratione similitudinis verbo procedenti convenit generari et nasci, videtur etiam quod amori procedenti convenit generari.]]
+![[LEO Ia, q. 27, a. 4#arg. 2|Praeterea, sicut similitudo est de ratione verbi, ita est etiam de ratione amoris, unde dicitur Eccli. XIII, quod *omne animal diligit simile sibi*. Si igitur ratione similitudinis verbo procedenti convenit generari et nasci, videtur etiam quod amori procedenti convenit generari.]]
 ![[CERF Ia, q. 27, a. 4#arg. 2]]
 
 ###### arg. 3

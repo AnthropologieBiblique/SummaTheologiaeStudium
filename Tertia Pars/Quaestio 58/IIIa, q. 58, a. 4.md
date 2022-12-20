@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 58, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod sedere ad dexteram patris non sit proprium Christi. Dicit enim apostolus, [[Ep 2]], quod *resuscitavit nos, et consedere fecit in caelestibus in Christo Iesu*. Sed resuscitari non est proprium Christi. Ergo pari ratione etiam nec sedere ad dexteram Dei in excelsis.]]
+![[LEO IIIa, q. 58, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod sedere ad dexteram patris non sit proprium Christi. Dicit enim apostolus, Ephes. II, quod *resuscitavit nos, et consedere fecit in caelestibus in Christo Iesu*. Sed resuscitari non est proprium Christi. Ergo pari ratione etiam nec sedere ad dexteram Dei in excelsis.]]
 ![[CERF IIIa, q. 58, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -14,15 +14,15 @@ tags :
 ![[CERF IIIa, q. 58, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 58, a. 4#arg. 3|Praeterea, ipse dicit, [[Ap 3]], *qui vicerit, dabo ei sedere mecum in throno meo, sicut et ego vici, et sedi cum patre meo in throno eius*. Sed per hoc sedet Christus ad dexteram patris, quod sedet in throno eius. Ergo etiam et alii qui vincunt, sedent ad dexteram patris.]]
+![[LEO IIIa, q. 58, a. 4#arg. 3|Praeterea, ipse dicit, Apoc. III, *qui vicerit, dabo ei sedere mecum in throno meo, sicut et ego vici, et sedi cum patre meo in throno eius*. Sed per hoc sedet Christus ad dexteram patris, quod sedet in throno eius. Ergo etiam et alii qui vincunt, sedent ad dexteram patris.]]
 ![[CERF IIIa, q. 58, a. 4#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 58, a. 4#arg. 4|Praeterea, [[Mt 20]] dominus dicit, *sedere ad dexteram vel sinistram meam, non est meum dare vobis, sed quibus paratum est a patre meo*. Hoc autem frustra diceretur nisi esset aliquibus paratum. Non ergo sedere ad dexteram soli Christo convenit.]]
+![[LEO IIIa, q. 58, a. 4#arg. 4|Praeterea, Matth. XX dominus dicit, *sedere ad dexteram vel sinistram meam, non est meum dare vobis, sed quibus paratum est a patre meo*. Hoc autem frustra diceretur nisi esset aliquibus paratum. Non ergo sedere ad dexteram soli Christo convenit.]]
 ![[CERF IIIa, q. 58, a. 4#arg. 4]]
 
 ###### s.c.
-![[LEO IIIa, q. 58, a. 4#s.c.|Sed contra est quod dicitur ad [[He 1]], *ad quem aliquando dixit Angelorum, sede a dextris meis, idest, in potioribus meis, vel mihi secundum divinitatem aequalis?* Quasi dicat, ad nullum. Sed Angeli sunt superiores aliis creaturis. Ergo multo minus ulli alii convenit sedere ad dexteram patris quam Christo.]]
+![[LEO IIIa, q. 58, a. 4#s.c.|Sed contra est quod dicitur ad Heb. I, *ad quem aliquando dixit Angelorum, sede a dextris meis, idest, in potioribus meis, vel mihi secundum divinitatem aequalis?* Quasi dicat, ad nullum. Sed Angeli sunt superiores aliis creaturis. Ergo multo minus ulli alii convenit sedere ad dexteram patris quam Christo.]]
 ![[CERF IIIa, q. 58, a. 4#s.c.]]
 
 ###### resp.
@@ -30,15 +30,15 @@ tags :
 ![[CERF IIIa, q. 58, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 58, a. 4#ad 1|Ad primum ergo dicendum quod, quia Christus est caput nostrum, illud quod collatum est Christo, est etiam nobis in ipso collatum. Et propter hoc, quia ipse iam resuscitatus est, dicit apostolus quod Deus nos quodammodo ei conresuscitavit, qui tamen in nobis ipsis nondum sumus resuscitati, sed resuscitandi, secundum illud [[Rm 8]], *qui suscitavit Iesum Christum a mortuis, vivificabit et mortalia corpora nostra*. Et secundum eundem modum loquendi subdit apostolus quod consedere nos fecit in caelestibus, scilicet in hoc ipso quod caput nostrum, quod est Christus, ibi sedet.]]
+![[LEO IIIa, q. 58, a. 4#ad 1|Ad primum ergo dicendum quod, quia Christus est caput nostrum, illud quod collatum est Christo, est etiam nobis in ipso collatum. Et propter hoc, quia ipse iam resuscitatus est, dicit apostolus quod Deus nos quodammodo ei conresuscitavit, qui tamen in nobis ipsis nondum sumus resuscitati, sed resuscitandi, secundum illud Rom. VIII, *qui suscitavit Iesum Christum a mortuis, vivificabit et mortalia corpora nostra*. Et secundum eundem modum loquendi subdit apostolus quod consedere nos fecit in caelestibus, scilicet in hoc ipso quod caput nostrum, quod est Christus, ibi sedet.]]
 ![[CERF IIIa, q. 58, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 58, a. 4#ad 2|Ad secundum dicendum quod, quia dextera est divina beatitudo, sedere in dextera non significat simpliciter esse in beatitudine, sed habere beatitudinem cum quadam dominativa potestate, et quasi propriam et naturalem. Quod soli Christo convenit, nulli autem alii creaturae. Potest tamen dici quod omnis sanctus qui est in beatitudine, est ad dexteram Dei constitutus. Unde et dicitur [[Mt 25]], quod *statuet oves a dextris*.]]
+![[LEO IIIa, q. 58, a. 4#ad 2|Ad secundum dicendum quod, quia dextera est divina beatitudo, sedere in dextera non significat simpliciter esse in beatitudine, sed habere beatitudinem cum quadam dominativa potestate, et quasi propriam et naturalem. Quod soli Christo convenit, nulli autem alii creaturae. Potest tamen dici quod omnis sanctus qui est in beatitudine, est ad dexteram Dei constitutus. Unde et dicitur Matth. XXV, quod *statuet oves a dextris*.]]
 ![[CERF IIIa, q. 58, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 58, a. 4#ad 3|Ad tertium dicendum quod per thronum significatur iudiciaria potestas, quam Christus habet a patre. Et secundum hoc, dicitur sedere in throno patris. Alii autem sancti habent eam a Christo. Et secundum hoc, dicuntur in throno Christi sedere, secundum illud [[Mt 19]], *sedebitis et vos super sedes duodecim iudicantes duodecim tribus Israel*.]]
+![[LEO IIIa, q. 58, a. 4#ad 3|Ad tertium dicendum quod per thronum significatur iudiciaria potestas, quam Christus habet a patre. Et secundum hoc, dicitur sedere in throno patris. Alii autem sancti habent eam a Christo. Et secundum hoc, dicuntur in throno Christi sedere, secundum illud Matth. XIX, *sedebitis et vos super sedes duodecim iudicantes duodecim tribus Israel*.]]
 ![[CERF IIIa, q. 58, a. 4#ad 3]]
 
 ###### ad 4

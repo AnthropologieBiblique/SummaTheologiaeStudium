@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 5, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 5, a. 1#arg. 3|Praeterea, apostolus dicit, ad [[Rm 10]], quod *fides est ex auditu*. Sed hoc locum non habuit in primo statu angelicae conditionis aut humanae, non enim erat ibi auditus ab alio. Ergo fides in statu illo non erat neque in homine neque in Angelo.]]
+![[LEO IIa-IIæ, q. 5, a. 1#arg. 3|Praeterea, apostolus dicit, ad Rom. X, quod *fides est ex auditu*. Sed hoc locum non habuit in primo statu angelicae conditionis aut humanae, non enim erat ibi auditus ab alio. Ergo fides in statu illo non erat neque in homine neque in Angelo.]]
 ![[CERF IIa-IIæ, q. 5, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 5, a. 1#s.c.|Sed contra est quod apostolus dicit, ad [[He 11]], *accedentem ad Deum oportet credere*. Sed Angelus et homo in sui prima conditione erant in statu accedendi ad Deum. Ergo fide indigebant.]]
+![[LEO IIa-IIæ, q. 5, a. 1#s.c.|Sed contra est quod apostolus dicit, ad Heb. XI, *accedentem ad Deum oportet credere*. Sed Angelus et homo in sui prima conditione erant in statu accedendi ad Deum. Ergo fide indigebant.]]
 ![[CERF IIa-IIæ, q. 5, a. 1#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 125, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod peccatum timoris non opponatur fortitudini. Fortitudo enim est circa pericula mortis, ut supra habitum est. Sed peccatum timoris non semper pertinet ad pericula mortis. Quia super illud Psalmi, beati omnes qui timent dominum, dicit Glossa quod *humanus timor est quo timemus pati pericula carnis, vel perdere mundi bona*. Et super illud [[Mt 26]], oravit tertio eundem sermonem etc., dicit Glossa quod triplex est malus timor, scilicet timor mortis, timor vilitatis, et timor doloris. Non ergo peccatum timoris opponitur fortitudini.]]
+![[LEO IIa-IIæ, q. 125, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod peccatum timoris non opponatur fortitudini. Fortitudo enim est circa pericula mortis, ut supra habitum est. Sed peccatum timoris non semper pertinet ad pericula mortis. Quia super illud Psalmi, beati omnes qui timent dominum, dicit Glossa quod *humanus timor est quo timemus pati pericula carnis, vel perdere mundi bona*. Et super illud Matth. XXVI, oravit tertio eundem sermonem etc., dicit Glossa quod triplex est malus timor, scilicet timor mortis, timor vilitatis, et timor doloris. Non ergo peccatum timoris opponitur fortitudini.]]
 ![[CERF IIa-IIæ, q. 125, a. 2#arg. 1]]
 
 ###### arg. 2

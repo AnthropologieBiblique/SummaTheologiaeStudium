@@ -6,7 +6,7 @@ tags :
 ### Articulus 10
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 83, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod orare non sit proprium rationalis creaturae. Eiusdem enim videtur esse petere et accipere. Sed accipere convenit etiam personis increatis, scilicet filio et spiritui sancto. Ergo etiam eis convenit orare, nam et filius dicit, [[Jn 14]], *ego rogabo patrem*; et de spiritu sancto dicit apostolus, *spiritus postulat pro nobis*.]]
+![[LEO IIa-IIæ, q. 83, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod orare non sit proprium rationalis creaturae. Eiusdem enim videtur esse petere et accipere. Sed accipere convenit etiam personis increatis, scilicet filio et spiritui sancto. Ergo etiam eis convenit orare, nam et filius dicit, Ioan. XIV, *ego rogabo patrem*; et de spiritu sancto dicit apostolus, *spiritus postulat pro nobis*.]]
 ![[CERF IIa-IIæ, q. 83, a. 10#arg. 1]]
 
 ###### arg. 2

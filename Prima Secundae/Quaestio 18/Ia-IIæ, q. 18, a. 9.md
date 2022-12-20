@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 18, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 18, a. 9#s.c.|Sed contra est quod Gregorius dicit in quadam homilia, *otiosum verbum est quod utilitate rectitudinis, aut ratione iustae necessitatis aut piae utilitatis, caret*. Sed verbum otiosum est malum, quia de eo reddent homines rationem in die iudicii, ut dicitur [[Mt 12]]. Si autem non caret ratione iustae necessitatis aut piae utilitatis, est bonum. Ergo omne verbum aut est bonum aut malum. Pari ergo ratione, et quilibet alius actus vel est bonus vel malus. Nullus ergo individualis actus est indifferens.]]
+![[LEO Ia-IIæ, q. 18, a. 9#s.c.|Sed contra est quod Gregorius dicit in quadam homilia, *otiosum verbum est quod utilitate rectitudinis, aut ratione iustae necessitatis aut piae utilitatis, caret*. Sed verbum otiosum est malum, quia de eo reddent homines rationem in die iudicii, ut dicitur Matth. XII. Si autem non caret ratione iustae necessitatis aut piae utilitatis, est bonum. Ergo omne verbum aut est bonum aut malum. Pari ergo ratione, et quilibet alius actus vel est bonus vel malus. Nullus ergo individualis actus est indifferens.]]
 ![[CERF Ia-IIæ, q. 18, a. 9#s.c.]]
 
 ###### resp.

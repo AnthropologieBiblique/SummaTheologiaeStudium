@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO Ia, q. 103, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod non omnia divinae gubernationi subdantur. Dicitur enim [[Qo 9]], *vidi sub sole nec velocium esse cursum, nec fortium bellum, nec sapientium panem, nec doctorum divitias, nec artificum gratiam, sed tempus casumque in omnibus*. Quae autem gubernationi alicuius subsunt, non sunt casualia. Ergo ea quae sunt sub sole, non subduntur divinae gubernationi.]]
+![[LEO Ia, q. 103, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod non omnia divinae gubernationi subdantur. Dicitur enim Eccle. IX, *vidi sub sole nec velocium esse cursum, nec fortium bellum, nec sapientium panem, nec doctorum divitias, nec artificum gratiam, sed tempus casumque in omnibus*. Quae autem gubernationi alicuius subsunt, non sunt casualia. Ergo ea quae sunt sub sole, non subduntur divinae gubernationi.]]
 ![[CERF Ia, q. 103, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 103, a. 5#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 103, a. 5#resp.|Respondeo dicendum quod secundum eandem rationem competit Deo esse gubernatorem rerum, et causam earum, quia eiusdem est rem producere, et ei perfectionem dare, quod ad gubernantem pertinet. Deus autem est causa non quidem particularis unius generis rerum, sed universalis totius entis, ut supra ostensum est. Unde sicut nihil potest esse quod non sit a Deo creatum, ita nihil potest esse quod eius gubernationi non subdatur. Patet etiam hoc idem ex ratione finis. Intantum enim alicuius gubernatio se extendit, inquantum se extendere potest finis gubernationis. Finis autem divinae gubernationis est ipsa sua bonitas, ut supra ostensum est. Unde cum nihil esse possit quod non ordinetur in divinam bonitatem sicut in finem, ut ex supra dictis patet; impossibile est quod aliquod entium subtrahatur gubernationi divinae. Stulta igitur fuit opinio dicentium quod haec inferiora corruptibilia, vel etiam singularia, aut etiam res humanae non gubernantur a Deo. Ex quorum persona dicitur [[Ez 9]], *dereliquit dominus terram*.]]
+![[LEO Ia, q. 103, a. 5#resp.|Respondeo dicendum quod secundum eandem rationem competit Deo esse gubernatorem rerum, et causam earum, quia eiusdem est rem producere, et ei perfectionem dare, quod ad gubernantem pertinet. Deus autem est causa non quidem particularis unius generis rerum, sed universalis totius entis, ut supra ostensum est. Unde sicut nihil potest esse quod non sit a Deo creatum, ita nihil potest esse quod eius gubernationi non subdatur. Patet etiam hoc idem ex ratione finis. Intantum enim alicuius gubernatio se extendit, inquantum se extendere potest finis gubernationis. Finis autem divinae gubernationis est ipsa sua bonitas, ut supra ostensum est. Unde cum nihil esse possit quod non ordinetur in divinam bonitatem sicut in finem, ut ex supra dictis patet; impossibile est quod aliquod entium subtrahatur gubernationi divinae. Stulta igitur fuit opinio dicentium quod haec inferiora corruptibilia, vel etiam singularia, aut etiam res humanae non gubernantur a Deo. Ex quorum persona dicitur Ezech. IX, *dereliquit dominus terram*.]]
 ![[CERF Ia, q. 103, a. 5#resp.]]
 
 ###### ad 1

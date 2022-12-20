@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 52, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 52, a. 2#arg. 3|Praeterea, Damascenus dicit quod ubi Angelus operatur, ibi est. Sed aliquando operatur simul in pluribus locis, ut patet de Angelo subvertente Sodomam, [[Gn 19]]. Ergo Angelus potest esse in pluribus locis simul.]]
+![[LEO Ia, q. 52, a. 2#arg. 3|Praeterea, Damascenus dicit quod ubi Angelus operatur, ibi est. Sed aliquando operatur simul in pluribus locis, ut patet de Angelo subvertente Sodomam, Gen. XIX. Ergo Angelus potest esse in pluribus locis simul.]]
 ![[CERF Ia, q. 52, a. 2#arg. 3]]
 
 ###### s.c.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 87, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod nullum peccatum inducat reatum aeternae poenae. Poena enim iusta adaequatur culpae, iustitia enim aequalitas est. Unde dicitur [[Is 27]], *in mensura contra mensuram, cum abiecta fuerit, iudicabit eam*. Sed peccatum est temporale. Ergo non inducit reatum poenae aeternae.]]
+![[LEO Ia-IIæ, q. 87, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod nullum peccatum inducat reatum aeternae poenae. Poena enim iusta adaequatur culpae, iustitia enim aequalitas est. Unde dicitur Isaiae XXVII, *in mensura contra mensuram, cum abiecta fuerit, iudicabit eam*. Sed peccatum est temporale. Ergo non inducit reatum poenae aeternae.]]
 ![[CERF Ia-IIæ, q. 87, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 87, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 87, a. 3#arg. 3|Praeterea, nullus semper facit aliquid, nisi propter se in ipso delectetur. *Sed Deus non delectatur in perditione hominum*, ut dicitur [[Sg 1]]. Ergo non puniet homines poena sempiterna.]]
+![[LEO Ia-IIæ, q. 87, a. 3#arg. 3|Praeterea, nullus semper facit aliquid, nisi propter se in ipso delectetur. *Sed Deus non delectatur in perditione hominum*, ut dicitur Sap. I. Ergo non puniet homines poena sempiterna.]]
 ![[CERF Ia-IIæ, q. 87, a. 3#arg. 3]]
 
 ###### arg. 4
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 87, a. 3#arg. 4]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 87, a. 3#s.c.|Sed contra est quod dicitur [[Mt 25]], *ibunt hi in supplicium aeternum*. Et [[Mc 3]] dicitur, *qui autem blasphemaverit in spiritum sanctum, non habebit remissionem in aeternum, sed erit reus aeterni delicti*.]]
+![[LEO Ia-IIæ, q. 87, a. 3#s.c.|Sed contra est quod dicitur Matth. XXV, *ibunt hi in supplicium aeternum*. Et Marc. III dicitur, *qui autem blasphemaverit in spiritum sanctum, non habebit remissionem in aeternum, sed erit reus aeterni delicti*.]]
 ![[CERF Ia-IIæ, q. 87, a. 3#s.c.]]
 
 ###### resp.
@@ -34,7 +34,7 @@ tags :
 ![[CERF Ia-IIæ, q. 87, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 87, a. 3#ad 2|Ad secundum dicendum quod poena etiam quae secundum leges humanas infligitur, non semper est medicinalis ei qui punitur, sed solum aliis, sicut cum latro suspenditur, non ut ipse emendetur, sed propter alios, ut saltem metu poenae peccare desistant; secundum illud [[Pr 19]], *pestilente flagellato, stultus sapientior erit*. Sic igitur et aeternae poenae reproborum a Deo inflictae, sunt medicinales his qui consideratione poenarum abstinent a peccatis; secundum illud [[Ps 59]], *dedisti metuentibus te significationem, ut fugiant a facie arcus, ut liberentur dilecti tui*.]]
+![[LEO Ia-IIæ, q. 87, a. 3#ad 2|Ad secundum dicendum quod poena etiam quae secundum leges humanas infligitur, non semper est medicinalis ei qui punitur, sed solum aliis, sicut cum latro suspenditur, non ut ipse emendetur, sed propter alios, ut saltem metu poenae peccare desistant; secundum illud Prov. XIX, *pestilente flagellato, stultus sapientior erit*. Sic igitur et aeternae poenae reproborum a Deo inflictae, sunt medicinales his qui consideratione poenarum abstinent a peccatis; secundum illud Psalmi LIX, *dedisti metuentibus te significationem, ut fugiant a facie arcus, ut liberentur dilecti tui*.]]
 ![[CERF Ia-IIæ, q. 87, a. 3#ad 2]]
 
 ###### ad 3

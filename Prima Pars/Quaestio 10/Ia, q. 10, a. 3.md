@@ -6,11 +6,11 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia, q. 10, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod esse aeternum non sit soli Deo proprium. Dicitur enim [[Dn 12]], quod *qui ad iustitiam erudiunt plurimos, erunt quasi stellae in perpetuas aeternitates*. Non autem essent plures aeternitates, si solus Deus esset aeternus. Non igitur solus Deus est aeternus.]]
+![[LEO Ia, q. 10, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod esse aeternum non sit soli Deo proprium. Dicitur enim Danielis XII, quod *qui ad iustitiam erudiunt plurimos, erunt quasi stellae in perpetuas aeternitates*. Non autem essent plures aeternitates, si solus Deus esset aeternus. Non igitur solus Deus est aeternus.]]
 ![[CERF Ia, q. 10, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 10, a. 3#arg. 2|Praeterea, [[Mt 25]] dicitur, *ite, maledicti, in ignem aeternum*. Non igitur solus Deus est aeternus.]]
+![[LEO Ia, q. 10, a. 3#arg. 2|Praeterea, Matth. XXV dicitur, *ite, maledicti, in ignem aeternum*. Non igitur solus Deus est aeternus.]]
 ![[CERF Ia, q. 10, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 10, a. 3#s.c.]]
 
 ###### resp.
-![[LEO Ia, q. 10, a. 3#resp.|Respondeo dicendum quod aeternitas vere et proprie in solo Deo est. Quia aeternitas immutabilitatem consequitur, ut ex dictis patet. Solus autem Deus est omnino immutabilis, ut est superius ostensum. Secundum tamen quod aliqua ab ipso immutabilitatem percipiunt, secundum hoc aliqua eius aeternitatem participant. Quaedam ergo quantum ad hoc immutabilitatem sortiuntur a Deo, quod nunquam esse desinunt, et secundum hoc dicitur [[Qo 1]] de terra, quod in aeternum stat. Quaedam etiam aeterna in Scripturis dicuntur propter diuturnitatem durationis, licet corruptibilia sint, sicut in Psalmo dicuntur montes aeterni; et [[Dt 33]] etiam dicitur, de pomis collium aeternorum. Quaedam autem amplius participant de ratione aeternitatis, inquantum habent intransmutabilitatem vel secundum esse, vel ulterius secundum operationem, sicut Angeli et beati, qui verbo fruuntur, quia quantum ad illam visionem verbi, non sunt in sanctis volubiles cogitationes, ut dicit Augustinus, XV de Trin. Unde et videntes Deum dicuntur habere vitam aeternam, secundum illud [[Jn 17]], *haec est vita aeterna, ut cognoscant* et cetera.]]
+![[LEO Ia, q. 10, a. 3#resp.|Respondeo dicendum quod aeternitas vere et proprie in solo Deo est. Quia aeternitas immutabilitatem consequitur, ut ex dictis patet. Solus autem Deus est omnino immutabilis, ut est superius ostensum. Secundum tamen quod aliqua ab ipso immutabilitatem percipiunt, secundum hoc aliqua eius aeternitatem participant. Quaedam ergo quantum ad hoc immutabilitatem sortiuntur a Deo, quod nunquam esse desinunt, et secundum hoc dicitur Eccle. I de terra, quod in aeternum stat. Quaedam etiam aeterna in Scripturis dicuntur propter diuturnitatem durationis, licet corruptibilia sint, sicut in Psalmo dicuntur montes aeterni; et Deuter. XXXIII etiam dicitur, de pomis collium aeternorum. Quaedam autem amplius participant de ratione aeternitatis, inquantum habent intransmutabilitatem vel secundum esse, vel ulterius secundum operationem, sicut Angeli et beati, qui verbo fruuntur, quia quantum ad illam visionem verbi, non sunt in sanctis volubiles cogitationes, ut dicit Augustinus, XV de Trin. Unde et videntes Deum dicuntur habere vitam aeternam, secundum illud Ioann. XVII, *haec est vita aeterna, ut cognoscant* et cetera.]]
 ![[CERF Ia, q. 10, a. 3#resp.]]
 
 ###### ad 1
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia, q. 10, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO Ia, q. 10, a. 3#ad 2|Ad secundum dicendum quod ignis Inferni dicitur aeternus propter interminabilitatem tantum. Est tamen in poenis eorum transmutatio, secundum illud [[Jb 24]], *ad nimium calorem transibunt ab aquis nivium*. Unde in Inferno non est vera aeternitas, sed magis tempus; secundum illud Psalmi, *erit tempus eorum in saecula*.]]
+![[LEO Ia, q. 10, a. 3#ad 2|Ad secundum dicendum quod ignis Inferni dicitur aeternus propter interminabilitatem tantum. Est tamen in poenis eorum transmutatio, secundum illud Iob XXIV, *ad nimium calorem transibunt ab aquis nivium*. Unde in Inferno non est vera aeternitas, sed magis tempus; secundum illud Psalmi, *erit tempus eorum in saecula*.]]
 ![[CERF Ia, q. 10, a. 3#ad 2]]
 
 ###### ad 3

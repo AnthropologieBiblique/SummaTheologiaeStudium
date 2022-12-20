@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 67, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 67, a. 1#s.c.|Sed contra est quod Gregorius dicit, super illud [[Dt 23]], *si intraveris segetem et cetera. Falcem iudicii mittere non potest in eam rem quae alteri videtur esse commissa*.]]
+![[LEO IIa-IIæ, q. 67, a. 1#s.c.|Sed contra est quod Gregorius dicit, super illud Deut. XXIII, *si intraveris segetem et cetera. Falcem iudicii mittere non potest in eam rem quae alteri videtur esse commissa*.]]
 ![[CERF IIa-IIæ, q. 67, a. 1#s.c.]]
 
 ###### resp.

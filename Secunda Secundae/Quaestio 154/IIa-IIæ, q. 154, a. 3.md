@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 154, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 154, a. 3#arg. 2|Praeterea, tanto aliquis gravius peccat, quanto in rem sibi magis coniunctam delinquit, sicut gravius peccat qui percutit patrem quam qui percutit extraneum. Sed sicut dicitur [[1 Co 6]], *qui fornicatur, in corpus suum peccat*, quod est homini coniunctissimum. Ergo videtur quod fornicatio sit gravissimum peccatum.]]
+![[LEO IIa-IIæ, q. 154, a. 3#arg. 2|Praeterea, tanto aliquis gravius peccat, quanto in rem sibi magis coniunctam delinquit, sicut gravius peccat qui percutit patrem quam qui percutit extraneum. Sed sicut dicitur I Cor. VI, *qui fornicatur, in corpus suum peccat*, quod est homini coniunctissimum. Ergo videtur quod fornicatio sit gravissimum peccatum.]]
 ![[CERF IIa-IIæ, q. 154, a. 3#arg. 2]]
 
 ###### arg. 3

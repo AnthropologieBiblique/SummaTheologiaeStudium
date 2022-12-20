@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 44, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 44, a. 1#s.c.|Sed contra est quod dicitur [[Rm 11]], *ex ipso, et per ipsum, et in ipso sunt omnia*.]]
+![[LEO Ia, q. 44, a. 1#s.c.|Sed contra est quod dicitur Rom. XI, *ex ipso, et per ipsum, et in ipso sunt omnia*.]]
 ![[CERF Ia, q. 44, a. 1#s.c.]]
 
 ###### resp.

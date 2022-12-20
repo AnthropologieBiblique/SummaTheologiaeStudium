@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO Ia, q. 103, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod aliquid possit reniti contra ordinem gubernationis divinae. Dicitur enim [[Is 3]], *lingua eorum et adinventiones eorum contra dominum*.]]
+![[LEO Ia, q. 103, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod aliquid possit reniti contra ordinem gubernationis divinae. Dicitur enim Isaiae III, *lingua eorum et adinventiones eorum contra dominum*.]]
 ![[CERF Ia, q. 103, a. 8#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 103, a. 8#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 103, a. 8#s.c.|Sed contra est quod dicit Boetius, in III de Consol., *non est aliquid quod summo huic bono vel velit vel possit obsistere. Est igitur summum bonum quod regit cuncta fortiter, suaviterque disponit*; ut dicitur [[Sg 8]], de divina sapientia.]]
+![[LEO Ia, q. 103, a. 8#s.c.|Sed contra est quod dicit Boetius, in III de Consol., *non est aliquid quod summo huic bono vel velit vel possit obsistere. Est igitur summum bonum quod regit cuncta fortiter, suaviterque disponit*; ut dicitur Sap. VIII, de divina sapientia.]]
 ![[CERF Ia, q. 103, a. 8#s.c.]]
 
 ###### resp.

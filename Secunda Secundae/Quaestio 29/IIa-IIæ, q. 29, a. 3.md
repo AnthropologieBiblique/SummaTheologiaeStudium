@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 29, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 29, a. 3#arg. 2|Praeterea, illud non est effectus caritatis cuius contrarium cum caritate esse potest. Sed dissensio, quae contrariatur paci, potest esse cum caritate, videmus enim quod etiam sacri doctores, ut Hieronymus et Augustinus, in aliquibus opinionibus dissenserunt; Paulus etiam et Barnabas dissensisse leguntur, [[Ac 15]]. Ergo videtur quod pax non sit effectus caritatis.]]
+![[LEO IIa-IIæ, q. 29, a. 3#arg. 2|Praeterea, illud non est effectus caritatis cuius contrarium cum caritate esse potest. Sed dissensio, quae contrariatur paci, potest esse cum caritate, videmus enim quod etiam sacri doctores, ut Hieronymus et Augustinus, in aliquibus opinionibus dissenserunt; Paulus etiam et Barnabas dissensisse leguntur, Act. XV. Ergo videtur quod pax non sit effectus caritatis.]]
 ![[CERF IIa-IIæ, q. 29, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 29, a. 3#arg. 3|Praeterea, idem non est proprius effectus diversorum. Sed pax est effectus iustitiae, secundum illud [[Is 32]], *opus iustitiae pax*. Ergo non est effectus caritatis.]]
+![[LEO IIa-IIæ, q. 29, a. 3#arg. 3|Praeterea, idem non est proprius effectus diversorum. Sed pax est effectus iustitiae, secundum illud Isaiae XXXII, *opus iustitiae pax*. Ergo non est effectus caritatis.]]
 ![[CERF IIa-IIæ, q. 29, a. 3#arg. 3]]
 
 ###### s.c.

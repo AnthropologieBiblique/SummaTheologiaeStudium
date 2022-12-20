@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 91, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 91, a. 3#arg. 3|Praeterea, mensura debet esse certissima, ut dicitur in X Metaphys. Sed dictamen humanae rationis de rebus gerendis est incertum; secundum illud [[Sg 9]], *cogitationes mortalium timidae, et incertae providentiae nostrae*. Ergo ex ratione humana nulla lex procedere potest.]]
+![[LEO Ia-IIæ, q. 91, a. 3#arg. 3|Praeterea, mensura debet esse certissima, ut dicitur in X Metaphys. Sed dictamen humanae rationis de rebus gerendis est incertum; secundum illud Sap. IX, *cogitationes mortalium timidae, et incertae providentiae nostrae*. Ergo ex ratione humana nulla lex procedere potest.]]
 ![[CERF Ia-IIæ, q. 91, a. 3#arg. 3]]
 
 ###### s.c.

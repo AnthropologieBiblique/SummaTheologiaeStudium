@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 147, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod inconvenienter ieiunantibus indicatur abstinentia a carnibus et ovis et lacticiniis. Dictum est enim supra quod ieiunium est institutum ad concupiscentias carnis refrenandas. Sed magis concupiscentiam provocat potus vini quam esus carnium, secundum illud [[Pr 20]], *luxuriosa res est vinum*; et [[Ep 5]], *nolite inebriari vino, in quo est luxuria*. Cum ergo non interdicatur ieiunantibus potus vini, videtur quod non debeat interdici esus carnium.]]
+![[LEO IIa-IIæ, q. 147, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod inconvenienter ieiunantibus indicatur abstinentia a carnibus et ovis et lacticiniis. Dictum est enim supra quod ieiunium est institutum ad concupiscentias carnis refrenandas. Sed magis concupiscentiam provocat potus vini quam esus carnium, secundum illud Prov. XX, *luxuriosa res est vinum*; et Ephes. V, *nolite inebriari vino, in quo est luxuria*. Cum ergo non interdicatur ieiunantibus potus vini, videtur quod non debeat interdici esus carnium.]]
 ![[CERF IIa-IIæ, q. 147, a. 8#arg. 1]]
 
 ###### arg. 2

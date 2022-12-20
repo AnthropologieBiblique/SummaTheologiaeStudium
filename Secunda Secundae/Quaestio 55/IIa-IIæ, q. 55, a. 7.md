@@ -6,7 +6,7 @@ tags :
 ### Articulus 7
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 55, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod aliquis debeat esse sollicitus in futurum. Dicitur enim [[Pr 6]], *vade ad formicam, o piger, et considera vias eius, et disce sapientiam, quae cum non habeat ducem nec praeceptorem, parat in aestate cibum sibi, et congregat in messe quod comedat*. Sed hoc est in futurum sollicitari. Ergo laudabilis est sollicitudo futurorum.]]
+![[LEO IIa-IIæ, q. 55, a. 7#arg. 1|Ad septimum sic proceditur. Videtur quod aliquis debeat esse sollicitus in futurum. Dicitur enim Prov. VI, *vade ad formicam, o piger, et considera vias eius, et disce sapientiam, quae cum non habeat ducem nec praeceptorem, parat in aestate cibum sibi, et congregat in messe quod comedat*. Sed hoc est in futurum sollicitari. Ergo laudabilis est sollicitudo futurorum.]]
 ![[CERF IIa-IIæ, q. 55, a. 7#arg. 1]]
 
 ###### arg. 2
@@ -14,15 +14,15 @@ tags :
 ![[CERF IIa-IIæ, q. 55, a. 7#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 55, a. 7#arg. 3|Praeterea, quicumque reponit aliquid in posterum conservandum sollicitus est in futurum. Sed ipse Christus legitur, [[Jn 12]], loculos habuisse ad aliquid conservandum, quos Iudas deferebat. Apostoli etiam conservabant pretia praediorum, quae ante pedes eorum ponebantur, ut legitur [[Ac 4]]. Ergo licitum est in futurum sollicitari.]]
+![[LEO IIa-IIæ, q. 55, a. 7#arg. 3|Praeterea, quicumque reponit aliquid in posterum conservandum sollicitus est in futurum. Sed ipse Christus legitur, Ioan. XII, loculos habuisse ad aliquid conservandum, quos Iudas deferebat. Apostoli etiam conservabant pretia praediorum, quae ante pedes eorum ponebantur, ut legitur Act. IV. Ergo licitum est in futurum sollicitari.]]
 ![[CERF IIa-IIæ, q. 55, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 55, a. 7#s.c.|Sed contra est quod dominus dicit, [[Mt 6]], *nolite solliciti esse in crastinum*. Cras autem ibi ponitur pro futuro, sicut dicit Hieronymus.]]
+![[LEO IIa-IIæ, q. 55, a. 7#s.c.|Sed contra est quod dominus dicit, Matth. VI, *nolite solliciti esse in crastinum*. Cras autem ibi ponitur pro futuro, sicut dicit Hieronymus.]]
 ![[CERF IIa-IIæ, q. 55, a. 7#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 55, a. 7#resp.|Respondeo dicendum quod nullum opus potest esse virtuosum nisi debitis circumstantiis vestiatur; inter quas una est debitum tempus, secundum illud [[Qo 8]], *omni negotio tempus est et opportunitas*. Quod non solum in exterioribus operibus, sed etiam in interiori sollicitudine locum habet. Unicuique enim tempori competit propria sollicitudo, sicut tempori aestatis competit sollicitudo metendi, tempori autumni sollicitudo vindemiae. Si quis ergo tempore aestatis de vindemia iam esset sollicitus, superflue praeoccuparet futuri temporis sollicitudinem. Unde huiusmodi sollicitudinem tanquam superfluam dominus prohibet, dicens, *nolite solliciti esse in crastinum*. Unde subdit, *crastinus enim dies sollicitus erit sibi ipsi*, idest, suam propriam sollicitudinem habebit, quae sufficiet ad animum affligendum. Et hoc est quod subdit, *sufficit diei malitia sua*, idest afflictio sollicitudinis.]]
+![[LEO IIa-IIæ, q. 55, a. 7#resp.|Respondeo dicendum quod nullum opus potest esse virtuosum nisi debitis circumstantiis vestiatur; inter quas una est debitum tempus, secundum illud Eccle. VIII, *omni negotio tempus est et opportunitas*. Quod non solum in exterioribus operibus, sed etiam in interiori sollicitudine locum habet. Unicuique enim tempori competit propria sollicitudo, sicut tempori aestatis competit sollicitudo metendi, tempori autumni sollicitudo vindemiae. Si quis ergo tempore aestatis de vindemia iam esset sollicitus, superflue praeoccuparet futuri temporis sollicitudinem. Unde huiusmodi sollicitudinem tanquam superfluam dominus prohibet, dicens, *nolite solliciti esse in crastinum*. Unde subdit, *crastinus enim dies sollicitus erit sibi ipsi*, idest, suam propriam sollicitudinem habebit, quae sufficiet ad animum affligendum. Et hoc est quod subdit, *sufficit diei malitia sua*, idest afflictio sollicitudinis.]]
 ![[CERF IIa-IIæ, q. 55, a. 7#resp.]]
 
 ###### ad 1

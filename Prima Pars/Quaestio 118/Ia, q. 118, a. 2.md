@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 118, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod anima intellectiva causetur ex semine. Dicitur enim [[Gn 46]], *cunctae animae quae egressae sunt de femore Iacob, sexaginta sex*. Sed nihil egreditur de femore hominis, nisi inquantum causatur ex semine. Ergo anima intellectiva causatur ex semine.]]
+![[LEO Ia, q. 118, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod anima intellectiva causetur ex semine. Dicitur enim Gen. XLVI, *cunctae animae quae egressae sunt de femore Iacob, sexaginta sex*. Sed nihil egreditur de femore hominis, nisi inquantum causatur ex semine. Ergo anima intellectiva causatur ex semine.]]
 ![[CERF Ia, q. 118, a. 2#arg. 1]]
 
 ###### arg. 2

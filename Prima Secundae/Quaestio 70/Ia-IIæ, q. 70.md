@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia-IIæ, q. 70#Prooemium|Deinde considerandum est de fructibus. Et circa hoc quaeruntur quatuor. Primo, utrum fructus spiritus sancti sint actus. Secundo, utrum differant a beatitudinibus. Tertio, de eorum numero. Quarto, de oppositione eorum ad opera carnis.]]
-![[CERF Ia-IIæ, q. 70#Prooemium]]
+Deinde considerandum est de fructibus. Et circa hoc quaeruntur quatuor. Primo, utrum fructus spiritus sancti sint actus. Secundo, utrum differant a beatitudinibus. Tertio, de eorum numero. Quarto, de oppositione eorum ad opera carnis.
 
 ![[Ia-IIæ, q. 70, a. 1#Articulus 1]]
 

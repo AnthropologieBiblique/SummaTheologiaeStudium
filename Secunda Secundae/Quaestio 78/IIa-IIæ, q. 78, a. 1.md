@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 78, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod accipere usuram pro pecunia mutuata non sit peccatum. Nullus enim peccat ex hoc quod sequitur exemplum Christi. Sed dominus de seipso dicit, [[Lc 19]], ego veniens cum usuris exegissem illam, scilicet pecuniam mutuatam. Ergo non est peccatum accipere usuram pro mutuo pecuniae.]]
+![[LEO IIa-IIæ, q. 78, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod accipere usuram pro pecunia mutuata non sit peccatum. Nullus enim peccat ex hoc quod sequitur exemplum Christi. Sed dominus de seipso dicit, Luc. XIX, ego veniens cum usuris exegissem illam, scilicet pecuniam mutuatam. Ergo non est peccatum accipere usuram pro mutuo pecuniae.]]
 ![[CERF IIa-IIæ, q. 78, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 78, a. 1#arg. 2|Praeterea, sicut dicitur in Psalm., *lex domini immaculata*, quia scilicet peccatum prohibet. Sed in lege divina conceditur aliqua usura, secundum illud [[Dt 23]], *non faenerabis fratri tuo ad usuram pecuniam, nec fruges nec quamlibet aliam rem, sed alieno*. Et, quod plus est, etiam in praemium repromittitur pro lege servata, secundum illud [[Dt 23]], *faenerabis gentibus multis; et ipse a nullo faenus accipies*. Ergo accipere usuram non est peccatum.]]
+![[LEO IIa-IIæ, q. 78, a. 1#arg. 2|Praeterea, sicut dicitur in Psalm., *lex domini immaculata*, quia scilicet peccatum prohibet. Sed in lege divina conceditur aliqua usura, secundum illud Deut. XXIII, *non faenerabis fratri tuo ad usuram pecuniam, nec fruges nec quamlibet aliam rem, sed alieno*. Et, quod plus est, etiam in praemium repromittitur pro lege servata, secundum illud Deut. XXVIII, *faenerabis gentibus multis; et ipse a nullo faenus accipies*. Ergo accipere usuram non est peccatum.]]
 ![[CERF IIa-IIæ, q. 78, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 78, a. 1#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 78, a. 1#arg. 4|Praeterea, praetermittere consilia non obligat ad peccatum. Sed [[Lc 6]] inter alia consilia ponitur, *date mutuum, nihil inde sperantes*. Ergo accipere usuram non est peccatum.]]
+![[LEO IIa-IIæ, q. 78, a. 1#arg. 4|Praeterea, praetermittere consilia non obligat ad peccatum. Sed Luc. VI inter alia consilia ponitur, *date mutuum, nihil inde sperantes*. Ergo accipere usuram non est peccatum.]]
 ![[CERF IIa-IIæ, q. 78, a. 1#arg. 4]]
 
 ###### arg. 5
@@ -34,7 +34,7 @@ tags :
 ![[CERF IIa-IIæ, q. 78, a. 1#arg. 7]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 78, a. 1#s.c.|Sed contra est quod dicitur [[Ex 22]], *si pecuniam mutuam dederis populo meo pauperi qui habitat tecum, non urgebis eum quasi exactor, nec usuris opprimes*.]]
+![[LEO IIa-IIæ, q. 78, a. 1#s.c.|Sed contra est quod dicitur Exod. XXII, *si pecuniam mutuam dederis populo meo pauperi qui habitat tecum, non urgebis eum quasi exactor, nec usuris opprimes*.]]
 ![[CERF IIa-IIæ, q. 78, a. 1#s.c.]]
 
 ###### resp.
@@ -46,7 +46,7 @@ tags :
 ![[CERF IIa-IIæ, q. 78, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 78, a. 1#ad 2|Ad secundum dicendum quod Iudaeis prohibitum fuit accipere usuram a fratribus suis, scilicet Iudaeis, per quod datur intelligi quod accipere usuram a quocumque homine est simpliciter malum; debemus enim omnem hominem habere quasi proximum et fratrem, praecipue in statu Evangelii, ad quod omnes vocantur. Unde in Psalm. absolute dicitur, *qui pecuniam suam non dedit ad usuram*; et [[Ez 18]], *qui usuram non acceperit*. Quod autem ab extraneis usuram acciperent, non fuit eis concessum quasi licitum, sed permissum ad maius malum vitandum, ne scilicet a Iudaeis, Deum colentibus, usuras acciperent, propter avaritiam, cui dediti erant, ut habetur [[Is 56]]. Quod autem in praemium promittitur, faenerabis gentibus multis etc., faenus ibi large accipitur pro mutuo, sicut et [[Si 29]] dicitur, multi non causa nequitiae non faenerati sunt, idest non mutuaverunt. Promittitur ergo in praemium Iudaeis abundantia divitiarum, ex qua contingit quod aliis mutuare possint.]]
+![[LEO IIa-IIæ, q. 78, a. 1#ad 2|Ad secundum dicendum quod Iudaeis prohibitum fuit accipere usuram a fratribus suis, scilicet Iudaeis, per quod datur intelligi quod accipere usuram a quocumque homine est simpliciter malum; debemus enim omnem hominem habere quasi proximum et fratrem, praecipue in statu Evangelii, ad quod omnes vocantur. Unde in Psalm. absolute dicitur, *qui pecuniam suam non dedit ad usuram*; et Ezech. XVIII, *qui usuram non acceperit*. Quod autem ab extraneis usuram acciperent, non fuit eis concessum quasi licitum, sed permissum ad maius malum vitandum, ne scilicet a Iudaeis, Deum colentibus, usuras acciperent, propter avaritiam, cui dediti erant, ut habetur Isaiae LVI. Quod autem in praemium promittitur, faenerabis gentibus multis etc., faenus ibi large accipitur pro mutuo, sicut et Eccli. XXIX dicitur, multi non causa nequitiae non faenerati sunt, idest non mutuaverunt. Promittitur ergo in praemium Iudaeis abundantia divitiarum, ex qua contingit quod aliis mutuare possint.]]
 ![[CERF IIa-IIæ, q. 78, a. 1#ad 2]]
 
 ###### ad 3

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 31, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 31, a. 5#arg. 2|Praeterea, sicut mulier formata est miraculose de viro, ita corpus Christi miraculose formatum est de virgine. Sed mulier non dicitur esse formata de sanguine viri, sed magis de carne et ossibus eius, secundum illud quod dicitur [[Gn 2]], *hoc nunc os ex ossibus meis, et caro de carne mea*. Ergo videtur quod nec etiam corpus Christi formari debuerit de sanguine virginis, sed de carnibus et ossibus eius.]]
+![[LEO IIIa, q. 31, a. 5#arg. 2|Praeterea, sicut mulier formata est miraculose de viro, ita corpus Christi miraculose formatum est de virgine. Sed mulier non dicitur esse formata de sanguine viri, sed magis de carne et ossibus eius, secundum illud quod dicitur Gen. II, *hoc nunc os ex ossibus meis, et caro de carne mea*. Ergo videtur quod nec etiam corpus Christi formari debuerit de sanguine virginis, sed de carnibus et ossibus eius.]]
 ![[CERF IIIa, q. 31, a. 5#arg. 2]]
 
 ###### arg. 3

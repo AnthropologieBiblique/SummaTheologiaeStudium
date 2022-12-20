@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 89, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 89, a. 4#s.c.|Sed contra est quod dicitur [[Ez 18]], *si averterit se iustus a iustitia sua, omnes iustitiae eius quas fecerat, non recordabuntur*.]]
+![[LEO IIIa, q. 89, a. 4#s.c.|Sed contra est quod dicitur Ezech. XVIII, *si averterit se iustus a iustitia sua, omnes iustitiae eius quas fecerat, non recordabuntur*.]]
 ![[CERF IIIa, q. 89, a. 4#s.c.]]
 
 ###### resp.

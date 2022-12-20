@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 13, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 13, a. 3#s.c.|Sed contra est quod dicitur [[He 2]], quod debuit per omnia fratribus assimilari, et praecipue in his quae pertinent ad conditionem humanae naturae. Sed ad conditionem humanae naturae pertinet quod valetudo corporis, et eius nutritio et augmentum, imperio rationis, seu voluntati, non subdantur, quia naturalia soli Deo, qui est auctor naturae, subduntur. Ergo nec in Christo subdebantur. Non igitur anima Christi fuit omnipotens respectu proprii corporis.]]
+![[LEO IIIa, q. 13, a. 3#s.c.|Sed contra est quod dicitur Heb. II, quod debuit per omnia fratribus assimilari, et praecipue in his quae pertinent ad conditionem humanae naturae. Sed ad conditionem humanae naturae pertinet quod valetudo corporis, et eius nutritio et augmentum, imperio rationis, seu voluntati, non subdantur, quia naturalia soli Deo, qui est auctor naturae, subduntur. Ergo nec in Christo subdebantur. Non igitur anima Christi fuit omnipotens respectu proprii corporis.]]
 ![[CERF IIIa, q. 13, a. 3#s.c.]]
 
 ###### resp.

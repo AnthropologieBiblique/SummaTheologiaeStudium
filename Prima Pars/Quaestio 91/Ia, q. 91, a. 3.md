@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 91, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 91, a. 3#s.c.|Sed contra est quod dicitur [[Qo 7]], *Deus fecit hominem rectum*.]]
+![[LEO Ia, q. 91, a. 3#s.c.|Sed contra est quod dicitur Eccle. VII, *Deus fecit hominem rectum*.]]
 ![[CERF Ia, q. 91, a. 3#s.c.]]
 
 ###### resp.

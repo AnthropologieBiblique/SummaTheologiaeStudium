@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 75, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 75, a. 3#s.c.|Sed contra est quod dicitur [[Nb 31]], *nonne istae sunt quae deceperunt filios Israel, et praevaricari vos fecerunt in domino super peccato Phogor?* Ergo aliquid exterius potest esse causa faciens peccare.]]
+![[LEO Ia-IIæ, q. 75, a. 3#s.c.|Sed contra est quod dicitur Num. XXXI, *nonne istae sunt quae deceperunt filios Israel, et praevaricari vos fecerunt in domino super peccato Phogor?* Ergo aliquid exterius potest esse causa faciens peccare.]]
 ![[CERF Ia-IIæ, q. 75, a. 3#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 7, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod in Christo non fuerint virtutes. Christus enim habuit abundantiam gratiae. Sed gratia sufficit ad omnia recte agendum, secundum illud [[2 Co 12]], *sufficit tibi gratia mea*. Ergo in Christo non fuerunt virtutes.]]
+![[LEO IIIa, q. 7, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod in Christo non fuerint virtutes. Christus enim habuit abundantiam gratiae. Sed gratia sufficit ad omnia recte agendum, secundum illud II Cor. XII, *sufficit tibi gratia mea*. Ergo in Christo non fuerunt virtutes.]]
 ![[CERF IIIa, q. 7, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 7, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 7, a. 2#arg. 3|Praeterea, sicut in secunda parte dictum est, virtutes omnes simul habentur. Sed Christo non fuit conveniens habere simul omnes virtutes, sicut patet de liberalitate et magnificentia, quae habent actum suum circa divitias, quas Christus contempsit, secundum illud [[Mt 8]], *filius hominis non habet ubi caput suum reclinet*. Temperantia etiam et continentia sunt circa concupiscentias pravas, quae in Christo non fuerunt. Ergo Christus non habuit virtutes.]]
+![[LEO IIIa, q. 7, a. 2#arg. 3|Praeterea, sicut in secunda parte dictum est, virtutes omnes simul habentur. Sed Christo non fuit conveniens habere simul omnes virtutes, sicut patet de liberalitate et magnificentia, quae habent actum suum circa divitias, quas Christus contempsit, secundum illud Matth. VIII, *filius hominis non habet ubi caput suum reclinet*. Temperantia etiam et continentia sunt circa concupiscentias pravas, quae in Christo non fuerunt. Ergo Christus non habuit virtutes.]]
 ![[CERF IIIa, q. 7, a. 2#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 7, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 7, a. 2#ad 3|Ad tertium dicendum quod liberalitas et magnificentia commendantur circa divitias inquantum aliquis non tantum appretiatur divitias quod velit eas retinere praetermittendo id quod fieri oportet. Ille autem minime divitias appretiatur qui penitus eas contemnit et abiicit propter perfectionis amorem. Et ideo in hoc ipso quod Christus omnes divitias contempsit, ostendit in se summum gradum liberalitatis et magnificentiae. Licet etiam liberalitatis actum exercuerit, secundum quod sibi conveniens erat faciendo pauperibus erogari quae sibi dabantur, unde, cum dominus dixit Iudae, [[Jn 13]], *quod facis, fac citius*, discipuli intellexerunt dominum mandasse quod egenis aliquid daret. Concupiscentias autem pravas Christus omnino non habuit, sicut infra patebit. Propter hoc tamen non excluditur quin habuerit temperantiam, quae tanto perfectior est in homine quanto magis pravis concupiscentiis caret. Unde, secundum philosophum, in VII Ethic., temperatus in hoc differt a continente, quod temperatus non habet pravas concupiscentias, quas continens patitur. Unde, sic accipiendo continentiam sicut philosophus accipit, ex hoc ipso quod Christus habuit omnem virtutem, non habuit continentiam, quae non est virtus, sed aliquid minus virtute.]]
+![[LEO IIIa, q. 7, a. 2#ad 3|Ad tertium dicendum quod liberalitas et magnificentia commendantur circa divitias inquantum aliquis non tantum appretiatur divitias quod velit eas retinere praetermittendo id quod fieri oportet. Ille autem minime divitias appretiatur qui penitus eas contemnit et abiicit propter perfectionis amorem. Et ideo in hoc ipso quod Christus omnes divitias contempsit, ostendit in se summum gradum liberalitatis et magnificentiae. Licet etiam liberalitatis actum exercuerit, secundum quod sibi conveniens erat faciendo pauperibus erogari quae sibi dabantur, unde, cum dominus dixit Iudae, Ioan. XIII, *quod facis, fac citius*, discipuli intellexerunt dominum mandasse quod egenis aliquid daret. Concupiscentias autem pravas Christus omnino non habuit, sicut infra patebit. Propter hoc tamen non excluditur quin habuerit temperantiam, quae tanto perfectior est in homine quanto magis pravis concupiscentiis caret. Unde, secundum philosophum, in VII Ethic., temperatus in hoc differt a continente, quod temperatus non habet pravas concupiscentias, quas continens patitur. Unde, sic accipiendo continentiam sicut philosophus accipit, ex hoc ipso quod Christus habuit omnem virtutem, non habuit continentiam, quae non est virtus, sed aliquid minus virtute.]]
 ![[CERF IIIa, q. 7, a. 2#ad 3]]
 

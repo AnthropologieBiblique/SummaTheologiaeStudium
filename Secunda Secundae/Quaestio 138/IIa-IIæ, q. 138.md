@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 138#Prooemium|Deinde considerandum est de vitiis oppositis perseverantiae. Et circa hoc quaeruntur duo. Primo, de mollitie. Secundo, de pertinacia.]]
-![[CERF IIa-IIæ, q. 138#Prooemium]]
+Deinde considerandum est de vitiis oppositis perseverantiae. Et circa hoc quaeruntur duo. Primo, de mollitie. Secundo, de pertinacia.
 
 ![[IIa-IIæ, q. 138, a. 1#Articulus 1]]
 

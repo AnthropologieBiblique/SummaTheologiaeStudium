@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 43, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 43, a. 8#arg. 3|Praeterea, in temporalibus bonis nihil est magis necessarium quam cibus. Sed cibus est praetermittendus propter scandalum, secundum illud [[Rm 14]], *noli cibo tuo illum perdere pro quo Christus mortuus est*. Ergo multo magis omnia alia temporalia sunt propter scandalum dimittenda.]]
+![[LEO IIa-IIæ, q. 43, a. 8#arg. 3|Praeterea, in temporalibus bonis nihil est magis necessarium quam cibus. Sed cibus est praetermittendus propter scandalum, secundum illud Rom. XIV, *noli cibo tuo illum perdere pro quo Christus mortuus est*. Ergo multo magis omnia alia temporalia sunt propter scandalum dimittenda.]]
 ![[CERF IIa-IIæ, q. 43, a. 8#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 43, a. 8#arg. 4|Praeterea, temporalia nullo convenientiori modo conservare aut recuperare possumus quam per iudicium. Sed iudiciis uti non licet, et praecipue cum scandalo, dicitur enim [[Mt 5]], *ei qui vult tecum in iudicio contendere et tunicam tuam tollere, dimitte ei et pallium*; et I ad Cor. VI, *iam quidem omnino delictum est in vobis quod iudicia habetis inter vos. Quare non magis iniuriam accipitis? Quare non magis fraudem patimini?* Ergo videtur quod temporalia sint propter scandalum dimittenda.]]
+![[LEO IIa-IIæ, q. 43, a. 8#arg. 4|Praeterea, temporalia nullo convenientiori modo conservare aut recuperare possumus quam per iudicium. Sed iudiciis uti non licet, et praecipue cum scandalo, dicitur enim Matth. V, *ei qui vult tecum in iudicio contendere et tunicam tuam tollere, dimitte ei et pallium*; et I ad Cor. VI, *iam quidem omnino delictum est in vobis quod iudicia habetis inter vos. Quare non magis iniuriam accipitis? Quare non magis fraudem patimini?* Ergo videtur quod temporalia sint propter scandalum dimittenda.]]
 ![[CERF IIa-IIæ, q. 43, a. 8#arg. 4]]
 
 ###### arg. 5

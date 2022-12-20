@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 163, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 163, a. 3#arg. 2|Praeterea, poena proportionatur culpae. Sed peccatum primorum parentum gravissime est punitum, quia ex ipso mors introivit in hunc mundum, ut apostolus dicit, [[Rm 5]]. Ergo peccatum illud fuit gravius aliis peccatis.]]
+![[LEO IIa-IIæ, q. 163, a. 3#arg. 2|Praeterea, poena proportionatur culpae. Sed peccatum primorum parentum gravissime est punitum, quia ex ipso mors introivit in hunc mundum, ut apostolus dicit, Rom. V. Ergo peccatum illud fuit gravius aliis peccatis.]]
 ![[CERF IIa-IIæ, q. 163, a. 3#arg. 2]]
 
 ###### arg. 3

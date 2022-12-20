@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 18, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 18, a. 4#s.c.|Sed contra est quod dicitur [[Is 7]], *butyrum et mel comedet, ut sciat reprobare malum et eligere bonum*, quod est actus liberi arbitrii. Ergo in Christo fuit liberum arbitrium.]]
+![[LEO IIIa, q. 18, a. 4#s.c.|Sed contra est quod dicitur Isaiae VII, *butyrum et mel comedet, ut sciat reprobare malum et eligere bonum*, quod est actus liberi arbitrii. Ergo in Christo fuit liberum arbitrium.]]
 ![[CERF IIIa, q. 18, a. 4#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 18, a. 4#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 18, a. 4#ad 1|Ad primum ergo dicendum quod Damascenus excludit a Christo electionem secundum quod intelligit in nomine electionis importari dubitationem. Sed tamen dubitatio non est de necessitate electionis, quia etiam Deo competit eligere, secundum illud [[Ep 1]], *elegit nos in ipso ante mundi constitutionem*; cum tamen in Deo nulla sit dubitatio. Accidit autem dubitatio electioni, inquantum est in natura ignorante. Et idem dicendum est de aliis de quibus fit mentio in auctoritate praedicta.]]
+![[LEO IIIa, q. 18, a. 4#ad 1|Ad primum ergo dicendum quod Damascenus excludit a Christo electionem secundum quod intelligit in nomine electionis importari dubitationem. Sed tamen dubitatio non est de necessitate electionis, quia etiam Deo competit eligere, secundum illud Ephes. I, *elegit nos in ipso ante mundi constitutionem*; cum tamen in Deo nulla sit dubitatio. Accidit autem dubitatio electioni, inquantum est in natura ignorante. Et idem dicendum est de aliis de quibus fit mentio in auctoritate praedicta.]]
 ![[CERF IIIa, q. 18, a. 4#ad 1]]
 
 ###### ad 2

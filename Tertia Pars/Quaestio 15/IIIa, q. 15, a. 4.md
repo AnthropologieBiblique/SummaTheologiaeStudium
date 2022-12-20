@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 15, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 15, a. 4#arg. 3|Praeterea, passiones animae videntur idem esse cum fomite peccati, unde apostolus, [[Rm 7]], vocat eas *passiones peccatorum*. Sed in Christo non fuit fomes peccati, ut supra dictum est. Ergo videtur quod non fuerint in eo animae passiones. Et ita anima Christi non fuit passibilis.]]
+![[LEO IIIa, q. 15, a. 4#arg. 3|Praeterea, passiones animae videntur idem esse cum fomite peccati, unde apostolus, Rom. VII, vocat eas *passiones peccatorum*. Sed in Christo non fuit fomes peccati, ut supra dictum est. Ergo videtur quod non fuerint in eo animae passiones. Et ita anima Christi non fuit passibilis.]]
 ![[CERF IIIa, q. 15, a. 4#arg. 3]]
 
 ###### s.c.

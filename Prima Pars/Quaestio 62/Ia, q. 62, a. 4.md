@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 62, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 62, a. 4#s.c.|Sed contra, [[Ap 21]], dicitur quod mensura Angeli, in illa caelesti Ierusalem, est mensura hominis. Sed homo ad beatitudinem pertingere non potest nisi per meritum. Ergo neque Angelus.]]
+![[LEO Ia, q. 62, a. 4#s.c.|Sed contra, Apoc. XXI, dicitur quod mensura Angeli, in illa caelesti Ierusalem, est mensura hominis. Sed homo ad beatitudinem pertingere non potest nisi per meritum. Ergo neque Angelus.]]
 ![[CERF Ia, q. 62, a. 4#s.c.]]
 
 ###### resp.

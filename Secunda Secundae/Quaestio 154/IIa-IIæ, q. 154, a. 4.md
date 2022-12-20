@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 154, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod in tactibus et osculis non consistat peccatum mortale. Apostolus enim, ad [[Ep 5]], dicit, *fornicatio autem et omnis immunditia, aut avaritia, ne nominetur in vobis, sicut decet sanctos*. Subdit autem, aut turpitudo, Glossa, *ut in osculis et amplexibus; aut stultiloquium, ut blanda verba; aut scurrilitas, quae a stultis curialitas dicitur, idest iocularitas*. Postea autem subdit, *hoc enim scitote, intelligentes, quod omnis fornicator aut immundus aut avarus, quod est idolorum servitus, non habet haereditatem in regno Christi et Dei*, ubi non replicat de turpitudine, sicut nec de stultiloquio aut scurrilitate. Ergo ista non sunt peccata mortalia.]]
+![[LEO IIa-IIæ, q. 154, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod in tactibus et osculis non consistat peccatum mortale. Apostolus enim, ad Ephes. V, dicit, *fornicatio autem et omnis immunditia, aut avaritia, ne nominetur in vobis, sicut decet sanctos*. Subdit autem, aut turpitudo, Glossa, *ut in osculis et amplexibus; aut stultiloquium, ut blanda verba; aut scurrilitas, quae a stultis curialitas dicitur, idest iocularitas*. Postea autem subdit, *hoc enim scitote, intelligentes, quod omnis fornicator aut immundus aut avarus, quod est idolorum servitus, non habet haereditatem in regno Christi et Dei*, ubi non replicat de turpitudine, sicut nec de stultiloquio aut scurrilitate. Ergo ista non sunt peccata mortalia.]]
 ![[CERF IIa-IIæ, q. 154, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 154, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 154, a. 4#s.c.|Sed contra, minus est aspectus libidinosus quam tactus, amplexus vel osculum. Sed aspectus libidinosus est peccatum mortale, secundum illud [[Mt 5]], *qui viderit mulierem ad concupiscendum eam, iam moechatus est eam in corde suo*. Ergo multo magis osculum libidinosum, et alia huiusmodi, sunt peccata mortalia.]]
+![[LEO IIa-IIæ, q. 154, a. 4#s.c.|Sed contra, minus est aspectus libidinosus quam tactus, amplexus vel osculum. Sed aspectus libidinosus est peccatum mortale, secundum illud Matth. V, *qui viderit mulierem ad concupiscendum eam, iam moechatus est eam in corde suo*. Ergo multo magis osculum libidinosum, et alia huiusmodi, sunt peccata mortalia.]]
 ![[CERF IIa-IIæ, q. 154, a. 4#s.c.]]
 
 ###### s.c.

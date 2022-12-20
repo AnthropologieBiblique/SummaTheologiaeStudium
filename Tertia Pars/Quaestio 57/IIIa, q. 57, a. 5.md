@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 57, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 57, a. 5#s.c.|Sed contra est quod dicitur [[Ep 1]], *constituit illum super omnem principatum et potestatem, et supra omne nomen quod nominatur sive in hoc saeculo sive in futuro*.]]
+![[LEO IIIa, q. 57, a. 5#s.c.|Sed contra est quod dicitur Ephes. I, *constituit illum super omnem principatum et potestatem, et supra omne nomen quod nominatur sive in hoc saeculo sive in futuro*.]]
 ![[CERF IIIa, q. 57, a. 5#s.c.]]
 
 ###### resp.

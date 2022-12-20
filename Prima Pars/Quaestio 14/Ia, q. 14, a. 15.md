@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 14, a. 15#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 14, a. 15#s.c.|Sed contra est quod dicitur [[Jc 1]], quod *apud Deum non est transmutatio, neque vicissitudinis obumbratio*.]]
+![[LEO Ia, q. 14, a. 15#s.c.|Sed contra est quod dicitur Iac. I, quod *apud Deum non est transmutatio, neque vicissitudinis obumbratio*.]]
 ![[CERF Ia, q. 14, a. 15#s.c.]]
 
 ###### resp.

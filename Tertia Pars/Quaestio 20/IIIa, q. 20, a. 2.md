@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 20, a. 2#s.c.]]
 
 ###### s.c.
-![[LEO IIIa, q. 20, a. 2#s.c.|Praeterea, Christus, secundum humanam naturam, est servus Dei patris secundum illud [[Jn 20]], *ascendo ad patrem meum et patrem vestrum, Deum meum et Deum vestrum*. Sed quicumque est servus patris, est servus filii, alioquin non omnia quae sunt patris essent filii. Ergo Christus est servus sui ipsius, et sibi subditus.]]
+![[LEO IIIa, q. 20, a. 2#s.c.|Praeterea, Christus, secundum humanam naturam, est servus Dei patris secundum illud Ioan. XX, *ascendo ad patrem meum et patrem vestrum, Deum meum et Deum vestrum*. Sed quicumque est servus patris, est servus filii, alioquin non omnia quae sunt patris essent filii. Ergo Christus est servus sui ipsius, et sibi subditus.]]
 ![[CERF IIIa, q. 20, a. 2#s.c.]]
 
 ###### resp.

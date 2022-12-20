@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 46, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 46, a. 2#s.c.|Sed contra est quod dicitur [[Pr 1]], *prosperitas stultorum perdet eos*. Sed nullus perditur nisi pro peccato. Ergo stultitia est peccatum.]]
+![[LEO IIa-IIæ, q. 46, a. 2#s.c.|Sed contra est quod dicitur Prov. I, *prosperitas stultorum perdet eos*. Sed nullus perditur nisi pro peccato. Ergo stultitia est peccatum.]]
 ![[CERF IIa-IIæ, q. 46, a. 2#s.c.]]
 
 ###### resp.

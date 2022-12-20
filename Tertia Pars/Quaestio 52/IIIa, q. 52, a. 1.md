@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 52, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 52, a. 1#s.c.|Sed contra est quod dicitur in symbolo, *descendit ad Inferos*. Et apostolus dicit, [[Ep 4]], *quod autem ascendit, quid est nisi quia descendit primum ad inferiores partes terrae?* Glossa, *idest ad Inferos*.]]
+![[LEO IIIa, q. 52, a. 1#s.c.|Sed contra est quod dicitur in symbolo, *descendit ad Inferos*. Et apostolus dicit, Ephes. IV, *quod autem ascendit, quid est nisi quia descendit primum ad inferiores partes terrae?* Glossa, *idest ad Inferos*.]]
 ![[CERF IIIa, q. 52, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 52, a. 1#resp.|Respondeo dicendum quod conveniens fuit Christum ad Infernum descendere. Primo quidem, quia ipse venerat poenam nostram portare, ut nos a poena eriperet, secundum illud [[Is 53]], *vere languores nostros ipse tulit, et dolores nostros ipse portavit*. Ex peccato autem homo incurrerat non solum mortem corporis, sed etiam descensum ad Inferos. Et ideo, sicut fuit conveniens eum mori ut nos liberaret a morte, ita conveniens fuit eum descendere ad Inferos ut nos a descensu ad Inferos liberaret. Unde dicitur [[Os 13]], *ero mors tua, o mors. Ero morsus tuus, Inferne*. Secundo, quia conveniens erat ut, victo Diabolo per passionem, vinctos eius eriperet, qui detinebantur in Inferno, secundum illud [[Za 9]], *tu quoque in sanguine testamenti tui vinctos tuos emisisti de lacu*. Et [[Col 2]] dicitur, *exspolians principatus et potestates, traduxit confidenter*. Tertio ut, sicut potestatem suam ostendit in terra vivendo et moriendo, ita etiam potestatem suam ostenderet in Inferno, ipsum visitando et illuminando; unde dicitur in Psalmo, *attollite portas, principes, vestras*, Glossa, *idest, principes Inferni, auferte potestatem vestram, qua usque nunc homines in Inferno detinebatis*; et sic in nomine Iesu omne genu flectatur, non solum caelestium, sed etiam Infernorum, ut dicitur [[Ph 2]].]]
+![[LEO IIIa, q. 52, a. 1#resp.|Respondeo dicendum quod conveniens fuit Christum ad Infernum descendere. Primo quidem, quia ipse venerat poenam nostram portare, ut nos a poena eriperet, secundum illud Isaiae LIII, *vere languores nostros ipse tulit, et dolores nostros ipse portavit*. Ex peccato autem homo incurrerat non solum mortem corporis, sed etiam descensum ad Inferos. Et ideo, sicut fuit conveniens eum mori ut nos liberaret a morte, ita conveniens fuit eum descendere ad Inferos ut nos a descensu ad Inferos liberaret. Unde dicitur Osee XIII, *ero mors tua, o mors. Ero morsus tuus, Inferne*. Secundo, quia conveniens erat ut, victo Diabolo per passionem, vinctos eius eriperet, qui detinebantur in Inferno, secundum illud Zach. IX, *tu quoque in sanguine testamenti tui vinctos tuos emisisti de lacu*. Et Coloss. II dicitur, *exspolians principatus et potestates, traduxit confidenter*. Tertio ut, sicut potestatem suam ostendit in terra vivendo et moriendo, ita etiam potestatem suam ostenderet in Inferno, ipsum visitando et illuminando; unde dicitur in Psalmo, *attollite portas, principes, vestras*, Glossa, *idest, principes Inferni, auferte potestatem vestram, qua usque nunc homines in Inferno detinebatis*; et sic in nomine Iesu omne genu flectatur, non solum caelestium, sed etiam Infernorum, ut dicitur Philipp. II.]]
 ![[CERF IIIa, q. 52, a. 1#resp.]]
 
 ###### ad 1
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 52, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 52, a. 1#ad 2|Ad secundum dicendum quod passio Christi fuit quaedam causa universalis humanae salutis, tam vivorum quam mortuorum. Causa autem universalis applicatur ad singulares effectus per aliquid speciale. Unde, sicut virtus passionis Christi applicatur viventibus per sacramenta configurantia nos passioni Christi, ita etiam applicata est mortuis per descensum Christi ad Inferos. Propter quod signanter dicitur [[Za 9]], quod *eduxit vinctos de lacu in sanguine testamenti sui*, idest per virtutem passionis suae.]]
+![[LEO IIIa, q. 52, a. 1#ad 2|Ad secundum dicendum quod passio Christi fuit quaedam causa universalis humanae salutis, tam vivorum quam mortuorum. Causa autem universalis applicatur ad singulares effectus per aliquid speciale. Unde, sicut virtus passionis Christi applicatur viventibus per sacramenta configurantia nos passioni Christi, ita etiam applicata est mortuis per descensum Christi ad Inferos. Propter quod signanter dicitur Zach. IX, quod *eduxit vinctos de lacu in sanguine testamenti sui*, idest per virtutem passionis suae.]]
 ![[CERF IIIa, q. 52, a. 1#ad 2]]
 
 ###### ad 3

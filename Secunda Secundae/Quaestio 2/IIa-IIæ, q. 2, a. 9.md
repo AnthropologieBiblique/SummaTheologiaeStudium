@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 2, a. 9#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 2, a. 9#arg. 3|Praeterea, ille qui assentit alicui rei credendo aut habet causam sufficienter inducentem ipsum ad credendum, aut non. Si habet sufficiens inductivum ad credendum, non videtur hoc ei esse meritorium, quia non est ei iam liberum credere et non credere. Si autem non habet sufficiens inductivum ad credendum, levitatis est credere, secundum illud [[Si 19]], *qui cito credit levis est corde*, et sic non videtur esse meritorium. Ergo credere nullo modo est meritorium.]]
+![[LEO IIa-IIæ, q. 2, a. 9#arg. 3|Praeterea, ille qui assentit alicui rei credendo aut habet causam sufficienter inducentem ipsum ad credendum, aut non. Si habet sufficiens inductivum ad credendum, non videtur hoc ei esse meritorium, quia non est ei iam liberum credere et non credere. Si autem non habet sufficiens inductivum ad credendum, levitatis est credere, secundum illud Eccli. XIX, *qui cito credit levis est corde*, et sic non videtur esse meritorium. Ergo credere nullo modo est meritorium.]]
 ![[CERF IIa-IIæ, q. 2, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 2, a. 9#s.c.|Sed contra est quod dicitur ad [[He 11]], quod *sancti per fidem adepti sunt repromissiones*. Quod non esset nisi credendo mererentur. Ergo ipsum credere est meritorium.]]
+![[LEO IIa-IIæ, q. 2, a. 9#s.c.|Sed contra est quod dicitur ad Heb. XI, quod *sancti per fidem adepti sunt repromissiones*. Quod non esset nisi credendo mererentur. Ergo ipsum credere est meritorium.]]
 ![[CERF IIa-IIæ, q. 2, a. 9#s.c.]]
 
 ###### resp.

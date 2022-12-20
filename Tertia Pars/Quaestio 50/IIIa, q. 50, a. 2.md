@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 50, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod in morte Christi fuerit separata divinitas a carne. Ut enim dicitur [[Mt 27]], dominus, in cruce pendens, clamavit, *Deus, Deus meus, ut quid me dereliquisti?* Quod exponens Ambrosius, dicit, *clamat homo separatione divinitatis moriturus. Nam, cum divinitas morte libera sit, utique mors ibi esse non poterat nisi vita discederet, quia vita divinitas est*. Et sic videtur quod in morte Christi sit divinitas separata a carne.]]
+![[LEO IIIa, q. 50, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod in morte Christi fuerit separata divinitas a carne. Ut enim dicitur Matth. XXVII, dominus, in cruce pendens, clamavit, *Deus, Deus meus, ut quid me dereliquisti?* Quod exponens Ambrosius, dicit, *clamat homo separatione divinitatis moriturus. Nam, cum divinitas morte libera sit, utique mors ibi esse non poterat nisi vita discederet, quia vita divinitas est*. Et sic videtur quod in morte Christi sit divinitas separata a carne.]]
 ![[CERF IIIa, q. 50, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 50, a. 2#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 50, a. 2#resp.|Respondeo dicendum quod id quod per gratiam Dei conceditur, nunquam absque culpa revocatur, unde dicitur [[Rm 11]], quod *sine poenitentia sunt dona Dei et vocatio*. Multo autem maior est gratia unionis, per quam divinitas unita est carni Christi in persona, quam gratia adoptionis, qua alii sanctificantur, et etiam magis permanens ex sui ratione, quia haec gratia ordinatur ad unionem personalem, gratia autem adoptionis ad quandam unionem affectualem. Et tamen videmus quod gratia adoptionis nunquam perditur sine culpa. Cum igitur in Christo nullum fuerit peccatum, impossibile fuit quod solveretur unio divinitatis a carne ipsius. Et ideo, sicut ante mortem caro Christi unita fuit secundum personam et hypostasim verbo Dei, ita et remansit unita post mortem, ut scilicet non esset alia hypostasis verbi Dei et carnis Christi post mortem, ut Damascenus dicit, in III libro.]]
+![[LEO IIIa, q. 50, a. 2#resp.|Respondeo dicendum quod id quod per gratiam Dei conceditur, nunquam absque culpa revocatur, unde dicitur Rom. XI, quod *sine poenitentia sunt dona Dei et vocatio*. Multo autem maior est gratia unionis, per quam divinitas unita est carni Christi in persona, quam gratia adoptionis, qua alii sanctificantur, et etiam magis permanens ex sui ratione, quia haec gratia ordinatur ad unionem personalem, gratia autem adoptionis ad quandam unionem affectualem. Et tamen videmus quod gratia adoptionis nunquam perditur sine culpa. Cum igitur in Christo nullum fuerit peccatum, impossibile fuit quod solveretur unio divinitatis a carne ipsius. Et ideo, sicut ante mortem caro Christi unita fuit secundum personam et hypostasim verbo Dei, ita et remansit unita post mortem, ut scilicet non esset alia hypostasis verbi Dei et carnis Christi post mortem, ut Damascenus dicit, in III libro.]]
 ![[CERF IIIa, q. 50, a. 2#resp.]]
 
 ###### ad 1

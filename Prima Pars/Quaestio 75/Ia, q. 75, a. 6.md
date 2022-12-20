@@ -6,11 +6,11 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia, q. 75, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod anima humana sit corruptibilis. Quorum enim est simile principium et similis processus, videtur esse similis finis. Sed simile est principium generationis hominum et iumentorum, quia de terra facta sunt. Similis est etiam vitae processus in utrisque, quia *similiter spirant omnia, et nihil habet homo iumento amplius*, ut dicitur [[Qo 3]]. Ergo, ut ibidem concluditur, *unus est interitus hominis et iumentorum, et aequa utriusque conditio*. Sed anima brutorum animalium est corruptibilis. Ergo et anima humana est corruptibilis.]]
+![[LEO Ia, q. 75, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod anima humana sit corruptibilis. Quorum enim est simile principium et similis processus, videtur esse similis finis. Sed simile est principium generationis hominum et iumentorum, quia de terra facta sunt. Similis est etiam vitae processus in utrisque, quia *similiter spirant omnia, et nihil habet homo iumento amplius*, ut dicitur Eccle. III. Ergo, ut ibidem concluditur, *unus est interitus hominis et iumentorum, et aequa utriusque conditio*. Sed anima brutorum animalium est corruptibilis. Ergo et anima humana est corruptibilis.]]
 ![[CERF Ia, q. 75, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 75, a. 6#arg. 2|Praeterea, omne quod est ex nihilo, vertibile est in nihilum, quia finis debet respondere principio. Sed sicut dicitur [[Sg 2]], *ex nihilo nati sumus*, quod verum est non solum quantum ad corpus, sed etiam quantum ad animam. Ergo ut ibidem concluditur, post hoc erimus tanquam non fuerimus, etiam secundum animam.]]
+![[LEO Ia, q. 75, a. 6#arg. 2|Praeterea, omne quod est ex nihilo, vertibile est in nihilum, quia finis debet respondere principio. Sed sicut dicitur Sap. II, *ex nihilo nati sumus*, quod verum est non solum quantum ad corpus, sed etiam quantum ad animam. Ergo ut ibidem concluditur, post hoc erimus tanquam non fuerimus, etiam secundum animam.]]
 ![[CERF Ia, q. 75, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 75, a. 6#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 75, a. 6#ad 1|Ad primum ergo dicendum quod Salomon inducit rationem illam ex persona insipientium, ut exprimitur [[Sg 2]]. Quod ergo dicitur quod homo et alia animalia habent simile generationis principium, verum est quantum ad corpus, similiter enim de terra facta sunt omnia animalia. Non autem quantum ad animam, nam anima brutorum producitur ex virtute aliqua corporea, anima vero humana a Deo. Et ad hoc significandum dicitur Gen., quantum ad alia animalia, producat terra animam viventem, quantum vero ad hominem, dicitur quod inspiravit in faciem eius spiraculum vitae. Et ideo concluditur Eccle. ult., *revertatur pulvis in terram suam, unde erat, et spiritus redeat ad Deum qui dedit illum*. Similiter processus vitae est similis quantum ad corpus; ad quod pertinet quod dicitur in Eccle., *similiter spirant omnia*; et [[Sg 2]], *fumus et flatus est in naribus nostris* et cetera. Sed non est similis processus quantum ad animam, quia homo intelligit, non autem animalia bruta. Unde falsum est quod dicitur, nihil habet homo iumento amplius. Et ideo similis est interitus quantum ad corpus, sed non quantum ad animam.]]
+![[LEO Ia, q. 75, a. 6#ad 1|Ad primum ergo dicendum quod Salomon inducit rationem illam ex persona insipientium, ut exprimitur Sap. II. Quod ergo dicitur quod homo et alia animalia habent simile generationis principium, verum est quantum ad corpus, similiter enim de terra facta sunt omnia animalia. Non autem quantum ad animam, nam anima brutorum producitur ex virtute aliqua corporea, anima vero humana a Deo. Et ad hoc significandum dicitur Gen., quantum ad alia animalia, producat terra animam viventem, quantum vero ad hominem, dicitur quod inspiravit in faciem eius spiraculum vitae. Et ideo concluditur Eccle. ult., *revertatur pulvis in terram suam, unde erat, et spiritus redeat ad Deum qui dedit illum*. Similiter processus vitae est similis quantum ad corpus; ad quod pertinet quod dicitur in Eccle., *similiter spirant omnia*; et Sap. II, *fumus et flatus est in naribus nostris* et cetera. Sed non est similis processus quantum ad animam, quia homo intelligit, non autem animalia bruta. Unde falsum est quod dicitur, nihil habet homo iumento amplius. Et ideo similis est interitus quantum ad corpus, sed non quantum ad animam.]]
 ![[CERF Ia, q. 75, a. 6#ad 1]]
 
 ###### ad 2

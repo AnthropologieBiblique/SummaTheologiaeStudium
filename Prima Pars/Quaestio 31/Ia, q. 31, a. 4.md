@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia, q. 31, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod dictio exclusiva possit adiungi termino personali, etiam si praedicatum sit commune. Dicit enim dominus, ad patrem loquens, [[Jn 17]], *ut cognoscant te, solum Deum verum*. Ergo solus pater est Deus verus.]]
+![[LEO Ia, q. 31, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod dictio exclusiva possit adiungi termino personali, etiam si praedicatum sit commune. Dicit enim dominus, ad patrem loquens, Ioan. XVII, *ut cognoscant te, solum Deum verum*. Ergo solus pater est Deus verus.]]
 ![[CERF Ia, q. 31, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 31, a. 4#arg. 2|Praeterea, [[Mt 11]] dicitur, nemo novit filium nisi pater; quod idem significat ac si diceretur, solus pater novit filium. Sed nosse filium est commune. Ergo idem quod prius.]]
+![[LEO Ia, q. 31, a. 4#arg. 2|Praeterea, Matth. XI dicitur, nemo novit filium nisi pater; quod idem significat ac si diceretur, solus pater novit filium. Sed nosse filium est commune. Ergo idem quod prius.]]
 ![[CERF Ia, q. 31, a. 4#arg. 2]]
 
 ###### arg. 3

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 18, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 18, a. 5#arg. 2|Praeterea, anima Christi habuit perfectissimam caritatem, quae etiam comprehensionem nostrae scientiae excedit, secundum illud [[Ep 3]], *supereminentem scientiae caritatem Christi*. Sed caritatis est facere quod homo idem velit quod Deus, unde et philosophus, in IX Ethic., dicit quod unum de amicabilibus est eadem velle et eligere. Ergo voluntas humana in Christo nihil aliud voluit quam divina.]]
+![[LEO IIIa, q. 18, a. 5#arg. 2|Praeterea, anima Christi habuit perfectissimam caritatem, quae etiam comprehensionem nostrae scientiae excedit, secundum illud Ephes. III, *supereminentem scientiae caritatem Christi*. Sed caritatis est facere quod homo idem velit quod Deus, unde et philosophus, in IX Ethic., dicit quod unum de amicabilibus est eadem velle et eligere. Ergo voluntas humana in Christo nihil aliud voluit quam divina.]]
 ![[CERF IIIa, q. 18, a. 5#arg. 2]]
 
 ###### arg. 3

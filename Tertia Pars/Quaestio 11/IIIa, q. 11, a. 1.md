@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 11, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 11, a. 1#s.c.|Sed contra est quod dicitur [[Is 11]], quod *replebit eum spiritus sapientiae et intellectus, scientiae et consilii*, sub quibus comprehenduntur omnia cognoscibilia. Nam ad sapientiam pertinet cognitio divinorum omnium; ad intellectum autem pertinet cognitio omnium immaterialium; ad scientiam autem pertinet cognitio omnium conclusionum; ad consilium autem cognitio omnium agibilium. Ergo videtur quod Christus, secundum scientiam sibi inditam per spiritum sanctum, habuerit omnium cognitionem.]]
+![[LEO IIIa, q. 11, a. 1#s.c.|Sed contra est quod dicitur Isaiae XI, quod *replebit eum spiritus sapientiae et intellectus, scientiae et consilii*, sub quibus comprehenduntur omnia cognoscibilia. Nam ad sapientiam pertinet cognitio divinorum omnium; ad intellectum autem pertinet cognitio omnium immaterialium; ad scientiam autem pertinet cognitio omnium conclusionum; ad consilium autem cognitio omnium agibilium. Ergo videtur quod Christus, secundum scientiam sibi inditam per spiritum sanctum, habuerit omnium cognitionem.]]
 ![[CERF IIIa, q. 11, a. 1#s.c.]]
 
 ###### resp.

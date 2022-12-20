@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 72, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 72, a. 2#arg. 2|Praeterea, peccatum mortale non invenitur in viris perfectis. Qui tamen aliquando convicia vel contumelias dicunt, sicut patet de apostolo, qui, ad [[Ga 3]], dixit, *o insensati Galatae*. Et dominus dicit, Luc. ult., *o stulti, et tardi corde ad credendum*. Ergo convicium, sive contumelia, non est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 72, a. 2#arg. 2|Praeterea, peccatum mortale non invenitur in viris perfectis. Qui tamen aliquando convicia vel contumelias dicunt, sicut patet de apostolo, qui, ad Gal. III, dixit, *o insensati Galatae*. Et dominus dicit, Luc. ult., *o stulti, et tardi corde ad credendum*. Ergo convicium, sive contumelia, non est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 72, a. 2#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 72, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 72, a. 2#s.c.|Sed contra, nihil meretur poenam aeternam Inferni nisi peccatum mortale. Sed convicium vel contumelia meretur poenam Inferni, secundum illud [[Mt 5]], *qui dixerit fratri suo, fatue, reus erit Gehennae ignis*. Ergo convicium vel contumelia est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 72, a. 2#s.c.|Sed contra, nihil meretur poenam aeternam Inferni nisi peccatum mortale. Sed convicium vel contumelia meretur poenam Inferni, secundum illud Matth. V, *qui dixerit fratri suo, fatue, reus erit Gehennae ignis*. Ergo convicium vel contumelia est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 72, a. 2#s.c.]]
 
 ###### resp.

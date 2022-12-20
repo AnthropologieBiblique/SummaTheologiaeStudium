@@ -14,11 +14,11 @@ tags :
 ![[CERF Ia-IIæ, q. 75, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 75, a. 1#arg. 3|Praeterea, si peccatum habet causam, aut habet pro causa bonum, aut malum. Non autem bonum, quia bonum non facit nisi bonum; *non enim potest arbor bona fructus malos facere*, ut dicitur [[Mt 7]] similiter autem nec malum potest esse causa peccati, quia malum poenae sequitur ad peccatum; malum autem culpae est idem quod peccatum. Peccatum igitur non habet causam.]]
+![[LEO Ia-IIæ, q. 75, a. 1#arg. 3|Praeterea, si peccatum habet causam, aut habet pro causa bonum, aut malum. Non autem bonum, quia bonum non facit nisi bonum; *non enim potest arbor bona fructus malos facere*, ut dicitur Matth. VII similiter autem nec malum potest esse causa peccati, quia malum poenae sequitur ad peccatum; malum autem culpae est idem quod peccatum. Peccatum igitur non habet causam.]]
 ![[CERF Ia-IIæ, q. 75, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 75, a. 1#s.c.|Sed contra, omne quod fit, habet causam, quia, ut dicitur [[Jb 5]], nihil in terra sine causa fit. Sed peccatum fit, est enim dictum vel factum vel concupitum contra legem Dei. Ergo peccatum habet causam.]]
+![[LEO Ia-IIæ, q. 75, a. 1#s.c.|Sed contra, omne quod fit, habet causam, quia, ut dicitur Iob V, nihil in terra sine causa fit. Sed peccatum fit, est enim dictum vel factum vel concupitum contra legem Dei. Ergo peccatum habet causam.]]
 ![[CERF Ia-IIæ, q. 75, a. 1#s.c.]]
 
 ###### resp.

@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 144, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod etiam in virtuosis hominibus possit esse verecundia. Contrariorum enim contrarii sunt effectus. Sed illi qui sunt superabundantis malitiae non verecundantur, secundum illud [[Jr 3]], *species meretricis facta est tibi, nescisti erubescere*. Ergo illi qui sunt virtuosi magis verecundantur.]]
+![[LEO IIa-IIæ, q. 144, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod etiam in virtuosis hominibus possit esse verecundia. Contrariorum enim contrarii sunt effectus. Sed illi qui sunt superabundantis malitiae non verecundantur, secundum illud Ierem. III, *species meretricis facta est tibi, nescisti erubescere*. Ergo illi qui sunt virtuosi magis verecundantur.]]
 ![[CERF IIa-IIæ, q. 144, a. 4#arg. 1]]
 
 ###### arg. 2

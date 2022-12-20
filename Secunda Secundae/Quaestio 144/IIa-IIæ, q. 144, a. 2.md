@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 144, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 144, a. 2#arg. 3|Praeterea, operationes virtutum non sunt turpes, sed pulcherrimae, ut dicitur in I Ethic. Sed quandoque aliqui verecundantur aliqua opera virtutis facere, ut dicitur [[Lc 9]], *qui erubuerit me et meos sermones, hunc filius hominis erubescet*, et cetera. Ergo verecundia non est de turpi actu.]]
+![[LEO IIa-IIæ, q. 144, a. 2#arg. 3|Praeterea, operationes virtutum non sunt turpes, sed pulcherrimae, ut dicitur in I Ethic. Sed quandoque aliqui verecundantur aliqua opera virtutis facere, ut dicitur Luc. IX, *qui erubuerit me et meos sermones, hunc filius hominis erubescet*, et cetera. Ergo verecundia non est de turpi actu.]]
 ![[CERF IIa-IIæ, q. 144, a. 2#arg. 3]]
 
 ###### arg. 4
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 144, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 144, a. 2#ad 1|Ad primum ergo dicendum quod verecundia proprie respicit ingloriationem secundum quod debetur culpae, quae est defectus voluntarius. Unde philosophus dicit, in II Rhet., quod *omnia illa homo magis verecundatur quorum ipse est causa*. Opprobria autem quae inferuntur alicui propter virtutem, virtuosus quidem contemnit, quia indigne sibi irrogantur, sicut de magnanimis philosophus dicit, in IV Ethic.; et de apostolis dicitur [[Ac 5]], quod *ibant apostoli gaudentes a conspectu Concilii, quoniam digni habiti sunt pro nomine Iesu contumeliam pati*. Ex imperfectione autem virtutis contingit quod aliquis verecundetur de opprobriis quae sibi inferuntur propter virtutem, quia quanto aliquis est magis virtuosus, tanto magis contemnit exteriora bona vel mala. Unde dicitur Isaiae li, *noli timere opprobrium hominum*.]]
+![[LEO IIa-IIæ, q. 144, a. 2#ad 1|Ad primum ergo dicendum quod verecundia proprie respicit ingloriationem secundum quod debetur culpae, quae est defectus voluntarius. Unde philosophus dicit, in II Rhet., quod *omnia illa homo magis verecundatur quorum ipse est causa*. Opprobria autem quae inferuntur alicui propter virtutem, virtuosus quidem contemnit, quia indigne sibi irrogantur, sicut de magnanimis philosophus dicit, in IV Ethic.; et de apostolis dicitur Act. V, quod *ibant apostoli gaudentes a conspectu Concilii, quoniam digni habiti sunt pro nomine Iesu contumeliam pati*. Ex imperfectione autem virtutis contingit quod aliquis verecundetur de opprobriis quae sibi inferuntur propter virtutem, quia quanto aliquis est magis virtuosus, tanto magis contemnit exteriora bona vel mala. Unde dicitur Isaiae li, *noli timere opprobrium hominum*.]]
 ![[CERF IIa-IIæ, q. 144, a. 2#ad 1]]
 
 ###### ad 2

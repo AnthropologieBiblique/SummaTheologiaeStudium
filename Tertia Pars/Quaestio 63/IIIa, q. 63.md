@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIIa, q. 63#Prooemium|Deinde considerandum est de alio effectu sacramentorum, qui est character. Et circa hoc quaeruntur sex. Primo, utrum ex sacramentis causetur character aliquis in anima. Secundo, quid sit ille character. Tertio, cuius sit character. Quarto, in quo sit sicut in subiecto. Quinto, utrum insit indelebiliter. Sexto, utrum omnia sacramenta imprimant characterem.]]
-![[CERF IIIa, q. 63#Prooemium]]
+Deinde considerandum est de alio effectu sacramentorum, qui est character. Et circa hoc quaeruntur sex. Primo, utrum ex sacramentis causetur character aliquis in anima. Secundo, quid sit ille character. Tertio, cuius sit character. Quarto, in quo sit sicut in subiecto. Quinto, utrum insit indelebiliter. Sexto, utrum omnia sacramenta imprimant characterem.
 
 ![[IIIa, q. 63, a. 1#Articulus 1]]
 

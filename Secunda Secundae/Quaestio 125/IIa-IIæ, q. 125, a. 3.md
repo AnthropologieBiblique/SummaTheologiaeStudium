@@ -10,15 +10,15 @@ tags :
 ![[CERF IIa-IIæ, q. 125, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 125, a. 3#arg. 2|Praeterea, omne peccatum mortale totaliter cor avertit a Deo. Hoc autem non facit timor, quia super illud [[Jg 7]], qui formidolosus est etc., dicit Glossa quod *timidus est qui primo aspectu congressum trepidat, non tamen corde terretur, sed reparari et animari potest*. Ergo timor non est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 125, a. 3#arg. 2|Praeterea, omne peccatum mortale totaliter cor avertit a Deo. Hoc autem non facit timor, quia super illud Iudic. VII, qui formidolosus est etc., dicit Glossa quod *timidus est qui primo aspectu congressum trepidat, non tamen corde terretur, sed reparari et animari potest*. Ergo timor non est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 125, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 125, a. 3#arg. 3|Praeterea, peccatum mortale non solum retrahit a perfectione, sed etiam a praecepto. Sed timor non retrahit a praecepto, sed solum a perfectione, quia super illud [[Dt 20]], quis est homo formidolosus et corde pavido, etc., dicit Glossa, *docet non posse quemquam perfectionem contemplationis vel militiae spiritualis accipere qui adhuc nudari terrenis opibus pertimescit*. Ergo timor non est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 125, a. 3#arg. 3|Praeterea, peccatum mortale non solum retrahit a perfectione, sed etiam a praecepto. Sed timor non retrahit a praecepto, sed solum a perfectione, quia super illud Deut. XX, quis est homo formidolosus et corde pavido, etc., dicit Glossa, *docet non posse quemquam perfectionem contemplationis vel militiae spiritualis accipere qui adhuc nudari terrenis opibus pertimescit*. Ergo timor non est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 125, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 125, a. 3#s.c.|Sed contra, pro solo peccato mortali debetur poena Inferni. Quae tamen debetur timidis, secundum illud [[Ap 21]], *timidis et incredulis et execratis, etc., pars erit in stagno ignis et sulphuris, quod est mors secunda*. Ergo timiditas est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 125, a. 3#s.c.|Sed contra, pro solo peccato mortali debetur poena Inferni. Quae tamen debetur timidis, secundum illud Apoc. XXI, *timidis et incredulis et execratis, etc., pars erit in stagno ignis et sulphuris, quod est mors secunda*. Ergo timiditas est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 125, a. 3#s.c.]]
 
 ###### resp.

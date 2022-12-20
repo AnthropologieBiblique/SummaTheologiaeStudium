@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 87, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 87, a. 2#s.c.|Sed contra est quod dicitur [[Gn 28]], cunctorum quae dederis mihi decimas offeram tibi. Sed omnia quae homo habet sunt ei data divinitus. Ergo de omnibus debet decimas dare.]]
+![[LEO IIa-IIæ, q. 87, a. 2#s.c.|Sed contra est quod dicitur Gen. XXVIII, cunctorum quae dederis mihi decimas offeram tibi. Sed omnia quae homo habet sunt ei data divinitus. Ergo de omnibus debet decimas dare.]]
 ![[CERF IIa-IIæ, q. 87, a. 2#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 87, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 87, a. 2#ad 1|Ad primum ergo dicendum quod specialis ratio fuit quare in veteri lege non fuit datum praeceptum de personalibus decimis, secundum conditionem populi illius, quia omnes aliae tribus certas possessiones habebant, de quibus poterant sufficienter providere Levitis, qui carebant possessionibus; non autem interdicebatur eis quin de aliis operibus honestis lucrarentur, sicut et alii Iudaei. Sed populus novae legis est ubique per mundum diffusus, quorum plurimi possessiones non habent, sed de aliquibus negotiis vivunt, qui nihil conferrent ad subsidium ministrorum Dei, si de eorum negotiis decimas non solverent. Ministris etiam novae legis arctius interdicitur ne se ingerant negotiis lucrativis, secundum illud [[2 Tm 2]], *nemo militans Deo implicat se saecularibus negotiis*. Et ideo in nova lege tenentur homines ad decimas personales, secundum consuetudinem patriae et indigentiam ministrorum. Unde Augustinus dicit, et habetur XVI qu. I, cap. decimae, *de militia, de negotio et de artificio redde decimas*.]]
+![[LEO IIa-IIæ, q. 87, a. 2#ad 1|Ad primum ergo dicendum quod specialis ratio fuit quare in veteri lege non fuit datum praeceptum de personalibus decimis, secundum conditionem populi illius, quia omnes aliae tribus certas possessiones habebant, de quibus poterant sufficienter providere Levitis, qui carebant possessionibus; non autem interdicebatur eis quin de aliis operibus honestis lucrarentur, sicut et alii Iudaei. Sed populus novae legis est ubique per mundum diffusus, quorum plurimi possessiones non habent, sed de aliquibus negotiis vivunt, qui nihil conferrent ad subsidium ministrorum Dei, si de eorum negotiis decimas non solverent. Ministris etiam novae legis arctius interdicitur ne se ingerant negotiis lucrativis, secundum illud II ad Tim. II, *nemo militans Deo implicat se saecularibus negotiis*. Et ideo in nova lege tenentur homines ad decimas personales, secundum consuetudinem patriae et indigentiam ministrorum. Unde Augustinus dicit, et habetur XVI qu. I, cap. decimae, *de militia, de negotio et de artificio redde decimas*.]]
 ![[CERF IIa-IIæ, q. 87, a. 2#ad 1]]
 
 ###### ad 2

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 188, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 188, a. 6#arg. 2|Praeterea, omnis religio ordinatur ad perfectionem caritatis, ut supra habitum est. Sed super illud [[He 12]], nondum usque ad sanguinem restitistis, dicit Glossa, *perfectior in hac vita dilectio nulla est ea ad quam sancti martyres pervenerunt, qui contra peccatum usque ad sanguinem certaverunt*. Certare autem usque ad sanguinem competit religionibus quae ad militiam ordinantur, quae tamen pertinent ad vitam activam. Ergo videtur quod huiusmodi religiones sint potissimae.]]
+![[LEO IIa-IIæ, q. 188, a. 6#arg. 2|Praeterea, omnis religio ordinatur ad perfectionem caritatis, ut supra habitum est. Sed super illud Heb. XII, nondum usque ad sanguinem restitistis, dicit Glossa, *perfectior in hac vita dilectio nulla est ea ad quam sancti martyres pervenerunt, qui contra peccatum usque ad sanguinem certaverunt*. Certare autem usque ad sanguinem competit religionibus quae ad militiam ordinantur, quae tamen pertinent ad vitam activam. Ergo videtur quod huiusmodi religiones sint potissimae.]]
 ![[CERF IIa-IIæ, q. 188, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 188, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 188, a. 6#s.c.|Sed contra est quod dominus, [[Lc 10]], dicit optimam partem esse Mariae, per quam vita contemplativa significatur.]]
+![[LEO IIa-IIæ, q. 188, a. 6#s.c.|Sed contra est quod dominus, Luc. X, dicit optimam partem esse Mariae, per quam vita contemplativa significatur.]]
 ![[CERF IIa-IIæ, q. 188, a. 6#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 188, a. 6#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 188, a. 6#ad 3|Ad tertium dicendum quod arctitudo observantiarum non est id quod praecipue in religione commendatur, ut beatus Antonius dicit. Et [[Is 58]] dicitur, *nunquid hoc est ieiunium quod elegi, per diem affligere animam suam?* Assumitur tamen in religione ut necessaria ad carnis macerationem, quae, si sine discretione fit, periculum deficiendi habet annexum, sicut beatus Antonius dicit. Et ideo non est potior religio ex hoc quod habet arctiores observantias, sed ex hoc quod ex maiori discretione sunt eius observantiae ordinatae ad finem religionis. Sicut ad continentiam efficacius ordinatur maceratio carnis per abstinentiam cibi et potus, quae pertinent ad famem et sitim, quam per subtractionem vestium, quae pertinent ad frigus et nuditatem; et quam per corporalem laborem.]]
+![[LEO IIa-IIæ, q. 188, a. 6#ad 3|Ad tertium dicendum quod arctitudo observantiarum non est id quod praecipue in religione commendatur, ut beatus Antonius dicit. Et Isaiae LVIII dicitur, *nunquid hoc est ieiunium quod elegi, per diem affligere animam suam?* Assumitur tamen in religione ut necessaria ad carnis macerationem, quae, si sine discretione fit, periculum deficiendi habet annexum, sicut beatus Antonius dicit. Et ideo non est potior religio ex hoc quod habet arctiores observantias, sed ex hoc quod ex maiori discretione sunt eius observantiae ordinatae ad finem religionis. Sicut ad continentiam efficacius ordinatur maceratio carnis per abstinentiam cibi et potus, quae pertinent ad famem et sitim, quam per subtractionem vestium, quae pertinent ad frigus et nuditatem; et quam per corporalem laborem.]]
 ![[CERF IIa-IIæ, q. 188, a. 6#ad 3]]
 

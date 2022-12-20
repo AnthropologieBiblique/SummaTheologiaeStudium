@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 43, a. 5#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 43, a. 5#arg. 3|Praeterea, etiam in perfectis viris peccata venialia inveniri possunt, secundum illud [[1 Jn 1]], *si dixerimus quoniam peccatum non habemus, ipsi nos seducimus*. Sed scandalum passivum non semper est peccatum mortale, sed quandoque veniale, ut dictum est. Ergo scandalum passivum potest in perfectis viris inveniri.]]
+![[LEO IIa-IIæ, q. 43, a. 5#arg. 3|Praeterea, etiam in perfectis viris peccata venialia inveniri possunt, secundum illud I Ioan. I, *si dixerimus quoniam peccatum non habemus, ipsi nos seducimus*. Sed scandalum passivum non semper est peccatum mortale, sed quandoque veniale, ut dictum est. Ergo scandalum passivum potest in perfectis viris inveniri.]]
 ![[CERF IIa-IIæ, q. 43, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 43, a. 5#s.c.|Sed contra est quod super illud [[Mt 18]], *qui scandalizaverit unum de pusillis istis*, dicit Hieronymus, *nota quod qui scandalizatur parvulus est, maiores enim scandala non recipiunt*.]]
+![[LEO IIa-IIæ, q. 43, a. 5#s.c.|Sed contra est quod super illud Matth. XVIII, *qui scandalizaverit unum de pusillis istis*, dicit Hieronymus, *nota quod qui scandalizatur parvulus est, maiores enim scandala non recipiunt*.]]
 ![[CERF IIa-IIæ, q. 43, a. 5#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 43, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 43, a. 5#ad 2|Ad secundum dicendum quod in exterioribus actibus perfecti viri possunt impediri. Sed in interiori voluntate per dicta vel facta aliorum non impediuntur quominus tendant in Deum, secundum illud [[Rm 8]], *neque mors neque vita poterit nos separare a caritate Dei*.]]
+![[LEO IIa-IIæ, q. 43, a. 5#ad 2|Ad secundum dicendum quod in exterioribus actibus perfecti viri possunt impediri. Sed in interiori voluntate per dicta vel facta aliorum non impediuntur quominus tendant in Deum, secundum illud Rom. VIII, *neque mors neque vita poterit nos separare a caritate Dei*.]]
 ![[CERF IIa-IIæ, q. 43, a. 5#ad 2]]
 
 ###### ad 3

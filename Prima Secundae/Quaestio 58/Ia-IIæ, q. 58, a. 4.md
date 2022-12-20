@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 58, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 58, a. 4#ad 2|Ad secundum dicendum quod in virtuoso non oportet quod vigeat usus rationis quantum ad omnia, sed solum quantum ad ea quae sunt agenda secundum virtutem. Et sic usus rationis viget in omnibus virtuosis. Unde etiam qui videntur simplices, eo quod carent mundana astutia, possunt esse prudentes; secundum illud [[Mt 10]], *estote prudentes sicut serpentes, et simplices sicut columbae*.]]
+![[LEO Ia-IIæ, q. 58, a. 4#ad 2|Ad secundum dicendum quod in virtuoso non oportet quod vigeat usus rationis quantum ad omnia, sed solum quantum ad ea quae sunt agenda secundum virtutem. Et sic usus rationis viget in omnibus virtuosis. Unde etiam qui videntur simplices, eo quod carent mundana astutia, possunt esse prudentes; secundum illud Matth. X, *estote prudentes sicut serpentes, et simplices sicut columbae*.]]
 ![[CERF Ia-IIæ, q. 58, a. 4#ad 2]]
 
 ###### ad 3

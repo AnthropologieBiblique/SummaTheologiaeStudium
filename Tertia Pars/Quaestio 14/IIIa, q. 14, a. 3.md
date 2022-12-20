@@ -14,15 +14,15 @@ tags :
 ![[CERF IIIa, q. 14, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 14, a. 3#arg. 3|Praeterea, secundum huiusmodi defectus Christus aliis hominibus similatur ut dicitur [[He 2]]. Sed alii homines huiusmodi defectus contraxerunt. Ergo videtur quod etiam Christus huiusmodi defectus contraxit.]]
+![[LEO IIIa, q. 14, a. 3#arg. 3|Praeterea, secundum huiusmodi defectus Christus aliis hominibus similatur ut dicitur Heb. II. Sed alii homines huiusmodi defectus contraxerunt. Ergo videtur quod etiam Christus huiusmodi defectus contraxit.]]
 ![[CERF IIIa, q. 14, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 14, a. 3#s.c.|Sed contra est quod huiusmodi defectus contrahuntur ex peccato, secundum illud [[Rm 5]], *per unum hominem peccatum intravit in hunc mundum, et per peccatum mors*. Sed in Christo non habuit locum peccatum. Ergo huiusmodi defectus Christus non contraxit.]]
+![[LEO IIIa, q. 14, a. 3#s.c.|Sed contra est quod huiusmodi defectus contrahuntur ex peccato, secundum illud Rom. V, *per unum hominem peccatum intravit in hunc mundum, et per peccatum mors*. Sed in Christo non habuit locum peccatum. Ergo huiusmodi defectus Christus non contraxit.]]
 ![[CERF IIIa, q. 14, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 14, a. 3#resp.|Respondeo dicendum quod in verbo contrahendi intelligitur ordo effectus ad causam, ut scilicet illud dicatur contrahi quod simul cum sua causa ex necessitate trahitur. Causa autem mortis et horum defectuum in humana natura est peccatum, quia *per peccatum mors intravit in mundum*, ut dicitur [[Rm 5]]. Et ideo illi proprie dicuntur hos defectus contrahere qui ex debito peccati hos defectus incurrunt. Christus autem hos defectus non habuit ex debito peccati, quia, ut Augustinus dicit, exponens illud [[Jn 3]], *qui de sursum venit, super omnes est, de sursum venit Christus, idest de altitudine humanae naturae, quam habuit ante peccatum primi hominis*. Accepit enim naturam humanam absque peccato in illa puritate in qua erat in statu innocentiae. Et simili modo potuisset assumere humanam naturam absque defectibus. Sic igitur patet quod Christus non contraxit hos defectus, quasi ex debito peccati eos suscipiens, sed ex propria voluntate.]]
+![[LEO IIIa, q. 14, a. 3#resp.|Respondeo dicendum quod in verbo contrahendi intelligitur ordo effectus ad causam, ut scilicet illud dicatur contrahi quod simul cum sua causa ex necessitate trahitur. Causa autem mortis et horum defectuum in humana natura est peccatum, quia *per peccatum mors intravit in mundum*, ut dicitur Rom. V. Et ideo illi proprie dicuntur hos defectus contrahere qui ex debito peccati hos defectus incurrunt. Christus autem hos defectus non habuit ex debito peccati, quia, ut Augustinus dicit, exponens illud Ioan. III, *qui de sursum venit, super omnes est, de sursum venit Christus, idest de altitudine humanae naturae, quam habuit ante peccatum primi hominis*. Accepit enim naturam humanam absque peccato in illa puritate in qua erat in statu innocentiae. Et simili modo potuisset assumere humanam naturam absque defectibus. Sic igitur patet quod Christus non contraxit hos defectus, quasi ex debito peccati eos suscipiens, sed ex propria voluntate.]]
 ![[CERF IIIa, q. 14, a. 3#resp.]]
 
 ###### ad 1

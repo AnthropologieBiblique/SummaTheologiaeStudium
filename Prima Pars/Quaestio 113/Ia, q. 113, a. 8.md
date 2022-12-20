@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO Ia, q. 113, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod inter Angelos non possit esse pugna seu discordia. Dicitur enim [[Jb 25]], *qui facit concordiam in sublimibus*. Sed pugna opponitur concordiae. Ergo in sublimibus Angelis non est pugna.]]
+![[LEO Ia, q. 113, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod inter Angelos non possit esse pugna seu discordia. Dicitur enim Iob XXV, *qui facit concordiam in sublimibus*. Sed pugna opponitur concordiae. Ergo in sublimibus Angelis non est pugna.]]
 ![[CERF Ia, q. 113, a. 8#arg. 1]]
 
 ###### arg. 2

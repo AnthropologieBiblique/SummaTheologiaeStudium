@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 104, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non in omnibus sit Deo obediendum. Dicitur enim [[Mt 9]], quod dominus duobus caecis curatis praecepit dicens, *videte ne quis sciat. Illi autem, exeuntes, diffamaverunt eum per totam terram illam*. Nec tamen ex hoc inculpantur. Ergo videtur quod non teneamur in omnibus obedire Deo.]]
+![[LEO IIa-IIæ, q. 104, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod non in omnibus sit Deo obediendum. Dicitur enim Matth. IX, quod dominus duobus caecis curatis praecepit dicens, *videte ne quis sciat. Illi autem, exeuntes, diffamaverunt eum per totam terram illam*. Nec tamen ex hoc inculpantur. Ergo videtur quod non teneamur in omnibus obedire Deo.]]
 ![[CERF IIa-IIæ, q. 104, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 104, a. 4#arg. 2|Praeterea, nullus tenetur aliquid facere contra virtutem. Sed inveniuntur quaedam praecepta Dei contra virtutem, sicut quod praecepit Abrahae quod occideret filium innocentem, ut habetur [[Gn 22]], et Iudaeis ut furarentur res Aegyptiorum, ut habetur [[Ex 11]], quae sunt contra iustitiam; et Osee quod acciperet mulierem adulteram, quod est contra castitatem. Ergo non in omnibus est obediendum Deo.]]
+![[LEO IIa-IIæ, q. 104, a. 4#arg. 2|Praeterea, nullus tenetur aliquid facere contra virtutem. Sed inveniuntur quaedam praecepta Dei contra virtutem, sicut quod praecepit Abrahae quod occideret filium innocentem, ut habetur Gen. XXII, et Iudaeis ut furarentur res Aegyptiorum, ut habetur Exod. XI, quae sunt contra iustitiam; et Osee quod acciperet mulierem adulteram, quod est contra castitatem. Ergo non in omnibus est obediendum Deo.]]
 ![[CERF IIa-IIæ, q. 104, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 104, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 104, a. 4#s.c.|Sed contra est quod dicitur [[Ex 24]], *omnia quae locutus est dominus faciemus, et erimus obedientes*.]]
+![[LEO IIa-IIæ, q. 104, a. 4#s.c.|Sed contra est quod dicitur Exod. XXIV, *omnia quae locutus est dominus faciemus, et erimus obedientes*.]]
 ![[CERF IIa-IIæ, q. 104, a. 4#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 104, a. 4#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 104, a. 4#ad 2|Ad secundum dicendum quod sicut Deus nihil operatur contra naturam, quia haec est natura uniuscuiusque rei quod in ea Deus operatur, ut habetur in Glossa [[Rm 11]], operatur tamen aliquid contra solitum cursum naturae; ita etiam Deus nihil potest praecipere contra virtutem, quia in hoc principaliter consistit virtus et rectitudo voluntatis humanae quod Dei voluntati conformetur et eius sequatur imperium, quamvis sit contra consuetum virtutis modum. Secundum hoc ergo, praeceptum Abrahae factum quod filium innocentem occideret, non fuit contra iustitiam, quia Deus est auctor mortis et vitae. Similiter nec fuit contra iustitiam quod mandavit Iudaeis ut res Aegyptiorum acciperent, quia eius sunt omnia, et cui voluerit dat illa. Similiter etiam non fuit contra castitatem praeceptum ad Osee factum ut mulierem adulteram acciperet, quia ipse Deus est humanae generationis ordinator, et ille est debitus modus mulieribus utendi quem Deus instituit. Unde patet quod praedicti nec obediendo Deo, nec obedire volendo, peccaverunt.]]
+![[LEO IIa-IIæ, q. 104, a. 4#ad 2|Ad secundum dicendum quod sicut Deus nihil operatur contra naturam, quia haec est natura uniuscuiusque rei quod in ea Deus operatur, ut habetur in Glossa Rom. XI, operatur tamen aliquid contra solitum cursum naturae; ita etiam Deus nihil potest praecipere contra virtutem, quia in hoc principaliter consistit virtus et rectitudo voluntatis humanae quod Dei voluntati conformetur et eius sequatur imperium, quamvis sit contra consuetum virtutis modum. Secundum hoc ergo, praeceptum Abrahae factum quod filium innocentem occideret, non fuit contra iustitiam, quia Deus est auctor mortis et vitae. Similiter nec fuit contra iustitiam quod mandavit Iudaeis ut res Aegyptiorum acciperent, quia eius sunt omnia, et cui voluerit dat illa. Similiter etiam non fuit contra castitatem praeceptum ad Osee factum ut mulierem adulteram acciperet, quia ipse Deus est humanae generationis ordinator, et ille est debitus modus mulieribus utendi quem Deus instituit. Unde patet quod praedicti nec obediendo Deo, nec obedire volendo, peccaverunt.]]
 ![[CERF IIa-IIæ, q. 104, a. 4#ad 2]]
 
 ###### ad 3

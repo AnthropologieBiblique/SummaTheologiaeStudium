@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 157#Prooemium|Deinde considerandum est de clementia et mansuetudine, et vitiis oppositis. Circa ipsas autem virtutes quaeruntur quatuor. Primo, utrum clementia et mansuetudo sint idem. Secundo, utrum utraque earum sit virtus. Tertio, utrum utraque earum sit pars temperantiae. Quarto, de comparatione earum ad alias virtutes.]]
-![[CERF IIa-IIæ, q. 157#Prooemium]]
+Deinde considerandum est de clementia et mansuetudine, et vitiis oppositis. Circa ipsas autem virtutes quaeruntur quatuor. Primo, utrum clementia et mansuetudo sint idem. Secundo, utrum utraque earum sit virtus. Tertio, utrum utraque earum sit pars temperantiae. Quarto, de comparatione earum ad alias virtutes.
 
 ![[IIa-IIæ, q. 157, a. 1#Articulus 1]]
 

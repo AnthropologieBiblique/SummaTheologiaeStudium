@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 20, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 20, a. 1#arg. 2|Praeterea, illud quod oritur ex bona radice non videtur esse peccatum, quia *non potest arbor bona fructus malos facere*, ut dicitur [[Mt 7]]. Sed desperatio videtur procedere ex bona radice, scilicet ex timore Dei, vel ex horrore magnitudinis propriorum peccatorum. Ergo desperatio non est peccatum.]]
+![[LEO IIa-IIæ, q. 20, a. 1#arg. 2|Praeterea, illud quod oritur ex bona radice non videtur esse peccatum, quia *non potest arbor bona fructus malos facere*, ut dicitur Matth. VII. Sed desperatio videtur procedere ex bona radice, scilicet ex timore Dei, vel ex horrore magnitudinis propriorum peccatorum. Ergo desperatio non est peccatum.]]
 ![[CERF IIa-IIæ, q. 20, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 20, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 20, a. 1#s.c.|Sed contra, illud per quod homines in peccata inducuntur videtur esse non solum peccatum, sed principium peccatorum. Sed desperatio est huiusmodi, dicit enim apostolus de quibusdam, ad [[Ep 4]], *qui desperantes semetipsos tradiderunt impudicitiae in operationem omnis immunditiae et avaritiae*. Ergo desperatio non solum est peccatum, sed aliorum peccatorum principium.]]
+![[LEO IIa-IIæ, q. 20, a. 1#s.c.|Sed contra, illud per quod homines in peccata inducuntur videtur esse non solum peccatum, sed principium peccatorum. Sed desperatio est huiusmodi, dicit enim apostolus de quibusdam, ad Ephes. IV, *qui desperantes semetipsos tradiderunt impudicitiae in operationem omnis immunditiae et avaritiae*. Ergo desperatio non solum est peccatum, sed aliorum peccatorum principium.]]
 ![[CERF IIa-IIæ, q. 20, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 20, a. 1#resp.|Respondeo dicendum quod secundum philosophum, in VI Ethic., id quod est in intellectu affirmatio vel negatio est in appetitu prosecutio et fuga, et quod est in intellectu verum vel falsum est in appetitu bonum et malum. Et ideo omnis motus appetitivus conformiter se habens intellectui vero, est secundum se bonus, omnis autem motus appetitivus conformiter se habens intellectui falso, est secundum se malus et peccatum. Circa Deum autem vera existimatio intellectus est quod ex ipso provenit hominum salus, et venia peccatoribus datur; secundum illud [[Ez 18]], *nolo mortem peccatoris, sed ut convertatur et vivat*. Falsa autem opinio est quod peccatori poenitenti veniam deneget, vel quod peccatores ad se non convertat per gratiam iustificantem. Et ideo sicut motus spei, qui conformiter se habet ad existimationem veram, est laudabilis et virtuosus; ita oppositus motus desperationis, qui se habet conformiter existimationi falsae de Deo, est vitiosus et peccatum.]]
+![[LEO IIa-IIæ, q. 20, a. 1#resp.|Respondeo dicendum quod secundum philosophum, in VI Ethic., id quod est in intellectu affirmatio vel negatio est in appetitu prosecutio et fuga, et quod est in intellectu verum vel falsum est in appetitu bonum et malum. Et ideo omnis motus appetitivus conformiter se habens intellectui vero, est secundum se bonus, omnis autem motus appetitivus conformiter se habens intellectui falso, est secundum se malus et peccatum. Circa Deum autem vera existimatio intellectus est quod ex ipso provenit hominum salus, et venia peccatoribus datur; secundum illud Ezech. XVIII, *nolo mortem peccatoris, sed ut convertatur et vivat*. Falsa autem opinio est quod peccatori poenitenti veniam deneget, vel quod peccatores ad se non convertat per gratiam iustificantem. Et ideo sicut motus spei, qui conformiter se habet ad existimationem veram, est laudabilis et virtuosus; ita oppositus motus desperationis, qui se habet conformiter existimationi falsae de Deo, est vitiosus et peccatum.]]
 ![[CERF IIa-IIæ, q. 20, a. 1#resp.]]
 
 ###### ad 1

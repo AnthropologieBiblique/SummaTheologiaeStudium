@@ -22,11 +22,11 @@ tags :
 ![[CERF Ia-IIæ, q. 91, a. 1#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 91, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, nihil est aliud lex quam quoddam dictamen practicae rationis in principe qui gubernat aliquam communitatem perfectam. Manifestum est autem, supposito quod mundus divina providentia regatur, ut in primo habitum est, quod tota communitas universi gubernatur ratione divina. Et ideo ipsa ratio gubernationis rerum in Deo sicut in principe universitatis existens, legis habet rationem. Et quia divina ratio nihil concipit ex tempore, sed habet aeternum conceptum, ut dicitur [[Pr 8]]; inde est quod huiusmodi legem oportet dicere aeternam.]]
+![[LEO Ia-IIæ, q. 91, a. 1#resp.|Respondeo dicendum quod, sicut supra dictum est, nihil est aliud lex quam quoddam dictamen practicae rationis in principe qui gubernat aliquam communitatem perfectam. Manifestum est autem, supposito quod mundus divina providentia regatur, ut in primo habitum est, quod tota communitas universi gubernatur ratione divina. Et ideo ipsa ratio gubernationis rerum in Deo sicut in principe universitatis existens, legis habet rationem. Et quia divina ratio nihil concipit ex tempore, sed habet aeternum conceptum, ut dicitur Prov. VIII; inde est quod huiusmodi legem oportet dicere aeternam.]]
 ![[CERF Ia-IIæ, q. 91, a. 1#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 91, a. 1#ad 1|Ad primum ergo dicendum quod ea quae in seipsis non sunt, apud Deum existunt, inquantum sunt ab ipso praecognita et praeordinata; secundum illud [[Rm 4]], *qui vocat ea quae non sunt, tanquam ea quae sunt*. Sic igitur aeternus divinae legis conceptus habet rationem legis aeternae, secundum quod a Deo ordinatur ad gubernationem rerum ab ipso praecognitarum.]]
+![[LEO Ia-IIæ, q. 91, a. 1#ad 1|Ad primum ergo dicendum quod ea quae in seipsis non sunt, apud Deum existunt, inquantum sunt ab ipso praecognita et praeordinata; secundum illud Rom. IV, *qui vocat ea quae non sunt, tanquam ea quae sunt*. Sic igitur aeternus divinae legis conceptus habet rationem legis aeternae, secundum quod a Deo ordinatur ad gubernationem rerum ab ipso praecognitarum.]]
 ![[CERF Ia-IIæ, q. 91, a. 1#ad 1]]
 
 ###### ad 2

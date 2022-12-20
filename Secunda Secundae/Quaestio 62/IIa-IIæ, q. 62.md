@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO IIa-IIæ, q. 62#Prooemium|Deinde considerandum est de restitutione. Et circa hoc quaeruntur octo. Primo, cuius actus sit. Secundo, utrum necesse sit ad salutem omne ablatum restitui. Tertio, utrum oporteat multiplicatum illud restituere. Quarto, utrum oporteat restitui id quod quis non accepit. Quinto, utrum oporteat restitui ei a quo acceptum est. Sexto, utrum oporteat restituere eum qui accepit. Septimo, utrum aliquem alium. Octavo, utrum sit statim restituendum.]]
-![[CERF IIa-IIæ, q. 62#Prooemium]]
+Deinde considerandum est de restitutione. Et circa hoc quaeruntur octo. Primo, cuius actus sit. Secundo, utrum necesse sit ad salutem omne ablatum restitui. Tertio, utrum oporteat multiplicatum illud restituere. Quarto, utrum oporteat restitui id quod quis non accepit. Quinto, utrum oporteat restitui ei a quo acceptum est. Sexto, utrum oporteat restituere eum qui accepit. Septimo, utrum aliquem alium. Octavo, utrum sit statim restituendum.
 
 ![[IIa-IIæ, q. 62, a. 1#Articulus 1]]
 

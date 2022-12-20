@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 123, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod fortitudo non sit specialis virtus. Dicitur enim [[Sg 8]], quod sapientia sobrietatem et prudentiam docet, iustitiam et virtutem, et ponitur ibi virtus pro fortitudine. Cum ergo nomen virtutis sit commune omnibus virtutibus, videtur quod fortitudo sit generalis virtus.]]
+![[LEO IIa-IIæ, q. 123, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod fortitudo non sit specialis virtus. Dicitur enim Sap. VIII, quod sapientia sobrietatem et prudentiam docet, iustitiam et virtutem, et ponitur ibi virtus pro fortitudine. Cum ergo nomen virtutis sit commune omnibus virtutibus, videtur quod fortitudo sit generalis virtus.]]
 ![[CERF IIa-IIæ, q. 123, a. 2#arg. 1]]
 
 ###### arg. 2

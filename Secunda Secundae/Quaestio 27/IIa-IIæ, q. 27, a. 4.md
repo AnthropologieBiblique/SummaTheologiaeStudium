@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 27, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 27, a. 4#arg. 3|Praeterea, homo a Deo disiungitur per peccatum, secundum illud [[Is 59]], *peccata vestra diviserunt inter vos et Deum vestrum*. Sed peccatum magis est in voluntate quam in intellectu. Ergo minus potest homo Deum diligere immediate quam immediate eum cognoscere.]]
+![[LEO IIa-IIæ, q. 27, a. 4#arg. 3|Praeterea, homo a Deo disiungitur per peccatum, secundum illud Isaiae LIX, *peccata vestra diviserunt inter vos et Deum vestrum*. Sed peccatum magis est in voluntate quam in intellectu. Ergo minus potest homo Deum diligere immediate quam immediate eum cognoscere.]]
 ![[CERF IIa-IIæ, q. 27, a. 4#arg. 3]]
 
 ###### s.c.

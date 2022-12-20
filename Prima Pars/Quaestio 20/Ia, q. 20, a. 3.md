@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia, q. 20, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Deus aequaliter diligat omnia. Dicitur enim [[Sg 6]], *aequaliter est ei cura de omnibus*. Sed providentia Dei, quam habet de rebus, est ex amore quo amat res. Ergo aequaliter amat omnia.]]
+![[LEO Ia, q. 20, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Deus aequaliter diligat omnia. Dicitur enim Sap. VI, *aequaliter est ei cura de omnibus*. Sed providentia Dei, quam habet de rebus, est ex amore quo amat res. Ergo aequaliter amat omnia.]]
 ![[CERF Ia, q. 20, a. 3#arg. 1]]
 
 ###### arg. 2

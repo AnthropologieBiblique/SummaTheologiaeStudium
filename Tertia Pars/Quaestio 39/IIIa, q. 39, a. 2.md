@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 39, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 39, a. 2#s.c.|Sed contra est quod dicitur [[Mt 3]], quod *venit Iesus in Iordanem ut baptizaretur a Ioanne*.]]
+![[LEO IIIa, q. 39, a. 2#s.c.|Sed contra est quod dicitur Matth. III, quod *venit Iesus in Iordanem ut baptizaretur a Ioanne*.]]
 ![[CERF IIIa, q. 39, a. 2#s.c.]]
 
 ###### resp.

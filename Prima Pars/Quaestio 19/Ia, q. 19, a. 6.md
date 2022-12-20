@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia, q. 19, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod voluntas Dei non semper impleatur. Dicit enim apostolus, [[1 Tm 2]], quod *Deus vult omnes homines salvos fieri, et ad agnitionem veritatis venire*. Sed hoc non ita evenit. Ergo voluntas Dei non semper impletur.]]
+![[LEO Ia, q. 19, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod voluntas Dei non semper impleatur. Dicit enim apostolus, I ad Tim. II, quod *Deus vult omnes homines salvos fieri, et ad agnitionem veritatis venire*. Sed hoc non ita evenit. Ergo voluntas Dei non semper impletur.]]
 ![[CERF Ia, q. 19, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 19, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 19, a. 6#s.c.|Sed contra est quod dicitur in [[Ps 113]], *omnia quaecumque voluit Deus, fecit*.]]
+![[LEO Ia, q. 19, a. 6#s.c.|Sed contra est quod dicitur in Psalmo CXIII, *omnia quaecumque voluit Deus, fecit*.]]
 ![[CERF Ia, q. 19, a. 6#s.c.]]
 
 ###### resp.

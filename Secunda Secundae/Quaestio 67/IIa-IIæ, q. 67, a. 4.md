@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 67, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod iudex licite possit poenam relaxare. Dicitur enim [[Jc 2]], *iudicium sine misericordia ei qui non facit misericordiam*. Sed nullus punitur propter hoc quod non facit illud quod licite facere non potest. Ergo quilibet iudex potest licite misericordiam facere, relaxando poenam.]]
+![[LEO IIa-IIæ, q. 67, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod iudex licite possit poenam relaxare. Dicitur enim Iac. II, *iudicium sine misericordia ei qui non facit misericordiam*. Sed nullus punitur propter hoc quod non facit illud quod licite facere non potest. Ergo quilibet iudex potest licite misericordiam facere, relaxando poenam.]]
 ![[CERF IIa-IIæ, q. 67, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 67, a. 4#arg. 2|Praeterea, iudicium humanum debet imitari iudicium divinum. Sed Deus poenitentibus relaxat poenam, quia non vult mortem peccatoris, ut dicitur [[Ez 18]]. Ergo etiam homo iudex potest poenitenti licite laxare poenam.]]
+![[LEO IIa-IIæ, q. 67, a. 4#arg. 2|Praeterea, iudicium humanum debet imitari iudicium divinum. Sed Deus poenitentibus relaxat poenam, quia non vult mortem peccatoris, ut dicitur Ezech. XVIII. Ergo etiam homo iudex potest poenitenti licite laxare poenam.]]
 ![[CERF IIa-IIæ, q. 67, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIa-IIæ, q. 67, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 67, a. 4#s.c.|Sed contra est quod dicitur [[Dt 13]] de eo qui persuadet servire diis alienis, *non parcat ei oculus tuus ut miserearis et occultes eum, sed statim interficies eum*. Et de homicida dicitur [[Dt 13]], *morietur, nec misereberis eius*.]]
+![[LEO IIa-IIæ, q. 67, a. 4#s.c.|Sed contra est quod dicitur Deut. XIII de eo qui persuadet servire diis alienis, *non parcat ei oculus tuus ut miserearis et occultes eum, sed statim interficies eum*. Et de homicida dicitur Deut. XIX, *morietur, nec misereberis eius*.]]
 ![[CERF IIa-IIæ, q. 67, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 67, a. 4#resp.|Respondeo dicendum quod, sicut ex dictis patet, duo sunt, quantum ad propositum pertinet, circa iudicem consideranda, quorum unum est quod ipse habet iudicare inter accusatorem et reum; aliud autem est quod ipse non fert iudicii sententiam quasi ex propria, sed quasi ex publica potestate. Duplici ergo ratione impeditur iudex ne reum a poena absolvere possit. Primo quidem, ex parte accusatoris, ad cuius ius quandoque pertinet ut reus puniatur, puta propter aliquam iniuriam in ipsum commissam, cuius relaxatio non est in arbitrio alicuius iudicis, quia quilibet iudex tenetur ius suum reddere unicuique. Alio modo impeditur ex parte reipublicae, cuius potestate fungitur, ad cuius bonum pertinet quod malefactores puniantur. Sed tamen quantum ad hoc differt inter inferiores iudices et supremum iudicem, scilicet principem, cui est plenarie potestas publica commissa. Iudex enim inferior non habet potestatem absolvendi reum a poena, contra leges a superiore sibi impositas. Unde super illud [[Jn 19]], *non haberes adversum me potestatem ullam*, dicit Augustinus, *talem Deus dederat Pilato potestatem ut esset sub Caesaris potestate, ne ei omnino liberum esset accusatum absolvere*. Sed princeps, qui habet plenariam potestatem in republica, si ille qui passus est iniuriam velit eam remittere, poterit reum licite absolvere, si hoc publicae utilitati viderit non esse nocivum.]]
+![[LEO IIa-IIæ, q. 67, a. 4#resp.|Respondeo dicendum quod, sicut ex dictis patet, duo sunt, quantum ad propositum pertinet, circa iudicem consideranda, quorum unum est quod ipse habet iudicare inter accusatorem et reum; aliud autem est quod ipse non fert iudicii sententiam quasi ex propria, sed quasi ex publica potestate. Duplici ergo ratione impeditur iudex ne reum a poena absolvere possit. Primo quidem, ex parte accusatoris, ad cuius ius quandoque pertinet ut reus puniatur, puta propter aliquam iniuriam in ipsum commissam, cuius relaxatio non est in arbitrio alicuius iudicis, quia quilibet iudex tenetur ius suum reddere unicuique. Alio modo impeditur ex parte reipublicae, cuius potestate fungitur, ad cuius bonum pertinet quod malefactores puniantur. Sed tamen quantum ad hoc differt inter inferiores iudices et supremum iudicem, scilicet principem, cui est plenarie potestas publica commissa. Iudex enim inferior non habet potestatem absolvendi reum a poena, contra leges a superiore sibi impositas. Unde super illud Ioan. XIX, *non haberes adversum me potestatem ullam*, dicit Augustinus, *talem Deus dederat Pilato potestatem ut esset sub Caesaris potestate, ne ei omnino liberum esset accusatum absolvere*. Sed princeps, qui habet plenariam potestatem in republica, si ille qui passus est iniuriam velit eam remittere, poterit reum licite absolvere, si hoc publicae utilitati viderit non esse nocivum.]]
 ![[CERF IIa-IIæ, q. 67, a. 4#resp.]]
 
 ###### ad 1
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 67, a. 4#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 67, a. 4#ad 3|Ad tertium dicendum quod iudex, si inordinate poenam remitteret, nocumentum inferret et communitati, cui expedit ut maleficia puniantur, ad hoc quod peccata vitentur, unde [[Dt 13]], post poenam seductoris, subditur, *ut omnis Israel, audiens, timeat, et nequaquam ultra faciat quispiam huius rei simile*. Nocet etiam personae cui est illata iniuria, quae recompensationem accipit per quandam restitutionem honoris in poena iniuriantis.]]
+![[LEO IIa-IIæ, q. 67, a. 4#ad 3|Ad tertium dicendum quod iudex, si inordinate poenam remitteret, nocumentum inferret et communitati, cui expedit ut maleficia puniantur, ad hoc quod peccata vitentur, unde Deut. XIII, post poenam seductoris, subditur, *ut omnis Israel, audiens, timeat, et nequaquam ultra faciat quispiam huius rei simile*. Nocet etiam personae cui est illata iniuria, quae recompensationem accipit per quandam restitutionem honoris in poena iniuriantis.]]
 ![[CERF IIa-IIæ, q. 67, a. 4#ad 3]]
 

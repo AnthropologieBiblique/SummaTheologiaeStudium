@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia, q. 26, a. 3#arg. 2]]
 
 ###### s.c.
-![[LEO Ia, q. 26, a. 3#s.c.|Sed contra, beatitudo unius est maior beatitudine alterius, secundum illud [[1 Co 15]], *stella differt a stella in claritate*. Sed Deo nihil est maius. Ergo beatitudo est aliquid aliud quam Deus.]]
+![[LEO Ia, q. 26, a. 3#s.c.|Sed contra, beatitudo unius est maior beatitudine alterius, secundum illud I Cor. XV, *stella differt a stella in claritate*. Sed Deo nihil est maius. Ergo beatitudo est aliquid aliud quam Deus.]]
 ![[CERF Ia, q. 26, a. 3#s.c.]]
 
 ###### resp.

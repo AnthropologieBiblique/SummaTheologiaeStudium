@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 58, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod iustitia non sit virtus. Dicitur enim [[Lc 17]], *cum feceritis omnia quae praecepta sunt vobis, dicite, servi inutiles sumus, quod debuimus facere fecimus*. Sed non est inutile facere opus virtutis, dicit enim Ambrosius, in II de Offic., *utilitatem non pecuniarii lucri aestimationem dicimus, sed acquisitionem pietatis*. Ergo facere quod quis debet facere non est opus virtutis. Est autem opus iustitiae. Ergo iustitia non est virtus.]]
+![[LEO IIa-IIæ, q. 58, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod iustitia non sit virtus. Dicitur enim Luc. XVII, *cum feceritis omnia quae praecepta sunt vobis, dicite, servi inutiles sumus, quod debuimus facere fecimus*. Sed non est inutile facere opus virtutis, dicit enim Ambrosius, in II de Offic., *utilitatem non pecuniarii lucri aestimationem dicimus, sed acquisitionem pietatis*. Ergo facere quod quis debet facere non est opus virtutis. Est autem opus iustitiae. Ergo iustitia non est virtus.]]
 ![[CERF IIa-IIæ, q. 58, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 58, a. 3#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 58, a. 3#ad 1|Ad primum ergo dicendum quod cum aliquis facit quod debet, non affert utilitatem lucri ei cui facit quod debet, sed solum abstinet a damno eius. Sibi tamen facit utilitatem, inquantum spontanea et prompta voluntate facit illud quod debet, quod est virtuose agere. Unde dicitur [[Sg 8]] quod *sapientia Dei sobrietatem et iustitiam docet, prudentiam et virtutem*; quibus in vita nihil est utilius hominibus, scilicet virtuosis.]]
+![[LEO IIa-IIæ, q. 58, a. 3#ad 1|Ad primum ergo dicendum quod cum aliquis facit quod debet, non affert utilitatem lucri ei cui facit quod debet, sed solum abstinet a damno eius. Sibi tamen facit utilitatem, inquantum spontanea et prompta voluntate facit illud quod debet, quod est virtuose agere. Unde dicitur Sap. VIII quod *sapientia Dei sobrietatem et iustitiam docet, prudentiam et virtutem*; quibus in vita nihil est utilius hominibus, scilicet virtuosis.]]
 ![[CERF IIa-IIæ, q. 58, a. 3#ad 1]]
 
 ###### ad 2

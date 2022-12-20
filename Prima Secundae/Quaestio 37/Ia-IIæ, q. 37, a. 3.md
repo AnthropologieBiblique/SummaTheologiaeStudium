@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 37, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod tristitia non impediat omnem operationem. Sollicitudo enim ex tristitia causatur, ut patet per auctoritatem apostoli inductam. Sed sollicitudo adiuvat ad bene operandum, unde apostolus dicit, [[2 Tm 2]], *sollicite cura teipsum exhibere operarium inconfusibilem*. Ergo tristitia non impedit operationem, sed magis adiuvat ad bene operandum.]]
+![[LEO Ia-IIæ, q. 37, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod tristitia non impediat omnem operationem. Sollicitudo enim ex tristitia causatur, ut patet per auctoritatem apostoli inductam. Sed sollicitudo adiuvat ad bene operandum, unde apostolus dicit, II ad Tim. II, *sollicite cura teipsum exhibere operarium inconfusibilem*. Ergo tristitia non impedit operationem, sed magis adiuvat ad bene operandum.]]
 ![[CERF Ia-IIæ, q. 37, a. 3#arg. 1]]
 
 ###### arg. 2

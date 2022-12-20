@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 19, a. 4#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 19, a. 4#resp.|Respondeo dicendum quod in omnibus causis ordinatis, effectus plus dependet a causa prima quam a causa secunda, quia causa secunda non agit nisi in virtute primae causae. Quod autem ratio humana sit regula voluntatis humanae, ex qua eius bonitas mensuretur, habet ex lege aeterna, quae est ratio divina. Unde in [[Ps 4]], dicitur, *multi dicunt, quis ostendit nobis bona? Signatum est super nos lumen vultus tui, domine*, quasi diceret, lumen rationis quod in nobis est, intantum potest nobis ostendere bona, et nostram voluntatem regulare, inquantum est lumen vultus tui, idest a vultu tuo derivatum. Unde manifestum est quod multo magis dependet bonitas voluntatis humanae a lege aeterna, quam a ratione humana, et ubi deficit humana ratio, oportet ad rationem aeternam recurrere.]]
+![[LEO Ia-IIæ, q. 19, a. 4#resp.|Respondeo dicendum quod in omnibus causis ordinatis, effectus plus dependet a causa prima quam a causa secunda, quia causa secunda non agit nisi in virtute primae causae. Quod autem ratio humana sit regula voluntatis humanae, ex qua eius bonitas mensuretur, habet ex lege aeterna, quae est ratio divina. Unde in Psalmo IV, dicitur, *multi dicunt, quis ostendit nobis bona? Signatum est super nos lumen vultus tui, domine*, quasi diceret, lumen rationis quod in nobis est, intantum potest nobis ostendere bona, et nostram voluntatem regulare, inquantum est lumen vultus tui, idest a vultu tuo derivatum. Unde manifestum est quod multo magis dependet bonitas voluntatis humanae a lege aeterna, quam a ratione humana, et ubi deficit humana ratio, oportet ad rationem aeternam recurrere.]]
 ![[CERF Ia-IIæ, q. 19, a. 4#resp.]]
 
 ###### ad 1

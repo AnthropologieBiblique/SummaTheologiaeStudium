@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 34, a. 2#arg. 4]]
 
 ###### arg. 5
-![[LEO Ia, q. 34, a. 2#arg. 5|Praeterea, [[He 1]] dicitur de filio, portans omnia verbo virtutis suae, ex quo Basilius accipit quod spiritus sanctus sit verbum filii. Non est ergo proprium filii esse verbum.]]
+![[LEO Ia, q. 34, a. 2#arg. 5|Praeterea, Hebr. I dicitur de filio, portans omnia verbo virtutis suae, ex quo Basilius accipit quod spiritus sanctus sit verbum filii. Non est ergo proprium filii esse verbum.]]
 ![[CERF Ia, q. 34, a. 2#arg. 5]]
 
 ###### s.c.

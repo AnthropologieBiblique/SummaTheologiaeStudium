@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 19, a. 10#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 19, a. 10#s.c.|Sed contra est quia super illud [[Ps 32]], *rectos decet collaudatio*, dicit Glossa, *rectum cor habet qui vult quod Deus vult*. Sed quilibet tenetur habere rectum cor. Ergo quilibet tenetur velle quod Deus vult.]]
+![[LEO Ia-IIæ, q. 19, a. 10#s.c.|Sed contra est quia super illud Psalmi XXXII, *rectos decet collaudatio*, dicit Glossa, *rectum cor habet qui vult quod Deus vult*. Sed quilibet tenetur habere rectum cor. Ergo quilibet tenetur velle quod Deus vult.]]
 ![[CERF Ia-IIæ, q. 19, a. 10#s.c.]]
 
 ###### s.c.

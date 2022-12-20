@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 3, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod beatitudo consistat in actu voluntatis. Dicit enim Augustinus, XIX de Civ. Dei, quod beatitudo hominis in pace consistit, unde in [[Ps 147]], qui posuit fines tuos pacem. Sed pax ad voluntatem pertinet. Ergo beatitudo hominis in voluntate consistit.]]
+![[LEO Ia-IIæ, q. 3, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod beatitudo consistat in actu voluntatis. Dicit enim Augustinus, XIX de Civ. Dei, quod beatitudo hominis in pace consistit, unde in Psalmo CXLVII, qui posuit fines tuos pacem. Sed pax ad voluntatem pertinet. Ergo beatitudo hominis in voluntate consistit.]]
 ![[CERF Ia-IIæ, q. 3, a. 4#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia-IIæ, q. 3, a. 4#arg. 5]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 3, a. 4#s.c.|Sed contra est quod dominus dicit, [[Jn 17]], *haec est vita aeterna, ut cognoscant te, Deum verum unum*. Vita autem aeterna est ultimus finis, ut dictum est. Ergo beatitudo hominis in cognitione Dei consistit, quae est actus intellectus.]]
+![[LEO Ia-IIæ, q. 3, a. 4#s.c.|Sed contra est quod dominus dicit, Ioan. XVII, *haec est vita aeterna, ut cognoscant te, Deum verum unum*. Vita autem aeterna est ultimus finis, ut dictum est. Ergo beatitudo hominis in cognitione Dei consistit, quae est actus intellectus.]]
 ![[CERF Ia-IIæ, q. 3, a. 4#s.c.]]
 
 ###### resp.

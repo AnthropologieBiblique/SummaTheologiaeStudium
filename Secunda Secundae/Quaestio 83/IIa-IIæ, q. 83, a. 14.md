@@ -6,7 +6,7 @@ tags :
 ### Articulus 14
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 83, a. 14#arg. 1|Ad quartumdecimum sic proceditur. Videtur quod oratio non debeat esse diuturna. Dicitur enim [[Mt 6]], *orantes nolite multum loqui*. Sed oportet multum loqui diu orantem, praesertim si oratio sit vocalis. Ergo non debet esse oratio diuturna.]]
+![[LEO IIa-IIæ, q. 83, a. 14#arg. 1|Ad quartumdecimum sic proceditur. Videtur quod oratio non debeat esse diuturna. Dicitur enim Matth. VI, *orantes nolite multum loqui*. Sed oportet multum loqui diu orantem, praesertim si oratio sit vocalis. Ergo non debet esse oratio diuturna.]]
 ![[CERF IIa-IIæ, q. 83, a. 14#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 14#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 83, a. 14#arg. 3|Praeterea, illicitum videtur esse quod homo transgreditur terminos a Deo praefixos, praecipue in his quae pertinent ad cultum divinum, secundum illud [[Ex 19]], *contestare populum, ne forte velit transcendere propositos terminos ad videndum dominum, et pereat ex eis plurima multitudo*. Sed a Deo praefixus est nobis terminus orandi per institutionem orationis dominicae, ut patet [[Mt 6]]. Ergo non licet ultra orationem protendere.]]
+![[LEO IIa-IIæ, q. 83, a. 14#arg. 3|Praeterea, illicitum videtur esse quod homo transgreditur terminos a Deo praefixos, praecipue in his quae pertinent ad cultum divinum, secundum illud Exod. XIX, *contestare populum, ne forte velit transcendere propositos terminos ad videndum dominum, et pereat ex eis plurima multitudo*. Sed a Deo praefixus est nobis terminus orandi per institutionem orationis dominicae, ut patet Matth. VI. Ergo non licet ultra orationem protendere.]]
 ![[CERF IIa-IIæ, q. 83, a. 14#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 83, a. 14#s.c.|Sed contra, videtur quod continue sit orandum. Quia dominus dicit, [[Lc 18]], *oportet semper orare, et non deficere*. Et I ad Thess. V, *sine intermissione orate*.]]
+![[LEO IIa-IIæ, q. 83, a. 14#s.c.|Sed contra, videtur quod continue sit orandum. Quia dominus dicit, Luc. XVIII, *oportet semper orare, et non deficere*. Et I ad Thess. V, *sine intermissione orate*.]]
 ![[CERF IIa-IIæ, q. 83, a. 14#s.c.]]
 
 ###### resp.

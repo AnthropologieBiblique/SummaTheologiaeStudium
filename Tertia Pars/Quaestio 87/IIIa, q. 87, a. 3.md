@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 87, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 87, a. 3#arg. 3|Praeterea, peccata venialia inducunt reatum alicuius poenae, licet temporalis, dicitur enim, [[1 Co 3]], de eo qui *superaedificat lignum, faenum et stipulam, quod salvus erit, sic tamen quasi per ignem*. Sed huiusmodi per quae dicitur peccatum veniale remitti, vel nullam vel minimam poenam in se habent. Ergo non sufficiunt ad plenam remissionem venialium peccatorum.]]
+![[LEO IIIa, q. 87, a. 3#arg. 3|Praeterea, peccata venialia inducunt reatum alicuius poenae, licet temporalis, dicitur enim, I Cor. III, de eo qui *superaedificat lignum, faenum et stipulam, quod salvus erit, sic tamen quasi per ignem*. Sed huiusmodi per quae dicitur peccatum veniale remitti, vel nullam vel minimam poenam in se habent. Ergo non sufficiunt ad plenam remissionem venialium peccatorum.]]
 ![[CERF IIIa, q. 87, a. 3#arg. 3]]
 
 ###### s.c.

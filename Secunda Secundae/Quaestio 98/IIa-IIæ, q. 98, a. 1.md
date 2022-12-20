@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 98, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 98, a. 1#ad 1|Ad primum ergo dicendum quod, sicut Hieronymus dicit, [[Jr 4]], *quodcumque illorum trium defuerit, periurium est*. Non tamen eodem ordine. Sed primo quidem et principaliter periurium est quando deest veritas, ratione iam dicta. Secundario autem, quando deest iustitia, quicumque enim iurat illicitum, ex hoc ipso falsitatem incurrit, quia obligatus est ad hoc quod contrarium faciat. Tertio vero, quando deest iudicium, quia cum indiscrete iurat, ex hoc ipso periculo se committit falsitatem incurrendi.]]
+![[LEO IIa-IIæ, q. 98, a. 1#ad 1|Ad primum ergo dicendum quod, sicut Hieronymus dicit, Ierem. IV, *quodcumque illorum trium defuerit, periurium est*. Non tamen eodem ordine. Sed primo quidem et principaliter periurium est quando deest veritas, ratione iam dicta. Secundario autem, quando deest iustitia, quicumque enim iurat illicitum, ex hoc ipso falsitatem incurrit, quia obligatus est ad hoc quod contrarium faciat. Tertio vero, quando deest iudicium, quia cum indiscrete iurat, ex hoc ipso periculo se committit falsitatem incurrendi.]]
 ![[CERF IIa-IIæ, q. 98, a. 1#ad 1]]
 
 ###### ad 2

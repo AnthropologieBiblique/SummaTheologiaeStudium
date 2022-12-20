@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 68, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod sine Baptismo nullus possit salvari. Dicit enim dominus, [[Jn 3]], *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*. Sed illi soli salvantur qui regnum Dei intrant. Ergo nullus potest salvari sine Baptismo, quo aliquis regeneratur ex aqua et spiritu sancto.]]
+![[LEO IIIa, q. 68, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod sine Baptismo nullus possit salvari. Dicit enim dominus, Ioan. III, *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*. Sed illi soli salvantur qui regnum Dei intrant. Ergo nullus potest salvari sine Baptismo, quo aliquis regeneratur ex aqua et spiritu sancto.]]
 ![[CERF IIIa, q. 68, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -26,11 +26,11 @@ tags :
 ![[CERF IIIa, q. 68, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 68, a. 2#ad 1|Ad primum ergo dicendum quod, sicut dicitur [[1S 16]], *homines vident ea quae parent, dominus autem intuetur cor*. Ille autem qui desiderat per Baptismum regenerari ex aqua et spiritu sancto, corde quidem regeneratus est, licet non corpore, sicut et apostolus dicit, [[Rm 2]], quod *circumcisio cordis est in spiritu, non in littera; cuius laus non ex hominibus, sed ex Deo est*.]]
+![[LEO IIIa, q. 68, a. 2#ad 1|Ad primum ergo dicendum quod, sicut dicitur I Reg. XVI, *homines vident ea quae parent, dominus autem intuetur cor*. Ille autem qui desiderat per Baptismum regenerari ex aqua et spiritu sancto, corde quidem regeneratus est, licet non corpore, sicut et apostolus dicit, Rom. II, quod *circumcisio cordis est in spiritu, non in littera; cuius laus non ex hominibus, sed ex Deo est*.]]
 ![[CERF IIIa, q. 68, a. 2#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 68, a. 2#ad 2|Ad secundum dicendum quod nullus pervenit ad vitam aeternam nisi absolutus ab omni culpa et reatu poenae. Quae quidem universalis absolutio fit in perceptione Baptismi, et in martyrio, propter quod dicitur quod in martyrio omnia sacramenta Baptismi complentur, scilicet quantum ad plenam liberationem a culpa et poena. Si quis ergo catechumenus sit habens desiderium Baptismi (quia aliter in bonis operibus non moreretur, quae non possunt esse sine fide per dilectionem operante), talis decedens non statim pervenit ad vitam aeternam, sed patietur poenam pro peccatis praeteritis, *ipse tamen salvus erit sic quasi per ignem*, ut dicitur [[1 Co 3]].]]
+![[LEO IIIa, q. 68, a. 2#ad 2|Ad secundum dicendum quod nullus pervenit ad vitam aeternam nisi absolutus ab omni culpa et reatu poenae. Quae quidem universalis absolutio fit in perceptione Baptismi, et in martyrio, propter quod dicitur quod in martyrio omnia sacramenta Baptismi complentur, scilicet quantum ad plenam liberationem a culpa et poena. Si quis ergo catechumenus sit habens desiderium Baptismi (quia aliter in bonis operibus non moreretur, quae non possunt esse sine fide per dilectionem operante), talis decedens non statim pervenit ad vitam aeternam, sed patietur poenam pro peccatis praeteritis, *ipse tamen salvus erit sic quasi per ignem*, ut dicitur I Cor. III.]]
 ![[CERF IIIa, q. 68, a. 2#ad 2]]
 
 ###### ad 3

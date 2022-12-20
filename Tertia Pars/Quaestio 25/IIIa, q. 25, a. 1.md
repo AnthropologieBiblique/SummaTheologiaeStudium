@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 25, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non eadem adoratione adoranda sit humanitas Christi et eius divinitas. Divinitas enim Christi est adoranda, quae est communis patri et filio, unde dicitur [[Jn 5]], *omnes honorificent filium sicut honorificant patrem*. Sed humanitas Christi non est communis ei et patri. Ergo non eadem adoratione adoranda est humanitas Christi et eius divinitas.]]
+![[LEO IIIa, q. 25, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non eadem adoratione adoranda sit humanitas Christi et eius divinitas. Divinitas enim Christi est adoranda, quae est communis patri et filio, unde dicitur Ioan. V, *omnes honorificent filium sicut honorificant patrem*. Sed humanitas Christi non est communis ei et patri. Ergo non eadem adoratione adoranda est humanitas Christi et eius divinitas.]]
 ![[CERF IIIa, q. 25, a. 1#arg. 1]]
 
 ###### arg. 2

@@ -6,11 +6,11 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 185, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod non liceat episcopo, propter aliquam persecutionem, corporaliter deserere gregem sibi commissum. Dicit enim dominus, [[Jn 10]], quod *ille est mercenarius, et non vere pastor, qui videt lupum venientem, et dimittit oves et fugit*. Dicit autem Gregorius, in homilia, quod *lupus super oves venit, cum quilibet iniustus et raptor fideles quosque atque humiles opprimit*. Si ergo propter persecutionem alicuius tyranni, episcopus gregem sibi commissum corporaliter deserat, videtur quod sit mercenarius, et non pastor.]]
+![[LEO IIa-IIæ, q. 185, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod non liceat episcopo, propter aliquam persecutionem, corporaliter deserere gregem sibi commissum. Dicit enim dominus, Ioan. X, quod *ille est mercenarius, et non vere pastor, qui videt lupum venientem, et dimittit oves et fugit*. Dicit autem Gregorius, in homilia, quod *lupus super oves venit, cum quilibet iniustus et raptor fideles quosque atque humiles opprimit*. Si ergo propter persecutionem alicuius tyranni, episcopus gregem sibi commissum corporaliter deserat, videtur quod sit mercenarius, et non pastor.]]
 ![[CERF IIa-IIæ, q. 185, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 185, a. 5#arg. 2|Praeterea, [[Pr 6]] dicitur, *fili, si sponderis pro amico tuo, defixisti apud extraneum manum tuam*, et postea subdit, *discurre, festina, suscita amicum tuum*. Quod exponens Gregorius, in Pastoral., dicit, *spondere pro amico est animam alienam in periculo suae conversationis accipere. Quisquis autem ad vivendum aliis in exemplum praeponitur, non solum ut ipse vigilet, sed etiam ut amicum suscitet, admonetur*. Sed hoc non potest facere si corporaliter deserat gregem. Ergo videtur quod episcopus non debeat, causa persecutionis, corporaliter suum gregem deserere.]]
+![[LEO IIa-IIæ, q. 185, a. 5#arg. 2|Praeterea, Prov. VI dicitur, *fili, si sponderis pro amico tuo, defixisti apud extraneum manum tuam*, et postea subdit, *discurre, festina, suscita amicum tuum*. Quod exponens Gregorius, in Pastoral., dicit, *spondere pro amico est animam alienam in periculo suae conversationis accipere. Quisquis autem ad vivendum aliis in exemplum praeponitur, non solum ut ipse vigilet, sed etiam ut amicum suscitet, admonetur*. Sed hoc non potest facere si corporaliter deserat gregem. Ergo videtur quod episcopus non debeat, causa persecutionis, corporaliter suum gregem deserere.]]
 ![[CERF IIa-IIæ, q. 185, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 185, a. 5#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 185, a. 5#s.c.|Sed contra est quod dominus apostolis, quorum successores sunt episcopi, mandavit, [[Mt 10]], *si vos persecuti fuerint in una civitate, fugite in aliam*.]]
+![[LEO IIa-IIæ, q. 185, a. 5#s.c.|Sed contra est quod dominus apostolis, quorum successores sunt episcopi, mandavit, Matth. X, *si vos persecuti fuerint in una civitate, fugite in aliam*.]]
 ![[CERF IIa-IIæ, q. 185, a. 5#s.c.]]
 
 ###### resp.

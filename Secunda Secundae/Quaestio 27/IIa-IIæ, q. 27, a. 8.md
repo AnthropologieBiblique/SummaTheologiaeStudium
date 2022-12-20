@@ -6,11 +6,11 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 27, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod magis sit meritorium diligere proximum quam diligere Deum. Illud enim videtur esse magis meritorium quod apostolus magis elegit. Sed apostolus praeelegit dilectionem proximi dilectioni Dei, secundum illud ad [[Rm 9]], *optabam anathema esse a Christo pro fratribus meis*. Ergo magis est meritorium diligere proximum quam diligere Deum.]]
+![[LEO IIa-IIæ, q. 27, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod magis sit meritorium diligere proximum quam diligere Deum. Illud enim videtur esse magis meritorium quod apostolus magis elegit. Sed apostolus praeelegit dilectionem proximi dilectioni Dei, secundum illud ad Rom. IX, *optabam anathema esse a Christo pro fratribus meis*. Ergo magis est meritorium diligere proximum quam diligere Deum.]]
 ![[CERF IIa-IIæ, q. 27, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 27, a. 8#arg. 2|Praeterea, minus videtur esse meritorium aliquo modo diligere amicum, ut dictum est. Sed Deus maxime est amicus, *qui prior dilexit nos*, ut dicitur [[1 Jn 4]]. Ergo diligere eum videtur esse minus meritorium.]]
+![[LEO IIa-IIæ, q. 27, a. 8#arg. 2|Praeterea, minus videtur esse meritorium aliquo modo diligere amicum, ut dictum est. Sed Deus maxime est amicus, *qui prior dilexit nos*, ut dicitur I Ioan. IV. Ergo diligere eum videtur esse minus meritorium.]]
 ![[CERF IIa-IIæ, q. 27, a. 8#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 27, a. 8#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 27, a. 8#resp.|Respondeo dicendum quod comparatio ista potest intelligi dupliciter. Uno modo, ut seorsum consideretur utraque dilectio. Et tunc non est dubium quod dilectio Dei est magis meritoria, debetur enim ei merces propter seipsam, quia ultima merces est frui Deo, in quem tendit divinae dilectionis motus. Unde et diligenti Deum merces promittitur, [[Jn 14]], *si quis diligit me, diligetur a patre meo, et manifestabo ei meipsum*. Alio modo potest attendi ista comparatio ut dilectio Dei accipiatur secundum quod solus diligitur; dilectio autem proximi accipiatur secundum quod proximus diligitur propter Deum. Et sic dilectio proximi includet dilectionem Dei, sed dilectio Dei non includet dilectionem proximi. Unde erit comparatio dilectionis Dei perfectae, quae extendit se etiam ad proximum, ad dilectionem Dei insufficientem et imperfectam, quia hoc mandatum *habemus a Deo, ut qui diligit Deum, diligat et fratrem suum*. Et in hoc sensu dilectio proximi praeeminet.]]
+![[LEO IIa-IIæ, q. 27, a. 8#resp.|Respondeo dicendum quod comparatio ista potest intelligi dupliciter. Uno modo, ut seorsum consideretur utraque dilectio. Et tunc non est dubium quod dilectio Dei est magis meritoria, debetur enim ei merces propter seipsam, quia ultima merces est frui Deo, in quem tendit divinae dilectionis motus. Unde et diligenti Deum merces promittitur, Ioan. XIV, *si quis diligit me, diligetur a patre meo, et manifestabo ei meipsum*. Alio modo potest attendi ista comparatio ut dilectio Dei accipiatur secundum quod solus diligitur; dilectio autem proximi accipiatur secundum quod proximus diligitur propter Deum. Et sic dilectio proximi includet dilectionem Dei, sed dilectio Dei non includet dilectionem proximi. Unde erit comparatio dilectionis Dei perfectae, quae extendit se etiam ad proximum, ad dilectionem Dei insufficientem et imperfectam, quia hoc mandatum *habemus a Deo, ut qui diligit Deum, diligat et fratrem suum*. Et in hoc sensu dilectio proximi praeeminet.]]
 ![[CERF IIa-IIæ, q. 27, a. 8#resp.]]
 
 ###### ad 1

@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 12, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 12, a. 4#s.c.|Sed contra est quod dicitur [[Rm 6]], *gratia Dei vita aeterna*. Sed vita aeterna consistit in visione divinae essentiae, secundum illud [[Jn 17]], *haec est vita aeterna, ut cognoscant te solum verum Deum,* et cetera. Ergo videre Dei essentiam convenit intellectui creato per gratiam, et non per naturam.]]
+![[LEO Ia, q. 12, a. 4#s.c.|Sed contra est quod dicitur Rom. VI, *gratia Dei vita aeterna*. Sed vita aeterna consistit in visione divinae essentiae, secundum illud Ioan. XVII, *haec est vita aeterna, ut cognoscant te solum verum Deum,* et cetera. Ergo videre Dei essentiam convenit intellectui creato per gratiam, et non per naturam.]]
 ![[CERF Ia, q. 12, a. 4#s.c.]]
 
 ###### resp.

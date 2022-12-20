@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 113, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod ironia, per quam aliquis minora de se fingit, non sit peccatum. Nullum enim peccatum procedit ex divina confortatione. Ex qua procedit quod aliquis de se minora dicat, secundum illud [[Pr 30]], *visio quam locutus est vir cum quo est Deus, et qui, Deo secum morante confortatus, ait, stultissimus sum virorum*. Et [[Am 7]] dicitur, *respondit Amos, non sum propheta*. Ergo ironia, per quam aliquis minora de se dicit, non est peccatum.]]
+![[LEO IIa-IIæ, q. 113, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod ironia, per quam aliquis minora de se fingit, non sit peccatum. Nullum enim peccatum procedit ex divina confortatione. Ex qua procedit quod aliquis de se minora dicat, secundum illud Prov. XXX, *visio quam locutus est vir cum quo est Deus, et qui, Deo secum morante confortatus, ait, stultissimus sum virorum*. Et Amos VII dicitur, *respondit Amos, non sum propheta*. Ergo ironia, per quam aliquis minora de se dicit, non est peccatum.]]
 ![[CERF IIa-IIæ, q. 113, a. 1#arg. 1]]
 
 ###### arg. 2

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 60, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 60, a. 4#arg. 2|Praeterea, sacramenta pertinent ad regnum Dei et cultum Dei. Sed res sensibiles non videntur pertinere ad cultum Dei, dicitur enim [[Jn 4]], *spiritus est Deus, et eos qui adorant eum, in spiritu et veritate adorare oportet*; et [[Rm 14]], *non est regnum Dei esca et potus*. Ergo res sensibiles non requiruntur ad sacramenta.]]
+![[LEO IIIa, q. 60, a. 4#arg. 2|Praeterea, sacramenta pertinent ad regnum Dei et cultum Dei. Sed res sensibiles non videntur pertinere ad cultum Dei, dicitur enim Ioan. IV, *spiritus est Deus, et eos qui adorant eum, in spiritu et veritate adorare oportet*; et Rom. XIV, *non est regnum Dei esca et potus*. Ergo res sensibiles non requiruntur ad sacramenta.]]
 ![[CERF IIIa, q. 60, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 60, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 60, a. 4#resp.|Respondeo dicendum quod divina sapientia unicuique rei providet secundum suum modum, et propter hoc dicitur, [[Sg 8]], quod *suaviter disponit omnia*. Unde et [[Mt 25]] dicitur quod *dividit unicuique secundum propriam virtutem*. Est autem homini connaturale ut per sensibilia perveniat in cognitionem intelligibilium. Signum autem est per quod aliquis devenit in cognitionem alterius. Unde, cum res sacrae quae per sacramenta significantur, sint quaedam spiritualia et intelligibilia bona quibus homo sanctificatur, consequens est ut per aliquas res sensibiles significatio sacramenti impleatur, sicut etiam per similitudinem sensibilium rerum in divina Scriptura res spirituales nobis describuntur. Et inde est quod ad sacramenta requiruntur res sensibiles, ut etiam Dionysius probat, in I cap. caelestis hierarchiae.]]
+![[LEO IIIa, q. 60, a. 4#resp.|Respondeo dicendum quod divina sapientia unicuique rei providet secundum suum modum, et propter hoc dicitur, Sap. VIII, quod *suaviter disponit omnia*. Unde et Matth. XXV dicitur quod *dividit unicuique secundum propriam virtutem*. Est autem homini connaturale ut per sensibilia perveniat in cognitionem intelligibilium. Signum autem est per quod aliquis devenit in cognitionem alterius. Unde, cum res sacrae quae per sacramenta significantur, sint quaedam spiritualia et intelligibilia bona quibus homo sanctificatur, consequens est ut per aliquas res sensibiles significatio sacramenti impleatur, sicut etiam per similitudinem sensibilium rerum in divina Scriptura res spirituales nobis describuntur. Et inde est quod ad sacramenta requiruntur res sensibiles, ut etiam Dionysius probat, in I cap. caelestis hierarchiae.]]
 ![[CERF IIIa, q. 60, a. 4#resp.]]
 
 ###### ad 1

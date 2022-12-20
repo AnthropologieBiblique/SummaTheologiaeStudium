@@ -6,7 +6,7 @@ tags :
 ### Articulus 11
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 24, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod caritas semel habita non possit amitti. Si enim amittitur, non amittitur nisi propter peccatum. Sed ille qui habet caritatem non potest peccare. Dicitur enim [[1 Jn 3]], *omnis enim qui natus est ex Deo, peccatum non facit, quia semen ipsius in eo manet, et non potest peccare, quoniam ex Deo natus est*. Caritatem autem non habent nisi filii Dei, *ipsa enim est quae distinguit inter filios regni et filios perditionis*, ut Augustinus dicit, in XV de Trin. Ergo ille qui habet caritatem non potest eam amittere.]]
+![[LEO IIa-IIæ, q. 24, a. 11#arg. 1|Ad undecimum sic proceditur. Videtur quod caritas semel habita non possit amitti. Si enim amittitur, non amittitur nisi propter peccatum. Sed ille qui habet caritatem non potest peccare. Dicitur enim I Ioan. III, *omnis enim qui natus est ex Deo, peccatum non facit, quia semen ipsius in eo manet, et non potest peccare, quoniam ex Deo natus est*. Caritatem autem non habent nisi filii Dei, *ipsa enim est quae distinguit inter filios regni et filios perditionis*, ut Augustinus dicit, in XV de Trin. Ergo ille qui habet caritatem non potest eam amittere.]]
 ![[CERF IIa-IIæ, q. 24, a. 11#arg. 1]]
 
 ###### arg. 2
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 24, a. 11#arg. 4]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 24, a. 11#s.c.|Sed contra est quod dicitur [[Ap 2]], *habeo adversum te pauca, quod caritatem primam reliquisti*.]]
+![[LEO IIa-IIæ, q. 24, a. 11#s.c.|Sed contra est quod dicitur Apoc. II, *habeo adversum te pauca, quod caritatem primam reliquisti*.]]
 ![[CERF IIa-IIæ, q. 24, a. 11#s.c.]]
 
 ###### resp.

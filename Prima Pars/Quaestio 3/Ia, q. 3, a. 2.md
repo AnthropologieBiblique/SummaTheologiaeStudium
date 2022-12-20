@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO Ia, q. 3, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod in Deo sit compositio formae et materiae. Omne enim quod habet animam, est compositum ex materia et forma, quia anima est forma corporis. Sed Scriptura attribuit animam Deo, introducitur enim ad [[He 10]], ex persona Dei, *iustus autem meus ex fide vivit; quod si subtraxerit se, non placebit animae meae*. Ergo Deus est compositus ex materia et forma.]]
+![[LEO Ia, q. 3, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod in Deo sit compositio formae et materiae. Omne enim quod habet animam, est compositum ex materia et forma, quia anima est forma corporis. Sed Scriptura attribuit animam Deo, introducitur enim ad Hebr. X, ex persona Dei, *iustus autem meus ex fide vivit; quod si subtraxerit se, non placebit animae meae*. Ergo Deus est compositus ex materia et forma.]]
 ![[CERF Ia, q. 3, a. 2#arg. 1]]
 
 ###### arg. 2

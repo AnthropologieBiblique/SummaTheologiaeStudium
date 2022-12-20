@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 45, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod sapientia non debeat inter dona spiritus sancti computari. Dona enim sunt perfectiora virtutibus, ut supra dictum est. Sed virtus se habet solum ad bonum, unde et Augustinus dicit, in libro de Lib. Arb., quod nullus virtutibus male utitur. Ergo multo magis dona spiritus sancti se habent solum ad bonum. Sed sapientia se habet etiam ad malum, dicitur enim [[Jc 3]] quaedam sapientia esse terrena, animalis, diabolica. Ergo sapientia non debet poni inter dona spiritus sancti.]]
+![[LEO IIa-IIæ, q. 45, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod sapientia non debeat inter dona spiritus sancti computari. Dona enim sunt perfectiora virtutibus, ut supra dictum est. Sed virtus se habet solum ad bonum, unde et Augustinus dicit, in libro de Lib. Arb., quod nullus virtutibus male utitur. Ergo multo magis dona spiritus sancti se habent solum ad bonum. Sed sapientia se habet etiam ad malum, dicitur enim Iac. III quaedam sapientia esse terrena, animalis, diabolica. Ergo sapientia non debet poni inter dona spiritus sancti.]]
 ![[CERF IIa-IIæ, q. 45, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 45, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 45, a. 1#arg. 3|Praeterea, [[Jb 28]] dicitur, *ecce timor domini ipsa est sapientia*, habetur, ecce, pietas ipsa est sapientia. Ubi secundum litteram Septuaginta, qua utitur Augustinus, habetur, ecce, pietas ipsa est sapientia. Sed tam timor quam pietas ponuntur dona spiritus sancti. Ergo sapientia non debet numerari inter dona spiritus sancti quasi donum ab aliis distinctum.]]
+![[LEO IIa-IIæ, q. 45, a. 1#arg. 3|Praeterea, Iob XXVIII dicitur, *ecce timor domini ipsa est sapientia*, habetur, ecce, pietas ipsa est sapientia. Ubi secundum litteram Septuaginta, qua utitur Augustinus, habetur, ecce, pietas ipsa est sapientia. Sed tam timor quam pietas ponuntur dona spiritus sancti. Ergo sapientia non debet numerari inter dona spiritus sancti quasi donum ab aliis distinctum.]]
 ![[CERF IIa-IIæ, q. 45, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 45, a. 1#s.c.|Sed contra est quod [[Is 11]] dicitur, *requiescet super eum spiritus domini, sapientiae et intellectus,* et cetera.]]
+![[LEO IIa-IIæ, q. 45, a. 1#s.c.|Sed contra est quod Isaiae XI dicitur, *requiescet super eum spiritus domini, sapientiae et intellectus,* et cetera.]]
 ![[CERF IIa-IIæ, q. 45, a. 1#s.c.]]
 
 ###### resp.
@@ -26,11 +26,11 @@ tags :
 ![[CERF IIa-IIæ, q. 45, a. 1#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 45, a. 1#ad 1|Ad primum ergo dicendum quod bonum dicitur dupliciter. Uno modo, quod vere est bonum et simpliciter perfectum. Alio modo dicitur aliquid esse bonum, secundum quandam similitudinem, quod est in malitia perfectum, sicut dicitur bonus latro vel perfectus latro, ut patet per philosophum, in V Metaphys. Et sicut circa ea quae sunt vere bona invenitur aliqua altissima causa, quae est summum bonum, quod est ultimus finis, per cuius cognitionem homo dicitur vere sapiens; ita etiam in malis est invenire aliquid ad quod alia referuntur sicut ad ultimum finem, per cuius cognitionem homo dicitur esse sapiens ad male agendum; secundum illud [[Jr 4]], *sapientes sunt ut faciant mala, bene autem facere nescierunt*. Quicumque enim avertitur a fine debito, necesse est quod aliquem finem indebitum sibi praestituat, quia omne agens agit propter finem. Unde si praestituat sibi finem in bonis exterioribus terrenis, vocatur sapientia terrena; si autem in bonis corporalibus, vocatur sapientia animalis; si autem in aliqua excellentia, vocatur sapientia diabolica, propter imitationem superbiae Diaboli, de quo dicitur [[Jb 41]], *ipse est rex super universos filios superbiae*.]]
+![[LEO IIa-IIæ, q. 45, a. 1#ad 1|Ad primum ergo dicendum quod bonum dicitur dupliciter. Uno modo, quod vere est bonum et simpliciter perfectum. Alio modo dicitur aliquid esse bonum, secundum quandam similitudinem, quod est in malitia perfectum, sicut dicitur bonus latro vel perfectus latro, ut patet per philosophum, in V Metaphys. Et sicut circa ea quae sunt vere bona invenitur aliqua altissima causa, quae est summum bonum, quod est ultimus finis, per cuius cognitionem homo dicitur vere sapiens; ita etiam in malis est invenire aliquid ad quod alia referuntur sicut ad ultimum finem, per cuius cognitionem homo dicitur esse sapiens ad male agendum; secundum illud Ierem. IV, *sapientes sunt ut faciant mala, bene autem facere nescierunt*. Quicumque enim avertitur a fine debito, necesse est quod aliquem finem indebitum sibi praestituat, quia omne agens agit propter finem. Unde si praestituat sibi finem in bonis exterioribus terrenis, vocatur sapientia terrena; si autem in bonis corporalibus, vocatur sapientia animalis; si autem in aliqua excellentia, vocatur sapientia diabolica, propter imitationem superbiae Diaboli, de quo dicitur Iob XLI, *ipse est rex super universos filios superbiae*.]]
 ![[CERF IIa-IIæ, q. 45, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 45, a. 1#ad 2|Ad secundum dicendum quod sapientia quae ponitur donum differt ab ea quae ponitur virtus intellectualis acquisita. Nam illa acquiritur studio humano, haec autem est de sursum descendens, ut dicitur [[Jc 3]]. Similiter et differt a fide. Nam fides assentit veritati divinae secundum seipsam, sed iudicium quod est secundum veritatem divinam pertinet ad donum sapientiae. Et ideo donum sapientiae praesupponit fidem, quia unusquisque bene iudicat quae cognoscit, ut dicitur in I Ethic.]]
+![[LEO IIa-IIæ, q. 45, a. 1#ad 2|Ad secundum dicendum quod sapientia quae ponitur donum differt ab ea quae ponitur virtus intellectualis acquisita. Nam illa acquiritur studio humano, haec autem est de sursum descendens, ut dicitur Iac. III. Similiter et differt a fide. Nam fides assentit veritati divinae secundum seipsam, sed iudicium quod est secundum veritatem divinam pertinet ad donum sapientiae. Et ideo donum sapientiae praesupponit fidem, quia unusquisque bene iudicat quae cognoscit, ut dicitur in I Ethic.]]
 ![[CERF IIa-IIæ, q. 45, a. 1#ad 2]]
 
 ###### ad 3

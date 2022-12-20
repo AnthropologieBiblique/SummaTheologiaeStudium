@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 175, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Paulus in raptu non viderit Dei essentiam. Sicut enim de Paulo legitur quod est raptus usque ad tertium caelum, ita et de Petro legitur, [[Ac 10]], quod cecidit super eum mentis excessus. Sed Petrus in suo excessu non vidit Dei essentiam, sed quandam imaginariam visionem. Ergo videtur quod nec Paulus Dei essentiam viderit.]]
+![[LEO IIa-IIæ, q. 175, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Paulus in raptu non viderit Dei essentiam. Sicut enim de Paulo legitur quod est raptus usque ad tertium caelum, ita et de Petro legitur, Act. X, quod cecidit super eum mentis excessus. Sed Petrus in suo excessu non vidit Dei essentiam, sed quandam imaginariam visionem. Ergo videtur quod nec Paulus Dei essentiam viderit.]]
 ![[CERF IIa-IIæ, q. 175, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 175, a. 3#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 175, a. 3#resp.|Respondeo dicendum quod quidam dixerunt Paulum in raptu non vidisse ipsam Dei essentiam, sed quandam refulgentiam claritatis ipsius. Sed contrarium manifeste Augustinus determinat, non solum in libro de videndo Deum, sed etiam XII super Gen. ad Litt., et habetur in Glossa, II ad Cor. XII. Et hoc etiam ipsa verba apostoli designant. Dicit enim *se audisse ineffabilia verba, quae non licet homini loqui*, huiusmodi autem videntur ea quae pertinent ad visionem beatorum, quae excedit statum viae, secundum illud [[Is 64]], *oculus non vidit, Deus, absque te, quae praeparasti diligentibus te*. Et ideo convenientius dicitur quod Deum per essentiam vidit.]]
+![[LEO IIa-IIæ, q. 175, a. 3#resp.|Respondeo dicendum quod quidam dixerunt Paulum in raptu non vidisse ipsam Dei essentiam, sed quandam refulgentiam claritatis ipsius. Sed contrarium manifeste Augustinus determinat, non solum in libro de videndo Deum, sed etiam XII super Gen. ad Litt., et habetur in Glossa, II ad Cor. XII. Et hoc etiam ipsa verba apostoli designant. Dicit enim *se audisse ineffabilia verba, quae non licet homini loqui*, huiusmodi autem videntur ea quae pertinent ad visionem beatorum, quae excedit statum viae, secundum illud Isaiae LXIV, *oculus non vidit, Deus, absque te, quae praeparasti diligentibus te*. Et ideo convenientius dicitur quod Deum per essentiam vidit.]]
 ![[CERF IIa-IIæ, q. 175, a. 3#resp.]]
 
 ###### ad 1

@@ -6,7 +6,7 @@ tags :
 ### Articulus 10
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 88, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod in voto dispensari non possit. Minus enim est commutari votum quam in eo dispensari. Sed votum non potest commutari, dicitur enim [[Lv 27]], *animal quod immolari potest domino, si quis voverit, sanctum erit, et mutari non poterit, nec melius malo nec peius bono*. Ergo multo minus potest dispensari in voto.]]
+![[LEO IIa-IIæ, q. 88, a. 10#arg. 1|Ad decimum sic proceditur. Videtur quod in voto dispensari non possit. Minus enim est commutari votum quam in eo dispensari. Sed votum non potest commutari, dicitur enim Levit. XXVII, *animal quod immolari potest domino, si quis voverit, sanctum erit, et mutari non poterit, nec melius malo nec peius bono*. Ergo multo minus potest dispensari in voto.]]
 ![[CERF IIa-IIæ, q. 88, a. 10#arg. 1]]
 
 ###### arg. 2

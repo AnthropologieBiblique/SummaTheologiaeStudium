@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 7, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod timor non sit effectus fidei. Effectus enim non praecedit causam. Sed timor praecedit fidem, dicitur enim [[Si 2]], *qui timetis Deum, credite illi*. Ergo timor non est effectus fidei.]]
+![[LEO IIa-IIæ, q. 7, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod timor non sit effectus fidei. Effectus enim non praecedit causam. Sed timor praecedit fidem, dicitur enim Eccli. II, *qui timetis Deum, credite illi*. Ergo timor non est effectus fidei.]]
 ![[CERF IIa-IIæ, q. 7, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 7, a. 1#arg. 2|Praeterea, idem non est causa contrariorum. Sed timor et spes sunt contraria, ut supra dictum est, fides autem generat spem, ut dicitur in Glossa, [[Mt 1]]. Ergo non est causa timoris.]]
+![[LEO IIa-IIæ, q. 7, a. 1#arg. 2|Praeterea, idem non est causa contrariorum. Sed timor et spes sunt contraria, ut supra dictum est, fides autem generat spem, ut dicitur in Glossa, Matth. I. Ergo non est causa timoris.]]
 ![[CERF IIa-IIæ, q. 7, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 7, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 7, a. 1#s.c.|Sed contra est quod dicitur [[Jc 2]], *Daemones credunt et contremiscunt*.]]
+![[LEO IIa-IIæ, q. 7, a. 1#s.c.|Sed contra est quod dicitur Iac. II, *Daemones credunt et contremiscunt*.]]
 ![[CERF IIa-IIæ, q. 7, a. 1#s.c.]]
 
 ###### resp.

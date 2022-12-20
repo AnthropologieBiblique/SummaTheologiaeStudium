@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 89, a. 7#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 89, a. 7#s.c.|Sed contra est quod dicitur [[Lc 16]], quod *dives cum esset in tormentis, elevans oculos suos, vidit Abraham a longe*. Ergo distantia localis non impedit animae separatae cognitionem.]]
+![[LEO Ia, q. 89, a. 7#s.c.|Sed contra est quod dicitur Luc. XVI, quod *dives cum esset in tormentis, elevans oculos suos, vidit Abraham a longe*. Ergo distantia localis non impedit animae separatae cognitionem.]]
 ![[CERF Ia, q. 89, a. 7#s.c.]]
 
 ###### resp.

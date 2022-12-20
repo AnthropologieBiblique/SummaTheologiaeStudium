@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 21, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 21, a. 3#s.c.|Sed contra est quod dicitur [[Is 3]], *dicite iusto quoniam bene, quoniam fructum adinventionum suarum comedet. Vae impio in malum, retributio enim manuum eius fiet ei*.]]
+![[LEO Ia-IIæ, q. 21, a. 3#s.c.|Sed contra est quod dicitur Isaiae III, *dicite iusto quoniam bene, quoniam fructum adinventionum suarum comedet. Vae impio in malum, retributio enim manuum eius fiet ei*.]]
 ![[CERF Ia-IIæ, q. 21, a. 3#s.c.]]
 
 ###### resp.

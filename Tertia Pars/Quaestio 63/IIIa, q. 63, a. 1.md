@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 63, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod sacramentum non imprimat aliquem characterem in anima. Character enim significare videtur quoddam signum distinctivum. Sed distinctio membrorum Christi ab aliis fit per aeternam praedestinationem, quae non ponit aliquid in praedestinato, sed solum in Deo praedestinante, ut in prima parte habitum est, dicitur enim [[2 Tm 2]], *firmum fundamentum Dei stat, habens signaculum hoc, novit dominus qui sunt eius*. Ergo sacramenta non imprimunt characterem in anima.]]
+![[LEO IIIa, q. 63, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod sacramentum non imprimat aliquem characterem in anima. Character enim significare videtur quoddam signum distinctivum. Sed distinctio membrorum Christi ab aliis fit per aeternam praedestinationem, quae non ponit aliquid in praedestinato, sed solum in Deo praedestinante, ut in prima parte habitum est, dicitur enim II ad Tim. II, *firmum fundamentum Dei stat, habens signaculum hoc, novit dominus qui sunt eius*. Ergo sacramenta non imprimunt characterem in anima.]]
 ![[CERF IIIa, q. 63, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -14,11 +14,11 @@ tags :
 ![[CERF IIIa, q. 63, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 63, a. 1#arg. 3|Praeterea, sicut per sacramenta novae legis distinguitur fidelis ab infideli, ita etiam per sacramenta veteris legis. Sed sacramenta veteris legis non imprimebant aliquem characterem, unde et dicuntur iustitiae carnis, secundum apostolum, ad [[He 9]]. Ergo videtur quod nec sacramenta novae legis.]]
+![[LEO IIIa, q. 63, a. 1#arg. 3|Praeterea, sicut per sacramenta novae legis distinguitur fidelis ab infideli, ita etiam per sacramenta veteris legis. Sed sacramenta veteris legis non imprimebant aliquem characterem, unde et dicuntur iustitiae carnis, secundum apostolum, ad Heb. IX. Ergo videtur quod nec sacramenta novae legis.]]
 ![[CERF IIIa, q. 63, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 63, a. 1#s.c.|Sed contra est quod apostolus dicit, [[2 Co 1]], *qui unxit nos, Deus est, et qui signavit nos, et dedit pignus spiritus in cordibus nostris*. Sed nihil aliud importat character quam quandam signationem. Ergo videtur quod Deus per sacramenta nobis suum characterem imprimat.]]
+![[LEO IIIa, q. 63, a. 1#s.c.|Sed contra est quod apostolus dicit, II Cor. I, *qui unxit nos, Deus est, et qui signavit nos, et dedit pignus spiritus in cordibus nostris*. Sed nihil aliud importat character quam quandam signationem. Ergo videtur quod Deus per sacramenta nobis suum characterem imprimat.]]
 ![[CERF IIIa, q. 63, a. 1#s.c.]]
 
 ###### resp.
@@ -30,10 +30,10 @@ tags :
 ![[CERF IIIa, q. 63, a. 1#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 63, a. 1#ad 2|Ad secundum dicendum quod character animae impressus habet rationem signi inquantum per sensibile sacramentum imprimitur, per hoc enim scitur aliquis baptismali charactere insignitus, quod est ablutus aqua sensibili. Nihilominus tamen character, vel signaculum, dici potest per quandam similitudinem omne quod figurat alicui, vel distinguit ab alio, etiam si non sit sensibile, sicut Christus dicitur figura vel character paternae substantiae, secundum apostolum, [[He 1]].]]
+![[LEO IIIa, q. 63, a. 1#ad 2|Ad secundum dicendum quod character animae impressus habet rationem signi inquantum per sensibile sacramentum imprimitur, per hoc enim scitur aliquis baptismali charactere insignitus, quod est ablutus aqua sensibili. Nihilominus tamen character, vel signaculum, dici potest per quandam similitudinem omne quod figurat alicui, vel distinguit ab alio, etiam si non sit sensibile, sicut Christus dicitur figura vel character paternae substantiae, secundum apostolum, Heb. I.]]
 ![[CERF IIIa, q. 63, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 63, a. 1#ad 3|Ad tertium dicendum quod, sicut supra dictum est, sacramenta veteris legis non habebant in se spiritualem virtutem ad aliquem spiritualem effectum operantem. Et ideo in illis sacramentis non requirebatur aliquis spiritualis character, sed sufficiebat ibi corporalis circumcisio, quam apostolus signaculum nominat, [[Rm 4]].]]
+![[LEO IIIa, q. 63, a. 1#ad 3|Ad tertium dicendum quod, sicut supra dictum est, sacramenta veteris legis non habebant in se spiritualem virtutem ad aliquem spiritualem effectum operantem. Et ideo in illis sacramentis non requirebatur aliquis spiritualis character, sed sufficiebat ibi corporalis circumcisio, quam apostolus signaculum nominat, Rom. IV.]]
 ![[CERF IIIa, q. 63, a. 1#ad 3]]
 

@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 64, a. 2#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 64, a. 2#arg. 3|Praeterea, apostoli vicem Dei gesserunt in terris, unde apostolus dicit, [[2 Co 2]], *nam et ego quod donavi, si quid donavi, propter vos in persona Christi*, idest, ac si ipse Christus donasset. Sic ergo videtur quod apostoli, et eorum successores, possint nova sacramenta instituere.]]
+![[LEO IIIa, q. 64, a. 2#arg. 3|Praeterea, apostoli vicem Dei gesserunt in terris, unde apostolus dicit, II Cor. II, *nam et ego quod donavi, si quid donavi, propter vos in persona Christi*, idest, ac si ipse Christus donasset. Sic ergo videtur quod apostoli, et eorum successores, possint nova sacramenta instituere.]]
 ![[CERF IIIa, q. 64, a. 2#arg. 3]]
 
 ###### s.c.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 64, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 64, a. 2#ad 1|Ad primum ergo dicendum quod illa quae aguntur in sacramentis per homines instituta, non sunt de necessitate sacramenti, sed ad quandam solemnitatem, quae adhibetur sacramentis ad excitandam devotionem et reverentiam in his qui sacramenta suscipiunt. Ea vero quae sunt de necessitate sacramenti, sunt ab ipso Christo instituta, qui est Deus et homo. Et licet non omnia sint tradita in Scripturis, habet tamen ea Ecclesia ex familiari apostolorum traditione, sicut apostolus dicit, [[1 Co 11]], *cetera cum venero disponam*.]]
+![[LEO IIIa, q. 64, a. 2#ad 1|Ad primum ergo dicendum quod illa quae aguntur in sacramentis per homines instituta, non sunt de necessitate sacramenti, sed ad quandam solemnitatem, quae adhibetur sacramentis ad excitandam devotionem et reverentiam in his qui sacramenta suscipiunt. Ea vero quae sunt de necessitate sacramenti, sunt ab ipso Christo instituta, qui est Deus et homo. Et licet non omnia sint tradita in Scripturis, habet tamen ea Ecclesia ex familiari apostolorum traditione, sicut apostolus dicit, I Cor. XI, *cetera cum venero disponam*.]]
 ![[CERF IIIa, q. 64, a. 2#ad 1]]
 
 ###### ad 2

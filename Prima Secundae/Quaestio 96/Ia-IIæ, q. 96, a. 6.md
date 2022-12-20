@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 96, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 96, a. 6#arg. 3|Praeterea, omnis sapiens intentionem suam verbis novit explicare. Sed illi qui leges condiderunt, reputari debent sapientes, dicit enim sapientia, [[Pr 8]], *per me reges regnant, et legum conditores iusta decernunt*. Ergo de intentione legislatoris non est iudicandum nisi per verba legis.]]
+![[LEO Ia-IIæ, q. 96, a. 6#arg. 3|Praeterea, omnis sapiens intentionem suam verbis novit explicare. Sed illi qui leges condiderunt, reputari debent sapientes, dicit enim sapientia, Prov. VIII, *per me reges regnant, et legum conditores iusta decernunt*. Ergo de intentione legislatoris non est iudicandum nisi per verba legis.]]
 ![[CERF Ia-IIæ, q. 96, a. 6#arg. 3]]
 
 ###### s.c.

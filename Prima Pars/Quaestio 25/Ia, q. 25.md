@@ -7,8 +7,7 @@ tags :
 
 ### Prooemium
 
-![[LEO Ia, q. 25#Prooemium|Post considerationem divinae scientiae et voluntatis, et eorum quae ad hoc pertinent, restat considerandum de divina potentia. Et circa hoc quaeruntur sex. Primo, utrum in Deo sit potentia. Secundo, utrum eius potentia sit infinita. Tertio, utrum sit omnipotens. Quarto, utrum possit facere quod ea quae sunt praeterita, non fuerint. Quinto, utrum Deus possit facere quae non facit, vel praetermittere quae facit. Sexto, utrum quae facit, possit facere meliora.]]
-![[CERF Ia, q. 25#Prooemium]]
+Post considerationem divinae scientiae et voluntatis, et eorum quae ad hoc pertinent, restat considerandum de divina potentia. Et circa hoc quaeruntur sex. Primo, utrum in Deo sit potentia. Secundo, utrum eius potentia sit infinita. Tertio, utrum sit omnipotens. Quarto, utrum possit facere quod ea quae sunt praeterita, non fuerint. Quinto, utrum Deus possit facere quae non facit, vel praetermittere quae facit. Sexto, utrum quae facit, possit facere meliora.
 
 ![[Ia, q. 25, a. 1#Articulus 1]]
 

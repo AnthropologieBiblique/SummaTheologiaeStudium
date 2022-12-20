@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 69, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 69, a. 1#s.c.|Sed contra, omne quod est contrarium divinae gloriae est peccatum mortale, quia ex praecepto tenemur omnia in gloriam Dei facere, *ut patet I ad Cor. X*. Sed quod reus id quod contra se est confiteatur, pertinet ad gloriam Dei, ut patet per id quod Iosue dixit ad Achar, *fili mi, da gloriam domino Deo Israel, et confitere atque indica mihi quid feceris, ne abscondas*, ut habetur [[Jos 7]]. Ergo mentiri ad excusandum peccatum est peccatum mortale.]]
+![[LEO IIa-IIæ, q. 69, a. 1#s.c.|Sed contra, omne quod est contrarium divinae gloriae est peccatum mortale, quia ex praecepto tenemur omnia in gloriam Dei facere, *ut patet I ad Cor. X*. Sed quod reus id quod contra se est confiteatur, pertinet ad gloriam Dei, ut patet per id quod Iosue dixit ad Achar, *fili mi, da gloriam domino Deo Israel, et confitere atque indica mihi quid feceris, ne abscondas*, ut habetur Iosue VII. Ergo mentiri ad excusandum peccatum est peccatum mortale.]]
 ![[CERF IIa-IIæ, q. 69, a. 1#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 69, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 69, a. 1#ad 3|Ad tertium dicendum quod ille qui mentitur in iudicio se excusando, facit et contra dilectionem Dei, cuius est iudicium; et contra dilectionem proximi, tum ex parte iudicis, cui debitum negat; tum ex parte accusatoris, qui punitur si in probatione deficiat. Unde et in Psalm. dicitur, *ne declines cor meum in verba malitiae, ad excusandas excusationes in peccatis*, ubi dicit Glossa, *haec est consuetudo impudentium, ut deprehensi per aliqua falsa se excusent*. Et Gregorius, XXII Moral., exponens illud [[Jb 31]], si abscondi quasi homo peccatum meum, dicit, *usitatum humani generis vitium est et latendo peccatum committere, et commissum negando abscondere, et convictum defendendo multiplicare*.]]
+![[LEO IIa-IIæ, q. 69, a. 1#ad 3|Ad tertium dicendum quod ille qui mentitur in iudicio se excusando, facit et contra dilectionem Dei, cuius est iudicium; et contra dilectionem proximi, tum ex parte iudicis, cui debitum negat; tum ex parte accusatoris, qui punitur si in probatione deficiat. Unde et in Psalm. dicitur, *ne declines cor meum in verba malitiae, ad excusandas excusationes in peccatis*, ubi dicit Glossa, *haec est consuetudo impudentium, ut deprehensi per aliqua falsa se excusent*. Et Gregorius, XXII Moral., exponens illud Iob XXXI, si abscondi quasi homo peccatum meum, dicit, *usitatum humani generis vitium est et latendo peccatum committere, et commissum negando abscondere, et convictum defendendo multiplicare*.]]
 ![[CERF IIa-IIæ, q. 69, a. 1#ad 3]]
 

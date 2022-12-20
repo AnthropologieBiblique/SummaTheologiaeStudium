@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 162, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod superbia non sit peccatum. Nullum enim peccatum est repromissum a Deo, promittit enim Deus quod ipse facturus est; non est autem auctor peccati. Sed superbia connumeratur inter repromissiones divinas, dicitur enim [[Is 60]], *ponam te in superbiam saeculorum, gaudium in generatione et generationem*. Ergo superbia non est peccatum.]]
+![[LEO IIa-IIæ, q. 162, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod superbia non sit peccatum. Nullum enim peccatum est repromissum a Deo, promittit enim Deus quod ipse facturus est; non est autem auctor peccati. Sed superbia connumeratur inter repromissiones divinas, dicitur enim Isaiae LX, *ponam te in superbiam saeculorum, gaudium in generatione et generationem*. Ergo superbia non est peccatum.]]
 ![[CERF IIa-IIæ, q. 162, a. 1#arg. 1]]
 
 ###### arg. 2

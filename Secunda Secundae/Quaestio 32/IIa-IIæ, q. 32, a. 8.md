@@ -10,15 +10,15 @@ tags :
 ![[CERF IIa-IIæ, q. 32, a. 8#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 32, a. 8#arg. 2|Praeterea, uxor est sub potestate viri, ut dicitur [[Gn 3]]. Sed uxor potest eleemosynam facere, cum assumatur in viri societatem, unde et de beata Lucia dicitur quod, ignorante sponso, eleemosynas faciebat. Ergo per hoc quod aliquis est in potestate alterius constitutus, non impeditur quin possit eleemosynas facere.]]
+![[LEO IIa-IIæ, q. 32, a. 8#arg. 2|Praeterea, uxor est sub potestate viri, ut dicitur Gen. III. Sed uxor potest eleemosynam facere, cum assumatur in viri societatem, unde et de beata Lucia dicitur quod, ignorante sponso, eleemosynas faciebat. Ergo per hoc quod aliquis est in potestate alterius constitutus, non impeditur quin possit eleemosynas facere.]]
 ![[CERF IIa-IIæ, q. 32, a. 8#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 32, a. 8#arg. 3|Praeterea, naturalis quaedam subiectio est filiorum ad parentes, unde apostolus, ad [[Ep 6]], dicit, *filii, obedite parentibus vestris in domino*. Sed filii, ut videtur, possunt de rebus patris eleemosynas dare, quia sunt quodammodo ipsorum, cum sint haeredes; et cum possint eis uti ad usum corporis, multo magis videtur quod possint eis uti, eleemosynas dando, ad remedium animae suae. Ergo illi qui sunt in potestate constituti possunt eleemosynas dare.]]
+![[LEO IIa-IIæ, q. 32, a. 8#arg. 3|Praeterea, naturalis quaedam subiectio est filiorum ad parentes, unde apostolus, ad Ephes. VI, dicit, *filii, obedite parentibus vestris in domino*. Sed filii, ut videtur, possunt de rebus patris eleemosynas dare, quia sunt quodammodo ipsorum, cum sint haeredes; et cum possint eis uti ad usum corporis, multo magis videtur quod possint eis uti, eleemosynas dando, ad remedium animae suae. Ergo illi qui sunt in potestate constituti possunt eleemosynas dare.]]
 ![[CERF IIa-IIæ, q. 32, a. 8#arg. 3]]
 
 ###### arg. 4
-![[LEO IIa-IIæ, q. 32, a. 8#arg. 4|Praeterea, servi sunt sub potestate dominorum, secundum illud ad [[Tt 2]], *servos dominis suis subditos esse*. Licet autem eis aliquid in utilitatem domini facere, quod maxime fit si pro eis eleemosynas largiantur. Ergo illi qui sunt in potestate constituti possunt eleemosynas facere.]]
+![[LEO IIa-IIæ, q. 32, a. 8#arg. 4|Praeterea, servi sunt sub potestate dominorum, secundum illud ad Tit. II, *servos dominis suis subditos esse*. Licet autem eis aliquid in utilitatem domini facere, quod maxime fit si pro eis eleemosynas largiantur. Ergo illi qui sunt in potestate constituti possunt eleemosynas facere.]]
 ![[CERF IIa-IIæ, q. 32, a. 8#arg. 4]]
 
 ###### s.c.

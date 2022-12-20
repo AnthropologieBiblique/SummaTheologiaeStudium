@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 65, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod inconvenienter sacramenta ordinentur secundum modum praedictum. Ut enim apostolus dicit, [[1 Co 15]], *prius est quod est animale, deinde quod spirituale*. Sed per matrimonium generatur homo prima generatione, quae est animalis, per Baptismum autem regeneratur homo secunda generatione quae est spiritualis. Ergo matrimonium debet praecedere Baptismum.]]
+![[LEO IIIa, q. 65, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod inconvenienter sacramenta ordinentur secundum modum praedictum. Ut enim apostolus dicit, I Cor. XV, *prius est quod est animale, deinde quod spirituale*. Sed per matrimonium generatur homo prima generatione, quae est animalis, per Baptismum autem regeneratur homo secunda generatione quae est spiritualis. Ergo matrimonium debet praecedere Baptismum.]]
 ![[CERF IIIa, q. 65, a. 2#arg. 1]]
 
 ###### arg. 2

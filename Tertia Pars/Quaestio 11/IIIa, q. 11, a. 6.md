@@ -10,7 +10,7 @@ tags :
 ![[CERF IIIa, q. 11, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 11, a. 6#arg. 2|Praeterea, fides nostra derivatur a scientia Christi, unde dicitur [[He 12]], *aspicientes in auctorem fidei et consummatorem, Iesum*. Sed unus est habitus fidei de omnibus credibilibus, ut in secunda parte dictum est. Ergo multo magis in Christo non fuit nisi unus habitus scientiae.]]
+![[LEO IIIa, q. 11, a. 6#arg. 2|Praeterea, fides nostra derivatur a scientia Christi, unde dicitur Heb. XII, *aspicientes in auctorem fidei et consummatorem, Iesum*. Sed unus est habitus fidei de omnibus credibilibus, ut in secunda parte dictum est. Ergo multo magis in Christo non fuit nisi unus habitus scientiae.]]
 ![[CERF IIIa, q. 11, a. 6#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 11, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 11, a. 6#s.c.|Sed contra est quod [[Za 3]] dicitur quod super lapidem unum, idest Christum, sunt septem oculi. Per oculum autem scientia intelligitur. Ergo videtur quod in Christo fuerunt plures habitus scientiae.]]
+![[LEO IIIa, q. 11, a. 6#s.c.|Sed contra est quod Zach. III dicitur quod super lapidem unum, idest Christum, sunt septem oculi. Per oculum autem scientia intelligitur. Ergo videtur quod in Christo fuerunt plures habitus scientiae.]]
 ![[CERF IIIa, q. 11, a. 6#s.c.]]
 
 ###### resp.

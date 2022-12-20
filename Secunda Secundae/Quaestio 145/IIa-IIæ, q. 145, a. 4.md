@@ -14,7 +14,7 @@ tags :
 ![[CERF IIa-IIæ, q. 145, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 145, a. 4#arg. 3|Praeterea, honestum dicitur quod est honore dignum. Sed iusti et fortes maxime honorantur, ut dicit philosophus, in I Rhet. Ergo honestas non pertinet ad temperantiam, sed magis ad iustitiam vel fortitudinem. Unde et Eleazarus dixit, ut dicitur [[2 M 6]], *fortiter pro gravissimis ac sanctissimis legibus honesta morte perfungor*.]]
+![[LEO IIa-IIæ, q. 145, a. 4#arg. 3|Praeterea, honestum dicitur quod est honore dignum. Sed iusti et fortes maxime honorantur, ut dicit philosophus, in I Rhet. Ergo honestas non pertinet ad temperantiam, sed magis ad iustitiam vel fortitudinem. Unde et Eleazarus dixit, ut dicitur II Machab. VI, *fortiter pro gravissimis ac sanctissimis legibus honesta morte perfungor*.]]
 ![[CERF IIa-IIæ, q. 145, a. 4#arg. 3]]
 
 ###### s.c.

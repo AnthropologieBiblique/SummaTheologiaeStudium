@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 45, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 45, a. 2#s.c.|Sed contra est quod dicitur [[Gn 1]], *in principio creavit Deus caelum et terram*.]]
+![[LEO Ia, q. 45, a. 2#s.c.|Sed contra est quod dicitur Gen. I, *in principio creavit Deus caelum et terram*.]]
 ![[CERF Ia, q. 45, a. 2#s.c.]]
 
 ###### resp.

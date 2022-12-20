@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 13, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 13, a. 4#s.c.|Sed contra, omnia synonyma, sibi invicem adiuncta, nugationem adducunt, sicut si dicatur vestis indumentum. Si igitur omnia nomina dicta de Deo sunt synonyma, non posset convenienter dici Deus bonus, vel aliquid huiusmodi; cum tamen scriptum sit [[Jr 32]], *fortissime, magne, potens, dominus exercituum nomen tibi*.]]
+![[LEO Ia, q. 13, a. 4#s.c.|Sed contra, omnia synonyma, sibi invicem adiuncta, nugationem adducunt, sicut si dicatur vestis indumentum. Si igitur omnia nomina dicta de Deo sunt synonyma, non posset convenienter dici Deus bonus, vel aliquid huiusmodi; cum tamen scriptum sit Ierem. XXXII, *fortissime, magne, potens, dominus exercituum nomen tibi*.]]
 ![[CERF Ia, q. 13, a. 4#s.c.]]
 
 ###### resp.

@@ -14,7 +14,7 @@ tags :
 ![[CERF Ia-IIæ, q. 66, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia-IIæ, q. 66, a. 6#arg. 3|Praeterea, causa est potior effectu. Sed fides et spes sunt causa caritatis, dicitur enim [[Mt 1]], in Glossa, quod *fides generat spem, et spes caritatem*. Ergo fides et spes sunt maiores caritate.]]
+![[LEO Ia-IIæ, q. 66, a. 6#arg. 3|Praeterea, causa est potior effectu. Sed fides et spes sunt causa caritatis, dicitur enim Matth. I, in Glossa, quod *fides generat spem, et spes caritatem*. Ergo fides et spes sunt maiores caritate.]]
 ![[CERF Ia-IIæ, q. 66, a. 6#arg. 3]]
 
 ###### s.c.
@@ -22,11 +22,11 @@ tags :
 ![[CERF Ia-IIæ, q. 66, a. 6#s.c.]]
 
 ###### resp.
-![[LEO Ia-IIæ, q. 66, a. 6#resp.|Respondeo dicendum quod, sicut supra dictum est, magnitudo virtutis secundum suam speciem, consideratur ex obiecto. Cum autem tres virtutes theologicae respiciant Deum sicut proprium obiectum, non potest una earum dici maior altera ex hoc quod sit circa maius obiectum; sed ex eo quod una se habet propinquius ad obiectum quam alia. Et hoc modo caritas est maior aliis. Nam aliae important in sui ratione quandam distantiam ab obiecto, est enim fides de non visis, spes autem de non habitis. Sed amor caritatis est de eo quod iam habetur, est enim amatum quodammodo in amante, et etiam amans per affectum trahitur ad unionem amati; propter quod dicitur [[1 Jn 4]], *qui manet in caritate, in Deo manet, et Deus in eo*.]]
+![[LEO Ia-IIæ, q. 66, a. 6#resp.|Respondeo dicendum quod, sicut supra dictum est, magnitudo virtutis secundum suam speciem, consideratur ex obiecto. Cum autem tres virtutes theologicae respiciant Deum sicut proprium obiectum, non potest una earum dici maior altera ex hoc quod sit circa maius obiectum; sed ex eo quod una se habet propinquius ad obiectum quam alia. Et hoc modo caritas est maior aliis. Nam aliae important in sui ratione quandam distantiam ab obiecto, est enim fides de non visis, spes autem de non habitis. Sed amor caritatis est de eo quod iam habetur, est enim amatum quodammodo in amante, et etiam amans per affectum trahitur ad unionem amati; propter quod dicitur I Ioan. IV, *qui manet in caritate, in Deo manet, et Deus in eo*.]]
 ![[CERF Ia-IIæ, q. 66, a. 6#resp.]]
 
 ###### ad 1
-![[LEO Ia-IIæ, q. 66, a. 6#ad 1|Ad primum ergo dicendum quod non hoc modo se habent fides et spes ad caritatem, sicut prudentia ad virtutem moralem. Et hoc propter duo. Primo quidem, quia virtutes theologicae habent obiectum quod est supra animam humanam, sed prudentia et virtutes morales sunt circa ea quae sunt infra hominem. In his autem quae sunt supra hominem, nobilior est dilectio quam cognitio. Perficitur enim cognitio, secundum quod cognita sunt in cognoscente, dilectio vero, secundum quod diligens trahitur ad rem dilectam. Id autem quod est supra hominem, nobilius est in seipso quam sit in homine, quia unumquodque est in altero per modum eius in quo est. E converso autem est in his quae sunt infra hominem. Secundo, quia prudentia moderatur motus appetitivos ad morales virtutes pertinentes, sed fides non moderatur motum appetitivum tendentem in Deum, qui pertinet ad virtutes theologicas; sed solum ostendit obiectum. Motus autem appetitivus in obiectum, excedit cognitionem humanam; secundum illud ad [[Ep 3]], *supereminentem scientiae caritatem Christi*.]]
+![[LEO Ia-IIæ, q. 66, a. 6#ad 1|Ad primum ergo dicendum quod non hoc modo se habent fides et spes ad caritatem, sicut prudentia ad virtutem moralem. Et hoc propter duo. Primo quidem, quia virtutes theologicae habent obiectum quod est supra animam humanam, sed prudentia et virtutes morales sunt circa ea quae sunt infra hominem. In his autem quae sunt supra hominem, nobilior est dilectio quam cognitio. Perficitur enim cognitio, secundum quod cognita sunt in cognoscente, dilectio vero, secundum quod diligens trahitur ad rem dilectam. Id autem quod est supra hominem, nobilius est in seipso quam sit in homine, quia unumquodque est in altero per modum eius in quo est. E converso autem est in his quae sunt infra hominem. Secundo, quia prudentia moderatur motus appetitivos ad morales virtutes pertinentes, sed fides non moderatur motum appetitivum tendentem in Deum, qui pertinet ad virtutes theologicas; sed solum ostendit obiectum. Motus autem appetitivus in obiectum, excedit cognitionem humanam; secundum illud ad Ephes. III, *supereminentem scientiae caritatem Christi*.]]
 ![[CERF Ia-IIæ, q. 66, a. 6#ad 1]]
 
 ###### ad 2

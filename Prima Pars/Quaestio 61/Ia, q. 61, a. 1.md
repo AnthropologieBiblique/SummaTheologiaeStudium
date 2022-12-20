@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 61, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Angeli non habeant causam sui esse. De his enim quae sunt a Deo creata, agitur [[Gn 1]]. Sed nulla mentio fit ibi de Angelis. Ergo Angeli non sunt creati a Deo.]]
+![[LEO Ia, q. 61, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Angeli non habeant causam sui esse. De his enim quae sunt a Deo creata, agitur Genesis I. Sed nulla mentio fit ibi de Angelis. Ergo Angeli non sunt creati a Deo.]]
 ![[CERF Ia, q. 61, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 61, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 61, a. 1#s.c.|Sed contra est quod dicitur in [[Ps 148]], *laudate eum, omnes Angeli eius*. Et postea subdit, *quoniam ipse dixit, et facta sunt*.]]
+![[LEO Ia, q. 61, a. 1#s.c.|Sed contra est quod dicitur in Psalmo CXLVIII, *laudate eum, omnes Angeli eius*. Et postea subdit, *quoniam ipse dixit, et facta sunt*.]]
 ![[CERF Ia, q. 61, a. 1#s.c.]]
 
 ###### resp.

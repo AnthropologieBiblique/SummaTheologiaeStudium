@@ -22,7 +22,7 @@ tags :
 ![[CERF Ia, q. 91, a. 2#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 91, a. 2#s.c.|Sed contra est quod dicitur [[Si 17]], *Deus de terra creavit hominem*.]]
+![[LEO Ia, q. 91, a. 2#s.c.|Sed contra est quod dicitur Eccli. XVII, *Deus de terra creavit hominem*.]]
 ![[CERF Ia, q. 91, a. 2#s.c.]]
 
 ###### resp.

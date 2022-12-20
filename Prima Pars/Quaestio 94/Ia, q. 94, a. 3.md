@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 94, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 94, a. 3#s.c.|Sed contra est quod ipse imposuit nomina animalibus, ut dicitur [[Gn 2]]. Nomina autem debent naturis rerum congruere. Ergo Adam scivit naturas omnium animalium, et pari ratione, habuit omnium aliorum scientiam.]]
+![[LEO Ia, q. 94, a. 3#s.c.|Sed contra est quod ipse imposuit nomina animalibus, ut dicitur Gen. II. Nomina autem debent naturis rerum congruere. Ergo Adam scivit naturas omnium animalium, et pari ratione, habuit omnium aliorum scientiam.]]
 ![[CERF Ia, q. 94, a. 3#s.c.]]
 
 ###### resp.

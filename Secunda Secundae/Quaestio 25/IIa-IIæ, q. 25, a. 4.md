@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 25, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 25, a. 4#arg. 3|Praeterea, illud quod ad caritatem pertinet non potest esse vituperabile, quia *caritas non agit perperam*, ut dicitur I ad Cor. XIII. Sed amare seipsum est vituperabile, dicitur enim [[2 Tm 3]], *in novissimis diebus instabunt tempora periculosa, et erunt homines amantes seipsos*. Ergo homo non potest seipsum ex caritate diligere.]]
+![[LEO IIa-IIæ, q. 25, a. 4#arg. 3|Praeterea, illud quod ad caritatem pertinet non potest esse vituperabile, quia *caritas non agit perperam*, ut dicitur I ad Cor. XIII. Sed amare seipsum est vituperabile, dicitur enim II ad Tim. III, *in novissimis diebus instabunt tempora periculosa, et erunt homines amantes seipsos*. Ergo homo non potest seipsum ex caritate diligere.]]
 ![[CERF IIa-IIæ, q. 25, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 25, a. 4#s.c.|Sed contra est quod dicitur [[Lv 19]], *diliges amicum tuum sicut teipsum*. Sed amicum ex caritate diligimus. Ergo et nosipsos ex caritate debemus diligere.]]
+![[LEO IIa-IIæ, q. 25, a. 4#s.c.|Sed contra est quod dicitur Levit. XIX, *diliges amicum tuum sicut teipsum*. Sed amicum ex caritate diligimus. Ergo et nosipsos ex caritate debemus diligere.]]
 ![[CERF IIa-IIæ, q. 25, a. 4#s.c.]]
 
 ###### resp.

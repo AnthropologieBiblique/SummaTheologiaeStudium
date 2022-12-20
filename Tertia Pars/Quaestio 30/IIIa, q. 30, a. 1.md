@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIIa, q. 30, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non fuerit necessarium beatae virgini annuntiari quod in ea fiendum erat. Annuntiatio enim ad hoc solum necessarium videbatur ut virginis consensus haberetur. Sed consensus eius non videtur necessarius fuisse, quia conceptus virginis praenuntiatus fuit prophetia praedestinationis quae sine nostro completur arbitrio, ut dicit quaedam Glossa, [[Mt 1]]. Non ergo necessarium fuit quod talis Annuntiatio fieret.]]
+![[LEO IIIa, q. 30, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod non fuerit necessarium beatae virgini annuntiari quod in ea fiendum erat. Annuntiatio enim ad hoc solum necessarium videbatur ut virginis consensus haberetur. Sed consensus eius non videtur necessarius fuisse, quia conceptus virginis praenuntiatus fuit prophetia praedestinationis quae sine nostro completur arbitrio, ut dicit quaedam Glossa, Matth. I. Non ergo necessarium fuit quod talis Annuntiatio fieret.]]
 ![[CERF IIIa, q. 30, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 30, a. 1#arg. 2|Praeterea, beata virgo incarnationis fidem habebat, sine qua nullus esse poterat in statu salutis, quia, ut dicitur [[Rm 3]], *iustitia Dei est per fidem Iesu Christi*. Sed de eo quod aliquis per certitudinem credit, non indiget ulterius instrui. Ergo beatae virgini non fuit necessarium ut ei incarnatio filii annuntiaretur.]]
+![[LEO IIIa, q. 30, a. 1#arg. 2|Praeterea, beata virgo incarnationis fidem habebat, sine qua nullus esse poterat in statu salutis, quia, ut dicitur Rom. III, *iustitia Dei est per fidem Iesu Christi*. Sed de eo quod aliquis per certitudinem credit, non indiget ulterius instrui. Ergo beatae virgini non fuit necessarium ut ei incarnatio filii annuntiaretur.]]
 ![[CERF IIIa, q. 30, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 30, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 30, a. 1#s.c.|Sed contra est quod habetur [[Lc 1]], quod Angelus dixit ei, *ecce, concipies in utero et paries filium*.]]
+![[LEO IIIa, q. 30, a. 1#s.c.|Sed contra est quod habetur Luc. I, quod Angelus dixit ei, *ecce, concipies in utero et paries filium*.]]
 ![[CERF IIIa, q. 30, a. 1#s.c.]]
 
 ###### resp.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 30, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 30, a. 1#ad 3|Ad tertium dicendum quod spiritualem conceptionem Christi, quae est per fidem, praecedit Annuntiatio quae est per fidei praedicationem, secundum quod *fides est ex auditu*, ut dicitur [[Rm 10]]. Nec tamen propter hoc aliquis pro certo scit se gratiam habere, sed scit veram fidem esse quam accipit.]]
+![[LEO IIIa, q. 30, a. 1#ad 3|Ad tertium dicendum quod spiritualem conceptionem Christi, quae est per fidem, praecedit Annuntiatio quae est per fidei praedicationem, secundum quod *fides est ex auditu*, ut dicitur Rom. X. Nec tamen propter hoc aliquis pro certo scit se gratiam habere, sed scit veram fidem esse quam accipit.]]
 ![[CERF IIIa, q. 30, a. 1#ad 3]]
 

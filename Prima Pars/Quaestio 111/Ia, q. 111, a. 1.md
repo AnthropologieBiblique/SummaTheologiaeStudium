@@ -6,11 +6,11 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO Ia, q. 111, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Angelus non possit illuminare hominem. Homo enim illuminatur per fidem, unde Dionysius, in Eccles. Hier., illuminationem attribuit Baptismo, qui est fidei sacramentum. Sed fides immediate est a Deo; secundum illud ad [[Ep 2]], *gratia estis salvati per fidem, et non ex vobis; Dei enim donum est*. Ergo homo non illuminatur ab Angelo, sed immediate a Deo.]]
+![[LEO Ia, q. 111, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod Angelus non possit illuminare hominem. Homo enim illuminatur per fidem, unde Dionysius, in Eccles. Hier., illuminationem attribuit Baptismo, qui est fidei sacramentum. Sed fides immediate est a Deo; secundum illud ad Ephes. II, *gratia estis salvati per fidem, et non ex vobis; Dei enim donum est*. Ergo homo non illuminatur ab Angelo, sed immediate a Deo.]]
 ![[CERF Ia, q. 111, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 111, a. 1#arg. 2|Praeterea, super illud [[Rm 1]], *Deus illis manifestavit*, dicit Glossa quod *non solum ratio naturalis ad hoc profuit ut divina hominibus manifestarentur, sed etiam Deus illis revelavit per opus suum*, scilicet per creaturam. Sed utrumque est a Deo immediate, scilicet ratio naturalis, et creatura. Ergo Deus immediate illuminat hominem.]]
+![[LEO Ia, q. 111, a. 1#arg. 2|Praeterea, super illud Rom. I, *Deus illis manifestavit*, dicit Glossa quod *non solum ratio naturalis ad hoc profuit ut divina hominibus manifestarentur, sed etiam Deus illis revelavit per opus suum*, scilicet per creaturam. Sed utrumque est a Deo immediate, scilicet ratio naturalis, et creatura. Ergo Deus immediate illuminat hominem.]]
 ![[CERF Ia, q. 111, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 111, a. 1#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 111, a. 1#ad 1|Ad primum ergo dicendum quod ad fidem duo concurrunt. Primo quidem habitus intellectus, quo disponitur ad obediendum voluntati tendenti in divinam veritatem, intellectus enim assentit veritati fidei, non quasi convictus ratione, sed quasi imperatus a voluntate; nullus enim credit nisi volens, ut Augustinus dicit. Et quantum ad hoc, fides est a solo Deo. Secundo requiritur ad fidem, quod credibilia proponantur credenti. Et hoc quidem fit per hominem, secundum quod fides est ex auditu, ut dicitur [[Rm 10]]; sed per Angelos principaliter, per quos hominibus revelantur divina. Unde Angeli operantur aliquid ad illuminationem fidei. Et tamen homines illuminantur ab Angelis non solum de credendis, sed etiam de agendis.]]
+![[LEO Ia, q. 111, a. 1#ad 1|Ad primum ergo dicendum quod ad fidem duo concurrunt. Primo quidem habitus intellectus, quo disponitur ad obediendum voluntati tendenti in divinam veritatem, intellectus enim assentit veritati fidei, non quasi convictus ratione, sed quasi imperatus a voluntate; nullus enim credit nisi volens, ut Augustinus dicit. Et quantum ad hoc, fides est a solo Deo. Secundo requiritur ad fidem, quod credibilia proponantur credenti. Et hoc quidem fit per hominem, secundum quod fides est ex auditu, ut dicitur Rom. X; sed per Angelos principaliter, per quos hominibus revelantur divina. Unde Angeli operantur aliquid ad illuminationem fidei. Et tamen homines illuminantur ab Angelis non solum de credendis, sed etiam de agendis.]]
 ![[CERF Ia, q. 111, a. 1#ad 1]]
 
 ###### ad 2

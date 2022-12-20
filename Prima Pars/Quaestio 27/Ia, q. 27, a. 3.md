@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 27, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 27, a. 3#s.c.|Sed contra est quod spiritus sanctus procedit a patre, ut dicitur [[Jn 15]]. Ipse autem est alius a filio, secundum illud [[Jn 15]], *rogabo patrem meum, et alium Paracletum dabit vobis*. Ergo in divinis est alia processio praeter processionem verbi.]]
+![[LEO Ia, q. 27, a. 3#s.c.|Sed contra est quod spiritus sanctus procedit a patre, ut dicitur Ioan. XV. Ipse autem est alius a filio, secundum illud Ioan. XIV, *rogabo patrem meum, et alium Paracletum dabit vobis*. Ergo in divinis est alia processio praeter processionem verbi.]]
 ![[CERF Ia, q. 27, a. 3#s.c.]]
 
 ###### resp.

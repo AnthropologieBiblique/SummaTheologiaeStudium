@@ -6,7 +6,7 @@ tags :
 ### Articulus 8
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 189, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod non liceat de una religione transire ad aliam, etiam arctiorem. Dicit enim apostolus, [[He 10]], neque deserentes collectionem nostram, sicut est consuetudinis quibusdam, Glossa, *qui scilicet vel timore persecutionis cedunt, vel propria praesumptione a peccatoribus vel imperfectis, ut iusti videantur, recedunt*. Sed hoc videntur facere qui de una religione transeunt ad aliam perfectiorem. Ergo videtur hoc esse illicitum.]]
+![[LEO IIa-IIæ, q. 189, a. 8#arg. 1|Ad octavum sic proceditur. Videtur quod non liceat de una religione transire ad aliam, etiam arctiorem. Dicit enim apostolus, Heb. X, neque deserentes collectionem nostram, sicut est consuetudinis quibusdam, Glossa, *qui scilicet vel timore persecutionis cedunt, vel propria praesumptione a peccatoribus vel imperfectis, ut iusti videantur, recedunt*. Sed hoc videntur facere qui de una religione transeunt ad aliam perfectiorem. Ergo videtur hoc esse illicitum.]]
 ![[CERF IIa-IIæ, q. 189, a. 8#arg. 1]]
 
 ###### arg. 2

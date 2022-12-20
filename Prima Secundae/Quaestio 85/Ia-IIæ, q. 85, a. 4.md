@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 85, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 85, a. 4#s.c.|Sed contra est quod peccatum est in anima sicut infirmitas in corpore; secundum illud [[Ps 6]], *miserere mei, domine, quoniam infirmus sum*. Sed infirmitas privat modum, speciem et ordinem ipsius corporis. Ergo peccatum privat modum, speciem et ordinem animae.]]
+![[LEO Ia-IIæ, q. 85, a. 4#s.c.|Sed contra est quod peccatum est in anima sicut infirmitas in corpore; secundum illud Psalmi VI, *miserere mei, domine, quoniam infirmus sum*. Sed infirmitas privat modum, speciem et ordinem ipsius corporis. Ergo peccatum privat modum, speciem et ordinem animae.]]
 ![[CERF Ia-IIæ, q. 85, a. 4#s.c.]]
 
 ###### resp.

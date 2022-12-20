@@ -6,11 +6,11 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO IIIa, q. 8, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christus, secundum quod homo, non sit caput Angelorum. Caput enim et membra sunt unius naturae. Sed Christus, secundum quod homo, non est conformis in natura cum Angelis, sed solum cum hominibus, quia, ut dicitur [[He 2]], *nusquam Angelos apprehendit, sed semen Abrahae apprehendit*. Ergo Christus, secundum quod homo, non est caput Angelorum.]]
+![[LEO IIIa, q. 8, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Christus, secundum quod homo, non sit caput Angelorum. Caput enim et membra sunt unius naturae. Sed Christus, secundum quod homo, non est conformis in natura cum Angelis, sed solum cum hominibus, quia, ut dicitur Heb. II, *nusquam Angelos apprehendit, sed semen Abrahae apprehendit*. Ergo Christus, secundum quod homo, non est caput Angelorum.]]
 ![[CERF IIIa, q. 8, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 8, a. 4#arg. 2|Praeterea, illorum Christus est caput qui pertinent ad Ecclesiam, *quae est corpus eius*, ut dicitur [[Ep 1]]. Sed Angeli non pertinent ad Ecclesiam, nam Ecclesia est congregatio fidelium; fides autem non est in Angelis; non enim ambulant per fidem, sed per speciem, alioquin peregrinarentur a domino, secundum quod apostolus argumentatur, [[2 Co 5]]. Ergo Christus, secundum quod homo, non est caput Angelorum.]]
+![[LEO IIIa, q. 8, a. 4#arg. 2|Praeterea, illorum Christus est caput qui pertinent ad Ecclesiam, *quae est corpus eius*, ut dicitur Ephes. I. Sed Angeli non pertinent ad Ecclesiam, nam Ecclesia est congregatio fidelium; fides autem non est in Angelis; non enim ambulant per fidem, sed per speciem, alioquin peregrinarentur a domino, secundum quod apostolus argumentatur, II Cor. V. Ergo Christus, secundum quod homo, non est caput Angelorum.]]
 ![[CERF IIIa, q. 8, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF IIIa, q. 8, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 8, a. 4#s.c.|Sed contra est quod apostolus dicit, [[Col 2]], *qui est caput omnis principatus et potestatis*. Et eadem ratio est de Angelis aliorum ordinum. Ergo Christus est caput Angelorum.]]
+![[LEO IIIa, q. 8, a. 4#s.c.|Sed contra est quod apostolus dicit, Coloss. II, *qui est caput omnis principatus et potestatis*. Et eadem ratio est de Angelis aliorum ordinum. Ergo Christus est caput Angelorum.]]
 ![[CERF IIIa, q. 8, a. 4#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 8, a. 4#resp.|Respondeo dicendum quod, sicut dictum est, ubi est unum corpus, necesse est ponere unum caput. Unum autem corpus similitudinarie dicitur una multitudo ordinata in unum secundum distinctos actus sive officia. Manifestum est autem quod ad unum finem, qui est gloria divinae fruitionis, ordinantur et homines et Angeli. Unde corpus Ecclesiae mysticum non solum consistit ex hominibus, sed etiam ex Angelis. Totius autem huius multitudinis Christus est caput, quia propinquius se habet ad Deum, et perfectius participat dona ipsius, non solum quam homines, sed etiam quam Angeli; et de eius influentia non solum homines recipiunt, sed etiam Angeli. Dicitur enim [[Ep 1]], quod constituit eum, scilicet Christum Deus pater, *ad dexteram suam in caelestibus, supra omnem principatum et potestatem et virtutem et dominationem, et omne nomen quod nominatur non solum in hoc saeculo, sed etiam in futuro, et omnia subiecit sub pedibus eius*. Et ideo Christus non solum est caput hominum, sed etiam Angelorum. Unde [[Mt 4]] legitur quod *accesserunt Angeli et ministrabant ei*.]]
+![[LEO IIIa, q. 8, a. 4#resp.|Respondeo dicendum quod, sicut dictum est, ubi est unum corpus, necesse est ponere unum caput. Unum autem corpus similitudinarie dicitur una multitudo ordinata in unum secundum distinctos actus sive officia. Manifestum est autem quod ad unum finem, qui est gloria divinae fruitionis, ordinantur et homines et Angeli. Unde corpus Ecclesiae mysticum non solum consistit ex hominibus, sed etiam ex Angelis. Totius autem huius multitudinis Christus est caput, quia propinquius se habet ad Deum, et perfectius participat dona ipsius, non solum quam homines, sed etiam quam Angeli; et de eius influentia non solum homines recipiunt, sed etiam Angeli. Dicitur enim Ephes. I, quod constituit eum, scilicet Christum Deus pater, *ad dexteram suam in caelestibus, supra omnem principatum et potestatem et virtutem et dominationem, et omne nomen quod nominatur non solum in hoc saeculo, sed etiam in futuro, et omnia subiecit sub pedibus eius*. Et ideo Christus non solum est caput hominum, sed etiam Angelorum. Unde Matth. IV legitur quod *accesserunt Angeli et ministrabant ei*.]]
 ![[CERF IIIa, q. 8, a. 4#resp.]]
 
 ###### ad 1

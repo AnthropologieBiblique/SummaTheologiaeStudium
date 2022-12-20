@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIIa, q. 66, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod haec non sit conveniens forma Baptismi, *ego te baptizo in nomine patris et filii et spiritus sancti*. Actus enim magis debet attribui principali agenti quam ministro. Sed in sacramento minister agit ut instrumentum, ut supra dictum est, principale autem agens in Baptismo est Christus, secundum illud [[Jn 1]], *super quem videris spiritum descendentem et manentem, hic est qui baptizat*. Inconvenienter ergo minister dicit, ego te baptizo, praesertim quia in hoc quod dicitur baptizo, intelligitur ego, et sic videtur superflue apponi.]]
+![[LEO IIIa, q. 66, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod haec non sit conveniens forma Baptismi, *ego te baptizo in nomine patris et filii et spiritus sancti*. Actus enim magis debet attribui principali agenti quam ministro. Sed in sacramento minister agit ut instrumentum, ut supra dictum est, principale autem agens in Baptismo est Christus, secundum illud Ioan. I, *super quem videris spiritum descendentem et manentem, hic est qui baptizat*. Inconvenienter ergo minister dicit, ego te baptizo, praesertim quia in hoc quod dicitur baptizo, intelligitur ego, et sic videtur superflue apponi.]]
 ![[CERF IIIa, q. 66, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 66, a. 5#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 66, a. 5#arg. 4|Praeterea, contingit simul plures baptizari a pluribus, sicut apostoli baptizaverunt una die tria millia, et alia die quinque millia, ut dicitur [[Ac 2]] et IV. Non ergo debet forma Baptismi determinari in singulari numero, ut dicatur, ego te baptizo, sed potest dici, nos vos baptizamus.]]
+![[LEO IIIa, q. 66, a. 5#arg. 4|Praeterea, contingit simul plures baptizari a pluribus, sicut apostoli baptizaverunt una die tria millia, et alia die quinque millia, ut dicitur Act. II et IV. Non ergo debet forma Baptismi determinari in singulari numero, ut dicatur, ego te baptizo, sed potest dici, nos vos baptizamus.]]
 ![[CERF IIIa, q. 66, a. 5#arg. 4]]
 
 ###### arg. 5
@@ -38,7 +38,7 @@ tags :
 ![[CERF IIIa, q. 66, a. 5#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 66, a. 5#resp.|Respondeo dicendum quod Baptismus per suam formam consecratur, secundum illud [[Ep 5]], *mundans eam lavacro aquae in verbo vitae*, et Augustinus dicit, in libro de unico Baptismo, quod *Baptismus verbis evangelicis consecratur*. Et ideo oportet quod in forma Baptismi exprimatur causa Baptismi. Est autem eius duplex causa, una quidem principalis, a qua virtutem habet, quae est sancta Trinitas; alia autem est instrumentalis, scilicet minister, qui tradit exterius sacramentum. Et ideo debet in forma Baptismi de utraque fieri mentio. Minister autem tangitur cum dicitur, ego te baptizo, causa autem principalis, cum dicitur, in nomine patris et filii et spiritus sancti. Unde haec est conveniens forma Baptismi, *ego te baptizo in nomine patris et filii et spiritus sancti*.]]
+![[LEO IIIa, q. 66, a. 5#resp.|Respondeo dicendum quod Baptismus per suam formam consecratur, secundum illud Ephes. V, *mundans eam lavacro aquae in verbo vitae*, et Augustinus dicit, in libro de unico Baptismo, quod *Baptismus verbis evangelicis consecratur*. Et ideo oportet quod in forma Baptismi exprimatur causa Baptismi. Est autem eius duplex causa, una quidem principalis, a qua virtutem habet, quae est sancta Trinitas; alia autem est instrumentalis, scilicet minister, qui tradit exterius sacramentum. Et ideo debet in forma Baptismi de utraque fieri mentio. Minister autem tangitur cum dicitur, ego te baptizo, causa autem principalis, cum dicitur, in nomine patris et filii et spiritus sancti. Unde haec est conveniens forma Baptismi, *ego te baptizo in nomine patris et filii et spiritus sancti*.]]
 ![[CERF IIIa, q. 66, a. 5#resp.]]
 
 ###### ad 1
@@ -46,7 +46,7 @@ tags :
 ![[CERF IIIa, q. 66, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 66, a. 5#ad 2|Ad secundum dicendum quod, quia ablutio hominis in aqua propter multa fieri potest, oportet quod determinetur in verbis formae ad quid fiat. Quod quidem non fit per hoc quod dicitur, *in nomine patris et filii et spiritus sancti*, quia omnia in tali nomine facere debemus, ut habetur [[Col 3]]. Et ideo, si non exprimatur actus Baptismi, vel per modum nostrum vel per modum Graecorum, non perficitur sacramentum, secundum illam decretalem Alexandri III, *si quis puerum ter in aquam merserit in nomine patris et filii et spiritus sancti amen, et non dixerit, ego te baptizo in nomine patris et filii et spiritus sancti amen, non est puer baptizatus*.]]
+![[LEO IIIa, q. 66, a. 5#ad 2|Ad secundum dicendum quod, quia ablutio hominis in aqua propter multa fieri potest, oportet quod determinetur in verbis formae ad quid fiat. Quod quidem non fit per hoc quod dicitur, *in nomine patris et filii et spiritus sancti*, quia omnia in tali nomine facere debemus, ut habetur Coloss. III. Et ideo, si non exprimatur actus Baptismi, vel per modum nostrum vel per modum Graecorum, non perficitur sacramentum, secundum illam decretalem Alexandri III, *si quis puerum ter in aquam merserit in nomine patris et filii et spiritus sancti amen, et non dixerit, ego te baptizo in nomine patris et filii et spiritus sancti amen, non est puer baptizatus*.]]
 ![[CERF IIIa, q. 66, a. 5#ad 2]]
 
 ###### ad 3

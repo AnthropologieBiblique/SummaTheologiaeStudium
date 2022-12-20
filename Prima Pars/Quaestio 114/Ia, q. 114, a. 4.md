@@ -6,7 +6,7 @@ tags :
 ### Articulus 4
 
 ###### arg. 1
-![[LEO Ia, q. 114, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Daemones non possint homines seducere per aliqua miracula vera. Operatio enim Daemonum maxime vigebit in operibus Antichristi. Sed sicut apostolus dicit II ad [[1 Th 2]], *eius adventus est secundum operationem Satanae, in omni virtute et signis et prodigiis mendacibus*. Ergo multo magis alio tempore per Daemones non fiunt nisi signa mendacia.]]
+![[LEO Ia, q. 114, a. 4#arg. 1|Ad quartum sic proceditur. Videtur quod Daemones non possint homines seducere per aliqua miracula vera. Operatio enim Daemonum maxime vigebit in operibus Antichristi. Sed sicut apostolus dicit II ad Thessal. II, *eius adventus est secundum operationem Satanae, in omni virtute et signis et prodigiis mendacibus*. Ergo multo magis alio tempore per Daemones non fiunt nisi signa mendacia.]]
 ![[CERF Ia, q. 114, a. 4#arg. 1]]
 
 ###### arg. 2

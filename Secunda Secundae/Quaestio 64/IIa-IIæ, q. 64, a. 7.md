@@ -22,11 +22,11 @@ tags :
 ![[CERF IIa-IIæ, q. 64, a. 7#arg. 4]]
 
 ###### arg. 5
-![[LEO IIa-IIæ, q. 64, a. 7#arg. 5|Praeterea, si arbor est mala, et fructus, ut dicitur [[Mt 7]]. Sed ipsa defensio sui videtur esse illicita, secundum illud [[Rm 12]], *non vos defendentes, carissimi*. Ergo et occisio hominis exinde procedens est illicita.]]
+![[LEO IIa-IIæ, q. 64, a. 7#arg. 5|Praeterea, si arbor est mala, et fructus, ut dicitur Matth. VII. Sed ipsa defensio sui videtur esse illicita, secundum illud Rom. XII, *non vos defendentes, carissimi*. Ergo et occisio hominis exinde procedens est illicita.]]
 ![[CERF IIa-IIæ, q. 64, a. 7#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 64, a. 7#s.c.|Sed contra est quod [[Ex 22]] dicitur, *si effringens fur domum sive suffodiens fuerit inventus, et, accepto vulnere, mortuus fuerit, percussor non erit reus sanguinis*. Sed multo magis licitum est defendere propriam vitam quam propriam domum. Ergo etiam si aliquis occidat aliquem pro defensione vitae suae, non erit reus homicidii.]]
+![[LEO IIa-IIæ, q. 64, a. 7#s.c.|Sed contra est quod Exod. XXII dicitur, *si effringens fur domum sive suffodiens fuerit inventus, et, accepto vulnere, mortuus fuerit, percussor non erit reus sanguinis*. Sed multo magis licitum est defendere propriam vitam quam propriam domum. Ergo etiam si aliquis occidat aliquem pro defensione vitae suae, non erit reus homicidii.]]
 ![[CERF IIa-IIæ, q. 64, a. 7#s.c.]]
 
 ###### resp.

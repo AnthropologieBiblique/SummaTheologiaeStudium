@@ -6,7 +6,7 @@ tags :
 ### Articulus 6
 
 ###### arg. 1
-![[LEO Ia-IIæ, q. 100, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod inconvenienter ordinentur decem praecepta Decalogi. Dilectio enim proximi videtur esse praevia ad dilectionem Dei, quia proximus est nobis magis notus quam Deus; secundum illud [[1 Jn 4]], *qui fratrem suum, quem videt, non diligit, Deum, quem non videt, quomodo potest diligere?* Sed tria prima praecepta pertinent ad dilectionem Dei, septem vero alia ad dilectionem proximi. Ergo inconvenienter praecepta Decalogi ordinantur.]]
+![[LEO Ia-IIæ, q. 100, a. 6#arg. 1|Ad sextum sic proceditur. Videtur quod inconvenienter ordinentur decem praecepta Decalogi. Dilectio enim proximi videtur esse praevia ad dilectionem Dei, quia proximus est nobis magis notus quam Deus; secundum illud I Ioan. IV, *qui fratrem suum, quem videt, non diligit, Deum, quem non videt, quomodo potest diligere?* Sed tria prima praecepta pertinent ad dilectionem Dei, septem vero alia ad dilectionem proximi. Ergo inconvenienter praecepta Decalogi ordinantur.]]
 ![[CERF Ia-IIæ, q. 100, a. 6#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 100, a. 6#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 100, a. 6#s.c.|Sed contra est quod apostolus dicit, [[Rm 13]], *quae a Deo sunt, ordinata sunt*. Sed praecepta Decalogi sunt immediate data a Deo, ut dictum est. Ergo convenientem ordinem habent.]]
+![[LEO Ia-IIæ, q. 100, a. 6#s.c.|Sed contra est quod apostolus dicit, Rom. XIII, *quae a Deo sunt, ordinata sunt*. Sed praecepta Decalogi sunt immediate data a Deo, ut dictum est. Ergo convenientem ordinem habent.]]
 ![[CERF Ia-IIæ, q. 100, a. 6#s.c.]]
 
 ###### resp.
@@ -30,7 +30,7 @@ tags :
 ![[CERF Ia-IIæ, q. 100, a. 6#ad 1]]
 
 ###### ad 2
-![[LEO Ia-IIæ, q. 100, a. 6#ad 2|Ad secundum dicendum quod, sicut Deus est universale principium essendi omnibus, ita etiam pater est principium quoddam essendi filio. Et ideo convenienter post praecepta pertinentia ad Deum, ponitur praeceptum pertinens ad parentes. Ratio autem procedit quando affirmativa et negativa pertinent ad idem genus operis. Quamvis etiam et in hoc non habeat omnimodam efficaciam. Etsi enim in executione operis, prius extirpanda sint vitia quam inserendae virtutes, secundum illud [[Ps 33]], *declina a malo, et fac bonum*, et [[Is 1]], *quiescite agere perverse, discite benefacere*; tamen in cognitione prior est virtus quam peccatum, quia per rectum cognoscitur obliquum, ut dicitur in I de anima. Per legem autem cognitio peccati, ut [[Rm 3]] dicitur. Et secundum hoc, praeceptum affirmativum debuisset primo poni. Sed non est ista ratio ordinis, sed quae supra posita est. Quia in praeceptis pertinentibus ad Deum, quae sunt primae tabulae, ultimo ponitur praeceptum affirmativum, quia eius transgressio minorem reatum inducit.]]
+![[LEO Ia-IIæ, q. 100, a. 6#ad 2|Ad secundum dicendum quod, sicut Deus est universale principium essendi omnibus, ita etiam pater est principium quoddam essendi filio. Et ideo convenienter post praecepta pertinentia ad Deum, ponitur praeceptum pertinens ad parentes. Ratio autem procedit quando affirmativa et negativa pertinent ad idem genus operis. Quamvis etiam et in hoc non habeat omnimodam efficaciam. Etsi enim in executione operis, prius extirpanda sint vitia quam inserendae virtutes, secundum illud Psalmi XXXIII, *declina a malo, et fac bonum*, et Isaiae I, *quiescite agere perverse, discite benefacere*; tamen in cognitione prior est virtus quam peccatum, quia per rectum cognoscitur obliquum, ut dicitur in I de anima. Per legem autem cognitio peccati, ut Rom. III dicitur. Et secundum hoc, praeceptum affirmativum debuisset primo poni. Sed non est ista ratio ordinis, sed quae supra posita est. Quia in praeceptis pertinentibus ad Deum, quae sunt primae tabulae, ultimo ponitur praeceptum affirmativum, quia eius transgressio minorem reatum inducit.]]
 ![[CERF Ia-IIæ, q. 100, a. 6#ad 2]]
 
 ###### ad 3

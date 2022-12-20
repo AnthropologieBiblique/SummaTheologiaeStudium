@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 58, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 58, a. 3#arg. 2|Praeterea, sedere ad dexteram regnantis subiectionem excludere videtur, quia qui sedet ad dexteram regnantis, quodammodo illi conregnat. Christus autem, secundum quod homo, est subiectus patri, ut dicitur [[1 Co 15]]. Ergo videtur quod Christus, secundum quod homo, non sit ad dexteram patris.]]
+![[LEO IIIa, q. 58, a. 3#arg. 2|Praeterea, sedere ad dexteram regnantis subiectionem excludere videtur, quia qui sedet ad dexteram regnantis, quodammodo illi conregnat. Christus autem, secundum quod homo, est subiectus patri, ut dicitur I Cor. XV. Ergo videtur quod Christus, secundum quod homo, non sit ad dexteram patris.]]
 ![[CERF IIIa, q. 58, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 58, a. 3#arg. 3|Praeterea, [[Rm 8]], super illud, *qui est ad dexteram Dei*, exponit Glossa, *idest, aequalis patri in honore quo Deus pater est; vel, ad dexteram patris, idest in potioribus bonis Dei*. Et super illud [[He 1]], *sedet ad dexteram Dei in excelsis*, Glossa, *idest, ad aequalitatem patris, super omnia et loco et dignitate*. Sed esse aequalem Deo non convenit Christo secundum quod homo, nam secundum hoc ipse dicit, [[Jn 14]], *pater maior me est*. Ergo videtur quod sedere ad dexteram patris non conveniat Christo secundum quod homo.]]
+![[LEO IIIa, q. 58, a. 3#arg. 3|Praeterea, Rom. VIII, super illud, *qui est ad dexteram Dei*, exponit Glossa, *idest, aequalis patri in honore quo Deus pater est; vel, ad dexteram patris, idest in potioribus bonis Dei*. Et super illud Heb. I, *sedet ad dexteram Dei in excelsis*, Glossa, *idest, ad aequalitatem patris, super omnia et loco et dignitate*. Sed esse aequalem Deo non convenit Christo secundum quod homo, nam secundum hoc ipse dicit, Ioan. XIV, *pater maior me est*. Ergo videtur quod sedere ad dexteram patris non conveniat Christo secundum quod homo.]]
 ![[CERF IIIa, q. 58, a. 3#arg. 3]]
 
 ###### s.c.

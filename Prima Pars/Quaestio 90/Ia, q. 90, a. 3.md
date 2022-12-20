@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia, q. 90, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 90, a. 3#s.c.|Sed contra est quod dicitur [[Gn 2]], quod *Deus ipse inspiravit in faciem hominis spiraculum vitae*.]]
+![[LEO Ia, q. 90, a. 3#s.c.|Sed contra est quod dicitur Gen. II, quod *Deus ipse inspiravit in faciem hominis spiraculum vitae*.]]
 ![[CERF Ia, q. 90, a. 3#s.c.]]
 
 ###### resp.

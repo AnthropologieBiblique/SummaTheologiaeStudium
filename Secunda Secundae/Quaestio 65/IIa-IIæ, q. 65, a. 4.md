@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 65, a. 4#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 65, a. 4#arg. 2|Praeterea, in sacra Scriptura praecipue reprehenduntur qui pupillis et viduis iniurias inferunt, unde dicitur [[Si 35]], *non despiciet preces pupilli, nec viduam, si effundat loquelam gemitus*. Sed vidua et pupillus non sunt personae aliis coniunctae. Ergo ex hoc quod infertur iniuria personis coniunctis non aggravatur peccatum.]]
+![[LEO IIa-IIæ, q. 65, a. 4#arg. 2|Praeterea, in sacra Scriptura praecipue reprehenduntur qui pupillis et viduis iniurias inferunt, unde dicitur Eccli. XXXV, *non despiciet preces pupilli, nec viduam, si effundat loquelam gemitus*. Sed vidua et pupillus non sunt personae aliis coniunctae. Ergo ex hoc quod infertur iniuria personis coniunctis non aggravatur peccatum.]]
 ![[CERF IIa-IIæ, q. 65, a. 4#arg. 2]]
 
 ###### arg. 3
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 65, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 65, a. 4#s.c.|Sed contra est quod [[Dt 28]], ad quandam exaggerationem dicitur, *filii tui et filiae tuae tradentur alteri populo videntibus oculis tuis*.]]
+![[LEO IIa-IIæ, q. 65, a. 4#s.c.|Sed contra est quod Deut. XXVIII, ad quandam exaggerationem dicitur, *filii tui et filiae tuae tradentur alteri populo videntibus oculis tuis*.]]
 ![[CERF IIa-IIæ, q. 65, a. 4#s.c.]]
 
 ###### resp.

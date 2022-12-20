@@ -6,7 +6,7 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 127, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod audacia non sit peccatum. Dicitur enim [[Jb 39]], de equo, per quem significatur bonus praedicator, secundum Gregorium, in Moral., quod *audacter in occursum pergit armatis*. Sed nullum vitium cedit in commendationem alicuius. Ergo esse audacem non est peccatum.]]
+![[LEO IIa-IIæ, q. 127, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod audacia non sit peccatum. Dicitur enim Iob XXXIX, de equo, per quem significatur bonus praedicator, secundum Gregorium, in Moral., quod *audacter in occursum pergit armatis*. Sed nullum vitium cedit in commendationem alicuius. Ergo esse audacem non est peccatum.]]
 ![[CERF IIa-IIæ, q. 127, a. 1#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 127, a. 1#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 127, a. 1#s.c.|Sed contra est quod dicitur [[Si 8]], *cum audace non eas in via, ne forte gravet mala sua in te*. Nullius autem societas est declinanda nisi propter peccatum. Ergo audacia est peccatum.]]
+![[LEO IIa-IIæ, q. 127, a. 1#s.c.|Sed contra est quod dicitur Eccli. VIII, *cum audace non eas in via, ne forte gravet mala sua in te*. Nullius autem societas est declinanda nisi propter peccatum. Ergo audacia est peccatum.]]
 ![[CERF IIa-IIæ, q. 127, a. 1#s.c.]]
 
 ###### resp.

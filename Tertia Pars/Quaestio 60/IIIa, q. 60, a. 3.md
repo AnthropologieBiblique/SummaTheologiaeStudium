@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIIa, q. 60, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod sacramentum non sit signum nisi unius rei. Id enim quo multa significantur, est signum ambiguum, et per consequens fallendi occasio, sicut patet de nominibus aequivocis. Sed omnis fallacia debet removeri a Christiana religione, secundum illud [[Col 2]], *videte ne quis vos seducat per philosophiam et inanem fallaciam*. Ergo videtur quod sacramentum non sit signum plurium rerum.]]
+![[LEO IIIa, q. 60, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod sacramentum non sit signum nisi unius rei. Id enim quo multa significantur, est signum ambiguum, et per consequens fallendi occasio, sicut patet de nominibus aequivocis. Sed omnis fallacia debet removeri a Christiana religione, secundum illud Coloss. II, *videte ne quis vos seducat per philosophiam et inanem fallaciam*. Ergo videtur quod sacramentum non sit signum plurium rerum.]]
 ![[CERF IIIa, q. 60, a. 3#arg. 1]]
 
 ###### arg. 2
@@ -14,7 +14,7 @@ tags :
 ![[CERF IIIa, q. 60, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 60, a. 3#arg. 3|Praeterea, dictum est quod sacramentum proprie significat ipsum finem sanctificationis. Sed finis sanctificationis est vita aeterna, secundum illud [[Rm 6]], *habetis fructum vestrum in sanctificatione, finem vero vitam aeternam*. Ergo videtur quod sacramenta non significent nisi unam rem, scilicet vitam aeternam.]]
+![[LEO IIIa, q. 60, a. 3#arg. 3|Praeterea, dictum est quod sacramentum proprie significat ipsum finem sanctificationis. Sed finis sanctificationis est vita aeterna, secundum illud Rom. VI, *habetis fructum vestrum in sanctificatione, finem vero vitam aeternam*. Ergo videtur quod sacramenta non significent nisi unam rem, scilicet vitam aeternam.]]
 ![[CERF IIIa, q. 60, a. 3#arg. 3]]
 
 ###### s.c.

@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 69, a. 9#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 69, a. 9#s.c.|Sed contra est quod dicitur [[Sg 1]], *spiritus sanctus disciplinae effugiet fictum*. Sed effectus Baptismi est a spiritu sancto. Ergo fictio impedit effectum Baptismi.]]
+![[LEO IIIa, q. 69, a. 9#s.c.|Sed contra est quod dicitur Sap. I, *spiritus sanctus disciplinae effugiet fictum*. Sed effectus Baptismi est a spiritu sancto. Ergo fictio impedit effectum Baptismi.]]
 ![[CERF IIIa, q. 69, a. 9#s.c.]]
 
 ###### resp.

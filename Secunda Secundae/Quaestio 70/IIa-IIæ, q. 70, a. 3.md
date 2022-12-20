@@ -30,7 +30,7 @@ tags :
 ![[CERF IIa-IIæ, q. 70, a. 3#ad 1]]
 
 ###### ad 2
-![[LEO IIa-IIæ, q. 70, a. 3#ad 2|Ad secundum dicendum quod de quolibet praesumendum est bonum nisi appareat contrarium, dummodo non vergat in periculum alterius. Quia tunc est adhibenda cautela, ut non de facili unicuique credatur, secundum illud [[1 Jn 4]], *nolite credere omni spiritui*.]]
+![[LEO IIa-IIæ, q. 70, a. 3#ad 2|Ad secundum dicendum quod de quolibet praesumendum est bonum nisi appareat contrarium, dummodo non vergat in periculum alterius. Quia tunc est adhibenda cautela, ut non de facili unicuique credatur, secundum illud I Ioan. IV, *nolite credere omni spiritui*.]]
 ![[CERF IIa-IIæ, q. 70, a. 3#ad 2]]
 
 ###### ad 3

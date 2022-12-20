@@ -6,7 +6,7 @@ tags :
 ### Articulus 5
 
 ###### arg. 1
-![[LEO IIIa, q. 83, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod ea quae in celebratione huius sacramenti aguntur, non sunt convenientia. Hoc enim sacramentum ad novum testamentum pertinet, ut ex forma ipsius apparet. In novo autem testamento non sunt observandae caeremoniae veteris testamenti. Ad quas pertinebat quod sacerdos et ministri aqua lavabantur quando accedebant ad offerendum, legitur enim [[Ex 30]], *lavabunt Aaron et filii eius manus suas ac pedes quando ingressuri sunt ad altare*. Non est ergo conveniens quod sacerdos lavet manus suas inter Missarum solemnia.]]
+![[LEO IIIa, q. 83, a. 5#arg. 1|Ad quintum sic proceditur. Videtur quod ea quae in celebratione huius sacramenti aguntur, non sunt convenientia. Hoc enim sacramentum ad novum testamentum pertinet, ut ex forma ipsius apparet. In novo autem testamento non sunt observandae caeremoniae veteris testamenti. Ad quas pertinebat quod sacerdos et ministri aqua lavabantur quando accedebant ad offerendum, legitur enim Exod. XXX, *lavabunt Aaron et filii eius manus suas ac pedes quando ingressuri sunt ad altare*. Non est ergo conveniens quod sacerdos lavet manus suas inter Missarum solemnia.]]
 ![[CERF IIIa, q. 83, a. 5#arg. 1]]
 
 ###### arg. 2
@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 83, a. 5#arg. 3]]
 
 ###### arg. 4
-![[LEO IIIa, q. 83, a. 5#arg. 4|Praeterea, apostolus dicit, [[He 7]], *sine ulla contradictione, quod minus est a maiori benedicitur*. Sed Christus, qui est in hoc sacramento post consecrationem, est multo maior sacerdote. Inconvenienter igitur sacerdos post consecrationem benedicit hoc sacramentum cruce signando.]]
+![[LEO IIIa, q. 83, a. 5#arg. 4|Praeterea, apostolus dicit, Heb. VII, *sine ulla contradictione, quod minus est a maiori benedicitur*. Sed Christus, qui est in hoc sacramento post consecrationem, est multo maior sacerdote. Inconvenienter igitur sacerdos post consecrationem benedicit hoc sacramentum cruce signando.]]
 ![[CERF IIIa, q. 83, a. 5#arg. 4]]
 
 ###### arg. 5
@@ -30,7 +30,7 @@ tags :
 ![[CERF IIIa, q. 83, a. 5#arg. 6]]
 
 ###### arg. 7
-![[LEO IIIa, q. 83, a. 5#arg. 7|Praeterea, apostolus, [[1 Co 1]], pro inconvenienti habet quod Christus sit divisus. Sed post consecrationem Christus est in hoc sacramento. Inconvenienter igitur hostia frangitur a sacerdote.]]
+![[LEO IIIa, q. 83, a. 5#arg. 7|Praeterea, apostolus, I Cor. I, pro inconvenienti habet quod Christus sit divisus. Sed post consecrationem Christus est in hoc sacramento. Inconvenienter igitur hostia frangitur a sacerdote.]]
 ![[CERF IIIa, q. 83, a. 5#arg. 7]]
 
 ###### arg. 8
@@ -62,11 +62,11 @@ tags :
 ![[CERF IIIa, q. 83, a. 5#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 83, a. 5#ad 1|Ad primum ergo dicendum quod ablutio manuum fit in celebratione Missae propter reverentiam huius sacramenti. Et hoc dupliciter. Primo quidem, quia aliqua pretiosa tractare non consuevimus nisi manibus ablutis. Unde indecens videtur quod ad tantum sacramentum aliquis accedat manibus, etiam corporaliter, inquinatis. Secundo, propter significationem. Quia, ut Dionysius dicit, III cap. Eccles. Hier., extremitatum ablutio significat emundationem etiam a minimis peccatis, secundum illud [[Jn 13]], *qui lotus est, non indiget nisi ut pedes lavet*. Et talis emundatio requiritur ab eo qui accedit ad hoc sacramentum. Quod etiam significatur per confessionem quae fit ante introitum Missae. Et hoc idem significabat ablutio sacerdotum in veteri lege, ut ibidem Dionysius dicit. Nec tamen Ecclesia hoc servat tanquam caeremoniale veteris legis praeceptum, sed quasi ab Ecclesia institutum, sicut quiddam secundum se conveniens. Et ideo non eodem modo observatur sicut tunc. Praetermittitur enim pedum ablutio, et servatur ablutio manuum, quae potest fieri magis in promptu, et quae sufficit ad significandam perfectam munditiam. Cum enim manus sit organum organorum, ut dicitur in III de anima, omnia opera attribuuntur manibus. Unde et in Psalmo dicitur, *lavabo inter innocentes manus meas*.]]
+![[LEO IIIa, q. 83, a. 5#ad 1|Ad primum ergo dicendum quod ablutio manuum fit in celebratione Missae propter reverentiam huius sacramenti. Et hoc dupliciter. Primo quidem, quia aliqua pretiosa tractare non consuevimus nisi manibus ablutis. Unde indecens videtur quod ad tantum sacramentum aliquis accedat manibus, etiam corporaliter, inquinatis. Secundo, propter significationem. Quia, ut Dionysius dicit, III cap. Eccles. Hier., extremitatum ablutio significat emundationem etiam a minimis peccatis, secundum illud Ioan. XIII, *qui lotus est, non indiget nisi ut pedes lavet*. Et talis emundatio requiritur ab eo qui accedit ad hoc sacramentum. Quod etiam significatur per confessionem quae fit ante introitum Missae. Et hoc idem significabat ablutio sacerdotum in veteri lege, ut ibidem Dionysius dicit. Nec tamen Ecclesia hoc servat tanquam caeremoniale veteris legis praeceptum, sed quasi ab Ecclesia institutum, sicut quiddam secundum se conveniens. Et ideo non eodem modo observatur sicut tunc. Praetermittitur enim pedum ablutio, et servatur ablutio manuum, quae potest fieri magis in promptu, et quae sufficit ad significandam perfectam munditiam. Cum enim manus sit organum organorum, ut dicitur in III de anima, omnia opera attribuuntur manibus. Unde et in Psalmo dicitur, *lavabo inter innocentes manus meas*.]]
 ![[CERF IIIa, q. 83, a. 5#ad 1]]
 
 ###### ad 2
-![[LEO IIIa, q. 83, a. 5#ad 2|Ad secundum dicendum quod thurificatione non utimur quasi caeremoniali praecepto legis, sed sicut Ecclesiae statuto. Unde non eodem modo utimur sicut in veteri lege erat statutum. Pertinet autem ad duo. Primo quidem, ad reverentiam huius sacramenti, ut scilicet per bonum odorem depellatur si quid corporaliter pravi odoris in loco fuerit, quod posset provocare horrorem. Secundo, pertinet ad repraesentandum effectum gratiae, qua, sicut bono odore, Christus plenus fuit, secundum illud [[Gn 27]], *ecce, odor filii mei sicut odor agri pleni*; et a Christo derivatur ad fideles officio ministrorum, secundum illud [[2 Co 2]], *odorem notitiae suae spargit per nos in omni loco*. Et ideo, undique thurificato altari, per quod Christus designatur, thurificantur omnes per ordinem.]]
+![[LEO IIIa, q. 83, a. 5#ad 2|Ad secundum dicendum quod thurificatione non utimur quasi caeremoniali praecepto legis, sed sicut Ecclesiae statuto. Unde non eodem modo utimur sicut in veteri lege erat statutum. Pertinet autem ad duo. Primo quidem, ad reverentiam huius sacramenti, ut scilicet per bonum odorem depellatur si quid corporaliter pravi odoris in loco fuerit, quod posset provocare horrorem. Secundo, pertinet ad repraesentandum effectum gratiae, qua, sicut bono odore, Christus plenus fuit, secundum illud Gen. XXVII, *ecce, odor filii mei sicut odor agri pleni*; et a Christo derivatur ad fideles officio ministrorum, secundum illud II Cor. II, *odorem notitiae suae spargit per nos in omni loco*. Et ideo, undique thurificato altari, per quod Christus designatur, thurificantur omnes per ordinem.]]
 ![[CERF IIIa, q. 83, a. 5#ad 2]]
 
 ###### ad 3
@@ -78,7 +78,7 @@ tags :
 ![[CERF IIIa, q. 83, a. 5#ad 4]]
 
 ###### ad 5
-![[LEO IIIa, q. 83, a. 5#ad 5|Ad quintum dicendum quod ea quae sacerdos in Missa facit, non sunt ridiculosae gesticulationes, fiunt enim ad aliquid repraesentandum. Quod enim sacerdos brachia extendit post consecrationem, significat extensionem brachiorum Christi in cruce. Levat etiam manus orando, ad designandum quod oratio eius pro populo dirigitur ad Deum, secundum illud Thren. III, *levemus corda nostra cum manibus ad Deum in caelum*. Et [[Ex 17]] dicitur quod, *cum levaret Moyses manus, vincebat Israel*. Quod autem manus interdum iungit, et inclinat se, suppliciter et humiliter orans, designat humilitatem et obedientiam Christi, ex qua passus est. Digitos autem iungit post consecrationem, scilicet pollicem cum indice, quibus corpus Christi consecratum tetigerat, ut, si qua particula digitis adhaeserat, non dispergatur. Quod pertinet ad reverentiam sacramenti.]]
+![[LEO IIIa, q. 83, a. 5#ad 5|Ad quintum dicendum quod ea quae sacerdos in Missa facit, non sunt ridiculosae gesticulationes, fiunt enim ad aliquid repraesentandum. Quod enim sacerdos brachia extendit post consecrationem, significat extensionem brachiorum Christi in cruce. Levat etiam manus orando, ad designandum quod oratio eius pro populo dirigitur ad Deum, secundum illud Thren. III, *levemus corda nostra cum manibus ad Deum in caelum*. Et Exod. XVII dicitur quod, *cum levaret Moyses manus, vincebat Israel*. Quod autem manus interdum iungit, et inclinat se, suppliciter et humiliter orans, designat humilitatem et obedientiam Christi, ex qua passus est. Digitos autem iungit post consecrationem, scilicet pollicem cum indice, quibus corpus Christi consecratum tetigerat, ut, si qua particula digitis adhaeserat, non dispergatur. Quod pertinet ad reverentiam sacramenti.]]
 ![[CERF IIIa, q. 83, a. 5#ad 5]]
 
 ###### ad 6

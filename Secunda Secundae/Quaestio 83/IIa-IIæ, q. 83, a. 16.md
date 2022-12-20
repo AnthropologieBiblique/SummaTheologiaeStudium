@@ -6,11 +6,11 @@ tags :
 ### Articulus 16
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 83, a. 16#arg. 1|Ad sextumdecimum sic proceditur. Videtur quod peccatores orando non impetrent aliquid a Deo. Dicitur enim [[Jn 9]], *scimus quia peccatores Deus non audit*. Quod consonat ei quod dicitur [[Pr 28]], *qui declinat aures suas ne audiat legem, oratio eius erit execrabilis*, oratio autem execrabilis non impetrat aliquid a Deo. Ergo peccatores non impetrant aliquid a Deo.]]
+![[LEO IIa-IIæ, q. 83, a. 16#arg. 1|Ad sextumdecimum sic proceditur. Videtur quod peccatores orando non impetrent aliquid a Deo. Dicitur enim Ioan. IX, *scimus quia peccatores Deus non audit*. Quod consonat ei quod dicitur Prov. XXVIII, *qui declinat aures suas ne audiat legem, oratio eius erit execrabilis*, oratio autem execrabilis non impetrat aliquid a Deo. Ergo peccatores non impetrant aliquid a Deo.]]
 ![[CERF IIa-IIæ, q. 83, a. 16#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 83, a. 16#arg. 2|Praeterea, iusti impetrant a Deo illud quod merentur, ut supra habitum est. Sed peccatores nihil possunt mereri, quia gratia carent, et etiam caritate, quae est virtus pietatis, ut dicit Glossa, [[2 Tm 3]], super illud, *habentes quidem speciem pietatis, virtutem autem eius abnegantes*; et ita non pie orant, quod requiritur ad hoc quod oratio impetret, ut supra dictum est. Ergo peccatores nihil impetrant orando.]]
+![[LEO IIa-IIæ, q. 83, a. 16#arg. 2|Praeterea, iusti impetrant a Deo illud quod merentur, ut supra habitum est. Sed peccatores nihil possunt mereri, quia gratia carent, et etiam caritate, quae est virtus pietatis, ut dicit Glossa, II ad Tim. III, super illud, *habentes quidem speciem pietatis, virtutem autem eius abnegantes*; et ita non pie orant, quod requiritur ad hoc quod oratio impetret, ut supra dictum est. Ergo peccatores nihil impetrant orando.]]
 ![[CERF IIa-IIæ, q. 83, a. 16#arg. 2]]
 
 ###### arg. 3
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 83, a. 16#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 83, a. 16#ad 3|Ad tertium dicendum quod, sicut dictum est, oratio dominica profertur ex persona communi totius Ecclesiae. Et ideo si aliquis nolens dimittere debita proximo dicat orationem dominicam, non mentitur, quamvis hoc quod dicit non sit verum quantum ad suam personam, est enim verum quantum ad personam Ecclesiae. Extra quam est merito, et ideo fructu orationis caret. Quandoque tamen aliqui peccatores parati sunt debitoribus suis remittere. Et ideo ipsi orantes exaudiuntur, secundum illud [[Si 28]], *relinque proximo tuo nocenti te, et tunc deprecanti tibi peccata solventur*.]]
+![[LEO IIa-IIæ, q. 83, a. 16#ad 3|Ad tertium dicendum quod, sicut dictum est, oratio dominica profertur ex persona communi totius Ecclesiae. Et ideo si aliquis nolens dimittere debita proximo dicat orationem dominicam, non mentitur, quamvis hoc quod dicit non sit verum quantum ad suam personam, est enim verum quantum ad personam Ecclesiae. Extra quam est merito, et ideo fructu orationis caret. Quandoque tamen aliqui peccatores parati sunt debitoribus suis remittere. Et ideo ipsi orantes exaudiuntur, secundum illud Eccli. XXVIII, *relinque proximo tuo nocenti te, et tunc deprecanti tibi peccata solventur*.]]
 ![[CERF IIa-IIæ, q. 83, a. 16#ad 3]]
 

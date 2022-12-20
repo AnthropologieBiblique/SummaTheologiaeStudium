@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 20, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 20, a. 2#arg. 2|Praeterea, praeferre culpam propriam bonitati vel misericordiae divinae est negare infinitatem divinae misericordiae vel bonitatis, quod est infidelitatis. Sed qui desperat culpam suam praefert misericordiae vel bonitati divinae, secundum illud [[Gn 4]], *maior est iniquitas mea quam ut veniam merear*. Ergo quicumque desperat est infidelis.]]
+![[LEO IIa-IIæ, q. 20, a. 2#arg. 2|Praeterea, praeferre culpam propriam bonitati vel misericordiae divinae est negare infinitatem divinae misericordiae vel bonitatis, quod est infidelitatis. Sed qui desperat culpam suam praefert misericordiae vel bonitati divinae, secundum illud Gen. IV, *maior est iniquitas mea quam ut veniam merear*. Ergo quicumque desperat est infidelis.]]
 ![[CERF IIa-IIæ, q. 20, a. 2#arg. 2]]
 
 ###### arg. 3

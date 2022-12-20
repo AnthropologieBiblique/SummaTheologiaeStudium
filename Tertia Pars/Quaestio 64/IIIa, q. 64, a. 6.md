@@ -10,11 +10,11 @@ tags :
 ![[CERF IIIa, q. 64, a. 6#arg. 1]]
 
 ###### arg. 2
-![[LEO IIIa, q. 64, a. 6#arg. 2|Praeterea, quicumque communicat alicui in peccato, etiam ipse est reus peccati, secundum illud [[Rm 1]], *dignus est morte non solum qui peccatum agit, sed etiam qui consentit facientibus*. Sed si mali ministri peccent sacramenta ministrando, illi qui ab eis sacramenta recipiunt, eis in peccato communicant. Ergo etiam ipsi peccarent. Quod videtur inconveniens.]]
+![[LEO IIIa, q. 64, a. 6#arg. 2|Praeterea, quicumque communicat alicui in peccato, etiam ipse est reus peccati, secundum illud Rom. I, *dignus est morte non solum qui peccatum agit, sed etiam qui consentit facientibus*. Sed si mali ministri peccent sacramenta ministrando, illi qui ab eis sacramenta recipiunt, eis in peccato communicant. Ergo etiam ipsi peccarent. Quod videtur inconveniens.]]
 ![[CERF IIIa, q. 64, a. 6#arg. 2]]
 
 ###### arg. 3
-![[LEO IIIa, q. 64, a. 6#arg. 3|Praeterea, nullus videtur esse perplexus, quia sic homo cogeretur desperare, quasi non posset peccatum evadere. Sed si mali peccarent sacramenta tradendo, essent perplexi, quia etiam quandoque peccarent si sacramenta non traderent, puta cum eis ex officio incumbit necessitas; dicitur enim [[1 Co 9]], *vae mihi est si non evangelizavero, necessitas enim mihi incumbit*. Quandoque etiam propter periculum, sicut si puer, in periculo mortis existens, offeratur alicui peccatori baptizandus. Ergo videtur quod mali non peccent sacramenta ministrando.]]
+![[LEO IIIa, q. 64, a. 6#arg. 3|Praeterea, nullus videtur esse perplexus, quia sic homo cogeretur desperare, quasi non posset peccatum evadere. Sed si mali peccarent sacramenta tradendo, essent perplexi, quia etiam quandoque peccarent si sacramenta non traderent, puta cum eis ex officio incumbit necessitas; dicitur enim I Cor. IX, *vae mihi est si non evangelizavero, necessitas enim mihi incumbit*. Quandoque etiam propter periculum, sicut si puer, in periculo mortis existens, offeratur alicui peccatori baptizandus. Ergo videtur quod mali non peccent sacramenta ministrando.]]
 ![[CERF IIIa, q. 64, a. 6#arg. 3]]
 
 ###### s.c.
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIIa, q. 64, a. 6#s.c.]]
 
 ###### resp.
-![[LEO IIIa, q. 64, a. 6#resp.|Respondeo dicendum quod aliquis in agendo peccat ex hoc quod operatur non secundum quod oportet, ut patet per philosophum, in libro Ethicorum. Dictum est autem conveniens esse ut sacramentorum ministri sint iusti, quia ministri debent domino conformari, secundum illud [[Lv 19]], *sancti eritis, quoniam ego sanctus sum*; et [[Si 10]], *secundum iudicem populi, sic et ministri eius*. Et ideo non est dubium quin mali exhibentes se ministros Dei et Ecclesiae in dispensatione sacramentorum, peccent. Et quia hoc peccatum pertinet ad irreverentiam Dei et contaminationem sanctorum, quantum est ex parte ipsius hominis peccatoris, licet sancta secundum seipsa incontaminabilia sint, consequens est quod tale peccatum ex genere suo est mortale.]]
+![[LEO IIIa, q. 64, a. 6#resp.|Respondeo dicendum quod aliquis in agendo peccat ex hoc quod operatur non secundum quod oportet, ut patet per philosophum, in libro Ethicorum. Dictum est autem conveniens esse ut sacramentorum ministri sint iusti, quia ministri debent domino conformari, secundum illud Levit. XIX, *sancti eritis, quoniam ego sanctus sum*; et Eccli. X, *secundum iudicem populi, sic et ministri eius*. Et ideo non est dubium quin mali exhibentes se ministros Dei et Ecclesiae in dispensatione sacramentorum, peccent. Et quia hoc peccatum pertinet ad irreverentiam Dei et contaminationem sanctorum, quantum est ex parte ipsius hominis peccatoris, licet sancta secundum seipsa incontaminabilia sint, consequens est quod tale peccatum ex genere suo est mortale.]]
 ![[CERF IIIa, q. 64, a. 6#resp.]]
 
 ###### ad 1

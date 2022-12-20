@@ -18,7 +18,7 @@ tags :
 ![[CERF IIIa, q. 30, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIIa, q. 30, a. 4#s.c.|Sed contra est quod dicitur [[Rm 13]], quae a Deo sunt, ordinata sunt. Angelus autem missus est a Deo ad hoc quod virgini annuntiaret, ut dicitur [[Lc 1]]. Ergo ordinatissime fuit Annuntiatio per Angelum completa.]]
+![[LEO IIIa, q. 30, a. 4#s.c.|Sed contra est quod dicitur Rom. XIII, quae a Deo sunt, ordinata sunt. Angelus autem missus est a Deo ad hoc quod virgini annuntiaret, ut dicitur Luc. I. Ergo ordinatissime fuit Annuntiatio per Angelum completa.]]
 ![[CERF IIIa, q. 30, a. 4#s.c.]]
 
 ###### resp.

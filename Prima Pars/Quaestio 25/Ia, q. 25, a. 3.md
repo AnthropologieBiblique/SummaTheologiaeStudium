@@ -10,7 +10,7 @@ tags :
 ![[CERF Ia, q. 25, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 25, a. 3#arg. 2|Praeterea, peccare aliquid agere est. Sed Deus non potest peccare, neque seipsum negare, ut dicitur [[2 Tm 2]]. Ergo Deus non est omnipotens.]]
+![[LEO Ia, q. 25, a. 3#arg. 2|Praeterea, peccare aliquid agere est. Sed Deus non potest peccare, neque seipsum negare, ut dicitur II Tim. II. Ergo Deus non est omnipotens.]]
 ![[CERF Ia, q. 25, a. 3#arg. 2]]
 
 ###### arg. 3
@@ -18,11 +18,11 @@ tags :
 ![[CERF Ia, q. 25, a. 3#arg. 3]]
 
 ###### arg. 4
-![[LEO Ia, q. 25, a. 3#arg. 4|Praeterea, super illud [[1 Co 1]], *stultam fecit Deus sapientiam huius mundi*, dicit Glossa, *sapientiam huius mundi fecit Deus stultam, ostendendo possibile, quod illa impossibile iudicabat*. Unde videtur quod non sit aliquid iudicandum possibile vel impossibile secundum inferiores causas, prout sapientia huius mundi iudicat; sed secundum potentiam divinam. Si igitur Deus sit omnipotens, omnia erunt possibilia. Nihil ergo impossibile. Sublato autem impossibili, tollitur necessarium, nam quod necesse est esse, impossibile est non esse. Nihil ergo erit necessarium in rebus, si Deus est omnipotens. Hoc autem est impossibile. Ergo Deus non est omnipotens.]]
+![[LEO Ia, q. 25, a. 3#arg. 4|Praeterea, super illud I Cor. I, *stultam fecit Deus sapientiam huius mundi*, dicit Glossa, *sapientiam huius mundi fecit Deus stultam, ostendendo possibile, quod illa impossibile iudicabat*. Unde videtur quod non sit aliquid iudicandum possibile vel impossibile secundum inferiores causas, prout sapientia huius mundi iudicat; sed secundum potentiam divinam. Si igitur Deus sit omnipotens, omnia erunt possibilia. Nihil ergo impossibile. Sublato autem impossibili, tollitur necessarium, nam quod necesse est esse, impossibile est non esse. Nihil ergo erit necessarium in rebus, si Deus est omnipotens. Hoc autem est impossibile. Ergo Deus non est omnipotens.]]
 ![[CERF Ia, q. 25, a. 3#arg. 4]]
 
 ###### s.c.
-![[LEO Ia, q. 25, a. 3#s.c.|Sed contra est quod dicitur [[Lc 1]], *non erit impossibile apud Deum omne verbum*.]]
+![[LEO Ia, q. 25, a. 3#s.c.|Sed contra est quod dicitur Luc. I, *non erit impossibile apud Deum omne verbum*.]]
 ![[CERF Ia, q. 25, a. 3#s.c.]]
 
 ###### resp.

@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 66, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 66, a. 1#arg. 2|Praeterea, Basilius, exponens verbum divitis dicentis, [[Lc 12]], *congregabo omnia quae nata sunt mihi et bona mea*, dicit, *dic mihi, quae tua? Unde ea sumens in vitam tulisti?* Sed illa quae homo possidet naturaliter, potest aliquis convenienter dicere esse sua. Ergo homo non possidet naturaliter exteriora bona.]]
+![[LEO IIa-IIæ, q. 66, a. 1#arg. 2|Praeterea, Basilius, exponens verbum divitis dicentis, Luc. XII, *congregabo omnia quae nata sunt mihi et bona mea*, dicit, *dic mihi, quae tua? Unde ea sumens in vitam tulisti?* Sed illa quae homo possidet naturaliter, potest aliquis convenienter dicere esse sua. Ergo homo non possidet naturaliter exteriora bona.]]
 ![[CERF IIa-IIæ, q. 66, a. 1#arg. 2]]
 
 ###### arg. 3
@@ -22,7 +22,7 @@ tags :
 ![[CERF IIa-IIæ, q. 66, a. 1#s.c.]]
 
 ###### resp.
-![[LEO IIa-IIæ, q. 66, a. 1#resp.|Respondeo dicendum quod res exterior potest dupliciter considerari. Uno modo, quantum ad eius naturam, quae non subiacet humanae potestati, sed solum divinae, cui omnia ad nutum obediunt. Alio modo, quantum ad usum ipsius rei. Et sic habet homo naturale dominium exteriorum rerum, quia per rationem et voluntatem potest uti rebus exterioribus ad suam utilitatem, quasi propter se factis; semper enim imperfectiora sunt propter perfectiora, ut supra habitum est. Et ex hac ratione philosophus probat, in I Polit., quod possessio rerum exteriorum est homini naturalis. Hoc autem naturale dominium super ceteras creaturas, quod competit homini secundum rationem, in qua imago Dei consistit, manifestatur in ipsa hominis creatione, [[Gn 1]], ubi dicitur, *faciamus hominem ad similitudinem et imaginem nostram, et praesit piscibus maris,* et cetera.]]
+![[LEO IIa-IIæ, q. 66, a. 1#resp.|Respondeo dicendum quod res exterior potest dupliciter considerari. Uno modo, quantum ad eius naturam, quae non subiacet humanae potestati, sed solum divinae, cui omnia ad nutum obediunt. Alio modo, quantum ad usum ipsius rei. Et sic habet homo naturale dominium exteriorum rerum, quia per rationem et voluntatem potest uti rebus exterioribus ad suam utilitatem, quasi propter se factis; semper enim imperfectiora sunt propter perfectiora, ut supra habitum est. Et ex hac ratione philosophus probat, in I Polit., quod possessio rerum exteriorum est homini naturalis. Hoc autem naturale dominium super ceteras creaturas, quod competit homini secundum rationem, in qua imago Dei consistit, manifestatur in ipsa hominis creatione, Gen. I, ubi dicitur, *faciamus hominem ad similitudinem et imaginem nostram, et praesit piscibus maris,* et cetera.]]
 ![[CERF IIa-IIæ, q. 66, a. 1#resp.]]
 
 ###### ad 1

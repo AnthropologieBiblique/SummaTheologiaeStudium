@@ -26,7 +26,7 @@ tags :
 ![[CERF Ia, q. 51, a. 1#resp.]]
 
 ###### ad 1
-![[LEO Ia, q. 51, a. 1#ad 1|Ad primum ergo dicendum quod, sicut supra dictum est, quorundam opinio fuit quod omne ens esset corpus. Et ex hac existimatione derivatum videtur, quod aliqui existimaverunt nullas substantias incorporeas esse nisi corporibus unitas; adeo quod quidam etiam posuerunt Deum esse animam mundi, ut Augustinus narrat in VII de Civ. Dei. Sed quia hoc fidei Catholicae repugnat, quae ponit Deum super omnia exaltatum, secundum illud [[Ps 8]], *elevata est magnificentia tua super caelos*, Origenes, hoc de Deo dicere recusans, de aliis secutus est aliorum opinionem; sicut et in multis aliis deceptus fuit, sequens antiquorum philosophorum opiniones. Verbum autem Bernardi potest exponi, quod spiritus creati indigeant corporali instrumento, non naturaliter unito, sed ad aliquid assumpto, ut infra dicetur. Augustinus autem loquitur non asserendo, sed opinione Platonicorum utens, qui ponebant esse quaedam animalia aerea, quae Daemones nominabant.]]
+![[LEO Ia, q. 51, a. 1#ad 1|Ad primum ergo dicendum quod, sicut supra dictum est, quorundam opinio fuit quod omne ens esset corpus. Et ex hac existimatione derivatum videtur, quod aliqui existimaverunt nullas substantias incorporeas esse nisi corporibus unitas; adeo quod quidam etiam posuerunt Deum esse animam mundi, ut Augustinus narrat in VII de Civ. Dei. Sed quia hoc fidei Catholicae repugnat, quae ponit Deum super omnia exaltatum, secundum illud Psalmi VIII, *elevata est magnificentia tua super caelos*, Origenes, hoc de Deo dicere recusans, de aliis secutus est aliorum opinionem; sicut et in multis aliis deceptus fuit, sequens antiquorum philosophorum opiniones. Verbum autem Bernardi potest exponi, quod spiritus creati indigeant corporali instrumento, non naturaliter unito, sed ad aliquid assumpto, ut infra dicetur. Augustinus autem loquitur non asserendo, sed opinione Platonicorum utens, qui ponebant esse quaedam animalia aerea, quae Daemones nominabant.]]
 ![[CERF Ia, q. 51, a. 1#ad 1]]
 
 ###### ad 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF Ia, q. 51, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO Ia, q. 51, a. 1#ad 3|Ad tertium dicendum quod vivificare effective simpliciter perfectionis est. Unde et Deo convenit secundum illud [[1S 2]], *dominus mortificat et vivificat*. Sed vivificare formaliter est substantiae quae est pars alicuius naturae, et non habentis in se integram naturam speciei. Unde substantia intellectualis quae non est unita corpori, est perfectior quam ea quae est corpori unita.]]
+![[LEO Ia, q. 51, a. 1#ad 3|Ad tertium dicendum quod vivificare effective simpliciter perfectionis est. Unde et Deo convenit secundum illud I Reg. II, *dominus mortificat et vivificat*. Sed vivificare formaliter est substantiae quae est pars alicuius naturae, et non habentis in se integram naturam speciei. Unde substantia intellectualis quae non est unita corpori, est perfectior quam ea quae est corpori unita.]]
 ![[CERF Ia, q. 51, a. 1#ad 3]]
 

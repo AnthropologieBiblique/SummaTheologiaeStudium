@@ -26,7 +26,7 @@ tags :
 ![[CERF IIIa, q. 3, a. 6#resp.]]
 
 ###### ad 1
-![[LEO IIIa, q. 3, a. 6#ad 1|Ad primum ergo dicendum quod, hac positione facta, quod scilicet tres personae assumerent unam humanam naturam, verum esset dicere quod tres personae essent unus homo, propter unam humanam naturam, sicut nunc verum est dicere quod sunt unus Deus, propter unam divinam naturam. Nec ly unus importat unitatem personae, sed unitatem in natura humana. Non enim posset argui ex hoc quod tres personae sunt unus homo, quod essent unus simpliciter, nihil enim prohibet dicere quod homines qui sunt plures simpliciter, sint unus quantum ad aliquid, puta unus populus; sicut Augustinus dicit, VI de Trin., *diversum est natura spiritus hominis et spiritus Dei, sed inhaerendo fit unus spiritus*, secundum illud [[1 Co 6]], *qui adhaeret Deo, unus spiritus est*.]]
+![[LEO IIIa, q. 3, a. 6#ad 1|Ad primum ergo dicendum quod, hac positione facta, quod scilicet tres personae assumerent unam humanam naturam, verum esset dicere quod tres personae essent unus homo, propter unam humanam naturam, sicut nunc verum est dicere quod sunt unus Deus, propter unam divinam naturam. Nec ly unus importat unitatem personae, sed unitatem in natura humana. Non enim posset argui ex hoc quod tres personae sunt unus homo, quod essent unus simpliciter, nihil enim prohibet dicere quod homines qui sunt plures simpliciter, sint unus quantum ad aliquid, puta unus populus; sicut Augustinus dicit, VI de Trin., *diversum est natura spiritus hominis et spiritus Dei, sed inhaerendo fit unus spiritus*, secundum illud I Cor. VI, *qui adhaeret Deo, unus spiritus est*.]]
 ![[CERF IIIa, q. 3, a. 6#ad 1]]
 
 ###### ad 2

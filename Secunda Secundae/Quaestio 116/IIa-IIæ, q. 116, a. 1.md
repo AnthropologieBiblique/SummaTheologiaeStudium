@@ -10,11 +10,11 @@ tags :
 ![[CERF IIa-IIæ, q. 116, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 116, a. 1#arg. 2|Praeterea, [[Pr 26]] dicitur, *homo iracundus incendit litem*. Sed iracundia opponitur mansuetudini. Ergo et lis, sive litigium.]]
+![[LEO IIa-IIæ, q. 116, a. 1#arg. 2|Praeterea, Prov. XXVI dicitur, *homo iracundus incendit litem*. Sed iracundia opponitur mansuetudini. Ergo et lis, sive litigium.]]
 ![[CERF IIa-IIæ, q. 116, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 116, a. 1#arg. 3|Praeterea, [[Jc 4]] dicitur, *unde bella et lites in vobis? Nonne ex concupiscentiis vestris, quae militant in membris vestris?* Sed sequi concupiscentias videtur opponi temperantiae. Ergo videtur quod litigium non opponatur amicitiae, sed temperantiae.]]
+![[LEO IIa-IIæ, q. 116, a. 1#arg. 3|Praeterea, Iac. IV dicitur, *unde bella et lites in vobis? Nonne ex concupiscentiis vestris, quae militant in membris vestris?* Sed sequi concupiscentias videtur opponi temperantiae. Ergo videtur quod litigium non opponatur amicitiae, sed temperantiae.]]
 ![[CERF IIa-IIæ, q. 116, a. 1#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 116, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 116, a. 1#ad 3|Ad tertium dicendum quod Iacobus loquitur ibi de concupiscentia secundum quod est generale malum, ex quo omnia vitia oriuntur, prout dicit Glossa [[Rm 7]], *bona est lex, quae, dum concupiscentiam prohibet, omne malum prohibet*.]]
+![[LEO IIa-IIæ, q. 116, a. 1#ad 3|Ad tertium dicendum quod Iacobus loquitur ibi de concupiscentia secundum quod est generale malum, ex quo omnia vitia oriuntur, prout dicit Glossa Rom. VII, *bona est lex, quae, dum concupiscentiam prohibet, omne malum prohibet*.]]
 ![[CERF IIa-IIæ, q. 116, a. 1#ad 3]]
 

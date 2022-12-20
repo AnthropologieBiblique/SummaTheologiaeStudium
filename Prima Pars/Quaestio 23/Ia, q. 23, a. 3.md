@@ -6,19 +6,19 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO Ia, q. 23, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Deus nullum hominem reprobet. Nullus enim reprobat quem diligit. Sed Deus omnem hominem diligit, secundum illud [[Sg 11]], *diligis omnia quae sunt, et nihil odisti eorum quae fecisti*. Ergo Deus nullum hominem reprobat.]]
+![[LEO Ia, q. 23, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod Deus nullum hominem reprobet. Nullus enim reprobat quem diligit. Sed Deus omnem hominem diligit, secundum illud Sap. XI, *diligis omnia quae sunt, et nihil odisti eorum quae fecisti*. Ergo Deus nullum hominem reprobat.]]
 ![[CERF Ia, q. 23, a. 3#arg. 1]]
 
 ###### arg. 2
-![[LEO Ia, q. 23, a. 3#arg. 2|Praeterea, si Deus aliquem hominem reprobat, oportet quod sic se habeat reprobatio ad reprobatos, sicut praedestinatio ad praedestinatos. Sed praedestinatio est causa salutis praedestinatorum. Ergo reprobatio erit causa perditionis reproborum. Hoc autem est falsum, dicitur enim [[Os 13]], *perditio tua, Israel, ex te est; tantummodo ex me auxilium tuum*. Non ergo Deus aliquem reprobat.]]
+![[LEO Ia, q. 23, a. 3#arg. 2|Praeterea, si Deus aliquem hominem reprobat, oportet quod sic se habeat reprobatio ad reprobatos, sicut praedestinatio ad praedestinatos. Sed praedestinatio est causa salutis praedestinatorum. Ergo reprobatio erit causa perditionis reproborum. Hoc autem est falsum, dicitur enim Osee XIII, *perditio tua, Israel, ex te est; tantummodo ex me auxilium tuum*. Non ergo Deus aliquem reprobat.]]
 ![[CERF Ia, q. 23, a. 3#arg. 2]]
 
 ###### arg. 3
-![[LEO Ia, q. 23, a. 3#arg. 3|Praeterea, nulli debet imputari quod vitare non potest. Sed si Deus aliquem reprobat, non potest vitare quin ipse pereat, dicitur enim [[Qo 7]], *considera opera Dei, quod nemo possit corrigere quem ipse despexerit*. Ergo non esset hominibus imputandum quod pereunt. Hoc autem est falsum. Non ergo Deus aliquem reprobat.]]
+![[LEO Ia, q. 23, a. 3#arg. 3|Praeterea, nulli debet imputari quod vitare non potest. Sed si Deus aliquem reprobat, non potest vitare quin ipse pereat, dicitur enim Eccle. VII, *considera opera Dei, quod nemo possit corrigere quem ipse despexerit*. Ergo non esset hominibus imputandum quod pereunt. Hoc autem est falsum. Non ergo Deus aliquem reprobat.]]
 ![[CERF Ia, q. 23, a. 3#arg. 3]]
 
 ###### s.c.
-![[LEO Ia, q. 23, a. 3#s.c.|Sed contra est quod dicitur [[Ml 1]], *Iacob dilexi, Esau autem odio habui*.]]
+![[LEO Ia, q. 23, a. 3#s.c.|Sed contra est quod dicitur Malach. I, *Iacob dilexi, Esau autem odio habui*.]]
 ![[CERF Ia, q. 23, a. 3#s.c.]]
 
 ###### resp.

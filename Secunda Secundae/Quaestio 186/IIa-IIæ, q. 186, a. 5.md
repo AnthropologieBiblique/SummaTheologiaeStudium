@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 186, a. 5#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 186, a. 5#arg. 2|Praeterea, obedientia proprie pertinere videtur ad eos qui debent regi sensu alieno, quod est indiscretorum. Sed apostolus dicit, ad [[He 5]], quod *perfectorum est solidus cibus, qui pro consuetudine exercitatos habent sensus ad discretionem boni et mali*. Ergo videtur quod obedientia non pertineat ad statum perfectorum.]]
+![[LEO IIa-IIæ, q. 186, a. 5#arg. 2|Praeterea, obedientia proprie pertinere videtur ad eos qui debent regi sensu alieno, quod est indiscretorum. Sed apostolus dicit, ad Heb. V, quod *perfectorum est solidus cibus, qui pro consuetudine exercitatos habent sensus ad discretionem boni et mali*. Ergo videtur quod obedientia non pertineat ad statum perfectorum.]]
 ![[CERF IIa-IIæ, q. 186, a. 5#arg. 2]]
 
 ###### arg. 3
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 186, a. 5#arg. 5]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 186, a. 5#s.c.|Sed contra, perfectio religionis maxime consistit in imitatione Christi, secundum illud [[Mt 19]], *si vis perfectus esse, vade et vende omnia quae habes et da pauperibus, et veni, sequere me*. Sed in Christo maxime commendatur obedientia, secundum illud Philip. II, factus est obediens usque ad mortem. Ergo videtur quod obedientia pertineat ad perfectionem religionis.]]
+![[LEO IIa-IIæ, q. 186, a. 5#s.c.|Sed contra, perfectio religionis maxime consistit in imitatione Christi, secundum illud Matth. XIX, *si vis perfectus esse, vade et vende omnia quae habes et da pauperibus, et veni, sequere me*. Sed in Christo maxime commendatur obedientia, secundum illud Philip. II, factus est obediens usque ad mortem. Ergo videtur quod obedientia pertineat ad perfectionem religionis.]]
 ![[CERF IIa-IIæ, q. 186, a. 5#s.c.]]
 
 ###### resp.

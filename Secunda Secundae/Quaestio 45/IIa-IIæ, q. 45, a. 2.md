@@ -10,7 +10,7 @@ tags :
 ![[CERF IIa-IIæ, q. 45, a. 2#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 45, a. 2#arg. 2|Praeterea, [[Si 6]] dicitur, *sapientia doctrinae secundum nomen eius est*. Dicitur autem sapientia quasi sapida scientia, quod videtur ad affectum pertinere, ad quem pertinet experiri spirituales delectationes sive dulcedines. Ergo sapientia non est in intellectu, sed magis in affectu.]]
+![[LEO IIa-IIæ, q. 45, a. 2#arg. 2|Praeterea, Eccli. VI dicitur, *sapientia doctrinae secundum nomen eius est*. Dicitur autem sapientia quasi sapida scientia, quod videtur ad affectum pertinere, ad quem pertinet experiri spirituales delectationes sive dulcedines. Ergo sapientia non est in intellectu, sed magis in affectu.]]
 ![[CERF IIa-IIæ, q. 45, a. 2#arg. 2]]
 
 ###### arg. 3

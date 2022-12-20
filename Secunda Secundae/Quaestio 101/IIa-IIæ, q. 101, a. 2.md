@@ -18,7 +18,7 @@ tags :
 ![[CERF IIa-IIæ, q. 101, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 101, a. 2#s.c.|Sed contra est quod dominus, [[Mt 15]], redarguit Pharisaeos quod impediebant filios ne parentibus sustentationem exhiberent.]]
+![[LEO IIa-IIæ, q. 101, a. 2#s.c.|Sed contra est quod dominus, Matth. XV, redarguit Pharisaeos quod impediebant filios ne parentibus sustentationem exhiberent.]]
 ![[CERF IIa-IIæ, q. 101, a. 2#s.c.]]
 
 ###### resp.
@@ -26,7 +26,7 @@ tags :
 ![[CERF IIa-IIæ, q. 101, a. 2#resp.]]
 
 ###### ad 1
-![[LEO IIa-IIæ, q. 101, a. 2#ad 1|Ad primum ergo dicendum quod in honoratione parentum intelligitur omnis subventio quae debet parentibus exhiberi, ut dominus interpretatur, [[Mt 15]]. Et hoc ideo, quia subventio fit patri ex debito, tanquam maiori.]]
+![[LEO IIa-IIæ, q. 101, a. 2#ad 1|Ad primum ergo dicendum quod in honoratione parentum intelligitur omnis subventio quae debet parentibus exhiberi, ut dominus interpretatur, Matth. XV. Et hoc ideo, quia subventio fit patri ex debito, tanquam maiori.]]
 ![[CERF IIa-IIæ, q. 101, a. 2#ad 1]]
 
 ###### ad 2

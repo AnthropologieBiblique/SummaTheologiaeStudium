@@ -6,7 +6,7 @@ tags :
 ### Articulus 2
 
 ###### arg. 1
-![[LEO IIIa, q. 66, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Baptismus fuerit institutus post Christi passionem. Causa enim praecedit effectum. Sed passio Christi operatur in sacramentis novae legis. Ergo passio Christi praecedit institutionem sacramentorum novae legis. Et praecipue institutionem Baptismi, cum apostolus dicat, [[Rm 6]], *quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus,* et cetera.]]
+![[LEO IIIa, q. 66, a. 2#arg. 1|Ad secundum sic proceditur. Videtur quod Baptismus fuerit institutus post Christi passionem. Causa enim praecedit effectum. Sed passio Christi operatur in sacramentis novae legis. Ergo passio Christi praecedit institutionem sacramentorum novae legis. Et praecipue institutionem Baptismi, cum apostolus dicat, Rom. VI, *quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus,* et cetera.]]
 ![[CERF IIIa, q. 66, a. 2#arg. 1]]
 
 ###### arg. 2
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIIa, q. 66, a. 2#ad 2]]
 
 ###### ad 3
-![[LEO IIIa, q. 66, a. 2#ad 3|Ad tertium dicendum quod sacramenta non sunt obligatoria nisi quando sub praecepto ponuntur. Quod quidem non fuit ante passionem, ut dictum est. Quod enim dominus ante passionem Nicodemo dixit, [[Jn 3]], *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*, magis videtur ad futurum respicere quam ad praesens tempus.]]
+![[LEO IIIa, q. 66, a. 2#ad 3|Ad tertium dicendum quod sacramenta non sunt obligatoria nisi quando sub praecepto ponuntur. Quod quidem non fuit ante passionem, ut dictum est. Quod enim dominus ante passionem Nicodemo dixit, Ioan. III, *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*, magis videtur ad futurum respicere quam ad praesens tempus.]]
 ![[CERF IIIa, q. 66, a. 2#ad 3]]
 

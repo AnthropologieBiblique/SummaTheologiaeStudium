@@ -18,7 +18,7 @@ tags :
 ![[CERF Ia-IIæ, q. 86, a. 2#arg. 3]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 86, a. 2#s.c.|Sed contra est quod dicitur [[Jos 22]], *an parum vobis est quod peccastis in Beelphegor, et usque in praesentem diem macula huius sceleris in vobis permanet?*]]
+![[LEO Ia-IIæ, q. 86, a. 2#s.c.|Sed contra est quod dicitur Iosue XXII, *an parum vobis est quod peccastis in Beelphegor, et usque in praesentem diem macula huius sceleris in vobis permanet?*]]
 ![[CERF Ia-IIæ, q. 86, a. 2#s.c.]]
 
 ###### resp.

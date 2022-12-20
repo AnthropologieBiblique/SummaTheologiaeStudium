@@ -14,11 +14,11 @@ tags :
 ![[CERF IIa-IIæ, q. 13, a. 4#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 13, a. 4#arg. 3|Praeterea, [[Qo 11]] dicitur quod *in quocumque loco lignum ceciderit, ibi erit*, ex quo patet quod post hanc vitam homini non accrescit nec meritum nec peccatum quod non habuit in hac vita. Sed multi damnabuntur qui in hac vita non fuerunt blasphemi. Ergo nec in futura vita blasphemabunt.]]
+![[LEO IIa-IIæ, q. 13, a. 4#arg. 3|Praeterea, Eccle. XI dicitur quod *in quocumque loco lignum ceciderit, ibi erit*, ex quo patet quod post hanc vitam homini non accrescit nec meritum nec peccatum quod non habuit in hac vita. Sed multi damnabuntur qui in hac vita non fuerunt blasphemi. Ergo nec in futura vita blasphemabunt.]]
 ![[CERF IIa-IIæ, q. 13, a. 4#arg. 3]]
 
 ###### s.c.
-![[LEO IIa-IIæ, q. 13, a. 4#s.c.|Sed contra est quod dicitur [[Ap 16]], *aestuaverunt homines aestu magno, et blasphemaverunt nomen domini habentis potestatem super has plagas*, ubi dicit Glossa quod *in Inferno positi, quamvis sciant se pro merito puniri, dolebunt tamen quod Deus tantam potentiam habeat quod plagas eis inferat*. Hoc autem esset blasphemia in praesenti. Ergo et in futuro.]]
+![[LEO IIa-IIæ, q. 13, a. 4#s.c.|Sed contra est quod dicitur Apoc. XVI, *aestuaverunt homines aestu magno, et blasphemaverunt nomen domini habentis potestatem super has plagas*, ubi dicit Glossa quod *in Inferno positi, quamvis sciant se pro merito puniri, dolebunt tamen quod Deus tantam potentiam habeat quod plagas eis inferat*. Hoc autem esset blasphemia in praesenti. Ergo et in futuro.]]
 ![[CERF IIa-IIæ, q. 13, a. 4#s.c.]]
 
 ###### resp.

@@ -6,15 +6,15 @@ tags :
 ### Articulus 1
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 112, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod iactantia non opponatur virtuti veritatis. Veritati enim opponitur mendacium. Sed quandoque potest esse iactantia etiam sine mendacio, sicut cum aliquis excellentiam suam ostentat, dicitur enim [[Est 1]], quod *Assuerus fecit grande convivium, ut ostenderet divitias gloriae suae ac regni sui, ac magnitudinem atque iactantiam potentiae suae*. Ergo iactantia non opponitur virtuti veritatis.]]
+![[LEO IIa-IIæ, q. 112, a. 1#arg. 1|Ad primum sic proceditur. Videtur quod iactantia non opponatur virtuti veritatis. Veritati enim opponitur mendacium. Sed quandoque potest esse iactantia etiam sine mendacio, sicut cum aliquis excellentiam suam ostentat, dicitur enim Esther I, quod *Assuerus fecit grande convivium, ut ostenderet divitias gloriae suae ac regni sui, ac magnitudinem atque iactantiam potentiae suae*. Ergo iactantia non opponitur virtuti veritatis.]]
 ![[CERF IIa-IIæ, q. 112, a. 1#arg. 1]]
 
 ###### arg. 2
-![[LEO IIa-IIæ, q. 112, a. 1#arg. 2|Praeterea, iactantia ponitur a Gregorio, XXIII Moral., una de quatuor speciebus superbiae, cum scilicet quis iactat se habere quod non habet. Unde dicitur [[Jr 48]], *audivimus superbiam Moab, superbus est valde. Sublimitatem eius et arrogantiam et superbiam et altitudinem cordis illius ego scio, ait dominus, iactantiam eius, et quod non sit iuxta eam virtus eius*. Et XXXI Moral., dicit Gregorius quod iactantia oritur ex inani gloria. Superbia autem et inanis gloria opponuntur virtuti humilitatis. Ergo iactantia non opponitur veritati, sed humilitati.]]
+![[LEO IIa-IIæ, q. 112, a. 1#arg. 2|Praeterea, iactantia ponitur a Gregorio, XXIII Moral., una de quatuor speciebus superbiae, cum scilicet quis iactat se habere quod non habet. Unde dicitur Ierem. XLVIII, *audivimus superbiam Moab, superbus est valde. Sublimitatem eius et arrogantiam et superbiam et altitudinem cordis illius ego scio, ait dominus, iactantiam eius, et quod non sit iuxta eam virtus eius*. Et XXXI Moral., dicit Gregorius quod iactantia oritur ex inani gloria. Superbia autem et inanis gloria opponuntur virtuti humilitatis. Ergo iactantia non opponitur veritati, sed humilitati.]]
 ![[CERF IIa-IIæ, q. 112, a. 1#arg. 2]]
 
 ###### arg. 3
-![[LEO IIa-IIæ, q. 112, a. 1#arg. 3|Praeterea, iactantia ex divitiis causari videtur, unde dicitur [[Sg 5]], *quid nobis profuit superbia? Aut quid divitiarum iactantia contulit nobis?* Sed superfluitas divitiarum videtur pertinere ad peccatum avaritiae, quod opponitur iustitiae vel liberalitati. Non ergo iactantia opponitur veritati.]]
+![[LEO IIa-IIæ, q. 112, a. 1#arg. 3|Praeterea, iactantia ex divitiis causari videtur, unde dicitur Sap. V, *quid nobis profuit superbia? Aut quid divitiarum iactantia contulit nobis?* Sed superfluitas divitiarum videtur pertinere ad peccatum avaritiae, quod opponitur iustitiae vel liberalitati. Non ergo iactantia opponitur veritati.]]
 ![[CERF IIa-IIæ, q. 112, a. 1#arg. 3]]
 
 ###### s.c.
@@ -34,6 +34,6 @@ tags :
 ![[CERF IIa-IIæ, q. 112, a. 1#ad 2]]
 
 ###### ad 3
-![[LEO IIa-IIæ, q. 112, a. 1#ad 3|Ad tertium dicendum quod opulentia etiam iactantiam causat dupliciter. Uno modo, occasionaliter, inquantum de divitiis aliquis superbit. Unde et signanter, [[Pr 8]], opes dicuntur superbae. Alio modo, per modum finis, quia, ut dicitur in IV Ethic., aliqui seipsos iactant non solum propter gloriam, sed etiam propter lucrum, qui de seipsis fingunt ea ex quibus lucrari possint, puta quod sint medici, vel sapientes et divini.]]
+![[LEO IIa-IIæ, q. 112, a. 1#ad 3|Ad tertium dicendum quod opulentia etiam iactantiam causat dupliciter. Uno modo, occasionaliter, inquantum de divitiis aliquis superbit. Unde et signanter, Prov. VIII, opes dicuntur superbae. Alio modo, per modum finis, quia, ut dicitur in IV Ethic., aliqui seipsos iactant non solum propter gloriam, sed etiam propter lucrum, qui de seipsis fingunt ea ex quibus lucrari possint, puta quod sint medici, vel sapientes et divini.]]
 ![[CERF IIa-IIæ, q. 112, a. 1#ad 3]]
 

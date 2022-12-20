@@ -6,7 +6,7 @@ tags :
 ### Articulus 3
 
 ###### arg. 1
-![[LEO IIa-IIæ, q. 182, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod vita contemplativa impediatur per activam. Ad vitam enim contemplativam necessaria est quaedam vacatio mentis, secundum illud Psalmi, vacate, et videte quoniam ego sum Deus. Sed vita activa habet inquietudinem, secundum illud [[Lc 10]], *Martha, Martha, sollicita es et turbaris erga plurima*. Ergo vita activa contemplativam impedit.]]
+![[LEO IIa-IIæ, q. 182, a. 3#arg. 1|Ad tertium sic proceditur. Videtur quod vita contemplativa impediatur per activam. Ad vitam enim contemplativam necessaria est quaedam vacatio mentis, secundum illud Psalmi, vacate, et videte quoniam ego sum Deus. Sed vita activa habet inquietudinem, secundum illud Luc. X, *Martha, Martha, sollicita es et turbaris erga plurima*. Ergo vita activa contemplativam impedit.]]
 ![[CERF IIa-IIæ, q. 182, a. 3#arg. 1]]
 
 ###### arg. 2
