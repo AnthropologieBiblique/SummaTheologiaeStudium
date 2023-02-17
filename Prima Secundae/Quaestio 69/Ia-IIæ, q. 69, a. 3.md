@@ -22,11 +22,7 @@ tags :
 ![[CERF Ia-IIæ, q. 69, a. 3#arg. 4]]
 
 ###### s.c.
-![[LEO Ia-IIæ, q. 69, a. 3#s.c.|Sed contra, videtur quod superflue enumerentur. Sunt enim septem dona spiritus sancti. Beatitudines autem tanguntur octo.]]
-![[CERF Ia-IIæ, q. 69, a. 3#s.c.]]
-
-###### s.c.
-![[LEO Ia-IIæ, q. 69, a. 3#s.c.|Praeterea, Luc. VI, ponuntur quatuor tantum beatitudines. Superflue ergo enumerantur septem, vel octo, in Matthaeo.]]
+![[LEO Ia-IIæ, q. 69, a. 3#s.c.|Sed contra, videtur quod superflue enumerentur. Sunt enim septem dona spiritus sancti. Beatitudines autem tanguntur octo. Praeterea, Lc 6, ponuntur quatuor tantum beatitudines. Superflue ergo enumerantur septem, vel octo, in Matthaeo.]]
 ![[CERF Ia-IIæ, q. 69, a. 3#s.c.]]
 
 ###### resp.
